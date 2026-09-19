@@ -71,3 +71,10 @@ if ("geolocation" in navigator) {
     radius: 150,
     story: "Built 1794 by General Anthony Wayne on the site of a Miami village called Kekionga. Three rivers meet here — the St. Marys, the St. Joseph, and the Maumee — which is why Wayne chose it."
   },
+  {
+    name: "Auburn",
+    lat: 41.3667,
+    lng: -85.0589,
+    radius: 150,
+    story: "Home of the Auburn Automobile Company, which built luxury cars from 1900 to 1937. The factory is now the Auburn Cord Duesenberg Automobile Museum — the only museum in the world dedicated to one marque."
+  },

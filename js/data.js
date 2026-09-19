@@ -45,3 +45,17 @@ AUBURN = {
         ]
     }
 }
+HICKSVILLE = {
+    "city": "Hicksville",
+    "state": "Ohio",
+    "order": 5,
+    "stories": {
+        "make_it": [
+            "Hicksville — founded 1835 by Henry W. Hicks, a land speculator from New York. He bought the land cheap, platted the town, and named it after himself. The village incorporated in 1851.",
+            "Wabash and Erie Canal — the canal reached Hicksville in the 1840s, bringing settlers and trade. The towpath is still visible in places along the St. Joseph River.",
+            "St. Joseph River — the river that gave the town its reason to exist. It powered early mills and carried grain to market before the railroads arrived.",
+            "Lake Erie and Western Railroad — the line through Hicksville connected it to Lima and Toledo. The old depot site is now a small park on Main Street.",
+            "Hicksville High School — the school's mascot is the Aces, a nod to the town's card-playing heritage. The original school building dates to 1910."
+        ]
+    }
+}

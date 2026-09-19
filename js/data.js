@@ -17,3 +17,18 @@ COLUMBUS = {
         ]
     }
 }
+FORT_WAYNE = {
+    "city": "Fort Wayne",
+    "state": "Indiana",
+    "order": 2,
+    "stories": {
+        "make_it": [
+            "Wabash and Erie Canal — completed 1853, the longest canal in North America at 468 miles. It connected the Great Lakes to the Ohio River and turned Fort Wayne from a frontier outpost into a shipping hub. Railroads killed it within twenty years.",
+            "Fort Wayne — built 1794 by General Anthony Wayne on the site of a Miami village called Kekionga, the capital of the Miami Confederacy. Wayne chose it because three rivers meet there: the St. Marys, the St. Joseph, and the Maumee.",
+            "Siege of Fort Wayne — September 1812, during the War of 1812. Shawnee leader Tecumseh's allies attacked the fort; Captain James Rhea held it until reinforcements arrived. The siege helped break the Native American alliance in the Northwest.",
+            "Pennsylvania Railroad shops — Fort Wayne became a major rail hub in the 1850s, with massive repair shops that employed thousands. The city was known as the 'Summit City' because it's the highest point on the Pennsylvania Railroad between Pittsburgh and Chicago.",
+            "Lincoln Highway — the first transcontinental highway in America, routed through Fort Wayne in 1913. It followed the old canal towpath in places, and the original brick pavement still survives on some side streets.",
+            "General Electric — founded in Fort Wayne in 1887 as the Fort Wayne Electric Light Company, it became one of the city's largest employers for over a century. The plant closed in 2015."
+        ]
+    }
+}

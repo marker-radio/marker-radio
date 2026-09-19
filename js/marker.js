@@ -64,3 +64,10 @@ if ("geolocation" in navigator) {
     maximumAge: 5000
   });
 }
+  {
+    name: "Fort Wayne",
+    lat: 41.0793,
+    lng: -85.1394,
+    radius: 150,
+    story: "Built 1794 by General Anthony Wayne on the site of a Miami village called Kekionga. Three rivers meet here — the St. Marys, the St. Joseph, and the Maumee — which is why Wayne chose it."
+  },

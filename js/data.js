@@ -32,3 +32,16 @@ FORT_WAYNE = {
         ]
     }
 }
+AUBURN = {
+    "city": "Auburn",
+    "state": "Indiana",
+    "order": 3,
+    "stories": {
+        "make_it": [
+            "Auburn Automobile Company — founded 1900, built luxury cars until 1937. The factory is now the Auburn Cord Duesenberg Automobile Museum, the only museum in the world dedicated to one marque.",
+            "Hoosier Hill — the highest natural point in Indiana at 1,257 feet, just north of Auburn. A small stone marker sits on County Road 850 North.",
+            "Wabash Railroad — the line through Auburn was part of the Wabash system, which connected the Great Lakes to the Mississippi. The depot still stands on North Main Street.",
+            "Auburn's brick streets — laid in the 1920s, some of the last original brick paving in Indiana. They were built to last a century, and they have."
+        ]
+    }
+}

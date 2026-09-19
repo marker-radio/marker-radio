@@ -62,7 +62,7 @@ const GREETINGS = [
 async function eveIntro() {
   if (introPlayed) return;
   introPlayed = true;
-  const line = GREETINGS ;
+  const line = GREETINGS[Math.floor(Math.random()*GREETINGS.length)];
   try {
     const res = await fetch("/.netlify/functions/speak", {
       method: "POST",

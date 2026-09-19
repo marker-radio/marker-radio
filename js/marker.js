@@ -1,45 +1,66 @@
 const MARKERS = [
   {
-    name: "Ohio Statehouse",
+    name: "Columbus",
     lat: 39.9612,
     lng: -82.9988,
-    radius: 150,
-    story: "Greek Revival capitol completed in 1861, built largely by convict labor from the Ohio Penitentiary. The cornerstone was laid in 1839 by Governor Vance."
+    radius: 1500,
+    story: "Ohio Statehouse — Greek Revival capitol completed in 1861 after 22 years of construction. The cornerstone was laid July 4, 1839, and much of the stonework was done by convict labor from the Ohio Penitentiary. It's a National Historic Landmark."
   },
   {
     name: "Camp Chase",
     lat: 39.9450,
     lng: -83.0450,
-    radius: 150,
-    story: "Union training and prison camp established 1861 on the west side. Held up to 9,000 Confederate prisoners; the cemetery still stands at 2900 Sullivant Avenue."
+    radius: 800,
+    story: "Camp Chase Confederate Cemetery — 2900 Sullivant Avenue. A Union training camp that became a prison for Confederate soldiers; more than 2,200 are buried here. The cemetery is all that remains of the camp."
   },
   {
     name: "Ohio Penitentiary",
     lat: 39.9650,
     lng: -83.0050,
-    radius: 150,
-    story: "Opened 1834 on Spring Street, housed over 150,000 inmates including the Sultana disaster survivors and Dr. Sam Sheppard. Demolished 1998; the site is now a parking garage."
+    radius: 600,
+    story: "Ohio Penitentiary — stood on Spring Street from 1834 to 1984, now the Arena District. Held over 5,000 inmates at its peak, including Sam Sheppard and O. Henry. The 1930 fire killed 322 prisoners — the deadliest prison fire in U.S. history. Demolished in 1998."
   },
   {
     name: "Fort Wayne",
     lat: 41.0793,
     lng: -85.1394,
-    radius: 150,
-    story: "Built 1794 by General Anthony Wayne on the site of a Miami village called Kekionga. Three rivers meet here — the St. Marys, the St. Joseph, and the Maumee — which is why Wayne chose it."
+    radius: 2000,
+    story: "Wabash and Erie Canal — the longest canal ever built in North America, 468 miles. Construction began here in 1832 because Fort Wayne sits at the highest point on the route, earning the nickname Summit City. The canal made the town a boomtown before railroads killed it."
+  },
+  {
+    name: "Johnny Appleseed Grave",
+    lat: 41.11197,
+    lng: -85.12288,
+    radius: 300,
+    story: "Johnny Appleseed — John Chapman, 1774 to 1845. He spent his last years planting orchards around Fort Wayne and is buried in Johnny Appleseed Park on Parnell Avenue. The stone reads: He lived for others."
+  },
+  {
+    name: "Philo Farnsworth House",
+    lat: 41.0936,
+    lng: -85.1286,
+    radius: 300,
+    story: "Philo T. Farnsworth — inventor of electronic television. From 1939 he ran the Farnsworth Television and Radio Corporation in the old Capehart factory here, mass-producing the first televisions. He lived at 734 East State Boulevard; an Indiana state marker marks the house."
   },
   {
     name: "Auburn",
     lat: 41.3667,
     lng: -85.0589,
-    radius: 150,
-    story: "Home of the Auburn Automobile Company, which built luxury cars from 1900 to 1937. The factory is now the Auburn Cord Duesenberg Automobile Museum — the only museum in the world dedicated to one marque."
+    radius: 1500,
+    story: "Auburn Automobile Company — founded 1900, built luxury cars until 1937. The factory is now the Auburn Cord Duesenberg Automobile Museum, a National Historic Landmark and the only museum in the world dedicated to one marque."
   },
   {
     name: "Hicksville",
     lat: 41.2931,
     lng: -84.7630,
     radius: 1200,
-    story: "Founded 1835 by Henry W. Hicks, a land speculator from New York who bought the land cheap, platted the town, and named it after himself. The village incorporated in 1851."
+    story: "Hicksville — platted in 1835 by the Hicks Land Company of New York, led by Henry W. Hicks, who named the town after himself. A post office has run here since 1838, and the village was incorporated in 1871."
+  },
+  {
+    name: "St. Paul's Church",
+    lat: 41.2935,
+    lng: -84.7635,
+    radius: 200,
+    story: "St. Paul's Episcopal Church — built 1875 on West High Street, donated by A.P. Edgerton. A historical marker stands beside it. The Hicksville Historical Society rescued it from demolition in the 1970s; it's on the National Register of Historic Places."
   }
 ];
 

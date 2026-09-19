@@ -1,1 +1,1 @@
-
+console.log("markers loaded");

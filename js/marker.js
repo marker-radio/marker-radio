@@ -8,16 +8,16 @@ const MARKERS = [
   },
   {
     name: "Camp Chase",
-    lat: 39.9450,
-    lng: -83.0450,
-    radius: 800,
+    lat: 39.9438,
+    lng: -83.0760,
+    radius: 400,
     story: "Camp Chase Confederate Cemetery — 2900 Sullivant Avenue. A Union training camp that became a prison for Confederate soldiers; more than 2,200 are buried here. The cemetery is all that remains of the camp."
   },
   {
     name: "Ohio Penitentiary",
-    lat: 39.9650,
-    lng: -83.0050,
-    radius: 600,
+    lat: 39.9694,
+    lng: -83.0067,
+    radius: 400,
     story: "Ohio Penitentiary — stood on Spring Street from 1834 to 1984, now the Arena District. Held over 5,000 inmates at its peak, including Sam Sheppard and O. Henry. The 1930 fire killed 322 prisoners — the deadliest prison fire in U.S. history. Demolished in 1998."
   },
   {
@@ -31,14 +31,14 @@ const MARKERS = [
     name: "Johnny Appleseed Grave",
     lat: 41.11197,
     lng: -85.12288,
-    radius: 300,
+    radius: 250,
     story: "Johnny Appleseed — John Chapman, 1774 to 1845. He spent his last years planting orchards around Fort Wayne and is buried in Johnny Appleseed Park on Parnell Avenue. The stone reads: He lived for others."
   },
   {
     name: "Philo Farnsworth House",
     lat: 41.0936,
     lng: -85.1286,
-    radius: 300,
+    radius: 250,
     story: "Philo T. Farnsworth — inventor of electronic television. From 1939 he ran the Farnsworth Television and Radio Corporation in the old Capehart factory here, mass-producing the first televisions. He lived at 734 East State Boulevard; an Indiana state marker marks the house."
   },
   {
@@ -50,21 +50,22 @@ const MARKERS = [
   },
   {
     name: "Hicksville",
-    lat: 41.2931,
-    lng: -84.7630,
+    lat: 41.2958,
+    lng: -84.7592,
     radius: 1200,
     story: "Hicksville — platted in 1835 by the Hicks Land Company of New York, led by Henry W. Hicks, who named the town after himself. A post office has run here since 1838, and the village was incorporated in 1871."
   },
   {
     name: "St. Paul's Church",
-    lat: 41.2935,
-    lng: -84.7635,
-    radius: 200,
-    story: "St. Paul's Episcopal Church — built 1875 on West High Street, donated by A.P. Edgerton. A historical marker stands beside it. The Hicksville Historical Society rescued it from demolition in the 1970s; it's on the National Register of Historic Places."
+    lat: 41.2923,
+    lng: -84.7636,
+    radius: 180,
+    story: "St. Paul's Episcopal Church — built in 1875 on West High Street and donated by A.P. Edgerton. A historical marker stands beside it. The Hicksville Historical Society rescued the church from demolition in the 1970s. It is on the National Register of Historic Places."
   }
 ];
 
-let lastSpoken = null;
+const spoken = new Set();
+let speaking = false;
 
 function distanceMeters(lat1, lng1, lat2, lng2) {
   const R = 6371000;
@@ -78,26 +79,27 @@ function distanceMeters(lat1, lng1, lat2, lng2) {
 }
 
 function speak(text) {
-  if ("speechSynthesis" in window) {
-    speechSynthesis.cancel();
-    const u = new SpeechSynthesisUtterance(text);
-    u.rate = 0.95;
-    speechSynthesis.speak(u);
-  }
+  if (!("speechSynthesis" in window) || speaking) return;
+  speaking = true;
+  speechSynthesis.cancel();
+  const u = new SpeechSynthesisUtterance(text);
+  u.rate = 0.95;
+  u.onend = () => { speaking = false; };
+  u.onerror = () => { speaking = false; };
+  speechSynthesis.speak(u);
 }
 
 function checkLocation(pos) {
   const { latitude, longitude } = pos.coords;
-  for (const m of MARKERS) {
-    if (distanceMeters(latitude, longitude, m.lat, m.lng) <= m.radius) {
-      if (lastSpoken !== m.name) {
-        lastSpoken = m.name;
-        speak(m.story);
-      }
-      return;
-    }
+  const hits = MARKERS
+    .map(m => ({ m, d: distanceMeters(latitude, longitude, m.lat, m.lng) }))
+    .filter(x => x.d <= x.m.radius && !spoken.has(x.m.name))
+    .sort((a, b) => a.m.radius - b.m.radius || a.d - b.d);
+
+  if (hits.length && !speaking) {
+    spoken.add(hits[0].m.name);
+    speak(hits[0].m.story);
   }
-  lastSpoken = null;
 }
 
 window.startMarkerRadio = function (gpsEl) {
@@ -120,4 +122,5 @@ window.startMarkerRadio = function (gpsEl) {
     { enableHighAccuracy: true, maximumAge: 2000, timeout: 10000 }
   );
 };
+
 

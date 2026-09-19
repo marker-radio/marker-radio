@@ -78,3 +78,10 @@ if ("geolocation" in navigator) {
     radius: 150,
     story: "Home of the Auburn Automobile Company, which built luxury cars from 1900 to 1937. The factory is now the Auburn Cord Duesenberg Automobile Museum — the only museum in the world dedicated to one marque."
   },
+  {
+    name: "Hicksville",
+    lat: 41.2931,
+    lng: -84.7630,
+    radius: 150,
+    story: "Founded 1835 by Henry W. Hicks, a land speculator from New York who bought the land cheap, platted the town, and named it after himself. The village incorporated in 1851."
+  },

@@ -860,6 +860,122 @@ const STORIES = [
     long: "",
     names: ["Columbus Rail Yards", "Union Station", "Pennsylvania Railroad", "Baltimore and Ohio", "New York Central"]
   }
-
+  {
+    id: "columbus-short-north-galleries",
+    name: "Short North Galleries",
+    lat: 39.9760,
+    lng: -83.0045,
+    radius: 400,
+    short: "The Short North gallery row — over a hundred artists and studios packed into a few blocks of High Street. The Columbus College of Art and Design anchors it, founded in eighteen eighty-three as the Columbus Art School. The rainbow poles were painted in nineteen eighty-four by local artists to mark the district. It is the densest concentration of working artists in Ohio.",
+    long: "",
+    names: },
+  {
+    id: "columbus-gcac",
+    name: "Greater Columbus Arts Council",
+    lat: 39.9650,
+    lng: -83.0000,
+    radius: 300,
+    short: "The Greater Columbus Arts Council — founded in nineteen seventy-three, one of the first municipal arts agencies in the country. It funds public art, runs the Jazz and Ribs Festival, and manages the percent-for-art program that puts sculpture in every new city building. Columbus spends more per capita on public art than almost any city its size.",
+    long: "",
+    names: ["Greater Columbus Arts Council", "Jazz and Ribs Festival", "Percent for Art"]
+  },
+  {
+    id: "columbus-jazz-arts-group",
+    name: "Jazz Arts Group",
+    lat: 39.9650,
+    lng: -83.0000,
+    radius: 300,
+    short: "The Jazz Arts Group — Columbus's professional jazz ensemble, founded in nineteen sixty-two by Ray Eubanks. It is one of the oldest continuously operating jazz organizations in the country. Eubanks led it for over fifty years. The group still performs at the Lincoln Theatre on East Long Street, a restored nineteen twenties vaudeville house.",
+    long: "",
+    names: },
+  {
+    id: "columbus-lincoln-theatre",
+    name: "Lincoln Theatre",
+    lat: 39.9680,
+    lng: -82.9980,
+    radius: 200,
+    short: "The Lincoln Theatre on East Long Street — opened in nineteen twenty-eight as a vaudeville and movie house for Columbus's Black community. It hosted Duke Ellington, Cab Calloway, and Ella Fitzgerald during the era when Black performers were barred from downtown stages. Restored in two thousand eight, it is now the home of the Jazz Arts Group and a National Register landmark.",
+    long: "",
+    names: ["Lincoln Theatre", "Duke Ellington", "Cab Calloway", "Ella Fitzgerald"]
+  },
+  {
+    id: "columbus-king-arts",
+    name: "King Arts Complex",
+    lat: 39.9550,
+    lng: -82.9850,
+    radius: 300,
+    short: "The King Arts Complex on Mount Vernon Avenue — named for Dr. Martin Luther King Jr., opened in nineteen eighty-seven in a restored nineteen twenties church. It is the cultural anchor of the King-Lincoln District, the heart of Columbus's Black community for over a century. The district was once home to the city's first Black-owned businesses, newspapers, and churches.",
+    long: "",
+    names: ["King Arts Complex", "Martin Luther King Jr.", "King-Lincoln District", "Mount Vernon Avenue"]
+  },
+  {
+    id: "columbus-hanford",
+    name: "Hanford Village",
+    lat: 39.9200,
+    lng: -82.9500,
+    radius: 400,
+    short: "Hanford Village — a living history museum on the east side, built around a relocated eighteen thirties log cabin and a one-room schoolhouse. It shows pioneer life in Central Ohio before the capital. The village includes a blacksmith shop, a general store, and a doctor's office, all furnished with period tools. It is run by volunteers and open on weekends.",
+    long: "",
+    names: ["Hanford Village", "Pioneer Life", "Log Cabin"]
+  },
+  {
+    id: "columbus-pickle-bill",
+    name: "The Pickle Bill",
+    lat: 39.9650,
+    lng: -83.0000,
+    radius: 200,
+    short: "The Pickle Bill — Columbus's oldest continuously operating restaurant, opened in nineteen forty-nine on East Broad Street. It started as a hot dog stand and grew into a Columbus institution. The name comes from the owner's habit of giving free pickles to customers. It is still family-owned and still serves the same chili dogs.",
+    long: "",
+    names: },
+  {
+    id: "columbus-jeno",
+    name: "Jeno's Pizza",
+    lat: 39.9600,
+    lng: -83.0000,
+    radius: 300,
+    short: "Jeno's Pizza — founded by Jeno Paulucci, the same man who invented Chun King and the pizza roll. He opened his first pizza restaurant in Columbus in nineteen sixty-two. The chain grew to over two hundred locations before he sold it. Paulucci also founded the city of Sanford, Florida, and was a major donor to the University of Minnesota.",
+    long: "",
+    names: ["Jeno Paulucci", "Jeno's Pizza", "Chun King", "Pizza Roll"]
+  },
+  {
+    id: "columbus-wendys",
+    name: "Wendy's",
+    lat: 39.9500,
+    lng: -83.0000,
+    radius: 500,
+    short: "Wendy's — founded by Dave Thomas in Columbus in nineteen sixty-nine. The first restaurant opened on East Broad Street, named for his daughter Melinda, who went by Wendy. Thomas started as a Kentucky Fried Chicken operator and built the square-hamburger chain into a national brand. His statue still stands outside the original location.",
+    long: "",
+    names: ["Wendy's", "Dave Thomas", "Melinda Lou Thomas", "East Broad Street"]
+  },
+  {
+    id: "columbus-bob-evans",
+    name: "Bob Evans",
+    lat: 39.9500,
+    lng: -83.0000,
+    radius: 500,
+    short: "Bob Evans — founded by Bob Evans in Rio Grande, Ohio, in nineteen forty-eight, but the company moved its headquarters to Columbus in nineteen seventy-two. Evans started as a butcher selling sausage from his farm, then opened a restaurant. The chain grew to over five hundred locations. Evans died in two thousand seven, but the farm in Rio Grande is still a museum.",
+    long: "",
+    names: ["Bob Evans", "Rio Grande", "Sausage", "Bob Evans Farm"]
+  },
+  {
+    id: "columbus-kroger",
+    name: "Kroger",
+    lat: 39.9500,
+    lng: -83.0000,
+    radius: 500,
+    short: "Kroger — founded by Bernard Kroger in Cincinnati in eighteen eighty-three, but Columbus became its home. The company moved its headquarters here in nineteen seventy-two and built its largest distribution center on the north side. Kroger is now the largest supermarket chain in the country by revenue, and Columbus is its operational heart.",
+    long: "",
+    names: ["Kroger", "Bernard Kroger", "Cincinnati", "Distribution Center"]
+  },
+  {
+    id: "columbus-honda",
+    name: "Honda East Liberty",
+    lat: 40.2500,
+    lng: -83.0000,
+    radius: 1000,
+    short: "Honda's East Liberty plant — opened in nineteen eighty-five, the first Honda plant outside Japan to build cars for the American market. It produces the Civic, the Acura TLX, and the Acura Integra. Over four thousand workers, three shifts, and a museum on site. It turned a small Ohio town into a Japanese-American manufacturing hub.",
+    long: "",
+    names: ["Honda", "East Liberty", "Civic", "Acura TLX", "Acura Integra"]
+  }
 ];
 

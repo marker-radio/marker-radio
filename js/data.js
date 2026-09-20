@@ -1064,6 +1064,135 @@ const STORIES = [
     lng: -83.0305,
     radius: 800,
     short: "Jesse Owens trained
+id: "columbus-jesse-owens",
+    name: "Jesse Owens",
+    lat: 40.0094,
+    lng: -83.0253,
+    radius: 500,
+    short: "Jesse Owens ran for Ohio State. On May twenty-fifth, nineteen thirty-five, in one afternoon at Michigan, he broke three world records and tied a fourth. The next year in Berlin he won four gold medals in front of Hitler. The track stadium on the east side of the Horseshoe carries his name. Cleveland raised him. This campus made him the fastest man alive.",
+    long: "",
+    names: ["Jesse Owens", "Ohio State University", "Jesse Owens Memorial Stadium", "Berlin 1936"]
+  },
+  {
+    id: "columbus-fort-hayes",
+    name: "Fort Hayes",
+    lat: 39.9740,
+    lng: -82.9880,
+    radius: 500,
+    short: "Fort Hayes began as the Columbus Arsenal in the Civil War. Captain T.C. Bradford built the shot tower in eighteen sixty-four on land bought from the Neil family. The post became Columbus Barracks, then Fort Hayes in nineteen twenty-two, named for President Rutherford B. Hayes. It inducted men for two world wars and Korea. The army left. The shot tower and four original buildings now sit inside a public school.",
+    long: "",
+    names: ["Fort Hayes", "Columbus Arsenal", "Columbus Barracks", "Rutherford B. Hayes", "Shot Tower"]
+  },
+  {
+    id: "columbus-shrum-mound",
+    name: "Shrum Mound",
+    lat: 39.9900,
+    lng: -83.0806,
+    radius: 250,
+    short: "Shrum Mound stands twenty feet high on a bluff above the Scioto at Campbell Park. The Adena built this cone about two thousand years ago. It is one of the last burial mounds left inside the city. The High Street mound was leveled for bricks. This one survived on the Shrum farm, then was given to the state by Governor James E. Campbell. National Register, nineteen seventy.",
+    long: "",
+    names: ["Shrum Mound", "Adena", "Campbell Park", "James E. Campbell", "Scioto River"]
+  },
+  {
+    id: "columbus-nvmm",
+    name: "National Veterans Memorial",
+    lat: 39.9610,
+    lng: -83.0035,
+    radius: 300,
+    short: "The National Veterans Memorial and Museum sits on the west bank of the Scioto, where the Franklin County Veterans Memorial stood from nineteen fifty-five. John Glenn pushed the new building. Congress named it national in twenty eighteen. Colin Powell spoke at the opening. It is the only museum Congress set aside for veterans of every war and every branch, not for the battles themselves.",
+    long: "",
+    names: ["National Veterans Memorial and Museum", "John Glenn", "Franklin County Veterans Memorial", "Colin Powell"]
+  },
+  {
+    id: "columbus-green-lawn",
+    name: "Green Lawn Cemetery",
+    lat: 39.9403,
+    lng: -83.0325,
+    radius: 600,
+    short: "Green Lawn opened in eighteen forty-nine on the south side. Three hundred sixty acres. Lucas Sullivant, who laid out Franklinton, is buried here. So are Eddie Rickenbacker, James Thurber, Governor James Rhodes, and Gordon Battelle. Five Ohio governors. Five Medal of Honor graves. When the city moved the old Franklinton cemetery, this is where the founders came to rest.",
+    long: "",
+    names: ["Green Lawn Cemetery", "Lucas Sullivant", "Eddie Rickenbacker", "James Thurber", "James A. Rhodes", "Gordon Battelle"]
+  },
+  {
+    id: "columbus-ohio-theatre",
+    name: "Ohio Theatre",
+    lat: 39.9599,
+    lng: -82.9989,
+    radius: 200,
+    short: "The Ohio Theatre opened March seventeenth, nineteen twenty-eight, as Loew's Ohio. Thomas W. Lamb designed the Spanish Baroque house on the old City Hall lot. First picture: Greta Garbo in The Divine Woman. It was nearly wrecked in nineteen sixty-nine. Locals bought it, restored it, and made it the official theatre of the state. National Historic Landmark. The Robert Morton organ still plays.",
+    long: "",
+    names: ["Ohio Theatre", "Thomas W. Lamb", "Loew's Ohio", "Columbus Association for the Performing Arts"]
+  },
+  {
+    id: "columbus-cosi",
+    name: "COSI",
+    lat: 39.9618,
+    lng: -83.0073,
+    radius: 350,
+    short: "COSI opened Easter Sunday, nineteen sixty-four, in Memorial Hall on East Broad. Sandy Hallock brought the idea home from Chicago. In nineteen ninety-nine the museum moved into the old Central High School on the Scioto, keeping the nineteen twenty-four facade and wrapping a new building around it. Central High's last class walked out. The science center walked in.",
+    long: "",
+    names: ["COSI", "Center of Science and Industry", "Central High School", "Sanford Hallock", "Memorial Hall"]
+  },
+  {
+    id: "columbus-battelle",
+    name: "Battelle",
+    lat: 40.0078,
+    lng: -83.0185,
+    radius: 400,
+    short: "Gordon Battelle died in Columbus in nineteen twenty-three at forty, after an appendectomy. His will, and then his mother's, built Battelle Memorial Institute on King Avenue. The lab opened in nineteen twenty-nine. Xerography, the barcode, fuel for the first nuclear submarine — work that started in this city. Battelle still runs from this campus and manages national laboratories for the country.",
+    long: "",
+    names: ["Battelle Memorial Institute", "Gordon Battelle", "King Avenue"]
+  },
+  {
+    id: "columbus-hanford-village",
+    name: "Hanford Village",
+    lat: 39.9475,
+    lng: -82.9330,
+    radius: 500,
+    short: "Hanford Village sat on the east side by Alum Creek. Black families built it after the Great Migration. In nineteen forty-six the Carver Addition sold Cape Cods to returning veterans, including Tuskegee Airmen from Lockbourne. In the nineteen sixties Interstate Seventy cut the streets in half and took about sixty houses. A state marker remembers the village the highway split.",
+    long: "",
+    names: ["Hanford Village", "George Washington Carver Addition", "Tuskegee Airmen", "Lockbourne", "Interstate 70"]
+  },
+  {
+    id: "columbus-poindexter-village",
+    name: "Poindexter Village",
+    lat: 39.9695,
+    lng: -82.9730,
+    radius: 400,
+    short: "Poindexter Village opened October twelfth, nineteen forty, with Franklin Roosevelt on the grounds. Four hundred units. One of the first public housing projects in the country, built for Black Columbus on the old Blackberry Patch. Named for James Preston Poindexter — preacher, Underground Railroad worker, first Black man elected to city council. Two of the original buildings remain for a museum.",
+    long: "",
+    names: ["Poindexter Village", "James Preston Poindexter", "Franklin D. Roosevelt", "Blackberry Patch"]
+  },
+  {
+    id: "columbus-jeffrey",
+    name: "Jeffrey Manufacturing",
+    lat: 39.9845,
+    lng: -82.9930,
+    radius: 400,
+    short: "Joseph Jeffrey backed Francis Lechner's coal cutter and put the factory on East First Avenue in Milo-Grogan. America's first practical powered mining machine came off this floor. Then locomotives, conveyors, crushers. By mid-century Jeffrey was the largest employer in Columbus — more than seven thousand jobs. The machines that dug Ohio coal were built a few blocks north of downtown.",
+    long: "",
+    names: ["Jeffrey Manufacturing Company", "Joseph Jeffrey", "Francis Lechner", "Milo-Grogan"]
+  },
+  {
+    id: "columbus-school-for-the-blind",
+    name: "Ohio State School for the Blind",
+    lat: 39.9572,
+    lng: -82.9805,
+    radius: 300,
+    short: "Ohio opened the first public school for the blind in the United States here in eighteen thirty-seven. Eleven students the first year. The big eighteen seventy-four campus rose in what is now Olde Towne East. In nineteen fifty-three the school moved north on High Street. The old grounds became part of the neighborhood. The work did not stop. It just changed streets.",
+    long: "",
+    names: ["Ohio State School for the Blind", "Ohio Institution for the Education of the Blind", "Olde Towne East"]
+  },
+  {
+    id: "columbus-hilltop-national-road",
+    name: "The Hilltop and the National Road",
+    lat: 39.9535,
+    lng: -83.0700,
+    radius: 800,
+    short: "West Broad Street is the National Road — the federal highway Congress pushed west in the eighteen hundreds. The Hilltop grew along that ridge above Franklinton. Camp Chase sat on this ground. Streetcars climbed the hill. The road is now Route Forty, but the grade is the same one wagons used when Columbus was still a new capital on the Scioto.",
+    long: "",
+    names: ["National Road", "Hilltop", "West Broad Street", "Route 40", "Camp Chase"]
+  },
 
 ];
 

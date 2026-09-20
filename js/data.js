@@ -1313,6 +1313,726 @@ id: "columbus-jesse-owens",
     long: "",
     names: ["National Veterans Memorial and Museum", "Scioto River", "Camp Chase", "Fort Hayes", "Eddie Rickenbacker"]
   },
+  {
+    id: "ohio-history-center",
+    name: "Ohio History Center",
+    lat: 40.0049,
+    lng: -82.9874,
+    radius: 450,
+    short: "Off Seventeenth Avenue, beside the fairgrounds, the Ohio History Center is the state's attic. The Ohio History Connection moved its museum here in nineteen seventy. The Brutalist building holds the state archives and the objects that explain how Ohio was made. Next door is Ohio Village, a rebuilt nineteenth century town. If a county marker sent you looking for the longer story, this is where the paper trail lives.",
+    long: "",
+    names: ["Ohio History Center", "Ohio History Connection", "Ohio Village"]
+  },
+  {
+    id: "cosi-central-high",
+    name: "COSI and Central High School",
+    lat: 39.9597,
+    lng: -83.0064,
+    radius: 400,
+    short: "The science museum on the Scioto sits inside old Central High School. Central opened on this riverbank as the city's public high school. The building went on the National Register in nineteen eighty five. COSI moved here from East Broad. The classroom block still reads as a school. The river side is new. You are looking at a civic building that changed jobs without leaving the water.",
+    long: "",
+    names: ["COSI", "Central High School", "Scioto River"]
+  },
+  {
+    id: "franklin-park-conservatory",
+    name: "Franklin Park Conservatory",
+    lat: 39.9658,
+    lng: -82.9531,
+    radius: 400,
+    short: "Franklin Park Conservatory stands on East Broad in what was once the Franklin County Fairgrounds. The glasshouse opened in eighteen ninety five, after Columbus studied the World's Columbian Exposition in Chicago. The park around it is older public land. The conservatory is on the National Register. For more than a century this has been the city's formal garden on the National Road side of town.",
+    long: "",
+    names: ["Franklin Park Conservatory", "Franklin Park", "National Road"]
+  },
+  {
+    id: "kelton-house",
+    name: "Kelton House",
+    lat: 39.9609,
+    lng: -82.9862,
+    radius: 250,
+    short: "Five eighty six East Town Street. The Kelton House was a stop on the Underground Railroad. Fernando and Sophia Kelton built the brick Italianate home in eighteen fifty two. Family tradition and later research say they hid freedom seekers here on the Near East Side. The house is a museum now. Town Street was a path out of the river city toward the old National Road and the free states beyond.",
+    long: "",
+    names: ["Kelton House", "Fernando Kelton", "Sophia Kelton", "Underground Railroad"]
+  },
+  {
+    id: "poindexter-village",
+    name: "Poindexter Village",
+    lat: 39.9694,
+    lng: -82.9738,
+    radius: 450,
+    short: "Poindexter Village opened in nineteen forty as Columbus's first public housing. It was named for Reverend James Poindexter, a Black pastor, councilman, and barber who pushed the city to treat its east side as part of the civic whole. The brick rows stood in the King Lincoln area when federal housing was new. Most of the original buildings are gone. A museum and a few surviving units keep the name on the ground.",
+    long: "",
+    names: ["Poindexter Village", "James Poindexter", "King Lincoln Bronzeville"]
+  },
+  {
+    id: "hanford-village",
+    name: "Hanford Village",
+    lat: 39.9506,
+    lng: -82.9461,
+    radius: 500,
+    short: "Hanford Village was built for Black veterans coming home from World War Two. The George Washington Carver Addition went on the National Register for that story. Then Interstate Seventy was cut through the neighborhood and split it. Families lost streets and a park to the highway. What remains is a small historic district and a hard lesson about who paid when Columbus built its east side roads.",
+    long: "",
+    names: ["Hanford Village", "George Washington Carver Addition", "Interstate 70"]
+  },
+  {
+    id: "ohio-penitentiary",
+    name: "Ohio Penitentiary site",
+    lat: 39.9676,
+    lng: -83.0083,
+    radius: 400,
+    short: "The Arena District sits on the Ohio Penitentiary. The prison opened in eighteen thirty four and ran until nineteen eighty four. John Hunt Morgan tunneled out during the Civil War. O. Henry and Sam Sheppard were held here. A fire in nineteen thirty killed three hundred twenty two men. The walls came down in the nineteen nineties. Nationwide Boulevard and the arena cover the old yard.",
+    long: "",
+    names: ["Ohio Penitentiary", "John Hunt Morgan", "O. Henry", "Sam Sheppard", "Arena District"]
+  },
+  {
+    id: "goodale-park",
+    name: "Goodale Park",
+    lat: 39.9750,
+    lng: -83.0069,
+    radius: 450,
+    short: "Goodale Park is one of the oldest city parks in the country. Doctor Lincoln Goodale donated the land in eighteen fifty one and wrote that it must stay a public pleasure ground forever. In the Civil War it was Camp Jackson, a staging field for Union troops. Victorian Village grew around the trees. The deed still governs the grass. That is why the park is still here.",
+    long: "",
+    names: ["Goodale Park", "Lincoln Goodale", "Camp Jackson", "Victorian Village"]
+  },
+  {
+    id: "topiary-park",
+    name: "Topiary Park",
+    lat: 39.9611,
+    lng: -82.9876,
+    radius: 300,
+    short: "Topiary Park is Old Deaf School Park. Ohio opened a school for deaf students in eighteen twenty nine and later built a campus on East Town Street. The school moved north in the nineteen fifties. Fire took the old main building. The grounds became a park whose hedges copy Seurat's Sunday Afternoon painting. The site is both a state school story and a garden laid on top of it.",
+    long: "",
+    names: ["Topiary Park", "Ohio School for the Deaf", "Old Deaf School Park"]
+  },
+  {
+    id: "ohio-theatre",
+    name: "Ohio Theatre",
+    lat: 39.9597,
+    lng: -82.9994,
+    radius: 250,
+    short: "The Ohio Theatre opened on State Street in nineteen twenty eight as a Loew's movie palace. Architect Thomas Lamb wrapped the auditorium in Spanish Baroque plaster. In the nineteen sixties it was headed for a parking lot. Civic leaders bought it and made it the home of the Columbus Symphony. It sits on the National Register, a palace that survived because people refused to let downtown go quiet.",
+    long: "",
+    names: ["Ohio Theatre", "Thomas Lamb", "Loew's", "Columbus Symphony"]
+  },
+  {
+    id: "battelle",
+    name: "Battelle Memorial Institute",
+    lat: 39.9903,
+    lng: -83.0194,
+    radius: 400,
+    short: "Battelle sits on King Avenue because of a will. Gordon Battelle was a Columbus industrialist. He died in nineteen twenty three and left his estate to create a research institute for the public good. The labs opened in nineteen twenty nine. Battelle work helped shape xerography, the Manhattan Project support chain, and later materials science. It is one of the quiet industries that kept Columbus from being only a capital and a campus.",
+    long: "",
+    names: ["Battelle Memorial Institute", "Gordon Battelle"]
+  },
+  {
+    id: "harrison-headquarters",
+    name: "William Henry Harrison Headquarters",
+    lat: 39.9604,
+    lng: -83.0178,
+    radius: 300,
+    short: "In Franklinton, the Harrison House on West Broad was General William Henry Harrison's headquarters in the War of eighteen twelve. Franklinton was a supply town on the Scioto while the United States fought in the Northwest. The brick house later stood beside the Sullivant Land Office after that tiny building was moved to Gift Street. War and town founding share the same west bank block.",
+    long: "",
+    names: ["William Henry Harrison", "Harrison House", "War of 1812", "Franklinton", "Sullivant Land Office"]
+  },
+  {
+    id: "lincoln-theatre",
+    name: "Lincoln Theatre",
+    lat: 39.9669,
+    lng: -82.9811,
+    radius: 300,
+    short: "Seven sixty nine East Long Street. The Lincoln opened in nineteen twenty eight as the Ogden Theatre. Black businessman Al Jackson built it. Architect Carl Anderson gave it an Egyptian Revival house. It was the entertainment hall the east side did not have. Count Basie, Cab Calloway, and Columbus's own Nancy Wilson played here. It went dark, then came back in two thousand nine. The National Register listing is for a theater the neighborhood made for itself.",
+    long: "",
+    names: ["Lincoln Theatre", "Al Jackson", "Nancy Wilson", "King Lincoln Bronzeville"]
+  },
+  {
+    id: "camp-chase-cemetery",
+    name: "Camp Chase Confederate Cemetery",
+    lat: 39.9439,
+    lng: -83.0761,
+    radius: 400,
+    short: "On Sullivant Avenue is the burial ground of Camp Chase. During the Civil War this west side field was a Union training camp, then a prison for Confederate soldiers. Disease and winter killed more than two thousand men here. The stone arch and rows of markers are what remain. Camp Chase named a neighborhood. The cemetery is the part that never left.",
+    long: "",
+    names: ["Camp Chase", "Camp Chase Confederate Cemetery", "Sullivant Avenue"]
+  },
+  {
+    id: "jeffrey-manufacturing",
+    name: "Jeffrey Manufacturing",
+    lat: 39.9802,
+    lng: -82.9981,
+    radius: 450,
+    short: "East of Fourth Street, near First Avenue, Jeffrey Manufacturing made Columbus a mining-machine city. Joseph A. Jeffrey backed inventor Francis Lechner in eighteen seventy six. By the early nineteen hundreds Jeffrey was among the world's largest makers of coal cutters and mine locomotives. The plant filled the blocks down to today's Interstate Six Seventy. The nineteen twenty four office building still carries the name. This is how coal country equipment was built in the capital.",
+    long: "",
+    names: ["Jeffrey Manufacturing", "Joseph A. Jeffrey", "Francis Lechner"]
+  },
+  {
+    id: "buckeye-steel",
+    name: "Buckeye Steel Castings",
+    lat: 39.9365,
+    lng: -82.9808,
+    radius: 500,
+    short: "Parsons Avenue held Buckeye Steel Castings, later Columbus Castings. The firm started in eighteen eighty one making farm iron, then railroad couplers, then steel for freight cars. In nineteen two it moved to this ninety acre south side yard. Samuel Prescott Bush ran it. For a time it was the largest steel foundry of its kind in North America. The pours stopped in two thousand sixteen. The land is industrial park now. The work that fed the railroads was here.",
+    long: "",
+    names: ["Buckeye Steel Castings", "Columbus Castings", "Samuel Prescott Bush"]
+  },
+  {
+    id: "olentangy-scioto-confluence",
+    name: "Olentangy and Scioto Confluence",
+    lat: 39.9682,
+    lng: -83.0175,
+    radius: 500,
+    short: "West of downtown the Olentangy runs into the Scioto. Native people used this fork for centuries. Surveyors called the high ground Wolf's Ridge. In eighteen twelve the new capital was sited on the east bank, opposite Franklinton, at the forks. The rivers carried canoes, canal boats, floods, and sewer. Every early map of Columbus starts at this meeting of water.",
+    long: "",
+    names: ["Olentangy River", "Scioto River", "Wolf's Ridge", "Franklinton"]
+  },
+  {
+    id: "santa-maria-riverfront",
+    name: "Santa Maria site",
+    lat: 39.9628,
+    lng: -83.0058,
+    radius: 350,
+    short: "The city is named for Christopher Columbus. In nineteen ninety two a replica of the Santa Maria was moored on the Scioto for the five hundredth anniversary. Some people came to celebrate the namesake. Others gathered nearby to name the cost of that voyage for Native nations. The ship later left the river. The argument stayed. This bank is where the city's name and the older valley meet.",
+    long: "",
+    names: ["Santa Maria", "Christopher Columbus", "Scioto River"]
+  },
+  {
+    id: "clintonville",
+    name: "Clintonville",
+    lat: 40.0416,
+    lng: -83.0186,
+    radius: 800,
+    short: "Clintonville began as Clinton Township, named for Vice President George Clinton, on land once used by the Wyandot. A post office opened on September thirteenth, eighteen forty seven. That date is still the neighborhood birthday. North High Street was a farm road, then a streetcar line, then a business strip. People live here because it is inside Columbus and still feels like a town that grew along one road.",
+    long: "",
+    names: ["Clintonville", "George Clinton", "Wyandot", "North High Street"]
+  },
+  {
+    id: "old-beechwold",
+    name: "Old Beechwold",
+    lat: 40.0603,
+    lng: -83.0233,
+    radius: 500,
+    short: "Old Beechwold sits between High Street and the Olentangy. In nineteen five a short lived Columbus zoo opened on this ground and failed in five months. Joseph A. Jeffrey bought the land and made an estate his family called Beechwalde, beech forest. The old zoo gate still shows on High. A monkey house became a barn. The winding streets went on the National Register in nineteen eighty seven.",
+    long: "",
+    names: ["Old Beechwold", "Joseph A. Jeffrey", "Columbus Zoo", "Olentangy River"]
+  },
+  {
+    id: "ohio-school-for-the-blind",
+    name: "Ohio State School for the Blind",
+    lat: 40.0694,
+    lng: -83.0190,
+    radius: 350,
+    short: "Ohio opened a school for blind students in eighteen thirty seven, one of the first in the country. The school later moved to this North High campus. It is a state institution, not a neighborhood afterthought. For nearly two centuries Ohio taught here what the rest of public school was slow to offer. The grounds on High Street are part of that long civic bet.",
+    long: "",
+    names: ["Ohio State School for the Blind", "North High Street"]
+  },
+  {
+    id: "olentangy-park",
+    name: "Olentangy Park",
+    lat: 40.0305,
+    lng: -83.0178,
+    radius: 450,
+    short: "Before the houses, this stretch of the Olentangy was Olentangy Park, one of the Midwest's big trolley parks. It opened in the eighteen eighties and grew a midway, a theater, and what was billed as the largest swimming pool in the world. Columbus rode the streetcar north to get there. The park closed in the nineteen thirties. The land became Olentangy Village apartments. The river and the name stayed.",
+    long: "",
+    names: ["Olentangy Park", "Olentangy Village", "Olentangy River"]
+  },
+  {
+    id: "whetstone-park-roses",
+    name: "Whetstone Park of Roses",
+    lat: 40.0410,
+    lng: -83.0255,
+    radius: 450,
+    short: "Whetstone Park holds the Park of Roses, opened in nineteen fifty two on old Clintonville farm ground along the Olentangy. Thirteen acres of beds. It became one of the largest municipal rose gardens in the United States. The park is also playing fields and woods. Clintonville comes here the way German Village comes to Schiller. Public land on the river, planted on purpose.",
+    long: "",
+    names: ["Whetstone Park", "Park of Roses", "Clintonville", "Olentangy River"]
+  },
+  {
+    id: "jack-nicklaus-scioto",
+    name: "Jack Nicklaus and Scioto",
+    lat: 40.0004,
+    lng: -83.0802,
+    radius: 500,
+    short: "Jack Nicklaus was born in Columbus in nineteen forty. He learned the game at Scioto Country Club on the west side of the river corridor. Scioto hosted the nineteen twenty six U.S. Open before he was born, and later the PGA. Nicklaus became the most famous golfer Ohio ever sent out. The club sits in Upper Arlington. The origin story is Columbus.",
+    long: "",
+    names: ["Jack Nicklaus", "Scioto Country Club", "Upper Arlington"]
+  },
+  {
+    id: "osu-oval",
+    name: "Ohio State Oval",
+    lat: 40.0005,
+    lng: -83.0148,
+    radius: 400,
+    short: "The Oval is the front lawn of Ohio State. The university opened in eighteen seventy as a land grant school under the Morrill Act. Farmers and mechanics were supposed to study here, not only lawyers. Thompson Library looks down the grass. For more than a century commencements, protests, and first dates have used this same axis. The capital got a campus. The campus became a city inside the city.",
+    long: "",
+    names: ["Ohio State University", "The Oval", "Morrill Act", "Thompson Library"]
+  },
+  {
+    id: "ohio-stadium",
+    name: "Ohio Stadium",
+    lat: 40.0017,
+    lng: -83.0197,
+    radius: 450,
+    short: "Ohio Stadium opened in nineteen twenty two. Architect Howard Dwight Smith drew the first double deck horseshoe in the country. People still call it the House That Harley Built, after coach John Wilce's era and the drive to raise the money. It went on the National Register in nineteen seventy four. Game day here is one of the largest regular gatherings in Ohio. The river sits just west of the wall.",
+    long: "",
+    names: ["Ohio Stadium", "The Horseshoe", "Howard Dwight Smith", "Ohio State Buckeyes"]
+  },
+  {
+    id: "mirror-lake",
+    name: "Mirror Lake",
+    lat: 39.9979,
+    lng: -83.0136,
+    radius: 250,
+    short: "Mirror Lake is the hole in the campus that students treat like a shrine. The local rule is simple. Beat Michigan, jump in. The water is cold. The tradition is not official and not safe, and it still happens. Browning Amphitheatre sits in the hollow. A campus can have laboratories and still keep a pond that belongs to the crowd.",
+    long: "",
+    names: ["Mirror Lake", "Ohio State", "Michigan"]
+  },
+  {
+    id: "orton-hall",
+    name: "Orton Hall",
+    lat: 40.0003,
+    lng: -83.0129,
+    radius: 200,
+    short: "Orton Hall is the rust colored tower on the Oval. Finished in eighteen ninety three, it was named for Edward Orton, Ohio State's first president and the state's first geologist. The stone in the walls is stacked in geologic order, oldest at the bottom. Forty thousand specimens sit in the Orton Geological Museum inside. It is a building that teaches Ohio's bedrock by being built from it.",
+    long: "",
+    names: ["Orton Hall", "Edward Orton", "Orton Geological Museum"]
+  },
+  {
+    id: "columbus-museum-of-art",
+    name: "Columbus Museum of Art",
+    lat: 39.9643,
+    lng: -82.9878,
+    radius: 300,
+    short: "The Columbus Museum of Art sits on East Broad. The collection began with the Columbus Gallery of Fine Arts in eighteen seventy eight. The present building rose in the early twentieth century on a civic stretch that also holds Franklin Park farther east. George Bellows, born in this city, is on these walls. The museum is how Columbus kept a public eye on painting while the factories and the campus grew.",
+    long: "",
+    names: ["Columbus Museum of Art", "George Bellows", "East Broad Street"]
+  },
+  {
+    id: "palace-theatre",
+    name: "Palace Theatre",
+    lat: 39.9624,
+    lng: -83.0015,
+    radius: 200,
+    short: "The Palace opened in nineteen twenty six beside the tower now called LeVeque. It was a Keith Albee vaudeville house, then a movie palace. Thomas Lamb designed the interior. CAPA saved it when demolition was the plan. Live shows came back. Broad Street kept two palaces, this one and the Ohio around the corner. Downtown entertainment did not all move to the suburbs.",
+    long: "",
+    names: ["Palace Theatre", "Thomas Lamb", "LeVeque Tower", "CAPA"]
+  },
+  {
+    id: "southern-theatre",
+    name: "Southern Theatre",
+    lat: 39.9568,
+    lng: -82.9989,
+    radius: 200,
+    short: "The Southern Theatre opened in eighteen ninety six on South High, attached to the Great Southern Hotel. It is older than the movie palaces. After dark years, CAPA restored it in the nineteen nineties. The horseshoe balcony and the plaster work are nineteenth century downtown, still working. High and Main was the theater corner before Broad Street took the crown.",
+    long: "",
+    names: ["Southern Theatre", "Great Southern Hotel", "CAPA"]
+  },
+  {
+    id: "columbus-city-hall",
+    name: "Columbus City Hall",
+    lat: 39.9629,
+    lng: -83.0036,
+    radius: 250,
+    short: "City Hall faces the Statehouse across Broad and the river parks. The present building opened in nineteen twenty eight after a fire destroyed an earlier hall. Italian Renaissance stone, a wide stair, a statue of Christopher Columbus that has been argued over for years. This is the municipal counterweight to Capitol Square. State government on one side of downtown. City government on the other.",
+    long: "",
+    names: ["Columbus City Hall", "Capitol Square"]
+  },
+  {
+    id: "flytown",
+    name: "Flytown",
+    lat: 39.9723,
+    lng: -83.0095,
+    radius: 500,
+    short: "Flytown was the entry neighborhood west of Neil and south of Goodale. Houses flew up overnight for Irish, German, Italian, and other workers off the trains at Union Station. Naghten Street, now Nationwide Boulevard, was called the Irish Broadway. Urban renewal and the Arena District erased the streets. Godman Guild remains as a marker. The people moved. The name is how Columbus remembers the first landing place.",
+    long: "",
+    names: ["Flytown", "Godman Guild", "Union Station", "Nationwide Boulevard"]
+  },
+  {
+    id: "george-bellows",
+    name: "George Bellows",
+    lat: 39.9640,
+    lng: -82.9882,
+    radius: 300,
+    short: "George Bellows was born in Columbus in eighteen eighty two. He drew at Ohio State, then went to New York and painted prizefights, rivers, and crowds that made him one of the Ashcan School. The Columbus Museum of Art holds his work on the street he would have known as East Broad. The city that sent him east still claims the painter.",
+    long: "",
+    names: ["George Bellows", "Ohio State", "Columbus Museum of Art", "Ashcan School"]
+  },
+  {
+    id: "elijah-pierce",
+    name: "Elijah Pierce",
+    lat: 39.9692,
+    lng: -82.9808,
+    radius: 300,
+    short: "Elijah Pierce cut hair on Long Street and carved wood in the back. Born in Mississippi in eighteen ninety two, he came to Columbus and made painted reliefs of sermons, prizefighters, and everyday saints. The barbershop was the gallery. Museums later caught up. Pierce is one of the reasons King Lincoln is not only a housing story. It is also where a barber became a national artist.",
+    long: "",
+    names: ["Elijah Pierce", "Long Street", "King Lincoln Bronzeville"]
+  },
+  {
+    id: "port-columbus",
+    name: "John Glenn Columbus International Airport",
+    lat: 39.9980,
+    lng: -82.8919,
+    radius: 800,
+    short: "Port Columbus opened in nineteen twenty nine. Amelia Earhart was on an early promotional flight. Jerrie Mock left here in nineteen sixty four and became the first woman to fly solo around the world. In two thousand sixteen the field took John Glenn's name, the Marine fighter pilot and senator from New Concord who first orbited Earth for the United States. The east side runway is how Columbus joined the air age.",
+    long: "",
+    names: ["Port Columbus", "John Glenn", "Amelia Earhart", "Jerrie Mock"]
+  },
+ {
+    id: "scioto-audubon",
+    name: "Scioto Audubon Metro Park",
+    lat: 39.9460,
+    lng: -83.0102,
+    radius: 550,
+    short: "Whittier Peninsula was rail yards and a trash burn. Metro Parks turned it into Scioto Audubon. The climbing wall sits on the old industrial point where the Scioto bends south of downtown. Herons use the water that once served coal and boxcars. This is the city's newest public land on its oldest river, made from a working waterfront that had worn out.",
+    long: "",
+    names: ["Scioto Audubon Metro Park", "Whittier Peninsula", "Scioto River"]
+  },
+  {
+    id: "green-lawn-cemetery",
+    name: "Green Lawn Cemetery",
+    lat: 39.9400,
+    lng: -83.0255,
+    radius: 600,
+    short: "Green Lawn opened in eighteen forty eight on the south side. It is the city's great burying ground. Mayors, industrialists, and Eddie Rickenbacker are here. The landscape was designed as a rural cemetery, trees and lanes instead of a tight churchyard. When Columbus wanted to show dignity in death, it sent people south of the city limits, then grew around the gates.",
+    long: "",
+    names: ["Green Lawn Cemetery", "Eddie Rickenbacker"]
+  },
+  {
+    id: "ohio-judicial-center",
+    name: "Ohio Judicial Center",
+    lat: 39.9602,
+    lng: -83.0022,
+    radius: 250,
+    short: "On Front Street the Ohio Judicial Center holds the Supreme Court of Ohio. The building opened in nineteen thirty two as the Ohio Departments Building, an Art Deco civic block on the Scioto. Murals inside tell state history. Law moved here from the Statehouse complex. The river side of downtown is not only parks. It is also where the state's last word is written.",
+    long: "",
+    names: ["Ohio Judicial Center", "Supreme Court of Ohio", "Scioto River"]
+  },
+  {
+    id: "old-governors-mansion",
+    name: "Old Governor's Mansion",
+    lat: 39.9653,
+    lng: -82.9694,
+    radius: 250,
+    short: "Twelve thirty four East Broad was the governor's house from nineteen twenty to nineteen fifty seven. The brick mansion sits in the East Broad historic row, when this street was the address of power outside the Statehouse. The official residence later moved. The old house remains a marker that Broad Street, the National Road through town, was also a political neighborhood.",
+    long: "",
+    names: ["Old Governor's Mansion", "East Broad Street", "National Road"]
+  },
+  {
+    id: "capital-university-bexley",
+    name: "Capital University and Bexley",
+    lat: 39.9554,
+    lng: -82.9382,
+    radius: 500,
+    short: "Bexley is a small city inside the Columbus map. Capital University began in eighteen thirty as a Lutheran school and settled here. The governor's current mansion is in Bexley. Main Street is its own high street. People drive through and think it is just another east side block. It is a separate town that refused to be swallowed, with a campus that predates most of the east side houses.",
+    long: "",
+    names: ["Capital University", "Bexley", "Governor's Mansion"]
+  },
+  {
+    id: "grandview-heights",
+    name: "Grandview Heights",
+    lat: 39.9798,
+    lng: -83.0448,
+    radius: 550,
+    short: "Grandview Heights sits on the rise west of the Olentangy. It incorporated in nineteen six so Columbus would not annex the hill. Marble Cliff and the quarries are next door. Grandview Avenue became a small downtown. From here you look back at the skyline the suburb refused to join. The name is literal. The height is why the town exists.",
+    long: "",
+    names: ["Grandview Heights", "Marble Cliff", "Olentangy River"]
+  },
+  {
+    id: "driving-park",
+    name: "Driving Park",
+    lat: 39.9502,
+    lng: -82.9605,
+    radius: 500,
+    short: "Driving Park was named for a horse track. In the early nineteen hundreds this southeast side field held the Driving Park racecourse. Houses later filled the oval. The neighborhood became a center of Black Columbus after the war. The name is the last piece of the track. The community is what replaced the horses.",
+    long: "",
+    names: ["Driving Park"]
+  },
+  {
+    id: "milo-grogan",
+    name: "Milo-Grogan",
+    lat: 39.9855,
+    lng: -82.9902,
+    radius: 500,
+    short: "Milo-Grogan grew where the railroads crossed north of downtown. Milo and Grogan were two settlements that fused around shops and shop men. The tracks made the jobs and cut the streets. Italian and working families filled the blocks. Interstate Seventy One later carved the edge. This is a railroad neighborhood that still sits against the line that created it.",
+    long: "",
+    names: ["Milo-Grogan"]
+  },
+  {
+    id: "lockbourne-rickenbacker",
+    name: "Rickenbacker Air Force Base",
+    lat: 39.8138,
+    lng: -82.9339,
+    radius: 900,
+    short: "South of the city the field was Lockbourne Army Air Base in World War Two, then Lockbourne Air Force Base. In nineteen seventy four it took Eddie Rickenbacker's name. Cargo jets still use the long runway. The base made the south side part of the air war and then part of freight aviation. Columbus trained and shipped from here long after the downtown arsenal went quiet.",
+    long: "",
+    names: ["Rickenbacker Air Force Base", "Lockbourne", "Eddie Rickenbacker"]
+  },
+  {
+    id: "ohio-state-fairgrounds",
+    name: "Ohio Expo Center",
+    lat: 40.0007,
+    lng: -82.9894,
+    radius: 600,
+    short: "The Ohio State Fair has called this ground home since the late eighteen eighties. Before that the fair moved from town to town. Seventeenth Avenue became the permanent show. The Ohio History Center stands next door on purpose. For two weeks each summer the state still comes to Columbus with livestock, engines, and food. The rest of the year the grounds wait under the same name.",
+    long: "",
+    names: ["Ohio State Fair", "Ohio Expo Center", "Ohio History Center"]
+  },
+  {
+    id: "wexner-center",
+    name: "Wexner Center for the Arts",
+    lat: 40.0006,
+    lng: -83.0095,
+    radius: 250,
+    short: "The Wexner Center opened in nineteen eighty nine on Fifteenth Avenue as a laboratory for new art, not a vault of old paintings. Architect Peter Eisenman broke the grid against the campus plan and against the old armory that once stood here. Les Wexner funded it. The building is an argument in brick and white steel that Ohio State would not only train engineers and fullbacks.",
+    long: "",
+    names: ["Wexner Center for the Arts", "Peter Eisenman", "Les Wexner", "Ohio State"]
+  },
+  {
+    id: "union-station-arch",
+    name: "Union Station Arch",
+    lat: 39.9694,
+    lng: -83.0073,
+    radius: 300,
+    short: "The stone arch in McFerson Commons is what is left of Union Station. Daniel Burnham's eighteen ninety seven station faced High Street until the wrecking ball in nineteen seventy six. A portion of the arcade was saved and rebuilt here in the Arena District. Trains made Columbus a hub. The arch is the fragment. The convention center sits on the rest of the platform.",
+    long: "",
+    names: ["Union Station", "Daniel Burnham", "McFerson Commons", "Arena District"]
+  },
+{
+    id: "cultural-arts-center",
+    name: "Cultural Arts Center",
+    lat: 39.9583,
+    lng: -83.0038,
+    radius: 250,
+    short: "The brick building on Washington Boulevard was the Ohio State Arsenal, finished in eighteen sixty one as the Civil War began. Arms moved through here while Camp Chase filled on the west side. The city later turned the arsenal into the Cultural Arts Center. The riverbank kept the military warehouse and gave it a second life as studios. War storage, then art. Same walls.",
+    long: "",
+    names: ["Cultural Arts Center", "Ohio State Arsenal", "Civil War"]
+  },
+  {
+    id: "st-mary-german-village",
+    name: "St. Mary Church",
+    lat: 39.9469,
+    lng: -82.9947,
+    radius: 250,
+    short: "St. Mary on South Third is the steeple of German Village. German Catholics built the church in the eighteen sixties when this end of town spoke German on the sidewalk. The tower still sets the height of the neighborhood. Mass, school, and funerals held the parish together after the breweries closed and after the city tried to clear the blocks. The bricks outlasted the language.",
+    long: "",
+    names: ["St. Mary Church", "German Village"]
+  },
+  {
+    id: "holy-cross-church",
+    name: "Holy Cross Church",
+    lat: 39.9581,
+    lng: -82.9931,
+    radius: 250,
+    short: "Holy Cross on South Fifth is the older German Catholic parish downtown, opened in the eighteen forties. It served immigrants before German Village had that name. The church, rectory, and school are on the National Register. When people say the Germans built Columbus south of Broad, this is one of the first roofs they raised.",
+    long: "",
+    names: ["Holy Cross Church"]
+  },
+  {
+    id: "first-congregational",
+    name: "First Congregational Church",
+    lat: 39.9647,
+    lng: -82.9938,
+    radius: 250,
+    short: "First Congregational stands on East Broad among the civic churches of the old East Broad row. The congregation goes back to the early capital years. The present Gothic building is a landmark on the National Road through downtown. Broad Street was not only offices and mansions. It was also the Sunday address of the people who ran the state.",
+    long: "",
+    names: ["First Congregational Church", "East Broad Street"]
+  },
+  {
+    id: "aminah-robinson",
+    name: "Aminah Robinson",
+    lat: 39.9688,
+    lng: -82.9785,
+    radius: 350,
+    short: "Aminah Brenda Lynn Robinson grew up on the east side and turned Poindexter Village, Long Street, and family memory into cloth, button, and paint. She called the work a People's History. Museums later hung it. The streets she drew are the same King Lincoln blocks you are crossing. Columbus did not have to import this artist. She was already mapping the neighborhood.",
+    long: "",
+    names: ["Aminah Robinson", "Poindexter Village", "King Lincoln Bronzeville"]
+  },
+  {
+    id: "franklinton-floodwall",
+    name: "Franklinton Floodwall",
+    lat: 39.9588,
+    lng: -83.0205,
+    radius: 600,
+    short: "The wall on the west bank is why Franklinton still exists. The floods of eighteen thirty two, nineteen thirteen, and nineteen fifty nine filled The Bottoms. After nineteen fifty nine the city built a concrete defense along the Scioto. Houses could stay. Development came back decades later. When you see the wall, you are looking at the line between the river's old claim and the town that would not leave.",
+    long: "",
+    names: ["Franklinton Floodwall", "Franklinton", "Flood of 1913", "Scioto River"]
+  },
+  {
+    id: "griggs-dam",
+    name: "Griggs Dam",
+    lat: 39.9745,
+    lng: -83.0872,
+    radius: 500,
+    short: "Griggs Dam, finished in nineteen fifteen, is one of the reservoirs that let Columbus grow. It sits on the Scioto west of downtown and carries the name of city engineer Julian Griggs. Before these dams, wells and the raw river were not enough. The reservoir is drinking water, a park road, and the reason west side hills became neighborhoods instead of a floodplain gamble.",
+    long: "",
+    names: ["Griggs Dam", "Julian Griggs", "Scioto River"]
+  },
+  {
+    id: "cooper-stadium",
+    name: "Cooper Stadium",
+    lat: 39.9436,
+    lng: -83.0547,
+    radius: 400,
+    short: "Cooper Stadium on the west side was Red Bird Stadium, then Jets Stadium, then the home of the Columbus Clippers. Night baseball started here in nineteen thirty two. Generations learned the game on this field before the club moved downtown to Huntington Park. The concrete bowl is quiet now. For seventy years this was where Columbus spent summer nights.",
+    long: "",
+    names: ["Cooper Stadium", "Columbus Clippers", "Columbus Jets", "Red Birds"]
+  },
+  {
+    id: "marble-cliff",
+    name: "Marble Cliff Quarries",
+    lat: 39.9722,
+    lng: -83.0608,
+    radius: 500,
+    short: "Marble Cliff is named for the limestone dug from these west side banks. The quarries fed sidewalks, Statehouse work, and buildings across the Midwest. Marble Cliff and Grandview grew as quarry and railroad towns on the ridge above the Scioto. The pits later became lakes and housing. The stone in downtown Columbus often started as a hole in this hill.",
+    long: "",
+    names: ["Marble Cliff", "Scioto River", "Grandview Heights"]
+  },
+  {
+    id: "worthington",
+    name: "Worthington",
+    lat: 40.0931,
+    lng: -83.0180,
+    radius: 700,
+    short: "Worthington was laid out in eighteen three by New Englanders from the Scioto Company, led by James Kilbourne. The village green, St. John's Episcopal, and the grid are New England dropped onto the Olentangy. It predates Columbus and stayed a separate city. High Street runs straight from downtown through Clintonville and into this older town. You did not leave Ohio. You entered a Yankee plat.",
+    long: "",
+    names: ["Worthington", "James Kilbourne", "Scioto Company", "St. John's Episcopal"]
+  },
+  {
+    id: "westerville-otterbein",
+    name: "Westerville and Otterbein",
+    lat: 40.1262,
+    lng: -82.9291,
+    radius: 700,
+    short: "Westerville billed itself as the Dry Capital of the World. The Anti-Saloon League ran a national printing operation here. Otterbein University, founded in eighteen forty seven, is the town's older campus. Temperance, church school, and a separate Main Street kept Westerville off Columbus's bar map for decades. The north side of the metro still carries that fight in its founding story.",
+    long: "",
+    names: ["Westerville", "Otterbein University", "Anti-Saloon League"]
+  },
+  {
+    id: "columbus-zoo",
+    name: "Columbus Zoo",
+    lat: 40.1565,
+    lng: -83.1186,
+    radius: 700,
+    short: "The Columbus Zoo sits on the Scioto in Powell, north of the old city line. A short zoo failed in Beechwold in nineteen five. This one took hold and became one of the country's known zoos under directors including Jack Hanna. Families from every county treat it as a Columbus place. The river corridor that started at Franklinton ends, for a lot of kids, at these gates.",
+    long: "",
+    names: ["Columbus Zoo", "Jack Hanna", "Powell", "Scioto River"]
+  },
+  {
+    id: "cultural-arts-center",
+    name: "Cultural Arts Center",
+    lat: 39.9583,
+    lng: -83.0038,
+    radius: 250,
+    short: "The brick building on Washington Boulevard was the Ohio State Arsenal, finished in eighteen sixty one as the Civil War began. Arms moved through here while Camp Chase filled on the west side. The city later turned the arsenal into the Cultural Arts Center. The riverbank kept the military warehouse and gave it a second life as studios. War storage, then art. Same walls.",
+    long: "",
+    names: ["Cultural Arts Center", "Ohio State Arsenal", "Civil War"]
+  },
+  {
+    id: "st-mary-german-village",
+    name: "St. Mary Church",
+    lat: 39.9469,
+    lng: -82.9947,
+    radius: 250,
+    short: "St. Mary on South Third is the steeple of German Village. German Catholics built the church in the eighteen sixties when this end of town spoke German on the sidewalk. The tower still sets the height of the neighborhood. Mass, school, and funerals held the parish together after the breweries closed and after the city tried to clear the blocks. The bricks outlasted the language.",
+    long: "",
+    names: ["St. Mary Church", "German Village"]
+  },
+  {
+    id: "holy-cross-church",
+    name: "Holy Cross Church",
+    lat: 39.9581,
+    lng: -82.9931,
+    radius: 250,
+    short: "Holy Cross on South Fifth is the older German Catholic parish downtown, opened in the eighteen forties. It served immigrants before German Village had that name. The church, rectory, and school are on the National Register. When people say the Germans built Columbus south of Broad, this is one of the first roofs they raised.",
+    long: "",
+    names: ["Holy Cross Church"]
+  },
+  {
+    id: "first-congregational",
+    name: "First Congregational Church",
+    lat: 39.9647,
+    lng: -82.9938,
+    radius: 250,
+    short: "First Congregational stands on East Broad among the civic churches of the old East Broad row. The congregation goes back to the early capital years. The present Gothic building is a landmark on the National Road through downtown. Broad Street was not only offices and mansions. It was also the Sunday address of the people who ran the state.",
+    long: "",
+    names: ["First Congregational Church", "East Broad Street"]
+  },
+  {
+    id: "aminah-robinson",
+    name: "Aminah Robinson",
+    lat: 39.9688,
+    lng: -82.9785,
+    radius: 350,
+    short: "Aminah Brenda Lynn Robinson grew up on the east side and turned Poindexter Village, Long Street, and family memory into cloth, button, and paint. She called the work a People's History. Museums later hung it. The streets she drew are the same King Lincoln blocks you are crossing. Columbus did not have to import this artist. She was already mapping the neighborhood.",
+    long: "",
+    names: ["Aminah Robinson", "Poindexter Village", "King Lincoln Bronzeville"]
+  },
+  {
+    id: "franklinton-floodwall",
+    name: "Franklinton Floodwall",
+    lat: 39.9588,
+    lng: -83.0205,
+    radius: 600,
+    short: "The wall on the west bank is why Franklinton still exists. The floods of eighteen thirty two, nineteen thirteen, and nineteen fifty nine filled The Bottoms. After nineteen fifty nine the city built a concrete defense along the Scioto. Houses could stay. Development came back decades later. When you see the wall, you are looking at the line between the river's old claim and the town that would not leave.",
+    long: "",
+    names: ["Franklinton Floodwall", "Franklinton", "Flood of 1913", "Scioto River"]
+  },
+  {
+    id: "griggs-dam",
+    name: "Griggs Dam",
+    lat: 39.9745,
+    lng: -83.0872,
+    radius: 500,
+    short: "Griggs Dam, finished in nineteen fifteen, is one of the reservoirs that let Columbus grow. It sits on the Scioto west of downtown and carries the name of city engineer Julian Griggs. Before these dams, wells and the raw river were not enough. The reservoir is drinking water, a park road, and the reason west side hills became neighborhoods instead of a floodplain gamble.",
+    long: "",
+    names: ["Griggs Dam", "Julian Griggs", "Scioto River"]
+  },
+  {
+    id: "cooper-stadium",
+    name: "Cooper Stadium",
+    lat: 39.9436,
+    lng: -83.0547,
+    radius: 400,
+    short: "Cooper Stadium on the west side was Red Bird Stadium, then Jets Stadium, then the home of the Columbus Clippers. Night baseball started here in nineteen thirty two. Generations learned the game on this field before the club moved downtown to Huntington Park. The concrete bowl is quiet now. For seventy years this was where Columbus spent summer nights.",
+    long: "",
+    names: ["Cooper Stadium", "Columbus Clippers", "Columbus Jets", "Red Birds"]
+  },
+  {
+    id: "marble-cliff",
+    name: "Marble Cliff Quarries",
+    lat: 39.9722,
+    lng: -83.0608,
+    radius: 500,
+    short: "Marble Cliff is named for the limestone dug from these west side banks. The quarries fed sidewalks, Statehouse work, and buildings across the Midwest. Marble Cliff and Grandview grew as quarry and railroad towns on the ridge above the Scioto. The pits later became lakes and housing. The stone in downtown Columbus often started as a hole in this hill.",
+    long: "",
+    names: ["Marble Cliff", "Scioto River", "Grandview Heights"]
+  },
+  {
+    id: "worthington",
+    name: "Worthington",
+    lat: 40.0931,
+    lng: -83.0180,
+    radius: 700,
+    short: "Worthington was laid out in eighteen three by New Englanders from the Scioto Company, led by James Kilbourne. The village green, St. John's Episcopal, and the grid are New England dropped onto the Olentangy. It predates Columbus and stayed a separate city. High Street runs straight from downtown through Clintonville and into this older town. You did not leave Ohio. You entered a Yankee plat.",
+    long: "",
+    names: ["Worthington", "James Kilbourne", "Scioto Company", "St. John's Episcopal"]
+  },
+  {
+    id: "westerville-otterbein",
+    name: "Westerville and Otterbein",
+    lat: 40.1262,
+    lng: -82.9291,
+    radius: 700,
+    short: "Westerville billed itself as the Dry Capital of the World. The Anti-Saloon League ran a national printing operation here. Otterbein University, founded in eighteen forty seven, is the town's older campus. Temperance, church school, and a separate Main Street kept Westerville off Columbus's bar map for decades. The north side of the metro still carries that fight in its founding story.",
+    long: "",
+    names: ["Westerville", "Otterbein University", "Anti-Saloon League"]
+  },
+  {
+    id: "columbus-zoo",
+    name: "Columbus Zoo",
+    lat: 40.1565,
+    lng: -83.1186,
+    radius: 700,
+    short: "The Columbus Zoo sits on the Scioto in Powell, north of the old city line. A short zoo failed in Beechwold in nineteen five. This one took hold and became one of the country's known zoos under directors including Jack Hanna. Families from every county treat it as a Columbus place. The river corridor that started at Franklinton ends, for a lot of kids, at these gates.",
+    long: "",
+    names: ["Columbus Zoo", "Jack Hanna", "Powell", "Scioto River"]
+  },
 
-];
+    ];
 

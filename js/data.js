@@ -229,5 +229,85 @@ const STORIES = [
     long: "",
     names: ["Headwaters Park", "Three Rivers", "Rivergreenway"]
   }
+{
+    id: "auburn-founding",
+    name: "Auburn Automobile Company",
+    lat: 41.3667,
+    lng: -85.0589,
+    radius: 1500,
+    short: "The Auburn Automobile Company grew out of the Eckhart Carriage Company — Charles Eckhart built horse-drawn buggies here from eighteen seventy-four. His sons Frank and Morris switched to cars, named the company in nineteen hundred, and sold the first Auburn to the public in nineteen oh three: a single-cylinder, six-horsepower machine for fourteen hundred fifty dollars. The town's whole identity rides on that switch.",
+    long: "",
+    names: ["Auburn Automobile Company", "Eckhart Carriage Company", "Frank Eckhart", "Morris Eckhart", "Charles Eckhart"]
+  },
+  {
+    id: "auburn-cord",
+    name: "E.L. Cord",
+    lat: 41.3667,
+    lng: -85.0589,
+    radius: 1200,
+    short: "Errett Lobban Cord — a salesman, not an engineer — took control in nineteen twenty-six and turned a struggling shop into a luxury empire. He bought Duesenberg a year later, founded the Cord Corporation, and put his name on the front-wheel-drive Cord L-29, the first production car with that layout. Sales peaked above fourteen thousand cars a year, then the Depression and an SEC investigation shut the doors in nineteen thirty-seven.",
+    long: "",
+    names: ["E.L. Cord", "Errett Lobban Cord", "Cord Corporation", "Cord L-29"]
+  },
+  {
+    id: "auburn-duesenberg",
+    name: "Duesenberg Brothers",
+    lat: 41.3667,
+    lng: -85.0589,
+    radius: 1200,
+    short: "Fred and Augie Duesenberg built racing engines in St. Paul, moved to Indianapolis in nineteen twenty, and won the Indianapolis five hundred four times in the twenties. Cord bought the bankrupt company in nineteen twenty-six and made it his top marque. Only about four hundred eighty Model J and SJ chassis were ever built — roughly five a month — which is why a Duesenberg is still the measuring stick for American luxury.",
+    long: "",
+    names: ["Fred Duesenberg", "Augie Duesenberg", "Duesenberg", "Indianapolis 500", "Model J"]
+  },
+  {
+    id: "auburn-museum",
+    name: "Auburn Cord Duesenberg Museum",
+    lat: 41.3558,
+    lng: -85.0572,
+    radius: 250,
+    short: "The museum lives in the company's own nineteen thirty Art Deco headquarters on South Wayne Street — limestone carved with the company name, designed by Fort Wayne architect Alvin Strauss. Locals saved it from demolition in nineteen seventy-four and opened it on July sixth as the Home of the Classics. Named a National Historic Landmark in two thousand five — one of only forty-two in Indiana.",
+    long: "",
+    names: ["Auburn Cord Duesenberg Automobile Museum", "Alvin M. Strauss", "National Historic Landmark", "South Wayne Street"]
+  },
+  {
+    id: "auburn-buehrig",
+    name: "Gordon Buehrig",
+    lat: 41.3558,
+    lng: -85.0572,
+    radius: 250,
+    short: "Gordon Buehrig designed the Auburn Boattail Speedster and the Cord eight-ten and eight-twelve at twenty-five years old — the cars that made Auburn famous in Hollywood. A street beside the museum now bears his name. The clay model of his Cord, covered in his own notes, is still on display inside.",
+    long: "",
+    names: ["Gordon Buehrig", "Auburn Boattail Speedster", "Cord 810", "Cord 812"]
+  },
+  {
+    id: "auburn-kruse",
+    name: "Kruse Auctions",
+    lat: 41.3667,
+    lng: -85.0589,
+    radious: 1500,
+    short: "Dean Kruse started auctioneering farm equipment in Auburn in nineteen fifty-two and turned it into the world's biggest collector-car auction. His Labor Day weekend sale still fills the town every September — the fifty-sixth edition in twenty twenty-six pulled over twenty-one million dollars. Auburn didn't just build the cars; it became the place the world comes to buy them.",
+    long: "",
+    names: },
+  {
+    id: "auburn-railroad",
+    name: "Wabash Railroad",
+    lat: 41.3667,
+    lng: -85.0589,
+    radius: 1000,
+    short: "Auburn sits on the Wabash Railroad, the line that carried Eckhart carriages out and brought Cord's luxury buyers in. The depot is gone, but the tracks still run through town — the same steel that made a carriage shop into an automaker.",
+    long: "",
+    names: ["Wabash Railroad"]
+  },
+  {
+    id: "auburn-native",
+    name: "Miami Land",
+    lat: 41.3667,
+    lng: -85.0589,
+    radius: 2000,
+    short: "Before the carriages, this was Miami land along the St. Joseph River. The Treaty of St. Mary's in eighteen eighteen opened DeKalb County to settlement, and Auburn was platted soon after. The name comes from the golden color of the autumn leaves, not the hair.",
+    long: "",
+    names: ["Miami", "Treaty of St. Mary's", "St. Joseph River", "DeKalb County"]
+  }
+
 ];
 

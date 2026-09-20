@@ -2033,6 +2033,486 @@ id: "columbus-jesse-owens",
     long: "",
     names: ["Columbus Zoo", "Jack Hanna", "Powell", "Scioto River"]
   },
-
+  {
+    id: "upper-arlington",
+    name: "Upper Arlington",
+    lat: 40.0359,
+    lng: -83.0610,
+    radius: 800,
+    short: "Upper Arlington was platted in nineteen seventeen by King and Ben Thompson on farmland west of the Olentangy. They sold a planned suburb with curving streets and deed rules. The village became a city and never folded into Columbus. Scioto Country Club and Ohio State's west campus sit on its edge. This is the ridge neighborhood built for people who worked in the capital and wanted out of the grid.",
+    long: "",
+    names: ["Upper Arlington", "King Thompson", "Ben Thompson", "Scioto Country Club"]
+  },
+  {
+    id: "grove-city",
+    name: "Grove City",
+    lat: 39.8815,
+    lng: -83.0930,
+    radius: 800,
+    short: "Grove City began in eighteen fifty two when William Breck bought farm land south of Columbus and laid out lots. High Street here is a separate town center, not a downtown block. The south side grew with interurbans, then with highways. People treat it as a suburb. It is an old village that kept its name when Columbus spread to the fence line.",
+    long: "",
+    names: ["Grove City", "William Breck"]
+  },
+  {
+    id: "canal-winchester",
+    name: "Canal Winchester",
+    lat: 39.8456,
+    lng: -82.8043,
+    radius: 700,
+    short: "Canal Winchester exists because of the Ohio and Erie Canal. The town was platted in eighteen twenty eight beside the water that tied the Scioto country to the Ohio River trade. Locks and basins made a farm stop into a village. The canal died after the railroads. The name did not. You are on the old wet road that once moved grain east.",
+    long: "",
+    names: ["Canal Winchester", "Ohio and Erie Canal"]
+  },
+  {
+    id: "urbancrest",
+    name: "Urbancrest",
+    lat: 39.8978,
+    lng: -83.0887,
+    radius: 400,
+    short: "Urbancrest is one of the smallest cities in Ohio, and one of the first in the country to elect a Black woman as mayor, Ellen Walker Craig-Jones, in nineteen seventy two. The village sits on the southwest edge of Columbus. It incorporated to keep a local government when the big city was spreading. The story here is not size. It is a town that insisted on running itself.",
+    long: "",
+    names: ["Urbancrest", "Ellen Walker Craig-Jones"]
+  },
+  {
+    id: "linden",
+    name: "Linden",
+    lat: 40.0065,
+    lng: -82.9755,
+    radius: 700,
+    short: "Linden grew along Cleveland Avenue as streetcars pulled Columbus north and east. It was a streetcar suburb, then a majority Black neighborhood after mid century moves and highway cuts. The avenue is still the spine. Churches, shops, and brick houses face the same road that made the place. Linden is not a side street story. It is a main drag story.",
+    long: "",
+    names: ["Linden", "Cleveland Avenue"]
+  },
+  {
+    id: "weinland-park",
+    name: "Weinland Park",
+    lat: 39.9955,
+    lng: -82.9980,
+    radius: 450,
+    short: "Weinland Park sits between campus and downtown, named for a school superintendent. Factories and working houses filled the blocks. Ohio State expansion, highways, and later rebuilding all hit this same grid. It is one of the neighborhoods that shows how a university city treats the land at its elbow. Close to the Oval. Not the same world.",
+    long: "",
+    names: ["Weinland Park", "Ohio State"]
+  },
+  {
+    id: "jerrie-mock",
+    name: "Jerrie Mock",
+    lat: 39.9980,
+    lng: -82.8919,
+    radius: 600,
+    short: "Geraldine Jerrie Mock learned to fly in Ohio and left Port Columbus on March nineteenth, nineteen sixty four. Twenty nine days later she was the first woman to fly solo around the world. Her plane was a single engine Cessna she called the Spirit of Columbus. Earhart tried and did not finish. Mock did. The east side runway is her starting line.",
+    long: "",
+    names: ["Jerrie Mock", "Spirit of Columbus", "Port Columbus"]
+  },
+  {
+    id: "alice-schille",
+    name: "Alice Schille",
+    lat: 39.9643,
+    lng: -82.9878,
+    radius: 300,
+    short: "Alice Schille was born in Columbus in eighteen sixty nine and became one of America's strong watercolor painters. She trained here, worked abroad, and kept a studio in this city when many artists left for good. The Columbus Museum of Art holds her work. If Bellows is the city's famous son in oil, Schille is the one who proved the same town could make a modern painter in water.",
+    long: "",
+    names: ["Alice Schille", "Columbus Museum of Art"]
+  },
+  {
+    id: "ccad",
+    name: "Columbus College of Art and Design",
+    lat: 39.9651,
+    lng: -82.9912,
+    radius: 300,
+    short: "The Columbus College of Art and Design began in eighteen seventy nine as the Columbus Art School, tied to the museum on East Broad. It is one of the oldest art colleges in the country. The Discovery District campus still sits beside the museum. Factory Columbus and gallery Columbus share this block. The school is why the east side of downtown kept a working art bench.",
+    long: "",
+    names: ["Columbus College of Art and Design", "Columbus Museum of Art"]
+  },
+  {
+    id: "ohio-school-for-the-deaf",
+    name: "Ohio School for the Deaf",
+    lat: 40.0718,
+    lng: -82.9987,
+    radius: 400,
+    short: "Ohio opened a school for deaf students in eighteen twenty nine. The first long campus was on East Town, now Topiary Park. In the nineteen fifties the school moved to this north campus off Morse Road. It is a state school with a two century story. The old grounds became a garden. The work of the school kept going north.",
+    long: "",
+    names: ["Ohio School for the Deaf", "Topiary Park"]
+  },
+  {
+    id: "gahanna",
+    name: "Gahanna",
+    lat: 40.0192,
+    lng: -82.8793,
+    radius: 700,
+    short: "Gahanna grew at the crossing of Big Walnut Creek and the roads east of Columbus. The name is tied to a Native word for the valley. A village formed in the nineteenth century and later became a city that Columbus did not annex. Creeks, a mill seat, and an old main street are the reason it is here. The east side suburbs did not all start as shopping strips.",
+    long: "",
+    names: ["Gahanna", "Big Walnut Creek"]
+  },
+  {
+    id: "reynoldsburg",
+    name: "Reynoldsburg",
+    lat: 39.9548,
+    lng: -82.8121,
+    radius: 700,
+    short: "Reynoldsburg sits on the National Road east of Columbus. Alexander W. Livingston bred the Buckeye tomato here in the eighteen seventies and helped make the town call itself the birthplace of the tomato. That is a proud local claim with a real seedsman behind it. The old pike, not the interstate, is the street that first put Reynoldsburg on the way west.",
+    long: "",
+    names: ["Reynoldsburg", "Alexander W. Livingston", "National Road", "Buckeye tomato"]
+  },
+ {
+    id: "whitehall",
+    name: "Whitehall",
+    lat: 39.9667,
+    lng: -82.8857,
+    radius: 700,
+    short: "Whitehall incorporated in nineteen forty six so the east side would not be swallowed whole. The Defense Construction Supply Center and later defense work made the jobs. Yearling Road and Main Street became a small city grid beside the big one. Whitehall is a wartime suburb that turned into a town. The federal depot on its edge is why the houses are here.",
+    long: "",
+    names: ["Whitehall", "Defense Construction Supply Center"]
+  },
+  {
+    id: "defense-supply-center",
+    name: "Defense Supply Center Columbus",
+    lat: 39.9718,
+    lng: -82.8820,
+    radius: 500,
+    short: "This east side depot began as a World War One quartermaster site and grew into Defense Supply Center Columbus. Parts, uniforms, and logistics for the armed forces moved through here for a century. It is one of the largest federal employers on this side of town. War work did not only happen at Fort Hayes. It happened in these warehouses.",
+    long: "",
+    names: ["Defense Supply Center Columbus", "Whitehall"]
+  },
+  {
+    id: "hilliard",
+    name: "Hilliard",
+    lat: 40.0334,
+    lng: -83.1582,
+    radius: 700,
+    short: "Hilliard started as a railroad village in eighteen fifty three, laid out by John Hilliard when the tracks headed west. The old depot town sat in farmland. Columbus grew out to meet it. The west side still has a station-era Main Street under the newer roads. Rail first. Suburb later.",
+    long: "",
+    names: ["Hilliard", "John Hilliard"]
+  },
+  {
+    id: "dublin",
+    name: "Dublin",
+    lat: 40.0992,
+    lng: -83.1141,
+    radius: 800,
+    short: "Dublin began as a mill village on the Scioto in the early eighteen hundreds. John Sells and others opened the high banks. For a long time it was a quiet river town. Office parks and Muirfield came later. The stone bridge and the old cemetery still face the water that made the place. This was a Scioto ford community before it was a freeway exit.",
+    long: "",
+    names: ["Dublin", "John Sells", "Scioto River", "Muirfield"]
+  },
+  {
+    id: "groveport",
+    name: "Groveport",
+    lat: 39.8484,
+    lng: -82.8860,
+    radius: 600,
+    short: "Groveport grew where the canal and the roads met southeast of Columbus. The Ohio and Erie Canal and later the railroad made a farm crossing into a village. Madison Mills and the lock country sat nearby. Air cargo at Rickenbacker now sits on the same south corridor. Water, then rail, then runways. The town name stayed.",
+    long: "",
+    names: ["Groveport", "Ohio and Erie Canal", "Rickenbacker"]
+  },
+  {
+    id: "lockbourne",
+    name: "Lockbourne",
+    lat: 39.8092,
+    lng: -82.9724,
+    radius: 500,
+    short: "Lockbourne is named for the locks. The Ohio and Erie Canal needed a flight of them here to climb toward Columbus. A village formed around that work. A century later the Army airfield next door took the same name, then became Rickenbacker. Two technologies used the same south flats. Canal boats first. Bombers and cargo jets after.",
+    long: "",
+    names: ["Lockbourne", "Ohio and Erie Canal", "Rickenbacker Air Force Base"]
+  },
+  {
+    id: "hungarian-village",
+    name: "Hungarian Village",
+    lat: 39.9368,
+    lng: -82.9902,
+    radius: 400,
+    short: "Hungarian Village sits south of German Village along Reeb and Woodrow. Steel, rail, and foundry jobs pulled Hungarian and other East European families here in the early nineteen hundreds. The churches and halls kept the language longer than the factories did. It is a smaller immigrant map than German Village, and easier to miss. The south side is not only one story.",
+    long: "",
+    names: ["Hungarian Village"]
+  },
+  {
+    id: "harrison-west",
+    name: "Harrison West",
+    lat: 39.9785,
+    lng: -83.0188,
+    radius: 400,
+    short: "Harrison West is the brick neighborhood between the Olentangy and Victorian Village. It grew as a streetcar district for people who worked downtown and at the nearby plants. Harrison Avenue is the spine. Highways and river flooding both pressed the western edge. The houses that remain are the old near-west side that did not get scraped for the Arena District.",
+    long: "",
+    names: ["Harrison West", "Olentangy River"]
+  },
+  {
+    id: "iuka-ravine",
+    name: "Iuka Ravine",
+    lat: 40.0009,
+    lng: -83.0011,
+    radius: 300,
+    short: "Iuka Ravine is a wooded cut on the east edge of campus, listed as a historic district. Faculty houses cling to the slope. The ravine is older than the university streets. It is one of the last downtown-adjacent gullies that was not filled. Campus grew around a crease in the land instead of flattening it.",
+    long: "",
+    names: ["Iuka Ravine", "Ohio State"]
+  },
+  {
+    id: "huntington-park",
+    name: "Huntington Park",
+    lat: 39.9688,
+    lng: -83.0117,
+    radius: 300,
+    short: "Huntington Park opened in two thousand nine on the old penitentiary ground in the Arena District. The Clippers moved here from Cooper Stadium. Night baseball came back downtown. The field sits where the prison wall once ran. Columbus put a diamond on the site of the lockup and called it a new neighborhood.",
+    long: "",
+    names: ["Huntington Park", "Columbus Clippers", "Ohio Penitentiary", "Arena District"]
+  },
+  {
+    id: "benjamin-hanby",
+    name: "Hanby House",
+    lat: 40.1256,
+    lng: -82.9382,
+    radius: 300,
+    short: "In Westerville, the Hanby House was home to Benjamin Hanby. He wrote Darling Nelly Gray, an antislavery ballad, and later Up on the Housetop. The family hid freedom seekers here on the Underground Railroad. Otterbein and the Anti-Saloon League get most of the Westerville ink. This small house is the song and the railroad under the same roof.",
+    long: "",
+    names: ["Benjamin Hanby", "Hanby House", "Darling Nelly Gray", "Underground Railroad", "Westerville"]
+  },
+  {
+    id: "new-albany",
+    name: "New Albany",
+    lat: 40.0812,
+    lng: -82.8088,
+    radius: 700,
+    short: "New Albany was a farm village on the east plain, platted in the eighteen thirties. For most of its life it was a crossroads. Late twentieth century money rebuilt it as a planned town with Georgian brick and a school campus at the center. The old name stayed. The new plan is an argument about what a village should look like when Columbus reaches the Licking County line.",
+    long: "",
+    names: ["New Albany"]
+  },
+{
+    id: "merion-village",
+    name: "Merion Village",
+    lat: 39.9355,
+    lng: -82.9935,
+    radius: 500,
+    short: "Merion Village is the next band of brick south of German Village. The houses went up around nineteen hundred for workers who could not yet buy into the older German blocks. Parsons and High are the edges. It is easy to treat as leftover German Village. It is its own streetcar ring, built when the south side was still filling in.",
+    long: "",
+    names: ["Merion Village", "German Village"]
+  },
+  {
+    id: "old-oaks",
+    name: "Old Oaks",
+    lat: 39.9528,
+    lng: -82.9678,
+    radius: 400,
+    short: "Old Oaks is a near east historic district of large early twentieth century houses. Doctors, managers, and civil servants built here when East Broad and Bryden were the address to have. The oaks are literal. The district listing is what kept the big houses from being carved into a different neighborhood name.",
+    long: "",
+    names: ["Old Oaks", "Bryden Road"]
+  },
+  {
+    id: "eastmoor",
+    name: "Eastmoor",
+    lat: 39.9575,
+    lng: -82.9015,
+    radius: 500,
+    short: "Eastmoor was laid out as a planned east side suburb in the nineteen teens and twenties, with curving streets east of Nelson Road. Main Street and East Broad bound the idea. It was sold as country living inside the city. The houses are the record. Columbus did not only grow by adding factories. It also grew by platting shade trees.",
+    long: "",
+    names: ["Eastmoor"]
+  },
+  {
+    id: "shepard",
+    name: "Shepard",
+    lat: 39.9788,
+    lng: -82.9142,
+    radius: 450,
+    short: "Shepard grew around a railroad stop and a small commercial strip on the east side. The name comes from an early landholder. Nelson Road and the tracks organized the blocks. It is one of the east side places people drive through without a sign that says history. The stop came first. The houses followed the platform.",
+    long: "",
+    names: ["Shepard"]
+  },
+  {
+    id: "king-arts-complex",
+    name: "King Arts Complex",
+    lat: 39.9658,
+    lng: -82.9798,
+    radius: 250,
+    short: "The King Arts Complex sits in the old Pythian Temple on Mount Vernon Avenue. The building opened in nineteen twenty six as a Black fraternal hall and theater. It is now the cultural center of King Lincoln. Jazz, church programs, and neighborhood memory share the same house. Long Street had the Lincoln. Mount Vernon had the Pythians.",
+    long: "",
+    names: ["King Arts Complex", "Pythian Temple", "King Lincoln Bronzeville"]
+  },
+  {
+    id: "second-baptist-poindexter",
+    name: "Second Baptist Church",
+    lat: 39.9669,
+    lng: -82.9826,
+    radius: 250,
+    short: "Second Baptist on the near east side is the church of Reverend James Poindexter. He pastored here, sat on city council, and pushed Columbus to treat Black residents as citizens. Poindexter Village later took his name. The pulpit came first. The housing project was the city's delayed answer.",
+    long: "",
+    names: ["Second Baptist Church", "James Poindexter", "Poindexter Village"]
+  },
+  {
+    id: "anheuser-busch-columbus",
+    name: "Anheuser-Busch Columbus Brewery",
+    lat: 40.0825,
+    lng: -82.9688,
+    radius: 500,
+    short: "The Anheuser-Busch plant on the north side opened in nineteen sixty six. It is one of the big industrial floors Columbus added after the old German breweries on Front Street died. Beer left the Brewery District and came back as a national works along Interstate Seventy One. The smell on a wet day is the new version of Hoster.",
+    long: "",
+    names: ["Anheuser-Busch", "Brewery District"]
+  },
+  {
+    id: "chemical-abstracts",
+    name: "Chemical Abstracts Service",
+    lat: 40.0348,
+    lng: -83.0236,
+    radius: 400,
+    short: "Chemical Abstracts Service, on the north side near the Olentangy, became the world's great index of chemistry. The American Chemical Society built this operation in Columbus. For decades, if a compound was published anywhere, the record ran through this campus. It is quiet knowledge work that made the city more than a capital and a campus.",
+    long: "",
+    names: ["Chemical Abstracts Service", "American Chemical Society"]
+  },
+  {
+    id: "nationwide",
+    name: "Nationwide",
+    lat: 39.9696,
+    lng: -83.0027,
+    radius: 350,
+    short: "Nationwide began as the Farm Bureau Mutual Automobile Insurance Company in nineteen twenty six. Farmers needed car insurance. The company took the name Nationwide and built a glass tower on the north edge of downtown. The Arena District is its neighborhood bet. Columbus is an insurance city as much as a capital city. This tower is that fact in steel.",
+    long: "",
+    names: ["Nationwide", "Farm Bureau", "Arena District"]
+  },
+  {
+    id: "ohio-dominican",
+    name: "Ohio Dominican University",
+    lat: 39.9936,
+    lng: -82.9410,
+    radius: 400,
+    short: "Ohio Dominican sits on Sunbury Road on the east side. Dominican sisters opened the school in nineteen eleven as the College of St. Mary of the Springs. The chapel and the older halls still read as a convent campus. It is one of the Catholic colleges that gave Columbus a second educational spine away from Ohio State.",
+    long: "",
+    names: ["Ohio Dominican University", "College of St. Mary of the Springs"]
+  },
+  {
+    id: "st-john-arena",
+    name: "St. John Arena",
+    lat: 40.0053,
+    lng: -83.0190,
+    radius: 250,
+    short: "St. John Arena opened in nineteen fifty six for Ohio State basketball and remains the home of the marching band. The Skull Session before football happens here. Jerry Lucas and later stars packed the house before the Schottenstein Center. The building is named for Lynn St. John, the athletic director who helped build the modern department.",
+    long: "",
+    names: ["St. John Arena", "Lynn St. John", "Ohio State Marching Band"]
+  },
+  {
+    id: "hoover-reservoir",
+    name: "Hoover Reservoir",
+    lat: 40.1115,
+    lng: -82.8790,
+    radius: 800,
+    short: "Hoover Reservoir, finished in the nineteen fifties on Big Walnut Creek, is another reason Columbus could keep growing. The dam holds drinking water for the east and northeast side. The lake is also a park. Like Griggs on the Scioto, this is civic engineering that looks like scenery until you remember the taps.",
+    long: "",
+    names: ["Hoover Reservoir", "Big Walnut Creek"]
+  },
+  {
+    id: "pickerington",
+    name: "Pickerington",
+    lat: 39.8845,
+    lng: -82.7535,
+    radius: 700,
+    short: "Pickerington began as a farm village in Fairfield County, platted in the early eighteen hundreds by Abraham Pickering. The canal and later the National Road corridor pulled trade east of Columbus. It stayed a separate city. The old main street is still a town, even after the housing came. East side growth did not erase the name on the plat.",
+    long: "",
+    names: ["Pickerington", "Abraham Pickering"]
+  },
+  {
+    id: "obetz",
+    name: "Obetz",
+    lat: 39.8789,
+    lng: -82.9507,
+    radius: 500,
+    short: "Obetz is a small south side village named for an early family along the corridor to Lockbourne. Rail and later the freeway made it a working stop between Columbus and the airfield country. It incorporated to keep a local government. South side history is not only Parsons Avenue. It is also these villages that refused to vanish on the map.",
+    long: "",
+    names: ["Obetz"]
+  },
+  {
+    id: "minerva-park",
+    name: "Minerva Park",
+    lat: 40.0764,
+    lng: -82.9438,
+    radius: 400,
+    short: "Minerva Park was an amusement park before it was a village. In the eighteen nineties a lake and midway drew streetcar crowds north of Columbus. The park faded. Houses took the grounds. The village kept the name. A north side subdivision is living on top of a trolley park, the same trick Olentangy Park pulled in Clintonville.",
+    long: "",
+    names: ["Minerva Park"]
+  },
+  {
+    id: "blendon-woods",
+    name: "Blendon Woods Metro Park",
+    lat: 40.0688,
+    lng: -82.9088,
+    radius: 500,
+    short: "Blendon Woods is Metro Parks land on the northeast side, opened in the nineteen fifties on old Blendon Township ground. Beech and oak. A lake. The name is the township that was here before the subdivisions. When Columbus ran out of empty woods inside the inner belt, it had to buy them on purpose.",
+    long: "",
+    names: ["Blendon Woods", "Blendon Township"]
+  },
+  {
+    id: "inniswood",
+    name: "Inniswood Metro Gardens",
+    lat: 40.0645,
+    lng: -82.8875,
+    radius: 350,
+    short: "Inniswood was the Innis family estate in Westerville before it became a Metro Park garden. Grace Innis willed the grounds so the beech woods and gardens would stay open. It is a private landscape that became public. The northeast side got a garden the way Clintonville got roses at Whetstone.",
+    long: "",
+    names: ["Inniswood", "Grace Innis", "Westerville"]
+  },
+  {
+    id: "blacklick-woods",
+    name: "Blacklick Woods Metro Park",
+    lat: 39.9365,
+    lng: -82.8110,
+    radius: 500,
+    short: "Blacklick Woods sits on Blacklick Creek at the Reynoldsburg edge. Metro Parks saved a beech-maple forest here in the nineteen fifties when the east side was about to build through it. The creek name is older than the subdivisions. This is the east side's remaining woods with a trail instead of a cul-de-sac.",
+    long: "",
+    names: ["Blacklick Woods", "Blacklick Creek", "Reynoldsburg"]
+  },
+  {
+    id: "three-creeks",
+    name: "Three Creeks Metro Park",
+    lat: 39.8775,
+    lng: -82.9465,
+    radius: 600,
+    short: "Three Creeks is where Alum Creek, Big Walnut, and Blacklick water meet on the southeast side. Metro Parks stitched the confluence into a park. Floodplain that used to be dumped on became trails. The south and east sides of Columbus are creek country. This is the place the maps admit it.",
+    long: "",
+    names: ["Three Creeks Metro Park", "Alum Creek", "Big Walnut Creek", "Blacklick Creek"]
+  },
+  {
+    id: "oshaughnessy-dam",
+    name: "O'Shaughnessy Dam",
+    lat: 40.1530,
+    lng: -83.1265,
+    radius: 500,
+    short: "O'Shaughnessy Dam, finished in nineteen twenty five, holds the Scioto north of Dublin. It is named for city engineer Jerry O'Shaughnessy. Together with Griggs and later Hoover, it is the water system that let the capital keep adding people. The zoo sits nearby on purpose. Reservoir, park, and drinking water on the same river that started Franklinton.",
+    long: "",
+    names: ["O'Shaughnessy Dam", "Jerry O'Shaughnessy", "Scioto River", "Columbus Zoo"]
+  },
+  {
+    id: "columbus-state",
+    name: "Columbus State",
+    lat: 39.9678,
+    lng: -82.9908,
+    radius: 350,
+    short: "Columbus State began as the Columbus Area Technician School in nineteen sixty three and became the community college on Spring Street. It sits in the Discovery District beside the old deaf-school grounds. For thousands of students this, not the Oval, is the campus. The downtown school is how the capital city trained people who were not going to Ohio State.",
+    long: "",
+    names: ["Columbus State Community College", "Discovery District"]
+  },
+  {
+    id: "nancy-wilson",
+    name: "Nancy Wilson",
+    lat: 39.9669,
+    lng: -82.9811,
+    radius: 300,
+    short: "Nancy Wilson grew up in Columbus and sang in church and in small rooms on the east side before the records made her national. She came home to the Lincoln Theatre stage that had been built for that neighborhood. Jazz histories name her with the greats. This city can name the street. Long Street was not only a place she played. It was a place she came from.",
+    long: "",
+    names: ["Nancy Wilson", "Lincoln Theatre", "King Lincoln Bronzeville"]
+  },
+  {
+    id: "emerson-burkhart",
+    name: "Emerson Burkhart",
+    lat: 39.9640,
+    lng: -82.9785,
+    radius: 300,
+    short: "Emerson Burkhart painted Columbus faces and Columbus streets from a studio on the near east side. He was stubborn, public, and local when the fashion was to leave. Murals and portraits around town still carry his hand. If Bellows left and became famous, Burkhart stayed and painted the neighbors.",
+    long: "",
+    names: ["Emerson Burkhart"]
+  },
+  {
+    id: "delaware-ohio",
+    name: "Delaware",
+    lat: 40.2987,
+    lng: -83.0680,
+    radius: 800,
+    short: "Delaware is the county seat north of Columbus, laid out in eighteen eight. Ohio Wesleyan University opened here in eighteen forty two. Rutherford B. Hayes was born in Delaware. The town sits on the Olentangy where the road to Lake Erie left the capital's orbit. Before the suburbs, this was the next real city upriver.",
+    long: "",
+    names: ["Delaware", "Ohio Wesleyan University", "Rutherford B. Hayes", "Olentangy River"]
+  },
+    
     ];
 

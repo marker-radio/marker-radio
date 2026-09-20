@@ -308,6 +308,558 @@ const STORIES = [
     long: "",
     names: ["Miami", "Treaty of St. Mary's", "St. Joseph River", "DeKalb County"]
   }
+ {
+    id: "columbus-founding",
+    name: "Franklinton and Columbus",
+    lat: 39.9612,
+    lng: -82.9988,
+    radius: 2000,
+    short: "Before Columbus, there was Franklinton — laid out in seventeen ninety-seven by surveyor Lucas Sullivant on the west bank of the Scioto, named for Benjamin Franklin. A flood wiped out the first plat, so he rebuilt on higher ground. In eighteen twelve the state legislature picked the high banks opposite Franklinton for a permanent capital, donated by Lyne Starling and three partners, and named it Columbus. The capital came first; the city grew around it.",
+    long: "",
+    names: ["Lucas Sullivant", "Franklinton", "Lyne Starling", "Scioto River", "Olentangy River"]
+  },
+  {
+    id: "columbus-statehouse",
+    name: "Ohio Statehouse",
+    lat: 39.9614,
+    lng: -82.9990,
+    radius: 300,
+    short: "The Ohio Statehouse — cornerstone laid July fourth, eighteen thirty-nine, finished in eighteen sixty-one after twenty-two years of politics, panics, and cholera. Prison labor from the Ohio Penitentiary cut the stone. The old capitol burned in the eighteen fifties, which finally forced the work done. Lincoln visited three times. National Historic Landmark.",
+    long: "",
+    names: ["Ohio Statehouse", "Ohio Penitentiary", "Abraham Lincoln", "Capitol Square"]
+  },
+  {
+    id: "columbus-camp-chase",
+    name: "Camp Chase",
+    lat: 39.9450,
+    lng: -83.0450,
+    radius: 500,
+    short: "Camp Chase — Union training camp turned Confederate prison, named for Treasury Secretary Salmon P. Chase. From eighteen sixty-one to sixty-five, up to twenty-five thousand prisoners passed through. More than two thousand two hundred Confederates are buried in the cemetery on Sullivant Avenue — one of the largest Confederate cemeteries in the North. The camp itself is gone; the graves remain.",
+    long: "",
+    names: ["Camp Chase", "Salmon P. Chase", "Camp Chase Confederate Cemetery"]
+  },
+  {
+    id: "columbus-kelton",
+    name: "Kelton House",
+    lat: 39.9560,
+    lng: -82.9900,
+    radius: 200,
+    short: "The Kelton House on East Town Street — a confirmed Underground Railroad station. Fernando and Sophia Kelton hid freedom seekers in their Victorian home, built in eighteen fifty-two. Fernando was so committed he served as a pallbearer when Lincoln's funeral train passed through Columbus. The museum is closed for restoration after a fire in twenty twenty-five, but the story stands.",
+    long: "",
+    names: ["Kelton House", "Fernando Kelton", "Sophia Kelton", "Underground Railroad"]
+  },
+  {
+    id: "columbus-scioto",
+    name: "Scioto River",
+    lat: 39.9612,
+    lng: -82.9988,
+    radius: 1500,
+    short: "The Scioto is why Columbus exists — navigable, central, and the reason the capital landed here. It also nearly killed the city: cholera and typhoid from raw sewage, the nineteen thirteen flood that drowned Franklinton, and the nineteen fifty-nine flood that emptied it again. The Scioto Mile promenade and the dams that tamed it are the modern answer to an old river.",
+    long: "",
+    names: ["Scioto River", "Scioto Mile", "Griggs Dam", "O'Shaughnessy Dam"]
+  },
+  {
+    id: "columbus-canal",
+    name: "Ohio and Erie Canal",
+    lat: 39.9612,
+    lng: -82.9988,
+    radius: 1500,
+    short: "The Ohio and Erie Canal reached Columbus through an eleven-mile feeder from the main line at Newark. Completed in eighteen thirty-two, it carried grain and goods to Lake Erie and the Ohio River until the railroads killed it in the eighteen fifties. The canal made Columbus a shipping town before it was a railroad town.",
+    long: "",
+    names: ["Ohio and Erie Canal", "Columbus Feeder"]
+  },
+  {
+    id: "columbus-native",
+    name: "Adena Mound",
+    lat: 39.9550,
+    lng: -82.9980,
+    radius: 400,
+    short: "High Street once ran straight into a forty-foot Adena burial mound at the corner of High and Mound streets. In the eighteen thirties the city leveled it as an obstruction — and used the clay to make bricks for the first Statehouse. Shrum Mound in Campbell Park is one of the last cone-shaped mounds left in the city. The Hopewell earthworks nearby are now a UNESCO World Heritage Site.",
+    long: "",
+    names: ["Adena", "Hopewell", "Shrum Mound", "Campbell Park", "Mound Street"]
+  },
+  {
+    id: "columbus-people",
+    name: "Jack Nicklaus and James Thurber",
+    lat: 39.9612,
+    lng: -82.9988,
+    radius: 2000,
+    short: "Two Columbus names the world knows. Jack Nicklaus — the Golden Bear — was born here, studied at Ohio State, and dotted the I in the Script Ohio. James Thurber grew up in the house on Jefferson Avenue that is now the Thurber House; he wrote about the ghost that got in, and the house still hosts writers. One ruled the fairways, one ruled the page.",
+    long: "",
+    names: ["Jack Nicklaus", "Ohio State University", "James Thurber", "Thurber House"]
+  },
+  {
+    id: "columbus-park",
+    name: "Franklin Park Conservatory",
+    lat: 39.9500,
+    lng: -82.9700,
+    radius: 400,
+    short: "Franklin Park — a hundred acres of gardens, fountains, and the Franklin Park Conservatory, a Victorian glasshouse from eighteen ninety-five. It survived the nineteen thirteen flood that drowned the neighborhood around it. Chihuly glass, a butterfly house, and the city's oldest public greenhouse — the green heart of a city that once flooded.",
+    long: "",
+    names: },
+  {
+    id: "columbus-legend",
+    name: "Mill Race Monster",
+    lat: 39.9800,
+    lng: -83.0200,
+    radius: 500,
+    short: "November nineteen seventy-four — Columbus had its own monster. Dozens of people reported a six-foot green hairy creature with claws near Mill Race Park. Women said it jumped on their car and scratched the paint. The parks director counted armed searchers. It turned out to be a man in green blankets and a mask. The legend stuck anyway.",
+    long: "",
+    names: ["Mill Race Monster", "Mill Race Park"]
+  }
+{
+    id: "columbus-founding",
+    name: "Franklinton and Columbus",
+    lat: 39.9612,
+    lng: -82.9988,
+    radius: 2000,
+    short: "Before Columbus, there was Franklinton — laid out in seventeen ninety-seven by surveyor Lucas Sullivant on the west bank of the Scioto, named for Benjamin Franklin. A flood wiped out the first plat, so he rebuilt on higher ground. In eighteen twelve the state legislature picked the high banks opposite Franklinton for a permanent capital, donated by Lyne Starling and three partners, and named it Columbus. The capital came first; the city grew around it.",
+    long: "",
+    names: ["Lucas Sullivant", "Franklinton", "Lyne Starling", "Scioto River", "Olentangy River"]
+  },
+  {
+    id: "columbus-statehouse",
+    name: "Ohio Statehouse",
+    lat: 39.9614,
+    lng: -82.9990,
+    radius: 300,
+    short: "The Ohio Statehouse — cornerstone laid July fourth, eighteen thirty-nine, finished in eighteen sixty-one after twenty-two years of politics, panics, and cholera. Prison labor from the Ohio Penitentiary cut the stone. The old capitol burned in the eighteen fifties, which finally forced the work done. Lincoln visited three times. National Historic Landmark.",
+    long: "",
+    names: ["Ohio Statehouse", "Ohio Penitentiary", "Abraham Lincoln", "Capitol Square"]
+  },
+  {
+    id: "columbus-camp-chase",
+    name: "Camp Chase",
+    lat: 39.9450,
+    lng: -83.0450,
+    radius: 500,
+    short: "Camp Chase — Union training camp turned Confederate prison, named for Treasury Secretary Salmon P. Chase. From eighteen sixty-one to sixty-five, up to twenty-five thousand prisoners passed through. More than two thousand two hundred Confederates are buried in the cemetery on Sullivant Avenue — one of the largest Confederate cemeteries in the North. The camp itself is gone; the graves remain.",
+    long: "",
+    names: ["Camp Chase", "Salmon P. Chase", "Camp Chase Confederate Cemetery"]
+  },
+  {
+    id: "columbus-kelton",
+    name: "Kelton House",
+    lat: 39.9560,
+    lng: -82.9900,
+    radius: 200,
+    short: "The Kelton House on East Town Street — a confirmed Underground Railroad station. Fernando and Sophia Kelton hid freedom seekers in their Victorian home, built in eighteen fifty-two. Fernando was so committed he served as a pallbearer when Lincoln's funeral train passed through Columbus. The museum is closed for restoration after a fire in twenty twenty-five, but the story stands.",
+    long: "",
+    names: ["Kelton House", "Fernando Kelton", "Sophia Kelton", "Underground Railroad"]
+  },
+  {
+    id: "columbus-scioto",
+    name: "Scioto River",
+    lat: 39.9612,
+    lng: -82.9988,
+    radius: 1500,
+    short: "The Scioto is why Columbus exists — navigable, central, and the reason the capital landed here. It also nearly killed the city: cholera and typhoid from raw sewage, the nineteen thirteen flood that drowned Franklinton, and the nineteen fifty-nine flood that emptied it again. The Scioto Mile promenade and the dams that tamed it are the modern answer to an old river.",
+    long: "",
+    names: ["Scioto River", "Scioto Mile", "Griggs Dam", "O'Shaughnessy Dam"]
+  },
+  {
+    id: "columbus-canal",
+    name: "Ohio and Erie Canal",
+    lat: 39.9612,
+    lng: -82.9988,
+    radius: 1500,
+    short: "The Ohio and Erie Canal reached Columbus through an eleven-mile feeder from the main line at Newark. Completed in eighteen thirty-two, it carried grain and goods to Lake Erie and the Ohio River until the railroads killed it in the eighteen fifties. The canal made Columbus a shipping town before it was a railroad town.",
+    long: "",
+    names: ["Ohio and Erie Canal", "Columbus Feeder"]
+  },
+  {
+    id: "columbus-native",
+    name: "Adena Mound",
+    lat: 39.9550,
+    lng: -82.9980,
+    radius: 400,
+    short: "High Street once ran straight into a forty-foot Adena burial mound at the corner of High and Mound streets. In the eighteen thirties the city leveled it as an obstruction — and used the clay to make bricks for the first Statehouse. Shrum Mound in Campbell Park is one of the last cone-shaped mounds left in the city. The Hopewell earthworks nearby are now a UNESCO World Heritage Site.",
+    long: "",
+    names: ["Adena", "Hopewell", "Shrum Mound", "Campbell Park", "Mound Street"]
+  },
+  {
+    id: "columbus-people",
+    name: "Jack Nicklaus and James Thurber",
+    lat: 39.9612,
+    lng: -82.9988,
+    radius: 2000,
+    short: "Two Columbus names the world knows. Jack Nicklaus — the Golden Bear — was born here, studied at Ohio State, and dotted the I in the Script Ohio. James Thurber grew up in the house on Jefferson Avenue that is now the Thurber House; he wrote about the ghost that got in, and the house still hosts writers. One ruled the fairways, one ruled the page.",
+    long: "",
+    names: ["Jack Nicklaus", "Ohio State University", "James Thurber", "Thurber House"]
+  },
+  {
+    id: "columbus-park",
+    name: "Franklin Park Conservatory",
+    lat: 39.9500,
+    lng: -82.9700,
+    radius: 400,
+    short: "Franklin Park — a hundred acres of gardens, fountains, and the Franklin Park Conservatory, a Victorian glasshouse from eighteen ninety-five. It survived the nineteen thirteen flood that drowned the neighborhood around it. Chihuly glass, a butterfly house, and the city's oldest public greenhouse — the green heart of a city that once flooded.",
+    long: "",
+    names: },
+  {
+    id: "columbus-legend",
+    name: "Mill Race Monster",
+    lat: 39.9800,
+    lng: -83.0200,
+    radius: 500,
+    short: "November nineteen seventy-four — Columbus had its own monster. Dozens of people reported a six-foot green hairy creature with claws near Mill Race Park. Women said it jumped on their car and scratched the paint. The parks director counted armed searchers. It turned out to be a man in green blankets and a mask. The legend stuck anyway.",
+    long: "",
+    names: ["Mill Race Monster", "Mill Race Park"]
+  }
+{
+    id: "columbus-german-village",
+    name: "German Village",
+    lat: 39.9450,
+    lng: -82.9900,
+    radius: 800,
+    short: "German Village — the largest privately funded historic preservation district in the country. German immigrants settled here in the eighteen forties and by eighteen sixty-five made up nearly a third of Columbus. Red-brick homes, wrought-iron fences, brick-paved streets. Over sixteen hundred structures restored since nineteen sixty. National Register in nineteen seventy-four.",
+    long: "",
+    names: },
+  {
+    id: "columbus-schiller-park",
+    name: "Schiller Park",
+    lat: 39.9400,
+    lng: -82.9950,
+    radius: 300,
+    short: "Schiller Park — the heart of German Village. The city bought twenty-three acres in eighteen sixty-seven for fifteen thousand dollars. In eighteen ninety-one a crowd of fifty thousand watched the dedication of a twenty-five-foot statue of the poet Friedrich von Schiller, cast in Munich and given to the city. The name was changed to Washington Park during World War One, then changed back in nineteen thirty.",
+    long: "",
+    names: ["Schiller Park", "Friedrich von Schiller", "German Village Society"]
+  },
+  {
+    id: "columbus-goodale-park",
+    name: "Goodale Park",
+    lat: 39.9752,
+    lng: -83.0068,
+    radius: 400,
+    short: "Goodale Park — Columbus's oldest public park, donated in eighteen fifty-one by Dr. Lincoln Goodale, the town's first physician. Thirty-seven acres in Victorian Village, second only to Boston Common at the time. During the Civil War it briefly served as Camp Jackson, a staging ground for Union troops. Today it hosts ComFest every June.",
+    long: "",
+    names: ["Goodale Park", "Lincoln Goodale", "Camp Jackson", "ComFest"]
+  },
+  {
+    id: "columbus-topiary",
+    name: "Topiary Park",
+    lat: 39.9580,
+    lng: -82.9850,
+    radius: 250,
+    short: "Topiary Park — the only park in the world modeled entirely on a painting. Fifty-four life-size topiary figures recreate Georges Seurat's A Sunday Afternoon on the Island of La Grande Jatte, plus boats, dogs, and one monkey. Sculptor James T. Mason trained the shrubs over metal frames. It sits on the grounds of the old Ohio School for the Deaf.",
+    long: "",
+    names: ["Topiary Park", "James T. Mason", "Georges Seurat", "Old Deaf School Park"]
+  },
+  {
+    id: "columbus-ohio-stadium",
+    name: "Ohio Stadium",
+    lat: 40.0017,
+    lng: -83.0197,
+    radius: 500,
+    short: "Ohio Stadium — the Horseshoe, built in nineteen twenty-two, seats over a hundred thousand. National Historic Landmark in nineteen seventy-four. Designed by Howard Dwight Smith. The Script Ohio is drawn here every home game. Jack Nicklaus dotted the I in nineteen sixty. The stadium is the reason Columbus bleeds scarlet and gray.",
+    long: "",
+    names: ["Ohio Stadium", "The Shoe", "Howard Dwight Smith", "Script Ohio", "Jack Nicklaus"]
+  },
+  {
+    id: "columbus-osu",
+    name: "Ohio State University",
+    lat: 40.0067,
+    lng: -83.0305,
+    radius: 1500,
+    short: "Ohio State — founded in eighteen seventy as the Ohio Agricultural and Mechanical College, opened with twenty-four students. Now one of the largest campuses in the country, nearly sixty thousand students. The Oval is its green heart. Mirror Lake was once the campus water supply. The university turned a farm college into a city within a city.",
+    long: "",
+    names: ["Ohio State University", "The Oval", "Mirror Lake", "Ohio Agricultural and Mechanical College"]
+  },
+  {
+    id: "columbus-rickenbacker",
+    name: "Eddie Rickenbacker",
+    lat: 39.9350,
+    lng: -82.9700,
+    radius: 300,
+    short: "Eddie Rickenbacker — Columbus-born, the Ace of Aces. Twenty-six confirmed aerial victories in World War One, Medal of Honor. His childhood home still stands in the Driving Park neighborhood. He later ran Eastern Air Lines and survived a twenty-four-day ordeal adrift in the Pacific in nineteen forty-two. The airport south of town bears his name.",
+    long: "",
+    names: ["Eddie Rickenbacker", "Rickenbacker International Airport", "Driving Park"]
+  },
+  {
+    id: "columbus-floodwall",
+    name: "Franklinton Floodwall",
+    lat: 39.9550,
+    lng: -83.0150,
+    radius: 800,
+    short: "The Franklinton Floodwall — seven point two miles of concrete along the Scioto, built from nineteen ninety-three to two thousand four at a final cost of one hundred thirty-four million dollars. It exists because of the nineteen thirteen flood, which killed ninety-three people and drowned Franklinton, and the nineteen fifty-nine flood that did it again. Senator John Glenn and Congresswoman Deborah Pryce fought for the money. The Bottoms finally stopped flooding.",
+    long: "",
+    names: ["Franklinton Floodwall", "Great Flood of 1913", "John Glenn", "Deborah Pryce", "Franklinton"]
+  },
+  {
+    id: "columbus-brewery-district",
+    name: "Brewery District",
+    lat: 39.9450,
+    lng: -82.9950,
+    radius: 600,
+    short: "The Brewery District — south of downtown, where German immigrant Louis Hoster opened a brewery in eighteen thirty-six. His Gold Top lager made him famous until Prohibition killed it. The old Hoster plant and the surrounding warehouses sat empty for decades, then came back as lofts, restaurants, and Columbus Brewing Company, founded in nineteen eighty-eight — the oldest craft brewery in Central Ohio.",
+    long: "",
+    names: ["Brewery District", "Louis Hoster", "Hoster Brewing", "Columbus Brewing Company", "Gold Top"]
+  },
+  {
+    id: "columbus-anheuser-busch",
+    name: "Anheuser-Busch Columbus",
+    lat: 40.0800,
+    lng: -82.9800,
+    radius: 600,
+    short: "Anheuser-Busch's Columbus brewery — six hundred twenty thousand square feet on Schrock Road, dedicated August fifteenth, nineteen sixty-eight. Forty million dollars to build, capacity of one point seven million barrels a year. The Clydesdales still parade down Parsons Avenue. It is one of only two Anheuser-Busch plants that brew non-alcohol beer, and the newest Brewhouse can make ten million barrels.",
+    long: "",
+    names: ["Anheuser-Busch", "Budweiser", "Clydesdales", "Schrock Road"]
+  },
+  {
+    id: "columbus-leVeque",
+    name: "LeVeque Tower",
+    lat: 39.9620,
+    lng: -82.9995,
+    radius: 300,
+    short: "LeVeque Tower — Art Deco skyscraper, the city's second-tallest, finished in nineteen twenty-seven. It was the tallest building between New York and Chicago when it opened. Named for Leslie LeVeque, who built it as the American Insurance Union Citadel. The limestone and terra-cotta tower still anchors the downtown skyline.",
+    long: "",
+    names: ["LeVeque Tower", "Leslie LeVeque", "American Insurance Union"]
+  },
+  {
+    id: "columbus-santa-maria",
+    name: "Santa Maria Replica",
+    lat: 39.9600,
+    lng: -83.0000,
+    radius: 300,
+    short: "A full-scale replica of Christopher Columbus's flagship, the Santa Maria, moored on the Scioto Riverfront. Installed in nineteen ninety-two for the five-hundredth anniversary of his voyage. The city is named for him, and the ship is the floating reminder of why. Genoa Park beside it is named for Columbus's birthplace.",
+    long: "",
+    names: }
+{
+    id: "columbus-german-village",
+    name: "German Village",
+    lat: 39.9450,
+    lng: -82.9900,
+    radius: 800,
+    short: "German Village — the largest privately funded historic preservation district in the country. German immigrants settled here in the eighteen forties and by eighteen sixty-five made up nearly a third of Columbus. Red-brick homes, wrought-iron fences, brick-paved streets. Over sixteen hundred structures restored since nineteen sixty. National Register in nineteen seventy-four.",
+    long: "",
+    names: },
+  {
+    id: "columbus-schiller-park",
+    name: "Schiller Park",
+    lat: 39.9400,
+    lng: -82.9950,
+    radius: 300,
+    short: "Schiller Park — the heart of German Village. The city bought twenty-three acres in eighteen sixty-seven for fifteen thousand dollars. In eighteen ninety-one a crowd of fifty thousand watched the dedication of a twenty-five-foot statue of the poet Friedrich von Schiller, cast in Munich and given to the city. The name was changed to Washington Park during World War One, then changed back in nineteen thirty.",
+    long: "",
+    names: ["Schiller Park", "Friedrich von Schiller", "German Village Society"]
+  },
+  {
+    id: "columbus-goodale-park",
+    name: "Goodale Park",
+    lat: 39.9752,
+    lng: -83.0068,
+    radius: 400,
+    short: "Goodale Park — Columbus's oldest public park, donated in eighteen fifty-one by Dr. Lincoln Goodale, the town's first physician. Thirty-seven acres in Victorian Village, second only to Boston Common at the time. During the Civil War it briefly served as Camp Jackson, a staging ground for Union troops. Today it hosts ComFest every June.",
+    long: "",
+    names: ["Goodale Park", "Lincoln Goodale", "Camp Jackson", "ComFest"]
+  },
+  {
+    id: "columbus-topiary",
+    name: "Topiary Park",
+    lat: 39.9580,
+    lng: -82.9850,
+    radius: 250,
+    short: "Topiary Park — the only park in the world modeled entirely on a painting. Fifty-four life-size topiary figures recreate Georges Seurat's A Sunday Afternoon on the Island of La Grande Jatte, plus boats, dogs, and one monkey. Sculptor James T. Mason trained the shrubs over metal frames. It sits on the grounds of the old Ohio School for the Deaf.",
+    long: "",
+    names: ["Topiary Park", "James T. Mason", "Georges Seurat", "Old Deaf School Park"]
+  },
+  {
+    id: "columbus-ohio-stadium",
+    name: "Ohio Stadium",
+    lat: 40.0017,
+    lng: -83.0197,
+    radius: 500,
+    short: "Ohio Stadium — the Horseshoe, built in nineteen twenty-two, seats over a hundred thousand. National Historic Landmark in nineteen seventy-four. Designed by Howard Dwight Smith. The Script Ohio is drawn here every home game. Jack Nicklaus dotted the I in nineteen sixty. The stadium is the reason Columbus bleeds scarlet and gray.",
+    long: "",
+    names: ["Ohio Stadium", "The Shoe", "Howard Dwight Smith", "Script Ohio", "Jack Nicklaus"]
+  },
+  {
+    id: "columbus-osu",
+    name: "Ohio State University",
+    lat: 40.0067,
+    lng: -83.0305,
+    radius: 1500,
+    short: "Ohio State — founded in eighteen seventy as the Ohio Agricultural and Mechanical College, opened with twenty-four students. Now one of the largest campuses in the country, nearly sixty thousand students. The Oval is its green heart. Mirror Lake was once the campus water supply. The university turned a farm college into a city within a city.",
+    long: "",
+    names: ["Ohio State University", "The Oval", "Mirror Lake", "Ohio Agricultural and Mechanical College"]
+  },
+  {
+    id: "columbus-rickenbacker",
+    name: "Eddie Rickenbacker",
+    lat: 39.9350,
+    lng: -82.9700,
+    radius: 300,
+    short: "Eddie Rickenbacker — Columbus-born, the Ace of Aces. Twenty-six confirmed aerial victories in World War One, Medal of Honor. His childhood home still stands in the Driving Park neighborhood. He later ran Eastern Air Lines and survived a twenty-four-day ordeal adrift in the Pacific in nineteen forty-two. The airport south of town bears his name.",
+    long: "",
+    names: ["Eddie Rickenbacker", "Rickenbacker International Airport", "Driving Park"]
+  },
+  {
+    id: "columbus-floodwall",
+    name: "Franklinton Floodwall",
+    lat: 39.9550,
+    lng: -83.0150,
+    radius: 800,
+    short: "The Franklinton Floodwall — seven point two miles of concrete along the Scioto, built from nineteen ninety-three to two thousand four at a final cost of one hundred thirty-four million dollars. It exists because of the nineteen thirteen flood, which killed ninety-three people and drowned Franklinton, and the nineteen fifty-nine flood that did it again. Senator John Glenn and Congresswoman Deborah Pryce fought for the money. The Bottoms finally stopped flooding.",
+    long: "",
+    names: ["Franklinton Floodwall", "Great Flood of 1913", "John Glenn", "Deborah Pryce", "Franklinton"]
+  },
+  {
+    id: "columbus-brewery-district",
+    name: "Brewery District",
+    lat: 39.9450,
+    lng: -82.9950,
+    radius: 600,
+    short: "The Brewery District — south of downtown, where German immigrant Louis Hoster opened a brewery in eighteen thirty-six. His Gold Top lager made him famous until Prohibition killed it. The old Hoster plant and the surrounding warehouses sat empty for decades, then came back as lofts, restaurants, and Columbus Brewing Company, founded in nineteen eighty-eight — the oldest craft brewery in Central Ohio.",
+    long: "",
+    names: ["Brewery District", "Louis Hoster", "Hoster Brewing", "Columbus Brewing Company", "Gold Top"]
+  },
+  {
+    id: "columbus-anheuser-busch",
+    name: "Anheuser-Busch Columbus",
+    lat: 40.0800,
+    lng: -82.9800,
+    radius: 600,
+    short: "Anheuser-Busch's Columbus brewery — six hundred twenty thousand square feet on Schrock Road, dedicated August fifteenth, nineteen sixty-eight. Forty million dollars to build, capacity of one point seven million barrels a year. The Clydesdales still parade down Parsons Avenue. It is one of only two Anheuser-Busch plants that brew non-alcohol beer, and the newest Brewhouse can make ten million barrels.",
+    long: "",
+    names: ["Anheuser-Busch", "Budweiser", "Clydesdales", "Schrock Road"]
+  },
+  {
+    id: "columbus-leVeque",
+    name: "LeVeque Tower",
+    lat: 39.9620,
+    lng: -82.9995,
+    radius: 300,
+    short: "LeVeque Tower — Art Deco skyscraper, the city's second-tallest, finished in nineteen twenty-seven. It was the tallest building between New York and Chicago when it opened. Named for Leslie LeVeque, who built it as the American Insurance Union Citadel. The limestone and terra-cotta tower still anchors the downtown skyline.",
+    long: "",
+    names: ["LeVeque Tower", "Leslie LeVeque", "American Insurance Union"]
+  },
+  {
+    id: "columbus-santa-maria",
+    name: "Santa Maria Replica",
+    lat: 39.9600,
+    lng: -83.0000,
+    radius: 300,
+    short: "A full-scale replica of Christopher Columbus's flagship, the Santa Maria, moored on the Scioto Riverfront. Installed in nineteen ninety-two for the five-hundredth anniversary of his voyage. The city is named for him, and the ship is the floating reminder of why. Genoa Park beside it is named for Columbus's birthplace.",
+    long: "",
+    names: }
+
+  {
+    id: "columbus-short-north",
+    name: "Short North",
+    lat: 39.9750,
+    lng: -83.0050,
+    radius: 700,
+    short: "The Short North — the arts district on High Street between downtown and the university. The name comes from its position just north of downtown. In the nineteen eighties it was a rough strip of empty storefronts; artists moved in, galleries opened, and the city painted the telephone poles in rainbow colors. Now it's the densest gallery row in Ohio.",
+    long: "",
+    names: },
+  {
+    id: "columbus-thurber",
+    name: "Thurber House",
+    lat: 39.9710,
+    lng: -83.0040,
+    radius: 200,
+    short: "The Thurber House on Jefferson Avenue — James Thurber lived here as a boy from nineteen oh nine to nineteen seventeen. He wrote about the ghost that got in, the night the bed fell, and his mother who couldn't tell time. The house is now a literary center and museum. Thurber drew for The New Yorker for decades, but Columbus made him.",
+    long: "",
+    names: ["Thurber House", "James Thurber", "Jefferson Avenue"]
+  },
+  {
+    id: "columbus-vet-memorial",
+    name: "Columbus Museum of Art",
+    lat: 39.9640,
+    lng: -82.9850,
+    radius: 300,
+    short: "The Columbus Museum of Art — founded in eighteen eighty-one, moved to this building on East Broad Street in nineteen thirty-one. The Pizzuti Collection wing opened in twenty nineteen. It holds one of the finest collections of early American modernism in the Midwest, including works by Georgia O'Keeffe and Edward Hopper. The sculpture garden out front is free.",
+    long: "",
+    names: ["Columbus Museum of Art", "Pizzuti Collection", "Georgia O'Keeffe", "Edward Hopper"]
+  },
+  {
+    id: "columbus-arena-district",
+    name: "Arena District",
+    lat: 39.9680,
+    lng: -83.0050,
+    radius: 500,
+    short: "The Arena District — downtown's entertainment core, built around Nationwide Arena, home of the Columbus Blue Jackets since two thousand. The district opened in two thousand with the arena, the convention center, and blocks of restaurants and bars. Before it, this was a parking lot. The Blue Jackets were the first NHL team in a non-traditional hockey market.",
+    long: "",
+    names: ["Arena District", "Nationwide Arena", "Columbus Blue Jackets", "Nationwide Insurance"]
+  },
+  {
+    id: "columbus-hilliard",
+    name: "Heritage Village",
+    lat: 39.9500,
+    lng: -83.0200,
+    radius: 400,
+    short: "Heritage Village at the Ohio History Center — a living history museum with relocated nineteenth-century buildings: a log cabin, a schoolhouse, a doctor's office, a blacksmith shop. It shows how Central Ohio lived before the capital. The Ohio History Center itself is a brutalist landmark designed by Ireland and Associates, opened in nineteen seventy.",
+    long: "",
+    names: ["Heritage Village", "Ohio History Center", "Ohio History Connection"]
+  },
+  {
+    id: "columbus-grange",
+    name: "Grange Insurance Audubon Center",
+    lat: 39.9200,
+    lng: -82.9500,
+    radius: 500,
+    short: "The Grange Insurance Audubon Center — a nature preserve and education center on the east side, built on reclaimed industrial land. It opened in two thousand six with trails, a boardwalk over a restored wetland, and a LEED-certified building. It is the first urban Audubon center in the country, proving a city can bring the wild back.",
+    long: "",
+    names: ["Grange Insurance Audubon Center", "Audubon", "Grange Insurance"]
+  },
+  {
+    id: "columbus-deaf-school",
+    name: "Ohio School for the Deaf",
+    lat: 39.9580,
+    lng: -82.9850,
+    radius: 300,
+    short: "The Ohio School for the Deaf — founded in eighteen twenty-nine, one of the oldest in the nation. The old campus on East Town Street is now Topiary Park. The school moved to a new campus on Morse Road in nineteen seventy-two. It trained generations of deaf Ohioans and gave the city its most unusual park.",
+    long: "",
+    names: ["Ohio School for the Deaf", "Topiary Park", "Morse Road"]
+  },
+  {
+    id: "columbus-penitentiary",
+    name: "Ohio Penitentiary",
+    lat: 39.9650,
+    lng: -82.9950,
+    radius: 400,
+    short: "The Ohio Penitentiary — the state's first prison, opened in eighteen thirty-four on Spring Street. It held over five thousand inmates at its peak and was the site of the worst prison fire in American history: April twenty-first, nineteen thirty, when three hundred twenty inmates died. It was torn down in nineteen ninety-eight. The Arena District now sits on the ground.",
+    long: "",
+    names: },
+  {
+    id: "columbus-streetcar",
+    name: "Columbus Streetcar",
+    lat: 39.9650,
+    lng: -83.0000,
+    radius: 600,
+    short: "The Columbus Streetcar — a two point three mile loop from the Short North through downtown to the Arena District, opened in twenty eighteen. It is the first modern streetcar in Ohio. The line replaced the old interurban that once connected Columbus to every town in the county. It runs on tracks laid over the same right-of-way.",
+    long: "",
+    names: },
+  {
+    id: "columbus-airport",
+    name: "John Glenn Columbus International",
+    lat: 39.9980,
+    lng: -82.8910,
+    radius: 800,
+    short: "John Glenn Columbus International Airport — the city's main airport, renamed in two thousand three for the astronaut and senator who grew up in New Concord. The original Port Columbus opened in nineteen twenty-nine as one of the first municipal airports in the country. Charles Lindbergh dedicated it. Glenn's name replaced the old one after his death.",
+    long: "",
+    names: ["John Glenn Columbus International Airport", "Port Columbus", "John Glenn", "Charles Lindbergh"]
+  },
+  {
+    id: "columbus-refinery",
+    name: "Standard Oil Refinery",
+    lat: 39.9500,
+    lng: -82.9800,
+    radius: 500,
+    short: "The Standard Oil refinery on the south side — built in the eighteen eighties, one of the largest in the Midwest. It processed crude from Pennsylvania and later from Oklahoma. The refinery closed in nineteen seventy-three, but the storage tanks and pipelines shaped the neighborhood for a century. The land is now industrial park.",
+    long: "",
+    names: ["Standard Oil", "South Side", "Columbus Refinery"]
+  },
+  {
+    id: "columbus-railroad-yards",
+    name: "Columbus Rail Yards",
+    lat: 39.9600,
+    lng: -83.0100,
+    radius: 800,
+    short: "Columbus was a railroad crossroads — the Pennsylvania, the Baltimore and Ohio, the New York Central, and the Chesapeake and Ohio all met here. The yards downtown handled freight for the whole state. The last passenger train left Union Station in nineteen seventy-nine. The old station is now the convention center.",
+    long: "",
+    names: ["Columbus Rail Yards", "Union Station", "Pennsylvania Railroad", "Baltimore and Ohio", "New York Central"]
+  }
 
 ];
 

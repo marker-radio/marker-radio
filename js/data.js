@@ -1193,6 +1193,126 @@ id: "columbus-jesse-owens",
     long: "",
     names: ["National Road", "Hilltop", "West Broad Street", "Route 40", "Camp Chase"]
   },
+  {
+    id: "ohio-statehouse",
+    name: "Ohio Statehouse",
+    lat: 39.9614,
+    lng: -82.9989,
+    radius: 350,
+    short: "You are passing the reason Columbus exists. In eighteen twelve, the state needed a capital in the middle of Ohio. Four Franklinton landowners offered ten acres on the high bank of the Scioto, opposite the older town. The Statehouse rose here from eighteen thirty nine to eighteen sixty one. Five architects. Twenty two years. Greek Revival stone. It is still a working capitol, and Broad and High remain the city's one hundred percent corner.",
+    long: "",
+    names: ["Ohio Statehouse", "Scioto River", "Franklinton", "Broad and High"]
+  },
+  {
+    id: "franklinton",
+    name: "Franklinton",
+    lat: 39.9607,
+    lng: -83.0160,
+    radius: 700,
+    short: "This is Franklinton, older than Columbus by fifteen years. In seventeen ninety seven, surveyor Lucas Sullivant laid out a town on the west bank of the Scioto and named it for Benjamin Franklin. Floods nearly erased it. The great flood of nineteen thirteen put water through these streets and pushed the city's future to the higher east bank. The Sullivant Land Office still stands near Gift Street, the last building tied to the founder.",
+    long: "",
+    names: ["Lucas Sullivant", "Franklinton", "Scioto River", "Flood of 1913", "Sullivant Land Office"]
+  },
+  {
+    id: "scioto-river-broad",
+    name: "Scioto River at Broad Street",
+    lat: 39.9610,
+    lng: -83.0055,
+    radius: 500,
+    short: "The Scioto made this city possible and tried to wash it away. Native trails followed this river from Lake Erie to the Ohio. Lucas Sullivant built a wooden toll bridge here in eighteen sixteen. Floods took later spans. The present Discovery Bridge is at least the sixth crossing on this line. When you drive Broad Street over the water, you are on the old hinge between Franklinton and the capital laid out on the opposite bank.",
+    long: "",
+    names: ["Scioto River", "Discovery Bridge", "Lucas Sullivant", "Scioto Trail"]
+  },
+  {
+    id: "leveque-tower",
+    name: "LeVeque Tower",
+    lat: 39.9625,
+    lng: -83.0020,
+    radius: 300,
+    short: "The tower on your left, if you are on Broad, is the LeVeque. Finished in nineteen twenty seven as the American Insurance Union Citadel, it stood five hundred fifty five feet and was the tallest building in Columbus for nearly fifty years. The terra cotta is covered in statues, medallions, and astrological signs. It was a Jazz Age boast that the insurance city on the Scioto had arrived.",
+    long: "",
+    names: ["LeVeque Tower", "American Insurance Union Citadel", "Palace Theatre"]
+  },
+  {
+    id: "german-village",
+    name: "German Village",
+    lat: 39.9458,
+    lng: -82.9928,
+    radius: 700,
+    short: "You are in German Village. Mid eighteen hundreds, German immigrants settled south of downtown. By eighteen sixty five they were nearly a third of Columbus. Brick cottages, iron fences, brick streets. In the nineteen fifties the city nearly tore it down. Neighbors, including Frank Fetch, fought back. In nineteen sixty it became Columbus's first historic district, and later the largest privately funded historic district on the National Register.",
+    long: "",
+    names: ["German Village", "Frank Fetch", "German Village Society"]
+  },
+  {
+    id: "schiller-park",
+    name: "Schiller Park",
+    lat: 39.9422,
+    lng: -82.9926,
+    radius: 450,
+    short: "Schiller Park was Stewart's Grove before the city bought it in eighteen sixty seven. Germans gathered here for songfests and the Ohio State Fair in the Civil War years. In eighteen ninety one they raised a bronze Friedrich von Schiller, cast in Munich. During World War One, anti German feeling renamed the park Washington. In nineteen thirty the old name came back. The park is the green heart of German Village.",
+    long: "",
+    names: ["Schiller Park", "Friedrich von Schiller", "Stewart's Grove", "German Village"]
+  },
+  {
+    id: "brewery-district-hoster",
+    name: "Brewery District",
+    lat: 39.9522,
+    lng: -83.0010,
+    radius: 550,
+    short: "This low ground by the Scioto and the old feeder canal was made for beer. Louis Hoster opened a brewery here in eighteen thirty six. Hoster, Schlee, and Born's Capitol Brewery turned Front Street into a German industrial row. By the eighteen nineties Hoster was a household name in Ohio. Prohibition shut the kettles. The brick hulks remain. The neighborhood still carries the name of the work that built it.",
+    long: "",
+    names: ["Louis Hoster", "Hoster Brewing Company", "Brewery District", "Schlee Brewery", "Born's Capitol Brewery"]
+  },
+  {
+    id: "thurber-house",
+    name: "Thurber House",
+    lat: 39.9658,
+    lng: -82.9852,
+    radius: 250,
+    short: "Seventy seven Jefferson Avenue. James Thurber lived in this eighteen seventy three house while he went to Ohio State, from nineteen thirteen to nineteen seventeen. He wrote for the Columbus Dispatch, then The New Yorker. Walter Mitty, the unicorn in the garden, the dogs, the cartoons. Columbus was not a backdrop for Thurber. It was the room he kept writing from, even after he left.",
+    long: "",
+    names: ["James Thurber", "Thurber House", "The New Yorker", "Ohio State"]
+  },
+  {
+    id: "fort-hayes",
+    name: "Fort Hayes",
+    lat: 39.9739,
+    lng: -82.9883,
+    radius: 500,
+    short: "Fort Hayes began as the Columbus Arsenal in the Civil War, authorized in eighteen sixty two on land from the Neil family. A shot tower went up in eighteen sixty four. Later it was Columbus Barracks, then Fort Hayes, named for President Rutherford B. Hayes. Men shipped from here for the world wars and Korea. The Army left in two thousand nine. The brick post and tower are now a public school campus on a former arsenal.",
+    long: "",
+    names: ["Fort Hayes", "Columbus Arsenal", "Rutherford B. Hayes", "Neil family"]
+  },
+  {
+    id: "shrum-mound",
+    name: "Shrum Mound",
+    lat: 39.9900,
+    lng: -83.0806,
+    radius: 350,
+    short: "On the west bluff of the Scioto, Shrum Mound is one of the last ancient burial mounds left inside Columbus. Adena people raised this cone about two thousand years ago. It stands roughly twenty feet high and a hundred feet across. The Shrum family farmed around it. Minnie Shrum deeded it to the Ohio Historical Society in nineteen twenty eight. Official records also call it Campbell Mound. It is quiet ground that predates every street you are on.",
+    long: "",
+    names: ["Shrum Mound", "Campbell Mound", "Adena", "Ohio History Connection"]
+  },
+  {
+    id: "eddie-rickenbacker",
+    name: "Eddie Rickenbacker",
+    lat: 39.9372,
+    lng: -83.0371,
+    radius: 400,
+    short: "Green Lawn Cemetery. Eddie Rickenbacker was born in Columbus in eighteen ninety to Swiss immigrant parents. He left school young, raced cars, then became America's Ace of Aces in World War One, with twenty six victories and the Medal of Honor. He later ran Eastern Air Lines. After his death in nineteen seventy three, Lockbourne Air Force Base south of town took his name. He is buried here in section fifty eight.",
+    long: "",
+    names: ["Eddie Rickenbacker", "Green Lawn Cemetery", "Eastern Air Lines", "Rickenbacker Air Force Base"]
+  },
+  {
+    id: "national-veterans-memorial",
+    name: "National Veterans Memorial and Museum",
+    lat: 39.9606,
+    lng: -83.0095,
+    radius: 350,
+    short: "On the Scioto, at three hundred West Broad, the National Veterans Memorial and Museum sits on the old river edge between Franklinton and downtown. It opened in two thousand eighteen as the only museum in the country dedicated to the veterans story across every war. The concrete ring faces the water that first brought people through this valley, and the city that sent them out again from Camp Chase, Fort Hayes, and the airfield that now bears Rickenbacker's name.",
+    long: "",
+    names: ["National Veterans Memorial and Museum", "Scioto River", "Camp Chase", "Fort Hayes", "Eddie Rickenbacker"]
+  },
 
 ];
 

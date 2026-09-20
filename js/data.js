@@ -977,5 +977,93 @@ const STORIES = [
     long: "",
     names: ["Honda", "East Liberty", "Civic", "Acura TLX", "Acura Integra"]
   }
+  {
+    id: "columbus-victorian-village",
+    name: "Victorian Village",
+    lat: 39.9770,
+    lng: -83.0100,
+    radius: 700,
+    short: "Victorian Village — the neighborhood around Goodale Park. Italianate and Queen Anne houses from the eighteen seventies and eighties, tree-lined streets, one of Columbus's first official historic districts in nineteen seventy-three. It sits on the Near Northside, listed on the National Register. The houses face the park Dr. Lincoln Goodale gave the city.",
+    long: "",
+    names: ["Victorian Village", "Near Northside", "Goodale Park"]
+  },
+  {
+    id: "columbus-italian-village",
+    name: "Italian Village",
+    lat: 39.9780,
+    lng: -83.0020,
+    radius: 600,
+    short: "Italian Village — just east of the Short North, designated a historic district in nineteen seventy-three. Brick row houses and narrow streets built for working families in the late eighteen hundreds. It is one of four Columbus neighborhoods that still have their own historic district rules, alongside German Village, Victorian Village, and the Brewery District.",
+    long: "",
+    names: ["Italian Village", "Short North"]
+  },
+  {
+    id: "columbus-olde-towne-east",
+    name: "Olde Towne East",
+    lat: 39.9650,
+    lng: -82.9800,
+    radius: 800,
+    short: "Olde Towne East — over a thousand homes dating to the eighteen thirties, more than fifty architectural styles. Once the address of Columbus's wealthiest families. The Ohio Institution for the Education of the Blind opened here in eighteen seventy-four. After mid-century decline, artists and renovators brought the blocks back. History is visible house by house.",
+    long: "",
+    names: ["Olde Towne East", "Ohio Institution for the Education of the Blind"]
+  },
+  {
+    id: "columbus-king-lincoln",
+    name: "King-Lincoln Bronzeville",
+    lat: 39.9680,
+    lng: -82.9800,
+    radius: 700,
+    short: "King-Lincoln Bronzeville — the historic heart of Black Columbus. In the early nineteen hundreds it held jazz clubs, Black-owned banks, churches, and newspapers. James Poindexter's Antislavery Baptist Church was already moving freedom seekers through this side of town in the eighteen twenties. The Lincoln Theatre and King Arts Complex still stand on that ground.",
+    long: "",
+    names: ["King-Lincoln Bronzeville", "James Poindexter", "Mount Vernon Avenue"]
+  },
+  {
+    id: "columbus-north-market",
+    name: "North Market",
+    lat: 39.9720,
+    lng: -83.0040,
+    radius: 250,
+    short: "North Market — opened in eighteen seventy-six as a public food hall north of downtown. The current building sits in the North Market Historic District. For a century and a half it has been the place Columbus buys meat, bread, and produce under one roof. The vendors change; the market does not.",
+    long: "",
+    names: ["North Market", "North Market Historic District"]
+  },
+  {
+    id: "columbus-toc-depot",
+    name: "Toledo and Ohio Central Depot",
+    lat: 39.9605,
+    lng: -83.0107,
+    radius: 200,
+    short: "The Toledo and Ohio Central Depot on West Broad Street — opened April eighteenth, eighteen ninety-six, designed by Yost and Packard with pagoda-style towers. It is the last remaining passenger station in Columbus. Trains left here until nineteen thirty, when service moved to Union Station. The building survived the nineteen thirteen flood and two fires. It is now a union hall.",
+    long: "",
+    names: ["Toledo and Ohio Central Depot", "Yost and Packard", "West Broad Street", "Franklinton"]
+  },
+  {
+    id: "columbus-union-station",
+    name: "Union Station",
+    lat: 39.9720,
+    lng: -83.0030,
+    radius: 400,
+    short: "Union Station stood on High Street just north of what is now Nationwide Boulevard. Three buildings occupied that corner from eighteen fifty to nineteen seventy-six. The last passenger train left in nineteen seventy-nine from a temporary shed. The convention center sits on the ground. Columbus was a railroad city long before it was a capital city.",
+    long: "",
+    names: ["Union Station", "Nationwide Boulevard", "High Street"]
+  },
+  {
+    id: "columbus-livingston-park",
+    name: "Livingston Park",
+    lat: 39.9570,
+    lng: -82.9800,
+    radius: 300,
+    short: "Livingston Park — the city's first park land, bought in eighteen thirty-nine as a cemetery for eleven hundred twenty-five dollars. The graves were moved to Green Lawn before it opened as a public park in eighteen eighty-five. It is older than Goodale as city property, even if Goodale opened first as a developed park.",
+    long: "",
+    names: ["Livingston Park", "Green Lawn Cemetery"]
+  },
+  {
+    id: "columbus-jesse-owens",
+    name: "Jesse Owens",
+    lat: 40.0067,
+    lng: -83.0305,
+    radius: 800,
+    short: "Jesse Owens trained
+
 ];
 

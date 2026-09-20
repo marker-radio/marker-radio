@@ -2513,6 +2513,485 @@ id: "columbus-jesse-owens",
     long: "",
     names: ["Delaware", "Ohio Wesleyan University", "Rutherford B. Hayes", "Olentangy River"]
   },
-    
+     {
+    id: "fort-winchester",
+    name: "Fort Winchester",
+    lat: 41.2858,
+    lng: -84.3560,
+    radius: 350,
+    short: "Fort Winchester sat on this same point in the War of eighteen twelve. The old Fort Defiance works were gone. William Henry Harrison's army needed a new post at the forks, bigger, stretching south along the Auglaize. Sidewalk plaques in Defiance still mark the walls. Two forts. One confluence. Wayne's war, then Tecumseh's war, on the same wet ground.",
+    long: "",
+    names: ["Fort Winchester", "William Henry Harrison", "War of 1812", "Fort Defiance"]
+  },
+  {
+    id: "defiance-college",
+    name: "Defiance College",
+    lat: 41.2965,
+    lng: -84.3655,
+    radius: 400,
+    short: "Defiance College began in eighteen fifty as a church school and became a college in the early nineteen hundreds. It sits on a rise above the rivers. A fort town that wanted more than canal traffic built a campus. For a county seat in the old swamp, that was the bet that education would stay when the boats left.",
+    long: "",
+    names: ["Defiance College"]
+  },
+  {
+    id: "independence-dam",
+    name: "Independence Dam",
+    lat: 41.2925,
+    lng: -84.2810,
+    radius: 500,
+    short: "Independence Dam is on the Maumee east of Defiance. The state built it to feed the Miami and Erie Canal. The pool became a park after the canal died. Fishermen still work the same water that once floated grain toward Toledo. The dam is leftover canal engineering wearing a state park name.",
+    long: "",
+    names: ["Independence Dam", "Miami and Erie Canal", "Maumee River"]
+  },
+  {
+    id: "pontiac-park",
+    name: "Pontiac Park",
+    lat: 41.2888,
+    lng: -84.3592,
+    radius: 300,
+    short: "Pontiac Park sits on the Defiance riverfront under an Ottawa name. Pontiac led a war against British posts in seventeen sixty three. He did not fight this exact point as a capital, but the Maumee valley was his world. The city put the name on public ground at the forks. It is a park label that admits who held the confluence first.",
+    long: "",
+    names: ["Pontiac Park", "Pontiac", "Ottawa", "Maumee River"]
+  },
+  {
+    id: "defiance-downtown",
+    name: "Defiance Downtown",
+    lat: 41.2819,
+    lng: -84.3629,
+    radius: 500,
+    short: "Defiance was platted in eighteen twenty two and made a county seat in eighteen forty five. The courthouse block faces a town that the canals and then the Baltimore and Ohio and Wabash trains built. Brick storefronts on First and Second are the county's front room. A fort name became a grid, then a city in eighteen eighty one.",
+    long: "",
+    names: ["Defiance"]
+  },
+  {
+    id: "johnny-appleseed-defiance",
+    name: "Johnny Appleseed in Defiance",
+    lat: 41.2840,
+    lng: -84.3580,
+    radius: 400,
+    short: "John Chapman, Johnny Appleseed, moved along the Maumee and Auglaize with seed and nursery stock. Local memory puts him through Defiance when this was still fort country turning into farms. He is buried in Fort Wayne. His work is the orchards that followed the rivers. If you heard him in Fort Wayne, this is the Ohio side of the same walk.",
+    long: "",
+    names: ["Johnny Appleseed", "John Chapman", "Defiance", "Maumee River"]
+  },
+  {
+    id: "auglaize-river-defiance",
+    name: "Auglaize River",
+    lat: 41.2750,
+    lng: -84.3555,
+    radius: 600,
+    short: "The Auglaize comes up from the south and hits the Maumee at Defiance. French traders used a word for the clay and the river. Ottawa and Shawnee towns stood on its bends. Wayne followed it. Canal boats used it. The south county still drains to this brown water. Hicksville sits in the old portage country that feeds this river.",
+    long: "",
+    names: ["Auglaize River", "Maumee River", "Fort Defiance"]
+  },
+  {
+    id: "maumee-river-defiance",
+    name: "Maumee River at Defiance",
+    lat: 41.2905,
+    lng: -84.3500,
+    radius: 600,
+    short: "The Maumee is the big water of northwest Ohio. It runs from Fort Wayne to Lake Erie. Defiance is the first Ohio city on that line after the Indiana border country. Floods, ice, canal slackwater, and later U.S. Twenty Four all used this valley. If the Auglaize made the fork, the Maumee made the road.",
+    long: "",
+    names: ["Maumee River", "Fort Wayne", "U.S. 24"]
+  },
+  {
+    id: "sherwood-ohio",
+    name: "Sherwood",
+    lat: 41.2906,
+    lng: -84.5533,
+    radius: 400,
+    short: "Sherwood is a Defiance County village on the road between Hicksville and the county seat. The railroad and the drained farms made the stop. It is one of the small grids testers roll through without a welcome sign that explains itself. A swamp county needed shipping points every few miles. This was one.",
+    long: "",
+    names: ["Sherwood"]
+  },
+  {
+    id: "ney-ohio",
+    name: "Ney",
+    lat: 41.3806,
+    lng: -84.5227,
+    radius: 350,
+    short: "Ney is a tiny Defiance County village named, by local telling, for Napoleon's marshal. The Black Swamp towns borrowed European names the way they borrowed tile and rail. A crossroads, a grain elevator, a school that consolidated away. You are in the county's north farms, not on the river.",
+    long: "",
+    names: ["Ney"]
+  },
+  {
+    id: "oakwood-ohio",
+    name: "Oakwood",
+    lat: 41.0953,
+    lng: -84.3786,
+    radius: 400,
+    short: "Oakwood sits in south Defiance County toward the Paulding line. The Clover Leaf and later rail lines, plus drainage ditches, made a village in the oaks. It is farm-service town, not river town. The south county drained later than the Maumee bank. That is why the houses feel newer and the woods feel closer.",
+    long: "",
+    names: ["Oakwood"]
+  },
+  {
+    id: "payne-ohio",
+    name: "Payne",
+    lat: 41.0773,
+    lng: -84.7272,
+    radius: 400,
+    short: "Payne is a Paulding County railroad village near the Indiana line. The Nickel Plate and other roads in the eighteen eighties pulled a town out of the last swamp timber. Oil and gas later poked the same fields. It is a border stop between Hicksville country and Van Wert country. The tracks are the founding.",
+    long: "",
+    names: ["Payne"]
+  },
+     {
+    id: "defiance-courthouse",
+    name: "Defiance County Courthouse",
+    lat: 41.2847,
+    lng: -84.3633,
+    radius: 250,
+    short: "The courthouse on Clinton Street opened in eighteen seventy three. Architect J.C. Johnson mixed Second Empire and Italian Villa brick for a county that had only been seated here since eighteen forty five. Veteran memorials sit on the lawn. This block is why Defiance is the one city in the county. Government stayed at the forks when the farms filled the rest of the map.",
+    long: "",
+    names: ["Defiance County Courthouse", "J.C. Johnson"]
+  },
+  {
+    id: "defiance-library",
+    name: "Defiance Public Library",
+    lat: 41.2874,
+    lng: -84.3568,
+    radius: 250,
+    short: "The Carnegie library opened in nineteen five on the Fort Defiance ground. Cannons face the two rivers. Andrew Carnegie paid for the building. The city put its books on the old parade. You can stand on the porch and see why Wayne picked the point. A library on a fort is the town in one sentence.",
+    long: "",
+    names: ["Defiance Public Library", "Andrew Carnegie", "Fort Defiance"]
+  },
+  {
+    id: "diehl-brewery",
+    name: "Diehl Brewery",
+    lat: 41.2825,
+    lng: -84.3685,
+    radius: 350,
+    short: "Christian Diehl came from Germany and took over a Defiance brewery after the Civil War. The Diehl family ran it for three generations, through Prohibition, until nineteen fifty five. River towns drank local beer before the national plants. Diehl Park still carries the name. Front Street in Columbus had Hoster. Defiance had Diehl.",
+    long: "",
+    names: ["Christian Diehl", "Diehl Brewery", "Diehl Park"]
+  },
+  {
+    id: "gm-defiance-foundry",
+    name: "GM Defiance Foundry",
+    lat: 41.2840,
+    lng: -84.3280,
+    radius: 600,
+    short: "General Motors built a huge foundry on State Route Two Eighty One after the Second World War. Engine blocks and iron poured here for decades. It is one of the plants that kept Defiance from shrinking when the canals were already gone. Farm county plus a foundry floor. That mix is the modern town.",
+    long: "",
+    names: ["General Motors", "GM Defiance Foundry"]
+  },
+  {
+    id: "defiance-machine-works",
+    name: "Defiance Machine Works",
+    lat: 41.2810,
+    lng: -84.3665,
+    radius: 350,
+    short: "Defiance Machine Works started around eighteen fifty and made machine tools that shipped worldwide. The Kettenring family ran it. A canal town learned to cut metal. After the nineteen thirteen flood, shops like this pushed Defiance toward heavier industry. The brick houses on Holgate Avenue are where that money landed.",
+    long: "",
+    names: ["Defiance Machine Works", "Kettenring"]
+  },
+  {
+    id: "holgate-avenue",
+    name: "Holgate Avenue",
+    lat: 41.2825,
+    lng: -84.3744,
+    radius: 400,
+    short: "Holgate Avenue is Defiance's mansion street. William C. Holgate, a lawyer who helped form the county and the college, built here in the eighteen fifties. Queen Anne houses followed. The district is on the walking tour for a reason. Canal and machine-shop money wanted high ground off the flood blocks.",
+    long: "",
+    names: ["Holgate Avenue", "William C. Holgate"]
+  },
+  {
+    id: "auglaize-village",
+    name: "Auglaize Village",
+    lat: 41.2495,
+    lng: -84.4010,
+    radius: 400,
+    short: "Auglaize Village is the Defiance County Historical Society's outdoor museum south of town. Moved barns, shops, and a school show the swamp county after the fort and before the foundry. It opened in the nineteen sixties so the tools would not vanish when the last farmsteads came down. If the downtown is the county seat, this is the county attic.",
+    long: "",
+    names: ["Auglaize Village", "Defiance County Historical Society"]
+  },
+  {
+    id: "kingsbury-park",
+    name: "Kingsbury Park",
+    lat: 41.2785,
+    lng: -84.3610,
+    radius: 350,
+    short: "Kingsbury Park sits on land given by Clara Latty and named for attorney B. Kingsbury. Pool, diamonds, river-side grass. It is the everyday park, not the fort park. A town that floods needs high public ground. Families have used this one for generations while the Maumee rose and fell a few blocks away.",
+    long: "",
+    names: ["Kingsbury Park", "Clara Latty"]
+  },
+  {
+    id: "defiance-1913-flood",
+    name: "Defiance 1913 Flood",
+    lat: 41.2869,
+    lng: -84.3600,
+    radius: 500,
+    short: "March nineteen thirteen, the Maumee and Auglaize came over the banks and through the original plat. First and Wayne still mark the water. Machine shops and houses took the hit. The same flood wrecked Dayton and Franklinton. Defiance answered by pushing industry onto higher ground and remembering the line the rivers claimed.",
+    long: "",
+    names: ["Flood of 1913", "Maumee River", "Auglaize River"]
+  },
+  {
+    id: "alene-duerk",
+    name: "Alene Duerk",
+    lat: 41.2819,
+    lng: -84.3629,
+    radius: 400,
+    short: "Alene Duerk grew up in Defiance and became the first woman to reach rear admiral in the United States Navy. She served as a nurse through the world war and the decades after, then broke the rank line in nineteen seventy two. A river town sent a nurse to the fleet. The title came later. The start was here.",
+    long: "",
+    names: ["Alene Duerk"]
+  },
+  {
+    id: "wild-bill-davison",
+    name: "Wild Bill Davison",
+    lat: 41.2819,
+    lng: -84.3629,
+    radius: 400,
+    short: "Jazz cornet player Wild Bill Davison was born in Defiance in nineteen oh six. He left the Maumee for Chicago and New York and kept a hot, broken tone that records still carry. Northwest Ohio thinks of forts and foundries. It also produced a horn player who stood in with the greats. The river town had a night side.",
+    long: "",
+    names: ["Wild Bill Davison"]
+  },
+  {
+    id: "tuttle-museum",
+    name: "Andrew L. Tuttle Museum",
+    lat: 41.2828,
+    lng: -84.3638,
+    radius: 250,
+    short: "The Andrew L. Tuttle Memorial Museum downtown keeps Defiance artifacts in the old Home Savings building. Native tools, military pieces, and a Simplex airplane hang from the story of a company founded here in nineteen twenty eight. If Auglaize Village is the outdoor county, this is the indoor town.",
+    long: "",
+    names: ["Andrew L. Tuttle Memorial Museum", "Simplex Aero"]
+  },
+     {
+    id: "lock-37-defiance",
+    name: "Canal Lock 37",
+    lat: 41.2836,
+    lng: -84.3542,
+    radius: 250,
+    short: "Lock Thirty Seven sits at Three oh nine Perry Street. It is a remaining chamber of the Miami and Erie at Defiance. Boats stepped down toward the Maumee here. Most of the canal is a ditch or a memory. This lock is the piece you can still stand beside and see the stairs the water used.",
+    long: "",
+    names: ["Miami and Erie Canal", "Lock 37", "Defiance"]
+  },
+  {
+    id: "riverside-cemetery-defiance",
+    name: "Riverside Cemetery",
+    lat: 41.2733,
+    lng: -84.3783,
+    radius: 350,
+    short: "Riverside Cemetery is on South Clinton, above the Auglaize. The chapel is on the National Register. Canal men, shop men, and the Holgate families are in these rows. A river town buries its people on the bank it could not always hold. The chapel is the quiet civic building after the courthouse and the library.",
+    long: "",
+    names: ["Riverside Cemetery", "Riverside Chapel"]
+  },
+  {
+    id: "st-john-defiance",
+    name: "St. John Catholic Church",
+    lat: 41.2848,
+    lng: -84.3605,
+    radius: 250,
+    short: "German and Irish Catholics built parishes in Defiance once the canals brought workers. St. John on the river side was the earlier Catholic roof. The first building stood nearer the Maumee. Later brick replaced it. Faith arrived with the same boats that brought Diehl's brewery and the machine shops.",
+    long: "",
+    names: ["St. John Catholic Church", "Defiance"]
+  },
+  {
+    id: "brunersburg",
+    name: "Brunersburg",
+    lat: 41.3185,
+    lng: -84.3920,
+    radius: 350,
+    short: "Brunersburg is a mill hamlet north of Defiance on the Tiffin River. A dam and a few streets. It is older than it looks. Water power beat the swamp here before the county seat took all the ink. Testers cross this valley on the way to Bryan and never get a sign that a mill town happened.",
+    long: "",
+    names: ["Brunersburg", "Tiffin River"]
+  },
+  {
+    id: "evansport",
+    name: "Evansport",
+    lat: 41.3887,
+    lng: -84.3963,
+    radius: 350,
+    short: "Evansport sits on the Tiffin River in north Defiance County. The village grew around a mill and a crossing. Two cemeteries mark how long families stayed. It is the farm town between Defiance and Stryker country. River, mill, grid. That is the whole founding.",
+    long: "",
+    names: ["Evansport", "Tiffin River"]
+  },
+  {
+    id: "florida-ohio",
+    name: "Florida",
+    lat: 41.3450,
+    lng: -84.2027,
+    radius: 300,
+    short: "Florida, Ohio, is a Henry and Defiance line village on the old river road. The name is the joke everyone makes, then the canal and the Maumee flats are the real story. A small grid in the drained swamp. You did not miss a city. You passed a river stop that kept a post office.",
+    long: "",
+    names: ["Florida Ohio", "Maumee River"]
+  },
+  {
+    id: "jewell-ohio",
+    name: "Jewell",
+    lat: 41.3267,
+    lng: -84.2861,
+    radius: 300,
+    short: "Jewell is a crossroads east of Defiance toward Independence Dam. Grain, a rail siding, a name on the county map. Canal slackwater and later the highway made it a blink. The dam town and the county seat got the parks. Jewell kept the elevator.",
+    long: "",
+    names: ["Jewell"]
+  },
+  {
+    id: "black-swamp-defiance",
+    name: "Great Black Swamp",
+    lat: 41.2700,
+    lng: -84.3700,
+    radius: 800,
+    short: "Defiance County sat in the Great Black Swamp. After the glaciers, this was wet woods, malaria, and roads that drowned. Settlers tiled the ground, cut the timber, and dug the canals. The farms you see are a constructed landscape. Local memory still talks about the mosquitoes, the corduroy roads, and the ditches that had to come before a courthouse made sense.",
+    long: "",
+    names: ["Great Black Swamp"]
+  },
+  {
+    id: "tiffin-river",
+    name: "Tiffin River",
+    lat: 41.3100,
+    lng: -84.3920,
+    radius: 500,
+    short: "The Tiffin River meets the Maumee at Defiance from the north. It drains Williams and Fulton country toward the forks. Mills at Brunersburg and Evansport used it. The name comes from Edward Tiffin, Ohio's first governor. Three rivers make this county seat, not two. Testers driving south from Bryan are following this water whether they see it or not.",
+    long: "",
+    names: ["Tiffin River", "Edward Tiffin", "Maumee River"]
+  },
+  {
+    id: "buckeye-trail-defiance",
+    name: "Buckeye Trail at Defiance",
+    lat: 41.2880,
+    lng: -84.3520,
+    radius: 400,
+    short: "The Buckeye Trail threads Defiance along the rivers and the old canal. Ohio's long hiking loop uses the same confluence Wayne used. City and county put signs up so the trail is not only a line on a map. If you are driving the forks, walkers are using the bank you just passed.",
+    long: "",
+    names: ["Buckeye Trail", "Maumee River"]
+  },
+  {
+    id: "simpled-aero-defiance",
+    name: "Simplex Aero",
+    lat: 41.2828,
+    lng: -84.3638,
+    radius: 300,
+    short: "Simplex Aero started in Defiance in nineteen twenty eight and built light planes. A machine-tool town tried the air. The Tuttle Museum hangs a Simplex as the reminder. Rickenbacker is the famous Ohio flyer from Columbus. Defiance had a shop that actually framed wings on the Maumee.",
+    long: "",
+    names: ["Simplex Aero", "Andrew L. Tuttle Memorial Museum"]
+  },
+  {
+    id: "defiance-legend-ice",
+    name: "Maumee Ice Gorges",
+    lat: 41.2895,
+    lng: -84.3480,
+    radius: 500,
+    short: "Local legend here is not a headless rider. It is ice. The Maumee jams in late winter, piles up at the forks, and has shoved water into streets more than once besides nineteen thirteen. People still talk about the night the river walked into town. In a swamp county the scary story is the water remembering the way.",
+    long: "",
+    names: ["Maumee River", "Flood of 1913"]
+  },
+      {
+    id: "williams-courthouse",
+    name: "Williams County Courthouse",
+    lat: 41.4741,
+    lng: -84.5517,
+    radius: 300,
+    short: "The Williams County Courthouse rose on Bryan's square in eighteen ninety one. Architect E.O. Fallis built a Richardson Romanesque tower about one hundred sixty feet tall. You can see it across the flat county. John A. Bryan donated the seat land in eighteen forty. The tower is why drivers know they have reached the county town and not another farm grid.",
+    long: "",
+    names: ["Williams County Courthouse", "E.O. Fallis", "John A. Bryan"]
+  },
+  {
+    id: "fountain-city-wells",
+    name: "Fountain City Wells",
+    lat: 41.4748,
+    lng: -84.5525,
+    radius: 500,
+    short: "Bryan is Fountain City because artesian wells once pushed cold water out of the ground without a pump. Settlers drank it and packed food in it before ice plants. The nickname stuck after most of the fountains were capped. The town still draws well water. In the Black Swamp, a free-flowing spring was a founding gift.",
+    long: "",
+    names: ["Fountain City", "Bryan"]
+  },
+  {
+    id: "spangler-candy",
+    name: "Spangler Candy",
+    lat: 41.4720,
+    lng: -84.5480,
+    radius: 400,
+    short: "Arthur Spangler bought a baking powder works in Defiance in nineteen six, moved it to Bryan, and turned it into candy. Dum Dums, candy canes, Bit-O-Honey, Sweethearts. The factory still runs. The water tower wears eight giant Dum Dums. A county seat in the old swamp became a place the rest of the country tastes without knowing the map.",
+    long: "",
+    names: ["Spangler Candy", "Arthur Spangler", "Dum Dums"]
+  },
+  {
+    id: "ohio-art-bryan",
+    name: "Ohio Art",
+    lat: 41.4765,
+    lng: -84.5465,
+    radius: 350,
+    short: "Doctor Henry Winzeler founded Ohio Art in Bryan in nineteen oh eight to make metal picture frames. In nineteen sixty the company began making the Etch A Sketch, a French idea stamped and sold from this town. For more than fifty years the silver screen that shakes clean came from Bryan. The toy left. The metal shop stayed.",
+    long: "",
+    names: ["Ohio Art", "Henry Winzeler", "Etch A Sketch"]
+  },
+  {
+    id: "bryan-railroad",
+    name: "Bryan Railroad",
+    lat: 41.4709,
+    lng: -84.5426,
+    radius: 400,
+    short: "The Michigan Southern reached Bryan in eighteen fifty five and tied the new county seat to Toledo and Chicago. Later the Wabash and the Cincinnati, Jackson and Mackinaw added more iron. A courthouse town without a river needed tracks. The depot ground on Wilson and Edgerton streets is why the square did not stay a lonely plat in the woods.",
+    long: "",
+    names: ["Michigan Southern Railroad", "Wabash Railroad", "Bryan"]
+  },
+  {
+    id: "bryan-city-band",
+    name: "Bryan City Band",
+    lat: 41.4742,
+    lng: -84.5518,
+    radius: 250,
+    short: "The Bryan City Band plays the courthouse square and is one of the oldest town bands in the country. Wednesday nights in summer the bandstand still works. A fountain city kept a civic habit that most towns let die. The music is not a festival import. It is local memory with brass.",
+    long: "",
+    names: ["Bryan City Band", "Williams County Courthouse"]
+  },
+  {
+    id: "wabash-cannonball-bryan",
+    name: "Wabash Cannonball Trail",
+    lat: 41.4900,
+    lng: -84.5400,
+    radius: 500,
+    short: "The Wabash Cannonball Trail follows the old Wabash Railroad across Williams County. West Unity and Montpelier sit on the same line. The trains that made those villages are gone. The grade is a path. When you cross the north county you are on a freight road that kept the swamp towns alive after the wells and before the four-lane.",
+    long: "",
+    names: ["Wabash Cannonball Trail", "Wabash Railroad"]
+  },
+  {
+    id: "stryker-ohio",
+    name: "Stryker",
+    lat: 41.5036,
+    lng: -84.4166,
+    radius: 450,
+    short: "Stryker was platted in eighteen fifty three for the Michigan Southern and named for railroad man John Stryker. It was the first Williams County town with rails, a year before Bryan. The stone depot is on the National Register. A railroad executive's last name became a village. That is how this county was organized.",
+    long: "",
+    names: ["Stryker", "John Stryker", "Michigan Southern Railroad"]
+  },
+  {
+    id: "west-unity",
+    name: "West Unity",
+    lat: 41.5864,
+    lng: -84.4349,
+    radius: 400,
+    short: "West Unity sits on the Wabash line in north Williams County. The name is a hope from the eighteen thirties. The railroad and later the Cannonball Trail are why the brick main street exists. It is a farm town that faced Michigan more than it faced the Maumee. Testers headed toward Pioneer and the state line come through here.",
+    long: "",
+    names: ["West Unity", "Wabash Railroad"]
+  },
+  {
+    id: "pioneer-ohio",
+    name: "Pioneer",
+    lat: 41.6806,
+    lng: -84.5530,
+    radius: 400,
+    short: "Pioneer is Williams County's north door, almost on the Michigan line. The name is the whole story. People who kept going when the swamp was still wet stopped here. A small grid, a school, a border habit. Ohio ends a few fields up the road.",
+    long: "",
+    names: ["Pioneer"]
+  },
+  {
+    id: "edon-ohio",
+    name: "Edon",
+    lat: 41.5540,
+    lng: -84.7677,
+    radius: 400,
+    short: "Edon is a Williams County village near the Indiana line. The Wabash built a depot. The eighteen ninety three station later moved to the park. Timber and farms made the stop. Hicksville is south. Angola is west. Edon is the quiet corner where three maps meet and almost nobody slows down.",
+    long: "",
+    names: ["Edon", "Wabash Railroad"]
+  },
+  {
+    id: "pulaski-ohio",
+    name: "Pulaski",
+    lat: 41.4987,
+    lng: -84.5096,
+    radius: 300,
+    short: "Pulaski is a crossroads between Bryan and Stryker, named like so many Ohio hamlets for a Revolutionary hero. The Cincinnati, Jackson and Mackinaw came through in the eighteen eighties. A grain elevator and a few houses. County history happens in these unnamed-feeling miles as much as on the courthouse lawn.",
+    long: "",
+    names: ["Pulaski"]
+  },
     ];
 

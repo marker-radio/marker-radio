@@ -129,5 +129,105 @@ const STORIES = [
     long: "",
     names: ["Crook and Miller", "Great Black Swamp"]
   }
+ {
+    id: "fortwayne-kekionga",
+    name: "Kekionga",
+    lat: 41.0814,
+    lng: -85.1339,
+    radius: 900,
+    short: "Before the fort, this was Kekionga — the capital of the Miami nation, at the meeting of the St. Joseph, St. Marys, and Maumee rivers. Little Turtle called it that glorious gate through which all the good words of our chiefs had to pass. The portage here linked the Great Lakes to the Mississippi. The towns came after the treaties, not before.",
+    long: "",
+    names: ["Kekionga", "Miami", "Little Turtle", "Maumee River", "St. Joseph River", "St. Marys River"]
+  },
+  {
+    id: "fortwayne-wayne",
+    name: "Anthony Wayne",
+    lat: 41.0814,
+    lng: -85.1339,
+    radius: 700,
+    short: "General Mad Anthony Wayne built the first American fort here on October twenty-second, seventeen ninety-four, after defeating the Miami at Fallen Timbers. He named it for himself. Two more forts followed — one survived the eighteen-twelve siege, the last was torn down in eighteen nineteen. The city took the fort's name.",
+    long: "",
+    names: ["Anthony Wayne", "Fallen Timbers", "Fort Wayne"]
+  },
+  {
+    id: "fortwayne-siege",
+    name: "Siege of 1812",
+    lat: 41.0797,
+    lng: -85.1394,
+    radius: 600,
+    short: "September fifth to twelfth, eighteen twelve — the only time Fort Wayne was truly threatened. After Detroit and Fort Dearborn fell, Potawatomi and Miami warriors besieged the garrison. Captain Rhea held on, barely. William Henry Harrison's relief army arrived on the twelfth and the attackers fled. Two soldiers died. The frontier held.",
+    long: "",
+    names: ["Siege of Fort Wayne", "William Henry Harrison", "War of 1812"]
+  },
+  {
+    id: "fortwayne-canal",
+    name: "Wabash and Erie Canal",
+    lat: 41.0797,
+    lng: -85.1394,
+    radius: 800,
+    short: "Ground broke here February twenty-second, eighteen thirty-two. The Wabash and Erie was the longest canal ever built in North America — four hundred sixty-eight miles. Fort Wayne sat at its highest point, the summit, which is why the city is still called Summit City. The canal made the town a boomtown before the railroads killed it.",
+    long: "",
+    names: ["Wabash and Erie Canal", "Summit City"]
+  },
+  {
+    id: "fortwayne-appleseed",
+    name: "Johnny Appleseed",
+    lat: 41.1118,
+    lng: -85.1232,
+    radius: 250,
+    short: "John Chapman — Johnny Appleseed — spent his last years planting orchards around Fort Wayne and is buried in Johnny Appleseed Park on Parnell Avenue. The stone reads: He lived for others. Seventeen seventy-four to eighteen forty-five.",
+    long: "",
+    names: ["Johnny Appleseed", "John Chapman", "Johnny Appleseed Park"]
+  },
+  {
+    id: "fortwayne-richardville",
+    name: "Chief Richardville",
+    lat: 41.0314,
+    lng: -85.1644,
+    radius: 200,
+    short: "Chief Jean Baptiste de Richardville — Pinšiwa — built this house in eighteen twenty-seven on the St. Marys River. Principal chief of the Miami from eighteen eighteen until his death in eighteen forty-one, he signed five treaties with the United States. It is one of only three treaty houses east of the Mississippi, and a National Historic Landmark.",
+    long: "",
+    names: ["Chief Richardville", "Jean Baptiste de Richardville", "Pinšiwa", "Miami"]
+  },
+  {
+    id: "fortwayne-courthouse",
+    name: "Allen County Courthouse",
+    lat: 41.0797,
+    lng: -85.1394,
+    radius: 300,
+    short: "The Allen County Courthouse — Beaux-Arts masterpiece by local architect Brentwood Tolan, completed nineteen oh two. Copper dome two hundred fifty-five feet high, topped by a fourteen-foot Lady Liberty. Murals, scagliola, stained glass. National Historic Landmark. The building the whole city used to give directions by.",
+    long: "",
+    names: ["Allen County Courthouse", "Brentwood Tolan", "Lady Liberty"]
+  },
+  {
+    id: "fortwayne-history-center",
+    name: "The History Center",
+    lat: 41.0795,
+    lng: -85.1363,
+    radius: 200,
+    short: "The History Center — Fort Wayne's old city hall, built eighteen ninety-three in Richardsonian Romanesque sandstone. It served as city government until nineteen seventy-one, then became the museum. The old jail in the basement is still unrestored. Thirty thousand artifacts, from the Ice Age to today.",
+    long: "",
+    names: ["The History Center", "Old City Hall", "Wing and Mahurin"]
+  },
+  {
+    id: "fortwayne-littleturtle",
+    name: "Little Turtle",
+    lat: 41.0912,
+    lng: -85.1324,
+    radius: 150,
+    short: "Chief Little Turtle — Me-she-kin-no-quah — the Miami war leader who defeated two American armies here in seventeen ninety and ninety-one, then chose peace. He died in Fort Wayne in eighteen twelve and was buried with full military honors. His grave was rediscovered in nineteen twelve under a house on Lawton Place. The sword Washington gave him is in the History Center.",
+    long: "",
+    names: ["Little Turtle", "Me-she-kin-no-quah", "Miami"]
+  },
+  {
+    id: "fortwayne-headwaters",
+    name: "Headwaters Park",
+    lat: 41.0843,
+    lng: -85.1395,
+    radius: 400,
+    short: "Headwaters Park — thirty acres at the exact spot where the St. Marys and St. Joseph rivers join to form the Maumee. This is the reason Fort Wayne exists. Flood-control basin, festival ground, and the zero-mile marker of the Rivergreenway. The first night baseball game in America was played here in eighteen eighty-three.",
+    long: "",
+    names: ["Headwaters Park", "Three Rivers", "Rivergreenway"]
+  }
 ];
 

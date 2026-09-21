@@ -128,7 +128,7 @@ const STORIES = [
     short: "Hicksville was timber before it was corn. Handle factories and stave mills sat by the railroad. Crook and Miller made handles on Railroad Street. Local shops even turned out a curly-fry machine. The swamp was drained so farms and factories could use the same tracks.",
     long: "",
     names: ["Crook and Miller", "Great Black Swamp"]
-  }
+  },
  {
     id: "fortwayne-kekionga",
     name: "Kekionga",
@@ -228,7 +228,7 @@ const STORIES = [
     short: "Headwaters Park — thirty acres at the exact spot where the St. Marys and St. Joseph rivers join to form the Maumee. This is the reason Fort Wayne exists. Flood-control basin, festival ground, and the zero-mile marker of the Rivergreenway. The first night baseball game in America was played here in eighteen eighty-three.",
     long: "",
     names: ["Headwaters Park", "Three Rivers", "Rivergreenway"]
-  }
+  },
 {
     id: "auburn-founding",
     name: "Auburn Automobile Company",
@@ -307,7 +307,7 @@ const STORIES = [
     short: "Before the carriages, this was Miami land along the St. Joseph River. The Treaty of St. Mary's in eighteen eighteen opened DeKalb County to settlement, and Auburn was platted soon after. The name comes from the golden color of the autumn leaves, not the hair.",
     long: "",
     names: ["Miami", "Treaty of St. Mary's", "St. Joseph River", "DeKalb County"]
-  }
+  },
  {
     id: "columbus-founding",
     name: "Franklinton and Columbus",
@@ -406,7 +406,7 @@ const STORIES = [
     short: "November nineteen seventy-four — Columbus had its own monster. Dozens of people reported a six-foot green hairy creature with claws near Mill Race Park. Women said it jumped on their car and scratched the paint. The parks director counted armed searchers. It turned out to be a man in green blankets and a mask. The legend stuck anyway.",
     long: "",
     names: ["Mill Race Monster", "Mill Race Park"]
-  }
+  },
 {
     id: "columbus-founding",
     name: "Franklinton and Columbus",
@@ -505,7 +505,7 @@ const STORIES = [
     short: "November nineteen seventy-four — Columbus had its own monster. Dozens of people reported a six-foot green hairy creature with claws near Mill Race Park. Women said it jumped on their car and scratched the paint. The parks director counted armed searchers. It turned out to be a man in green blankets and a mask. The legend stuck anyway.",
     long: "",
     names: ["Mill Race Monster", "Mill Race Park"]
-  }
+  },
 {
     id: "columbus-german-village",
     name: "German Village",
@@ -623,7 +623,7 @@ const STORIES = [
     radius: 300,
     short: "A full-scale replica of Christopher Columbus's flagship, the Santa Maria, moored on the Scioto Riverfront. Installed in nineteen ninety-two for the five-hundredth anniversary of his voyage. The city is named for him, and the ship is the floating reminder of why. Genoa Park beside it is named for Columbus's birthplace.",
     long: "",
-    names: }
+    names: },
 {
     id: "columbus-german-village",
     name: "German Village",
@@ -741,7 +741,7 @@ const STORIES = [
     radius: 300,
     short: "A full-scale replica of Christopher Columbus's flagship, the Santa Maria, moored on the Scioto Riverfront. Installed in nineteen ninety-two for the five-hundredth anniversary of his voyage. The city is named for him, and the ship is the floating reminder of why. Genoa Park beside it is named for Columbus's birthplace.",
     long: "",
-    names: }
+    names: },
 
   {
     id: "columbus-short-north",
@@ -859,7 +859,7 @@ const STORIES = [
     short: "Columbus was a railroad crossroads — the Pennsylvania, the Baltimore and Ohio, the New York Central, and the Chesapeake and Ohio all met here. The yards downtown handled freight for the whole state. The last passenger train left Union Station in nineteen seventy-nine. The old station is now the convention center.",
     long: "",
     names: ["Columbus Rail Yards", "Union Station", "Pennsylvania Railroad", "Baltimore and Ohio", "New York Central"]
-  }
+  },
   {
     id: "columbus-short-north-galleries",
     name: "Short North Galleries",
@@ -976,7 +976,7 @@ const STORIES = [
     short: "Honda's East Liberty plant — opened in nineteen eighty-five, the first Honda plant outside Japan to build cars for the American market. It produces the Civic, the Acura TLX, and the Acura Integra. Over four thousand workers, three shifts, and a museum on site. It turned a small Ohio town into a Japanese-American manufacturing hub.",
     long: "",
     names: ["Honda", "East Liberty", "Civic", "Acura TLX", "Acura Integra"]
-  }
+  },
   {
     id: "columbus-victorian-village",
     name: "Victorian Village",

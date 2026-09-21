@@ -2993,5 +2993,246 @@ id: "columbus-jesse-owens",
     long: "",
     names: ["Pulaski"]
   },
+      {
+    id: "aro-corporation",
+    name: "Aro Corporation",
+    lat: 41.4780,
+    lng: -84.5430,
+    radius: 350,
+    short: "Aro Corporation made air tools and pumps in Bryan. For much of the twentieth century it was one of the plants that sat beside candy and picture frames. A courthouse town in the swamp became a machine town. When people say Bryan is not only Dum Dums, this is the other floor.",
+    long: "",
+    names: ["Aro Corporation", "Bryan"]
+  },
+  {
+    id: "bard-manufacturing",
+    name: "Bard Manufacturing",
+    lat: 41.4695,
+    lng: -84.5550,
+    radius: 350,
+    short: "Bard Manufacturing has made heating and cooling equipment in Bryan for more than a century. While Spangler made the smell and Ohio Art made the toy, Bard made the boxes that heat farmhouses across the Midwest. Industry here was never one company. It was a stack of shops on the same flat grid.",
+    long: "",
+    names: ["Bard Manufacturing"]
+  },
+  {
+    id: "bryan-airmail",
+    name: "Bryan Air Mail Field",
+    lat: 41.4660,
+    lng: -84.5065,
+    radius: 400,
+    short: "Bryan had an early airmail field on the east side. In the nineteen twenties the Post Office tried to thread night flying across the Midwest. A county seat with rails wanted a runway too. The marker is easy to miss. The idea was not. Even Fountain City tried to join the air age.",
+    long: "",
+    names: ["Bryan Air Mail Field"]
+  },
+  {
+    id: "john-a-bryan",
+    name: "John A. Bryan",
+    lat: 41.4748,
+    lng: -84.5525,
+    radius: 400,
+    short: "John A. Bryan was Ohio's auditor. In eighteen forty he gave land for a new Williams County seat and the town took his name. The old county business had been farther north and east. He pulled the courthouse onto this prairie. A state officer in Columbus left his last name on a swamp-county square.",
+    long: "",
+    names: ["John A. Bryan", "Williams County"]
+  },
+  {
+    id: "williams-county-library",
+    name: "Williams County Library",
+    lat: 41.4735,
+    lng: -84.5520,
+    radius: 250,
+    short: "The Williams County Public Library in Bryan keeps the local history room. If a family name, a well, or a factory floor is going to be proven, it is here. Montpelier has the historical society on the fairgrounds. Bryan has the paper trail on the square. Two rooms. One county.",
+    long: "",
+    names: ["Williams County Public Library"]
+  },
+  {
+    id: "evans-gar-bryan",
+    name: "Evans GAR Post",
+    lat: 41.4755,
+    lng: -84.5510,
+    radius: 250,
+    short: "Evans Post of the Grand Army of the Republic stood for Bryan's Civil War veterans. Williams County sent farm boys east and south. The square still holds veteran stone. Northwest Ohio's war story is not a battlefield in town. It is names on a courthouse lawn and a post that kept the memory when the men were old.",
+    long: "",
+    names: ["Grand Army of the Republic", "Evans Post"]
+  },
+  {
+    id: "opdycke-park",
+    name: "Opdycke Park",
+    lat: 41.4520,
+    lng: -84.5480,
+    radius: 400,
+    short: "Opdycke Park south of Bryan was cut from the old county infirmary farm and named for engineer Leonard Opdycke. Fifty acres of public ground on land that once held the poor farm. Counties used to hide that work outside town. Now it is a park. The use changed. The county ownership did not.",
+    long: "",
+    names: ["Opdycke Park", "Leonard Opdycke"]
+  },
+  {
+    id: "goldie-newman-park",
+    name: "Goldie Newman Park",
+    lat: 41.4950,
+    lng: -84.5330,
+    radius: 400,
+    short: "Goldie Newman gave fifty acres on State Route Fifteen as a wildlife sanctuary in nineteen seventy four. The county later added a dog park. It is not a square with a bandstand. It is a woman putting woods back on a map that had been tiled for corn.",
+    long: "",
+    names: ["Goldie Newman Park", "Goldie Newman"]
+  },
+  {
+    id: "williams-native-ground",
+    name: "Williams County Native Ground",
+    lat: 41.4748,
+    lng: -84.5525,
+    radius: 700,
+    short: "Before Bryan there was no town here. Ottawa, Wyandot, and other nations used the wet woods of the Black Swamp. Treaties after Fallen Timbers and later purchases opened Williams County in eighteen twenty. The wells that made Fountain City were already here. The courthouse is the new claim. The water is the old one.",
+    long: "",
+    names: ["Ottawa", "Wyandot", "Great Black Swamp", "Williams County"]
+  },
+  {
+    id: "alvordton",
+    name: "Alvordton",
+    lat: 41.6650,
+    lng: -84.4340,
+    radius: 300,
+    short: "Alvordton grew when the Wabash and later another road crossed north Williams County. It is a railroad birth, like Blakeslee. The trains thinned. The name stayed on the county map near Pioneer. Testers headed for Michigan roll through a town the timetable invented.",
+    long: "",
+    names: ["Alvordton", "Wabash Railroad"]
+  },
+  {
+    id: "blakeslee-ohio",
+    name: "Blakeslee",
+    lat: 41.5242,
+    lng: -84.7308,
+    radius: 300,
+    short: "Blakeslee is a Wabash Railroad village west of Montpelier, born about eighteen eighty one when the line needed a stop. Edon is the next blink. Hicksville is south. A few streets and a crossing. That is a swamp-county railroad town in full.",
+    long: "",
+    names: ["Blakeslee", "Wabash Railroad"]
+  },
+  {
+    id: "kunkle-ohio",
+    name: "Kunkle",
+    lat: 41.6170,
+    lng: -84.4950,
+    radius: 250,
+    short: "Kunkle is a north Williams County speck on the old Wabash. A name, a road, an elevator if you catch it. The county is full of these. They are not empty. They are what drainage and a timetable could afford.",
+    long: "",
+    names: ["Kunkle"]
+  },
+{
+    id: "henry-courthouse",
+    name: "Henry County Courthouse",
+    lat: 41.3920,
+    lng: -84.1255,
+    radius: 300,
+    short: "The Henry County Courthouse in Napoleon opened in eighteen eighty two. Architect David W. Gibbs designed the Second Empire tower after fire ate the last two halls, including the Dutch Row fire of eighteen seventy nine. A goddess of Justice stands on the clock. Patrick Henry got the county name. Napoleon Bonaparte got the town. The brick got the square.",
+    long: "",
+    names: ["Henry County Courthouse", "David W. Gibbs", "Patrick Henry"]
+  },
+  {
+    id: "napoleon-canal",
+    name: "Napoleon Canal",
+    lat: 41.3905,
+    lng: -84.1285,
+    radius: 500,
+    short: "German immigrants dug and worked the Miami and Erie Canal through Napoleon. The Maumee is the wet street. The canal was the graded one. Grain left these docks toward Toledo. When the canal died the river road and the rails kept the county seat alive. The town is a German canal town with a French emperor's name.",
+    long: "",
+    names: ["Miami and Erie Canal", "Napoleon", "Maumee River"]
+  },
+  {
+    id: "napoleon-1913-flood",
+    name: "Napoleon 1913 Flood",
+    lat: 41.3910,
+    lng: -84.1265,
+    radius: 500,
+    short: "The nineteen thirteen flood hit Napoleon the way it hit Defiance and Franklinton. The Maumee left the banks and walked the original streets. A river county seat learns the same lesson every generation. The courthouse stands. The low blocks remember.",
+    long: "",
+    names: ["Flood of 1913", "Maumee River", "Napoleon"]
+  },
+  {
+    id: "campbell-napoleon",
+    name: "Campbell Soup Napoleon",
+    lat: 41.4060,
+    lng: -84.1180,
+    radius: 500,
+    short: "Campbell Soup built a huge plant on the north side of Napoleon. Tomatoes and other crops from the drained swamp went into cans here. Henry County farms needed a floor that could take the harvest. The smell on a cook day is the modern version of the canal warehouse.",
+    long: "",
+    names: ["Campbell Soup", "Napoleon"]
+  },
+  {
+    id: "henry-historical-society",
+    name: "Henry County Historical Society",
+    lat: 41.3945,
+    lng: -84.1290,
+    radius: 300,
+    short: "The Henry County Historical Society keeps the Bloomfield House and a log home and school at the fairgrounds. Nathaniel Hartman's cabin and an eighteen ninety seven Lutheran school sit there. If the courthouse is the official county, this is the saved kitchen and classroom.",
+    long: "",
+    names: ["Henry County Historical Society", "Nathaniel Hartman"]
+  },
+  {
+    id: "holgate-ohio",
+    name: "Holgate",
+    lat: 41.2489,
+    lng: -84.1333,
+    radius: 400,
+    short: "Holgate is a south Henry County railroad village. The name also sits on a mansion street in Defiance. Here it is a farm grid with tracks. Baltimore and Ohio country. Testers running between Napoleon and the Putnam County line pass a town the timetable made.",
+    long: "",
+    names: ["Holgate"]
+  },
+  {
+    id: "deshler-ohio",
+    name: "Deshler",
+    lat: 41.2073,
+    lng: -83.8991,
+    radius: 400,
+    short: "Deshler grew at a railroad crossing in east Henry County. John Deshler of Columbus was tied to the land company. Towers and elevators still read as a rail town. The east county looks toward Findlay and Wood County. The west county looks toward the Maumee. Deshler is the hinge.",
+    long: "",
+    names: ["Deshler"]
+  },
+  {
+    id: "liberty-center",
+    name: "Liberty Center",
+    lat: 41.4431,
+    lng: -84.0072,
+    radius: 400,
+    short: "Liberty Center sits north of the Maumee in Henry County. A village on the road to Wauseon and the Fulton County line. The name is a Union-era hope. Farms, a school, a main street that never tried to be Napoleon. North county is this, not the courthouse square.",
+    long: "",
+    names: ["Liberty Center"]
+  },
+  {
+    id: "hamler-ohio",
+    name: "Hamler",
+    lat: 41.2298,
+    lng: -84.0347,
+    radius: 350,
+    short: "Hamler is a German farm village in south Henry County. The name is a family name on a plat. Churches and an elevator. Harvest festivals still treat it as a place, not a dot. The south county kept speaking German in the pews longer than the courthouse did.",
+    long: "",
+    names: ["Hamler"]
+  },
+  {
+    id: "mcclure-ohio",
+    name: "McClure",
+    lat: 41.3714,
+    lng: -83.9416,
+    radius: 350,
+    short: "McClure is an east Henry County village toward Wood County. Rail and ditch country. A small grid between Deshler and the river towns. If Napoleon is the emperor's name on the Maumee, McClure is a settler's name on the tiled prairie.",
+    long: "",
+    names: ["McClure"]
+  },
+  {
+    id: "malinta-ohio",
+    name: "Malinta",
+    lat: 41.3223,
+    lng: -84.0366,
+    radius: 300,
+    short: "Malinta is a crossroads south of Napoleon. The name sounds Spanish and sits on a very Ohio plat. Grain, a rail line, a few streets. Henry County is full of these service towns. They exist so the courthouse town does not have to be the only stop.",
+    long: "",
+    names: ["Malinta"]
+  },
+  {
+    id: "new-bavaria",
+    name: "New Bavaria",
+    lat: 41.2045,
+    lng: -84.1680,
+    radius: 300,
+    short: "New Bavaria is a German Catholic hamlet in southwest Henry County toward Putnam. The name tells the founding. A church and a cluster of houses in the old swamp timber. Defiance County is west. The language faded. The dedication in the title did not.",
+    long: "",
+    names: ["New Bavaria"]
+  },
+    
     ];
 

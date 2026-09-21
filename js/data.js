@@ -3233,6 +3233,1168 @@ id: "columbus-jesse-owens",
     long: "",
     names: ["New Bavaria"]
   },
+     {
+    id: "fort-wayne-history-center",
+    name: "History Center",
+    lat: 41.0805,
+    lng: -85.1385,
+    radius: 250,
+    short: "The History Center downtown is the Allen County Fort Wayne Historical Society in the old city hall. This is the indoor Kekionga. Treaties, tools, factory floors, and the fort story sit in one building. If a tester says the app missed a street, this is the room that still has the paper.",
+    long: "",
+    names: ["History Center", "Allen County Fort Wayne Historical Society"]
+  },
+  {
+    id: "baker-street-station",
+    name: "Baker Street Station",
+    lat: 41.0728,
+    lng: -85.1418,
+    radius: 300,
+    short: "Baker Street was Fort Wayne's Pennsylvania Railroad station. The city sat on lines to Chicago, Pittsburgh, and Cincinnati. Summit City by canal became a rail hub by timetable. The brick depot is the passenger version of the freight that built the factories. Trains made the three rivers a stop instead of a dead end.",
+    long: "",
+    names: ["Baker Street Station", "Pennsylvania Railroad"]
+  },
+  {
+    id: "nickel-plate-fort-wayne",
+    name: "Nickel Plate Road",
+    lat: 41.0755,
+    lng: -85.1280,
+    radius: 400,
+    short: "The Nickel Plate cut across Fort Wayne with the Wabash and the Pennsy. Engine shops and crossing towers turned neighborhoods into railroad streets. West Central and the east yards still show it. A river town that already had a canal doubled down on iron. That is why the grid feels bigger than the rivers.",
+    long: "",
+    names: ["Nickel Plate Road", "Wabash Railroad"]
+  },
+  {
+    id: "ge-fort-wayne",
+    name: "General Electric Fort Wayne",
+    lat: 41.0835,
+    lng: -85.1185,
+    radius: 500,
+    short: "General Electric ran a huge works on the east side. Motors, transformers, and later electronics. Magnavox and other shops made this an electric city, not only a fort city. Generations clocked in here. When people say Fort Wayne built things, they mean these floors as much as the stockade.",
+    long: "",
+    names: ["General Electric", "Magnavox"]
+  },
+  {
+    id: "international-harvester-fw",
+    name: "International Harvester",
+    lat: 41.0640,
+    lng: -85.1090,
+    radius: 450,
+    short: "International Harvester built trucks on the east side. Fort Wayne was a motor town as well as a wire and magnet town. The plant pulled workers from the three rivers and from the farms east toward New Haven. Industry here is not one smokestack. It is truck, pump, radio, and insurance stacked on the same map.",
+    long: "",
+    names: ["International Harvester"]
+  },
+  {
+    id: "lincoln-national-fw",
+    name: "Lincoln National Life",
+    lat: 41.0768,
+    lng: -85.1398,
+    radius: 300,
+    short: "Lincoln National Life made Fort Wayne an insurance city. The Lincoln Tower downtown was the tall bet. A three-rivers town sold policies the way Columbus sold Farm Bureau. Factory wages and office wages shared the same streets. The tower is that second economy in stone.",
+    long: "",
+    names: ["Lincoln National Life", "Lincoln Tower"]
+  },
+  {
+    id: "foster-park",
+    name: "Foster Park",
+    lat: 41.0605,
+    lng: -85.1555,
+    radius: 450,
+    short: "Foster Park follows the St. Marys on the south side. It is one of the old river parks, not a leftover lot. Picnic ground, golf, the bank. Fort Wayne used the three rivers as public land after it used them as a fort. This is the St. Marys version of that choice.",
+    long: "",
+    names: ["Foster Park", "St. Marys River"]
+  },
+  {
+    id: "franke-park",
+    name: "Franke Park",
+    lat: 41.1085,
+    lng: -85.1550,
+    radius: 500,
+    short: "Franke Park on the north side holds the zoo, the amphitheater, and woods along the feeder country. It is the big family park. A city that floods downtown still kept high ground for play. If Headwaters is the fork, Franke is the afternoon.",
+    long: "",
+    names: ["Franke Park"]
+  },
+  {
+    id: "shoaff-park",
+    name: "Shoaff Park",
+    lat: 41.1450,
+    lng: -85.0980,
+    radius: 500,
+    short: "Shoaff Park sits on the St. Joseph in the northeast. River, trails, the north side's open ground. Testers coming down from Auburn toward the city often meet this water before they meet Calhoun Street. The St. Joseph is the river Johnny Appleseed's park also uses. Same stream. Different bank.",
+    long: "",
+    names: ["Shoaff Park", "St. Joseph River"]
+  },
+  {
+    id: "swinney-park",
+    name: "Swinney Park",
+    lat: 41.0705,
+    lng: -85.1610,
+    radius: 350,
+    short: "Swinney Park and the old Swinney homestead sit on the west side near the St. Marys. The Swinney family was early Fort Wayne money. The park is the estate turned public. West Central's big houses and this ground are the same chapter: river-side wealth that became civic land.",
+    long: "",
+    names: ["Swinney Park", "Swinney Homestead"]
+  },
+  {
+    id: "fort-wayne-floods",
+    name: "Fort Wayne Floods",
+    lat: 41.0850,
+    lng: -85.1335,
+    radius: 600,
+    short: "The local legend is the rivers remembering. Nineteen thirteen, nineteen eighty two, two thousand two. Ice and rain push the St. Marys and St. Joseph into the streets around Headwaters. People still talk about the night downtown became a lake. In a confluence town the scary story is true more than once.",
+    long: "",
+    names: ["Headwaters Park", "Flood of 1913", "St. Marys River", "St. Joseph River"]
+  },
+  {
+    id: "appleseed-grave-legend",
+    name: "Appleseed Grave Dispute",
+    lat: 41.1122,
+    lng: -85.1236,
+    radius: 300,
+    short: "Local argument: whether the stone in Johnny Appleseed Park marks the exact bones. Archer Cemetery, the feeder bank, family memory, and later parks all claim a piece. The city picked a place and kept a festival. The legend is that the man who would not stay put still will not sit still under one marker.",
+    long: "",
+    names: ["Johnny Appleseed", "John Chapman", "Johnny Appleseed Park"]
+  },
+      {
+    id: "barr-street-market",
+    name: "Barr Street Market",
+    lat: 41.0788,
+    lng: -85.1365,
+    radius: 250,
+    short: "Barr Street Market is one of the oldest public market grounds in Indiana. Farmers sold here when the fort town was still a county village. The stalls are the civic version of the three rivers trade. Kekionga was a market. This block kept the habit.",
+    long: "",
+    names: ["Barr Street Market"]
+  },
+  {
+    id: "west-central-fw",
+    name: "West Central",
+    lat: 41.0755,
+    lng: -85.1485,
+    radius: 450,
+    short: "West Central is Fort Wayne's old mansion and brick district west of downtown. Lawyers, shop owners, and factory men built here when the rails paid. The streets still hold that scale. If Calhoun is the official city, West Central is the parlor.",
+    long: "",
+    names: ["West Central"]
+  },
+  {
+    id: "lindenwood-cemetery",
+    name: "Lindenwood Cemetery",
+    lat: 41.0770,
+    lng: -85.1755,
+    radius: 400,
+    short: "Lindenwood on the west side is the city's big nineteenth century cemetery. Civic names, factory names, and family plots share the hills. A three-rivers town buries its people off the flood line. The ground is a who's who without a guidebook.",
+    long: "",
+    names: ["Lindenwood Cemetery"]
+  },
+  {
+    id: "lawton-park",
+    name: "Lawton Park",
+    lat: 41.0935,
+    lng: -85.1385,
+    radius: 350,
+    short: "Lawton Park sits north of downtown along the old feeder country. It is named for General Henry W. Lawton, who grew up in this county and died in the Philippines. A city park with a war name. The north side used this ground when the canal feeder still mattered.",
+    long: "",
+    names: ["Lawton Park", "Henry W. Lawton"]
+  },
+  {
+    id: "botanical-conservatory-fw",
+    name: "Foellinger-Freimann Conservatory",
+    lat: 41.0818,
+    lng: -85.1412,
+    radius: 250,
+    short: "The Foellinger-Freimann Botanical Conservatory downtown is a glass garden on old river city ground. Foellinger and Freimann money put plants in public. It is a park that works in January. Fort Wayne's civic habit is to turn private names into rooms everyone can walk.",
+    long: "",
+    names: ["Foellinger-Freimann Botanical Conservatory"]
+  },
+  {
+    id: "bass-mansion",
+    name: "Bass Mansion",
+    lat: 41.0875,
+    lng: -85.1758,
+    radius: 300,
+    short: "John H. Bass built the mansion now on the University of Saint Francis campus. Bass foundries and mills were early Fort Wayne industry. The house is factory money in stone. The campus kept it. West side wealth and the river shops meet at this door.",
+    long: "",
+    names: ["John H. Bass", "Bass Mansion", "University of Saint Francis"]
+  },
+  {
+    id: "hugh-mcculloch",
+    name: "Hugh McCulloch",
+    lat: 41.0797,
+    lng: -85.1394,
+    radius: 350,
+    short: "Hugh McCulloch banked in Fort Wayne and became Lincoln's secretary of the treasury. A three-rivers banker helped finance the Union. The city likes the fort story. This is the money story. National war, local ledger.",
+    long: "",
+    names: ["Hugh McCulloch", "Abraham Lincoln"]
+  },
+  {
+    id: "bill-blass-fw",
+    name: "Bill Blass",
+    lat: 41.0790,
+    lng: -85.1400,
+    radius: 350,
+    short: "Bill Blass was born in Fort Wayne in nineteen twenty two and became an American fashion designer. The three rivers sent a name to New York the way they sent Lombard to film. Factory town, runway town. Same map.",
+    long: "",
+    names: ["Bill Blass"]
+  },
+  {
+    id: "henry-rudisill",
+    name: "Henry Rudisill",
+    lat: 41.0780,
+    lng: -85.1370,
+    radius: 350,
+    short: "Henry Rudisill helped pull German settlers to Fort Wayne in the eighteen thirties and forties. Mills, churches, and the German south and west sides followed. The cathedral and the brick neighborhoods are part of that bet. A Miami fork became a German-American factory city in one generation.",
+    long: "",
+    names: ["Henry Rudisill"]
+  },
+  {
+    id: "harmars-defeat",
+    name: "Harmar's Defeat",
+    lat: 41.0865,
+    lng: -85.1305,
+    radius: 400,
+    short: "In seventeen ninety, Josiah Harmar's army came at Kekionga and lost. Miami and allied fighters broke the campaign on this ground before Wayne built the fort. Fallen Timbers gets the textbook. This defeat is why Wayne had to come at all. The city stands on a battlefield that most drivers never hear named.",
+    long: "",
+    names: ["Harmar's Defeat", "Josiah Harmar", "Kekionga", "Little Turtle"]
+  },
+  {
+    id: "samuel-hanna",
+    name: "Samuel Hanna",
+    lat: 41.0795,
+    lng: -85.1390,
+    radius: 350,
+    short: "Samuel Hanna was the trader and promoter who pushed canals, land, and the county seat. Early Fort Wayne civic power often runs through his name. A fort becomes a town when someone sells lots and argues for a ditch. Hanna did that work.",
+    long: "",
+    names: ["Samuel Hanna", "Wabash and Erie Canal"]
+  },
+  {
+    id: "purdue-fort-wayne",
+    name: "Purdue Fort Wayne",
+    lat: 41.1175,
+    lng: -85.1085,
+    radius: 400,
+    short: "Purdue Fort Wayne sits on the northeast side near the St. Joseph. The campus is the later school story, after the fort and the shops. A factory city added a commuter campus so the next shift could be engineers and nurses. The river is still the north edge.",
+    long: "",
+    names: ["Purdue Fort Wayne", "St. Joseph River"]
+  },
+ {
+    id: "auburn-founding",
+    name: "Auburn Founding",
+    lat: 41.3669,
+    lng: -85.0589,
+    radius: 600,
+    short: "Wesley Park and John Badlam Howe picked this site in eighteen thirty six. Two trails crossed here, the Goshen-Defiance Road and the Coldwater Road, beside Cedar Creek and John Houlton's land. The name likely comes from a poem, Sweet Auburn. A creek and a crossroads, not a fort. That is why the town exists.",
+    long: "",
+    names: ["Wesley Park", "John Badlam Howe", "Cedar Creek", "Auburn"]
+  },
+  {
+    id: "dekalb-courthouse",
+    name: "DeKalb County Courthouse",
+    lat: 41.3670,
+    lng: -85.0586,
+    radius: 250,
+    short: "Auburn is the DeKalb County seat. The courthouse square is the civic middle. County business pulled shops around this block before any automobile. Home of the Classics is the later nickname. The first job of the town was paper, taxes, and a grid at the trail crossing.",
+    long: "",
+    names: ["DeKalb County Courthouse", "Auburn"]
+  },
+  {
+    id: "cedar-creek-auburn",
+    name: "Cedar Creek",
+    lat: 41.3650,
+    lng: -85.0550,
+    radius: 500,
+    short: "Cedar Creek cuts Auburn on its way toward the St. Joseph and Fort Wayne. The plat sat on the water on purpose. Mills and ice and a town ditch followed. Miami and other nations used this creek country as travel ground long before Park drove a stake. The cars made the fame. The creek made the site.",
+    long: "",
+    names: ["Cedar Creek", "St. Joseph River"]
+  },
+  {
+    id: "eckhart-carriage",
+    name: "Eckhart Carriage Company",
+    lat: 41.3556,
+    lng: -85.0566,
+    radius: 300,
+    short: "Charles Eckhart opened a carriage shop here in eighteen seventy four. His sons Frank and Morris turned it into the Auburn Automobile Company in nineteen three. The last carriage paint shop still stands on East Seventh. Buggies first. Then the cars that made the town's name. One family. Two centuries of road vehicles.",
+    long: "",
+    names: ["Charles Eckhart", "Eckhart Carriage Company", "Auburn Automobile Company"]
+  },
+  {
+    id: "auburn-cord-museum",
+    name: "Auburn Cord Duesenberg Museum",
+    lat: 41.3548,
+    lng: -85.0572,
+    radius: 300,
+    short: "The Art Deco showroom on South Wayne was the Auburn Automobile Company office, finished about nineteen thirty. Architect A.M. Strauss. E.L. Cord tied Auburn, Cord, and Duesenberg together here. The company died in nineteen thirty seven. The building became a National Historic Landmark museum. This is the cathedral of the town's second founding.",
+    long: "",
+    names: ["Auburn Cord Duesenberg Museum", "E.L. Cord", "Auburn Automobile Company", "A.M. Strauss"]
+  },
+  {
+    id: "natmus-auburn",
+    name: "National Auto and Truck Museum",
+    lat: 41.3552,
+    lng: -85.0558,
+    radius: 250,
+    short: "The National Auto and Truck Museum sits in old Auburn factory space next to the showroom. Service bays and parts buildings became a second museum. The town did not only keep the pretty lobby. It kept the shop floor. That is the honest half of Home of the Classics.",
+    long: "",
+    names: ["National Auto and Truck Museum", "Auburn Automobile Company"]
+  },
+  {
+    id: "el-cord-auburn",
+    name: "E.L. Cord",
+    lat: 41.3548,
+    lng: -85.0572,
+    radius: 350,
+    short: "Errett Lobban Cord took Auburn upmarket, bought Duesenberg, and launched the Cord L-twenty nine with front drive. William Wrigley money was in the mix. Style outran the Depression. Production stopped in nineteen thirty seven. The man is not buried in the mystery. The buildings are. Auburn still tells time by that collapse.",
+    long: "",
+    names: ["E.L. Cord", "Cord L-29", "Duesenberg", "William Wrigley Jr."]
+  },
+  {
+    id: "eckhart-library",
+    name: "Eckhart Public Library",
+    lat: 41.3675,
+    lng: -85.0575,
+    radius: 250,
+    short: "Charles Eckhart gave the town its library, opened in nineteen eleven. He also backed a YMCA and, at the end of his life, a park. Carriage money became civic rooms. The auto factory gets the tourists. The library is what the founder wanted on the square when the shift ended.",
+    long: "",
+    names: ["Eckhart Public Library", "Charles Eckhart"]
+  },
+  {
+    id: "eckhart-park",
+    name: "Eckhart Park",
+    lat: 41.3620,
+    lng: -85.0625,
+    radius: 350,
+    short: "Eckhart Park opened in nineteen fifteen on land Charles Eckhart gave for working families. He died before the grass was really in use. Pool and diamonds came later. The park is the third Eckhart gift after the library and the Y. A factory town got public ground on purpose.",
+    long: "",
+    names: ["Eckhart Park", "Charles Eckhart"]
+  },
+  {
+    id: "auburn-railroad",
+    name: "Auburn Railroad",
+    lat: 41.3685,
+    lng: -85.0535,
+    radius: 400,
+    short: "Rails reached DeKalb County and tied Auburn to Fort Wayne and the lake roads. Cars later used the same idea: get the product out. Before Cord, the timetable was the industry. Sidings on the east side fed the shops that became automobile plants. Creek, trails, then tracks, then assembly.",
+    long: "",
+    names: ["Auburn", "Fort Wayne"]
+  },
+  {
+    id: "auburn-civil-war",
+    name: "Auburn Civil War",
+    lat: 41.3670,
+    lng: -85.0586,
+    radius: 300,
+    short: "DeKalb County sent companies out of this square. The war for Auburn is names on stone, not a battle in the street. A new county seat in the eighteen sixties was still close to the clearing. Farm boys left from here. The courthouse lawn kept the return.",
+    long: "",
+    names: ["DeKalb County Courthouse"]
+  },
+  {
+    id: "home-of-the-classics",
+    name: "Home of the Classics",
+    lat: 41.3600,
+    lng: -85.0570,
+    radius: 500,
+    short: "Local legend is not a ghost. It is the nickname. Home of the Classics. Every August the cars come back and the town acts as if nineteen thirty two never ended. People still argue which body shop painted which Cord. The collapse of nineteen thirty seven is the dark verse. The festival is the bright one. Both are Auburn.",
+    long: "",
+    names: ["Auburn Cord Duesenberg Festival", "E.L. Cord", "Auburn"]
+  },
+{
+    id: "gordon-buehrig",
+    name: "Gordon Buehrig",
+    lat: 41.3548,
+    lng: -85.0572,
+    radius: 300,
+    short: "Gordon Buehrig drew the Auburns and Cords people still line up to see. The boat-tail speedster and the coffin-nose Cord came from that pencil. He later stood in Eckhart Park for a photo with the town that kept the cars. Design is a person. In Auburn the person has a name.",
+    long: "",
+    names: ["Gordon Buehrig", "Auburn Speedster", "Cord 810"]
+  },
+  {
+    id: "wesley-park",
+    name: "Wesley Park",
+    lat: 41.3669,
+    lng: -85.0589,
+    radius: 350,
+    short: "Wesley Park was the settler who staked Auburn in eighteen thirty six with Howe. He is not the car man. He is the creek-and-crossroads man. Towns that get famous for a factory forget the first name on the plat. His last name is the park word. He was the founder.",
+    long: "",
+    names: ["Wesley Park", "John Badlam Howe"]
+  },
+  {
+    id: "zimmerman-mcintyre",
+    name: "Early Auburn Cars",
+    lat: 41.3565,
+    lng: -85.0560,
+    radius: 350,
+    short: "Before Cord, Auburn already built cars under other badges. Zimmerman, McIntyre, IMP, Kiblinger, Black. High-wheelers and small runabouts came out of these shops. Home of the Classics was a pile of companies, not one showroom. The Art Deco lobby is the last chapter, not the first.",
+    long: "",
+    names: ["Zimmerman", "McIntyre", "IMP", "Kiblinger", "Auburn Automobile Company"]
+  },
+  {
+    id: "downtown-auburn",
+    name: "Downtown Auburn",
+    lat: 41.3668,
+    lng: -85.0588,
+    radius: 350,
+    short: "The downtown historic district is the courthouse town that existed before South Wayne became a museum street. Brick stores, the library block, Main and Seventh. Festival week hides this. Ordinary weeks show it. A county seat with a car shrine still has to buy stamps.",
+    long: "",
+    names: ["Downtown Auburn Historic District"]
+  },
+  {
+    id: "eckhart-ymca",
+    name: "Eckhart YMCA",
+    lat: 41.3662,
+    lng: -85.0598,
+    radius: 250,
+    short: "Charles and Frank Eckhart paid for a YMCA dedicated in nineteen fourteen. Library, Y, park. Three gifts from carriage money. The factory sold speed. The family bought civic rooms. That split is the town's real character.",
+    long: "",
+    names: ["Eckhart YMCA", "Charles Eckhart", "Frank Eckhart"]
+  },
+  {
+    id: "auburn-mausoleum",
+    name: "Auburn Community Mausoleum",
+    lat: 41.3735,
+    lng: -85.0520,
+    radius: 250,
+    short: "The Auburn Community Mausoleum is on the National Register. Early twentieth century towns built these so families could leave the wet ground. A DeKalb County cemetery with a civic building in it. The car names get the museum. Ordinary Auburn is also in stone out here.",
+    long: "",
+    names: ["Auburn Community Mausoleum"]
+  },
+  {
+    id: "dekalb-name",
+    name: "Baron DeKalb",
+    lat: 41.3670,
+    lng: -85.0586,
+    radius: 300,
+    short: "DeKalb County is named for Johann de Kalb, the German-born French officer who died in the Revolution. Auburn sits in a county titled for a European war name, on Miami creek ground, made famous by an American car. The stack of names is the Midwest in short.",
+    long: "",
+    names: ["Baron DeKalb", "DeKalb County"]
+  },
+  {
+    id: "cedar-creek-native",
+    name: "Cedar Creek Native Ground",
+    lat: 41.3580,
+    lng: -85.0480,
+    radius: 500,
+    short: "Cedar Creek was travel water. Miami and other nations moved between the St. Joseph country and the Defiance roads along this drainage. Auburn is not Kekionga. It is a later stake on a known path. The Goshen-Defiance trail and the creek are the older map under the factory.",
+    long: "",
+    names: ["Cedar Creek", "Miami", "Goshen-Defiance Road"]
+  },
+  {
+    id: "auburn-1937",
+    name: "Auburn Shutdown 1937",
+    lat: 41.3548,
+    lng: -85.0572,
+    radius: 350,
+    short: "In August nineteen thirty seven Auburn production ended. Men walked out of the South Wayne buildings and did not come back to build Cords. The legend in town is still that week. Some families never trusted a boom again. The museum is what they saved from the silence.",
+    long: "",
+    names: ["Auburn Automobile Company", "E.L. Cord"]
+  },
+  {
+    id: "wrigley-auburn",
+    name: "Wrigley and Auburn",
+    lat: 41.3548,
+    lng: -85.0572,
+    radius: 300,
+    short: "William Wrigley Junior's money helped keep Auburn alive in the Cord years. Chewing gum and front-drive cars shared a ledger. A Chicago fortune parked in a DeKalb County showroom. When the money left, the building stayed. That is the other half of the Cord story.",
+    long: "",
+    names: ["William Wrigley Jr.", "E.L. Cord", "Auburn Automobile Company"]
+  },
+  {
+    id: "auburn-festival",
+    name: "Auburn Cord Festival",
+    lat: 41.3605,
+    lng: -85.0570,
+    radius: 400,
+    short: "Labor Day weekend the classics roll back onto Wayne Street. The festival started because the cars had become orphans and the town would not let the story die. It is civic memory disguised as a car show. If you drive through in September you are in the one week Auburn talks to the whole country.",
+    long: "",
+    names: ["Auburn Cord Duesenberg Festival"]
+  },
+  {
+    id: "garrett-indiana",
+    name: "Garrett",
+    lat: 41.3492,
+    lng: -85.1355,
+    radius: 500,
+    short: "Garrett, west of Auburn, is a Baltimore and Ohio railroad town named for president John W. Garrett. Roundhouse and shops made it. Auburn made cars. Garrett made the trains that hauled what towns like this shipped. Testers between Auburn and Kendallville cross a purpose-built rail city.",
+    long: "",
+    names: ["Garrett", "John W. Garrett", "Baltimore and Ohio Railroad"]
+  },
     
+  {
+    id: "huber-opera-house",
+    name: "Huber Opera House",
+    lat: 41.2945,
+    lng: -84.7610,
+    radius: 250,
+    short: "The Huber Opera House on High Street began as a hotel in eighteen ninety five. George H. Huber used it as a tryout house for his bigger theaters in New York and Chicago. Hicksville had a stage before it had much else. The restored house is the town's landmark, not only the church marker on the way into town.",
+    long: "",
+    names: ["Huber Opera House", "George H. Huber"]
+  },
+  {
+    id: "ap-edgerton-hicksville",
+    name: "A.P. Edgerton",
+    lat: 41.2935,
+    lng: -84.7618,
+    radius: 400,
+    short: "Alfred Peck Edgerton ran the land office that sold this corner of the Black Swamp. He cut timber, backed an early toll road, and donated ground in both Hicksville and Edgerton. St. Paul's Church stands on land tied to his gifts. Two towns carry his work. This is the one where he based the business.",
+    long: "",
+    names: ["Alfred Peck Edgerton", "St. Paul's Episcopal Church", "Edgerton"]
+  },
+  {
+    id: "st-pauls-hicksville",
+    name: "St. Paul's Episcopal Church",
+    lat: 41.2940,
+    lng: -84.7636,
+    radius: 200,
+    short: "St. Paul's on West High was built in eighteen seventy five on ground tied to A.P. Edgerton. The historical marker beside it is the one testers already know. A Broadway name is part of the local telling. In a town this size the church marker is the landmark. That is why it has to fire when you pass it.",
+    long: "",
+    names: ["St. Paul's Episcopal Church", "Alfred Peck Edgerton"]
+  },
+  {
+    id: "hicksville-railroad",
+    name: "Hicksville Railroad",
+    lat: 41.2925,
+    lng: -84.7585,
+    radius: 400,
+    short: "Rails made Hicksville more than a land-office plat. Trains tied High Street to Fort Wayne, Defiance, and the lake roads. Elevators and sidings are the older industry. The Hicks company drew the map. The railroad kept people on it.",
+    long: "",
+    names: ["Hicksville"]
+  },
+  {
+    id: "hicksville-high-street",
+    name: "Hicksville High Street",
+    lat: 41.2942,
+    lng: -84.7615,
+    radius: 300,
+    short: "High Street is the town. Hotel, opera house, shops, church. Henry W. Hicks and the Hicks Land Company of New York plotted this edge of the swamp in eighteen fifty three. Burnell's cabin was the first claim. The street is still the plot. Everything else is later.",
+    long: "",
+    names: ["Henry W. Hicks", "Hicks Land Company", "Burnell"]
+  },
+  {
+    id: "hicksville-civil-war",
+    name: "Hicksville Civil War",
+    lat: 41.2940,
+    lng: -84.7610,
+    radius: 300,
+    short: "Defiance County farm towns sent men from this street. Hicksville's war sites are the names on stone and the families that came back to tile the swamp. No battle was fought on High Street. The war still shaped who owned the next forty acres.",
+    long: "",
+    names: ["Hicksville"]
+  },
+  {
+    id: "hicksville-native-swamp",
+    name: "Hicksville Native Ground",
+    lat: 41.2930,
+    lng: -84.7620,
+    radius: 600,
+    short: "Before the Hicks plat this was Black Swamp travel ground between the St. Joseph and the Auglaize. Miami, Ottawa, and others used the wet woods and the trails that later became the Fort Wayne and Defiance roads. The town is new. The path is not.",
+    long: "",
+    names: ["Great Black Swamp", "Miami", "Ottawa", "St. Joseph River"]
+  },
+  {
+    id: "hicksville-park",
+    name: "Hicksville Park",
+    lat: 41.2970,
+    lng: -84.7635,
+    radius: 300,
+    short: "The village park is the public square Edgerton-style towns kept for band nights and ball. In a small swamp-county seat the park is the civic room when the opera house is dark. Kids testers grew up on this grass.",
+    long: "",
+    names: ["Hicksville"]
+  },
+  {
+    id: "indiana-line-hicksville",
+    name: "Indiana Line",
+    lat: 41.2930,
+    lng: -84.8030,
+    radius: 500,
+    short: "West of Hicksville the road becomes Indiana before you have time to notice. Harlan, Woodburn, and Fort Wayne are the next chapter. The state line is a surveyor's idea through the same swamp. Testers cross it every week. The land does not change. The county name does.",
+    long: "",
+    names: ["Hicksville", "Harlan"]
+  },
+  {
+    id: "hicksville-legend-swamp",
+    name: "Hicksville Swamp Memory",
+    lat: 41.2900,
+    lng: -84.7600,
+    radius: 600,
+    short: "Local legend here is mud. Corduroy roads, fevers, and ditches that had to be dug before a crop paid. Old families still talk about the year the water would not fall. Hicksville exists because someone tiled the swamp and sold lots anyway. That stubbornness is the town story.",
+    long: "",
+    names: ["Great Black Swamp", "Hicksville"]
+  },
+
+  {
+    id: "napoleon-sheriff-jail",
+    name: "Henry County Jail",
+    lat: 41.3922,
+    lng: -84.1248,
+    radius: 200,
+    short: "The old sheriff's house and jail sit beside the courthouse. David W. Gibbs designed them with the hall after the Dutch Row fire. County government on this block is a set, not one tower. Napoleon kept the jail in the family of buildings testers can see from Perry Street.",
+    long: "",
+    names: ["Henry County Jail", "David W. Gibbs", "Henry County Courthouse"]
+  },
+  {
+    id: "napoleon-downtown",
+    name: "Napoleon Downtown",
+    lat: 41.3923,
+    lng: -84.1252,
+    radius: 350,
+    short: "Front, Perry, and Washington are the original plat. Log court, tavern court, two burned halls, then the eighteen eighty two tower. German shopkeepers filled the square after the canal. This is the county seat at walking scale. The plant and the bypass are later.",
+    long: "",
+    names: ["Napoleon"]
+  },
+  {
+    id: "napoleon-german-church",
+    name: "Napoleon German Churches",
+    lat: 41.3935,
+    lng: -84.1268,
+    radius: 300,
+    short: "German canal families built the Lutheran and Catholic roofs that still mark Napoleon. The town has a French emperor's name and a German Sunday. That split is the founding. Pew language lasted longer than canal boats.",
+    long: "",
+    names: ["Napoleon"]
+  },
+  {
+    id: "napoleon-riverfront",
+    name: "Napoleon Riverfront",
+    lat: 41.3895,
+    lng: -84.1288,
+    radius: 400,
+    short: "The Maumee at Napoleon is the park, the flood line, and the old dock. Buckeye Trail walkers use the same bank. A county seat in the Black Swamp had to face the water. The courthouse is the official face. This bank is the true one.",
+    long: "",
+    names: ["Maumee River", "Buckeye Trail", "Napoleon"]
+  },
+  {
+    id: "napoleon-native-ground",
+    name: "Napoleon Native Ground",
+    lat: 41.3920,
+    lng: -84.1300,
+    radius: 600,
+    short: "Miami, Shawnee, and Ottawa used the Maumee flats here. Fallen Timbers is downstream. Defiance is the forks upstream. Napoleon is a later name on the same valley. The drained fields were wet woods and hunting ground first.",
+    long: "",
+    names: ["Maumee River", "Miami", "Shawnee", "Ottawa"]
+  },
+  {
+    id: "napoleon-civil-war",
+    name: "Napoleon Civil War",
+    lat: 41.3920,
+    lng: -84.1255,
+    radius: 300,
+    short: "Henry County men left from this square. The war site in Napoleon is the courthouse lawn and the records that survived the eighteen seventy nine fire. No battle in town. Plenty of names. A swamp county seat sent a farm army.",
+    long: "",
+    names: ["Henry County Courthouse"]
+  },
+  {
+    id: "dutch-row-fire",
+    name: "Dutch Row Fire",
+    lat: 41.3924,
+    lng: -84.1250,
+    radius: 300,
+    short: "In eighteen seventy nine fire took the courthouse and more than twenty buildings on Dutch Row. The nickname was the German business street. Records were saved. The town rebuilt in brick and ordered Gibbs's tower. Local memory still treats that night as the break between wooden Napoleon and the one you see.",
+    long: "",
+    names: ["Dutch Row Fire", "Henry County Courthouse"]
+  },
+  {
+    id: "patrick-henry-county",
+    name: "Patrick Henry",
+    lat: 41.3923,
+    lng: -84.1252,
+    radius: 300,
+    short: "The county is named for Patrick Henry. The town is named for Napoleon Bonaparte. A Revolutionary orator and a French emperor share a swamp map. Neither man walked this square. The names tell you when the plat was drawn: after Greenville, during the canal boom, when counties borrowed glory.",
+    long: "",
+    names: ["Patrick Henry", "Napoleon Bonaparte", "Henry County"]
+  },
+  {
+    id: "antwerp-founding",
+    name: "Antwerp Founding",
+    lat: 41.1814,
+    lng: -84.7405,
+    radius: 450,
+    short: "W. Wilshire Riley, Horatio N. Curtis, and Samuel Rice platted Antwerp in eighteen forty one. They picked the name from a post office list so it would not duplicate another Ohio town. German and Dutch settlers were already in the township. A Belgian name on a Black Swamp grid. The canal and the Wabash Railroad made it Paulding County's biggest Civil War era town.",
+    long: "",
+    names: ["Antwerp", "Wabash Canal", "Wabash Railroad"]
+  },
+  {
+    id: "antwerp-canal-rail",
+    name: "Antwerp Canal and Rail",
+    lat: 41.1820,
+    lng: -84.7380,
+    radius: 400,
+    short: "The Wabash Canal and then the Wabash Railroad stacked on this same line. Boats first. Freight cars after. When the canal died, Antwerp still had tracks. That is why a village on the Indiana side of Paulding County outgrew the inland county seat for a while. Water, then iron.",
+    long: "",
+    names: ["Wabash Canal", "Wabash Railroad", "Antwerp"]
+  },
+  {
+    id: "antwerp-downtown",
+    name: "Antwerp Downtown",
+    lat: 41.1816,
+    lng: -84.7402,
+    radius: 300,
+    short: "Main Street is the canal-and-rail town compressed into a few brick blocks. Stores faced the traffic that used to float. The reservoir fight happened just east. The village itself is this street. Testers from Hicksville hit it before Paulding.",
+    long: "",
+    names: ["Antwerp"]
+  },
+  {
+    id: "antwerp-native-ground",
+    name: "Antwerp Native Ground",
+    lat: 41.1800,
+    lng: -84.7420,
+    radius: 600,
+    short: "This was Ottawa and other nations' swamp and river margin before the canal cut came through. The Maumee is north. The Auglaize system is east. Antwerp sits on drained travel ground, not on a famous battlefield. The town is the ditch and the timetable. The older map is wet woods.",
+    long: "",
+    names: ["Ottawa", "Great Black Swamp", "Wabash Canal"]
+  },
+  {
+    id: "antwerp-civil-war",
+    name: "Antwerp Civil War",
+    lat: 41.1814,
+    lng: -84.7405,
+    radius: 300,
+    short: "In the eighteen sixties Antwerp was the county's busy place. Canal and rail moved men and grain. The war site is the depot town, not a fort. Families here shipped and enlisted from a street that was briefly bigger than Paulding.",
+    long: "",
+    names: ["Antwerp"]
+  },
+  {
+    id: "antwerp-park",
+    name: "Antwerp Park",
+    lat: 41.1840,
+    lng: -84.7415,
+    radius: 300,
+    short: "The village park is the civic square a canal town keeps after the boats are gone. Ball, band, and reunion ground. Six Mile Reservoir was the unwanted water. This grass is the wanted waterless version.",
+    long: "",
+    names: ["Antwerp"]
+  },
+  {
+    id: "no-compromise",
+    name: "No Compromise",
+    lat: 41.1780,
+    lng: -84.7200,
+    radius: 400,
+    short: "The banner said no compromise. About two hundred men wrecked the Six Mile Reservoir dike and locks on April twenty fifth, eighteen eighty seven. They called the pond a fever. The state had kept the unused canal water. Local legend here is not a ghost. It is neighbors deciding the ditch had to die.",
+    long: "",
+    names: ["Six Mile Reservoir", "Reservoir War", "Antwerp"]
+  },
+{
+    id: "paulding-courthouse",
+    name: "Paulding County Courthouse",
+    lat: 41.1381,
+    lng: -84.5805,
+    radius: 250,
+    short: "Paulding became the county seat in eighteen fifty one after New Rochester and Charloe. The courthouse square is why this inland grid beat the river towns. John Paulding, who helped take Major Andre, gave the county its name. The building on this block is the official swamp-county middle.",
+    long: "",
+    names: ["Paulding County Courthouse", "John Paulding"]
+  },
+  {
+    id: "paulding-carnegie",
+    name: "Paulding Carnegie Library",
+    lat: 41.1375,
+    lng: -84.5815,
+    radius: 200,
+    short: "Paulding's Carnegie library was built to serve the whole county, not only the village. Andrew Carnegie also helped put an organ in the Methodist church. A small seat in the last of the Black Swamp got books before it got a lot of brick. That bet still shows.",
+    long: "",
+    names: ["Paulding Carnegie Library", "Andrew Carnegie"]
+  },
+  {
+    id: "paulding-railroad",
+    name: "Paulding Railroad",
+    lat: 41.1360,
+    lng: -84.5780,
+    radius: 400,
+    short: "The Nickel Plate and other eighteen eighties roads pulled Paulding up after the canals faded. Payne and Latty are the same timetable. Antwerp had the canal first. Paulding had the later rails and the courthouse. That is how the seat stuck in the middle of the county.",
+    long: "",
+    names: ["Nickel Plate Road", "Paulding"]
+  },
+  {
+    id: "charloe",
+    name: "Charloe",
+    lat: 41.1270,
+    lng: -84.4270,
+    radius: 350,
+    short: "Charloe on the Auglaize was an early county seat. The name is an Ottawa leader. Before that the site was tied to older towns on the river. Government moved west to Paulding in eighteen fifty one so the courthouse would sit in the center. The river town lost the paper. It kept the older name.",
+    long: "",
+    names: ["Charloe", "Ottawa", "Auglaize River"]
+  },
+  {
+    id: "paulding-native-ground",
+    name: "Paulding Native Ground",
+    lat: 41.1380,
+    lng: -84.5800,
+    radius: 700,
+    short: "Paulding County was Ottawa country and then treaty land after Greenville. Seats first hugged the Maumee and Auglaize. The inland grid is the drained version. Ditches, not a confluence, made this town possible. The swamp had to die for the square to live.",
+    long: "",
+    names: ["Ottawa", "Great Black Swamp", "Treaty of Greenville"]
+  },
+  {
+    id: "paulding-civil-war",
+    name: "Paulding Civil War",
+    lat: 41.1381,
+    lng: -84.5805,
+    radius: 300,
+    short: "The county that had been Ohio's smallest in eighteen forty still sent companies out of this square. Antwerp was the busy port. Paulding was the roll book. The war site is the lawn and the names, same as Hicksville and Napoleon.",
+    long: "",
+    names: ["Paulding"]
+  },
+  {
+    id: "paulding-park",
+    name: "Paulding Park",
+    lat: 41.1400,
+    lng: -84.5820,
+    radius: 300,
+    short: "The square and the village park are the public ground a courthouse town keeps. Band nights, veterans, Friday ball. In a county built by drainage, grass in town is a finished ditch.",
+    long: "",
+    names: ["Paulding"]
+  },
+  {
+    id: "junction-ohio",
+    name: "Junction",
+    lat: 41.2050,
+    lng: -84.4580,
+    radius: 350,
+    short: "Junction grew where the Wabash Canal met the Miami and Erie. For a moment people thought it might rival Fort Wayne. The canals died. The name stayed on a Paulding County map. Two ditches crossed here. That was the whole city plan.",
+    long: "",
+    names: ["Junction", "Wabash Canal", "Miami and Erie Canal"]
+  },
+  {
+    id: "latty-ohio",
+    name: "Latty",
+    lat: 41.0870,
+    lng: -84.5840,
+    radius: 300,
+    short: "Latty is a railroad clearing south of Paulding on the way to Van Wert. In the eighteen eighties it was little more than a stop in the woods. It still reads that way. County history is these sidings as much as the square.",
+    long: "",
+    names: ["Latty"]
+  },
+  {
+    id: "van-wert-courthouse",
+    name: "Van Wert County Courthouse",
+    lat: 40.8700,
+    lng: -84.5819,
+    radius: 250,
+    short: "The Van Wert County Courthouse opened in eighteen seventy six on Main Street. Second Empire brick, a heavy clock, stained glass. The county is named for Isaac Van Wart, who helped capture Major Andre, same story as Paulding. Timber first, then farms. This tower is the seat those farms paid for.",
+    long: "",
+    names: ["Van Wert County Courthouse", "Isaac Van Wart"]
+  },
+  {
+    id: "brumback-library",
+    name: "Brumback Library",
+    lat: 40.8701,
+    lng: -84.5850,
+    radius: 250,
+    short: "Brumback Library opened in nineteen oh one as the first tax-supported county library in the United States. John Sanford Brumback's family finished what he asked. Gothic and Romanesque, tile roof, turrets. A small county seat put books on the whole map, not behind a subscription desk.",
+    long: "",
+    names: ["Brumback Library", "John Sanford Brumback"]
+  },
+  {
+    id: "marsh-foundation",
+    name: "Marsh Foundation",
+    lat: 40.8715,
+    lng: -84.5647,
+    radius: 350,
+    short: "George H. Marsh left his Lincoln Highway homestead as a foundation school for children who needed a home. The campus opened in the nineteen twenties. Factory and farm money turned into cottages and a school. Van Wert's other civic bet besides the library.",
+    long: "",
+    names: ["George H. Marsh", "Marsh Foundation"]
+  },
+  {
+    id: "lincoln-highway-van-wert",
+    name: "Lincoln Highway",
+    lat: 40.8696,
+    lng: -84.5811,
+    radius: 400,
+    short: "The Lincoln Highway runs Main Street. Before that, rails hauled timber out of the last woods. Van Wert sat on the road west across the drained swamp. National pavement replaced the local log. Testers on this street are on the old coast-to-coast line.",
+    long: "",
+    names: ["Lincoln Highway", "Van Wert"]
+  },
+  {
+    id: "peony-festival",
+    name: "Peony Festival",
+    lat: 40.8698,
+    lng: -84.5820,
+    radius: 400,
+    short: "Van Wert called itself the Peony Capital. The festival started in nineteen thirty two after yards filled with the flowers. Local legend is a town that blooms on purpose. Not a ghost story. A garden story people still plan trips around.",
+    long: "",
+    names: ["Peony Festival", "Van Wert"]
+  },
+  {
+    id: "john-lambert",
+    name: "John Lambert",
+    lat: 40.9164,
+    lng: -84.7074,
+    radius: 400,
+    short: "In eighteen ninety one John Lambert of Ohio City, west of Van Wert, built an early gasoline buggy. The county likes to claim a first car. Auburn became the classic-car town. This county had a man in a shed first. Ohio City still sits on that road.",
+    long: "",
+    names: ["John Lambert", "Ohio City"]
+  },
+  {
+    id: "van-wert-native-ground",
+    name: "Van Wert Native Ground",
+    lat: 40.8695,
+    lng: -84.5841,
+    radius: 700,
+    short: "Before the timber cut this was Black Swamp and prairie margin used by Miami and other nations. Treaties opened the county. Ditches made farms. The courthouse stands on land that had to be dried. Same story as Paulding, with a library instead of a canal war.",
+    long: "",
+    names: ["Great Black Swamp", "Miami"]
+  },
+  {
+    id: "van-wert-civil-war",
+    name: "Van Wert Civil War",
+    lat: 40.8700,
+    lng: -84.5819,
+    radius: 300,
+    short: "Companies left this square for the Union. The county's war is the courthouse lawn and the names that came back to stump farms. Nineteen thirteen later flooded the same streets. Two hard years in local memory: the war and the water.",
+    long: "",
+    names: ["Van Wert County Courthouse", "Flood of 1913"]
+  },
+  {
+    id: "van-wert-bandstand",
+    name: "Van Wert Bandstand",
+    lat: 40.8760,
+    lng: -84.5828,
+    radius: 250,
+    short: "The old bandstand now sits with the county historical museum on Washington Street. Civic music on public ground. Bryan kept a living band. Van Wert kept the pavilion. Same northwest Ohio habit.",
+    long: "",
+    names: ["Van Wert Bandstand", "Van Wert County Historical Museum"]
+  },
+ {
+    id: "fulton-courthouse",
+    name: "Fulton County Courthouse",
+    lat: 41.5492,
+    lng: -84.1416,
+    radius: 250,
+    short: "The Fulton County Courthouse in Wauseon opened in eighteen seventy two. C.C. Miller designed the Italianate tower after the county seat moved here from Ottokee. The county is named for Robert Fulton and the steamboat. The town is named for an Ottawa leader. Rail made this square the middle.",
+    long: "",
+    names: ["Fulton County Courthouse", "C.C. Miller", "Robert Fulton"]
+  },
+  {
+    id: "ottokee",
+    name: "Ottokee",
+    lat: 41.5980,
+    lng: -84.1410,
+    radius: 350,
+    short: "Ottokee was Fulton County's first seat, a planned center in the drained prairie. The courthouse there burned in eighteen sixty four. When the Lake Shore railroad picked Wauseon, voters moved the county in eighteen sixty nine. Ottokee kept a name and lost the paper. A rail stop beat a surveyor's center.",
+    long: "",
+    names: ["Ottokee", "Wauseon"]
+  },
+  {
+    id: "wauseon-depot",
+    name: "Wauseon Depot",
+    lat: 41.5498,
+    lng: -84.1390,
+    radius: 250,
+    short: "The eighteen ninety six Lake Shore and Michigan Southern depot on Depot Street is brick in the New York Central style. Passenger trains quit in nineteen fifty seven. The building is a museum now. Eight railroads once crossed Fulton County. This station is why the courthouse left Ottokee.",
+    long: "",
+    names: ["Wauseon Depot", "Lake Shore and Michigan Southern"]
+  },
+  {
+    id: "wauseon-downtown",
+    name: "Wauseon Downtown",
+    lat: 41.5492,
+    lng: -84.1416,
+    radius: 350,
+    short: "Fulton Street and the square are the railroad county seat packed into brick. Shops faced the depot traffic. The prairie towns north of the Maumee did not get a canal story. They got a timetable. This block is that story at walking speed.",
+    long: "",
+    names: ["Wauseon"]
+  },
+  {
+    id: "wauseon-chief",
+    name: "Chief Wauseon",
+    lat: 41.5492,
+    lng: -84.1416,
+    radius: 400,
+    short: "The town takes its name from Wauseon, an Ottawa leader. The county took Robert Fulton. Native name on the plat, inventor name on the court. After removal and drainage, this was the label that remained. The man is the older claim. The tracks are the newer one.",
+    long: "",
+    names: ["Wauseon", "Ottawa"]
+  },
+  {
+    id: "wauseon-native-ground",
+    name: "Wauseon Native Ground",
+    lat: 41.5500,
+    lng: -84.1450,
+    radius: 700,
+    short: "Fulton County is the north edge of the old Black Swamp and the wet prairie toward Michigan. Ottawa and other nations used this ground before the tiles. The name on the water tower is the admission. The fields are the rewrite.",
+    long: "",
+    names: ["Ottawa", "Great Black Swamp"]
+  },
+  {
+    id: "wauseon-civil-war",
+    name: "Wauseon Civil War",
+    lat: 41.5492,
+    lng: -84.1416,
+    radius: 300,
+    short: "The county was brand new when the war started. Men still left. The seat was still arguing Ottokee versus the railroad town. Wauseon's war memory sits on a square that did not yet hold the court when the first companies formed.",
+    long: "",
+    names: ["Wauseon", "Ottokee"]
+  },
+  {
+    id: "wauseon-park",
+    name: "Wauseon Park",
+    lat: 41.5515,
+    lng: -84.1430,
+    radius: 300,
+    short: "The town park and square are the public ground a prairie county seat keeps when there is no river fork to claim. Ball, band, and the courthouse lawn. North of Napoleon the civic land is flat and chosen.",
+    long: "",
+    names: ["Wauseon"]
+  },
+     {
+    id: "archbold-founding-rail",
+    name: "Archbold Railroad",
+    lat: 41.5183,
+    lng: -84.3056,
+    radius: 400,
+    short: "Archbold started in eighteen fifty five when the railroad reached German Township. The name is likely a railroad man, John Archbald, or a mash of two officials. A post office the same year. This is a timetable village in the last of the swamp, not a river seat.",
+    long: "",
+    names: ["Archbold", "John Archbald"]
+  },
+  {
+    id: "sauder-village",
+    name: "Sauder Village",
+    lat: 41.5265,
+    lng: -84.2860,
+    radius: 400,
+    short: "Sauder Village is the outdoor museum Erie J. Sauder and the family built so the farm and shop life of this German township would not vanish. Moved houses, crafts, the woods at the edge. If the factory made flat-pack furniture famous, the village made the county's memory walkable.",
+    long: "",
+    names: ["Sauder Village", "Erie J. Sauder"]
+  },
+  {
+    id: "sauder-woodworking",
+    name: "Sauder Woodworking",
+    lat: 41.5100,
+    lng: -84.2936,
+    radius: 400,
+    short: "Erie J. Sauder invented furniture that shipped in a box and assembled at home. The plants still sit on the Archbold edge. A railroad town in German Township turned wood into a national product. Knock-down tables are this county's Etch A Sketch.",
+    long: "",
+    names: ["Erie J. Sauder", "Sauder Woodworking"]
+  },
+  {
+    id: "goll-woods",
+    name: "Goll Woods",
+    lat: 41.5520,
+    lng: -84.3600,
+    radius: 450,
+    short: "Goll Woods west of Archbold is leftover Black Swamp forest. Beech and oak that were not cut. The Goll family held the tract. It is now a state nature preserve. When testers want to see what this county was before tile, this is the room that survived.",
+    long: "",
+    names: ["Goll Woods", "Great Black Swamp"]
+  },
+  {
+    id: "archbold-german-township",
+    name: "German Township",
+    lat: 41.5183,
+    lng: -84.3056,
+    radius: 500,
+    short: "Archbold sits in German Township. Mennonite and other German families drained and farmed this edge of Fulton County. Churches and shops still read that founding. Sauder is the famous shop. The township name is the older fact.",
+    long: "",
+    names: ["German Township", "Archbold"]
+  },
+  {
+    id: "northwest-state",
+    name: "Northwest State",
+    lat: 41.5330,
+    lng: -84.3180,
+    radius: 350,
+    short: "Northwest State Community College sits at Archbold. A furniture town added a campus so the next shift could be nurses and trades. Civic habit in this county is practical: library, shop, school.",
+    long: "",
+    names: ["Northwest State Community College"]
+  },
+  {
+    id: "sam-hornish",
+    name: "Sam Hornish Jr.",
+    lat: 41.5183,
+    lng: -84.3056,
+    radius: 400,
+    short: "Sam Hornish Junior grew up in Archbold and won the Indianapolis Five Hundred in two thousand six. A village known for tables also produced a driver. Small-town speed is not only Auburn's museum. Sometimes it is a kid from German Township.",
+    long: "",
+    names: ["Sam Hornish Jr."]
+  },
+  {
+    id: "archbold-civil-war",
+    name: "Archbold Civil War",
+    lat: 41.5183,
+    lng: -84.3056,
+    radius: 300,
+    short: "German Township was still new rail country when the war came. Men left from a village that barely had a name. The local war site is the cemetery and the church yards, not a square with a tower.",
+    long: "",
+    names: ["Archbold"]
+  },
+  {
+    id: "archbold-park",
+    name: "Archbold Park",
+    lat: 41.5210,
+    lng: -84.3075,
+    radius: 300,
+    short: "The village parks are the public ground a factory-farm town keeps. Sauder Village is the museum version. This grass is the Tuesday version.",
+    long: "",
+    names: ["Archbold"]
+  },
+      {
+    id: "montpelier-depot-town",
+    name: "Montpelier Rails",
+    lat: 41.5845,
+    lng: -84.6055,
+    radius: 450,
+    short: "Montpelier is a Williams County railroad town. The Lake Shore and the Wabash made shops and a downtown where a farm crossing had been. The name is Vermont's capital borrowed for a northwest Ohio grid. When the trains slowed, the village stayed. The tracks are still the reason the brick exists.",
+    long: "",
+    names: ["Montpelier", "Wabash Railroad", "Lake Shore and Michigan Southern"]
+  },
+  {
+    id: "williams-historical-society",
+    name: "Williams County Historical Society",
+    lat: 41.5890,
+    lng: -84.5980,
+    radius: 300,
+    short: "The Williams County Historical Society sits on the fairgrounds in Montpelier. Bryan has the library history room. Montpelier has the county attic. Tools, farm gear, and railroad memory from the north county live here, not on the courthouse square.",
+    long: "",
+    names: ["Williams County Historical Society"]
+  },
+  {
+    id: "montpelier-downtown",
+    name: "Montpelier Downtown",
+    lat: 41.5847,
+    lng: -84.6052,
+    radius: 300,
+    short: "Main Street is a shop row built for train crews and farm Saturday. No river fork. No canal lock. A timetable and a name from New England. That is the whole plat.",
+    long: "",
+    names: ["Montpelier"]
+  },
+  {
+    id: "wabash-cannonball-montpelier",
+    name: "Cannonball at Montpelier",
+    lat: 41.5860,
+    lng: -84.6000,
+    radius: 400,
+    short: "The Wabash Cannonball Trail follows the old Wabash through this town. West Unity and Blakeslee sit on the same grade. Freight became a path. Testers driving the north county are paralleling a line that once set the clock.",
+    long: "",
+    names: ["Wabash Cannonball Trail", "Wabash Railroad"]
+  },
+  {
+    id: "george-bible-park",
+    name: "George Bible Park",
+    lat: 41.5700,
+    lng: -84.5750,
+    radius: 350,
+    short: "George Bible Park east of Montpelier sits on ground tied to an early settler of that name. County park, not a village square. Williams County's public land is often a farm that got kept.",
+    long: "",
+    names: ["George Bible Park", "George Bible"]
+  },
+  {
+    id: "montpelier-native-ground",
+    name: "Montpelier Native Ground",
+    lat: 41.5845,
+    lng: -84.6055,
+    radius: 600,
+    short: "North Williams County is the wet prairie toward Michigan. Ottawa and other nations used it before tile and rail. Montpelier is a later name dropped on that ground. The swamp memory here is the same as Bryan and Pioneer, with more boxcars in it.",
+    long: "",
+    names: ["Ottawa", "Great Black Swamp"]
+  },
+  {
+    id: "montpelier-civil-war",
+    name: "Montpelier Civil War",
+    lat: 41.5845,
+    lng: -84.6055,
+    radius: 300,
+    short: "The village was still forming when the war started. Men left from farms that would later face a depot. The local war site is stone and family names, not a fort. North county sent the same farm army as Bryan.",
+    long: "",
+    names: ["Montpelier"]
+  },
+  {
+    id: "montpelier-legend-trains",
+    name: "Montpelier Train Memory",
+    lat: 41.5848,
+    lng: -84.6040,
+    radius: 400,
+    short: "Local legend is the night the yards never slept. Old heads still time stories by the Wabash and the Lake Shore. When the trains thinned, the town felt the quiet as a death. The trail is what they kept of the noise.",
+    long: "",
+    names: ["Wabash Railroad", "Montpelier"]
+  },
+
     ];
 

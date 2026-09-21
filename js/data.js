@@ -4395,6 +4395,306 @@ id: "columbus-jesse-owens",
     long: "",
     names: ["Wabash Railroad", "Montpelier"]
   },
+ {
+    id: "edgerton-st-joseph",
+    name: "Edgerton St. Joseph River",
+    lat: 41.4494,
+    lng: -84.7469,
+    radius: 400,
+    short: "Edgerton sits on the St. Joseph at Ohio's northwest corner. The river is the older road. The plat and A.P. Edgerton's square are the newer one. Testers between Hicksville and Michigan are following water that already had a name.",
+    long: "",
+    names: ["Edgerton", "St. Joseph River", "Alfred Peck Edgerton"]
+  },
+  {
+    id: "stryker-depot",
+    name: "Stryker Depot",
+    lat: 41.5028,
+    lng: -84.4168,
+    radius: 250,
+    short: "Stryker's stone depot is on the National Register. Police now use it. First rails in Williams County stopped here in eighteen fifty four, a year before Bryan. The building is the proof the timetable came first.",
+    long: "",
+    names: ["Stryker", "Michigan Southern Railroad"]
+  },
+  {
+    id: "west-unity-trail",
+    name: "West Unity Trailhead",
+    lat: 41.5864,
+    lng: -84.4349,
+    radius: 350,
+    short: "West Unity keeps a trailhead on the Wabash Cannonball. The village was a Wabash stop. The path is what is left of the freight. North county towns live on this grade.",
+    long: "",
+    names: ["West Unity", "Wabash Cannonball Trail"]
+  },
+  {
+    id: "pioneer-line",
+    name: "Pioneer State Line",
+    lat: 41.6806,
+    lng: -84.5530,
+    radius: 400,
+    short: "Pioneer is the last Ohio grid before Michigan. The name is the legend. People who would not turn around stopped here when the prairie was still wet.",
+    long: "",
+    names: ["Pioneer"]
+  },
+  {
+    id: "edon-depot",
+    name: "Edon Depot",
+    lat: 41.5623,
+    lng: -84.7721,
+    radius: 250,
+    short: "Edon's eighteen ninety three Wabash station was moved to the park. The tracks made the village. The depot in the grass is the leftover timetable.",
+    long: "",
+    names: ["Edon", "Wabash Railroad"]
+  },
+  {
+    id: "payne-oil",
+    name: "Payne Oil",
+    lat: 41.0773,
+    lng: -84.7272,
+    radius: 350,
+    short: "Payne had the Nickel Plate and later oil and gas in the same fields. A border village between Hicksville country and Van Wert country. Tracks first. Derricks after.",
+    long: "",
+    names: ["Payne", "Nickel Plate Road"]
+  },
+  {
+    id: "sherwood-grid",
+    name: "Sherwood Grid",
+    lat: 41.2906,
+    lng: -84.5533,
+    radius: 300,
+    short: "Sherwood is the farm grid between Hicksville and Defiance. Elevator, tracks, a few streets. Testers roll it every week. That is the point of the pin.",
+    long: "",
+    names: ["Sherwood"]
+  },
+  {
+    id: "ney-marshal",
+    name: "Ney",
+    lat: 41.3806,
+    lng: -84.5227,
+    radius: 300,
+    short: "Ney is named, by local telling, for Napoleon's marshal. A European war name on a Defiance County crossroads. Elevator and a school that consolidated away.",
+    long: "",
+    names: ["Ney"]
+  },
+  {
+    id: "oakwood-woods",
+    name: "Oakwood Woods",
+    lat: 41.0953,
+    lng: -84.3786,
+    radius: 350,
+    short: "Oakwood in south Defiance County kept more timber longer. Rail and ditches made a village in the oaks. South county drained later than the Maumee bank.",
+    long: "",
+    names: ["Oakwood"]
+  },
+  {
+    id: "florida-river-road",
+    name: "Florida River Road",
+    lat: 41.3450,
+    lng: -84.2027,
+    radius: 300,
+    short: "Florida, Ohio, is a Maumee river-road village with a joke for a name. Canal and flats, not oranges. A post office on the way between Defiance and Napoleon.",
+    long: "",
+    names: ["Florida Ohio", "Maumee River"]
+  },
+  {
+    id: "brunersburg-mill",
+    name: "Brunersburg Mill",
+    lat: 41.3185,
+    lng: -84.3920,
+    radius: 300,
+    short: "Brunersburg used the Tiffin River for a mill before Defiance took all the ink. Dam, a few streets, older than it looks.",
+    long: "",
+    names: ["Brunersburg", "Tiffin River"]
+  },
+  {
+    id: "evansport-mill",
+    name: "Evansport Mill",
+    lat: 41.3887,
+    lng: -84.3963,
+    radius: 300,
+    short: "Evansport is a Tiffin River mill village with two cemeteries. Farm town between Defiance and Stryker country. River, mill, grid.",
+    long: "",
+    names: ["Evansport", "Tiffin River"]
+  },
+      {
+    id: "pulaski-rail",
+    name: "Pulaski Rail",
+    lat: 41.4987,
+    lng: -84.5096,
+    radius: 300,
+    short: "Pulaski sits between Bryan and Stryker on the old Cincinnati, Jackson and Mackinaw. A Revolutionary name on a grain-elevator stop. Williams County history happens on these sidings.",
+    long: "",
+    names: ["Pulaski"]
+  },
+  {
+    id: "alvordton-wabash",
+    name: "Alvordton Wabash",
+    lat: 41.6650,
+    lng: -84.4340,
+    radius: 300,
+    short: "Alvordton was born when the Wabash crossed north Williams County. Near Pioneer. A timetable invented the town. The trains thinned. The name stayed.",
+    long: "",
+    names: ["Alvordton", "Wabash Railroad"]
+  },
+  {
+    id: "blakeslee-stop",
+    name: "Blakeslee Stop",
+    lat: 41.5242,
+    lng: -84.7308,
+    radius: 300,
+    short: "Blakeslee is an eighteen eighty one Wabash stop west of Montpelier. Edon is the next blink. A few streets and a crossing.",
+    long: "",
+    names: ["Blakeslee", "Wabash Railroad"]
+  },
+  {
+    id: "kunkle-elevator",
+    name: "Kunkle",
+    lat: 41.6170,
+    lng: -84.4950,
+    radius: 250,
+    short: "Kunkle is a north Williams County speck on the old Wabash. A name, a road, an elevator. Drainage and a timetable could afford that much.",
+    long: "",
+    names: ["Kunkle"]
+  },
+  {
+    id: "jewell-siding",
+    name: "Jewell Siding",
+    lat: 41.3267,
+    lng: -84.2861,
+    radius: 300,
+    short: "Jewell is a siding and elevator east of Defiance toward Independence Dam. The dam town got the park. Jewell kept the grain.",
+    long: "",
+    names: ["Jewell"]
+  },
+  {
+    id: "holgate-tracks",
+    name: "Holgate Tracks",
+    lat: 41.2489,
+    lng: -84.1333,
+    radius: 350,
+    short: "Holgate is a south Henry County railroad village. Same family name as Defiance's mansion street. Here it is tracks and farms, not Queen Anne houses.",
+    long: "",
+    names: ["Holgate"]
+  },
+  {
+    id: "deshler-crossing",
+    name: "Deshler Crossing",
+    lat: 41.2073,
+    lng: -83.8991,
+    radius: 350,
+    short: "Deshler grew at a railroad crossing. John Deshler of Columbus was tied to the land company. East Henry County hinge toward Findlay country.",
+    long: "",
+    names: ["Deshler"]
+  },
+  {
+    id: "liberty-center-north",
+    name: "Liberty Center North",
+    lat: 41.4431,
+    lng: -84.0072,
+    radius: 350,
+    short: "Liberty Center is the Union-era name on the road from Napoleon toward Wauseon. North Henry County. School and main street, not the courthouse.",
+    long: "",
+    names: ["Liberty Center"]
+  },
+  {
+    id: "hamler-german",
+    name: "Hamler German",
+    lat: 41.2298,
+    lng: -84.0347,
+    radius: 300,
+    short: "Hamler is a German farm village in south Henry County. Church and elevator. The pews kept the language longer than the courthouse did.",
+    long: "",
+    names: ["Hamler"]
+  },
+  {
+    id: "mcclure-prairie",
+    name: "McClure Prairie",
+    lat: 41.3714,
+    lng: -83.9416,
+    radius: 300,
+    short: "McClure is tiled prairie toward Wood County. A settler's name on an east Henry County grid. Napoleon is the emperor. This is the farm.",
+    long: "",
+    names: ["McClure"]
+  },
+  {
+    id: "malinta-crossroads",
+    name: "Malinta Crossroads",
+    lat: 41.3223,
+    lng: -84.0366,
+    radius: 300,
+    short: "Malinta is a crossroads south of Napoleon. Grain, a rail line, a few streets. A service town so the county seat is not the only stop.",
+    long: "",
+    names: ["Malinta"]
+  },
+  {
+    id: "new-bavaria-church",
+    name: "New Bavaria Church",
+    lat: 41.2045,
+    lng: -84.1680,
+    radius: 300,
+    short: "New Bavaria is a German Catholic hamlet in southwest Henry County. The name is the founding. Church and houses in the old swamp timber.",
+    long: "",
+    names: ["New Bavaria"]
+  },
+  {
+    id: "charloe-auglaize",
+    name: "Charloe Auglaize",
+    lat: 41.1270,
+    lng: -84.4270,
+    radius: 350,
+    short: "Charloe on the Auglaize was a county seat before Paulding. Ottawa name on a river bend. Government moved inland. The water kept the older claim.",
+    long: "",
+    names: ["Charloe", "Ottawa", "Auglaize River"]
+  },
+  {
+    id: "junction-canals",
+    name: "Junction Canals",
+    lat: 41.2050,
+    lng: -84.4580,
+    radius: 350,
+    short: "Junction is where the Wabash Canal met the Miami and Erie. People thought it might rival Fort Wayne. Two ditches. That was the city plan.",
+    long: "",
+    names: ["Junction", "Wabash Canal", "Miami and Erie Canal"]
+  },
+  {
+    id: "latty-clearing",
+    name: "Latty Clearing",
+    lat: 41.0870,
+    lng: -84.5840,
+    radius: 300,
+    short: "Latty was a railroad clearing in the woods south of Paulding. Still reads that way on the road to Van Wert.",
+    long: "",
+    names: ["Latty"]
+  },
+  {
+    id: "ottokee-center",
+    name: "Ottokee Center",
+    lat: 41.5980,
+    lng: -84.1410,
+    radius: 350,
+    short: "Ottokee was laid out as Fulton County's center. The railroad chose Wauseon instead. First seat, then the infirmary. A surveyor's town that lost the vote.",
+    long: "",
+    names: ["Ottokee", "Wauseon"]
+  },
+  {
+    id: "ohio-city-lambert",
+    name: "Ohio City",
+    lat: 40.7706,
+    lng: -84.6155,
+    radius: 350,
+    short: "Ohio City, west of Van Wert, is where John Lambert built an early gasoline buggy in eighteen ninety one. A shed town with a first-car claim. Auburn kept the museum. This village kept the story.",
+    long: "",
+    names: ["Ohio City", "John Lambert"]
+  },
+  {
+    id: "garrett-roundhouse",
+    name: "Garrett Roundhouse",
+    lat: 41.3492,
+    lng: -85.1355,
+    radius: 400,
+    short: "Garrett was built around Baltimore and Ohio shops and a roundhouse. Named for railroad president John W. Garrett. Auburn made cars. Garrett made the trains. Testers between Auburn and Kendallville cross a purpose-built rail city.",
+    long: "",
+    names: ["Garrett", "John W. Garrett", "Baltimore and Ohio Railroad"]
+  },
 
     ];
 

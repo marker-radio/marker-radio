@@ -287,7 +287,7 @@ const STORIES = [
     radious: 1500,
     short: "Dean Kruse started auctioneering farm equipment in Auburn in nineteen fifty-two and turned it into the world's biggest collector-car auction. His Labor Day weekend sale still fills the town every September — the fifty-sixth edition in twenty twenty-six pulled over twenty-one million dollars. Auburn didn't just build the cars; it became the place the world comes to buy them.",
     long: "",
-    names: },
+    names: [Kruse Auctions] },
   {
     id: "auburn-railroad",
     name: "Wabash Railroad",
@@ -396,7 +396,7 @@ const STORIES = [
     radius: 400,
     short: "Franklin Park — a hundred acres of gardens, fountains, and the Franklin Park Conservatory, a Victorian glasshouse from eighteen ninety-five. It survived the nineteen thirteen flood that drowned the neighborhood around it. Chihuly glass, a butterfly house, and the city's oldest public greenhouse — the green heart of a city that once flooded.",
     long: "",
-    names: },
+    names: [ "Franklin Park"] },
   {
     id: "columbus-legend",
     name: "Mill Race Monster",
@@ -495,7 +495,7 @@ const STORIES = [
     radius: 400,
     short: "Franklin Park — a hundred acres of gardens, fountains, and the Franklin Park Conservatory, a Victorian glasshouse from eighteen ninety-five. It survived the nineteen thirteen flood that drowned the neighborhood around it. Chihuly glass, a butterfly house, and the city's oldest public greenhouse — the green heart of a city that once flooded.",
     long: "",
-    names: },
+    names: [ "columbus park"] },
   {
     id: "columbus-legend",
     name: "Mill Race Monster",
@@ -514,7 +514,7 @@ const STORIES = [
     radius: 800,
     short: "German Village — the largest privately funded historic preservation district in the country. German immigrants settled here in the eighteen forties and by eighteen sixty-five made up nearly a third of Columbus. Red-brick homes, wrought-iron fences, brick-paved streets. Over sixteen hundred structures restored since nineteen sixty. National Register in nineteen seventy-four.",
     long: "",
-    names: },
+    names: ["columbus-german village"] },
   {
     id: "columbus-schiller-park",
     name: "Schiller Park",
@@ -623,7 +623,7 @@ const STORIES = [
     radius: 300,
     short: "A full-scale replica of Christopher Columbus's flagship, the Santa Maria, moored on the Scioto Riverfront. Installed in nineteen ninety-two for the five-hundredth anniversary of his voyage. The city is named for him, and the ship is the floating reminder of why. Genoa Park beside it is named for Columbus's birthplace.",
     long: "",
-    names: },
+    names: ["Sant Maria"] },
 {
     id: "columbus-german-village",
     name: "German Village",
@@ -632,7 +632,7 @@ const STORIES = [
     radius: 800,
     short: "German Village — the largest privately funded historic preservation district in the country. German immigrants settled here in the eighteen forties and by eighteen sixty-five made up nearly a third of Columbus. Red-brick homes, wrought-iron fences, brick-paved streets. Over sixteen hundred structures restored since nineteen sixty. National Register in nineteen seventy-four.",
     long: "",
-    names: },
+    names: ["columbus-german village"] },
   {
     id: "columbus-schiller-park",
     name: "Schiller Park",
@@ -741,7 +741,7 @@ const STORIES = [
     radius: 300,
     short: "A full-scale replica of Christopher Columbus's flagship, the Santa Maria, moored on the Scioto Riverfront. Installed in nineteen ninety-two for the five-hundredth anniversary of his voyage. The city is named for him, and the ship is the floating reminder of why. Genoa Park beside it is named for Columbus's birthplace.",
     long: "",
-    names: },
+    names: ["Columbus santa-Maria"] },
 
   {
     id: "columbus-short-north",
@@ -751,7 +751,7 @@ const STORIES = [
     radius: 700,
     short: "The Short North — the arts district on High Street between downtown and the university. The name comes from its position just north of downtown. In the nineteen eighties it was a rough strip of empty storefronts; artists moved in, galleries opened, and the city painted the telephone poles in rainbow colors. Now it's the densest gallery row in Ohio.",
     long: "",
-    names: },
+    names:["columbus short north"] },
   {
     id: "columbus-thurber",
     name: "Thurber House",
@@ -820,7 +820,7 @@ const STORIES = [
     radius: 400,
     short: "The Ohio Penitentiary — the state's first prison, opened in eighteen thirty-four on Spring Street. It held over five thousand inmates at its peak and was the site of the worst prison fire in American history: April twenty-first, nineteen thirty, when three hundred twenty inmates died. It was torn down in nineteen ninety-eight. The Arena District now sits on the ground.",
     long: "",
-    names: },
+    names: ["columbus pententiary"] },
   {
     id: "columbus-streetcar",
     name: "Columbus Streetcar",
@@ -829,7 +829,7 @@ const STORIES = [
     radius: 600,
     short: "The Columbus Streetcar — a two point three mile loop from the Short North through downtown to the Arena District, opened in twenty eighteen. It is the first modern streetcar in Ohio. The line replaced the old interurban that once connected Columbus to every town in the county. It runs on tracks laid over the same right-of-way.",
     long: "",
-    names: },
+    names: ["columbus streetcar"] },
   {
     id: "columbus-airport",
     name: "John Glenn Columbus International",
@@ -868,7 +868,7 @@ const STORIES = [
     radius: 400,
     short: "The Short North gallery row — over a hundred artists and studios packed into a few blocks of High Street. The Columbus College of Art and Design anchors it, founded in eighteen eighty-three as the Columbus Art School. The rainbow poles were painted in nineteen eighty-four by local artists to mark the district. It is the densest concentration of working artists in Ohio.",
     long: "",
-    names: },
+    names:["columbus short north galleries"] },
   {
     id: "columbus-gcac",
     name: "Greater Columbus Arts Council",
@@ -926,7 +926,7 @@ const STORIES = [
     radius: 200,
     short: "The Pickle Bill — Columbus's oldest continuously operating restaurant, opened in nineteen forty-nine on East Broad Street. It started as a hot dog stand and grew into a Columbus institution. The name comes from the owner's habit of giving free pickles to customers. It is still family-owned and still serves the same chili dogs.",
     long: "",
-    names: },
+    names: ["columbus pickle ball"] },
   {
     id: "columbus-jeno",
     name: "Jeno's Pizza",
@@ -1063,7 +1063,7 @@ const STORIES = [
     lat: 40.0067,
     lng: -83.0305,
     radius: 800,
-    short: "Jesse Owens trained
+    short: "Jesse Owens trained"
 id: "columbus-jesse-owens",
     name: "Jesse Owens",
     lat: 40.0094,

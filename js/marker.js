@@ -1,12 +1,16 @@
 const spoken = new Set();
 let speaking = false;
 let watchId = null;
+let speakTimer = null;
+let lastAudio = null;
 
 const MARKERS = (typeof STORIES !== "undefined" ? STORIES : []).map(s => ({
+  id: s.id,
   name: s.name,
   lat: s.lat,
   lng: s.lng,
   radius: s.radius,
+  layer: s.layer || "place",
   story: s.short
 }));
 
@@ -21,9 +25,24 @@ function distanceMeters(lat1, lng1, lat2, lng2) {
   return 2 * r * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a));
 }
 
+function mphFrom(pos) {
+  const s = pos.coords.speed;
+  if (s == null || s < 0) return 0;
+  return s * 2.23694;
+}
+
+function effectiveRadius(marker, speedMph) {
+  if (marker.layer === "approach") return marker.radius;
+  if (speedMph >= 60) return 0;
+  if (speedMph >= 35) return marker.radius * 3;
+  return marker.radius;
+}
+
 function speak(text) {
   if (speaking) return;
   speaking = true;
+  if (speakTimer) clearTimeout(speakTimer);
+  speakTimer = setTimeout(() => { speaking = false; }, 45000);
 
   fetch("/.netlify/functions/speak", {
     method: "POST",
@@ -35,10 +54,13 @@ function speak(text) {
       return res.blob();
     })
     .then((blob) => {
-      const audio = new Audio(URL.createObjectURL(blob));
+      const url = URL.createObjectURL(blob);
+      const audio = lastAudio || new Audio();
+      lastAudio = audio;
       audio.onended = () => { speaking = false; };
       audio.onerror = () => { speaking = false; };
-      audio.play();
+      audio.src = url;
+      return audio.play();
     })
     .catch((err) => {
       console.log("TTS error, falling back", err);
@@ -55,29 +77,39 @@ function speak(text) {
     });
 }
 
-function checkLocation(pos) {
+function checkLocation(pos, gpsEl) {
   const { latitude, longitude } = pos.coords;
+  const speedMph = mphFrom(pos);
+
+  let nearest = null;
+  MARKERS.forEach((m) => {
+    const d = distanceMeters(latitude, longitude, m.lat, m.lng);
+    if (!nearest || d < nearest.d) nearest = { m, d };
+  });
+
+  if (gpsEl && nearest) {
+    gpsEl.textContent =
+      "GPS: " + latitude.toFixed(4) + ", " + longitude.toFixed(4) +
+      " | " + Math.round(nearest.d) + "m to " + nearest.m.name +
+      " | " + Math.round(speedMph) + " mph";
+  }
+
   const hits = MARKERS
-    .map(m => ({ m, d: distanceMeters(latitude, longitude, m.lat, m.lng) }))
-    .filter(x => x.d <= x.m.radius && !spoken.has(x.m.name))
-    .sort((a, b) => a.m.radius - b.m.radius || a.d - b.d);
+    .map((m) => {
+      const d = distanceMeters(latitude, longitude, m.lat, m.lng);
+      return { m, d, r: effectiveRadius(m, speedMph) };
+    })
+    .filter((x) => x.r > 0 && x.d <= x.r && !spoken.has(x.m.id || x.m.name))
+    .sort((a, b) => a.d - b.d);
 
   if (hits.length && !speaking) {
-    spoken.add(hits[0].m.name);
-    speak(hits[0].m.story);
+    spoken.add(hits[0 0 0].m.story);
   }
 }
 
 function bindWatch(gpsEl, highAccuracy) {
   return navigator.geolocation.watchPosition(
-    (pos) => {
-      const { latitude, longitude } = pos.coords;
-      if (gpsEl) {
-        gpsEl.textContent =
-          "GPS: " + latitude.toFixed(5) + ", " + longitude.toFixed(5);
-      }
-      checkLocation(pos);
-    },
+    (pos) => checkLocation(pos, gpsEl),
     (err) => {
       if (gpsEl) gpsEl.textContent = "GPS: " + err.message;
       if (highAccuracy && watchId !== null) {
@@ -85,23 +117,26 @@ function bindWatch(gpsEl, highAccuracy) {
         watchId = bindWatch(gpsEl, false);
       }
     },
-    {
-      enableHighAccuracy: highAccuracy,
-      maximumAge: 5000,
-      timeout: 8000
-    }
+    { enableHighAccuracy: highAccuracy, maximumAge: 3000, timeout: 8000 }
   );
 }
 
 window.startMarkerRadio = function (gpsEl) {
+  if (!lastAudio) {
+    lastAudio = new Audio();
+    lastAudio.play().catch(() => {});
+  }
   if (watchId !== null) return;
   if (!("geolocation" in navigator)) {
     if (gpsEl) gpsEl.textContent = "GPS: not available";
     return;
   }
-  if (gpsEl) gpsEl.textContent = "GPS: waiting for fix…";
+  if (gpsEl) {
+    gpsEl.textContent = "GPS: waiting | " + MARKERS.length + " stories loaded";
+  }
   watchId = bindWatch(gpsEl, true);
 };
+
 
 
 

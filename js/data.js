@@ -887,7 +887,7 @@ const STORIES = [
     radius: 300,
     short: "The Jazz Arts Group — Columbus's professional jazz ensemble, founded in nineteen sixty-two by Ray Eubanks. It is one of the oldest continuously operating jazz organizations in the country. Eubanks led it for over fifty years. The group still performs at the Lincoln Theatre on East Long Street, a restored nineteen twenties vaudeville house.",
     long: "",
-    names: ["jazz art group" "Ray Eubanks"] },
+    names: ["jazz art group","Ray Eubanks"] },
   {
     id: "columbus-lincoln-theatre",
     name: "Lincoln Theatre",

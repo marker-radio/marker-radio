@@ -284,10 +284,10 @@ const STORIES = [
     name: "Kruse Auctions",
     lat: 41.3667,
     lng: -85.0589,
-    radious: 1500,
+    radius: 1500,
     short: "Dean Kruse started auctioneering farm equipment in Auburn in nineteen fifty-two and turned it into the world's biggest collector-car auction. His Labor Day weekend sale still fills the town every September — the fifty-sixth edition in twenty twenty-six pulled over twenty-one million dollars. Auburn didn't just build the cars; it became the place the world comes to buy them.",
     long: "",
-    names: [Kruse Auctions] },
+    names: ["dean kruse" "kruse auctions"] },
   {
     id: "auburn-railroad",
     name: "Wabash Railroad",
@@ -887,7 +887,7 @@ const STORIES = [
     radius: 300,
     short: "The Jazz Arts Group — Columbus's professional jazz ensemble, founded in nineteen sixty-two by Ray Eubanks. It is one of the oldest continuously operating jazz organizations in the country. Eubanks led it for over fifty years. The group still performs at the Lincoln Theatre on East Long Street, a restored nineteen twenties vaudeville house.",
     long: "",
-    names: },
+    names: ["jazz art group" "Ray Eubanks"] },
   {
     id: "columbus-lincoln-theatre",
     name: "Lincoln Theatre",
@@ -1060,14 +1060,8 @@ const STORIES = [
   {
     id: "columbus-jesse-owens",
     name: "Jesse Owens",
-    lat: 40.0067,
-    lng: -83.0305,
-    radius: 800,
-    short: "Jesse Owens trained"
-id: "columbus-jesse-owens",
-    name: "Jesse Owens",
     lat: 40.0094,
-    lng: -83.0253,
+    lng: -83.0235,
     radius: 500,
     short: "Jesse Owens ran for Ohio State. On May twenty-fifth, nineteen thirty-five, in one afternoon at Michigan, he broke three world records and tied a fourth. The next year in Berlin he won four gold medals in front of Hitler. The track stadium on the east side of the Horseshoe carries his name. Cleveland raised him. This campus made him the fastest man alive.",
     long: "",

@@ -287,7 +287,7 @@ const STORIES = [
     radius: 1500,
     short: "Dean Kruse started auctioneering farm equipment in Auburn in nineteen fifty-two and turned it into the world's biggest collector-car auction. His Labor Day weekend sale still fills the town every September — the fifty-sixth edition in twenty twenty-six pulled over twenty-one million dollars. Auburn didn't just build the cars; it became the place the world comes to buy them.",
     long: "",
-    names: ["dean kruse" "kruse auctions"] },
+    names: ["dean kruse", "kruse auctions"] },
   {
     id: "auburn-railroad",
     name: "Wabash Railroad",

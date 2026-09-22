@@ -4689,6 +4689,72 @@ const STORIES = [
     long: "",
     names: ["Garrett", "John W. Garrett", "Baltimore and Ohio Railroad"]
   },
+ {
+    id: "approach-hicksville",
+    layer: "approach",
+    name: "Approaching Hicksville",
+    lat: 41.2958,
+    lng: -84.7592,
+    radius: 7000,
+    short: "You're coming up on Hicksville, Ohio. Two things made this town. First, the Hicks company plotted it on the edge of the Great Black Swamp, and they had to drain the mud before a farm would pay. Second, High Street still has the Huber Opera House, a hotel stage George Huber used to try out shows before New York. If you drop into town, I'll tell you the church, the railroad, and the rest.",
+    long: "",
+    names: ["Hicksville", "Huber Opera House", "Great Black Swamp"]
+  },
+  {
+    id: "approach-fort-wayne",
+    layer: "approach",
+    name: "Approaching Fort Wayne",
+    lat: 41.0794,
+    lng: -85.1394,
+    radius: 10000,
+    short: "You're coming up on Fort Wayne. Two things to know from the highway. This city sits on Kekionga, the old Miami capital, where the St. Marys and the St. Joseph join to make the Maumee. And Johnny Appleseed walked these rivers and is remembered on the St. Joseph north of downtown. If you get off, I'll tell you Farnsworth and the television years, the fort, and the rest.",
+    long: "",
+    names: ["Fort Wayne", "Kekionga", "Johnny Appleseed", "Maumee River"]
+  },
+  {
+    id: "approach-auburn",
+    layer: "approach",
+    name: "Approaching Auburn",
+    lat: 41.3669,
+    lng: -85.0589,
+    radius: 8000,
+    short: "You're coming up on Auburn, Indiana. Two things. This is Home of the Classics — Auburn, Cord, and Duesenberg came off these streets, and the Art Deco showroom is still on South Wayne. And it started as a carriage shop. Charles Eckhart's family went from buggies to those cars. If you roll downtown, I'll tell you the shutdown of nineteen thirty seven and the rest.",
+    long: "",
+    names: ["Auburn", "Auburn Cord Duesenberg", "Charles Eckhart"]
+  },
+  {
+    id: "approach-defiance",
+    layer: "approach",
+    name: "Approaching Defiance",
+    lat: 41.2845,
+    lng: -84.3627,
+    radius: 8000,
+    short: "You're coming up on Defiance, Ohio. Two things. Anthony Wayne built Fort Defiance in seventeen ninety four at the meeting of the Maumee and the Auglaize, on ground that had been the Glaize, a Native council place. And the canals later turned that fork into a county seat. If you come into town, I'll tell you the fort ground, the flood, and the rest.",
+    long: "",
+    names: ["Defiance", "Fort Defiance", "Anthony Wayne", "The Glaize", "Maumee River", "Auglaize River"]
+  },
+  {
+    id: "approach-bryan",
+    layer: "approach",
+    name: "Approaching Bryan",
+    lat: 41.4748,
+    lng: -84.5525,
+    radius: 8000,
+    short: "You're coming up on Bryan, Ohio. Two things. This is Fountain City — artesian wells once ran in the streets — and it is the home of Spangler Candy, the Dum Dum plant you can still smell on a cook day. Ohio Art made the Etch A Sketch here too. If you get off, I'll tell you the square, the band, and the rest.",
+    long: "",
+    names: ["Bryan", "Spangler Candy", "Ohio Art", "Etch A Sketch"]
+  },
+  {
+    id: "approach-napoleon",
+    layer: "approach",
+    name: "Approaching Napoleon",
+    lat: 41.3923,
+    lng: -84.1252,
+    radius: 8000,
+    short: "You're coming up on Napoleon, Ohio. Two things. The town has a French emperor's name and a German canal founding on the Maumee. And Campbell Soup built a huge plant on the north side, so the drained swamp still feeds a factory. If you come off the road, I'll tell you the courthouse fire and the rest.",
+    long: "",
+    names: ["Napoleon", "Campbell Soup", "Maumee River", "Miami and Erie Canal"]
+  },
 
     ];
 

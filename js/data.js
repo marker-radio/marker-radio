@@ -5359,6 +5359,108 @@ const STORIES = [
     long: "",
     names: ["Cuba Indiana", "Hall's Corners"]
   }
+ {
+    id: "approach-butler",
+    name: "Butler",
+    lat: 41.4281,
+    lng: -84.8764,
+    radius: 8000,
+    layer: "approach",
+    short: "You are coming up on Butler, Indiana. This was a railroad junction town: Lake Shore Air Line, Eel River, then the Wabash. In 1966 a jet-powered railcar hit 183 miles an hour on the straight track toward Stryker. That American record still stands. If you come off the highway, I'll tell you Norristown, Broadway, and the steel mill.",
+    long: "",
+    names: ["Butler", "Wabash Railroad", "M-497"]
+  },
+  {
+    id: "butler-founding",
+    name: "Butler founding",
+    lat: 41.4281,
+    lng: -84.8764,
+    radius: 1300,
+    short: "You are in Butler. Settlers from Ohio and Pennsylvania took land here in 1836. Charles Norris platted Norristown. The town was also called Jarvis and Butler Station. The railroad company named the depot Butler, likely for pioneer David Butler. It incorporated as Butler in 1866 and became a city in 1903.",
+    long: "",
+    names: ["Charles Norris", "David Butler", "Norristown"]
+  },
+  {
+    id: "butler-railroads",
+    name: "Butler railroads",
+    lat: 41.4290,
+    lng: -84.8750,
+    radius: 1200,
+    short: "Three railroads made Butler. The Michigan Southern Air Line arrived in 1856. The Eel River line from Logansport opened in 1873. About 1880 the Wabash leased it, pushed to Detroit, and put its division point here. Crews lived on South Broadway. At the peak, sixty trains a day went through this crossing. When the division left in 1893, the boom broke.",
+    long: "",
+    names: ["Lake Shore and Michigan Southern", "Eel River Railroad", "Wabash Railroad"]
+  },
+  {
+    id: "butler-black-beetle",
+    name: "M-497 Black Beetle",
+    lat: 41.4281,
+    lng: -84.8764,
+    radius: 1500,
+    short: "On July 23, 1966 the New York Central bolted jet engines to an RDC car they called the M-497 Black Beetle. The run was Butler to Stryker because the Air Line is dead straight and flat. It hit 183.68 miles an hour. That is still the American rail speed record. A farm-junction town held the fastest train in the country.",
+    long: "",
+    names: ["M-497 Black Beetle", "New York Central", "Stryker"]
+  },
+  {
+    id: "butler-downtown",
+    name: "Downtown Butler Historic District",
+    lat: 41.4274,
+    lng: -84.8768,
+    radius: 800,
+    short: "Broadway's brick blocks went on the National Register in 2001. The oldest brick, the Old Dimestore at 137 South Broadway, went up in 1863 for John Isherwood. George Hensler built the hardware next door. This was the storefront row for Wilmington Township when the Wabash still stopped here.",
+    long: "",
+    names: ["Downtown Butler Historic District", "Old Dimestore"]
+  },
+  {
+    id: "butler-company",
+    name: "Butler Company",
+    lat: 41.4285,
+    lng: -84.8780,
+    radius: 1100,
+    short: "Jonas Aldrich and T. H. Shaub started the Butler Windmill Company in 1888. It became the Butler Company and made buggies, bikes, even airplanes, plus plumbing goods. Railroad towns did not stay railroad towns. They tried every machine that would ship.",
+    long: "",
+    names: ["Butler Company", "Butler Windmill Company"]
+  },
+  {
+    id: "butler-sdi",
+    name: "Steel Dynamics",
+    lat: 41.4400,
+    lng: -84.8900,
+    radius: 2000,
+    short: "Steel Dynamics put a thousand-acre mini-mill just outside Butler along the railroad in the 1990s. Hundreds of jobs. The rails that once hauled Wabash freight now feed a steel plant. The junction outlived the passenger depot.",
+    long: "",
+    names: ["Steel Dynamics"]
+  },
+  {
+    id: "butler-native",
+    name: "Butler Indian country",
+    lat: 41.4281,
+    lng: -84.8764,
+    radius: 1500,
+    short: "Wilmington Township was organized in 1837 on land that had been Miami and Potawatomi country. The Gunsenhouser, Kester, Blair, Tomlinson, and Handy families cleared the first farms. The Air Line did not invent this crossing. It froze a trail into steel.",
+    long: "",
+    names: ["Miami", "Potawatomi", "Wilmington Township"]
+  },
+  {
+    id: "butler-war",
+    name: "Butler Civil War town",
+    lat: 41.4281,
+    lng: -84.8764,
+    radius: 1300,
+    short: "Butler incorporated in 1866, the year after the war. The first brick store went up in 1863 while the fighting was still on. DeKalb County men left from these platforms. The town that the Wabash later bloated was already a Union shipping point.",
+    long: "",
+    names: ["Civil War"]
+  },
+  {
+    id: "butler-mudd-junction",
+    name: "Mudd Junction",
+    lat: 41.4281,
+    lng: -84.8764,
+    radius: 1300,
+    short: "Locals still tell the name pile-up. The station was Butler, the town was Jarvis, the post office was Norristown. For a while the crossing was Mudd Junction. Mail went to the wrong desk. They finally kept Butler and let the other names die. That is how a railroad town gets a name: whoever prints the timetable wins.",
+    long: "",
+    names: ["Mudd Junction", "Jarvis", "Norristown"]
+  }
+
 
 
     ];

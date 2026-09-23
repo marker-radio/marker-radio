@@ -1,3 +1,4 @@
+
 const spoken = new Set();
 let speaking = false;
 let watchId = null;
@@ -135,7 +136,6 @@ window.startMarkerRadio = function (gpsEl) {
     gpsEl.textContent = "GPS: waiting | " + MARKERS.length + " stories loaded";
   }
   watchId = bindWatch(gpsEl, true);
-};
 
 
 

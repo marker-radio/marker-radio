@@ -5248,5 +5248,118 @@ const STORIES = [
     long: "",
     names: ["Festival of Flags"]
   }
+  {
+    id: "approach-harlan",
+    name: "Harlan",
+    lat: 41.1963,
+    lng: -84.9195,
+    radius: 7000,
+    layer: "approach",
+    short: "You are coming up on Harlan, Indiana, on State Road 37. This ridge was the bank of prehistoric Lake Maumee and the old overland trace from Detroit to Fort Wayne. Lewis Reichelderfer platted Harlan in 1853. Maysville sat across the road and faded. If you slow down, I'll tell you the toll road and the 2023 tornado.",
+    long: "",
+    names: ["Harlan", "Maysville", "State Road 37"]
+  },
+  {
+    id: "harlan-founding",
+    name: "Harlan founding",
+    lat: 41.1963,
+    lng: -84.9195,
+    radius: 1200,
+    short: "You are in Harlan. William Sweet, Ezra May, and Isaac Hall settled this township in 1836. Lewis and Julia Ann Reichelderfer platted Harlan in December 1853 between the Hicksville and Spencerville roads. Ezra May platted Maysville on the south side of the road in 1859. The post office kept the name Harlan. Maysville disappeared.",
+    long: "",
+    names: ["Lewis Reichelderfer", "Ezra May", "Isaac Hall", "William Sweet"]
+  },
+  {
+    id: "harlan-ridge-road",
+    name: "Harlan ridge road",
+    lat: 41.1960,
+    lng: -84.9195,
+    radius: 1400,
+    short: "State Road 37 follows a glacial ridge, the north bank of old Lake Maumee. Surveyors marked it as a ridge road in 1837. In the late 1800s it was a toll road from Harlan to Fort Wayne. Indiana improved it as S.R. 37 in 1933. You are driving a beach that turned into a highway.",
+    long: "",
+    names: ["Lake Maumee", "State Road 37", "toll road"]
+  },
+  {
+    id: "harlan-marker",
+    name: "Harlan historical marker",
+    lat: 41.1960,
+    lng: -84.9196,
+    radius: 600,
+    short: "The Allen County-Fort Wayne Historical Society marker at 37 and Antwerp Road is the town's official pin. Platted 1853. North bank of prehistoric Lake Maumee. Pioneer trace Detroit to Fort Wayne. That is the sentence Harlan wants on the record.",
+    long: "",
+    names: ["Allen County-Fort Wayne Historical Society"]
+  },
+  {
+    id: "harlan-churches",
+    name: "Harlan churches",
+    lat: 41.1965,
+    lng: -84.9205,
+    radius: 1000,
+    short: "Methodists organized here in 1843 and built near the old cemetery in 1854. Lutherans from Mahoning County, Ohio, founded Salem in 1852. The United Brethren stood at 37 and Spencerville. In a crossroads town the churches were the civic buildings before there was a city hall.",
+    long: "",
+    names: ["Harlan Methodist", "Salem Lutheran"]
+  },
+  {
+    id: "harlan-cemetery",
+    name: "Old Maysville Cemetery",
+    lat: 41.1926,
+    lng: -84.9210,
+    radius: 800,
+    short: "Old Maysville Cemetery and Harlan Memorial Cemetery hold the two-town story. Maysville is gone. The stones are not. Springfield Township filled with settlers after the Indian removal of the 1830s. The graves are how you still read the first families: Sweet, May, Hall, Reichelderfer.",
+    long: "",
+    names: ["Old Maysville Cemetery", "Harlan Memorial Cemetery"]
+  },
+  {
+    id: "harlan-native",
+    name: "Harlan Indian country",
+    lat: 41.1963,
+    lng: -84.9195,
+    radius: 1500,
+    short: "Settlers in 1836 found fresh signs of Indian occupation. A few bands stayed in Springfield Township until 1839. Most had already been removed by treaty. This ridge above old Lake Maumee was a travel line long before it was a toll road. Harlan sits on somebody else's path.",
+    long: "",
+    names: ["Potawatomi", "Miami", "Lake Maumee"]
+  },
+  {
+    id: "harlan-veterans",
+    name: "Harlan Park Veterans Memorial",
+    lat: 41.1975,
+    lng: -84.9180,
+    radius: 700,
+    short: "Harlan Park holds the township veterans memorial. Unincorporated towns still raise stone for the men who left these farms. The park is also where Harlan Days is held. A place with no city charter still keeps a public square.",
+    long: "",
+    names: ["Harlan Park", "Harlan Days"]
+  },
+  {
+    id: "harlan-school",
+    name: "Harlan High School 1908",
+    lat: 41.1968,
+    lng: -84.9200,
+    radius: 800,
+    short: "The 1908 Harlan High School building stood until consolidation closed it in 1965. Kids here now go to Woodlan. The old school is the landmark of a town that was never incorporated and still knows where Friday night used to be.",
+    long: "",
+    names: ["Harlan High School", "Woodlan"]
+  },
+  {
+    id: "harlan-tornado-2023",
+    name: "Harlan 2023 tornado",
+    lat: 41.1963,
+    lng: -84.9195,
+    radius: 1400,
+    short: "On March 31, 2023 an EF-2 tornado formed on Fort Wayne's northeast side and ran at Harlan. Winds about 120 miles an hour. Path about 400 yards wide. Locals date stories from that night the way older towns date a fire. The ridge road took the hit and the town is still here.",
+    long: "",
+    names: ["2023 tornado"]
+  },
+  {
+    id: "harlan-cuba",
+    name: "Cuba Indiana",
+    lat: 41.1930,
+    lng: -84.9350,
+    radius: 1000,
+    short: "West of Harlan was Cuba, a hamlet with the township's first post office in 1849. The office moved to Harlan in 1854. Hall's Corners had another office in 1851. The map around here is full of names that lasted one generation. Harlan is the one that kept the mail.",
+    long: "",
+    names: ["Cuba Indiana", "Hall's Corners"]
+  }
+
+
     ];
 

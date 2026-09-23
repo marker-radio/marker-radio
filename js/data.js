@@ -7526,6 +7526,373 @@ const STORIES = [
     long: "",
     names: ["Potawatomi"]
   }
+  {
+    id: "approach-evansport",
+    name: "Evansport",
+    lat: 41.4261,
+    lng: -84.3964,
+    radius: 6500,
+    layer: "approach",
+    short: "You are coming up on Evansport, Ohio, a Tiffin River mill town they named like a port in case the canal came. Amos and Albert Evans and Jacob Coy platted it December 14, 1835. They wanted the county seat. Bryan won. The county line later cut the village in half. If you turn in, I'll tell you the dam and the fires.",
+    long: "",
+    names: ["Evansport", "Tiffin River"]
+  },
+  {
+    id: "evansport-founding",
+    name: "Evansport founding",
+    lat: 41.4261,
+    lng: -84.3964,
+    radius: 1000,
+    short: "You are in Evansport. 122 lots on Bean Creek, the Tiffin, for two Evans brothers and miller Jacob Coy. Amos had been Williams County prosecutor. Post office May 1, 1837, same day as Pulaski. Peak around 1880, more than three hundred people. Fires in 1893, 1921, and 1925 took the downtown.",
+    long: "",
+    names: ["Amos Evans", "Albert G. Evans", "Jacob Coy"]
+  },
+  {
+    id: "evansport-mill",
+    name: "Evansport mills",
+    lat: 41.4261,
+    lng: -84.3950,
+    radius: 800,
+    short: "Coy, Coy, and Snider dammed the Tiffin in the 1830s for saw and grist. Suspicious fire 1885. Another mill 1888, fire 1894. Brick steam mill 1895, ten-foot flywheel, diesel later, ran into the 1930s, reopened in the Depression. The brick on Main is still the landmark.",
+    long: "",
+    names: ["Evansport Milling Company"]
+  },
+  {
+    id: "evansport-boats",
+    name: "Evansport boats",
+    lat: 41.4261,
+    lng: -84.3964,
+    radius: 1000,
+    short: "About 1847 the Experiment hauled six hundred bushels between here and Brunersburg and lost money. In 1892 the steamer Laurina made three trips from Defiance and took 178 barrels of Evansport flour. Port in the name. Almost a port in the water.",
+    long: "",
+    names: ["Experiment", "Laurina"]
+  },
+  {
+    id: "evansport-seat",
+    name: "Evansport almost county seat",
+    lat: 41.4261,
+    lng: -84.3964,
+    radius: 1100,
+    short: "Same argument as Pulaski and Williams Center. Move the seat off Defiance. Bryan got it in 1840. Defiance County in 1845 put Evansport on the line. A river town that kept losing maps.",
+    long: "",
+    names: ["Bryan"]
+  },
+  {
+    id: "evansport-native",
+    name: "Bean Creek",
+    lat: 41.4261,
+    lng: -84.3964,
+    radius: 1500,
+    short: "French called it Bean Creek for the wild beans. Official name honors Edward Tiffin, first Ohio governor. Headwaters up in Michigan. Wyandot and Potawatomi water before the dam. The port suffix was a bet on a canal that never came.",
+    long: "",
+    names: ["Edward Tiffin", "Potawatomi"]
+  }
+  {
+    id: "approach-melbern",
+    name: "Melbern",
+    lat: 41.4669,
+    lng: -84.6514,
+    radius: 5500,
+    layer: "approach",
+    short: "You are coming up on Melbern, Ohio, halfway between Bryan and Edgerton on the old Michigan Southern. They surveyed it as Kansas in 1856. The station came in 1866 and the name became Melbern. If you turn in, I'll tell you the cooper and the elevator.",
+    long: "",
+    names: ["Melbern"]
+  },
+  {
+    id: "melbern-founding",
+    name: "Melbern founding",
+    lat: 41.4669,
+    lng: -84.6514,
+    radius: 800,
+    short: "You are in Melbern. William Shafer and others platted Kansas June 27, 1856, on the north side of the Air Line. Nothing much until the railroad put a station here in 1866. Replatted Melbern August 21, 1869, same name as the post office. Post office lasted until 1961.",
+    long: "",
+    names: ["Kansas Ohio"]
+  },
+  {
+    id: "melbern-rail",
+    name: "Melbern railroad",
+    lat: 41.4660,
+    lng: -84.6510,
+    radius: 700,
+    short: "Same Michigan Southern that made Stryker first in the county and then Bryan and Edgerton. Melbern is the farm stop between those two. Depot, stockyard, elevator, coal. Cars and pavement emptied the Main Street.",
+    long: "",
+    names: ["Michigan Southern and Northern Indiana"]
+  },
+  {
+    id: "melbern-1874",
+    name: "Melbern 1874",
+    lat: 41.4669,
+    lng: -84.6514,
+    radius: 700,
+    short: "By 1874: two stores, cooper, blacksmith, doctor, depot, sawmill, Lutheran church. Later a cheese factory, saloon, Grange, school, butcher. United Methodist is what is left. A timetable town that kept one steeple.",
+    long: "",
+    names: []
+  },
+  {
+    id: "melbern-native",
+    name: "Melbern Indian ground",
+    lat: 41.4669,
+    lng: -84.6514,
+    radius: 1300,
+    short: "Center Township. Same dirt as Williams Center. The Air Line cut a Kansas across older Potawatomi ground and then renamed it.",
+    long: "",
+    names: ["Potawatomi"]
+  }
+  {
+    id: "approach-cooney",
+    name: "Cooney",
+    lat: 41.6572,
+    lng: -84.7475,
+    radius: 5500,
+    layer: "approach",
+    short: "You are coming up on Cooney, Ohio, a crossroads in Northwest Township on Route 49. First Grange in Williams County met here. A tile mill drained the swamp. If you turn at 49 and P, I'll tell you Taylor and Adair.",
+    long: "",
+    names: ["Cooney"]
+  },
+  {
+    id: "cooney-founding",
+    name: "Cooney founding",
+    lat: 41.6572,
+    lng: -84.7475,
+    radius: 900,
+    short: "You are at Cooney. Named for a settler family. Post office June 24, 1881, Almeda L. Fox first postmaster, closed 1904. Northwest Township is the northwest corner of Ohio. Aaron Burr Goodwin, old Indian trader, put the first cabin near the Michigan-Indiana line about 1837.",
+    long: "",
+    names: ["Almeda L. Fox", "Aaron Burr Goodwin"]
+  },
+  {
+    id: "cooney-grange",
+    name: "Northwest Grange",
+    lat: 41.6572,
+    lng: -84.7475,
+    radius: 800,
+    short: "Northwest Grange Number 413 organized January 20, 1874, first Grange chapter in Williams County. In 1882 they built a two-story hall northeast of 49 and P-50. Store downstairs, meetings up. The frame is still there, empty.",
+    long: "",
+    names: ["Northwest Grange"]
+  },
+  {
+    id: "cooney-tile",
+    name: "Cooney tile mill",
+    lat: 41.6620,
+    lng: -84.7475,
+    radius: 800,
+    short: "About 1880 Cornelius P. Taylor put a tile and brick works, sawmill, and shingle mill half a mile north of Cooney on 49. R. Clarence Adair bought it in 1906 and ran drain tile until the market died around 1915. Clay made farms out of swamp. Then the mill came down.",
+    long: "",
+    names: ["Cornelius P. Taylor", "R. Clarence Adair"]
+  },
+  {
+    id: "cooney-native",
+    name: "Northwest Township Indian ground",
+    lat: 41.6572,
+    lng: -84.7475,
+    radius: 1500,
+    short: "Last township organized in the county, 1840. Goodwin had traded with the tribes before he stacked logs. Potawatomi and Ottawa ground in the last wet corner of Ohio. Tile and a Grange finished what the treaties started.",
+    long: "",
+    names: ["Potawatomi"]
+  }
+ {
+    id: "approach-ray-in",
+    name: "Ray Indiana",
+    lat: 41.7597,
+    lng: -84.8719,
+    radius: 6000,
+    layer: "approach",
+    short: "You are coming up on Ray, a town that sits on both sides of the Indiana-Michigan line. Highest populated place in northern Indiana. Child of the Fort Wayne, Jackson and Saginaw in 1870. Before that it was Cedar Lake, Duguidville, The Line, The Station. If you turn in, I'll tell you McNaughton and the Duguids.",
+    long: "",
+    names: ["Ray Indiana"]
+  },
+  {
+    id: "ray-founding",
+    name: "Ray founding",
+    lat: 41.7597,
+    lng: -84.8719,
+    radius: 900,
+    short: "You are in Ray. Alexander McNaughton bought both sides of the state line where the tracks crossed and platted the village November 19, 1873, at seventy-two. Post office opened as Clear Lake in 1870, renamed Ray July 12, 1872, closed 1960. Two area codes. Two ZIP codes. One grain elevator.",
+    long: "",
+    names: ["Alexander McNaughton"]
+  },
+  {
+    id: "ray-duguid",
+    name: "Cedar Lake Duguids",
+    lat: 41.7500,
+    lng: -84.8800,
+    radius: 1200,
+    short: "John, James, and Adam Duguid and Samuel Stewart built a cabin on the northeast shore of Cedar Lake in the fall of 1835 and wintered there. By 1841 a hamlet: wagon shop, school, Covenanter church. That lake is marsh now. Ray is the railroad name that replaced the family name.",
+    long: "",
+    names: ["John Duguid", "Cedar Lake"]
+  },
+  {
+    id: "ray-rail",
+    name: "Ray railroad",
+    lat: 41.7597,
+    lng: -84.8719,
+    radius: 800,
+    short: "Fort Wayne, Jackson and Saginaw finished about 1870 and dropped a depot and grain house on the line. Indiana Northeastern still runs that track. Farmers had hauled wheat to Hillsdale and Toledo until the train came. Then the town appeared.",
+    long: "",
+    names: ["Fort Wayne Jackson and Saginaw"]
+  },
+  {
+    id: "ray-church",
+    name: "House That Jack Built",
+    lat: 41.7597,
+    lng: -84.8719,
+    radius: 700,
+    short: "New school 1917. Reverend D. C. Jack, Covenanter minister, finished the push. They called it the House That Jack Built. Methodist church 1902. Scottish Covenanters first, then a line town.",
+    long: "",
+    names: ["D. C. Jack"]
+  },
+  {
+    id: "ray-native",
+    name: "Ray Indian ground",
+    lat: 41.7597,
+    lng: -84.8719,
+    radius: 1500,
+    short: "Same Fremont Township woods as the Lords House and Clear Lake. Duguids wrote that the first years still meant dealing with the tribes. Then a railroad drew a straight line through two states and named it Ray.",
+    long: "",
+    names: ["Potawatomi"]
+  }
+  {
+    id: "approach-nettle-lake",
+    name: "Nettle Lake",
+    lat: 41.6786,
+    lng: -84.7269,
+    radius: 5500,
+    layer: "approach",
+    short: "You are coming up on Nettle Lake, Ohio, a glacial lake a mile south of Michigan. Hopewell people piled four mounds on a creek that feeds it two thousand years ago. In 1991 an EF-3 and a microburst hit the cottages. If you turn in, I'll tell you Kintigh and McLean.",
+    long: "",
+    names: ["Nettle Lake"]
+  },
+  {
+    id: "nettle-lake-glacial",
+    name: "Nettle Lake glacial",
+    lat: 41.6786,
+    lng: -84.7269,
+    radius: 1100,
+    short: "You are at Nettle Lake. One of a handful of natural glacial lakes left in Ohio. One hundred fifteen acres, twenty-seven feet deep. Nettle Creek in and out, then the St. Joseph, then the Maumee, then Erie. The cottages are new. The hole in the ice is not.",
+    long: "",
+    names: ["Nettle Creek"]
+  },
+  {
+    id: "nettle-mounds",
+    name: "Nettle Lake Mound Group",
+    lat: 41.6866,
+    lng: -84.7314,
+    radius: 700,
+    short: "Four low Hopewell mounds on a stream into the lake. One to three feet high, eighteen to thirty across. Pottery, burials, flint. Built between about 200 BCE and 500 CE. National Register. Williams County Historical Society keeps them. Older than every cabin in Northwest Township.",
+    long: "",
+    names: ["Hopewell", "Nettle Lake Mound Group"]
+  },
+  {
+    id: "nettle-kintigh",
+    name: "Kintigh settlement",
+    lat: 41.6786,
+    lng: -84.7269,
+    radius: 900,
+    short: "The settlement started as the Northwest post office under Jacob Kintigh. So many of that family lie in Nettle Lake Cemetery people still call it Kintigh Cemetery. United Brethren across the road. First names on this shore after the mounds.",
+    long: "",
+    names: ["Jacob Kintigh"]
+  },
+  {
+    id: "nettle-mclean",
+    name: "William McLean 1812",
+    lat: 41.6786,
+    lng: -84.7269,
+    radius: 800,
+    short: "William McLean is the only War of 1812 veteran in that cemetery. Came when the timber still held bear and panther. His son William farmed, served in the Civil War, and was a notary. Two wars in one family plot beside a Hopewell creek.",
+    long: "",
+    names: ["William McLean"]
+  },
+  {
+    id: "nettle-tornado",
+    name: "Nettle Lake 1991",
+    lat: 41.6786,
+    lng: -84.7269,
+    radius: 1200,
+    short: "March 27, 1991, about nine at night, an EF-3 and a microburst hit Nettle Lake. Not as deadly as the 1894 Kunkle cyclone, but it is the storm this generation points at when they talk about the lake.",
+    long: "",
+    names: []
+  }
+  {
+    id: "approach-lake-seneca",
+    name: "Lake Seneca",
+    lat: 41.6700,
+    lng: -84.6441,
+    radius: 5500,
+    layer: "approach",
+    short: "You are coming up on Lake Seneca, Ohio. Memphis developers dammed the St. Joseph in 1965, went bankrupt in 1975, and left a lake with tires in the dam. County drained it in 1996. Owners borrowed 1.6 million and filled it again in 2001. If you turn in, I'll tell you Hot Dam Let's Party.",
+    long: "",
+    names: ["Lake Seneca"]
+  },
+  {
+    id: "lake-seneca-founding",
+    name: "Lake Seneca founding",
+    lat: 41.6700,
+    lng: -84.6441,
+    radius: 1200,
+    short: "You are at Lake Seneca. American Realty Service Corporation of Memphis built this the way they built fifty other lakes: dam a creek, sell lots. Three million dollars by 1966. Filling started October 22. Two hundred seventy acres. A planned town on a made river.",
+    long: "",
+    names: ["American Realty Service Corporation"]
+  },
+  {
+    id: "lake-seneca-dam",
+    name: "Lake Seneca dam",
+    lat: 41.6700,
+    lng: -84.6441,
+    radius: 1000,
+    short: "Spillway failed in 1973. Developer bankrupt 1975. In 1996 maintenance found hollow concrete and voids packed with old tires instead of clay. Williams County opened the gates. The lake sat empty. Property values fell to auction lots for five dollars.",
+    long: "",
+    names: []
+  },
+  {
+    id: "lake-seneca-refill",
+    name: "Lake Seneca refill",
+    lat: 41.6700,
+    lng: -84.6441,
+    radius: 1000,
+    short: "The property owners association took a 1.6 million dollar Ohio Water Development Authority loan. Three hundred fifty a year for thirty years on every lot. Lake back in 2001. Flyers said Hot Dam, Let's Party. A local legend you can still boat on.",
+    long: "",
+    names: ["LSPOA"]
+  },
+  {
+    id: "lake-seneca-river",
+    name: "St. Joseph under Seneca",
+    lat: 41.6700,
+    lng: -84.6441,
+    radius: 1500,
+    short: "Under the lots is the St. Joseph, same river that leaves Nettle Lake and runs to the Maumee. Potawatomi water first. Then a Memphis dam. The river is older than the party.",
+    long: "",
+    names: ["St. Joseph River", "Potawatomi"]
+  }
+{
+    id: "approach-bridgewater-center",
+    name: "Bridgewater Center",
+    lat: 41.6581,
+    lng: -84.6308,
+    radius: 5000,
+    layer: "approach",
+    short: "You are coming up on Bridgewater Center, Ohio. Mills first, plat later. Grist and saw in 1844. Named because it sat in the middle of Bridgewater Township. If you turn in, I'll tell you the post office that lasted until 1903.",
+    long: "",
+    names: ["Bridgewater Center"]
+  },
+  {
+    id: "bridgewater-center-founding",
+    name: "Bridgewater Center founding",
+    lat: 41.6581,
+    lng: -84.6308,
+    radius: 800,
+    short: "You are at Bridgewater Center. Water power in 1844 made the place. Post office 1846 to 1903. Platted 1871, a generation after the mill. Same pattern as Lockport: the wheel came before the lots.",
+    long: "",
+    names: []
+  },
+  {
+    id: "bridgewater-center-native",
+    name: "Bridgewater Township Indian ground",
+    lat: 41.6581,
+    lng: -84.6308,
+    radius: 1400,
+    short: "Northwest Williams. Same township family as Nettle Lake and Cooney. Potawatomi ground, then a mill in the geographic middle, then a name that admits it was never a city.",
+    long: "",
+    names: ["Potawatomi"]
+  }
 
  ];
 

@@ -5865,7 +5865,986 @@ const STORIES = [
     long: "",
     names: ["Great Black Swamp", "Miami", "Potawatomi"]
   }
-
-
-  ];
+  {
+    id: "approach-ney",
+    name: "Ney",
+    lat: 41.3806,
+    lng: -84.5211,
+    radius: 6000,
+    layer: "approach",
+    short: "You are coming up on Ney, Ohio, one of the shortest names in the state. Platted as Georgetown in 1846, renamed for Marshal Michel Ney, Napoleon's bravest of the brave. Ned Garver, who won twenty games for a last-place Browns team, grew up here. If you turn in, I'll tell you the rest.",
+    long: "",
+    names: ["Ney", "Michel Ney", "Ned Garver"]
+  },
+  {
+    id: "ney-founding",
+    name: "Ney founding",
+    lat: 41.3806,
+    lng: -84.5211,
+    radius: 900,
+    short: "You are in Ney. Settlers platted Georgetown in 1846 in Washington Township. The post office opened in 1850 as Ney, after the French marshal Michel Ney. The village kept the short name. Three letters on the water tower. That is the whole civic brand.",
+    long: "",
+    names: ["Georgetown Ohio", "Michel Ney"]
+  },
+  {
+    id: "ney-marshal",
+    name: "Marshal Ney",
+    lat: 41.3806,
+    lng: -84.5211,
+    radius: 1000,
+    short: "Michel Ney fought for Napoleon, led the rear guard out of Russia, and was shot after Waterloo. Ohio farmers named a swamp-edge village for him. You do not have to like emperors to like a man who would not leave his men. That is the story they wanted on the postmark.",
+    long: "",
+    names: ["Michel Ney", "Napoleon"]
+  },
+  {
+    id: "ney-garver",
+    name: "Ned Garver",
+    lat: 41.3806,
+    lng: -84.5211,
+    radius: 1000,
+    short: "Ned Garver came out of Ney and pitched in the majors. In 1951 he won twenty games and lost twelve for the St. Louis Browns, a last-place club. He also hit .305 that year. A village of a few hundred produced a pitcher who beat the math of a bad team.",
+    long: "",
+    names: ["Ned Garver", "St. Louis Browns"]
+  },
+  {
+    id: "ney-rail",
+    name: "Ney and the B and O",
+    lat: 41.3806,
+    lng: -84.5211,
+    radius: 1100,
+    short: "The Baltimore and Ohio cut across southern Defiance County in the 1870s toward Hicksville and Chicago. Ney is a Washington Township farm village on that grain map. The short name sat on a long railroad.",
+    long: "",
+    names: ["Baltimore and Ohio Railroad"]
+  },
+  {
+    id: "ney-park",
+    name: "Ney Community Park",
+    lat: 41.3815,
+    lng: -84.5220,
+    radius: 600,
+    short: "Ney Community Park is the public square for a village of three hundred. Reservations still go through the village phone. That is how small civic life works when there is no opera house left to argue over.",
+    long: "",
+    names: ["Ney Community Park"]
+  },
+  {
+    id: "ney-war",
+    name: "Ney Civil War farms",
+    lat: 41.3806,
+    lng: -84.5211,
+    radius: 1100,
+    short: "Washington Township farms sent men in blue while the plat was still Georgetown. Defiance County's name is a fort. Ney's name is a marshal. Both are war names on agricultural ground.",
+    long: "",
+    names: ["Civil War"]
+  },
+  {
+    id: "ney-native",
+    name: "Washington Township Indian ground",
+    lat: 41.3806,
+    lng: -84.5211,
+    radius: 1400,
+    short: "This township sits in the old Maumee country of the Miami and Potawatomi. Georgetown was platted after the removals and after Defiance County split from Williams in 1845. A French marshal's name on Ohio dirt is the last layer, not the first.",
+    long: "",
+    names: ["Miami", "Potawatomi"]
+  }
+  {
+    id: "approach-edon",
+    name: "Edon",
+    lat: 41.5561,
+    lng: -84.7694,
+    radius: 7000,
+    layer: "approach",
+    short: "You are coming up on Edon, Ohio, at 34 and 49, two miles from Indiana. They called it Mudsock, then Sheline's Mills, then Weston, then Edon with an O nobody can explain. The Wabash arrived in 1881. If you turn in, I'll tell you Andrew Sheline and the woolen mill.",
+    long: "",
+    names: ["Edon", "Mudsock", "Andrew Sheline"]
+  },
+  {
+    id: "edon-founding",
+    name: "Edon founding",
+    lat: 41.5561,
+    lng: -84.7694,
+    radius: 1100,
+    short: "You are in Edon. Henry Stuller, John Garwood, and Thomas Smith were on this ground by 1850. Andrew Sheline built a cabin and sawmill about 1855. Twelve landowners platted Weston in 1867. The post office could not be Weston because Wood County already had one. They chose Edon. Incorporated 1874.",
+    long: "",
+    names: ["Andrew Sheline", "Weston Ohio"]
+  },
+  {
+    id: "edon-mudsock",
+    name: "Mudsock",
+    lat: 41.5561,
+    lng: -84.7694,
+    radius: 1100,
+    short: "Sylvanus Garwood nicknamed the place Mudsock because the streets painted your boots. Ohio had several Mudsocks. This one kept the joke and lost the name. A village that started in gumbo still tells the story every time a stranger asks how to spell Edon.",
+    long: "",
+    names: ["Mudsock", "Sylvanus Garwood"]
+  },
+  {
+    id: "edon-wabash",
+    name: "Edon Wabash",
+    lat: 41.5550,
+    lng: -84.7685,
+    radius: 1000,
+    short: "The Wabash came through Williams County in 1880 and 1881 and touched Montpelier, Edon, West Unity, and Kunkle. Hotels went up on the boom. Grain elevators still mark the south side of town. 34 and 49 cross here because farm traffic and rail traffic needed the same corner.",
+    long: "",
+    names: ["Wabash Railroad"]
+  },
+  {
+    id: "edon-sheline",
+    name: "Andrew Sheline",
+    lat: 41.5561,
+    lng: -84.7694,
+    radius: 1100,
+    short: "Andrew Sheline came from Pennsylvania by way of Carroll County. Carpenter, farmer, merchant. He built the first dry goods store, cabinet shop, doctor's office for Ezra Mann, a hotel, a gristmill, and a woolen factory. Edon is one man's bet that a muddy corner could hold a town.",
+    long: "",
+    names: ["Andrew Sheline", "Ezra Mann"]
+  },
+  {
+    id: "edon-mill",
+    name: "Edon mills",
+    lat: 41.5561,
+    lng: -84.7694,
+    radius: 1000,
+    short: "Sheline's mill and later the Hissong mill and the woolen factory made Florence Township more than a crossroads. Woodwork and wool were each worth thousands a year. When the Hissong mill burned they rebuilt. That is how you know the siding still mattered.",
+    long: "",
+    names: ["Hissong mill"]
+  },
+  {
+    id: "edon-florence",
+    name: "Florence Township",
+    lat: 41.5561,
+    lng: -84.7694,
+    radius: 1300,
+    short: "This is Florence Township. David Singer was the first white child born here. His people came in 1837. The township name sat on the first post office at Luke's Corners, a mile northeast, before the office moved into Weston and forced the Edon spelling.",
+    long: "",
+    names: ["Florence Township", "David Singer"]
+  },
+  {
+    id: "edon-war",
+    name: "Edon Civil War",
+    lat: 41.5561,
+    lng: -84.7694,
+    radius: 1100,
+    short: "The plat is 1867, after the war. Florence Township men were already gone with Ohio regiments. Dr. Francis Hoeger of this township served in the 38th Ohio. The village incorporated in the peace. The farms had already paid the bill.",
+    long: "",
+    names: ["38th Ohio", "Francis Hoeger"]
+  },
+  {
+    id: "edon-native",
+    name: "Edon Indian ground",
+    lat: 41.5561,
+    lng: -84.7694,
+    radius: 1500,
+    short: "Northwest Williams County is old Potawatomi and Miami country on the way to the St. Joseph and the Michigan line. Mudsock was the settler name for land that had to be ditched. The Wabash did not invent this corner. It only dried it out enough for a depot.",
+    long: "",
+    names: ["Potawatomi", "Miami"]
+  }
+{
+    id: "approach-waterloo",
+    name: "Waterloo",
+    lat: 41.4306,
+    lng: -85.0233,
+    radius: 8000,
+    layer: "approach",
+    short: "You are coming up on Waterloo, Indiana. This is still an Amtrak stop. Capitol Limited and Lake Shore Limited. The 1883 wooden depot survived a demolition order. Miles Waterman would not let them name the town Waterman, so they said Waterloo City. If you turn in, I'll tell you Uniontown and the mastodon.",
+    long: "",
+    names: ["Waterloo", "Amtrak", "Miles Waterman"]
+  },
+  {
+    id: "waterloo-founding",
+    name: "Waterloo founding",
+    lat: 41.4306,
+    lng: -85.0233,
+    radius: 1300,
+    short: "You are in Waterloo. Uniontown sat on Cedar Creek in 1838. When the Air Line railroad chose the south bank, John Hornberger and Miles Waterman platted Waterloo City on March 14, 1856. First building was a railroad office. Incorporated 1863. They dropped City in 1871. For a while this town was bigger than Auburn.",
+    long: "",
+    names: ["Uniontown", "John Hornberger", "Miles Waterman"]
+  },
+  {
+    id: "waterloo-airline",
+    name: "Waterloo Air Line",
+    lat: 41.4315,
+    lng: -85.0220,
+    radius: 1100,
+    short: "The Michigan Southern Air Line reached here in 1856 and 1857. First passenger office was a boxcar beside the track. The Fort Wayne, Jackson and Saginaw crossed in 1870. Both became Lake Shore and Michigan Southern, then New York Central, then Norfolk Southern. The trains never really left.",
+    long: "",
+    names: ["Michigan Southern Air Line", "Lake Shore and Michigan Southern"]
+  },
+  {
+    id: "waterloo-depot",
+    name: "Waterloo depot",
+    lat: 41.4316,
+    lng: -85.0205,
+    radius: 700,
+    short: "The wooden depot went up in 1883 with separate waiting rooms for men and women. Freight railroad wanted it gone. In 1984 the town moved it a thousand feet and saved it. Amtrak came back. In 2016 they cut a ribbon on the restored station. A small town kept the only passenger stop in northeast Indiana.",
+    long: "",
+    names: ["Waterloo depot"]
+  },
+  {
+    id: "waterloo-waterman",
+    name: "Miles Waterman",
+    lat: 41.4306,
+    lng: -85.0233,
+    radius: 1200,
+    short: "Settlers wanted to name the plat Waterman. Miles Waterman owned land on both sides of the track and said no. Waterloo City was the compromise, maybe a nod to the Belgian battle, maybe just a name that would stick on a timetable. The man refused the honor and still got the town.",
+    long: "",
+    names: ["Miles Waterman"]
+  },
+  {
+    id: "waterloo-mastodon",
+    name: "Waterloo mastodon",
+    lat: 41.4306,
+    lng: -85.0233,
+    radius: 1300,
+    short: "In 1888 they found a nearly complete mastodon skeleton near Waterloo. The town already had a brick yard, pottery, and mills. Then the ground gave up an elephant. Railroad towns collect whatever the cut exposes.",
+    long: "",
+    names: ["mastodon"]
+  },
+  {
+    id: "waterloo-hine",
+    name: "Jane L. Hine",
+    lat: 41.4306,
+    lng: -85.0233,
+    radius: 1100,
+    short: "Jane L. Brooks Hine of Waterloo has an Indiana state historical marker, placed in 2023. A farm-and-depot town finally put a woman's name on the official list. Stop at the marker if you want the long version. The short version is that Waterloo kept more than track.",
+    long: "",
+    names: ["Jane L. Hine"]
+  },
+  {
+    id: "waterloo-cedar",
+    name: "Cedar Creek Waterloo",
+    lat: 41.4330,
+    lng: -85.0240,
+    radius: 1100,
+    short: "Cedar Creek drew Uniontown first. Wesley Parks, first road commissioner in DeKalb County, organized that village where 427 meets the water. The railroad stole the population south. The creek is still the reason anyone stopped here before steel.",
+    long: "",
+    names: ["Cedar Creek", "Wesley Parks"]
+  },
+  {
+    id: "waterloo-war",
+    name: "Waterloo Civil War town",
+    lat: 41.4306,
+    lng: -85.0233,
+    radius: 1200,
+    short: "Waterloo incorporated in 1863, in the middle of the war. The Air Line was already moving men and grain. The community mausoleum later went on the National Register. A railroad town buried its dead in stone when wood would not last.",
+    long: "",
+    names: ["Civil War", "Waterloo Community Mausoleum"]
+  },
+  {
+    id: "waterloo-native",
+    name: "Waterloo Indian creek",
+    lat: 41.4306,
+    lng: -85.0233,
+    radius: 1500,
+    short: "Cedar Creek was Miami and Potawatomi water. Uniontown sat on a trading path. The Air Line froze the crossing a half mile south. Waterloo is the railroad name for a creek town that moved.",
+    long: "",
+    names: ["Miami", "Potawatomi", "Cedar Creek"]
+  }
+ {
+    id: "approach-hamilton-in",
+    name: "Hamilton Indiana",
+    lat: 41.5333,
+    lng: -84.9208,
+    radius: 7000,
+    layer: "approach",
+    short: "You are coming up on Hamilton, Indiana, a lake town on the Steuben and DeKalb line. First they called it Enterprise. Fever ruined the name. Sidney Gambia sold lots as Hamilton. The Wabash later dropped visitors at a depot and they took a boat to the resorts. If you turn in, I'll tell you Cold Springs and Magic by the Lake.",
+    long: "",
+    names: ["Hamilton Indiana", "Hamilton Lake", "Sidney Gambia"]
+  },
+  {
+    id: "hamilton-founding",
+    name: "Hamilton founding",
+    lat: 41.5333,
+    lng: -84.9208,
+    radius: 1200,
+    short: "You are in Hamilton. Nicanor Munson entered the outlet of the lake in 1836 and sold to New York money calling itself the Steuben City Company. They platted Enterprise. Illness hit in 1838. To wash the reputation they renamed it Hamilton in 1844. First post office in Steuben County sat here. Incorporated 1914.",
+    long: "",
+    names: ["Nicanor Munson", "Enterprise Indiana", "Sidney Gambia"]
+  },
+  {
+    id: "hamilton-lake",
+    name: "Hamilton Lake",
+    lat: 41.5360,
+    lng: -84.9180,
+    radius: 1500,
+    short: "The town is the lake. Ice cut here filled boxes down the line. Dams at the outlet ran a mill, then a generator that gave Hamilton its first lights. Steuben County has more lakes per mile than any county in Indiana. This one got the depot and the dance hall.",
+    long: "",
+    names: ["Hamilton Lake"]
+  },
+  {
+    id: "hamilton-wabash",
+    name: "Hamilton Wabash depot",
+    lat: 41.5310,
+    lng: -84.9220,
+    radius: 1000,
+    short: "The Wabash stopped here in 1893. Guests left the train, took a carriage to the docks, and rode the Mildred or the Valle May to the resorts. A railroad that hauled grain also hauled Saturday night. That is how a mill pond became a destination.",
+    long: "",
+    names: ["Wabash Railroad"]
+  },
+  {
+    id: "hamilton-cold-springs",
+    name: "Cold Springs",
+    lat: 41.5400,
+    lng: -84.9100,
+    radius: 900,
+    short: "Cold Springs Hotel went up around 1897. William Jennings Bryan spoke from the porch in 1900. The GAR picnic in 1887 drew a claimed ten thousand. Glen Miller and the Dorseys played the hall. Edward Eager vacationed here as a boy and put the lake in Magic by the Lake.",
+    long: "",
+    names: ["Cold Springs", "William Jennings Bryan", "Edward Eager"]
+  },
+  {
+    id: "hamilton-eager",
+    name: "Edward Eager",
+    lat: 41.5333,
+    lng: -84.9208,
+    radius: 1200,
+    short: "Edward Eager wrote children's books that treat magic as a serious local problem. He summered on this lake in the 1920s and used the hotel and the water. A resort town got into print without changing its name again.",
+    long: "",
+    names: ["Edward Eager"]
+  },
+  {
+    id: "hamilton-house",
+    name: "Hamilton House",
+    lat: 41.5345,
+    lng: -84.9190,
+    radius: 700,
+    short: "They surveyed a Canadian Southern railroad that never came. Dr. Petre still built a three-story hospital on the south shore for shops that were never built. It became apartments, then the Hamilton House. A failed railroad left the best building on the water.",
+    long: "",
+    names: ["Hamilton House"]
+  },
+  {
+    id: "hamilton-war",
+    name: "Hamilton Civil War county",
+    lat: 41.5333,
+    lng: -84.9208,
+    radius: 1200,
+    short: "Steuben County organized in 1837, named for Baron von Steuben. Hamilton's post office is older than the county seat's reputation. Union men left these farms. The GAR came back for the picnic. The lake kept the reunion.",
+    long: "",
+    names: ["Baron von Steuben", "Grand Army of the Republic"]
+  },
+  {
+    id: "hamilton-native",
+    name: "Hamilton Indian lake",
+    lat: 41.5360,
+    lng: -84.9180,
+    radius: 1600,
+    short: "Potawatomi and Miami used these kettle lakes. Local story said a monster in the dells wrecked canoes. That is settler language for water they did not yet own. Pokagon country is north. This outlet is where New York money put a mill on someone else's shore.",
+    long: "",
+    names: ["Potawatomi", "Miami"]
+  }
+ {
+    id: "approach-leo-cedarville",
+    name: "Leo-Cedarville",
+    lat: 41.2150,
+    lng: -85.0156,
+    radius: 7000,
+    layer: "approach",
+    short: "You are coming up on Leo-Cedarville, two villages that married in 1996 so Fort Wayne could not annex them. Cedarville was platted in 1838 on the St. Joseph. Leo started as Hamilton in 1849. Jacob Notestine bought trees from Johnny Appleseed. If you turn in, I'll tell you the landing and the dam.",
+    long: "",
+    names: ["Leo-Cedarville", "Johnny Appleseed", "Cedarville"]
+  },
+  {
+    id: "leo-founding",
+    name: "Leo-Cedarville founding",
+    lat: 41.2150,
+    lng: -85.0156,
+    radius: 1400,
+    short: "You are in Leo-Cedarville. Cedar Creek Township sat empty after the removals until Mr. Wood built a cabin in 1833. Jacob Notestine and John Manning planted corn in 1834. William G. Ewing platted Cedarville in 1838 with a public square and a river landing. Leo, first called Hamilton, was platted in 1849 for the bridge to Grabill.",
+    long: "",
+    names: ["William G. Ewing", "Jacob Notestine", "John Manning"]
+  },
+  {
+    id: "leo-appleseed",
+    name: "Notestine orchard",
+    lat: 41.2150,
+    lng: -85.0156,
+    radius: 1200,
+    short: "In 1836 Jacob Notestine planted the first orchard here with trees bought from John Chapman, Johnny Appleseed. Fort Wayne already claims the grave. Cedar Creek Township claims the nursery sale. That is how a saint of the nurseries shows up in two towns at once.",
+    long: "",
+    names: ["Johnny Appleseed", "John Chapman", "Jacob Notestine"]
+  },
+  {
+    id: "cedarville-landing",
+    name: "Cedarville landing",
+    lat: 41.2180,
+    lng: -85.0120,
+    radius: 900,
+    short: "Ewing reserved ground on the east side of Main, against the St. Joseph, for boats. By 1860 Cedarville had stores, a shingle mill, sawmill, gristmill, and a wagon maker. The river was the first railroad. The landing is why the plat faces the water.",
+    long: "",
+    names: ["St. Joseph River"]
+  },
+  {
+    id: "leo-st-leos",
+    name: "St. Leo church",
+    lat: 41.2125,
+    lng: -85.0165,
+    radius: 800,
+    short: "St. Bonifacius built in the village of Hamilton in 1856 and later took the name St. Leo. The town followed the church. Leo is a parish name that stuck to a bridge town.",
+    long: "",
+    names: ["St. Leo"]
+  },
+  {
+    id: "leo-merge",
+    name: "1996 incorporation",
+    lat: 41.2150,
+    lng: -85.0156,
+    radius: 1400,
+    short: "Growth in the nineties brought the threat of Fort Wayne annexation. Leo and Cedarville incorporated together in 1996 to keep their own council. A hyphen is a legal weapon. Two nineteenth-century plats became one town so the city could not swallow them.",
+    long: "",
+    names: ["Fort Wayne"]
+  },
+  {
+    id: "cedarville-dam",
+    name: "Cedarville Reservoir",
+    lat: 41.2200,
+    lng: -85.0300,
+    radius: 1200,
+    short: "Cedarville Dam went across the St. Joseph in 1956, 135 feet wide and thirty high. It made a 500-million-gallon reserve for Fort Wayne and a reservoir for fishing. A farm township became a water tank for the city it later refused to join.",
+    long: "",
+    names: ["Cedarville Reservoir", "Cedarville Dam"]
+  },
+  {
+    id: "leo-bridge",
+    name: "Leo Grabill bridge",
+    lat: 41.2130,
+    lng: -85.0140,
+    radius: 800,
+    short: "Leo mattered because of the bridge over the St. Joseph toward Grabill. Pioneers could trade in both villages without a ford. Hursh Road Bridge later made the National Register, then came off the list. The crossing outlasted the paperwork.",
+    long: "",
+    names: ["Grabill", "Hursh Road Bridge"]
+  },
+  {
+    id: "leo-war",
+    name: "Cedar Creek Civil War",
+    lat: 41.2150,
+    lng: -85.0156,
+    radius: 1300,
+    short: "These farms sent men after 1861. The plats are older than the war. The hyphen town is new. The river and the orchard are the old parts.",
+    long: "",
+    names: ["Civil War"]
+  },
+  {
+    id: "leo-native",
+    name: "Cedar Creek Indian ground",
+    lat: 41.2150,
+    lng: -85.0156,
+    radius: 1600,
+    short: "The town history says the township was empty from the time the Indians left in 1817 until Wood's cabin. That sentence is the removal. Miami and Potawatomi used the St. Joseph and Cedar Creek. The landing sits on their water.",
+    long: "",
+    names: ["Miami", "Potawatomi"]
+  }
+  {
+    id: "approach-montpelier",
+    name: "Montpelier",
+    lat: 41.5845,
+    lng: -84.6055,
+    radius: 8000,
+    layer: "approach",
+    short: "You are coming up on Montpelier, Ohio. They said as the Wabash goes, so goes Montpelier. The high school is still the Locomotives. A mill on the St. Joseph became a roundhouse town. If you turn in, I'll tell you Bryner, Tucker, and the Cannonball trail.",
+    long: "",
+    names: ["Montpelier", "Wabash Railroad", "Wabash Cannonball"]
+  },
+  {
+    id: "montpelier-founding",
+    name: "Montpelier founding",
+    lat: 41.5845,
+    lng: -84.6055,
+    radius: 1300,
+    short: "You are in Montpelier. John K. Bryner and Jesse Tucker built a mill on a bend of the St. Joseph in 1845 and surveyed 41 lots and a square south of it. A doctor riding with the surveyor named it for Montpelier, Vermont. Incorporated 1874 after a railroad that never came. The one that did come changed everything.",
+    long: "",
+    names: ["John K. Bryner", "Jesse Tucker"]
+  },
+  {
+    id: "montpelier-wabash",
+    name: "Montpelier Wabash",
+    lat: 41.5820,
+    lng: -84.6070,
+    radius: 1200,
+    short: "The Detroit, Butler and St. Louis, later the Wabash, hit town in 1880 and 1881. Population tripled in ten years. In 1892 they bought twenty acres for a roundhouse. Shops moved here from Ashley, Indiana, in 1907. Division offices in 1917. Four hundred railroad jobs in 1936. The motto was not poetry. It was payroll.",
+    long: "",
+    names: ["Wabash Railroad"]
+  },
+  {
+    id: "montpelier-depot",
+    name: "Montpelier depot",
+    lat: 41.5830,
+    lng: -84.6060,
+    radius: 800,
+    short: "In 1895 the Wabash hired Theodore C. Link, architect of St. Louis Union Station, to design the passenger depot. A village of a few thousand got big-city architecture because the junction mattered. Last passenger train, 1971. The building outlasted the timetable.",
+    long: "",
+    names: ["Theodore C. Link"]
+  },
+  {
+    id: "montpelier-cannonball",
+    name: "Wabash Cannonball Trail",
+    lat: 41.5845,
+    lng: -84.6055,
+    radius: 1400,
+    short: "The Wabash Cannonball is a trail now. Montpelier is the western head. Rails to trails bought the grade after the passengers stopped. School buildings still echo the roundhouse. The mascot did not change when the steam died.",
+    long: "",
+    names: ["Wabash Cannonball Trail"]
+  },
+  {
+    id: "montpelier-paper",
+    name: "Montpelier Enterprise",
+    lat: 41.5845,
+    lng: -84.6055,
+    radius: 1100,
+    short: "The Montpelier Enterprise printed its first issue September 20, 1880, the year the railroad arrived. It still publishes as the Leader-Enterprise. A boomtown paper that did not fold when the shops thinned out.",
+    long: "",
+    names: ["Leader-Enterprise"]
+  },
+  {
+    id: "montpelier-veterans",
+    name: "Williams County Veterans Memorial",
+    lat: 41.5840,
+    lng: -84.5900,
+    radius: 800,
+    short: "The Williams County Veterans Memorial sits by the fairgrounds on the east side. Private money. All wars. A railroad county that sent men and then carved their names in stone beside the livestock barns.",
+    long: "",
+    names: ["Williams County Veterans Memorial"]
+  },
+  {
+    id: "montpelier-war",
+    name: "Montpelier Civil War mill town",
+    lat: 41.5845,
+    lng: -84.6055,
+    radius: 1300,
+    short: "The mill predates the war. The boom comes after. Superior Township farms sent companies. The village that wanted to be county seat ended up a division point instead.",
+    long: "",
+    names: ["Civil War"]
+  },
+  {
+    id: "montpelier-native",
+    name: "Montpelier Indian camp",
+    lat: 41.5860,
+    lng: -84.6040,
+    radius: 1500,
+    short: "Native camps sat near this bend of the St. Joseph before the mill. Wyandot and Shawnee country on paper, Miami and Potawatomi on the ground. Bryner and Tucker put a dam on a river that already had a name.",
+    long: "",
+    names: ["St. Joseph River", "Wyandot", "Potawatomi"]
+  }
+{
+    id: "approach-west-unity",
+    name: "West Unity",
+    lat: 41.5889,
+    lng: -84.4303,
+    radius: 7000,
+    layer: "approach",
+    short: "You are coming up on West Unity, Ohio. John Rings and William L. Smith platted it in 1842 and named it after Pleasant Unity, Pennsylvania. Two railroads later. Horse thief society in between. If you turn in, I'll tell you the plank road and the woolen mill.",
+    long: "",
+    names: ["West Unity", "John Rings"]
+  },
+  {
+    id: "west-unity-founding",
+    name: "West Unity founding",
+    lat: 41.5889,
+    lng: -84.4303,
+    radius: 1200,
+    short: "You are in West Unity. Surveyed June 14, 1842, for John Rings and William L. Smith in Brady Township. Post office the same year. Incorporated 1866, first mayor H. H. Peppard. They put West on the name so no one would confuse it with the Pennsylvania original.",
+    long: "",
+    names: ["John Rings", "William L. Smith", "H. H. Peppard"]
+  },
+  {
+    id: "west-unity-plank",
+    name: "West Unity plank road",
+    lat: 41.5889,
+    lng: -84.4303,
+    radius: 1100,
+    short: "The plank road west of Toledo came through in 1850. Covered wagons headed west on it every day. Before the rails, this was the highway. When the Air Line reached Stryker they ran a hack and then a sixteen-year mail contract. Unity sat on the board road first.",
+    long: "",
+    names: []
+  },
+  {
+    id: "west-unity-rail",
+    name: "West Unity railroads",
+    lat: 41.5880,
+    lng: -84.4310,
+    radius: 1100,
+    short: "The Wabash came in 1880 and 1881. The Cincinnati, Jackson and Mackinaw came through Bryan, Pulaski, West Unity, and Alvordton in 1887. Two grades through a village named for a Pennsylvania town. That is how Brady Township got a skyline.",
+    long: "",
+    names: ["Wabash Railroad", "Cincinnati Jackson and Mackinaw"]
+  },
+  {
+    id: "west-unity-horse",
+    name: "West Unity Horse Thief Society",
+    lat: 41.5889,
+    lng: -84.4303,
+    radius: 1100,
+    short: "Brady Township kept a Horse Thief Society. Farm counties did that when the sheriff was a day's ride. Neighbors signed a paper and rode after stolen stock. The society is in the old county history next to the churches. That tells you what scared them more than weather.",
+    long: "",
+    names: ["Horse Thief Society"]
+  },
+  {
+    id: "west-unity-woolen",
+    name: "West Unity Woolen Mills",
+    lat: 41.5889,
+    lng: -84.4303,
+    radius: 1000,
+    short: "West Unity Woolen Mills put mill jobs on a grain map. Crew photos from Devil's Lake picnics still exist. A village that started on planks learned to card wool when the trains made freight cheap.",
+    long: "",
+    names: ["West Unity Woolen Mills"]
+  },
+  {
+    id: "west-unity-dodge",
+    name: "Dodge Hotel",
+    lat: 41.5885,
+    lng: -84.4295,
+    radius: 600,
+    short: "Sid Palmer Dodge built the Dodge Hotel in 1889 after the wood hotel burned. Brick on Jackson Street. Railroad towns replace the inn every time fire wins. The shell is still in the street photos.",
+    long: "",
+    names: ["Dodge Hotel"]
+  },
+  {
+    id: "west-unity-crary",
+    name: "Rev. N. Crary",
+    lat: 41.5889,
+    lng: -84.4303,
+    radius: 1100,
+    short: "Rev. N. Crary of Hicksville preached Universalist sermons here as early as 1846 and organized the first church in town. A Hicksville minister on the Unity square. The two villages have been talking to each other longer than the Wabash has.",
+    long: "",
+    names: ["N. Crary", "Hicksville"]
+  },
+  {
+    id: "west-unity-war",
+    name: "West Unity veterans",
+    lat: 41.5889,
+    lng: -84.4308,
+    radius: 800,
+    short: "The West Unity Veterans Memorial stands on West Jackson at 127. Brady Township sent companies. The roll of honor is in the old history. Stone on the main drag is the short version.",
+    long: "",
+    names: ["West Unity Veterans Memorial"]
+  },
+  {
+    id: "west-unity-native",
+    name: "Brady Township Indian ground",
+    lat: 41.5889,
+    lng: -84.4303,
+    radius: 1500,
+    short: "Williams County is named for a Revolutionary captor of Major André. The dirt is older. Potawatomi and Miami used this rise before Rings and Smith drew lots. West Unity is a Pennsylvania name on their hunting ground.",
+    long: "",
+    names: ["Potawatomi", "Miami"]
+  }
+  {
+    id: "approach-pioneer",
+    name: "Pioneer",
+    lat: 41.6789,
+    lng: -84.5508,
+    radius: 7000,
+    layer: "approach",
+    short: "You are coming up on Pioneer, Ohio. P.W. Norris could not name the post office after himself so he named it Pioneer. Later he ran Yellowstone and found Norris Pass. An interurban from Toledo died here instead of reaching Chicago. If you turn in, I'll tell you the spy and the pickle vats.",
+    long: "",
+    names: ["Pioneer", "P.W. Norris", "Yellowstone"]
+  },
+  {
+    id: "pioneer-founding",
+    name: "Pioneer founding",
+    lat: 41.6789,
+    lng: -84.5508,
+    radius: 1200,
+    short: "You are in Pioneer. P.W. Norris and Owen McCarty cleared James Rogers's land in 1842. Norris slashed a trail to Fayette to bring Jane Cottrill home. He became postmaster in 1850, lost the naming fight, and called the town Pioneer. Streets in 1853. Hotel 1854. He and G.R. Joy, brothers-in-law, raced to make opposite sides of town richer.",
+    long: "",
+    names: ["P.W. Norris", "Owen McCarty", "G.R. Joy"]
+  },
+  {
+    id: "pioneer-norris",
+    name: "Philetus W. Norris",
+    lat: 41.6789,
+    lng: -84.5508,
+    radius: 1200,
+    short: "Philetus Walter Norris was a Civil War spy, then the second superintendent of Yellowstone. Norris Pass carries his name. An Ohio Historical marker on State Street says so. A Madison Township postmaster ended up writing the map of a national park.",
+    long: "",
+    names: ["Philetus W. Norris", "Norris Pass"]
+  },
+  {
+    id: "pioneer-interurban",
+    name: "Toledo and Western",
+    lat: 41.6780,
+    lng: -84.5515,
+    radius: 1000,
+    short: "The Toledo and Western electric line reached Pioneer in 1903 on its way to a Chicago that never happened. Right of way bought, rails stopped here. Passengers until 1933. Freight as the Pioneer and Fayette until 1943. Formal abandonment 1991. The last stop on a dream railroad.",
+    long: "",
+    names: ["Toledo and Western Railway", "Pioneer and Fayette Railroad"]
+  },
+  {
+    id: "pioneer-snyder",
+    name: "Earl Snyder railroad",
+    lat: 41.6789,
+    lng: -84.5508,
+    radius: 1100,
+    short: "After the Depression killed the interurban, store owner Earl Snyder ran what was left and landed in Ripley's Believe It or Not. A village merchant as railroad president. He switched to trucks in 1954. That is how a terminus stays a town.",
+    long: "",
+    names: ["Earl Snyder"]
+  },
+  {
+    id: "pioneer-mills",
+    name: "Pioneer mills and vats",
+    lat: 41.6775,
+    lng: -84.5500,
+    radius: 900,
+    short: "South of the creek sat the wool market, pickle vats, stockyards, flour mill, grist mill, and hoop mill. The interurban made Toledo a same-day customer. Parking lot and fire hall cover the vats now. The smell is gone. The story is not.",
+    long: "",
+    names: []
+  },
+  {
+    id: "pioneer-war",
+    name: "Pioneer Civil War",
+    lat: 41.6789,
+    lng: -84.5508,
+    radius: 1100,
+    short: "The founder was a Union spy. The marker says it on State Street. Madison Township farms sent the rest. Veterans memorial and a 9-11 memorial sit in the same small grid. Pioneer keeps the word on the water tower and on the stone.",
+    long: "",
+    names: ["Civil War"]
+  },
+  {
+    id: "pioneer-native",
+    name: "Madison Township Indian ground",
+    lat: 41.6789,
+    lng: -84.5508,
+    radius: 1500,
+    short: "North Williams County is Michigan-line country. Potawatomi and Miami used these creeks before Rogers hired the clearing crew. Pioneer is a boast on a map that used to have other names.",
+    long: "",
+    names: ["Potawatomi", "Miami"]
+  }
+ {
+    id: "approach-ashley-in",
+    name: "Ashley Indiana",
+    lat: 41.5214,
+    lng: -85.0614,
+    radius: 7000,
+    layer: "approach",
+    short: "You are coming up on Ashley, Indiana, a town the Wabash invented on July 18, 1892, and named for its president, Ossian D. Ashley. State Road 4 is the county line. DeKalb south, Steuben north. If you turn in, I'll tell you the yards and why the shops left for Montpelier.",
+    long: "",
+    names: ["Ashley Indiana", "Ossian D. Ashley", "Wabash Railroad"]
+  },
+  {
+    id: "ashley-founding",
+    name: "Ashley founding",
+    lat: 41.5214,
+    lng: -85.0614,
+    radius: 1200,
+    short: "You are in Ashley. The Indiana Improvement Company bought the ground. The Wabash platted and incorporated the town the same day, July 18, 1892. Streets face the tracks. Population jumped over a thousand by 1900, then fell when the division point moved. A company town on a county line.",
+    long: "",
+    names: ["Indiana Improvement Company"]
+  },
+  {
+    id: "ashley-ossian",
+    name: "Ossian D. Ashley",
+    lat: 41.5214,
+    lng: -85.0614,
+    radius: 1100,
+    short: "Ossian D. Ashley ran the Wabash from 1889. They put his name on a yard town the way other roads put a vice president on a water tank. He never had to live here. The crews did.",
+    long: "",
+    names: ["Ossian D. Ashley"]
+  },
+  {
+    id: "ashley-shops",
+    name: "Ashley shops to Montpelier",
+    lat: 41.5230,
+    lng: -85.0600,
+    radius: 1000,
+    short: "Ashley was a Wabash Detroit-division point until 1907. Then the railroad moved the shops to Montpelier, Ohio. Census dropped from 1,040 to 639. You can still hear that transfer in both towns. One lost the payroll. One gained the motto.",
+    long: "",
+    names: ["Montpelier"]
+  },
+  {
+    id: "ashley-county-line",
+    name: "Ashley county line",
+    lat: 41.5214,
+    lng: -85.0614,
+    radius: 1100,
+    short: "State Street is State Road 4 and the DeKalb–Steuben line. Two counties, one depot. Hudson sits against the west corporate limit. A railroad did not care which courthouse got the taxes.",
+    long: "",
+    names: ["Hudson Indiana"]
+  },
+  {
+    id: "ashley-lights",
+    name: "Ashley electric plant",
+    lat: 41.5214,
+    lng: -85.0614,
+    radius: 1000,
+    short: "By 1895 Ashley had an electric light plant. Three years old and already lit. Railroad towns installed power the way they installed sidings. Night work paid.",
+    long: "",
+    names: []
+  },
+  {
+    id: "ashley-war",
+    name: "Ashley after the war",
+    lat: 41.5214,
+    lng: -85.0614,
+    radius: 1200,
+    short: "The plat is 1892. The Civil War was already in the ground of these two counties. Ashley is a Gilded Age stamp on older farms. The veterans were the fathers of the first section crews.",
+    long: "",
+    names: ["Civil War"]
+  },
+  {
+    id: "ashley-native",
+    name: "Ashley Indian ground",
+    lat: 41.5214,
+    lng: -85.0614,
+    radius: 1500,
+    short: "This county-line rise is old Potawatomi and Miami country on the way to the lakes. The Wabash did not ask. It graded.",
+    long: "",
+    names: ["Potawatomi", "Miami"]
+  }
+{
+    id: "approach-hudson-in",
+    name: "Hudson Indiana",
+    lat: 41.5319,
+    lng: -85.0842,
+    radius: 6000,
+    layer: "approach",
+    short: "You are coming up on Hudson, Indiana, against Ashley's west line. The plat is North Benton. The post office is Hudson. They bet on the Canada Southern. The grade got built. The trains did not. If you turn in, I'll tell you Elizabeth Clark and the mill.",
+    long: "",
+    names: ["Hudson Indiana", "North Benton"]
+  },
+  {
+    id: "hudson-founding",
+    name: "Hudson founding",
+    lat: 41.5319,
+    lng: -85.0842,
+    radius: 1000,
+    short: "You are in Hudson. Joseph and John Miller put a sawmill here in 1855 and people called it Millersburg. Elizabeth Clark and others platted North Benton on August 14, 1869. Post office became Hudson in 1875. Incorporated 1892, the same year Ashley was born next door.",
+    long: "",
+    names: ["Elizabeth Clark", "North Benton"]
+  },
+  {
+    id: "hudson-canada-southern",
+    name: "Hudson Canada Southern",
+    lat: 41.5310,
+    lng: -85.0835,
+    radius: 1000,
+    short: "In 1873 Leander Brugh cut twenty-two acres into lots because the Chicago and Canada Southern was grading. Lots sold. The railroad never ran. Hudson did not collapse the way some paper towns did. It just stayed small on a roadbed with no timetable.",
+    long: "",
+    names: ["Leander Brugh", "Canada Southern"]
+  },
+  {
+    id: "hudson-mail",
+    name: "Hudson mail",
+    lat: 41.5319,
+    lng: -85.0842,
+    radius: 1000,
+    short: "First mail came twice a week from Waterloo, then by dray from Summit. Ira Allerton was postmaster in 1868 under the old name. David Ferrier took Hudson in 1875. A village lived on someone else's railroad until it got its own stamp.",
+    long: "",
+    names: ["Waterloo"]
+  },
+  {
+    id: "hudson-mill",
+    name: "Hudson Roller Mill",
+    lat: 41.5319,
+    lng: -85.0842,
+    radius: 900,
+    short: "Alexander Fullerton hauled a whole grist mill from Fostoria, Ohio, in 1866. Hudson Roller Mill, Fullerton and Ferguson. Before the failed railroad, grain was the bet. After the failed railroad, grain was still the bet.",
+    long: "",
+    names: ["Alexander Fullerton"]
+  },
+  {
+    id: "hudson-war",
+    name: "Hudson Civil War farms",
+    lat: 41.5319,
+    lng: -85.0842,
+    radius: 1100,
+    short: "The mill is 1855. The plat is 1869. Steuben County had already sent companies. Hudson is a reconstruction village on a hoped-for grade.",
+    long: "",
+    names: ["Civil War"]
+  },
+  {
+    id: "hudson-native",
+    name: "Hudson Indian ground",
+    lat: 41.5319,
+    lng: -85.0842,
+    radius: 1400,
+    short: "Salem and Steuben townships sit in old Potawatomi country toward the Michigan line. North Benton is a settler overlay. The mill creek had an older use.",
+    long: "",
+    names: ["Potawatomi"]
+  }
+ {
+    id: "approach-fremont-in",
+    name: "Fremont Indiana",
+    lat: 41.7281,
+    lng: -84.9397,
+    radius: 8000,
+    layer: "approach",
+    short: "You are coming up on Fremont, Indiana, on the old Vistula Trail, now 120, four miles from I-69 and the Toll Road. Willow Prairie, then Brockville, then Fremont for the Pathfinder. Six passenger trains a day once. If you turn in, I'll tell you the pump and Pokagon.",
+    long: "",
+    names: ["Fremont Indiana", "John C. Frémont", "Vistula Trail"]
+  },
+  {
+    id: "fremont-founding",
+    name: "Fremont founding",
+    lat: 41.7281,
+    lng: -84.9397,
+    radius: 1300,
+    short: "You are in Fremont. Settled 1834 as Willow Prairie. Platted Brockville 1837. Jeremiah Tillotson renamed it Fremont in 1848 for John C. Frémont because Franklin County already had a Brockville. Incorporated 1867. The state marker stands at the old town pump on 120 and 827.",
+    long: "",
+    names: ["Willow Prairie", "Brockville", "Jeremiah Tillotson"]
+  },
+  {
+    id: "fremont-vistula",
+    name: "Vistula Trail",
+    lat: 41.7281,
+    lng: -84.9397,
+    radius: 1400,
+    short: "The Vistula Trail ran from Pittsburgh toward Green Bay around the foot of Lake Michigan. Detroit, Toledo, and Pittsburgh people met here going west. State Road 120 still follows it. Fremont is a trail town that later got rails.",
+    long: "",
+    names: ["Vistula Trail"]
+  },
+  {
+    id: "fremont-rail",
+    name: "Fremont railroad",
+    lat: 41.7290,
+    lng: -84.9380,
+    radius: 1100,
+    short: "The Fort Wayne, Jackson and Saginaw reached here in 1869. Erastus Farnam pulled the depot south with money. At the peak, two hotels and six passenger plus four freight trains a day. A prairie village became a timetable.",
+    long: "",
+    names: ["Fort Wayne Jackson and Saginaw"]
+  },
+  {
+    id: "fremont-wade",
+    name: "Dr. Wade hospital",
+    lat: 41.7281,
+    lng: -84.9397,
+    radius: 1000,
+    short: "Dr. Wade opened Steuben County's first hospital here in 1914. Electric lights had been in since 1895. A trail town learned modern medicine before it learned pavement. Streets were paved in 1922.",
+    long: "",
+    names: ["Dr. Wade"]
+  },
+  {
+    id: "fremont-pokagon",
+    name: "Pokagon from Fremont",
+    lat: 41.7281,
+    lng: -84.9500,
+    radius: 2000,
+    short: "Four miles west, Steuben County bought 580 acres on Lake James and Snow Lake in 1923 and gave them to the state. Pokagon State Park. The CCC shelter is on the National Register. Fremont is the town you drive through to get to the toboggan.",
+    long: "",
+    names: ["Pokagon State Park", "Lake James"]
+  },
+  {
+    id: "fremont-houses",
+    name: "Fremont historic houses",
+    lat: 41.7285,
+    lng: -84.9385,
+    radius: 800,
+    short: "The Enos Michael House on Toledo Street and the William L. Lords House on Clear Lake Road are on the National Register. 1840s and 1850s frames that outlasted the hotels.",
+    long: "",
+    names: ["Enos Michael House", "William L. Lords House"]
+  },
+  {
+    id: "fremont-war",
+    name: "Fremont Civil War",
+    lat: 41.7281,
+    lng: -84.9397,
+    radius: 1200,
+    short: "Incorporated two years after Appomattox. The Pathfinder's name was already on the post office. Steuben men had already gone. The park later took the veterans' grandsons on the lake.",
+    long: "",
+    names: ["Civil War", "John C. Frémont"]
+  },
+  {
+    id: "fremont-native",
+    name: "Fremont Potawatomi removal",
+    lat: 41.7281,
+    lng: -84.9397,
+    radius: 1600,
+    short: "The state marker says it in one line. In 1838 the Potawatomi were removed from this area. Willow Prairie was one year old. Brockville was one year old. The trail was theirs first. Pokagon's name on the park is the other half of that sentence.",
+    long: "",
+    names: ["Potawatomi", "Pokagon"]
+  }
+ ];
 

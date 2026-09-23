@@ -4895,7 +4895,7 @@ const STORIES = [
     short: "Before Kendallville had a name, this was Miami and Potawatomi country. The road that became Main Street followed the Mongoquinon Trail, an Indian path from Fort Wayne toward Lima. Traders and land hunters used it through the forest and swamp. The town sits on a trail that was already old when the first cabin went up.",
     long: "",
     names: ["Mongoquinon Trail", "Miami", "Potawatomi"]
-  }
+  },
 
   {
     id: "kendallville-spencer-opera",
@@ -5016,7 +5016,7 @@ const STORIES = [
     short: "Local memory still talks about the plank-road days. Tollgates stood every six to ten miles on the Lima Road. The company went broke and handed the route to the county in 1858. Teamsters cursed the planks when they warped in the wet. The path is now State Road 3, but the argument about who should pay for the road never really left.",
     long: "",
     names: ["Lima Plank Road", "tollgates"]
-  }
+  },
   {
     id: "kendallville-spencer-opera",
     name: "Spencer Opera House",
@@ -5136,7 +5136,7 @@ const STORIES = [
     short: "Local memory still talks about the plank-road days. Tollgates stood every six to ten miles on the Lima Road. The company went broke and handed the route to the county in 1858. Teamsters cursed the planks when they warped in the wet. The path is now State Road 3, but the argument about who should pay for the road never really left.",
     long: "",
     names: ["Lima Plank Road", "tollgates"]
-  }
+  },
   {
     id: "approach-edgerton",
     name: "Edgerton",
@@ -5247,7 +5247,7 @@ const STORIES = [
     short: "Edgerton still throws a summer homecoming, now the Festival of Flags. The first big one was in 1921. A village that lost its opera house to a storm and its downtown to fire kept the habit of coming back to the park Alfred Edgerton gave them.",
     long: "",
     names: ["Festival of Flags"]
-  }
+  },
   {
     id: "approach-harlan",
     name: "Harlan",
@@ -5358,7 +5358,7 @@ const STORIES = [
     short: "West of Harlan was Cuba, a hamlet with the township's first post office in 1849. The office moved to Harlan in 1854. Hall's Corners had another office in 1851. The map around here is full of names that lasted one generation. Harlan is the one that kept the mail.",
     long: "",
     names: ["Cuba Indiana", "Hall's Corners"]
-  }
+  },
  {
     id: "approach-butler",
     name: "Butler",
@@ -5459,7 +5459,7 @@ const STORIES = [
     short: "Locals still tell the name pile-up. The station was Butler, the town was Jarvis, the post office was Norristown. For a while the crossing was Mudd Junction. Mail went to the wrong desk. They finally kept Butler and let the other names die. That is how a railroad town gets a name: whoever prints the timetable wins.",
     long: "",
     names: ["Mudd Junction", "Jarvis", "Norristown"]
-  }
+  },
   {
     id: "approach-stjoe",
     name: "Saint Joe",
@@ -5560,7 +5560,7 @@ const STORIES = [
     short: "This bend of the St. Joseph was Miami and Potawatomi water long before Concord Township existed. The 1830s settlers took the fertile bank after the removals. The town name is a saint's name on an older river.",
     long: "",
     names: ["Miami", "Potawatomi", "St. Joseph River"]
-  }
+  },
 
   {
     id: "approach-grabill",
@@ -5662,7 +5662,7 @@ const STORIES = [
     short: "The Allen County-Fort Wayne Historical Society marker on First Street is the official sentence: twenty-three lots, Wabash depot, first train January 1, 1902, post office August 8, Joseph A. Grabill, postmaster. That is the whole founding on one plaque.",
     long: "",
     names: ["Joseph A. Grabill"]
-  }
+  },
   {
     id: "approach-woodburn",
     name: "Woodburn",
@@ -5763,7 +5763,7 @@ const STORIES = [
     short: "Maumee Township organized in 1836 on Miami and Potawatomi ground. Ulrich Saylor and George Platter were among the petitioners. The river was the road. The Wabash was the second road. Edgerton's eight thousand acres were someone else's woods first.",
     long: "",
     names: ["Miami", "Potawatomi", "Ulrich Saylor"]
-  }
+  },
 {
     id: "approach-payne",
     name: "Payne",
@@ -5864,7 +5864,7 @@ const STORIES = [
     short: "Paulding County is the old Great Black Swamp. Miami and Potawatomi used the wet timber. Settlers ditched it. The Nickel Plate needed a dry grade through what had been water. Payne is a name on land that had to be drained before it could be platted.",
     long: "",
     names: ["Great Black Swamp", "Miami", "Potawatomi"]
-  }
+  },
   {
     id: "approach-ney",
     name: "Ney",
@@ -5945,7 +5945,7 @@ const STORIES = [
     short: "This township sits in the old Maumee country of the Miami and Potawatomi. Georgetown was platted after the removals and after Defiance County split from Williams in 1845. A French marshal's name on Ohio dirt is the last layer, not the first.",
     long: "",
     names: ["Miami", "Potawatomi"]
-  }
+  },
   {
     id: "approach-edon",
     name: "Edon",
@@ -6036,7 +6036,7 @@ const STORIES = [
     short: "Northwest Williams County is old Potawatomi and Miami country on the way to the St. Joseph and the Michigan line. Mudsock was the settler name for land that had to be ditched. The Wabash did not invent this corner. It only dried it out enough for a depot.",
     long: "",
     names: ["Potawatomi", "Miami"]
-  }
+  },
 {
     id: "approach-waterloo",
     name: "Waterloo",
@@ -6137,7 +6137,7 @@ const STORIES = [
     short: "Cedar Creek was Miami and Potawatomi water. Uniontown sat on a trading path. The Air Line froze the crossing a half mile south. Waterloo is the railroad name for a creek town that moved.",
     long: "",
     names: ["Miami", "Potawatomi", "Cedar Creek"]
-  }
+  },
  {
     id: "approach-hamilton-in",
     name: "Hamilton Indiana",
@@ -6228,7 +6228,7 @@ const STORIES = [
     short: "Potawatomi and Miami used these kettle lakes. Local story said a monster in the dells wrecked canoes. That is settler language for water they did not yet own. Pokagon country is north. This outlet is where New York money put a mill on someone else's shore.",
     long: "",
     names: ["Potawatomi", "Miami"]
-  }
+  },
  {
     id: "approach-leo-cedarville",
     name: "Leo-Cedarville",
@@ -6329,7 +6329,7 @@ const STORIES = [
     short: "The town history says the township was empty from the time the Indians left in 1817 until Wood's cabin. That sentence is the removal. Miami and Potawatomi used the St. Joseph and Cedar Creek. The landing sits on their water.",
     long: "",
     names: ["Miami", "Potawatomi"]
-  }
+  },
   {
     id: "approach-montpelier",
     name: "Montpelier",
@@ -6420,7 +6420,7 @@ const STORIES = [
     short: "Native camps sat near this bend of the St. Joseph before the mill. Wyandot and Shawnee country on paper, Miami and Potawatomi on the ground. Bryner and Tucker put a dam on a river that already had a name.",
     long: "",
     names: ["St. Joseph River", "Wyandot", "Potawatomi"]
-  }
+  },
 {
     id: "approach-west-unity",
     name: "West Unity",
@@ -6521,7 +6521,7 @@ const STORIES = [
     short: "Williams County is named for a Revolutionary captor of Major André. The dirt is older. Potawatomi and Miami used this rise before Rings and Smith drew lots. West Unity is a Pennsylvania name on their hunting ground.",
     long: "",
     names: ["Potawatomi", "Miami"]
-  }
+  },
   {
     id: "approach-pioneer",
     name: "Pioneer",
@@ -6602,7 +6602,7 @@ const STORIES = [
     short: "North Williams County is Michigan-line country. Potawatomi and Miami used these creeks before Rogers hired the clearing crew. Pioneer is a boast on a map that used to have other names.",
     long: "",
     names: ["Potawatomi", "Miami"]
-  }
+  },
  {
     id: "approach-ashley-in",
     name: "Ashley Indiana",
@@ -6683,7 +6683,7 @@ const STORIES = [
     short: "This county-line rise is old Potawatomi and Miami country on the way to the lakes. The Wabash did not ask. It graded.",
     long: "",
     names: ["Potawatomi", "Miami"]
-  }
+  },
 {
     id: "approach-hudson-in",
     name: "Hudson Indiana",
@@ -6754,7 +6754,7 @@ const STORIES = [
     short: "Salem and Steuben townships sit in old Potawatomi country toward the Michigan line. North Benton is a settler overlay. The mill creek had an older use.",
     long: "",
     names: ["Potawatomi"]
-  }
+  },
  {
     id: "approach-fremont-in",
     name: "Fremont Indiana",
@@ -6845,7 +6845,7 @@ const STORIES = [
     short: "The state marker says it in one line. In 1838 the Potawatomi were removed from this area. Willow Prairie was one year old. Brockville was one year old. The trail was theirs first. Pokagon's name on the park is the other half of that sentence.",
     long: "",
     names: ["Potawatomi", "Pokagon"]
-  }
+  },
   {
     id: "approach-stryker",
     name: "Stryker",
@@ -6936,7 +6936,7 @@ const STORIES = [
     short: "They sited the plat on the Tiffin River because water and grade agreed. This is old Wyandot and Potawatomi ground in Springfield Township. The air line cut it straight.",
     long: "",
     names: ["Tiffin River", "Potawatomi"]
-  }
+  },
   {
     id: "approach-alvordton",
     name: "Alvordton",
@@ -6997,7 +6997,7 @@ const STORIES = [
     short: "Mill Creek and Brush Creek cut this township. Potawatomi and Miami used the timber before Landon cleared in 1835. Hamer was an earlier failed hamlet. Alvordton is the one that caught the train.",
     long: "",
     names: ["Potawatomi", "Mill Creek"]
-  }
+  },
   {
     id: "approach-blakeslee",
     name: "Blakeslee",
@@ -7058,7 +7058,7 @@ const STORIES = [
     short: "Same township as Edon. Same old Potawatomi and Miami timber. Boman's farm sat on that. The Wabash did not invent Florence Township. It just named a crossing.",
     long: "",
     names: ["Potawatomi"]
-  }
+  },
  {
     id: "approach-kunkle",
     name: "Kunkle",
@@ -7129,7 +7129,7 @@ const STORIES = [
     short: "Same Madison Township as Pioneer. Potawatomi ground before Young stacked logs. Kunkle is a Pennsylvania name on that dirt.",
     long: "",
     names: ["Potawatomi"]
-  }
+  },
 {
     id: "approach-orland-in",
     name: "Orland Indiana",
@@ -7220,7 +7220,7 @@ const STORIES = [
     short: "Millgrove Township. Vistula Trail. Wall Lake camp. The Vermont people arrived the same decade the removals were finishing. The railroad to Canada in these houses was the second trail.",
     long: "",
     names: ["Potawatomi"]
-  }
+  },
   {
     id: "approach-clear-lake-in",
     name: "Clear Lake Indiana",
@@ -7291,7 +7291,7 @@ const STORIES = [
     short: "North shore, old Hazenhurst ground, a mound people called a chief's grave. McNaughton family kept a scarred wooden marker. Alexander McNaughton bought west-shore acres in 1849. The lake had a name before Russell's cabin.",
     long: "",
     names: ["Potawatomi"]
-  }
+  },
   {
     id: "approach-holiday-city",
     name: "Holiday City",
@@ -7342,7 +7342,7 @@ const STORIES = [
     short: "Jefferson Township farms were here first. Kunkle and Pioneer are the older names a few miles out. Holiday City is a 1997 stamp on the same dirt the Wabash and the Pathfinder already used.",
     long: "",
     names: ["Jefferson Township"]
-  }
+  },
   {
     id: "approach-pulaski-oh",
     name: "Pulaski Ohio",
@@ -7413,7 +7413,7 @@ const STORIES = [
     short: "Beaver Creek, Tiffin River. Same water Stryker used. Wyandot and Potawatomi ground before Perkins stacked a mill. The count's name is the late layer.",
     long: "",
     names: ["Tiffin River", "Potawatomi"]
-  }
+  },
   {
     id: "approach-williams-center",
     name: "Williams Center",
@@ -7484,7 +7484,7 @@ const STORIES = [
     short: "Headwaters of Little Lick Creek start around these lots and run to the Tiffin and the Maumee. Potawatomi and Miami water before Evans drew 418 squares. The center of the old county was someone else's trail first.",
     long: "",
     names: ["Little Lick Creek", "Potawatomi"]
-  }
+  },
   {
     id: "approach-lockport-oh",
     name: "Lockport Ohio",
@@ -7525,7 +7525,7 @@ const STORIES = [
     short: "Same water the townships north already used. Potawatomi and Miami creek before the mill wheel. A lock name on a stream that never joined the Wabash and Erie.",
     long: "",
     names: ["Potawatomi"]
-  }
+  },
   {
     id: "approach-evansport",
     name: "Evansport",
@@ -7586,7 +7586,7 @@ const STORIES = [
     short: "French called it Bean Creek for the wild beans. Official name honors Edward Tiffin, first Ohio governor. Headwaters up in Michigan. Wyandot and Potawatomi water before the dam. The port suffix was a bet on a canal that never came.",
     long: "",
     names: ["Edward Tiffin", "Potawatomi"]
-  }
+  },
   {
     id: "approach-melbern",
     name: "Melbern",
@@ -7637,7 +7637,7 @@ const STORIES = [
     short: "Center Township. Same dirt as Williams Center. The Air Line cut a Kansas across older Potawatomi ground and then renamed it.",
     long: "",
     names: ["Potawatomi"]
-  }
+  },
   {
     id: "approach-cooney",
     name: "Cooney",
@@ -7688,7 +7688,7 @@ const STORIES = [
     short: "Last township organized in the county, 1840. Goodwin had traded with the tribes before he stacked logs. Potawatomi and Ottawa ground in the last wet corner of Ohio. Tile and a Grange finished what the treaties started.",
     long: "",
     names: ["Potawatomi"]
-  }
+  },
  {
     id: "approach-ray-in",
     name: "Ray Indiana",
@@ -7749,7 +7749,7 @@ const STORIES = [
     short: "Same Fremont Township woods as the Lords House and Clear Lake. Duguids wrote that the first years still meant dealing with the tribes. Then a railroad drew a straight line through two states and named it Ray.",
     long: "",
     names: ["Potawatomi"]
-  }
+  },
   {
     id: "approach-nettle-lake",
     name: "Nettle Lake",
@@ -7810,7 +7810,7 @@ const STORIES = [
     short: "March 27, 1991, about nine at night, an EF-3 and a microburst hit Nettle Lake. Not as deadly as the 1894 Kunkle cyclone, but it is the storm this generation points at when they talk about the lake.",
     long: "",
     names: []
-  }
+  },
   {
     id: "approach-lake-seneca",
     name: "Lake Seneca",
@@ -7861,7 +7861,7 @@ const STORIES = [
     short: "Under the lots is the St. Joseph, same river that leaves Nettle Lake and runs to the Maumee. Potawatomi water first. Then a Memphis dam. The river is older than the party.",
     long: "",
     names: ["St. Joseph River", "Potawatomi"]
-  }
+  },
 {
     id: "approach-bridgewater-center",
     name: "Bridgewater Center",
@@ -7892,7 +7892,7 @@ const STORIES = [
     short: "Northwest Williams. Same township family as Nettle Lake and Cooney. Potawatomi ground, then a mill in the geographic middle, then a name that admits it was never a city.",
     long: "",
     names: ["Potawatomi"]
-  }
+  },
   {
     id: "approach-columbia-oh",
     name: "Columbia Ohio",

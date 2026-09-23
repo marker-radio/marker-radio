@@ -6846,5 +6846,158 @@ const STORIES = [
     long: "",
     names: ["Potawatomi", "Pokagon"]
   }
+  {
+    id: "approach-stryker",
+    name: "Stryker",
+    lat: 41.5000,
+    lng: -84.4181,
+    radius: 7000,
+    layer: "approach",
+    short: "You are coming up on Stryker, Ohio, first Williams County town with a railroad. Named for John Stryker of Rome, New York. William Knight stole the General in the Great Locomotive Chase and came home with a Medal of Honor. In 1966 a jet-powered railcar hit 183 through here. If you turn in, I'll tell you the pans and the depot.",
+    long: "",
+    names: ["Stryker", "William Knight", "John Stryker"]
+  },
+  {
+    id: "stryker-founding",
+    name: "Stryker founding",
+    lat: 41.5000,
+    lng: -84.4181,
+    radius: 1200,
+    short: "You are in Stryker. John H. Sargent, Epaphras L. Barber, and Jesse McCart surveyed 97 lots September 19, 1853, beside the proposed Michigan Southern. Recorded January 1854. Streets named Defiance, South, Church, Depot. First rail in the county. Without the survey this is still a field.",
+    long: "",
+    names: ["John H. Sargent", "Epaphras L. Barber", "Jesse McCart"]
+  },
+  {
+    id: "stryker-airline",
+    name: "Stryker Air Line",
+    lat: 41.5010,
+    lng: -84.4170,
+    radius: 1100,
+    short: "John Stryker and the Michigan Southern built an air line, few curves, to beat the Junction Railroad county voters had just bought stock in. Trains by 1855. Track pans here let engines scoop five thousand gallons at forty miles an hour. Time was the enemy of the schedule.",
+    long: "",
+    names: ["Michigan Southern and Northern Indiana"]
+  },
+  {
+    id: "stryker-knight",
+    name: "William J. Knight",
+    lat: 41.4963,
+    lng: -84.4143,
+    radius: 800,
+    short: "Private William J. Knight of Stryker was one of Andrews Raiders. They stole the locomotive General in Georgia in 1862. He escaped prison, came home, and died here in 1916. Medal of Honor. The marker is on Defiance Street. A railroad village sent a man to steal a railroad.",
+    long: "",
+    names: ["William J. Knight", "Andrews Raid", "The General"]
+  },
+  {
+    id: "stryker-depot",
+    name: "Stryker depot",
+    lat: 41.5028,
+    lng: -84.4168,
+    radius: 600,
+    short: "The 1876 wood depot burned from a locomotive spark on March 22, 1900. Brick and limestone went up that year. National Register 1989. Erie Sauder bought it and gave it to the village. Heritage Center now. Passenger trains quit about 1956.",
+    long: "",
+    names: ["Erie Sauder"]
+  },
+  {
+    id: "stryker-ti",
+    name: "Toledo and Indiana",
+    lat: 41.5000,
+    lng: -84.4181,
+    radius: 1100,
+    short: "From 1905 to 1939 Stryker was the hub of the Toledo and Indiana interurban. Power plant on the Tiffin River lit a chunk of northwest Ohio. Car shops here. Last car October 15, 1939, motorman Lendall Vernier of Stryker. Electricity outlived the trolley.",
+    long: "",
+    names: ["Toledo and Indiana Railway"]
+  },
+  {
+    id: "stryker-jet",
+    name: "M-497 Black Beetle",
+    lat: 41.5000,
+    lng: -84.4181,
+    radius: 1400,
+    short: "July 23, 1966, New York Central bolted jet engines to an RDC and ran it between Stryker and Butler, Indiana. Straight, flat, 183.68 miles an hour. Still the American rail speed record. They picked this line because it looks like a ruler.",
+    long: "",
+    names: ["M-497", "Black Beetle"]
+  },
+  {
+    id: "stryker-war",
+    name: "Stryker war names",
+    lat: 41.5000,
+    lng: -84.4181,
+    radius: 1200,
+    short: "Knight is the Civil War headline. Lt. James Bradley of Stryker marched with the 7th Infantry in 1876. Aquilla Coonrod took a Medal of Honor against the Sioux. A small depot town kept sending men onto other people's maps.",
+    long: "",
+    names: ["James Bradley", "Aquilla Coonrod"]
+  },
+  {
+    id: "stryker-native",
+    name: "Stryker Tiffin River",
+    lat: 41.5000,
+    lng: -84.4181,
+    radius: 1500,
+    short: "They sited the plat on the Tiffin River because water and grade agreed. This is old Wyandot and Potawatomi ground in Springfield Township. The air line cut it straight.",
+    long: "",
+    names: ["Tiffin River", "Potawatomi"]
+  }
+  {
+    id: "approach-alvordton",
+    name: "Alvordton",
+    lat: 41.6647,
+    lng: -84.4347,
+    radius: 6000,
+    layer: "approach",
+    short: "You are coming up on Alvordton, Ohio. Henry D. Alvord platted it in 1881, parked the Wabash station on his extra farm, and named the town for himself. Two railroads. Voters gave the village charter back in 2007. Two hundred people and a sided-over brick hotel. If you turn in, I'll tell you Primrose and Millcreek.",
+    long: "",
+    names: ["Alvordton", "Henry D. Alvord"]
+  },
+  {
+    id: "alvordton-founding",
+    name: "Alvordton founding",
+    lat: 41.6647,
+    lng: -84.4347,
+    radius: 900,
+    short: "You are in Alvordton. Justus Alvord settled Millcreek Township in 1842. His son Henry kept store and an ashery at Primrose, then bought more land when the Wabash came and surveyed the town February 18, 1881. Postmaster the same year. Incorporated 1891. Disincorporated 2007. A man-named town that outlived its council.",
+    long: "",
+    names: ["Henry D. Alvord", "Justus Alvord", "Primrose"]
+  },
+  {
+    id: "alvordton-rail",
+    name: "Alvordton two railroads",
+    lat: 41.6640,
+    lng: -84.4340,
+    radius: 900,
+    short: "The Wabash made the town in 1881. The Cincinnati, Jackson and Mackinaw added a second grade in 1887 through Bryan, Pulaski, West Unity, and Alvordton. Grain and livestock left on both. That is a lot of steel for two hundred people.",
+    long: "",
+    names: ["Wabash Railroad", "Cincinnati Jackson and Mackinaw"]
+  },
+  {
+    id: "alvordton-hotel",
+    name: "Alvordton hotel",
+    lat: 41.6647,
+    lng: -84.4352,
+    radius: 500,
+    short: "In 1882 Henry Alvord spent eight thousand dollars on a brick hotel south of Main, west of Michigan. The brick is under siding now. A founder who built the inn as well as the plat.",
+    long: "",
+    names: []
+  },
+  {
+    id: "alvordton-war",
+    name: "Alvordton after the war",
+    lat: 41.6647,
+    lng: -84.4347,
+    radius: 1000,
+    short: "Henry was in Illinois and Iowa around the war years, then home to farm and store. The village is a Reconstruction railroad stamp on Millcreek farms that had already sent men.",
+    long: "",
+    names: ["Civil War"]
+  },
+  {
+    id: "alvordton-native",
+    name: "Millcreek Indian ground",
+    lat: 41.6647,
+    lng: -84.4347,
+    radius: 1400,
+    short: "Mill Creek and Brush Creek cut this township. Potawatomi and Miami used the timber before Landon cleared in 1835. Hamer was an earlier failed hamlet. Alvordton is the one that caught the train.",
+    long: "",
+    names: ["Potawatomi", "Mill Creek"]
+  }
+
  ];
 

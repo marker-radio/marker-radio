@@ -5460,8 +5460,412 @@ const STORIES = [
     long: "",
     names: ["Mudd Junction", "Jarvis", "Norristown"]
   }
+  {
+    id: "approach-stjoe",
+    name: "Saint Joe",
+    lat: 41.3147,
+    lng: -84.9011,
+    radius: 7000,
+    layer: "approach",
+    short: "You are coming up on Saint Joe, Indiana, Pickle Town, on the St. Joseph River in Concord Township. Laid out in 1875 as a Baltimore and Ohio grain stop. Jacob Leighty kept a store here and went to Congress. If you come off the road, I'll tell you the river settlement and the 1911 Civil War monument.",
+    long: "",
+    names: ["Saint Joe", "St. Joseph River", "Jacob D. Leighty"]
+  },
+  {
+    id: "stjoe-founding",
+    name: "Saint Joe founding",
+    lat: 41.3147,
+    lng: -84.9011,
+    radius: 1100,
+    short: "You are in Saint Joe. The town takes its name from the St. Joseph River. It was laid out in 1875 when the Baltimore and Ohio needed a station, and incorporated in 1899. Concord Township on this river was settled in the 1830s, years before there was a plat. The railroad just gave the landing a name and a depot.",
+    long: "",
+    names: ["Baltimore and Ohio Railroad", "Concord Township"]
+  },
+  {
+    id: "stjoe-river",
+    name: "St. Joseph River Saint Joe",
+    lat: 41.3140,
+    lng: -84.8985,
+    radius: 1100,
+    short: "The St. Joseph of the Maumee was the highway before the rails. Homer Blake, David Butler, the Mathews and Rhodes families took river lots here in the 1830s. Canoes and keelboats moved the first freight. Saint Joe is a later name on an old landing.",
+    long: "",
+    names: ["St. Joseph River", "David Butler"]
+  },
+  {
+    id: "stjoe-rail-grain",
+    name: "Saint Joe grain station",
+    lat: 41.3155,
+    lng: -84.9015,
+    radius: 900,
+    short: "By the 1880s Saint Joe was one of the best grain shipping points in DeKalb County. Dry goods, a handle and shingle factory, a sawmill, and the B&O siding sat together. A town of a few hundred people punched above its size because the river and the railroad met.",
+    long: "",
+    names: ["Baltimore and Ohio Railroad"]
+  },
+  {
+    id: "stjoe-leighty",
+    name: "Jacob D. Leighty",
+    lat: 41.3147,
+    lng: -84.9011,
+    radius: 1100,
+    short: "Jacob D. Leighty ran a dry goods store in Saint Joe and went to the United States House. He was born in 1839 and died in 1912. A pickle-and-grain town sent a merchant to Congress. That is the kind of story this county repeats.",
+    long: "",
+    names: ["Jacob D. Leighty"]
+  },
+  {
+    id: "stjoe-civil-war",
+    name: "Saint Joe Civil War monument",
+    lat: 41.3109,
+    lng: -84.9025,
+    radius: 800,
+    short: "Riverside Cemetery holds a monument dedicated in 1911 to the men of this community who fought in the Civil War. The marker on the greenway still points to it. Concord Township sent soldiers before Saint Joe was even a town.",
+    long: "",
+    names: ["Riverside Cemetery", "Civil War"]
+  },
+  {
+    id: "stjoe-pickle",
+    name: "Pickle Festival",
+    lat: 41.3147,
+    lng: -84.9011,
+    radius: 1100,
+    short: "Saint Joe calls itself Pickle Town and still throws a Pickle Festival. Cucumber vats and contract fields were real industry here, not a joke on a sign. When the grain trade thinned, the town kept a crop that would pickle.",
+    long: "",
+    names: ["Pickle Festival"]
+  },
+  {
+    id: "stjoe-parks",
+    name: "Saint Joe river parks",
+    lat: 41.3135,
+    lng: -84.8990,
+    radius: 900,
+    short: "The St. Joseph River Greenway, Wild Cherry Park, and public river access are the town's public land. A river village without a courthouse still kept the bank open. This is the same water that runs toward Fort Wayne and the Maumee.",
+    long: "",
+    names: ["St. Joseph River Greenway", "Wild Cherry Park"]
+  },
+  {
+    id: "stjoe-churches",
+    name: "Saint Joe churches",
+    lat: 41.3147,
+    lng: -84.9011,
+    radius: 900,
+    short: "Saint Mark's Lutheran went up in 1881. The Church of Christ is still on the map. In a town this size the churches did the work a city hall would do: meetings, funerals, and the calendar.",
+    long: "",
+    names: ["Saint Mark's Lutheran", "Saint Joe Church of Christ"]
+  },
+  {
+    id: "stjoe-native",
+    name: "Concord Township Indian river",
+    lat: 41.3147,
+    lng: -84.9011,
+    radius: 1400,
+    short: "This bend of the St. Joseph was Miami and Potawatomi water long before Concord Township existed. The 1830s settlers took the fertile bank after the removals. The town name is a saint's name on an older river.",
+    long: "",
+    names: ["Miami", "Potawatomi", "St. Joseph River"]
+  }
+
+  {
+    id: "approach-grabill",
+    name: "Grabill",
+    lat: 41.2100,
+    lng: -84.9683,
+    radius: 7000,
+    layer: "approach",
+    short: "You are coming up on Grabill, Indiana. The Wabash put a depot on Joseph Grabill's farm. First steam train, New Year's Day 1902. Amish families from Stark County, Ohio, had already been farming this township since 1853. If you turn in, I'll tell you the general store and the hobo they finally marked.",
+    long: "",
+    names: ["Grabill", "Joseph A. Grabill", "Wabash Railroad"]
+  },
+  {
+    id: "grabill-founding",
+    name: "Grabill founding",
+    lat: 41.2100,
+    lng: -84.9683,
+    radius: 1100,
+    short: "You are in Grabill. Twenty-three lots, platted February 15, 1902, where the Wabash wanted a depot for rich farm country. Post office August 8, 1902. Joseph A. Grabill was postmaster. The town took his name and incorporated in 1912. Harlan and Leo were already old. This one was born with the timetable.",
+    long: "",
+    names: ["Joseph A. Grabill", "Wabash Railroad"]
+  },
+  {
+    id: "grabill-rail",
+    name: "Grabill Wabash depot",
+    lat: 41.2105,
+    lng: -84.9675,
+    radius: 900,
+    short: "The first steam train over the new Fort Wayne to Toledo Wabash right of way arrived here January 1, 1902. The depot was a water stop on Grabill's farm. Passengers could board. That is the whole reason First Street exists.",
+    long: "",
+    names: ["Wabash Railroad"]
+  },
+  {
+    id: "grabill-amish",
+    name: "Grabill Amish settlement",
+    lat: 41.2100,
+    lng: -84.9683,
+    radius: 1600,
+    short: "Amish families came here in 1853 by ox team from Stark County, Ohio, fifty-two people including Bishop Peter Graber and his brothers. This is the only Indiana settlement made mostly of nineteenth-century Amish from Alsace-Lorraine. Schmucker, Graber, and Lengacher are the names on the mailboxes. The town is younger than the church districts around it.",
+    long: "",
+    names: ["Peter Graber", "Alsace-Lorraine", "Old Order Amish"]
+  },
+  {
+    id: "grabill-souder",
+    name: "Souder General Store",
+    lat: 41.2102,
+    lng: -84.9680,
+    radius: 600,
+    short: "H. Souder and Sons General Store is still in the family. Henry Souder's descendants still work the floor. Grabill Cabinets started here in 1946 when Vilas Schertz built dish cases after the war. A railroad stop became a hardware and cabinet town because Amish and English both needed goods that last.",
+    long: "",
+    names: ["Henry Souder", "Vilas Schertz", "Grabill Cabinets"]
+  },
+  {
+    id: "grabill-souder-congress",
+    name: "Mark Souder",
+    lat: 41.2100,
+    lng: -84.9683,
+    radius: 1100,
+    short: "Mark Souder grew up in Grabill, went to Leo High School, and represented this district in Congress from 1995 to 2010. A general-store town sent another merchant's world to Washington. The name on the shop window and the name on the ballot were the same family country.",
+    long: "",
+    names: ["Mark Souder"]
+  },
+  {
+    id: "grabill-hobo",
+    name: "Otto Snyder",
+    lat: 41.2100,
+    lng: -84.9683,
+    radius: 1100,
+    short: "Otto Snyder rode a freight into Grabill in the 1940s and lived in a shack by the crossing. They called him the beloved hobo. He died in 1963 wanting a decent funeral. The Chamber buried him without a stone. In 2024 the historical society found the grave and marked it. A railroad town finally wrote the transient's name in granite.",
+    long: "",
+    names: ["Otto Snyder"]
+  },
+  {
+    id: "grabill-parks",
+    name: "Grabill parks",
+    lat: 41.2115,
+    lng: -84.9690,
+    radius: 800,
+    short: "Grabill keeps two parks inside the corporation line. Cedar Creek Township around it is still farm and buggy road. The public ground is small on purpose. This was never going to be a courthouse town.",
+    long: "",
+    names: ["Cedar Creek Township"]
+  },
+  {
+    id: "grabill-native",
+    name: "Cedar Creek country",
+    lat: 41.2100,
+    lng: -84.9683,
+    radius: 1500,
+    short: "Cedar Creek Township sits on Miami and Potawatomi ground along the creek that feeds the St. Joseph. The Amish arrived after the removals. The Wabash arrived after the Amish. Three layers of people used the same water and the same ridge.",
+    long: "",
+    names: ["Cedar Creek", "Miami", "Potawatomi"]
+  },
+  {
+    id: "grabill-marker",
+    name: "Grabill historical marker",
+    lat: 41.2105,
+    lng: -84.9680,
+    radius: 500,
+    short: "The Allen County-Fort Wayne Historical Society marker on First Street is the official sentence: twenty-three lots, Wabash depot, first train January 1, 1902, post office August 8, Joseph A. Grabill, postmaster. That is the whole founding on one plaque.",
+    long: "",
+    names: ["Joseph A. Grabill"]
+  }
+  {
+    id: "approach-woodburn",
+    name: "Woodburn",
+    lat: 41.1242,
+    lng: -84.8547,
+    radius: 7000,
+    layer: "approach",
+    short: "You are coming up on Woodburn, Indiana, on the Maumee and the old Wabash. Joseph K. Edgerton and Joseph Smith platted it in 1865 as Phelps Station. They named it Woodburn because they burned the forest to make farms. If you turn in, I'll tell you the 1871 fire and Shirley City.",
+    long: "",
+    names: ["Woodburn", "Joseph K. Edgerton", "Phelps Station"]
+  },
+  {
+    id: "woodburn-founding",
+    name: "Woodburn founding",
+    lat: 41.1242,
+    lng: -84.8547,
+    radius: 1200,
+    short: "You are in Woodburn. Edgerton owned more than eight thousand acres of timber in Maumee Township. The depot was Phelps. In September 1865 they platted Woodburn because of the wood fires used to clear land. Town 1895. City 1956. Locals still call it the smallest fifth-class city in Indiana, a place that tried to have every shop on one street.",
+    long: "",
+    names: ["Joseph K. Edgerton", "Joseph Smith", "Phelps Station"]
+  },
+  {
+    id: "woodburn-rail-timber",
+    name: "Woodburn timber and rail",
+    lat: 41.1250,
+    lng: -84.8540,
+    radius: 1100,
+    short: "The Wabash and St. Louis put a station here so Edgerton could ship lumber and staves. He ran two sawmills and a stave factory. Grain elevators followed in the 1890s. The town exists because a land company needed a siding in the woods.",
+    long: "",
+    names: ["Wabash Railroad", "Woodburn Lumber Company"]
+  },
+  {
+    id: "woodburn-fire-1871",
+    name: "Woodburn fire 1871",
+    lat: 41.1242,
+    lng: -84.8547,
+    radius: 1300,
+    short: "A forest fire in 1871 burned much of Edgerton's timber and stalled the town. Swamps grew back. Ditches had to be dug for fifteen years before the farms took. Woodburn is a name that tells the truth twice: they burned the woods on purpose, then fire did it again.",
+    long: "",
+    names: ["1871 fire"]
+  },
+  {
+    id: "woodburn-shirley",
+    name: "Shirley City",
+    lat: 41.1242,
+    lng: -84.8547,
+    radius: 1100,
+    short: "In 1895 some men tried to incorporate as Shirley City for Senator Robert B. Shirley. William Gernhardt platted lots next to Woodburn. Mennonites and German Lutherans argued over the new school. The name that stuck was Woodburn. The fight is how you know two churches built one town.",
+    long: "",
+    names: ["Shirley City", "Robert B. Shirley"]
+  },
+  {
+    id: "woodburn-maumee",
+    name: "Maumee River Woodburn",
+    lat: 41.1220,
+    lng: -84.8480,
+    radius: 1400,
+    short: "The Maumee runs past Woodburn toward Antwerp and Defiance. Miami called it. French tongues turned Miami into Maumee. This river goes north to Lake Erie. Woodburn sits on the same water that made Fort Wayne and Fallen Timbers matter.",
+    long: "",
+    names: ["Maumee River", "Miami"]
+  },
+  {
+    id: "woodburn-stucky",
+    name: "Stucky brothers",
+    lat: 41.1242,
+    lng: -84.8547,
+    radius: 1100,
+    short: "The Stucky brothers sold farm implements and repairs when the ditches finally made fields. Brick and tile mills, a stockyard, a hotel, and a butcher shop filled Main. After the timber was gone, iron and grain kept the siding busy.",
+    long: "",
+    names: ["Stucky brothers"]
+  },
+  {
+    id: "woodburn-woodlan",
+    name: "Woodlan schools",
+    lat: 41.1242,
+    lng: -84.8547,
+    radius: 1200,
+    short: "East Allen named the school Woodlan by taking Wood from Woodburn and lan from Milan Township. Kids from this river town and the next township share a building. Consolidation wrote the map in one word.",
+    long: "",
+    names: ["Woodlan"]
+  },
+  {
+    id: "woodburn-park",
+    name: "Woodburn Community Park",
+    lat: 41.1255,
+    lng: -84.8560,
+    radius: 700,
+    short: "Woodburn Community Park on Front and Overmeyer is the public ground: diamonds, playground, picnic tables. A fifth-class city still keeps a park. That is the civic sentence.",
+    long: "",
+    names: ["Woodburn Community Park"]
+  },
+  {
+    id: "woodburn-native",
+    name: "Maumee Township Indian river",
+    lat: 41.1242,
+    lng: -84.8547,
+    radius: 1500,
+    short: "Maumee Township organized in 1836 on Miami and Potawatomi ground. Ulrich Saylor and George Platter were among the petitioners. The river was the road. The Wabash was the second road. Edgerton's eight thousand acres were someone else's woods first.",
+    long: "",
+    names: ["Miami", "Potawatomi", "Ulrich Saylor"]
+  }
+{
+    id: "approach-payne",
+    name: "Payne",
+    lat: 41.0797,
+    lng: -84.7272,
+    radius: 7000,
+    layer: "approach",
+    short: "You are coming up on Payne, Ohio. Detractors called it Pucker Brush. The post office was Payne before the plat was. The Nickel Plate's first passenger train rolled in October 23, 1882. If you turn in, I'll tell you Malottville and the Fourth of July fire.",
+    long: "",
+    names: ["Payne", "Nickel Plate Road", "Pucker Brush"]
+  },
+  {
+    id: "payne-founding",
+    name: "Payne founding",
+    lat: 41.0797,
+    lng: -84.7272,
+    radius: 1100,
+    short: "You are in Payne. Post office since 1858, likely named for Senator Henry B. Payne, a railroad man. Peter Lehman and Joseph Malott platted Malottville in 1872. Flat Rock City was the other early name. In 1882 they changed the village name to match the depot and the mail. Incorporated 1883.",
+    long: "",
+    names: ["Henry B. Payne", "Joseph Malott", "Peter Lehman", "Malottville"]
+  },
+  {
+    id: "payne-nickel-plate",
+    name: "Payne Nickel Plate",
+    lat: 41.0805,
+    lng: -84.7265,
+    radius: 1000,
+    short: "The New York, Chicago and St. Louis, the Nickel Plate, finished through Paulding County in 1881. First passenger train October 23, 1882. By 1884 Payne had a thousand people, three hotels, four sawmills, a stave factory, and a bucket shop. The glitter name was a sales pitch. The siding was real.",
+    long: "",
+    names: ["Nickel Plate Road"]
+  },
+  {
+    id: "payne-fire-1898",
+    name: "Payne Fourth of July fire",
+    lat: 41.0797,
+    lng: -84.7272,
+    radius: 1100,
+    short: "Several fires slowed Payne. The worst was July 4, 1898. Downtown businesses burned while the town was supposed to be celebrating. Wooden railroad villages learned the same lesson Edgerton and Hicksville learned. Brick came after the smoke.",
+    long: "",
+    names: ["1898 fire"]
+  },
+  {
+    id: "payne-pucker-brush",
+    name: "Pucker Brush",
+    lat: 41.0797,
+    lng: -84.7272,
+    radius: 1200,
+    short: "Outsiders called Payne Pucker Brush, a swipe at a raw clearing in the old swamp timber. Locals kept the name in the joke drawer. A town that outlived the insult still tells it, which means the insult worked its way into the story.",
+    long: "",
+    names: ["Pucker Brush"]
+  },
+  {
+    id: "payne-paper",
+    name: "Payne Star",
+    lat: 41.0797,
+    lng: -84.7272,
+    radius: 1100,
+    short: "The Payne Star printed in 1883, the year of the plat. It became the Independent, then the Review, then the Reflector, then folded into the Paulding Progress. A village this size kept a paper for decades. That is how you know the depot mattered.",
+    long: "",
+    names: ["Payne Star", "Payne Reflector"]
+  },
+  {
+    id: "payne-speed",
+    name: "Payne eight mile speed limit",
+    lat: 41.0797,
+    lng: -84.7272,
+    radius: 900,
+    short: "When they paved Main, only half as wide as today, the village set eight miles an hour through the business district. Local sports were running horses and buggies too fast. The railroad brought the people. The people brought the need for a speed limit.",
+    long: "",
+    names: []
+  },
+  {
+    id: "payne-park",
+    name: "Payne Community Park",
+    lat: 41.0815,
+    lng: -84.7285,
+    radius: 700,
+    short: "Payne Community Park came out of the 1972 centennial. They buried a time capsule by the flagpole, then another at the sesquicentennial, due to be opened in 2072. Public ground paid for by a party. That is small-town civic math.",
+    long: "",
+    names: ["Payne Community Park"]
+  },
+  {
+    id: "payne-war",
+    name: "Payne Civil War generation",
+    lat: 41.0797,
+    lng: -84.7272,
+    radius: 1200,
+    short: "The post office is older than the village. Men from these farms were already in Union blue before Malottville had a street. Henry B. Payne, the namesake, equipped Ohio regiments from Cleveland. The village name is a Union railroad senator on a Nickel Plate stop.",
+    long: "",
+    names: ["Henry B. Payne", "Civil War"]
+  },
+  {
+    id: "payne-native",
+    name: "Payne Black Swamp edge",
+    lat: 41.0797,
+    lng: -84.7272,
+    radius: 1500,
+    short: "Paulding County is the old Great Black Swamp. Miami and Potawatomi used the wet timber. Settlers ditched it. The Nickel Plate needed a dry grade through what had been water. Payne is a name on land that had to be drained before it could be platted.",
+    long: "",
+    names: ["Great Black Swamp", "Miami", "Potawatomi"]
+  }
 
 
-
-    ];
+  ];
 

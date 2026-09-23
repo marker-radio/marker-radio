@@ -1,4 +1,3 @@
-
 const spoken = new Set();
 let speaking = false;
 let watchId = null;
@@ -104,7 +103,8 @@ function checkLocation(pos, gpsEl) {
     .sort((a, b) => a.d - b.d);
 
   if (hits.length && !speaking) {
-    spoken.add(hits[0 0 0].m.story);
+    spoken.add(hits[0].m.id || hits[0].m.name);
+    speak(hits[0].m.story);
   }
 }
 
@@ -136,9 +136,4 @@ window.startMarkerRadio = function (gpsEl) {
     gpsEl.textContent = "GPS: waiting | " + MARKERS.length + " stories loaded";
   }
   watchId = bindWatch(gpsEl, true);
-
-
-
-
-
-
+};

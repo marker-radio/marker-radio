@@ -4755,6 +4755,388 @@ const STORIES = [
     long: "",
     names: ["Napoleon", "Campbell Soup", "Maumee River", "Miami and Erie Canal"]
   },
+  {
+    id: "approach-kendallville",
+    name: "Kendallville",
+    lat: 41.4417,
+    lng: -85.2655,
+    radius: 8000,
+    layer: "approach",
+    short: "You are coming up on Kendallville, Indiana. This town was platted by William Mitchell and named for Postmaster General Amos Kendall. Flint and Walling built windmills here that watered farms across the West. If you leave the highway, I'll tell you the railroad, Bixler Lake, and the rest.",
+    long: "",
+    names: ["Kendallville", "William Mitchell", "Amos Kendall", "Flint and Walling"]
+  },
+  {
+    id: "kendallville-founding",
+    name: "Kendallville founding",
+    lat: 41.4417,
+    lng: -85.2655,
+    radius: 1400,
+    short: "You are in Kendallville. In 1833 David Bundle built a wigwam inside what is now the city. Widow Frances Dingman bought him out and put up the first real house near State and Gold. William Mitchell arrived in 1836, platted lots, and named the post office for Amos Kendall. The town was incorporated in 1863 and became a city in 1866.",
+    long: "",
+    names: ["David Bundle", "Frances Dingman", "William Mitchell", "Amos Kendall"]
+  },
+  {
+    id: "kendallville-plank-road",
+    name: "Lima Plank Road",
+    lat: 41.4417,
+    lng: -85.2655,
+    radius: 1400,
+    short: "Main Street in Kendallville sits on the old Lima Road, first an Indian path called the Mongoquinon Trail. In 1848 William Mitchell helped turn it into the Lima Plank Road, a sixty-mile toll road from Fort Wayne toward Howe. When the company could not pay the crews, Mitchell paid them in goods from local stores. That is how this street became the spine of the town.",
+    long: "",
+    names: ["Lima Plank Road", "Mongoquinon Trail", "William Mitchell", "State Road 3"]
+  },
+  {
+    id: "kendallville-railroad",
+    name: "Kendallville railroad",
+    lat: 41.4455,
+    lng: -85.2658,
+    radius: 1200,
+    short: "The rails on the north side of Kendallville arrived in the late 1850s. Passenger cars from New York toward Chicago stopped here in 1857. The depot stood in Depot Park on Lincoln Street, west of the Main Street crossing. William Mitchell pushed both the east-west and north-south lines through town. That crossing is why Kendallville outgrew the rest of Noble County.",
+    long: "",
+    names: ["Ohio and Indiana Railroad", "William Mitchell", "Depot Park"]
+  },
+  {
+    id: "kendallville-downtown",
+    name: "Kendallville Downtown Historic District",
+    lat: 41.4412,
+    lng: -85.2656,
+    radius: 900,
+    short: "Downtown Kendallville is on the National Register of Historic Places. William Mitchell platted these twenty-two-foot lots in 1849. Most of the brick blocks went up between 1860 and 1910. Italianate storefronts, the old City Hall, the Kelly Hotel, and the Spencer Opera House still line Main. Forty-six buildings in this district count as contributing historic structures.",
+    long: "",
+    names: ["Kendallville Downtown Historic District", "William Mitchell", "Spencer Opera House", "Kelly Hotel"]
+  },
+  {
+    id: "kendallville-flint-walling",
+    name: "Flint and Walling",
+    lat: 41.4402,
+    lng: -85.2620,
+    radius: 1200,
+    short: "Flint and Walling started on Mitchell and Oak in 1866. Simeon Flint and David Walling first made hand pumps, then the Star windmill. Those mills pumped water for farms and railroad tanks from here to the Great Plains. The company still makes pumps in Kendallville. At one time nearly a hundred windmill makers worked within eighty miles of this town.",
+    long: "",
+    names: ["Flint and Walling", "Simeon Flint", "David Walling", "Star windmill"]
+  },
+  {
+    id: "kendallville-windmill-museum",
+    name: "Mid-America Windmill Museum",
+    lat: 41.4308,
+    lng: -85.2448,
+    radius: 900,
+    short: "This is the Mid-America Windmill Museum. More than fifty historic mills stand in the grass, including every Flint and Walling model from the original Star to the last Zephyr. A replica of the first colonial mill from Jamestown is here too. Northeast Indiana once built the machines that let the West drink. This field is where that story is kept.",
+    long: "",
+    names: ["Mid-America Windmill Museum", "Flint and Walling", "Original Star"]
+  },
+  {
+    id: "kendallville-mccray",
+    name: "McCray Refrigeration",
+    lat: 41.4410,
+    lng: -85.2660,
+    radius: 1200,
+    short: "Elmer McCray built a refrigerator works that at one point supported about a third of the families in Kendallville. He was the largest donor to Lakeside Hospital, later named McCray Memorial. If you worked here in the early 1900s, there is a good chance your paycheck, or your neighbor's, came from cold storage.",
+    long: "",
+    names: ["Elmer McCray", "McCray Refrigeration", "McCray Memorial Hospital"]
+  },
+  {
+    id: "kendallville-bixler-lake",
+    name: "Bixler Lake",
+    lat: 41.4378,
+    lng: -85.2495,
+    radius: 1000,
+    short: "Bixler Lake is Kendallville's public water. The Bixler family were early settlers who left their name on the lake. The park around it is part of a city park system of hundreds of acres. Before the town was brick and rail, this was wet ground on the edge of the old swamp country.",
+    long: "",
+    names: ["Bixler Lake", "Bixler family"]
+  },
+  {
+    id: "kendallville-anderson",
+    name: "Anderson Block",
+    lat: 41.4424,
+    lng: -85.2656,
+    radius: 700,
+    short: "One thirteen North Main is the Anderson Block. Alonzo Anderson, an African American barber and builder, put up storefronts here after the Civil War. The Anderson brothers came from a family of freed people in North Carolina. This building is one of a small number of African American historic sites listed in Indiana. Kendallville's Main Street was not built by one family alone.",
+    long: "",
+    names: ["Alonzo Anderson", "Anderson Block"]
+  },
+  {
+    id: "kendallville-people",
+    name: "Kendallville people",
+    lat: 41.4417,
+    lng: -85.2655,
+    radius: 1400,
+    short: "This town sent out more than merchants. William Mitchell went to Congress. Alvin Strauss, born here, designed Fort Wayne's Lincoln Bank Tower and the Auburn Automobile headquarters. Arthur Mapes wrote Indiana's state poem. Brad Miller played in the NBA. The people who left here took the town with them.",
+    long: "",
+    names: ["William Mitchell", "Alvin M. Strauss", "Arthur Mapes", "Brad Miller"]
+  },
+  {
+    id: "kendallville-war",
+    name: "Kendallville Civil War city",
+    lat: 41.4417,
+    lng: -85.2655,
+    radius: 1400,
+    short: "Kendallville became a town in 1863, in the middle of the Civil War, and a city three years later. Men from Noble County left from these streets. The first city officers were sworn in October 1866, after the war was over. The original town records later burned. What survived is the brick downtown they built when they came home.",
+    long: "",
+    names: ["Civil War", "Tim Baker"]
+  },
+  {
+    id: "kendallville-tornado",
+    name: "1992 tornado",
+    lat: 41.4417,
+    lng: -85.2655,
+    radius: 1400,
+    short: "On July 14, 1992 an F2 tornado formed on the west side of Kendallville and cut east through downtown and the shopping district. Locals still date stories from before and after that storm. The brick blocks on Main held. That is one reason this historic district is still standing for you to drive through.",
+    long: "",
+    names: ["1992 tornado"]
+  },
+  {
+    id: "kendallville-native",
+    name: "Mongoquinon Trail",
+    lat: 41.4417,
+    lng: -85.2655,
+    radius: 1600,
+    short: "Before Kendallville had a name, this was Miami and Potawatomi country. The road that became Main Street followed the Mongoquinon Trail, an Indian path from Fort Wayne toward Lima. Traders and land hunters used it through the forest and swamp. The town sits on a trail that was already old when the first cabin went up.",
+    long: "",
+    names: ["Mongoquinon Trail", "Miami", "Potawatomi"]
+  }
+
+  {
+    id: "kendallville-spencer-opera",
+    name: "Spencer Opera House",
+    lat: 41.4406,
+    lng: -85.2656,
+    radius: 700,
+    short: "The Spencer Opera House stood on South Main. This was where Kendallville dressed up. James Whitcomb Riley recited poetry in Mitchell Hall nearby. The Princess Theatre later ran five-cent vaudeville and silent pictures in the same corridor. A farm town with a railroad also wanted a stage.",
+    long: "",
+    names: ["Spencer Opera House", "James Whitcomb Riley", "Princess Theatre"]
+  },
+  {
+    id: "kendallville-kelly-hotel",
+    name: "Kelly Hotel",
+    lat: 41.4410,
+    lng: -85.2656,
+    radius: 700,
+    short: "One-oh-one South Main began as a hotel built in 1865 by Herman Krueger for people stepping off the Main Street train. John Kelly later ran it as the Kelly House. William Jennings Bryan stayed here while campaigning. John Kelly's son owned the first automobile in town. The building later became furniture store space. The railroad made overnight guests a business.",
+    long: "",
+    names: ["Kelly Hotel", "Herman Krueger", "William Jennings Bryan"]
+  },
+  {
+    id: "kendallville-city-hall",
+    name: "Kendallville City Hall",
+    lat: 41.4402,
+    lng: -85.2656,
+    radius: 600,
+    short: "Two thirty-four South Main is City Hall, marked on the National Register. The downtown district around it went onto the Indiana register in October 2003 and the National Register that December. Russell Frehse spent thirty years saving the paper trail that made that listing possible. The city records from 1863 burned. This brick is what they could still prove.",
+    long: "",
+    names: ["Kendallville City Hall", "Russell Frehse"]
+  },
+  {
+    id: "kendallville-iddings-block",
+    name: "Iddings-Gilbert-Leader-Anderson Block",
+    lat: 41.4415,
+    lng: -85.2656,
+    radius: 700,
+    short: "The Iddings-Gilbert-Leader-Anderson Block is itself on the National Register. Hiram Iddings and Herman Krueger were downtown builders when the railroad money hit. These narrow lots are the twenty-two-foot pattern William Mitchell sold in 1849. You can still read that survey in the width of the stores.",
+    long: "",
+    names: ["Iddings-Gilbert-Leader-Anderson Block", "Hiram Iddings"]
+  },
+  {
+    id: "kendallville-minot-store",
+    name: "Samuel Minot store",
+    lat: 41.4413,
+    lng: -85.2654,
+    radius: 800,
+    short: "Samuel Minot opened the first Main Street general store in 1840 at South Main and Gold. The first post office sat in that store. Upstairs, the Noble County Star was printed in 1849. A four-story grist mill he built made flour before the foundry and the windmill works arrived. Trade started here before the town had a charter.",
+    long: "",
+    names: ["Samuel Minot", "Noble County Star"]
+  },
+  {
+    id: "kendallville-mapes",
+    name: "Arthur Mapes",
+    lat: 41.4417,
+    lng: -85.2655,
+    radius: 1400,
+    short: "Arthur Franklin Mapes grew up in Kendallville and became Indiana's poet laureate. He wrote the state poem. A small industrial city on the plank road produced the words Indiana still claims. If you are only passing through, that is the kind of fact this town wants you to take with you.",
+    long: "",
+    names: ["Arthur Mapes"]
+  },
+  {
+    id: "kendallville-strauss",
+    name: "Alvin Strauss",
+    lat: 41.4417,
+    lng: -85.2655,
+    radius: 1400,
+    short: "Alvin M. Strauss was born in Kendallville to German immigrant parents. He designed McCray Memorial Hospital here, the Auburn Automobile headquarters that is now the Auburn Cord Duesenberg Museum, and Fort Wayne's Lincoln Bank Tower, Embassy Theatre, and original Memorial Coliseum. Northeast Indiana's skyline has Kendallville fingerprints.",
+    long: "",
+    names: ["Alvin M. Strauss", "Lincoln Bank Tower", "Auburn Automobile"]
+  },
+  {
+    id: "kendallville-gene-stratton-porter",
+    name: "Gene Stratton-Porter",
+    lat: 41.4417,
+    lng: -85.2655,
+    radius: 1400,
+    short: "Gene Stratton-Porter, the Limberlost novelist, had a business tie to Kendallville. Her books made swamp and lake country famous. Rome City and Sylvan Lake sit just north of here. Drivers who think this is only factory towns miss that one of Indiana's best-known writers worked this same landscape.",
+    long: "",
+    names: ["Gene Stratton-Porter", "Limberlost", "Rome City"]
+  },
+  {
+    id: "kendallville-parks",
+    name: "Kendallville parks",
+    lat: 41.4365,
+    lng: -85.2520,
+    radius: 1200,
+    short: "Kendallville keeps more than six hundred acres of park land. Bixler Lake Park has the lake and an eighty-nine-acre sports complex. Chain O'Lakes State Park is a short drive west, a kettle-lake chain left by the glacier. This county is full of natural lakes. The town grew beside water, not just rail.",
+    long: "",
+    names: ["Bixler Lake Park", "Chain O'Lakes State Park"]
+  },
+  {
+    id: "kendallville-old-cemetery",
+    name: "Kendallville old cemetery",
+    lat: 41.4448,
+    lng: -85.2705,
+    radius: 800,
+    short: "The old burial ground holds the Sawyer family, who donated the land, the Bixlers who named the lake, and Civil War dead. William Mitchell died on business in Georgia and is remembered here as the father of the town. Cemetery tours still tell the Anderson family story and the men who did not come home in 1865.",
+    long: "",
+    names: ["Old Cemetery", "Sawyer family", "William Mitchell"]
+  },
+  {
+    id: "kendallville-atz",
+    name: "Atz Ice Cream",
+    lat: 41.4410,
+    lng: -85.2655,
+    radius: 1000,
+    short: "Ralph Atz started Atz Ice Cream in Kendallville. Atz Furniture later occupied the old Kelly Hotel building. Downtown names lasted for generations here. Klinkenberg's dry goods ran more than a hundred years. If you want to know a town, watch which family names stay on the glass.",
+    long: "",
+    names: ["Ralph Atz", "Atz Ice Cream", "Klinkenberg"]
+  },
+  {
+    id: "kendallville-legend-plank",
+    name: "plank road tolls",
+    lat: 41.4417,
+    lng: -85.2655,
+    radius: 1600,
+    short: "Local memory still talks about the plank-road days. Tollgates stood every six to ten miles on the Lima Road. The company went broke and handed the route to the county in 1858. Teamsters cursed the planks when they warped in the wet. The path is now State Road 3, but the argument about who should pay for the road never really left.",
+    long: "",
+    names: ["Lima Plank Road", "tollgates"]
+  }
+  {
+    id: "kendallville-spencer-opera",
+    name: "Spencer Opera House",
+    lat: 41.4406,
+    lng: -85.2656,
+    radius: 700,
+    short: "The Spencer Opera House stood on South Main. This was where Kendallville dressed up. James Whitcomb Riley recited poetry in Mitchell Hall nearby. The Princess Theatre later ran five-cent vaudeville and silent pictures in the same corridor. A farm town with a railroad also wanted a stage.",
+    long: "",
+    names: ["Spencer Opera House", "James Whitcomb Riley", "Princess Theatre"]
+  },
+  {
+    id: "kendallville-kelly-hotel",
+    name: "Kelly Hotel",
+    lat: 41.4410,
+    lng: -85.2656,
+    radius: 700,
+    short: "One-oh-one South Main began as a hotel built in 1865 by Herman Krueger for people stepping off the Main Street train. John Kelly later ran it as the Kelly House. William Jennings Bryan stayed here while campaigning. John Kelly's son owned the first automobile in town. The building later became furniture store space. The railroad made overnight guests a business.",
+    long: "",
+    names: ["Kelly Hotel", "Herman Krueger", "William Jennings Bryan"]
+  },
+  {
+    id: "kendallville-city-hall",
+    name: "Kendallville City Hall",
+    lat: 41.4402,
+    lng: -85.2656,
+    radius: 600,
+    short: "Two thirty-four South Main is City Hall, marked on the National Register. The downtown district around it went onto the Indiana register in October 2003 and the National Register that December. Russell Frehse spent thirty years saving the paper trail that made that listing possible. The city records from 1863 burned. This brick is what they could still prove.",
+    long: "",
+    names: ["Kendallville City Hall", "Russell Frehse"]
+  },
+  {
+    id: "kendallville-iddings-block",
+    name: "Iddings-Gilbert-Leader-Anderson Block",
+    lat: 41.4415,
+    lng: -85.2656,
+    radius: 700,
+    short: "The Iddings-Gilbert-Leader-Anderson Block is itself on the National Register. Hiram Iddings and Herman Krueger were downtown builders when the railroad money hit. These narrow lots are the twenty-two-foot pattern William Mitchell sold in 1849. You can still read that survey in the width of the stores.",
+    long: "",
+    names: ["Iddings-Gilbert-Leader-Anderson Block", "Hiram Iddings"]
+  },
+  {
+    id: "kendallville-minot-store",
+    name: "Samuel Minot store",
+    lat: 41.4413,
+    lng: -85.2654,
+    radius: 800,
+    short: "Samuel Minot opened the first Main Street general store in 1840 at South Main and Gold. The first post office sat in that store. Upstairs, the Noble County Star was printed in 1849. A four-story grist mill he built made flour before the foundry and the windmill works arrived. Trade started here before the town had a charter.",
+    long: "",
+    names: ["Samuel Minot", "Noble County Star"]
+  },
+  {
+    id: "kendallville-mapes",
+    name: "Arthur Mapes",
+    lat: 41.4417,
+    lng: -85.2655,
+    radius: 1400,
+    short: "Arthur Franklin Mapes grew up in Kendallville and became Indiana's poet laureate. He wrote the state poem. A small industrial city on the plank road produced the words Indiana still claims. If you are only passing through, that is the kind of fact this town wants you to take with you.",
+    long: "",
+    names: ["Arthur Mapes"]
+  },
+  {
+    id: "kendallville-strauss",
+    name: "Alvin Strauss",
+    lat: 41.4417,
+    lng: -85.2655,
+    radius: 1400,
+    short: "Alvin M. Strauss was born in Kendallville to German immigrant parents. He designed McCray Memorial Hospital here, the Auburn Automobile headquarters that is now the Auburn Cord Duesenberg Museum, and Fort Wayne's Lincoln Bank Tower, Embassy Theatre, and original Memorial Coliseum. Northeast Indiana's skyline has Kendallville fingerprints.",
+    long: "",
+    names: ["Alvin M. Strauss", "Lincoln Bank Tower", "Auburn Automobile"]
+  },
+  {
+    id: "kendallville-gene-stratton-porter",
+    name: "Gene Stratton-Porter",
+    lat: 41.4417,
+    lng: -85.2655,
+    radius: 1400,
+    short: "Gene Stratton-Porter, the Limberlost novelist, had a business tie to Kendallville. Her books made swamp and lake country famous. Rome City and Sylvan Lake sit just north of here. Drivers who think this is only factory towns miss that one of Indiana's best-known writers worked this same landscape.",
+    long: "",
+    names: ["Gene Stratton-Porter", "Limberlost", "Rome City"]
+  },
+  {
+    id: "kendallville-parks",
+    name: "Kendallville parks",
+    lat: 41.4365,
+    lng: -85.2520,
+    radius: 1200,
+    short: "Kendallville keeps more than six hundred acres of park land. Bixler Lake Park has the lake and an eighty-nine-acre sports complex. Chain O'Lakes State Park is a short drive west, a kettle-lake chain left by the glacier. This county is full of natural lakes. The town grew beside water, not just rail.",
+    long: "",
+    names: ["Bixler Lake Park", "Chain O'Lakes State Park"]
+  },
+  {
+    id: "kendallville-old-cemetery",
+    name: "Kendallville old cemetery",
+    lat: 41.4448,
+    lng: -85.2705,
+    radius: 800,
+    short: "The old burial ground holds the Sawyer family, who donated the land, the Bixlers who named the lake, and Civil War dead. William Mitchell died on business in Georgia and is remembered here as the father of the town. Cemetery tours still tell the Anderson family story and the men who did not come home in 1865.",
+    long: "",
+    names: ["Old Cemetery", "Sawyer family", "William Mitchell"]
+  },
+  {
+    id: "kendallville-atz",
+    name: "Atz Ice Cream",
+    lat: 41.4410,
+    lng: -85.2655,
+    radius: 1000,
+    short: "Ralph Atz started Atz Ice Cream in Kendallville. Atz Furniture later occupied the old Kelly Hotel building. Downtown names lasted for generations here. Klinkenberg's dry goods ran more than a hundred years. If you want to know a town, watch which family names stay on the glass.",
+    long: "",
+    names: ["Ralph Atz", "Atz Ice Cream", "Klinkenberg"]
+  },
+  {
+    id: "kendallville-legend-plank",
+    name: "plank road tolls",
+    lat: 41.4417,
+    lng: -85.2655,
+    radius: 1600,
+    short: "Local memory still talks about the plank-road days. Tollgates stood every six to ten miles on the Lima Road. The company went broke and handed the route to the county in 1858. Teamsters cursed the planks when they warped in the wet. The path is now State Road 3, but the argument about who should pay for the road never really left.",
+    long: "",
+    names: ["Lima Plank Road", "tollgates"]
+  }
 
     ];
 

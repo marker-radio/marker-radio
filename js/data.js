@@ -7893,6 +7893,99 @@ const STORIES = [
     long: "",
     names: ["Potawatomi"]
   }
+  {
+    id: "approach-columbia-oh",
+    name: "Columbia Ohio",
+    lat: 41.6331,
+    lng: -84.7886,
+    radius: 5000,
+    layer: "approach",
+    short: "You are coming up on Columbia, Ohio, in the last corner of the state. Started as Porter's Corners about 1850. End of the St. Joseph Valley Railway from Angola, 1915 to 1918. They meant to electrify Chicago to Toledo. They never flipped the switch. If you turn in, I'll tell you Bucklen.",
+    long: "",
+    names: ["Columbia Ohio"]
+  },
+  {
+    id: "columbia-founding",
+    name: "Columbia founding",
+    lat: 41.6331,
+    lng: -84.7886,
+    radius: 800,
+    short: "You are at Columbia. George Porter's store, then a name in 1854. Northwest Township. Aaron Burr Goodwin had already stacked a cabin near both state lines. Columbia is a corner store that almost became an interurban terminal.",
+    long: "",
+    names: ["George Porter"]
+  },
+  {
+    id: "columbia-railway",
+    name: "St. Joseph Valley at Columbia",
+    lat: 41.6331,
+    lng: -84.7886,
+    radius: 800,
+    short: "Herbert Elijah Bucklen of Elkhart pushed the St. Joseph Valley from LaGrange through Orland and Angola. Tracks hit Columbia in 1915. Steam, never wire. Dead by 1918. Same failed line Orland still paints on the library wall.",
+    long: "",
+    names: ["Herbert Elijah Bucklen", "St. Joseph Valley Railway"]
+  },
+  {
+    id: "approach-primrose",
+    name: "Primrose",
+    lat: 41.6803,
+    lng: -84.4369,
+    radius: 4500,
+    layer: "approach",
+    short: "You are coming up on Primrose, Ohio, a mile north of Alvordton. Henry D. Alvord kept store and an ashery here first. Then the Wabash stopped on his extra farm and the town walked south. If you turn in, I'll tell you the ashery.",
+    long: "",
+    names: ["Primrose"]
+  },
+  {
+    id: "primrose-founding",
+    name: "Primrose founding",
+    lat: 41.6803,
+    lng: -84.4369,
+    radius: 700,
+    short: "You are at Primrose. Post office July 29, 1854, Lewis Keith first postmaster, closed 1904. Surveyed 1866. An 1864 map already shows Alvord and Skiles' store, Universalist church, ashery, blacksmith, steam saw, two coopers, two doctors. Then Alvordton took the station.",
+    long: "",
+    names: ["Lewis Keith", "Henry D. Alvord"]
+  },
+  {
+    id: "primrose-wabash",
+    name: "Primrose loses the Wabash",
+    lat: 41.6803,
+    lng: -84.4369,
+    radius: 800,
+    short: "When the Wabash came through in 1881, Alvord platted his own town on the track and left Primrose a church and a memory. Walnut Grove Church of the Brethren built south of here in 1888. A town that taught the next town how to exist.",
+    long: "",
+    names: ["Wabash Railroad"]
+  },
+  {
+    id: "approach-denmark-oh",
+    name: "Denmark Ohio",
+    lat: 41.4830,
+    lng: -84.7170,
+    radius: 5000,
+    layer: "approach",
+    short: "You are coming up on Denmark, Ohio, first town inside Williams County's present lines. Surveyed Christmas Day 1834 on the St. Joseph. Judge Payne C. Parker put up a two-story tavern, inn, and store. The plat was vacated. The river stayed. If you turn toward the St. Joe, I'll tell you Parker.",
+    long: "",
+    names: ["Denmark Ohio"]
+  },
+  {
+    id: "denmark-founding",
+    name: "Denmark founding",
+    lat: 41.4830,
+    lng: -84.7170,
+    radius: 800,
+    short: "You are at Denmark. Ninety-three lots in 1834, eighty-eight more in 1836, St. Joseph Township. Part vacated 1841, the rest 1861. Bellefontaine Road ran through here toward Indiana. Edgerton later took the railroad. Denmark kept being first.",
+    long: "",
+    names: ["Payne C. Parker"]
+  },
+  {
+    id: "denmark-river",
+    name: "Denmark St. Joseph",
+    lat: 41.4830,
+    lng: -84.7170,
+    radius: 1100,
+    short: "Same St. Joseph that Lake Seneca dammed and Nettle Lake feeds. Parker bet on a river town. The county grew around rails instead. A Christmas plat on older water.",
+    long: "",
+    names: ["St. Joseph River", "Potawatomi"]
+  }
 
  ];
 

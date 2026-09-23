@@ -6998,6 +6998,534 @@ const STORIES = [
     long: "",
     names: ["Potawatomi", "Mill Creek"]
   }
+  {
+    id: "approach-blakeslee",
+    name: "Blakeslee",
+    lat: 41.5242,
+    lng: -84.7308,
+    radius: 5000,
+    layer: "approach",
+    short: "You are coming up on Blakeslee, Ohio, a hundred-person village John Boman platted on his Florence Township farm when the Wabash crossed it in 1880. He gave the railroad four and a half acres. Named for a Bryan lawyer. If you turn in, I'll tell you Company H and St. Joseph.",
+    long: "",
+    names: ["Blakeslee", "John Boman"]
+  },
+  {
+    id: "blakeslee-founding",
+    name: "Blakeslee founding",
+    lat: 41.5242,
+    lng: -84.7308,
+    radius: 800,
+    short: "You are in Blakeslee. Post office opened May 4, 1880, at John Chilcote's store, named for attorney Schuyler E. Blakeslee of Bryan. November 8, Boman surveyed 56 lots. One log house and a railroad grocery. Incorporated November 7, 1894. First election was People's Union versus the Dry Ticket.",
+    long: "",
+    names: ["Schuyler E. Blakeslee", "John Chilcote"]
+  },
+  {
+    id: "blakeslee-boman",
+    name: "John Boman",
+    lat: 41.5242,
+    lng: -84.7308,
+    radius: 800,
+    short: "John Boman rode three years three months in Company H, Third Ohio Cavalry. Stone River, Chickamauga, Thomas's Georgia campaign. Discharged Nashville, 1864. Then he farmed, donated the depot ground, built the Fullmer hotel, and sold twenty-nine acres in lots. A cavalryman made a town.",
+    long: "",
+    names: ["John Boman", "Third Ohio Cavalry"]
+  },
+  {
+    id: "blakeslee-wabash",
+    name: "Blakeslee Wabash",
+    lat: 41.5235,
+    lng: -84.7300,
+    radius: 700,
+    short: "The Detroit, Butler and St. Louis, later the Wabash, is why this corner exists. Same 1880–81 line that hit Edon, Montpelier, West Unity, and Kunkle. Blakeslee is the smallest bead on that string.",
+    long: "",
+    names: ["Wabash Railroad"]
+  },
+  {
+    id: "blakeslee-church",
+    name: "St. Joseph Blakeslee",
+    lat: 41.5255,
+    lng: -84.7308,
+    radius: 500,
+    short: "St. Joseph Catholic Church marks the north end of the village. Parish records run from 1884. In a town this small the steeple is the skyline.",
+    long: "",
+    names: ["St. Joseph Catholic Church"]
+  },
+  {
+    id: "blakeslee-native",
+    name: "Florence Township Indian ground",
+    lat: 41.5242,
+    lng: -84.7308,
+    radius: 1300,
+    short: "Same township as Edon. Same old Potawatomi and Miami timber. Boman's farm sat on that. The Wabash did not invent Florence Township. It just named a crossing.",
+    long: "",
+    names: ["Potawatomi"]
+  }
+ {
+    id: "approach-kunkle",
+    name: "Kunkle",
+    lat: 41.6367,
+    lng: -84.4953,
+    radius: 5500,
+    layer: "approach",
+    short: "You are coming up on Kunkle, Ohio. Henry Stone Kunkle walked here from Pennsylvania, went to California twice, then put a store on this corner and a name on the map. The Wabash came in 1880. An F-4 cyclone tore the farms south of town in 1894. If you turn in, I'll tell you Matilda and the log house.",
+    long: "",
+    names: ["Kunkle", "Henry Stone Kunkle"]
+  },
+  {
+    id: "kunkle-founding",
+    name: "Kunkle founding",
+    lat: 41.6367,
+    lng: -84.4953,
+    radius: 900,
+    short: "You are in Kunkle. Henry S. Kunkle and Matilda Baltosser put a store at the southwest corner in 1866. They had the place surveyed as Kunklesville after he came back from the gold fields with enough money to buy the ground. Post office 1880. Never formally a village. Still here.",
+    long: "",
+    names: ["Henry S. Kunkle", "Matilda Baltosser"]
+  },
+  {
+    id: "kunkle-henry",
+    name: "Henry Stone Kunkle",
+    lat: 41.6367,
+    lng: -84.4953,
+    radius: 900,
+    short: "Bound out as a boy in Perry County after his mother died. Walked to Ohio looking for a brother. Chopped timber. Two California trips. Married Matilda in 1856. Grandfather fought the Revolution after deserting the Hessians. Father was 1812. The town is a family name on a crossroads.",
+    long: "",
+    names: ["Henry Stone Kunkle"]
+  },
+  {
+    id: "kunkle-wabash",
+    name: "Kunkle Wabash",
+    lat: 41.6360,
+    lng: -84.4945,
+    radius: 800,
+    short: "Same 1880 Wabash that made Blakeslee, Edon, Montpelier, and West Unity. Kunkle is another grain bead on that string. Madison Township finally had a timetable.",
+    long: "",
+    names: ["Wabash Railroad"]
+  },
+  {
+    id: "kunkle-cyclone",
+    name: "Kunkle Cyclone 1894",
+    lat: 41.6300,
+    lng: -84.4950,
+    radius: 1500,
+    short: "May 17, 1894, an F-4 cyclone south of Kunkle killed four on the farms and wrecked the Barrett place at 17 and N30. Strongest tornado on record in Williams County. Ten seconds. The town kept the name of the storm.",
+    long: "",
+    names: ["Kunkle Cyclone"]
+  },
+  {
+    id: "kunkle-cabin",
+    name: "Jacob Young cabin",
+    lat: 41.6367,
+    lng: -84.4900,
+    radius: 700,
+    short: "Jacob Young built a log house east of town about 1845. Last lived in during the 1930s. Donated 1974, restored, National Register 1976. Older than the store. Older than the railroad. The cabin is the first chapter.",
+    long: "",
+    names: ["Jacob Young"]
+  },
+  {
+    id: "kunkle-native",
+    name: "Madison Township Indian ground",
+    lat: 41.6367,
+    lng: -84.4953,
+    radius: 1400,
+    short: "Same Madison Township as Pioneer. Potawatomi ground before Young stacked logs. Kunkle is a Pennsylvania name on that dirt.",
+    long: "",
+    names: ["Potawatomi"]
+  }
+{
+    id: "approach-orland-in",
+    name: "Orland Indiana",
+    lat: 41.7306,
+    lng: -85.1722,
+    radius: 7000,
+    layer: "approach",
+    short: "You are coming up on Orland, Indiana, first settlement in Steuben County. Vermont people on the Vistula Trail. They hid people heading for Canada and got arrested for it. If you turn in, I'll tell you Captain Barry and the burr oaks.",
+    long: "",
+    names: ["Orland Indiana", "Vermont Settlement", "Underground Railroad"]
+  },
+  {
+    id: "orland-founding",
+    name: "Orland founding",
+    lat: 41.7306,
+    lng: -85.1722,
+    radius: 1100,
+    short: "You are in Orland. John Stocker came from Vermont in 1834 for the burr-oak openings. Captain Samuel Barry, Alexander Chapin, Cyrus Choate. Plat recorded March 19, 1838. First cabin sixty rods south of center. First white child in the county, Sarah Pierce, November 1834. They still throw the Vermont Settlement Festival in late July.",
+    long: "",
+    names: ["John Stocker", "Samuel Barry", "Vermont Settlement"]
+  },
+  {
+    id: "orland-ugrr",
+    name: "Orland Underground Railroad",
+    lat: 41.7306,
+    lng: -85.1722,
+    radius: 1200,
+    short: "Russell Brown had a secret second-floor apartment for fifteen or twenty people. S. U. Clark hid them behind a cellar cupboard. The Butlers south of town fed scores and moved them on. After 1850 they walked fugitives past the marshal's house on purpose. Five men arrested in 1853. National news from a Vermont hamlet.",
+    long: "",
+    names: ["Russell Brown", "S. U. Clark", "Butler family"]
+  },
+  {
+    id: "orland-barry",
+    name: "Captain Samuel Barry",
+    lat: 41.7318,
+    lng: -85.1722,
+    radius: 700,
+    short: "Captain Samuel Barry's house still sits a block north of the main corner on Barry Street. Convicted under the Fugitive Slave Act. One hour in jail and a fine. A founder who treated the law as a suggestion.",
+    long: "",
+    names: ["Samuel Barry"]
+  },
+  {
+    id: "orland-parker",
+    name: "Parker House",
+    lat: 41.7306,
+    lng: -85.1710,
+    radius: 600,
+    short: "The Ernsberger House, now the Parker House, was a station. John G. Parker married Elmira, daughter of Michigan Governor Cyrus Gray Luce. The house is still the one people point at.",
+    long: "",
+    names: ["Parker House", "Cyrus Gray Luce"]
+  },
+  {
+    id: "orland-rail",
+    name: "St. Joseph Valley Railway",
+    lat: 41.7300,
+    lng: -85.1730,
+    radius: 800,
+    short: "The St. Joseph Valley Railway reached Orland in the early 1900s. Depot 1909, still standing. A mural on Joyce Public Library shows the train. First town in the county, last to get steel.",
+    long: "",
+    names: ["St. Joseph Valley Railway"]
+  },
+  {
+    id: "orland-fawn",
+    name: "Fawn River",
+    lat: 41.7306,
+    lng: -85.1800,
+    radius: 1200,
+    short: "They built cabins along Crooked Creek, now the Fawn River. Wall Lake west of town took its name from a wall the Indians put on the west shore. Arrowheads still turn up. Vermont names on a river that already had one.",
+    long: "",
+    names: ["Fawn River", "Wall Lake"]
+  },
+  {
+    id: "orland-zeider",
+    name: "Rollie Zeider",
+    lat: 41.7306,
+    lng: -85.1722,
+    radius: 1000,
+    short: "Rollie Zeider played infield in the big leagues, then moved to Orland in 1959. A Vermont town collected a White Sox and Yankees name late.",
+    long: "",
+    names: ["Rollie Zeider"]
+  },
+  {
+    id: "orland-native",
+    name: "Orland Potawatomi ground",
+    lat: 41.7306,
+    lng: -85.1722,
+    radius: 1600,
+    short: "Millgrove Township. Vistula Trail. Wall Lake camp. The Vermont people arrived the same decade the removals were finishing. The railroad to Canada in these houses was the second trail.",
+    long: "",
+    names: ["Potawatomi"]
+  }
+  {
+    id: "approach-clear-lake-in",
+    name: "Clear Lake Indiana",
+    lat: 41.7444,
+    lng: -84.8378,
+    radius: 6000,
+    layer: "approach",
+    short: "You are coming up on Clear Lake, Indiana, the northeasternmost town in the state. John Russell put a cabin on the north shore in 1836. They incorporated the cottages in 1932. Eleven people drowned here on the Fourth of July, 1859. If you turn in, I'll tell you the mound and Bordenville.",
+    long: "",
+    names: ["Clear Lake Indiana"]
+  },
+  {
+    id: "clear-lake-founding",
+    name: "Clear Lake founding",
+    lat: 41.7444,
+    lng: -84.8378,
+    radius: 1200,
+    short: "You are at Clear Lake. Surveyors named it for water you could see through. John Russell and seven sons entered land in March 1836. Van Buren signed the grant. Cottagers fought four years to incorporate. Town in 1932, first election thirty-six votes. A lake before it was a government.",
+    long: "",
+    names: ["John Russell"]
+  },
+  {
+    id: "clear-lake-1859",
+    name: "Clear Lake Fourth of July 1859",
+    lat: 41.7444,
+    lng: -84.8378,
+    radius: 1100,
+    short: "July 4, 1859, a boat capsized. Eleven drowned. Stones in Reading Methodist still carry the date. Captain David Sines is in the county books. A holiday on a clear lake is not always a safe story.",
+    long: "",
+    names: ["David Sines"]
+  },
+  {
+    id: "clear-lake-paper-towns",
+    name: "Bordenville and Bowensburg",
+    lat: 41.7400,
+    lng: -84.8400,
+    radius: 1500,
+    short: "Rev. Brown platted Bordenville on section 21 and set a cemetery at Burying Ground Lake, now Lake Ann. He is buried there, 1845. Bowensburg was platted and never built. Paper towns around a real lake.",
+    long: "",
+    names: ["Bordenville", "Bowensburg"]
+  },
+  {
+    id: "clear-lake-lords",
+    name: "William L. Lords House",
+    lat: 41.7400,
+    lng: -84.8450,
+    radius: 800,
+    short: "The William L. Lords House on Clear Lake Road, about 1848, is on the National Register. Same family name you hear from Fremont. Early frame on the water.",
+    long: "",
+    names: ["William L. Lords House"]
+  },
+  {
+    id: "clear-lake-resort",
+    name: "Clear Lake hotels",
+    lat: 41.7470,
+    lng: -84.8380,
+    radius: 900,
+    short: "Hazenhurst on the north shore. Mirador in the thirties. Tarajories Hill of Health on paper in the twenties. Steuben sold lake lots the way other counties sold corn. The town is a ring of cottages that finally voted.",
+    long: "",
+    names: ["Hazenhurst"]
+  },
+  {
+    id: "clear-lake-native",
+    name: "Clear Lake mound",
+    lat: 41.7470,
+    lng: -84.8380,
+    radius: 1200,
+    short: "North shore, old Hazenhurst ground, a mound people called a chief's grave. McNaughton family kept a scarred wooden marker. Alexander McNaughton bought west-shore acres in 1849. The lake had a name before Russell's cabin.",
+    long: "",
+    names: ["Potawatomi"]
+  }
+  {
+    id: "approach-holiday-city",
+    name: "Holiday City",
+    lat: 41.6247,
+    lng: -84.5311,
+    radius: 8000,
+    layer: "approach",
+    short: "You are coming up on Holiday City, Ohio, forty-eight people and a Turnpike exit. Incorporated June 24, 1997, so the village could sell its own power. Toledo Edison sued. The village won enough to keep the lights. If you pull off 13, you are in the newest Williams County town.",
+    long: "",
+    names: ["Holiday City", "Ohio Turnpike"]
+  },
+  {
+    id: "holiday-city-founding",
+    name: "Holiday City founding",
+    lat: 41.6247,
+    lng: -84.5311,
+    radius: 1500,
+    short: "You are in Holiday City. Bruce Kidston platted it in 1997 around the Holiday Inn and the interchange of 15 and 20A with the Ohio Turnpike. They used a resort exception in state law that no longer exists. Forty-eight residents. A village built for kilowatts, not corn.",
+    long: "",
+    names: ["Bruce Kidston"]
+  },
+  {
+    id: "holiday-city-edison",
+    name: "Holiday City vs Toledo Edison",
+    lat: 41.6247,
+    lng: -84.5311,
+    radius: 1500,
+    short: "Toledo Edison fought the incorporation in court. Commissioners met at the Holiday Inn. The utility walked in and the meeting ended. Appellate case 1996. The point of the village was municipal electric. AMP and OMEGA JV4 still move the power. Industry pays most of the bill.",
+    long: "",
+    names: ["Toledo Edison"]
+  },
+  {
+    id: "holiday-city-turnpike",
+    name: "Holiday City Turnpike",
+    lat: 41.6247,
+    lng: -84.5311,
+    radius: 2000,
+    short: "Exit 13. Last westbound exit before the toll if you are headed at Bryan and Montpelier. Indian Meadow and Tiffin River plazas sit a few miles east. The Turnpike is the river this town was built on.",
+    long: "",
+    names: ["Ohio Turnpike"]
+  },
+  {
+    id: "holiday-city-older-ground",
+    name: "Holiday City older ground",
+    lat: 41.6247,
+    lng: -84.5311,
+    radius: 2000,
+    short: "Jefferson Township farms were here first. Kunkle and Pioneer are the older names a few miles out. Holiday City is a 1997 stamp on the same dirt the Wabash and the Pathfinder already used.",
+    long: "",
+    names: ["Jefferson Township"]
+  }
+  {
+    id: "approach-pulaski-oh",
+    name: "Pulaski Ohio",
+    lat: 41.5108,
+    lng: -84.5078,
+    radius: 6000,
+    layer: "approach",
+    short: "You are coming up on Pulaski, Ohio. First they called it Lafayette. Then they found another Lafayette and named it for Count Casimir Pulaski. First post office in present Williams County, 1837. They thought the courthouse would land here. Bryan won. If you turn in, I'll tell you Perkins and the mill.",
+    long: "",
+    names: ["Pulaski Ohio", "Casimir Pulaski"]
+  },
+  {
+    id: "pulaski-founding",
+    name: "Pulaski founding",
+    lat: 41.5108,
+    lng: -84.5078,
+    radius: 900,
+    short: "You are in Pulaski. John Perkins brought sons and a son-in-law from Brunersburg in October 1833 and planted Lafayette on Beaver Creek, now the Tiffin. Surveyed June 1835. Court let them change the name in 1857. Post office died 1914. A hundred people and a Revolutionary name.",
+    long: "",
+    names: ["John Perkins", "Lafayette"]
+  },
+  {
+    id: "pulaski-mill",
+    name: "Perkins mill",
+    lat: 41.5108,
+    lng: -84.5078,
+    radius: 900,
+    short: "Perkins built the first grist and saw mill in the township. By 1836 Brady Township hauled grain here. A creek town before it was a railroad town.",
+    long: "",
+    names: ["John Perkins"]
+  },
+  {
+    id: "pulaski-rail",
+    name: "Pulaski Mackinaw",
+    lat: 41.5100,
+    lng: -84.5070,
+    radius: 800,
+    short: "The Cincinnati, Jackson and Mackinaw came through Bryan, Pulaski, West Unity, and Alvordton in 1887. Second chance after they lost the county seat. Steel on a creek that already had a mill.",
+    long: "",
+    names: ["Cincinnati Jackson and Mackinaw"]
+  },
+  {
+    id: "pulaski-seat",
+    name: "Pulaski almost county seat",
+    lat: 41.5108,
+    lng: -84.5078,
+    radius: 1000,
+    short: "When the seat left Defiance they expected it here or at Williams Center. Bryan took the square in 1840. Pulaski kept the Polish cavalryman's name and the older mill.",
+    long: "",
+    names: ["Bryan"]
+  },
+  {
+    id: "pulaski-war",
+    name: "Pulaski name",
+    lat: 41.5108,
+    lng: -84.5078,
+    radius: 1000,
+    short: "Casimir Pulaski died at Savannah in 1779. Williams County already carried a Revolutionary captor's name. The village borrowed another. Township organized 1834 as Beaver, renamed 1837.",
+    long: "",
+    names: ["Casimir Pulaski", "David Williams"]
+  },
+  {
+    id: "pulaski-native",
+    name: "Tiffin River Indian ground",
+    lat: 41.5108,
+    lng: -84.5078,
+    radius: 1400,
+    short: "Beaver Creek, Tiffin River. Same water Stryker used. Wyandot and Potawatomi ground before Perkins stacked a mill. The count's name is the late layer.",
+    long: "",
+    names: ["Tiffin River", "Potawatomi"]
+  }
+  {
+    id: "approach-williams-center",
+    name: "Williams Center",
+    lat: 41.4289,
+    lng: -84.6103,
+    radius: 6000,
+    layer: "approach",
+    short: "You are coming up on Williams Center, Ohio. They platted 418 lots in 1836 and called it Centre because it sat in the middle of a bigger Williams County. Then they carved Defiance County off and the middle became the south edge. Bryan took the courthouse. If you turn in, I'll tell you the moved church.",
+    long: "",
+    names: ["Williams Center"]
+  },
+  {
+    id: "williams-center-founding",
+    name: "Williams Center founding",
+    lat: 41.4289,
+    lng: -84.6103,
+    radius: 900,
+    short: "You are in Williams Center. Dr. John Evans of Defiance had Centre surveyed January 23, 1836. Township created six weeks later. Post office Williams Centre in 1839 because Delaware County already had a Centre. Incorporated 1860. No election ever held. Still unincorporated. A paper village that stayed a crossroads.",
+    long: "",
+    names: ["John Evans"]
+  },
+  {
+    id: "williams-center-seat",
+    name: "Williams Center almost county seat",
+    lat: 41.4289,
+    lng: -84.6103,
+    radius: 1000,
+    short: "Same fight as Pulaski. When the seat left Defiance they expected it here. July 1840 Bryan got the square. March 1845 Defiance County took the old south half and left Centre on the new rim. Geography moved. The lots did not.",
+    long: "",
+    names: ["Bryan"]
+  },
+  {
+    id: "williams-center-churches",
+    name: "Williams Center two churches",
+    lat: 41.4289,
+    lng: -84.6103,
+    radius: 700,
+    short: "Asbury was Methodist. Calvary was Evangelical United Brethren, founded 1842. Calvary burned in 1947. They bought abandoned Emmanuel Lutheran and moved the building here. Two Methodist churches after 1968 and a Lutheran frame that walked.",
+    long: "",
+    names: ["Asbury Methodist", "Calvary"]
+  },
+  {
+    id: "williams-center-institute",
+    name: "Center Institute",
+    lat: 41.4289,
+    lng: -84.6103,
+    radius: 700,
+    short: "Center Institute ran here from 1858 into the 1870s beside the one-room school. A crossroads that tried to be a county town kept a school that tried to be more than a district.",
+    long: "",
+    names: ["Center Institute"]
+  },
+  {
+    id: "williams-center-road",
+    name: "Bellefontaine Road",
+    lat: 41.4289,
+    lng: -84.6103,
+    radius: 1200,
+    short: "The Bellefontaine Road, first formally surveyed county road in 1831, ran Defiance, Brunersburg, Ney, Williams Center, Denmark, Indiana. Routes 2 and 576 still cross here. Older than the plat.",
+    long: "",
+    names: ["Bellefontaine Road"]
+  },
+  {
+    id: "williams-center-native",
+    name: "Little Lick Creek",
+    lat: 41.4289,
+    lng: -84.6103,
+    radius: 1400,
+    short: "Headwaters of Little Lick Creek start around these lots and run to the Tiffin and the Maumee. Potawatomi and Miami water before Evans drew 418 squares. The center of the old county was someone else's trail first.",
+    long: "",
+    names: ["Little Lick Creek", "Potawatomi"]
+  }
+  {
+    id: "approach-lockport-oh",
+    name: "Lockport Ohio",
+    lat: 41.4050,
+    lng: -84.5750,
+    radius: 5000,
+    layer: "approach",
+    short: "You are coming up on Lockport, Ohio, a mill name on Lick Creek in Center Township. The 1874 atlas still shows the water-powered saw and grist. No railroad saved it. If you turn toward the creek, I'll tell you why the name is a lock that never had a canal.",
+    long: "",
+    names: ["Lockport Ohio"]
+  },
+  {
+    id: "lockport-mill",
+    name: "Lockport mill",
+    lat: 41.4050,
+    lng: -84.5750,
+    radius: 800,
+    short: "You are at Lockport. Before Bryan's rails ate the trade, farmers hauled to a water mill on Lick Creek. Saw and grist on the same fall. The 1874 county atlas drew it. The buildings went. The name stayed on the road.",
+    long: "",
+    names: ["Lick Creek"]
+  },
+  {
+    id: "lockport-creek",
+    name: "Lick Creek to the Tiffin",
+    lat: 41.4050,
+    lng: -84.5750,
+    radius: 1200,
+    short: "Little Lick rises near Williams Center and runs this way toward the Tiffin and the Maumee. Lockport is a drop in that chain. Mill towns live on fall. When steam and steel arrived they faded.",
+    long: "",
+    names: ["Tiffin River"]
+  },
+  {
+    id: "lockport-native",
+    name: "Lockport Indian ground",
+    lat: 41.4050,
+    lng: -84.5750,
+    radius: 1400,
+    short: "Same water the townships north already used. Potawatomi and Miami creek before the mill wheel. A lock name on a stream that never joined the Wabash and Erie.",
+    long: "",
+    names: ["Potawatomi"]
+  }
 
  ];
 

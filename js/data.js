@@ -5137,6 +5137,116 @@ const STORIES = [
     long: "",
     names: ["Lima Plank Road", "tollgates"]
   }
-
+  {
+    id: "approach-edgerton",
+    name: "Edgerton",
+    lat: 41.4494,
+    lng: -84.7469,
+    radius: 7000,
+    layer: "approach",
+    short: "You are coming up on Edgerton, Ohio, the Top of Ohio in the state's northwest corner. The village sits where the railroad crossed the St. Joseph River. It is named for Alfred P. Edgerton, the same Hicks Land Company agent who platted Hicksville. If you come off the road, I'll tell you the Air Line, the opera house, and Clem.",
+    long: "",
+    names: ["Edgerton", "Alfred P. Edgerton", "St. Joseph River"]
+  },
+  {
+    id: "edgerton-founding",
+    name: "Edgerton founding",
+    lat: 41.4494,
+    lng: -84.7469,
+    radius: 1200,
+    short: "You are in Edgerton. In 1854 railroad engineer John H. Sargent platted 135 lots where the Michigan Southern line would cross the St. Joseph River. He also helped found Stryker and Wauseon. The village took the name of Alfred P. Edgerton, land agent for Hicks and Company, the same firm behind Hicksville. It incorporated December 4, 1865.",
+    long: "",
+    names: ["John H. Sargent", "Alfred P. Edgerton", "Hicks and Company"]
+  },
+  {
+    id: "edgerton-railroad",
+    name: "Edgerton Air Line",
+    lat: 41.4488,
+    lng: -84.7465,
+    radius: 1100,
+    short: "The Lake Shore and Michigan Southern reached Edgerton in 1855. The stretch from Toledo toward Kendallville was so straight crews called it the Air Line. First timetable, June 8, 1857. A.P. Edgerton and William Trevitt donated the depot ground south of the tracks. Hotels faced the station for railroad men and travelers.",
+    long: "",
+    names: ["Lake Shore and Michigan Southern", "Air Line", "William Trevitt"]
+  },
+  {
+    id: "edgerton-river-oars",
+    name: "St. Joseph River oar factory",
+    lat: 41.4502,
+    lng: -84.7435,
+    radius: 1100,
+    short: "The St. Joseph River made this crossing worth a town. About 1860 an oar factory stood west of the river, north of the tracks. Ash timber floated down or came by wagon, became oars, and left on the railroad. Two sawmills and a tannery worked the same timber. The river and the rail built Edgerton together.",
+    long: "",
+    names: ["St. Joseph River", "oar factory"]
+  },
+  {
+    id: "edgerton-park-opera",
+    name: "Park Opera House",
+    lat: 41.4484,
+    lng: -84.7478,
+    radius: 700,
+    short: "Alfred Edgerton donated the public square. In 1884 Von Behren and Shaffer of Stryker built the town hall and Park Opera House for just under eight thousand dollars. Concerts, court, basketball, commencements, and traveling troupes used the oak balcony. Autographs covered the wall behind the ticket booth. A storm wrecked the old hall on June 23, 2010, days before the historical society could buy it.",
+    long: "",
+    names: ["Park Opera House", "Alfred P. Edgerton", "Von Behren and Shaffer"]
+  },
+  {
+    id: "edgerton-clem",
+    name: "Clem Civil War monument",
+    lat: 41.4483,
+    lng: -84.7478,
+    radius: 700,
+    short: "The Civil War monument locals call Clem went up May 30, 1912 for three thousand dollars, paid by the W.A. Slaughter G.A.R. post and the Woman's Relief Corps. He first stood in the middle of Michigan and Indiana, right in U.S. 6. In 1972 the highway project moved him, in nine pieces, to the park in front of Village Hall.",
+    long: "",
+    names: ["Clem", "W.A. Slaughter Post", "Civil War"]
+  },
+  {
+    id: "edgerton-maple-grove",
+    name: "Maple Grove Cemetery",
+    lat: 41.4555,
+    lng: -84.7510,
+    radius: 800,
+    short: "Maple Grove Cemetery opened in 1858. Graves from the vanished village of Denmark were moved here. Civil War surgeon J.O. Rose led the first Memorial Day service on May 30, 1868. They still hold it. The old town of Denmark was Williams County's first village. Edgerton outlived it because of the railroad crossing.",
+    long: "",
+    names: ["Maple Grove Cemetery", "Denmark Ohio", "J.O. Rose"]
+  },
+  {
+    id: "edgerton-blaze-1893",
+    name: "Blaze of 1893",
+    lat: 41.4494,
+    lng: -84.7469,
+    radius: 1200,
+    short: "In 1893 fire wiped out most of downtown Edgerton. Locals still call it the Blaze of 1893. Frager's Barber Shop is the storefront that survived. A railroad village built of wood learned the hard way. What you see on Michigan Avenue is the town that rebuilt after that night.",
+    long: "",
+    names: ["Blaze of 1893", "Frager's Barber Shop"]
+  },
+  {
+    id: "edgerton-hathaway",
+    name: "Dr. Calvin Hathaway",
+    lat: 41.4494,
+    lng: -84.7469,
+    radius: 1200,
+    short: "Dr. Calvin Hathaway practiced in Edgerton for fifty years. He had been a Union surgeon with the 130th Ohio. After the war he sat on pension boards in Toledo and Bryan. In a village this size, one doctor was the hospital. His name is still in the old family stories.",
+    long: "",
+    names: ["Calvin Hathaway", "130th Ohio"]
+  },
+  {
+    id: "edgerton-native",
+    name: "St. Joseph country",
+    lat: 41.4494,
+    lng: -84.7469,
+    radius: 1500,
+    short: "St. Joseph Township was organized in 1832, before Edgerton existed. This river was a Potawatomi and Miami corridor, then a settler road through the wet timber of the old Northwest Territory. The railroad did not invent the crossing. It only made the crossing permanent.",
+    long: "",
+    names: ["Potawatomi", "Miami", "St. Joseph Township"]
+  },
+  {
+    id: "edgerton-festival",
+    name: "Festival of Flags",
+    lat: 41.4494,
+    lng: -84.7469,
+    radius: 1200,
+    short: "Edgerton still throws a summer homecoming, now the Festival of Flags. The first big one was in 1921. A village that lost its opera house to a storm and its downtown to fire kept the habit of coming back to the park Alfred Edgerton gave them.",
+    long: "",
+    names: ["Festival of Flags"]
+  }
     ];
 

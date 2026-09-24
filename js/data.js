@@ -24072,6 +24072,2930 @@ const STORIES = [
     long: "",
     names: ["Vandalia"]
   },
+  {
+    id: "approach-tipp-city-oh",
+    name: "Tipp City",
+    lat: 39.9634,
+    lng: -84.1722,
+    radius: 4000,
+    layer: "approach",
+    short: "You are coming up on Tipp City. Miami County town north of Dayton on I-75. Canal town. Brick Main. If you drop in, I'll start on the street.",
+    long: "",
+    names: ["Tipp City"]
+  },
+  {
+    id: "tipp-founding",
+    name: "Tipp City founding",
+    lat: 39.9634,
+    lng: -84.1722,
+    radius: 1300,
+    short: "Laid out as Tippecanoe City. Named for the battle and the Harrison campaign. Later shortened to Tipp City so the post office would fit.",
+    long: "",
+    names: ["Tipp City", "Tippecanoe"]
+  },
+  {
+    id: "tipp-canal",
+    name: "Tipp City canal",
+    lat: 39.9634,
+    lng: -84.1722,
+    radius: 1400,
+    short: "The Miami and Erie Canal ran this town. Hydraulic power and freight. Downtown still faces the old water line.",
+    long: "",
+    names: ["Miami and Erie Canal"]
+  },
+  {
+    id: "tipp-downtown",
+    name: "Tipp City downtown",
+    lat: 39.9634,
+    lng: -84.1722,
+    radius: 800,
+    short: "Brick Main. One of the better-kept canal downtowns north of Dayton. A town that put money back into the block.",
+    long: "",
+    names: ["Tipp City"]
+  },
+  {
+    id: "tipp-parks",
+    name: "Tipp City parks",
+    lat: 39.9634,
+    lng: -84.1722,
+    radius: 1300,
+    short: "Canal park, the river bits, and the civic greens. A small city that walks its old water.",
+    long: "",
+    names: ["Tipp City"]
+  },
+  {
+    id: "tipp-people",
+    name: "Tipp City people",
+    lat: 39.9634,
+    lng: -84.1722,
+    radius: 1300,
+    short: "Canal families, then the I-75 commute. A town that still introduces itself with the brick street.",
+    long: "",
+    names: ["Tipp City"]
+  },
+  {
+    id: "tipp-native",
+    name: "Tipp City Native ground",
+    lat: 39.9634,
+    lng: -84.1722,
+    radius: 1600,
+    short: "Great Miami terrace. Miami country. The name on the map is a battle farther north.",
+    long: "",
+    names: ["Miami", "Tippecanoe"]
+  },
+  {
+    id: "tipp-war",
+    name: "Tipp City war",
+    lat: 39.9634,
+    lng: -84.1722,
+    radius: 1400,
+    short: "The name is Tippecanoe. The street is a canal town. Men left from these blocks. The battle itself is not here.",
+    long: "",
+    names: ["Tippecanoe"]
+  },
+  {
+    id: "tipp-legend",
+    name: "The town that shortened Tippecanoe",
+    lat: 39.9634,
+    lng: -84.1722,
+    radius: 1100,
+    short: "The local legend is that Tipp is just a cute name. It is a battle name that would not fit on a postmark.",
+    long: "",
+    names: ["Tippecanoe"]
+  },
 
+  {
+    id: "approach-troy-oh",
+    name: "Troy",
+    lat: 40.0392,
+    lng: -84.2033,
+    radius: 5000,
+    layer: "approach",
+    short: "You are coming up on Troy. County seat of Miami County. Canal town on the Great Miami. Courthouse square. If you drop in, I'll start on the square.",
+    long: "",
+    names: ["Troy"]
+  },
+  {
+    id: "troy-founding",
+    name: "Troy founding",
+    lat: 40.0392,
+    lng: -84.2033,
+    radius: 1500,
+    short: "Laid out in 1807. Named for the old Troy. County seat on the Great Miami. The square came first. The canal made it stick.",
+    long: "",
+    names: ["Troy"]
+  },
+  {
+    id: "troy-courthouse",
+    name: "Troy courthouse square",
+    lat: 40.0401,
+    lng: -84.2036,
+    radius: 700,
+    short: "Miami County Courthouse on the square. Brick downtown around it. A county seat that still looks like one from the sidewalk.",
+    long: "",
+    names: ["Miami County Courthouse"]
+  },
+  {
+    id: "troy-canal",
+    name: "Troy canal",
+    lat: 40.0392,
+    lng: -84.2033,
+    radius: 1500,
+    short: "The Miami and Erie Canal ran this bank. Hydraulic power, warehouses, and freight. The railroad finished what the ditch started.",
+    long: "",
+    names: ["Miami and Erie Canal"]
+  },
+  {
+    id: "troy-hobart",
+    name: "Hobart Arena",
+    lat: 40.0415,
+    lng: -84.2105,
+    radius: 700,
+    short: "Hobart Arena. A mid-century civic barn. Hockey, concerts, and the kind of building a county seat builds when it wants a crowd.",
+    long: "",
+    names: ["Hobart Arena"]
+  },
+  {
+    id: "troy-parks",
+    name: "Troy parks",
+    lat: 40.0392,
+    lng: -84.2033,
+    radius: 1500,
+    short: "Treasure Island, the river parks, and the square lawns. A county seat that kept water in the civic plan.",
+    long: "",
+    names: ["Treasure Island"]
+  },
+  {
+    id: "troy-people",
+    name: "Troy people",
+    lat: 40.0392,
+    lng: -84.2033,
+    radius: 1400,
+    short: "Canal families, county lawyers, later plant and commute people. A town that still points at the square first.",
+    long: "",
+    names: ["Troy"]
+  },
+  {
+    id: "troy-native",
+    name: "Troy Native ground",
+    lat: 40.0392,
+    lng: -84.2033,
+    radius: 1800,
+    short: "Great Miami terrace. Miami country. The river here was a road long before the canal.",
+    long: "",
+    names: ["Miami"]
+  },
+  {
+    id: "troy-war",
+    name: "Troy war",
+    lat: 40.0392,
+    lng: -84.2033,
+    radius: 1500,
+    short: "No standing fort on the square. Men left from these blocks. The older military names sit downriver and up the same valley.",
+    long: "",
+    names: ["Troy"]
+  },
+  {
+    id: "troy-legend",
+    name: "The square that still works",
+    lat: 40.0392,
+    lng: -84.2033,
+    radius: 1100,
+    short: "The local legend is that Troy is just a pretty I-75 exit. The courthouse has been running the county from that square since the ditch days.",
+    long: "",
+    names: ["Troy"]
+  },
+
+  {
+    id: "approach-piqua-oh",
+    name: "Piqua",
+    lat: 40.1448,
+    lng: -84.2424,
+    radius: 5000,
+    layer: "approach",
+    short: "You are coming up on Piqua. Miami County town on the Great Miami. Fort town, canal town, mill town. If you drop in, I'll start on Main.",
+    long: "",
+    names: ["Piqua"]
+  },
+  {
+    id: "piqua-founding",
+    name: "Piqua founding",
+    lat: 40.1448,
+    lng: -84.2424,
+    radius: 1500,
+    short: "The name is older than the lots. Piqua was a Miami place first. The American town grew on that river bend after the wars.",
+    long: "",
+    names: ["Piqua"]
+  },
+  {
+    id: "piqua-fort",
+    name: "Fort Piqua",
+    lat: 40.1455,
+    lng: -84.2420,
+    radius: 900,
+    short: "Fort Piqua sat on this bend. A supply post in the Ohio wars. The later town kept the name and the river.",
+    long: "",
+    names: ["Fort Piqua"]
+  },
+  {
+    id: "piqua-johnston",
+    name: "Johnston Farm",
+    lat: 40.1620,
+    lng: -84.2480,
+    radius: 1000,
+    short: "John Johnston's farm north of town. Indian agent. The house and the canal lock still sit on the old agency ground.",
+    long: "",
+    names: ["John Johnston", "Johnston Farm"]
+  },
+  {
+    id: "piqua-canal",
+    name: "Piqua canal",
+    lat: 40.1448,
+    lng: -84.2424,
+    radius: 1500,
+    short: "The Miami and Erie Canal ran Piqua. Locks, warehouses, and mill power. The railroad finished the freight story.",
+    long: "",
+    names: ["Miami and Erie Canal"]
+  },
+  {
+    id: "piqua-mills",
+    name: "Piqua mills",
+    lat: 40.1448,
+    lng: -84.2424,
+    radius: 1500,
+    short: "Wool, paper, and later factory work on the hydraulic. A mill town that outlived the ditch.",
+    long: "",
+    names: ["Piqua"]
+  },
+  {
+    id: "piqua-parks",
+    name: "Piqua parks",
+    lat: 40.1448,
+    lng: -84.2424,
+    radius: 1500,
+    short: "River parks, the lock ground, and the civic greens. A town that kept water in the plan.",
+    long: "",
+    names: ["Piqua"]
+  },
+  {
+    id: "piqua-people",
+    name: "Piqua people",
+    lat: 40.1448,
+    lng: -84.2424,
+    radius: 1400,
+    short: "Miami families first. Then canal men, mill hands, and the later plant town. A city that still says the name is older than Ohio.",
+    long: "",
+    names: ["Piqua"]
+  },
+  {
+    id: "piqua-native",
+    name: "Piqua Native ground",
+    lat: 40.1448,
+    lng: -84.2424,
+    radius: 1800,
+    short: "This is Miami country in the name itself. Villages and the river road before the fort and the lots.",
+    long: "",
+    names: ["Miami", "Piqua"]
+  },
+  {
+    id: "piqua-war",
+    name: "Piqua war",
+    lat: 40.1448,
+    lng: -84.2424,
+    radius: 1600,
+    short: "Fort Piqua and the Ohio campaigns. Later the Civil War sent men from these blocks. The river remembers the first fight.",
+    long: "",
+    names: ["Fort Piqua"]
+  },
+  {
+    id: "piqua-legend",
+    name: "The town that kept a Miami name",
+    lat: 40.1448,
+    lng: -84.2424,
+    radius: 1100,
+    short: "The local legend is that Piqua is just another mill town on I-75. The name on the sign is older than the state.",
+    long: "",
+    names: ["Piqua"]
+  },
+
+  {
+    id: "approach-sidney-oh",
+    name: "Sidney",
+    lat: 40.2842,
+    lng: -84.1555,
+    radius: 5000,
+    layer: "approach",
+    short: "You are coming up on Sidney. County seat of Shelby County. Canal town. Courthouse square. If you drop in, I'll start on the square.",
+    long: "",
+    names: ["Sidney"]
+  },
+  {
+    id: "sidney-founding",
+    name: "Sidney founding",
+    lat: 40.2842,
+    lng: -84.1555,
+    radius: 1500,
+    short: "Laid out as the Shelby County seat. Named for Sir Philip Sidney. The square and the Great Miami terrace came first.",
+    long: "",
+    names: ["Sidney"]
+  },
+  {
+    id: "sidney-courthouse",
+    name: "Sidney courthouse",
+    lat: 40.2842,
+    lng: -84.1555,
+    radius: 700,
+    short: "Shelby County Courthouse on the square. Brick downtown around it. A county seat that still works from the middle of town.",
+    long: "",
+    names: ["Shelby County Courthouse"]
+  },
+  {
+    id: "sidney-monumental",
+    name: "Monumental Building",
+    lat: 40.2848,
+    lng: -84.1558,
+    radius: 600,
+    short: "The Monumental Building. Civil War memorial and city hall in one pile of stone. Sidney put the dead and the clerks in the same block.",
+    long: "",
+    names: ["Monumental Building"]
+  },
+  {
+    id: "sidney-canal",
+    name: "Sidney canal",
+    lat: 40.2842,
+    lng: -84.1555,
+    radius: 1500,
+    short: "The Miami and Erie Canal ran Sidney. Locks, warehouses, and mill power. Then the Big Four shops made it a railroad town too.",
+    long: "",
+    names: ["Miami and Erie Canal"]
+  },
+  {
+    id: "sidney-rail",
+    name: "Sidney railroad shops",
+    lat: 40.2842,
+    lng: -84.1555,
+    radius: 1500,
+    short: "The Big Four shops employed the town. Repair work, steel, and the whistle. A county seat that also punched a time clock.",
+    long: "",
+    names: ["Big Four"]
+  },
+  {
+    id: "sidney-parks",
+    name: "Sidney parks",
+    lat: 40.2842,
+    lng: -84.1555,
+    radius: 1500,
+    short: "River parks, the square lawns, and the later civic greens. A town that kept water next to the courthouse story.",
+    long: "",
+    names: ["Sidney"]
+  },
+  {
+    id: "sidney-people",
+    name: "Sidney people",
+    lat: 40.2842,
+    lng: -84.1555,
+    radius: 1400,
+    short: "Canal families, shop men, county lawyers. A city that still points at the Monumental Building when you ask what it is proud of.",
+    long: "",
+    names: ["Sidney"]
+  },
+  {
+    id: "sidney-native",
+    name: "Sidney Native ground",
+    lat: 40.2842,
+    lng: -84.1555,
+    radius: 1800,
+    short: "Great Miami terrace. Shawnee and Miami hunting ground before the county seat.",
+    long: "",
+    names: ["Shawnee", "Miami"]
+  },
+  {
+    id: "sidney-war",
+    name: "Sidney war",
+    lat: 40.2842,
+    lng: -84.1555,
+    radius: 1500,
+    short: "The Monumental Building is the Civil War statement. Men left from these blocks. The older campaigns sit on the same river.",
+    long: "",
+    names: ["Monumental Building"]
+  },
+  {
+    id: "sidney-legend",
+    name: "The memorial that is also city hall",
+    lat: 40.2842,
+    lng: -84.1555,
+    radius: 1100,
+    short: "The local legend is that Sidney is just another I-75 county seat. The dead and the clerks share the same stone on purpose.",
+    long: "",
+    names: ["Monumental Building"]
+  },
+
+  {
+    id: "approach-bellefontaine-oh",
+    name: "Bellefontaine",
+    lat: 40.3612,
+    lng: -83.7597,
+    radius: 5000,
+    layer: "approach",
+    short: "You are coming up on Bellefontaine. County seat of Logan County. Highest ground in Ohio. First concrete street in America. If you drop in, I'll start on the square.",
+    long: "",
+    names: ["Bellefontaine"]
+  },
+  {
+    id: "bellefontaine-founding",
+    name: "Bellefontaine founding",
+    lat: 40.3612,
+    lng: -83.7597,
+    radius: 1500,
+    short: "Named for the beautiful spring. County seat on the high ground of Logan County. The square came first. The railroad made it stick.",
+    long: "",
+    names: ["Bellefontaine"]
+  },
+  {
+    id: "bellefontaine-concrete",
+    name: "Court Avenue concrete street",
+    lat: 40.3612,
+    lng: -83.7594,
+    radius: 600,
+    short: "Court Avenue. 1891. First concrete street in America. George Bartholomew poured it here. The square still rides on that experiment.",
+    long: "",
+    names: ["Court Avenue", "George Bartholomew"]
+  },
+  {
+    id: "bellefontaine-campbell",
+    name: "Campbell Hill",
+    lat: 40.3703,
+    lng: -83.7196,
+    radius: 1200,
+    short: "Campbell Hill. Highest point in Ohio. About 1,549 feet. A quiet rise east of town that still wins the state argument.",
+    long: "",
+    names: ["Campbell Hill"]
+  },
+  {
+    id: "bellefontaine-rail",
+    name: "Bellefontaine railroad",
+    lat: 40.3612,
+    lng: -83.7597,
+    radius: 1500,
+    short: "A Big Four and later Conrail town. Shops, yards, and the whistle. The high ground made a good crossing.",
+    long: "",
+    names: ["Bellefontaine"]
+  },
+  {
+    id: "bellefontaine-courthouse",
+    name: "Bellefontaine courthouse",
+    lat: 40.3612,
+    lng: -83.7597,
+    radius: 700,
+    short: "Logan County Courthouse on the square. The county still runs from the middle of town.",
+    long: "",
+    names: ["Logan County Courthouse"]
+  },
+  {
+    id: "bellefontaine-parks",
+    name: "Bellefontaine parks",
+    lat: 40.3612,
+    lng: -83.7597,
+    radius: 1500,
+    short: "City parks, the square lawns, and the later reservoir country around town.",
+    long: "",
+    names: ["Bellefontaine"]
+  },
+  {
+    id: "bellefontaine-people",
+    name: "Bellefontaine people",
+    lat: 40.3612,
+    lng: -83.7597,
+    radius: 1400,
+    short: "Railroad families, county lawyers, later plant and lake people. A town that still leads with the concrete street and the hill.",
+    long: "",
+    names: ["Bellefontaine"]
+  },
+  {
+    id: "bellefontaine-native",
+    name: "Bellefontaine Native ground",
+    lat: 40.3612,
+    lng: -83.7597,
+    radius: 1800,
+    short: "Shawnee country. The Mad River and the high ground were roads and lookouts before the lots.",
+    long: "",
+    names: ["Shawnee"]
+  },
+  {
+    id: "bellefontaine-war",
+    name: "Bellefontaine war",
+    lat: 40.3612,
+    lng: -83.7597,
+    radius: 1500,
+    short: "No standing fort on the square. Men left from these blocks. The older campaigns sit west and south on the same rivers.",
+    long: "",
+    names: ["Bellefontaine"]
+  },
+  {
+    id: "bellefontaine-legend",
+    name: "The highest town and the first concrete street",
+    lat: 40.3612,
+    lng: -83.7597,
+    radius: 1100,
+    short: "The local legend is that nothing famous happened here. Ohio's roof and America's first concrete street both sit in this county seat.",
+    long: "",
+    names: ["Campbell Hill", "Court Avenue"]
+  },
+
+  {
+    id: "approach-urbana-oh",
+    name: "Urbana",
+    lat: 40.1084,
+    lng: -83.7524,
+    radius: 5000,
+    layer: "approach",
+    short: "You are coming up on Urbana. County seat of Champaign County. Simon Kenton country. If you drop in, I'll start on the square.",
+    long: "",
+    names: ["Urbana"]
+  },
+  {
+    id: "urbana-founding",
+    name: "Urbana founding",
+    lat: 40.1084,
+    lng: -83.7524,
+    radius: 1500,
+    short: "Laid out as the Champaign County seat. Named for the old Urbana idea — a refined town on new ground. The square came first.",
+    long: "",
+    names: ["Urbana"]
+  },
+  {
+    id: "urbana-kenton",
+    name: "Simon Kenton",
+    lat: 40.1084,
+    lng: -83.7524,
+    radius: 1400,
+    short: "Simon Kenton is buried here. Scout, captive, and frontier name. Urbana still claims the man who walked this country before the lots.",
+    long: "",
+    names: ["Simon Kenton"]
+  },
+  {
+    id: "urbana-courthouse",
+    name: "Urbana courthouse",
+    lat: 40.1084,
+    lng: -83.7524,
+    radius: 700,
+    short: "Champaign County Courthouse on the square. Brick downtown around it. A county seat that still works from the middle.",
+    long: "",
+    names: ["Champaign County Courthouse"]
+  },
+  {
+    id: "urbana-college",
+    name: "Urbana University",
+    lat: 40.1110,
+    lng: -83.7540,
+    radius: 800,
+    short: "Urbana University. Swedenborgian school that became a small campus town inside the county seat.",
+    long: "",
+    names: ["Urbana University"]
+  },
+  {
+    id: "urbana-roads",
+    name: "Urbana roads",
+    lat: 40.1084,
+    lng: -83.7524,
+    radius: 1500,
+    short: "U.S. 36 and U.S. 68 cross here. Not a canal core. A road town that still runs the county from the square.",
+    long: "",
+    names: ["Urbana"]
+  },
+  {
+    id: "urbana-parks",
+    name: "Urbana parks",
+    lat: 40.1084,
+    lng: -83.7524,
+    radius: 1400,
+    short: "City parks, the square lawns, and the later trail bits. A county seat that kept a green middle.",
+    long: "",
+    names: ["Urbana"]
+  },
+  {
+    id: "urbana-people",
+    name: "Urbana people",
+    lat: 40.1084,
+    lng: -83.7524,
+    radius: 1400,
+    short: "Frontier families, then county lawyers and campus people. A town that still starts the story with Kenton.",
+    long: "",
+    names: ["Simon Kenton"]
+  },
+  {
+    id: "urbana-native",
+    name: "Urbana Native ground",
+    lat: 40.1084,
+    lng: -83.7524,
+    radius: 1800,
+    short: "Shawnee country. Mad River valley. Villages and hunting ground before the square.",
+    long: "",
+    names: ["Shawnee"]
+  },
+  {
+    id: "urbana-war",
+    name: "Urbana war",
+    lat: 40.1084,
+    lng: -83.7524,
+    radius: 1500,
+    short: "Kenton's wars first. Then men left from these blocks in later wars. The older fight is the one the town still names.",
+    long: "",
+    names: ["Simon Kenton"]
+  },
+  {
+    id: "urbana-legend",
+    name: "The town that kept Kenton",
+    lat: 40.1084,
+    lng: -83.7524,
+    radius: 1100,
+    short: "The local legend is that Urbana is just a quiet county seat. The grave in town belongs to one of the hardest men on the Ohio frontier.",
+    long: "",
+    names: ["Simon Kenton"]
+  },
+
+  {
+    id: "approach-marysville-oh",
+    name: "Marysville",
+    lat: 40.2364,
+    lng: -83.3671,
+    radius: 5000,
+    layer: "approach",
+    short: "You are coming up on Marysville. County seat of Union County. Courthouse town that later got Honda. If you drop in, I'll start on the square.",
+    long: "",
+    names: ["Marysville"]
+  },
+  {
+    id: "marysville-founding",
+    name: "Marysville founding",
+    lat: 40.2364,
+    lng: -83.3671,
+    radius: 1500,
+    short: "Laid out as the Union County seat. Named for a founder's daughter. The square came first. The plants came much later.",
+    long: "",
+    names: ["Marysville"]
+  },
+  {
+    id: "marysville-courthouse",
+    name: "Marysville courthouse",
+    lat: 40.2364,
+    lng: -83.3671,
+    radius: 700,
+    short: "Union County Courthouse on the square. Brick downtown around it. A county seat that still works from the middle.",
+    long: "",
+    names: ["Union County Courthouse"]
+  },
+  {
+    id: "marysville-honda",
+    name: "Honda Marysville",
+    lat: 40.2260,
+    lng: -83.3450,
+    radius: 1800,
+    short: "Honda's Marysville Auto Plant. The plant rewrote this county. Farm town to auto town in one generation.",
+    long: "",
+    names: ["Honda"]
+  },
+  {
+    id: "marysville-scotts",
+    name: "Scotts Miracle-Gro",
+    lat: 40.2364,
+    lng: -83.3671,
+    radius: 1400,
+    short: "Scotts Miracle-Gro grew here. Lawn and garden on a county-seat payroll. Another plant story beside the cars.",
+    long: "",
+    names: ["Scotts Miracle-Gro"]
+  },
+  {
+    id: "marysville-roads",
+    name: "Marysville roads",
+    lat: 40.2364,
+    lng: -83.3671,
+    radius: 1500,
+    short: "U.S. 33 and the later plant roads. Not a canal core. A square town that got an interstate-scale factory.",
+    long: "",
+    names: ["Marysville"]
+  },
+  {
+    id: "marysville-parks",
+    name: "Marysville parks",
+    lat: 40.2364,
+    lng: -83.3671,
+    radius: 1400,
+    short: "City parks, the square lawns, and the later trail bits a plant town funded on purpose.",
+    long: "",
+    names: ["Marysville"]
+  },
+  {
+    id: "marysville-people",
+    name: "Marysville people",
+    lat: 40.2364,
+    lng: -83.3671,
+    radius: 1400,
+    short: "Farm families first. Then Honda and Scotts. A county seat that still has two clocks — the square and the shift.",
+    long: "",
+    names: ["Marysville"]
+  },
+  {
+    id: "marysville-native",
+    name: "Marysville Native ground",
+    lat: 40.2364,
+    lng: -83.3671,
+    radius: 1800,
+    short: "Upland between the Scioto and the Mad. Shawnee hunting ground before the county seat.",
+    long: "",
+    names: ["Shawnee"]
+  },
+  {
+    id: "marysville-war",
+    name: "Marysville war",
+    lat: 40.2364,
+    lng: -83.3671,
+    radius: 1500,
+    short: "No fort on the square. Men left from these blocks. The later federal story is the plant and the payroll.",
+    long: "",
+    names: ["Marysville"]
+  },
+  {
+    id: "marysville-legend",
+    name: "The square that got a factory",
+    lat: 40.2364,
+    lng: -83.3671,
+    radius: 1100,
+    short: "The local legend is that Marysville is only Honda. The courthouse was running the county long before the first Civic rolled.",
+    long: "",
+    names: ["Honda"]
+  },
+
+  {
+    id: "approach-delaware-oh",
+    name: "Delaware",
+    lat: 40.2987,
+    lng: -83.0680,
+    radius: 5000,
+    layer: "approach",
+    short: "You are coming up on Delaware. County seat north of Columbus. Ohio Wesleyan. Hayes was born here. If you drop in, I'll start on the square.",
+    long: "",
+    names: ["Delaware"]
+  },
+  {
+    id: "delaware-founding",
+    name: "Delaware founding",
+    lat: 40.2987,
+    lng: -83.0680,
+    radius: 1500,
+    short: "Laid out as the Delaware County seat. Named for the people and the river country. The square and the sulphur spring came first.",
+    long: "",
+    names: ["Delaware"]
+  },
+  {
+    id: "delaware-hayes",
+    name: "Rutherford B. Hayes birthplace",
+    lat: 40.2987,
+    lng: -83.0680,
+    radius: 900,
+    short: "Rutherford B. Hayes was born in Delaware in 1822. Later president. The town still keeps the marker even though the house is gone.",
+    long: "",
+    names: ["Rutherford B. Hayes"]
+  },
+  {
+    id: "delaware-owu",
+    name: "Ohio Wesleyan",
+    lat: 40.2970,
+    lng: -83.0685,
+    radius: 900,
+    short: "Ohio Wesleyan University. Methodist campus on the old spring ground. A county seat that also became a college town.",
+    long: "",
+    names: ["Ohio Wesleyan"]
+  },
+  {
+    id: "delaware-courthouse",
+    name: "Delaware courthouse",
+    lat: 40.2987,
+    lng: -83.0680,
+    radius: 700,
+    short: "Delaware County Courthouse on the square. Brick downtown around it. A county seat that still works from the middle.",
+    long: "",
+    names: ["Delaware County Courthouse"]
+  },
+  {
+    id: "delaware-roads",
+    name: "Delaware roads",
+    lat: 40.2987,
+    lng: -83.0680,
+    radius: 1500,
+    short: "U.S. 23 and the later 36/37 run. Not a canal core. A square-and-campus town on the north Columbus road.",
+    long: "",
+    names: ["Delaware"]
+  },
+  {
+    id: "delaware-parks",
+    name: "Delaware parks",
+    lat: 40.2987,
+    lng: -83.0680,
+    radius: 1500,
+    short: "The Olentangy parks, the square lawns, and the campus greens. A town that kept water and a college in the same plan.",
+    long: "",
+    names: ["Olentangy"]
+  },
+  {
+    id: "delaware-people",
+    name: "Delaware people",
+    lat: 40.2987,
+    lng: -83.0680,
+    radius: 1400,
+    short: "County families, campus people, later the north-Columbus commute. A city that still leads with Hayes and Wesleyan.",
+    long: "",
+    names: ["Rutherford B. Hayes"]
+  },
+  {
+    id: "delaware-native",
+    name: "Delaware Native ground",
+    lat: 40.2987,
+    lng: -83.0680,
+    radius: 1800,
+    short: "The name is the point. Delaware and Wyandot country on the Olentangy before the square.",
+    long: "",
+    names: ["Delaware", "Wyandot"]
+  },
+  {
+    id: "delaware-war",
+    name: "Delaware war",
+    lat: 40.2987,
+    lng: -83.0680,
+    radius: 1500,
+    short: "No standing fort on the square. Men left from these blocks. Hayes's later war is the one the town still names.",
+    long: "",
+    names: ["Rutherford B. Hayes"]
+  },
+  {
+    id: "delaware-legend",
+    name: "The president and the spring",
+    lat: 40.2987,
+    lng: -83.0680,
+    radius: 1100,
+    short: "The local legend is that Delaware is just a north-side suburb now. A president was born on this ground and the campus still sits on the spring.",
+    long: "",
+    names: ["Rutherford B. Hayes"]
+  },
+
+  {
+    id: "approach-powell-oh",
+    name: "Powell",
+    lat: 40.1578,
+    lng: -83.0752,
+    radius: 4000,
+    layer: "approach",
+    short: "You are coming up on Powell. North of Columbus. Old railroad village that became a suburb with a brick downtown. If you drop in, I'll start on Liberty Street.",
+    long: "",
+    names: ["Powell"]
+  },
+  {
+    id: "powell-founding",
+    name: "Powell founding",
+    lat: 40.1578,
+    lng: -83.0752,
+    radius: 1200,
+    short: "A railroad stop first. Named for a local family. The village sat on the line north of Columbus and waited.",
+    long: "",
+    names: ["Powell"]
+  },
+  {
+    id: "powell-downtown",
+    name: "Powell downtown",
+    lat: 40.1578,
+    lng: -83.0752,
+    radius: 700,
+    short: "Brick Liberty Street. A small downtown a suburb kept on purpose. Shops, the depot feel, and the later money.",
+    long: "",
+    names: ["Powell"]
+  },
+  {
+    id: "powell-rail",
+    name: "Powell railroad",
+    lat: 40.1578,
+    lng: -83.0752,
+    radius: 1200,
+    short: "The railroad made the village. Grain, passengers, and a crossing. Then the cars came and the tracks became a memory in the street plan.",
+    long: "",
+    names: ["Powell"]
+  },
+  {
+    id: "powell-parks",
+    name: "Powell parks",
+    lat: 40.1578,
+    lng: -83.0752,
+    radius: 1300,
+    short: "City parks and the later trail bits a growing suburb funded on purpose.",
+    long: "",
+    names: ["Powell"]
+  },
+  {
+    id: "powell-people",
+    name: "Powell people",
+    lat: 40.1578,
+    lng: -83.0752,
+    radius: 1200,
+    short: "Farm families first. Then the north Columbus commute. A village that still points at the brick block when you ask what it is.",
+    long: "",
+    names: ["Powell"]
+  },
+  {
+    id: "powell-native",
+    name: "Powell Native ground",
+    lat: 40.1578,
+    lng: -83.0752,
+    radius: 1600,
+    short: "Olentangy upland. Delaware and Wyandot hunting ground before the depot.",
+    long: "",
+    names: ["Delaware", "Wyandot"]
+  },
+  {
+    id: "powell-war",
+    name: "Powell war",
+    lat: 40.1578,
+    lng: -83.0752,
+    radius: 1300,
+    short: "No fort on Liberty Street. Men left from these farms. The later story is the suburb, not a battlefield.",
+    long: "",
+    names: ["Powell"]
+  },
+  {
+    id: "powell-legend",
+    name: "The village that stayed a village on purpose",
+    lat: 40.1578,
+    lng: -83.0752,
+    radius: 1000,
+    short: "The local legend is that Powell is only new money. The brick downtown is the old railroad village refusing to disappear.",
+    long: "",
+    names: ["Powell"]
+  },
+
+  {
+    id: "approach-westerville-oh",
+    name: "Westerville",
+    lat: 40.1262,
+    lng: -82.9291,
+    radius: 5000,
+    layer: "approach",
+    short: "You are coming up on Westerville. North of Columbus. Otterbein. Dry town. Anti-Saloon League. If you drop in, I'll start on State Street.",
+    long: "",
+    names: ["Westerville"]
+  },
+  {
+    id: "westerville-founding",
+    name: "Westerville founding",
+    lat: 40.1262,
+    lng: -82.9291,
+    radius: 1500,
+    short: "Laid out as a college and temperance town. Otterbein came first. The dry law was the civic brand.",
+    long: "",
+    names: ["Westerville"]
+  },
+  {
+    id: "westerville-otterbein",
+    name: "Otterbein University",
+    lat: 40.1230,
+    lng: -82.9370,
+    radius: 800,
+    short: "Otterbein. United Brethren campus that made the town. Classrooms, the chapel, and a dry Main Street on purpose.",
+    long: "",
+    names: ["Otterbein"]
+  },
+  {
+    id: "westerville-antisaloon",
+    name: "Anti-Saloon League",
+    lat: 40.1262,
+    lng: -82.9291,
+    radius: 900,
+    short: "The Anti-Saloon League ran from Westerville. National dry politics from a small Ohio street. The museum still sits on that fight.",
+    long: "",
+    names: ["Anti-Saloon League"]
+  },
+  {
+    id: "westerville-uprising",
+    name: "Westerville Whiskey Wars",
+    lat: 40.1262,
+    lng: -82.9291,
+    radius: 1100,
+    short: "The whiskey wars. Saloons tried the town. The town dynamited back. Westerville stayed dry the hard way.",
+    long: "",
+    names: ["Westerville"]
+  },
+  {
+    id: "westerville-roads",
+    name: "Westerville roads",
+    lat: 40.1262,
+    lng: -82.9291,
+    radius: 1500,
+    short: "State Street and the later 3-C highway. Not a canal core. A college town on the north Columbus road.",
+    long: "",
+    names: ["Westerville"]
+  },
+  {
+    id: "westerville-parks",
+    name: "Westerville parks",
+    lat: 40.1262,
+    lng: -82.9291,
+    radius: 1500,
+    short: "Alum Creek parks, the campus greens, and the civic trails. A suburb that still walks like a college town.",
+    long: "",
+    names: ["Alum Creek"]
+  },
+  {
+    id: "westerville-people",
+    name: "Westerville people",
+    lat: 40.1262,
+    lng: -82.9291,
+    radius: 1400,
+    short: "Campus families, temperance people, later the north-side commute. A city that still leads with Otterbein and the dry years.",
+    long: "",
+    names: ["Otterbein"]
+  },
+  {
+    id: "westerville-native",
+    name: "Westerville Native ground",
+    lat: 40.1262,
+    lng: -82.9291,
+    radius: 1800,
+    short: "Alum Creek upland. Wyandot and Delaware hunting ground before the campus.",
+    long: "",
+    names: ["Wyandot", "Delaware"]
+  },
+  {
+    id: "westerville-war",
+    name: "Westerville war",
+    lat: 40.1262,
+    lng: -82.9291,
+    radius: 1500,
+    short: "No fort on State Street. Men left from these blocks. The war the town still names is the whiskey war.",
+    long: "",
+    names: ["Westerville"]
+  },
+  {
+    id: "westerville-legend",
+    name: "The dry town that dynamited the bar",
+    lat: 40.1262,
+    lng: -82.9291,
+    radius: 1100,
+    short: "The local legend is that Westerville is just a polite suburb. It once blew up saloons to stay dry and then ran the national dry campaign from this street.",
+    long: "",
+    names: ["Anti-Saloon League"]
+  },
+
+  {
+    id: "approach-dublin-oh",
+    name: "Dublin",
+    lat: 40.0992,
+    lng: -83.1141,
+    radius: 5000,
+    layer: "approach",
+    short: "You are coming up on Dublin. Scioto town northwest of Columbus. Irish name. Muirfield. If you drop in, I'll start on Bridge Street.",
+    long: "",
+    names: ["Dublin"]
+  },
+  {
+    id: "dublin-founding",
+    name: "Dublin founding",
+    lat: 40.0992,
+    lng: -83.1141,
+    radius: 1500,
+    short: "Laid out on the Scioto. Named Dublin because the river reminded someone of home. A mill and ferry town before it was a suburb.",
+    long: "",
+    names: ["Dublin"]
+  },
+  {
+    id: "dublin-bridge",
+    name: "Dublin Bridge Street",
+    lat: 40.0992,
+    lng: -83.1141,
+    radius: 800,
+    short: "Historic Bridge Street. The old river crossing. Stone, brick, and the later money stacked on a ferry town.",
+    long: "",
+    names: ["Dublin"]
+  },
+  {
+    id: "dublin-muirfield",
+    name: "Muirfield Village",
+    lat: 40.1370,
+    lng: -83.1470,
+    radius: 1400,
+    short: "Muirfield Village. Jack Nicklaus built a course and a Memorial Tournament on this high ground. Golf rewrote the map.",
+    long: "",
+    names: ["Jack Nicklaus", "Muirfield Village"]
+  },
+  {
+    id: "dublin-scioto",
+    name: "Dublin and the Scioto",
+    lat: 40.0992,
+    lng: -83.1141,
+    radius: 1600,
+    short: "The Scioto is why the town is here. Ferry, mill, and later the parkway. The river still cuts the civic plan.",
+    long: "",
+    names: ["Scioto"]
+  },
+  {
+    id: "dublin-parks",
+    name: "Dublin parks",
+    lat: 40.0992,
+    lng: -83.1141,
+    radius: 1600,
+    short: "Riverside parks, the Indian Run greens, and the later trail system a rich suburb funded on purpose.",
+    long: "",
+    names: ["Dublin"]
+  },
+  {
+    id: "dublin-people",
+    name: "Dublin people",
+    lat: 40.0992,
+    lng: -83.1141,
+    radius: 1400,
+    short: "Ferry families first. Then office parks and Muirfield. A city that still puts an Irish name on a Scioto bank.",
+    long: "",
+    names: ["Dublin"]
+  },
+  {
+    id: "dublin-native",
+    name: "Dublin Native ground",
+    lat: 40.0992,
+    lng: -83.1141,
+    radius: 1800,
+    short: "Scioto terrace. Wyandot and Delaware country. The river road was here before the ferry lots.",
+    long: "",
+    names: ["Wyandot", "Delaware"]
+  },
+  {
+    id: "dublin-war",
+    name: "Dublin war",
+    lat: 40.0992,
+    lng: -83.1141,
+    radius: 1500,
+    short: "No fort on Bridge Street. Men left from these farms. The later fight is growth, not a battlefield.",
+    long: "",
+    names: ["Dublin"]
+  },
+  {
+    id: "dublin-legend",
+    name: "The Irish name on an Ohio river",
+    lat: 40.0992,
+    lng: -83.1141,
+    radius: 1100,
+    short: "The local legend is that Dublin is only office parks and golf. The name is a homesick ferry town on the Scioto.",
+    long: "",
+    names: ["Dublin"]
+  },
+
+  {
+    id: "approach-hilliard-oh",
+    name: "Hilliard",
+    lat: 40.0334,
+    lng: -83.1582,
+    radius: 4500,
+    layer: "approach",
+    short: "You are coming up on Hilliard. West of Columbus. Railroad village that became a suburb. If you drop in, I'll start on Main.",
+    long: "",
+    names: ["Hilliard"]
+  },
+  {
+    id: "hilliard-founding",
+    name: "Hilliard founding",
+    lat: 40.0334,
+    lng: -83.1582,
+    radius: 1300,
+    short: "Laid out as Hilliard's Station. John Hilliard and the railroad. A depot town on the west Columbus line.",
+    long: "",
+    names: ["John Hilliard"]
+  },
+  {
+    id: "hilliard-rail",
+    name: "Hilliard railroad",
+    lat: 40.0334,
+    lng: -83.1582,
+    radius: 1300,
+    short: "The station made the village. Grain, passengers, and a crossing. Then the cars came and the depot became a memory.",
+    long: "",
+    names: ["Hilliard"]
+  },
+  {
+    id: "hilliard-oldhill",
+    name: "Old Hilliard",
+    lat: 40.0334,
+    lng: -83.1582,
+    radius: 800,
+    short: "Old Hilliard. The original Main Street block. A village core a suburb kept on purpose.",
+    long: "",
+    names: ["Hilliard"]
+  },
+  {
+    id: "hilliard-parks",
+    name: "Hilliard parks",
+    lat: 40.0334,
+    lng: -83.1582,
+    radius: 1400,
+    short: "City parks, the rec trails, and the later civic greens a growing suburb funded on purpose.",
+    long: "",
+    names: ["Hilliard"]
+  },
+  {
+    id: "hilliard-people",
+    name: "Hilliard people",
+    lat: 40.0334,
+    lng: -83.1582,
+    radius: 1300,
+    short: "Railroad families first. Then the west Columbus commute. A town that still points at Old Hilliard when you ask what it was.",
+    long: "",
+    names: ["Hilliard"]
+  },
+  {
+    id: "hilliard-native",
+    name: "Hilliard Native ground",
+    lat: 40.0334,
+    lng: -83.1582,
+    radius: 1700,
+    short: "Scioto upland. Wyandot and Delaware hunting ground before the depot.",
+    long: "",
+    names: ["Wyandot", "Delaware"]
+  },
+  {
+    id: "hilliard-war",
+    name: "Hilliard war",
+    lat: 40.0334,
+    lng: -83.1582,
+    radius: 1400,
+    short: "No fort on Main. Men left from these farms. The later story is the suburb, not a battlefield.",
+    long: "",
+    names: ["Hilliard"]
+  },
+  {
+    id: "hilliard-legend",
+    name: "The station that became a city",
+    lat: 40.0334,
+    lng: -83.1582,
+    radius: 1000,
+    short: "The local legend is that Hilliard was always a suburb. It started as a man's name on a railroad timetable.",
+    long: "",
+    names: ["John Hilliard"]
+  },
+
+  {
+    id: "approach-grove-city-oh",
+    name: "Grove City",
+    lat: 39.8815,
+    lng: -83.0930,
+    radius: 4500,
+    layer: "approach",
+    short: "You are coming up on Grove City. South of Columbus. Garden town. Beulah Park. If you drop in, I'll start on Broadway.",
+    long: "",
+    names: ["Grove City"]
+  },
+  {
+    id: "grove-city-founding",
+    name: "Grove City founding",
+    lat: 39.8815,
+    lng: -83.0930,
+    radius: 1300,
+    short: "Laid out on high ground south of Columbus. Named for the groves. A farm town that later took the south-side commute.",
+    long: "",
+    names: ["Grove City"]
+  },
+  {
+    id: "grove-city-beulah",
+    name: "Beulah Park",
+    lat: 39.8780,
+    lng: -83.0880,
+    radius: 900,
+    short: "Beulah Park. Ohio's old thoroughbred track. Racing on the south side until the grandstand went quiet.",
+    long: "",
+    names: ["Beulah Park"]
+  },
+  {
+    id: "grove-city-gardens",
+    name: "Grove City gardens",
+    lat: 39.8815,
+    lng: -83.0930,
+    radius: 1200,
+    short: "The garden brand is civic on purpose. Parks, plantings, and a town that sold itself as green before the sprawl arrived.",
+    long: "",
+    names: ["Grove City"]
+  },
+  {
+    id: "grove-city-broadway",
+    name: "Broadway Grove City",
+    lat: 39.8815,
+    lng: -83.0930,
+    radius: 700,
+    short: "Broadway. The old main street. A village core a suburb kept in the middle of the new map.",
+    long: "",
+    names: ["Grove City"]
+  },
+  {
+    id: "grove-city-roads",
+    name: "Grove City roads",
+    lat: 39.8815,
+    lng: -83.0930,
+    radius: 1400,
+    short: "U.S. 62 and I-71. Not a canal core. A high-ground town on the south Columbus road.",
+    long: "",
+    names: ["Grove City"]
+  },
+  {
+    id: "grove-city-parks",
+    name: "Grove City parks",
+    lat: 39.8815,
+    lng: -83.0930,
+    radius: 1400,
+    short: "City parks and the later trail bits a growing suburb funded on purpose.",
+    long: "",
+    names: ["Grove City"]
+  },
+  {
+    id: "grove-city-people",
+    name: "Grove City people",
+    lat: 39.8815,
+    lng: -83.0930,
+    radius: 1300,
+    short: "Farm families first. Then the south-side commute. A town that still leads with gardens and the old track.",
+    long: "",
+    names: ["Grove City"]
+  },
+  {
+    id: "grove-city-native",
+    name: "Grove City Native ground",
+    lat: 39.8815,
+    lng: -83.0930,
+    radius: 1700,
+    short: "Scioto upland. Wyandot and Shawnee hunting ground before the lots.",
+    long: "",
+    names: ["Wyandot", "Shawnee"]
+  },
+  {
+    id: "grove-city-war",
+    name: "Grove City war",
+    lat: 39.8815,
+    lng: -83.0930,
+    radius: 1400,
+    short: "No fort on Broadway. Men left from these farms. The later story is the suburb, not a battlefield.",
+    long: "",
+    names: ["Grove City"]
+  },
+  {
+    id: "grove-city-legend",
+    name: "The garden town that also ran horses",
+    lat: 39.8815,
+    lng: -83.0930,
+    radius: 1000,
+    short: "The local legend is that Grove City is only subdivisions. It sold flowers and ran thoroughbreds on the same south-side ground.",
+    long: "",
+    names: ["Beulah Park"]
+  },
+   {
+    id: "approach-reynoldsburg-oh",
+    name: "Reynoldsburg",
+    lat: 39.9548,
+    lng: -82.8121,
+    radius: 4500,
+    layer: "approach",
+    short: "You are coming up on Reynoldsburg. East of Columbus. Tomato capital. National Road town. If you drop in, I'll start on Main.",
+    long: "",
+    names: ["Reynoldsburg"]
+  },
+  {
+    id: "reynoldsburg-founding",
+    name: "Reynoldsburg founding",
+    lat: 39.9548,
+    lng: -82.8121,
+    radius: 1300,
+    short: "Laid out on the National Road. Named for John Reynolds. A pike town east of Columbus before the lots filled in.",
+    long: "",
+    names: ["John Reynolds"]
+  },
+  {
+    id: "reynoldsburg-tomato",
+    name: "Tomato Capital",
+    lat: 39.9548,
+    lng: -82.8121,
+    radius: 1200,
+    short: "Reynoldsburg calls itself the Tomato Capital. Alexander Livingston bred the commercial tomato here. The festival still says so.",
+    long: "",
+    names: ["Alexander Livingston"]
+  },
+  {
+    id: "reynoldsburg-livingston",
+    name: "Livingston House",
+    lat: 39.9548,
+    lng: -82.8121,
+    radius: 800,
+    short: "The Livingston House. Seed man and tomato breeder. A modest house that changed what America put on a sandwich.",
+    long: "",
+    names: ["Alexander Livingston"]
+  },
+  {
+    id: "reynoldsburg-national-road",
+    name: "Reynoldsburg National Road",
+    lat: 39.9548,
+    lng: -82.8121,
+    radius: 1400,
+    short: "Main Street is the National Road. Wagons, then cars, then the east-side commute. The pike is still the spine.",
+    long: "",
+    names: ["National Road"]
+  },
+  {
+    id: "reynoldsburg-parks",
+    name: "Reynoldsburg parks",
+    lat: 39.9548,
+    lng: -82.8121,
+    radius: 1400,
+    short: "City parks and the later trail bits a growing east-side town funded on purpose.",
+    long: "",
+    names: ["Reynoldsburg"]
+  },
+  {
+    id: "reynoldsburg-people",
+    name: "Reynoldsburg people",
+    lat: 39.9548,
+    lng: -82.8121,
+    radius: 1300,
+    short: "Pike families first. Then tomato men and the later commute. A city that still leads with a fruit.",
+    long: "",
+    names: ["Alexander Livingston"]
+  },
+  {
+    id: "reynoldsburg-native",
+    name: "Reynoldsburg Native ground",
+    lat: 39.9548,
+    lng: -82.8121,
+    radius: 1700,
+    short: "Blacklick and the National Road upland. Wyandot and Delaware hunting ground before the pike lots.",
+    long: "",
+    names: ["Wyandot", "Delaware"]
+  },
+  {
+    id: "reynoldsburg-war",
+    name: "Reynoldsburg war",
+    lat: 39.9548,
+    lng: -82.8121,
+    radius: 1400,
+    short: "No fort on Main. Men left from these farms. The later story is the tomato and the road.",
+    long: "",
+    names: ["Reynoldsburg"]
+  },
+  {
+    id: "reynoldsburg-legend",
+    name: "The town that invented the grocery tomato",
+    lat: 39.9548,
+    lng: -82.8121,
+    radius: 1000,
+    short: "The local legend is that a tomato is just a tomato. The commercial one America eats was bred on this east-side pike.",
+    long: "",
+    names: ["Alexander Livingston"]
+  },
+
+  {
+    id: "approach-gahanna-oh",
+    name: "Gahanna",
+    lat: 40.0192,
+    lng: -82.8793,
+    radius: 4500,
+    layer: "approach",
+    short: "You are coming up on Gahanna. Northeast of Columbus. Three creeks. Creekside. If you drop in, I'll start at the confluence.",
+    long: "",
+    names: ["Gahanna"]
+  },
+  {
+    id: "gahanna-founding",
+    name: "Gahanna founding",
+    lat: 40.0192,
+    lng: -82.8793,
+    radius: 1300,
+    short: "Named from a word for three creeks joining. A mill and crossing town on Big Walnut before it was a suburb.",
+    long: "",
+    names: ["Gahanna"]
+  },
+  {
+    id: "gahanna-creekside",
+    name: "Creekside Gahanna",
+    lat: 40.0192,
+    lng: -82.8793,
+    radius: 800,
+    short: "Creekside. The rebuilt village on the water. Shops, the boardwalk, and a town that put the confluence back in the middle.",
+    long: "",
+    names: ["Gahanna"]
+  },
+  {
+    id: "gahanna-creeks",
+    name: "Three creeks",
+    lat: 40.0192,
+    lng: -82.8793,
+    radius: 1400,
+    short: "Big Walnut, Rocky Fork, and the third branch. The name is the map. The town sits where the water meets.",
+    long: "",
+    names: ["Big Walnut"]
+  },
+  {
+    id: "gahanna-parks",
+    name: "Gahanna parks",
+    lat: 40.0192,
+    lng: -82.8793,
+    radius: 1400,
+    short: "Creek parks, the later trails, and a civic plan that kept the water in view.",
+    long: "",
+    names: ["Gahanna"]
+  },
+  {
+    id: "gahanna-people",
+    name: "Gahanna people",
+    lat: 40.0192,
+    lng: -82.8793,
+    radius: 1300,
+    short: "Mill families first. Then the northeast Columbus commute. A city that still leads with the creeks.",
+    long: "",
+    names: ["Gahanna"]
+  },
+  {
+    id: "gahanna-native",
+    name: "Gahanna Native ground",
+    lat: 40.0192,
+    lng: -82.8793,
+    radius: 1700,
+    short: "The name is the point. A confluence word on Wyandot and Delaware ground.",
+    long: "",
+    names: ["Wyandot", "Delaware"]
+  },
+  {
+    id: "gahanna-war",
+    name: "Gahanna war",
+    lat: 40.0192,
+    lng: -82.8793,
+    radius: 1400,
+    short: "No fort at Creekside. Men left from these farms. The later story is the suburb on the water.",
+    long: "",
+    names: ["Gahanna"]
+  },
+  {
+    id: "gahanna-legend",
+    name: "The town named for three streams",
+    lat: 40.0192,
+    lng: -82.8793,
+    radius: 1000,
+    short: "The local legend is that Gahanna is only a northeast suburb. The name is older than the lots — three creeks meeting on purpose.",
+    long: "",
+    names: ["Gahanna"]
+  },
+
+  {
+    id: "approach-pickerington-oh",
+    name: "Pickerington",
+    lat: 39.8842,
+    lng: -82.7535,
+    radius: 4500,
+    layer: "approach",
+    short: "You are coming up on Pickerington. Southeast of Columbus. Canal-edge village that became a suburb. If you drop in, I'll start on Center.",
+    long: "",
+    names: ["Pickerington"]
+  },
+  {
+    id: "pickerington-founding",
+    name: "Pickerington founding",
+    lat: 39.8842,
+    lng: -82.7535,
+    radius: 1300,
+    short: "Laid out by Abraham Pickering. A village on the canal and later the railroad southeast of Columbus.",
+    long: "",
+    names: ["Abraham Pickering"]
+  },
+  {
+    id: "pickerington-canal",
+    name: "Pickerington canal country",
+    lat: 39.8842,
+    lng: -82.7535,
+    radius: 1400,
+    short: "Ohio and Erie Canal country. The ditch ran the trade. The village sat on that edge and waited for the next road.",
+    long: "",
+    names: ["Ohio and Erie Canal"]
+  },
+  {
+    id: "pickerington-oldtown",
+    name: "Old Pickerington",
+    lat: 39.8842,
+    lng: -82.7535,
+    radius: 800,
+    short: "The original village block. A small downtown a suburb kept on purpose while the new streets filled in.",
+    long: "",
+    names: ["Pickerington"]
+  },
+  {
+    id: "pickerington-parks",
+    name: "Pickerington parks",
+    lat: 39.8842,
+    lng: -82.7535,
+    radius: 1400,
+    short: "City parks, the later trails, and the pond country a growing suburb funded on purpose.",
+    long: "",
+    names: ["Pickerington"]
+  },
+  {
+    id: "pickerington-people",
+    name: "Pickerington people",
+    lat: 39.8842,
+    lng: -82.7535,
+    radius: 1300,
+    short: "Canal and farm families first. Then the southeast Columbus commute. A town that still points at the old block.",
+    long: "",
+    names: ["Abraham Pickering"]
+  },
+  {
+    id: "pickerington-native",
+    name: "Pickerington Native ground",
+    lat: 39.8842,
+    lng: -82.7535,
+    radius: 1700,
+    short: "Blacklick and canal upland. Wyandot and Delaware hunting ground before the lots.",
+    long: "",
+    names: ["Wyandot", "Delaware"]
+  },
+  {
+    id: "pickerington-war",
+    name: "Pickerington war",
+    lat: 39.8842,
+    lng: -82.7535,
+    radius: 1400,
+    short: "No fort on Center. Men left from these farms. The later story is the suburb, not a battlefield.",
+    long: "",
+    names: ["Pickerington"]
+  },
+  {
+    id: "pickerington-legend",
+    name: "The canal village that kept its name",
+    lat: 39.8842,
+    lng: -82.7535,
+    radius: 1000,
+    short: "The local legend is that Pickerington was always new streets. It started as one man's name on a canal-edge plat.",
+    long: "",
+    names: ["Abraham Pickering"]
+  },
+
+  {
+    id: "approach-lancaster-oh",
+    name: "Lancaster",
+    lat: 39.7137,
+    lng: -82.5993,
+    radius: 5000,
+    layer: "approach",
+    short: "You are coming up on Lancaster. County seat of Fairfield County. Zane's Trace. Sherman. Standing Stone. If you drop in, I'll start on Main.",
+    long: "",
+    names: ["Lancaster"]
+  },
+  {
+    id: "lancaster-founding",
+    name: "Lancaster founding",
+    lat: 39.7137,
+    lng: -82.5993,
+    radius: 1500,
+    short: "Laid out on Zane's Trace. Named for Lancaster, Pennsylvania. A road town under the sandstone bluff.",
+    long: "",
+    names: ["Lancaster"]
+  },
+  {
+    id: "lancaster-zane",
+    name: "Zane's Trace",
+    lat: 39.7137,
+    lng: -82.5993,
+    radius: 1600,
+    short: "Zane's Trace ran through here. The first road across Ohio. Lancaster sat on that path and kept the county.",
+    long: "",
+    names: ["Zane's Trace"]
+  },
+  {
+    id: "lancaster-sherman",
+    name: "Sherman House",
+    lat: 39.7137,
+    lng: -82.5993,
+    radius: 800,
+    short: "The Sherman House. William Tecumseh Sherman was born in Lancaster. The house still stands. The war went west from this street.",
+    long: "",
+    names: ["William Tecumseh Sherman"]
+  },
+  {
+    id: "lancaster-standing-stone",
+    name: "Standing Stone",
+    lat: 39.7145,
+    lng: -82.6065,
+    radius: 900,
+    short: "Standing Stone. Mount Pleasant. The sandstone bluff over town. A lookout and a name older than the lots.",
+    long: "",
+    names: ["Standing Stone"]
+  },
+  {
+    id: "lancaster-glass",
+    name: "Lancaster glass",
+    lat: 39.7137,
+    lng: -82.5993,
+    radius: 1400,
+    short: "Anchor Hocking glass. Factory town on a road town. The plant kept paychecks on the same streets Sherman left.",
+    long: "",
+    names: ["Anchor Hocking"]
+  },
+  {
+    id: "lancaster-courthouse",
+    name: "Lancaster courthouse",
+    lat: 39.7137,
+    lng: -82.5993,
+    radius: 700,
+    short: "Fairfield County Courthouse. The county still runs from the middle of the Trace town.",
+    long: "",
+    names: ["Fairfield County Courthouse"]
+  },
+  {
+    id: "lancaster-parks",
+    name: "Lancaster parks",
+    lat: 39.7137,
+    lng: -82.5993,
+    radius: 1500,
+    short: "Rising Park on the bluff, the square lawns, and the later reservoir country.",
+    long: "",
+    names: ["Rising Park"]
+  },
+  {
+    id: "lancaster-people",
+    name: "Lancaster people",
+    lat: 39.7137,
+    lng: -82.5993,
+    radius: 1400,
+    short: "Trace families, then Sherman, then glass. A city that still leads with a general and a rock.",
+    long: "",
+    names: ["William Tecumseh Sherman"]
+  },
+  {
+    id: "lancaster-native",
+    name: "Lancaster Native ground",
+    lat: 39.7137,
+    lng: -82.5993,
+    radius: 1800,
+    short: "Standing Stone was a landmark on Wyandot and Shawnee ground. The bluff was a sign before it was a park.",
+    long: "",
+    names: ["Wyandot", "Shawnee"]
+  },
+  {
+    id: "lancaster-war",
+    name: "Lancaster war",
+    lat: 39.7137,
+    lng: -82.5993,
+    radius: 1500,
+    short: "Sherman's war is the one the town names. Men also left from these blocks in every later fight.",
+    long: "",
+    names: ["William Tecumseh Sherman"]
+  },
+  {
+    id: "lancaster-legend",
+    name: "The rock and the general",
+    lat: 39.7137,
+    lng: -82.5993,
+    radius: 1100,
+    short: "The local legend is that Lancaster is just a county seat off 33. A sandstone mountain and a Civil War general both sit on this street.",
+    long: "",
+    names: ["Standing Stone", "William Tecumseh Sherman"]
+  },
+
+  {
+    id: "approach-circleville-oh",
+    name: "Circleville",
+    lat: 39.6006,
+    lng: -82.9460,
+    radius: 5000,
+    layer: "approach",
+    short: "You are coming up on Circleville. County seat of Pickaway County. Built on a circle mound. Pumpkin Show. If you drop in, I'll start on the square that used to be round.",
+    long: "",
+    names: ["Circleville"]
+  },
+  {
+    id: "circleville-founding",
+    name: "Circleville founding",
+    lat: 39.6006,
+    lng: -82.9460,
+    radius: 1500,
+    short: "Laid out on a Hopewell circle. The streets followed the earthwork. Then the town squared itself and buried the plan.",
+    long: "",
+    names: ["Circleville"]
+  },
+  {
+    id: "circleville-circle",
+    name: "The circle under the town",
+    lat: 39.6006,
+    lng: -82.9460,
+    radius: 900,
+    short: "A circular earthwork sat here. The county seat was drawn on top of it. Later they straightened the streets. The name is what remains.",
+    long: "",
+    names: ["Circleville"]
+  },
+  {
+    id: "circleville-pumpkin",
+    name: "Circleville Pumpkin Show",
+    lat: 39.6006,
+    lng: -82.9460,
+    radius: 1100,
+    short: "The Pumpkin Show. One of the biggest street fairs in Ohio. A county seat that still stops traffic for a gourd.",
+    long: "",
+    names: ["Circleville Pumpkin Show"]
+  },
+  {
+    id: "circleville-courthouse",
+    name: "Circleville courthouse",
+    lat: 39.6006,
+    lng: -82.9460,
+    radius: 700,
+    short: "Pickaway County Courthouse on the later square. The circle is gone. The county still runs from the middle.",
+    long: "",
+    names: ["Pickaway County Courthouse"]
+  },
+  {
+    id: "circleville-canal",
+    name: "Circleville canal",
+    lat: 39.6006,
+    lng: -82.9460,
+    radius: 1500,
+    short: "Ohio and Erie Canal country. Grain and pork went north on the ditch. The circle town sat on that trade.",
+    long: "",
+    names: ["Ohio and Erie Canal"]
+  },
+  {
+    id: "circleville-parks",
+    name: "Circleville parks",
+    lat: 39.6006,
+    lng: -82.9460,
+    radius: 1400,
+    short: "City parks, the later reservoir bits, and a county seat that still puts a festival on the street.",
+    long: "",
+    names: ["Circleville"]
+  },
+  {
+    id: "circleville-people",
+    name: "Circleville people",
+    lat: 39.6006,
+    lng: -82.9460,
+    radius: 1400,
+    short: "Mound-country farmers, then canal men, then the Pumpkin Show crowd. A town that still leads with a circle it no longer has.",
+    long: "",
+    names: ["Circleville"]
+  },
+  {
+    id: "circleville-native",
+    name: "Circleville Native ground",
+    lat: 39.6006,
+    lng: -82.9460,
+    radius: 1800,
+    short: "Hopewell first. Then Shawnee and Pickaway plains. The circle was already here when the county seat arrived.",
+    long: "",
+    names: ["Hopewell", "Shawnee"]
+  },
+  {
+    id: "circleville-war",
+    name: "Circleville war",
+    lat: 39.6006,
+    lng: -82.9460,
+    radius: 1500,
+    short: "No standing fort on the later square. Men left from these blocks. The older fight is the one written in earth.",
+    long: "",
+    names: ["Circleville"]
+  },
+  {
+    id: "circleville-legend",
+    name: "The town that erased its own circle",
+    lat: 39.6006,
+    lng: -82.9460,
+    radius: 1100,
+    short: "The local legend is that Circleville is only pumpkins. It was drawn as a circle on a mound and then the streets were forced square.",
+    long: "",
+    names: ["Circleville"]
+  },
+
+  {
+    id: "approach-chillicothe-oh",
+    name: "Chillicothe",
+    lat: 39.3331,
+    lng: -82.9824,
+    radius: 6000,
+    layer: "approach",
+    short: "You are coming up on Chillicothe. First capital of Ohio. Hopewell ground. Scioto town. If you drop in, I'll start on Paint Street.",
+    long: "",
+    names: ["Chillicothe"]
+  },
+  {
+    id: "chillicothe-founding",
+    name: "Chillicothe founding",
+    lat: 39.3331,
+    lng: -82.9824,
+    radius: 1600,
+    short: "Laid out on the Scioto. The name is Shawnee for a principal town. Ohio's first capital sat here before Columbus took the job.",
+    long: "",
+    names: ["Chillicothe"]
+  },
+  {
+    id: "chillicothe-capital",
+    name: "First capital",
+    lat: 39.3331,
+    lng: -82.9824,
+    radius: 900,
+    short: "Ohio's first statehouse stood here. Statehood work happened on these streets. Then the capital moved north and Chillicothe kept the older claim.",
+    long: "",
+    names: ["Chillicothe"]
+  },
+  {
+    id: "chillicothe-mound-city",
+    name: "Mound City",
+    lat: 39.3750,
+    lng: -83.0030,
+    radius: 1200,
+    short: "Mound City. Hopewell earthworks on the Scioto. A ceremonial city of mounds before the county seat.",
+    long: "",
+    names: ["Hopewell", "Mound City"]
+  },
+  {
+    id: "chillicothe-adena",
+    name: "Adena Mansion",
+    lat: 39.3600,
+    lng: -83.0000,
+    radius: 1000,
+    short: "Adena. Thomas Worthington's hill house. A founder of the state looking down on the first capital.",
+    long: "",
+    names: ["Thomas Worthington"]
+  },
+  {
+    id: "chillicothe-scioto",
+    name: "Chillicothe and the Scioto",
+    lat: 39.3331,
+    lng: -82.9824,
+    radius: 1800,
+    short: "The Scioto is why the town is here. Canoe road, then mill, then canal. The river still cuts the civic plan.",
+    long: "",
+    names: ["Scioto"]
+  },
+  {
+    id: "chillicothe-paper",
+    name: "Chillicothe paper",
+    lat: 39.3331,
+    lng: -82.9824,
+    radius: 1500,
+    short: "Paper mills on the water. A later payroll on an older capital. The smell of the mill was part of the town for generations.",
+    long: "",
+    names: ["Chillicothe"]
+  },
+  {
+    id: "chillicothe-courthouse",
+    name: "Chillicothe courthouse",
+    lat: 39.3331,
+    lng: -82.9824,
+    radius: 700,
+    short: "Ross County Courthouse. The county still runs from the first-capital streets.",
+    long: "",
+    names: ["Ross County Courthouse"]
+  },
+  {
+    id: "chillicothe-parks",
+    name: "Chillicothe parks",
+    lat: 39.3331,
+    lng: -82.9824,
+    radius: 1600,
+    short: "Yoctangee Park, the river banks, and the later mound-park country.",
+    long: "",
+    names: ["Yoctangee Park"]
+  },
+  {
+    id: "chillicothe-people",
+    name: "Chillicothe people",
+    lat: 39.3331,
+    lng: -82.9824,
+    radius: 1500,
+    short: "Shawnee town first. Then Worthington and the state founders. Then mill families. A city that still leads with first capital.",
+    long: "",
+    names: ["Thomas Worthington"]
+  },
+  {
+    id: "chillicothe-native",
+    name: "Chillicothe Native ground",
+    lat: 39.3331,
+    lng: -82.9824,
+    radius: 2000,
+    short: "The name is Shawnee. A principal town on the Scioto. Hopewell mounds first. Then the people the state was named around.",
+    long: "",
+    names: ["Shawnee", "Hopewell"]
+  },
+  {
+    id: "chillicothe-war",
+    name: "Chillicothe war",
+    lat: 39.3331,
+    lng: -82.9824,
+    radius: 1600,
+    short: "Frontier war first. Then men left from these blocks. The older fight is the one written on the river and the mounds.",
+    long: "",
+    names: ["Chillicothe"]
+  },
+  {
+    id: "chillicothe-legend",
+    name: "The capital that kept the older name",
+    lat: 39.3331,
+    lng: -82.9824,
+    radius: 1100,
+    short: "The local legend is that Columbus was always the capital. Ohio started here, on a Shawnee name, under mounds older than the state.",
+    long: "",
+    names: ["Chillicothe"]
+  },
+
+  {
+    id: "approach-washington-ch-oh",
+    name: "Washington Court House",
+    lat: 39.5365,
+    lng: -83.4391,
+    radius: 4500,
+    layer: "approach",
+    short: "You are coming up on Washington Court House. County seat of Fayette County. A square town with a long name. If you drop in, I'll start on the court house lawn.",
+    long: "",
+    names: ["Washington Court House"]
+  },
+  {
+    id: "washington-ch-founding",
+    name: "Washington C.H. founding",
+    lat: 39.5365,
+    lng: -83.4391,
+    radius: 1400,
+    short: "Laid out as the Fayette County seat. Named for Washington and for the court that had to sit somewhere. The long name is the job.",
+    long: "",
+    names: ["Washington Court House"]
+  },
+  {
+    id: "washington-ch-courthouse",
+    name: "Fayette County Courthouse",
+    lat: 39.5365,
+    lng: -83.4391,
+    radius: 700,
+    short: "The courthouse on the square. A county seat that still works from the middle of the prairie town.",
+    long: "",
+    names: ["Fayette County Courthouse"]
+  },
+  {
+    id: "washington-ch-tornado",
+    name: "1974 tornado",
+    lat: 39.5365,
+    lng: -83.4391,
+    radius: 1400,
+    short: "The 1974 tornado cut the town. Downtown had to be rebuilt. People still date local memory from that afternoon.",
+    long: "",
+    names: ["Washington Court House"]
+  },
+  {
+    id: "washington-ch-roads",
+    name: "Washington C.H. roads",
+    lat: 39.5365,
+    lng: -83.4391,
+    radius: 1500,
+    short: "U.S. 22 and 62. Later 35. A prairie crossroads, not a river capital. The square sat on the wagon map.",
+    long: "",
+    names: ["Washington Court House"]
+  },
+  {
+    id: "washington-ch-parks",
+    name: "Washington C.H. parks",
+    lat: 39.5365,
+    lng: -83.4391,
+    radius: 1400,
+    short: "City parks and the later fairground country a county seat kept on purpose.",
+    long: "",
+    names: ["Washington Court House"]
+  },
+  {
+    id: "washington-ch-people",
+    name: "Washington C.H. people",
+    lat: 39.5365,
+    lng: -83.4391,
+    radius: 1400,
+    short: "Prairie farm families. Then the court and the later rebuild. A town that still leads with the long name.",
+    long: "",
+    names: ["Washington Court House"]
+  },
+  {
+    id: "washington-ch-native",
+    name: "Washington C.H. Native ground",
+    lat: 39.5365,
+    lng: -83.4391,
+    radius: 1800,
+    short: "Pickaway and prairie upland. Shawnee hunting ground before the square.",
+    long: "",
+    names: ["Shawnee"]
+  },
+  {
+    id: "washington-ch-war",
+    name: "Washington C.H. war",
+    lat: 39.5365,
+    lng: -83.4391,
+    radius: 1500,
+    short: "No fort on the square. Men left from these blocks. The later fight people name is the tornado, not a battlefield.",
+    long: "",
+    names: ["Washington Court House"]
+  },
+  {
+    id: "washington-ch-legend",
+    name: "The town with the whole job in the name",
+    lat: 39.5365,
+    lng: -83.4391,
+    radius: 1100,
+    short: "The local legend is that the name is too long. It is exact. This is the court house in Washington Township, and the square still says so.",
+    long: "",
+    names: ["Washington Court House"]
+  },
+
+  {
+    id: "approach-wilmington-oh",
+    name: "Wilmington",
+    lat: 39.4453,
+    lng: -83.8285,
+    radius: 4500,
+    layer: "approach",
+    short: "You are coming up on Wilmington. County seat of Clinton County. Quaker town. College. Air park. If you drop in, I'll start on Main.",
+    long: "",
+    names: ["Wilmington"]
+  },
+  {
+    id: "wilmington-founding",
+    name: "Wilmington founding",
+    lat: 39.4453,
+    lng: -83.8285,
+    radius: 1400,
+    short: "Laid out as the Clinton County seat. Quaker families helped set the tone. A prairie town with a meetinghouse mind.",
+    long: "",
+    names: ["Wilmington"]
+  },
+  {
+    id: "wilmington-college",
+    name: "Wilmington College",
+    lat: 39.4453,
+    lng: -83.8285,
+    radius: 800,
+    short: "Wilmington College. Quaker campus in the county seat. A small school that still sits in the middle of the town.",
+    long: "",
+    names: ["Wilmington College"]
+  },
+  {
+    id: "wilmington-airpark",
+    name: "Wilmington Air Park",
+    lat: 39.4279,
+    lng: -83.7921,
+    radius: 1600,
+    short: "The air park. A huge runway on prairie ground. Cargo, the later quiet, and a county seat that also became an airport town.",
+    long: "",
+    names: ["Wilmington Air Park"]
+  },
+  {
+    id: "wilmington-courthouse",
+    name: "Clinton County Courthouse",
+    lat: 39.4453,
+    lng: -83.8285,
+    radius: 700,
+    short: "Clinton County Courthouse. The county still runs from the Quaker square.",
+    long: "",
+    names: ["Clinton County Courthouse"]
+  },
+  {
+    id: "wilmington-parks",
+    name: "Wilmington parks",
+    lat: 39.4453,
+    lng: -83.8285,
+    radius: 1400,
+    short: "City parks, the campus greens, and the later trail bits a county seat funded on purpose.",
+    long: "",
+    names: ["Wilmington"]
+  },
+  {
+    id: "wilmington-people",
+    name: "Wilmington people",
+    lat: 39.4453,
+    lng: -83.8285,
+    radius: 1400,
+    short: "Quaker families, campus people, later cargo crews. A town that still leads with a college and a runway.",
+    long: "",
+    names: ["Wilmington"]
+  },
+  {
+    id: "wilmington-native",
+    name: "Wilmington Native ground",
+    lat: 39.4453,
+    lng: -83.8285,
+    radius: 1800,
+    short: "Prairie upland. Shawnee hunting ground before the meetinghouse lots.",
+    long: "",
+    names: ["Shawnee"]
+  },
+  {
+    id: "wilmington-war",
+    name: "Wilmington war",
+    lat: 39.4453,
+    lng: -83.8285,
+    radius: 1500,
+    short: "No fort on Main. Men left from these blocks. The later runway is the war story people still see from the road.",
+    long: "",
+    names: ["Wilmington"]
+  },
+  {
+    id: "wilmington-legend",
+    name: "The Quaker town with a giant runway",
+    lat: 39.4453,
+    lng: -83.8285,
+    radius: 1100,
+    short: "The local legend is that Wilmington is only a quiet county seat. It kept a Quaker college and then paved one of the biggest runways in the region.",
+    long: "",
+    names: ["Wilmington College"]
+  },
+
+  {
+    id: "approach-xenia-oh",
+    name: "Xenia",
+    lat: 39.6848,
+    lng: -83.9296,
+    radius: 5000,
+    layer: "approach",
+    short: "You are coming up on Xenia. County seat of Greene County. Greek name. 1974 tornado. If you drop in, I'll start on Main.",
+    long: "",
+    names: ["Xenia"]
+  },
+  {
+    id: "xenia-founding",
+    name: "Xenia founding",
+    lat: 39.6848,
+    lng: -83.9296,
+    radius: 1500,
+    short: "Laid out as the Greene County seat. Named Xenia, hospitality in Greek. A prairie town that wanted a classical name.",
+    long: "",
+    names: ["Xenia"]
+  },
+  {
+    id: "xenia-tornado",
+    name: "1974 Xenia tornado",
+    lat: 39.6848,
+    lng: -83.9296,
+    radius: 1600,
+    short: "The 1974 tornado cut the city. Downtown, schools, whole streets. Xenia rebuilt and still dates local memory from that afternoon.",
+    long: "",
+    names: ["Xenia"]
+  },
+  {
+    id: "xenia-courthouse",
+    name: "Greene County Courthouse",
+    lat: 39.6848,
+    lng: -83.9296,
+    radius: 700,
+    short: "Greene County Courthouse. The county still runs from the square the wind tried to take.",
+    long: "",
+    names: ["Greene County Courthouse"]
+  },
+  {
+    id: "xenia-rail",
+    name: "Xenia railroads",
+    lat: 39.6848,
+    lng: -83.9296,
+    radius: 1500,
+    short: "A railroad town. Multiple lines crossed here. The later bike trails sit on those grades.",
+    long: "",
+    names: ["Xenia"]
+  },
+  {
+    id: "xenia-urr",
+    name: "Xenia Underground Railroad",
+    lat: 39.6848,
+    lng: -83.9296,
+    radius: 1400,
+    short: "Greene County was Underground Railroad country. Free families and hidden rooms. Xenia sat on that road north.",
+    long: "",
+    names: ["Xenia"]
+  },
+  {
+    id: "xenia-parks",
+    name: "Xenia parks",
+    lat: 39.6848,
+    lng: -83.9296,
+    radius: 1500,
+    short: "City parks and the trail hub. A county seat that turned old rails into public ground.",
+    long: "",
+    names: ["Xenia"]
+  },
+  {
+    id: "xenia-people",
+    name: "Xenia people",
+    lat: 39.6848,
+    lng: -83.9296,
+    radius: 1400,
+    short: "Prairie families, rail men, then the people who rebuilt after the wind. A city that still leads with hospitality and survival.",
+    long: "",
+    names: ["Xenia"]
+  },
+  {
+    id: "xenia-native",
+    name: "Xenia Native ground",
+    lat: 39.6848,
+    lng: -83.9296,
+    radius: 1800,
+    short: "Little Miami upland. Shawnee hunting ground before the Greek name.",
+    long: "",
+    names: ["Shawnee"]
+  },
+  {
+    id: "xenia-war",
+    name: "Xenia war",
+    lat: 39.6848,
+    lng: -83.9296,
+    radius: 1500,
+    short: "No standing fort on Main. Men left from these blocks. The fight people still name is the tornado.",
+    long: "",
+    names: ["Xenia"]
+  },
+  {
+    id: "xenia-legend",
+    name: "The hospitable town the wind tried to erase",
+    lat: 39.6848,
+    lng: -83.9296,
+    radius: 1100,
+    short: "The local legend is that Xenia is only the tornado. The name means hospitality. The town put that word on a prairie square and then refused to leave it.",
+    long: "",
+    names: ["Xenia"]
+  },
+
+  {
+    id: "approach-fairborn-oh",
+    name: "Fairborn",
+    lat: 39.8209,
+    lng: -84.0194,
+    radius: 4500,
+    layer: "approach",
+    short: "You are coming up on Fairborn. Next to Wright-Patt. Two towns merged after a flood. If you drop in, I'll start on Broad.",
+    long: "",
+    names: ["Fairborn"]
+  },
+  {
+    id: "fairborn-founding",
+    name: "Fairborn founding",
+    lat: 39.8209,
+    lng: -84.0194,
+    radius: 1400,
+    short: "Fairfield plus Osborn. After the 1913 flood Osborn moved. The two names became one town beside the field.",
+    long: "",
+    names: ["Fairborn"]
+  },
+  {
+    id: "fairborn-wrightpatt",
+    name: "Wright-Patterson gate town",
+    lat: 39.8209,
+    lng: -84.0194,
+    radius: 1600,
+    short: "Wright-Patterson Air Force Base sits next door. Fairborn is the gate town. Paychecks, hangars, and a city that lives with the field.",
+    long: "",
+    names: ["Wright-Patterson"]
+  },
+  {
+    id: "fairborn-flood",
+    name: "Osborn flood move",
+    lat: 39.8209,
+    lng: -84.0194,
+    radius: 1400,
+    short: "The 1913 flood wrecked Osborn. They picked up the town and moved it. Fairborn is what you get when a village refuses to drown twice.",
+    long: "",
+    names: ["Osborn"]
+  },
+  {
+    id: "fairborn-parks",
+    name: "Fairborn parks",
+    lat: 39.8209,
+    lng: -84.0194,
+    radius: 1400,
+    short: "City parks and the later trail bits a base town funded on purpose.",
+    long: "",
+    names: ["Fairborn"]
+  },
+  {
+    id: "fairborn-people",
+    name: "Fairborn people",
+    lat: 39.8209,
+    lng: -84.0194,
+    radius: 1400,
+    short: "Two village families first. Then airmen and civilian crews. A city that still leads with a merged name and a runway.",
+    long: "",
+    names: ["Fairborn"]
+  },
+  {
+    id: "fairborn-native",
+    name: "Fairborn Native ground",
+    lat: 39.8209,
+    lng: -84.0194,
+    radius: 1800,
+    short: "Mad River upland. Shawnee hunting ground before the two plats.",
+    long: "",
+    names: ["Shawnee"]
+  },
+  {
+    id: "fairborn-war",
+    name: "Fairborn war",
+    lat: 39.8209,
+    lng: -84.0194,
+    radius: 1600,
+    short: "The field is the war story. Wright and Patterson, then the later Air Force. Fairborn grew because the planes did.",
+    long: "",
+    names: ["Wright-Patterson"]
+  },
+  {
+    id: "fairborn-legend",
+    name: "The town that moved and then merged",
+    lat: 39.8209,
+    lng: -84.0194,
+    radius: 1100,
+    short: "The local legend is that Fairborn is only base housing. It is two drowned and moved names stitched together beside the field.",
+    long: "",
+    names: ["Fairborn"]
+  },
+
+  {
+    id: "approach-beavercreek-oh",
+    name: "Beavercreek",
+    lat: 39.7092,
+    lng: -84.0633,
+    radius: 4500,
+    layer: "approach",
+    short: "You are coming up on Beavercreek. East of Dayton. Township that became a city. If you drop in, I'll start on North Fairfield.",
+    long: "",
+    names: ["Beavercreek"]
+  },
+  {
+    id: "beavercreek-founding",
+    name: "Beavercreek founding",
+    lat: 39.7092,
+    lng: -84.0633,
+    radius: 1400,
+    short: "Named for Beaver Creek. A township first. Then a city when Dayton's east side filled in.",
+    long: "",
+    names: ["Beavercreek"]
+  },
+  {
+    id: "beavercreek-creek",
+    name: "Beaver Creek",
+    lat: 39.7092,
+    lng: -84.0633,
+    radius: 1500,
+    short: "The creek is the name. Mill water, then farm water, then a suburban city still carrying a stream in the title.",
+    long: "",
+    names: ["Beaver Creek"]
+  },
+  {
+    id: "beavercreek-mall",
+    name: "The Greene and the east-side map",
+    lat: 39.7092,
+    lng: -84.0633,
+    radius: 1400,
+    short: "Later retail and office parks. A township that became a commercial east gate to Dayton.",
+    long: "",
+    names: ["Beavercreek"]
+  },
+  {
+    id: "beavercreek-parks",
+    name: "Beavercreek parks",
+    lat: 39.7092,
+    lng: -84.0633,
+    radius: 1400,
+    short: "City parks and the later trail bits a growing suburb funded on purpose.",
+    long: "",
+    names: ["Beavercreek"]
+  },
+  {
+    id: "beavercreek-people",
+    name: "Beavercreek people",
+    lat: 39.7092,
+    lng: -84.0633,
+    radius: 1400,
+    short: "Farm families first. Then the east Dayton commute and the field crowd. A city that still leads with a creek.",
+    long: "",
+    names: ["Beavercreek"]
+  },
+  {
+    id: "beavercreek-native",
+    name: "Beavercreek Native ground",
+    lat: 39.7092,
+    lng: -84.0633,
+    radius: 1800,
+    short: "Little Miami upland. Shawnee hunting ground before the township lines.",
+    long: "",
+    names: ["Shawnee"]
+  },
+  {
+    id: "beavercreek-war",
+    name: "Beavercreek war",
+    lat: 39.7092,
+    lng: -84.0633,
+    radius: 1500,
+    short: "No fort on Fairfield. Men left from these farms. The later story is Wright-Patt next door.",
+    long: "",
+    names: ["Wright-Patterson"]
+  },
+  {
+    id: "beavercreek-legend",
+    name: "The township that kept the creek in the name",
+    lat: 39.7092,
+    lng: -84.0633,
+    radius: 1100,
+    short: "The local legend is that Beavercreek is only new streets. The name is a stream. The city is what happened when the farms filled in.",
+    long: "",
+    names: ["Beavercreek"]
+  },
+
+  {
+    id: "approach-kettering-oh",
+    name: "Kettering",
+    lat: 39.6895,
+    lng: -84.1688,
+    radius: 4500,
+    layer: "approach",
+    short: "You are coming up on Kettering. South of Dayton. Named for the inventor. Delco town. If you drop in, I'll start on Far Hills.",
+    long: "",
+    names: ["Kettering"]
+  },
+  {
+    id: "kettering-founding",
+    name: "Kettering founding",
+    lat: 39.6895,
+    lng: -84.1688,
+    radius: 1400,
+    short: "Van Buren Township first. Then a city named for Charles Kettering. A suburb that put an inventor on the letterhead.",
+    long: "",
+    names: ["Charles Kettering"]
+  },
+  {
+    id: "kettering-inventor",
+    name: "Charles F. Kettering",
+    lat: 39.6895,
+    lng: -84.1688,
+    radius: 1400,
+    short: "Charles Kettering. Electric starter, Delco, later research. Dayton invention lived south of the river too.",
+    long: "",
+    names: ["Charles Kettering"]
+  },
+  {
+    id: "kettering-delco",
+    name: "Delco and the south hills",
+    lat: 39.6895,
+    lng: -84.1688,
+    radius: 1400,
+    short: "Delco paychecks and the later labs. A hillside city that grew because Dayton invention needed room.",
+    long: "",
+    names: ["Delco"]
+  },
+  {
+    id: "kettering-parks",
+    name: "Kettering parks",
+    lat: 39.6895,
+    lng: -84.1688,
+    radius: 1400,
+    short: "Hills and city parks. Fraze Pavilion later. A suburb that kept greens on purpose.",
+    long: "",
+    names: ["Kettering"]
+  },
+  {
+    id: "kettering-people",
+    name: "Kettering people",
+    lat: 39.6895,
+    lng: -84.1688,
+    radius: 1400,
+    short: "Township families first. Then engineers and the south Dayton commute. A city that still leads with a last name.",
+    long: "",
+    names: ["Charles Kettering"]
+  },
+  {
+    id: "kettering-native",
+    name: "Kettering Native ground",
+    lat: 39.6895,
+    lng: -84.1688,
+    radius: 1800,
+    short: "Great Miami upland. Shawnee hunting ground before the township lots.",
+    long: "",
+    names: ["Shawnee"]
+  },
+  {
+    id: "kettering-war",
+    name: "Kettering war",
+    lat: 39.6895,
+    lng: -84.1688,
+    radius: 1500,
+    short: "No fort on Far Hills. Men left from these blocks. The later story is the lab, not a battlefield.",
+    long: "",
+    names: ["Kettering"]
+  },
+  {
+    id: "kettering-legend",
+    name: "The suburb named for a starter motor",
+    lat: 39.6895,
+    lng: -84.1688,
+    radius: 1100,
+    short: "The local legend is that Kettering is only south Dayton housing. It is named for the man who made a car start without a crank.",
+    long: "",
+    names: ["Charles Kettering"]
+  },
+
+  {
+    id: "approach-centerville-oh",
+    name: "Centerville",
+    lat: 39.6284,
+    lng: -84.1594,
+    radius: 4000,
+    layer: "approach",
+    short: "You are coming up on Centerville. South of Dayton. Stone town. Old Stagecoach Stop. If you drop in, I'll start on Main.",
+    long: "",
+    names: ["Centerville"]
+  },
+  {
+    id: "centerville-founding",
+    name: "Centerville founding",
+    lat: 39.6284,
+    lng: -84.1594,
+    radius: 1300,
+    short: "Laid out as a stage town on the road south of Dayton. Named because it sat in the middle of the township map.",
+    long: "",
+    names: ["Centerville"]
+  },
+  {
+    id: "centerville-stone",
+    name: "Centerville stone buildings",
+    lat: 39.6284,
+    lng: -84.1594,
+    radius: 800,
+    short: "Local limestone. A downtown of stone houses and shops. A village that built like it expected to stay.",
+    long: "",
+    names: ["Centerville"]
+  },
+  {
+    id: "centerville-stage",
+    name: "Stagecoach Stop",
+    lat: 39.6284,
+    lng: -84.1594,
+    radius: 800,
+    short: "The old Stagecoach Stop. A tavern and inn on the Dayton-Lebanon road. The village is still organized around that corner.",
+    long: "",
+    names: ["Centerville"]
+  },
+  {
+    id: "centerville-parks",
+    name: "Centerville parks",
+    lat: 39.6284,
+    lng: -84.1594,
+    radius: 1400,
+    short: "City parks and the later trail bits a south-side suburb funded on purpose.",
+    long: "",
+    names: ["Centerville"]
+  },
+  {
+    id: "centerville-people",
+    name: "Centerville people",
+    lat: 39.6284,
+    lng: -84.1594,
+    radius: 1300,
+    short: "Stage families first. Then the south Dayton commute. A town that still leads with stone and an inn.",
+    long: "",
+    names: ["Centerville"]
+  },
+  {
+    id: "centerville-native",
+    name: "Centerville Native ground",
+    lat: 39.6284,
+    lng: -84.1594,
+    radius: 1700,
+    short: "Great Miami upland. Shawnee hunting ground before the stage lots.",
+    long: "",
+    names: ["Shawnee"]
+  },
+  {
+    id: "centerville-war",
+    name: "Centerville war",
+    lat: 39.6284,
+    lng: -84.1594,
+    radius: 1400,
+    short: "No fort on Main. Men left from these farms. The later story is the suburb, not a battlefield.",
+    long: "",
+    names: ["Centerville"]
+  },
+  {
+    id: "centerville-legend",
+    name: "The stone village in the middle of the map",
+    lat: 39.6284,
+    lng: -84.1594,
+    radius: 1000,
+    short: "The local legend is that Centerville is only new streets. The name is a stage stop built of local rock in the center of the township.",
+    long: "",
+    names: ["Centerville"]
+  },
+
+  {
+    id: "approach-miamisburg-oh",
+    name: "Miamisburg",
+    lat: 39.6428,
+    lng: -84.2866,
+    radius: 4500,
+    layer: "approach",
+    short: "You are coming up on Miamisburg. Great Miami town. Huge mound. Paper and later the plant. If you drop in, I'll start on Main.",
+    long: "",
+    names: ["Miamisburg"]
+  },
+  {
+    id: "miamisburg-founding",
+    name: "Miamisburg founding",
+    lat: 39.6428,
+    lng: -84.2866,
+    radius: 1400,
+    short: "Laid out on the Great Miami. Named for the river people and the burg on the bank. A mill town under a mound.",
+    long: "",
+    names: ["Miamisburg"]
+  },
+  {
+    id: "miamisburg-mound",
+    name: "Miamisburg Mound",
+    lat: 39.6275,
+    lng: -84.2806,
+    radius: 900,
+    short: "Miamisburg Mound. One of the largest conical burial mounds in the eastern United States. Adena. It still sits over the town.",
+    long: "",
+    names: ["Adena", "Miamisburg Mound"]
+  },
+  {
+    id: "miamisburg-river",
+    name: "Miamisburg and the Great Miami",
+    lat: 39.6428,
+    lng: -84.2866,
+    radius: 1600,
+    short: "The Great Miami is why the town is here. Canoe road, then mill, then the later highway on the same terrace.",
+    long: "",
+    names: ["Great Miami"]
+  },
+  {
+    id: "miamisburg-paper",
+    name: "Miamisburg paper",
+    lat: 39.6428,
+    lng: -84.2866,
+    radius: 1400,
+    short: "Paper and later industry on the water. A payroll town under an older mound.",
+    long: "",
+    names: ["Miamisburg"]
+  },
+  {
+    id: "miamisburg-parks",
+    name: "Miamisburg parks",
+    lat: 39.6428,
+    lng: -84.2866,
+    radius: 1400,
+    short: "River parks, the mound park, and the later trail bits a river town funded on purpose.",
+    long: "",
+    names: ["Miamisburg"]
+  },
+  {
+    id: "miamisburg-people",
+    name: "Miamisburg people",
+    lat: 39.6428,
+    lng: -84.2866,
+    radius: 1400,
+    short: "River families, mill people, later plant crews. A city that still leads with a mound.",
+    long: "",
+    names: ["Miamisburg"]
+  },
+  {
+    id: "miamisburg-native",
+    name: "Miamisburg Native ground",
+    lat: 39.6428,
+    lng: -84.2866,
+    radius: 1800,
+    short: "The mound is the point. Adena first. Then Miami and Shawnee river country.",
+    long: "",
+    names: ["Adena", "Miami", "Shawnee"]
+  },
+  {
+    id: "miamisburg-war",
+    name: "Miamisburg war",
+    lat: 39.6428,
+    lng: -84.2866,
+    radius: 1500,
+    short: "No standing fort on Main. Men left from these blocks. The older monument is the mound, not a battery.",
+    long: "",
+    names: ["Miamisburg"]
+  },
+  {
+    id: "miamisburg-legend",
+    name: "The factory town under a mountain of earth",
+    lat: 39.6428,
+    lng: -84.2866,
+    radius: 1100,
+    short: "The local legend is that Miamisburg is only a south Dayton suburb. A two-thousand-year-old mound still sits over the river streets.",
+    long: "",
+    names: ["Miamisburg Mound"]
+  },
+
+  {
+    id: "approach-xenia-oh",
+    name: "Xenia",
+    lat: 39.6848,
+    lng: -83.9296,
+    radius: 5000,
+    layer: "approach",
+    short: "You are coming up on Xenia. County seat of Greene County. Greek name. 1974 tornado. If you drop in, I'll start on Main.",
+    long: "",
+    names: ["Xenia"]
+  },
+  {
+    id: "xenia-founding",
+    name: "Xenia founding",
+    lat: 39.6848,
+    lng: -83.9296,
+    radius: 1500,
+    short: "Laid out as the Greene County seat. Named Xenia, hospitality in Greek. A prairie town that wanted a classical name.",
+    long: "",
+    names: ["Xenia"]
+  },
+  {
+    id: "xenia-tornado",
+    name: "1974 Xenia tornado",
+    lat: 39.6848,
+    lng: -83.9296,
+    radius: 1600,
+    short: "The 1974 tornado cut the city. Downtown, schools, whole streets. Xenia rebuilt and still dates local memory from that afternoon.",
+    long: "",
+    names: ["Xenia"]
+  },
+  {
+    id: "xenia-courthouse",
+    name: "Greene County Courthouse",
+    lat: 39.6848,
+    lng: -83.9296,
+    radius: 700,
+    short: "Greene County Courthouse. The county still runs from the square the wind tried to take.",
+    long: "",
+    names: ["Greene County Courthouse"]
+  },
+  {
+    id: "xenia-rail",
+    name: "Xenia railroads",
+    lat: 39.6848,
+    lng: -83.9296,
+    radius: 1500,
+    short: "A railroad town. Multiple lines crossed here. The later bike trails sit on those grades.",
+    long: "",
+    names: ["Xenia"]
+  },
+  {
+    id: "xenia-urr",
+    name: "Xenia Underground Railroad",
+    lat: 39.6848,
+    lng: -83.9296,
+    radius: 1400,
+    short: "Greene County was Underground Railroad country. Free families and hidden rooms. Xenia sat on that road north.",
+    long: "",
+    names: ["Xenia"]
+  },
+  {
+    id: "xenia-parks",
+    name: "Xenia parks",
+    lat: 39.6848,
+    lng: -83.9296,
+    radius: 1500,
+    short: "City parks and the trail hub. A county seat that turned old rails into public ground.",
+    long: "",
+    names: ["Xenia"]
+  },
+  {
+    id: "xenia-people",
+    name: "Xenia people",
+    lat: 39.6848,
+    lng: -83.9296,
+    radius: 1400,
+    short: "Prairie families, rail men, then the people who rebuilt after the wind. A city that still leads with hospitality and survival.",
+    long: "",
+    names: ["Xenia"]
+  },
+  {
+    id: "xenia-native",
+    name: "Xenia Native ground",
+    lat: 39.6848,
+    lng: -83.9296,
+    radius: 1800,
+    short: "Little Miami upland. Shawnee hunting ground before the Greek name.",
+    long: "",
+    names: ["Shawnee"]
+  },
+  {
+    id: "xenia-war",
+    name: "Xenia war",
+    lat: 39.6848,
+    lng: -83.9296,
+    radius: 1500,
+    short: "No standing fort on Main. Men left from these blocks. The fight people still name is the tornado.",
+    long: "",
+    names: ["Xenia"]
+  },
+  {
+    id: "xenia-legend",
+    name: "The hospitable town the wind tried to erase",
+    lat: 39.6848,
+    lng: -83.9296,
+    radius: 1100,
+    short: "The local legend is that Xenia is only the tornado. The name means hospitality. The town put that word on a prairie square and then refused to leave it.",
+    long: "",
+    names: ["Xenia"]
+  },
+  
   ];
 

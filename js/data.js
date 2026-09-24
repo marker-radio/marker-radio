@@ -15600,6 +15600,1676 @@ const STORIES = [
     long: "",
     names: ["James A. Garfield"]
   },
+ {
+    id: "approach-shaker-heights",
+    name: "Shaker Heights",
+    lat: 41.4739,
+    lng: -81.5370,
+    radius: 5000,
+    layer: "approach",
+    short: "You are coming up on Shaker Heights. Van Sweringen planned city on old Shaker land. Rapid to downtown. If you drop into town, I'll start at the circle.",
+    long: "",
+    names: ["Shaker Heights"]
+  },
+  {
+    id: "shaker-founding",
+    name: "Shaker Heights founding",
+    lat: 41.4739,
+    lng: -81.5370,
+    radius: 1200,
+    short: "North Union Shakers farmed this ground first. Oris and Mantis Van Sweringen bought the land and platted a garden city with a rail line attached. The name is the sect. The streets are the brothers.",
+    long: "",
+    names: ["Van Sweringen", "North Union Shakers"]
+  },
+  {
+    id: "shaker-rapid",
+    name: "Shaker Rapid",
+    lat: 41.4739,
+    lng: -81.5370,
+    radius: 1400,
+    short: "The Rapid was not an afterthought. The Van Sweringens built the suburb and the train together so downtown was a ride, not a wagon. Shaker Square is the station as town center.",
+    long: "",
+    names: ["Shaker Rapid"]
+  },
+  {
+    id: "shaker-parks",
+    name: "Shaker Lakes",
+    lat: 41.4840,
+    lng: -81.5570,
+    radius: 900,
+    short: "The Shakers dammed Doan Brook for mills. The lakes stayed when the believers left. A planned city that kept someone else's ponds.",
+    long: "",
+    names: ["Shaker Lakes", "Doan Brook"]
+  },
+  {
+    id: "shaker-people",
+    name: "Shaker Heights people",
+    lat: 41.4739,
+    lng: -81.5370,
+    radius: 1400,
+    short: "Restricted lots at first. Then a city that had to grow up. Schools and the Rapid became the civic religion after the brothers' empire cracked.",
+    long: "",
+    names: ["Shaker Heights"]
+  },
+  {
+    id: "shaker-native",
+    name: "Shaker Heights Native ground",
+    lat: 41.4739,
+    lng: -81.5370,
+    radius: 1600,
+    short: "Doan Brook toward the lake. Same Native east-side ground as Cleveland Heights. The Shakers were already the second people here.",
+    long: "",
+    names: ["Doan Brook"]
+  },
+  {
+    id: "shaker-war",
+    name: "Shaker Heights war",
+    lat: 41.4739,
+    lng: -81.5370,
+    radius: 1400,
+    short: "No fort. The Van Sweringen Terminal Tower downtown is the later monument. Men left from this hill like any other suburb.",
+    long: "",
+    names: ["Van Sweringen"]
+  },
+  {
+    id: "shaker-legend",
+    name: "Shaker legend",
+    lat: 41.4739,
+    lng: -81.5370,
+    radius: 1000,
+    short: "The legend is perfection on a drawing board. Curved streets, a train, a lake. The Shakers wanted heaven. The brothers wanted a market. The map still shows both.",
+    long: "",
+    names: ["Shaker Heights"]
+  },
+
+  {
+    id: "approach-cleveland-heights",
+    name: "Cleveland Heights",
+    lat: 41.5200,
+    lng: -81.5562,
+    radius: 5000,
+    layer: "approach",
+    short: "You are coming up on Cleveland Heights. Streetcar suburb on the lake-plain ridge. Coventry. Forest Hill. If you drop into town, I'll start at Cedar Fairmount.",
+    long: "",
+    names: ["Cleveland Heights"]
+  },
+  {
+    id: "cle-hts-founding",
+    name: "Cleveland Heights founding",
+    lat: 41.5200,
+    lng: -81.5562,
+    radius: 1200,
+    short: "East Cleveland Township high ground. Became a city when the streetcars climbed the hill. A suburb named for the view back toward the port.",
+    long: "",
+    names: ["Cleveland Heights"]
+  },
+  {
+    id: "cle-hts-forest-hill",
+    name: "Forest Hill",
+    lat: 41.5200,
+    lng: -81.5562,
+    radius: 900,
+    short: "John D. Rockefeller's Forest Hill estate sat on this ridge. Summer house, then a failed allotment, then a park. Standard Oil money on a Heights lawn.",
+    long: "",
+    names: ["John D. Rockefeller", "Forest Hill"]
+  },
+  {
+    id: "cle-hts-coventry",
+    name: "Coventry Village",
+    lat: 41.5085,
+    lng: -81.5800,
+    radius: 500,
+    short: "Coventry is the Heights main street that refused to be only quiet. Streetcar commercial strip. Later a night corner. The hill's living room.",
+    long: "",
+    names: ["Coventry"]
+  },
+  {
+    id: "cle-hts-parks",
+    name: "Cain Park",
+    lat: 41.5110,
+    lng: -81.5640,
+    radius: 600,
+    short: "Cain Park. A ravine made into a civic theater. The Heights put a stage in a gully and kept it.",
+    long: "",
+    names: ["Cain Park"]
+  },
+  {
+    id: "cle-hts-native",
+    name: "Cleveland Heights Native ground",
+    lat: 41.5200,
+    lng: -81.5562,
+    radius: 1600,
+    short: "Doan Brook and the lake-plain ridge. Same Native east-side ground as Shaker. The streetcars followed a climb people already used.",
+    long: "",
+    names: ["Doan Brook"]
+  },
+  {
+    id: "cle-hts-war",
+    name: "Cleveland Heights war",
+    lat: 41.5200,
+    lng: -81.5562,
+    radius: 1400,
+    short: "No fort. Men left from this hill in both world wars. The memorials sit on the civic lawns the streetcar town built.",
+    long: "",
+    names: ["Cleveland Heights"]
+  },
+  {
+    id: "cle-hts-legend",
+    name: "Heights legend",
+    lat: 41.5200,
+    lng: -81.5562,
+    radius: 1000,
+    short: "The legend is altitude. Live above the smoke and ride down to work. Rockefeller tried it. The streetcars made it ordinary.",
+    long: "",
+    names: ["Cleveland Heights"]
+  },
+
+  {
+    id: "approach-east-cleveland",
+    name: "East Cleveland",
+    lat: 41.5331,
+    lng: -81.5790,
+    radius: 5000,
+    layer: "approach",
+    short: "You are coming up on East Cleveland. First-ring city on Euclid Avenue. Forest Hill on the ridge. If you drop into town, I'll start on Euclid.",
+    long: "",
+    names: ["East Cleveland"]
+  },
+  {
+    id: "east-cle-founding",
+    name: "East Cleveland founding",
+    lat: 41.5331,
+    lng: -81.5790,
+    radius: 1200,
+    short: "A township that became a city on the road out of Cleveland. Euclid Avenue was the spine. One of the first suburbs that was already a city.",
+    long: "",
+    names: ["Euclid Avenue"]
+  },
+  {
+    id: "east-cle-euclid",
+    name: "East Cleveland Euclid Avenue",
+    lat: 41.5331,
+    lng: -81.5790,
+    radius: 1400,
+    short: "Euclid Avenue here is the same Millionaires' Row that started downtown. Streetcars, then cars. The avenue is the industry.",
+    long: "",
+    names: ["Euclid Avenue"]
+  },
+  {
+    id: "east-cle-forest-hill",
+    name: "Forest Hill East Cleveland",
+    lat: 41.5331,
+    lng: -81.5790,
+    radius: 800,
+    short: "Rockefeller's Forest Hill spilled into this city too. The park is the leftover estate. Oil money on a ridge that two suburbs share.",
+    long: "",
+    names: ["Forest Hill", "John D. Rockefeller"]
+  },
+  {
+    id: "east-cle-parks",
+    name: "East Cleveland parks",
+    lat: 41.5331,
+    lng: -81.5790,
+    radius: 1400,
+    short: "Forest Hill Park and the Euclid greens. A small city with a rich man's leftover woods.",
+    long: "",
+    names: ["Forest Hill Park"]
+  },
+  {
+    id: "east-cle-native",
+    name: "East Cleveland Native ground",
+    lat: 41.5331,
+    lng: -81.5790,
+    radius: 1600,
+    short: "Doan Brook and the lake-plain ridge. Same Native east-side ground as the Heights. Euclid followed a trail.",
+    long: "",
+    names: ["Doan Brook"]
+  },
+  {
+    id: "east-cle-war",
+    name: "East Cleveland war",
+    lat: 41.5331,
+    lng: -81.5790,
+    radius: 1400,
+    short: "No fort. Men left from this first-ring city in both world wars. The memorials sit on the avenue.",
+    long: "",
+    names: ["East Cleveland"]
+  },
+  {
+    id: "east-cle-legend",
+    name: "East Cleveland legend",
+    lat: 41.5331,
+    lng: -81.5790,
+    radius: 1000,
+    short: "The legend is the avenue. This was the fine road out of town. The ridge still holds the park the oil man left.",
+    long: "",
+    names: ["Euclid Avenue"]
+  },
+
+  {
+    id: "approach-university-heights",
+    name: "University Heights",
+    lat: 41.4978,
+    lng: -81.5373,
+    radius: 4000,
+    layer: "approach",
+    short: "You are coming up on University Heights. John Carroll on the hill. A city named for a campus. If you drop into town, I'll start at the circle.",
+    long: "",
+    names: ["University Heights"]
+  },
+  {
+    id: "univ-hts-founding",
+    name: "University Heights founding",
+    lat: 41.4978,
+    lng: -81.5373,
+    radius: 1200,
+    short: "Idlewood first. Then University Heights when John Carroll moved east. A village that named itself for the school it wanted.",
+    long: "",
+    names: ["Idlewood"]
+  },
+  {
+    id: "univ-hts-carroll",
+    name: "John Carroll University",
+    lat: 41.4875,
+    lng: -81.5320,
+    radius: 600,
+    short: "John Carroll came to this hill in the 1920s. Jesuit campus. The city grew around the quadrangle. Fairmount Circle is the front door.",
+    long: "",
+    names: ["John Carroll"]
+  },
+  {
+    id: "univ-hts-parks",
+    name: "University Heights parks",
+    lat: 41.4978,
+    lng: -81.5373,
+    radius: 1200,
+    short: "The campus lawns do most of the park work. Purvis Park on the civic side. A small city with a big quad.",
+    long: "",
+    names: ["Purvis Park"]
+  },
+  {
+    id: "univ-hts-people",
+    name: "University Heights people",
+    lat: 41.4978,
+    lng: -81.5373,
+    radius: 1400,
+    short: "Faculty, students, and east-side families. A town whose largest employer is also its namesake.",
+    long: "",
+    names: ["John Carroll"]
+  },
+  {
+    id: "univ-hts-native",
+    name: "University Heights Native ground",
+    lat: 41.4978,
+    lng: -81.5373,
+    radius: 1600,
+    short: "Same Doan Brook ridge as Cleveland Heights and Shaker. The circle sits on a climb that was already a path.",
+    long: "",
+    names: ["Doan Brook"]
+  },
+  {
+    id: "univ-hts-war",
+    name: "University Heights war",
+    lat: 41.4978,
+    lng: -81.5373,
+    radius: 1400,
+    short: "No fort. Carroll men left from this hill in the world wars. The memorials are on campus and at city hall.",
+    long: "",
+    names: ["John Carroll"]
+  },
+  {
+    id: "univ-hts-legend",
+    name: "Named for the school",
+    lat: 41.4978,
+    lng: -81.5373,
+    radius: 800,
+    short: "The legend is honest branding. They called the city University Heights because that is what they were building. The sign still tells the truth.",
+    long: "",
+    names: ["University Heights"]
+  },
+
+  {
+    id: "approach-south-euclid",
+    name: "South Euclid",
+    lat: 41.5231,
+    lng: -81.5185,
+    radius: 5000,
+    layer: "approach",
+    short: "You are coming up on South Euclid. Named for the avenue, not the mathematician. East-side ridge town. If you drop into town, I'll start on Mayfield.",
+    long: "",
+    names: ["South Euclid"]
+  },
+  {
+    id: "south-euclid-founding",
+    name: "South Euclid founding",
+    lat: 41.5231,
+    lng: -81.5185,
+    radius: 1200,
+    short: "Split from Euclid Township when the south end wanted its own hall. Farms on the ridge. A city when Cleveland's east side arrived.",
+    long: "",
+    names: ["Euclid Township"]
+  },
+  {
+    id: "south-euclid-roads",
+    name: "South Euclid roads",
+    lat: 41.5231,
+    lng: -81.5185,
+    radius: 1400,
+    short: "Mayfield and Green are the working roads. No mill river through the center. A township grid that became a suburb.",
+    long: "",
+    names: ["Mayfield Road"]
+  },
+  {
+    id: "south-euclid-parks",
+    name: "South Euclid parks",
+    lat: 41.5231,
+    lng: -81.5185,
+    radius: 1400,
+    short: "Bexley Park and the civic greens. A ridge town that kept lots of lawn on purpose.",
+    long: "",
+    names: ["Bexley Park"]
+  },
+  {
+    id: "south-euclid-people",
+    name: "South Euclid people",
+    lat: 41.5231,
+    lng: -81.5185,
+    radius: 1400,
+    short: "Township farmers, then east-side families. The name tells you where they stood: south of Euclid, not south of Greece.",
+    long: "",
+    names: ["South Euclid"]
+  },
+  {
+    id: "south-euclid-native",
+    name: "South Euclid Native ground",
+    lat: 41.5231,
+    lng: -81.5185,
+    radius: 1600,
+    short: "Euclid Creek. Same Native east-side ground as Lyndhurst and the Heights. The creek is the older street.",
+    long: "",
+    names: ["Euclid Creek"]
+  },
+  {
+    id: "south-euclid-war",
+    name: "South Euclid war",
+    lat: 41.5231,
+    lng: -81.5185,
+    radius: 1400,
+    short: "No fort. Township men left from Euclid Township. The memorials sit at city hall.",
+    long: "",
+    names: ["South Euclid"]
+  },
+  {
+    id: "south-euclid-legend",
+    name: "South of Euclid",
+    lat: 41.5231,
+    lng: -81.5185,
+    radius: 1000,
+    short: "The legend is geography as a name. They were the south end of a township and kept saying so after they became a city.",
+    long: "",
+    names: ["Euclid"]
+  },
+
+  {
+    id: "approach-lyndhurst",
+    name: "Lyndhurst",
+    lat: 41.5200,
+    lng: -81.4887,
+    radius: 4000,
+    layer: "approach",
+    short: "You are coming up on Lyndhurst. East-side ridge town on Euclid Creek. If you drop into town, I'll start on Mayfield.",
+    long: "",
+    names: ["Lyndhurst"]
+  },
+  {
+    id: "lyndhurst-founding",
+    name: "Lyndhurst founding",
+    lat: 41.5200,
+    lng: -81.4887,
+    radius: 1200,
+    short: "First Euclidville. Then Lyndhurst, a name that sounded like trees. Split from Euclid Township. A village that wanted a softer sign.",
+    long: "",
+    names: ["Euclidville"]
+  },
+  {
+    id: "lyndhurst-roads",
+    name: "Lyndhurst roads",
+    lat: 41.5200,
+    lng: -81.4887,
+    radius: 1400,
+    short: "Mayfield Road is the spine. No mill of its own. Cleveland's east side did the employing. A ridge grid.",
+    long: "",
+    names: ["Mayfield Road"]
+  },
+  {
+    id: "lyndhurst-parks",
+    name: "Lyndhurst parks",
+    lat: 41.5200,
+    lng: -81.4887,
+    radius: 1400,
+    short: "Brainard and the civic greens. Euclid Creek reservation nearby. A town named for linden that kept some woods.",
+    long: "",
+    names: ["Euclid Creek"]
+  },
+  {
+    id: "lyndhurst-people",
+    name: "Lyndhurst people",
+    lat: 41.5200,
+    lng: -81.4887,
+    radius: 1400,
+    short: "Township farms, then east-side families. A small city on purpose.",
+    long: "",
+    names: ["Lyndhurst"]
+  },
+  {
+    id: "lyndhurst-native",
+    name: "Lyndhurst Native ground",
+    lat: 41.5200,
+    lng: -81.4887,
+    radius: 1600,
+    short: "Euclid Creek. Same Native east-side ground as South Euclid. The creek cut the ridge before the name changed.",
+    long: "",
+    names: ["Euclid Creek"]
+  },
+  {
+    id: "lyndhurst-war",
+    name: "Lyndhurst war",
+    lat: 41.5200,
+    lng: -81.4887,
+    radius: 1400,
+    short: "No fort. Township men left from Euclid Township. The memorials are civic.",
+    long: "",
+    names: ["Lyndhurst"]
+  },
+  {
+    id: "lyndhurst-legend",
+    name: "Euclidville to Lyndhurst",
+    lat: 41.5200,
+    lng: -81.4887,
+    radius: 800,
+    short: "The legend is a rename. Euclidville sounded like a stop. Lyndhurst sounded like a lawn. They picked the lawn.",
+    long: "",
+    names: ["Lyndhurst"]
+  },
+
+  {
+    id: "approach-mayfield-heights",
+    name: "Mayfield Heights",
+    lat: 41.5192,
+    lng: -81.4579,
+    radius: 4000,
+    layer: "approach",
+    short: "You are coming up on Mayfield Heights. Named for the road. East-side ridge above Euclid Creek. If you drop into town, I'll start on Mayfield.",
+    long: "",
+    names: ["Mayfield Heights"]
+  },
+  {
+    id: "mayfield-hts-founding",
+    name: "Mayfield Heights founding",
+    lat: 41.5192,
+    lng: -81.4579,
+    radius: 1200,
+    short: "Split from Mayfield Township. The heights on the road that already had the name. A village that became a city when the lots filled.",
+    long: "",
+    names: ["Mayfield Township"]
+  },
+  {
+    id: "mayfield-hts-road",
+    name: "Mayfield Road",
+    lat: 41.5192,
+    lng: -81.4579,
+    radius: 1400,
+    short: "Mayfield Road is the town. Inns first, then strip and suburb. No mill river through the center. The pike is the industry.",
+    long: "",
+    names: ["Mayfield Road"]
+  },
+  {
+    id: "mayfield-hts-parks",
+    name: "Mayfield Heights parks",
+    lat: 41.5192,
+    lng: -81.4579,
+    radius: 1400,
+    short: "Wiltshire and the civic greens. Euclid Creek nearby. A road town that kept a few lawns off the asphalt.",
+    long: "",
+    names: ["Euclid Creek"]
+  },
+  {
+    id: "mayfield-hts-people",
+    name: "Mayfield Heights people",
+    lat: 41.5192,
+    lng: -81.4579,
+    radius: 1400,
+    short: "Township farms, then east-side families. A city whose name is a direction and a grade.",
+    long: "",
+    names: ["Mayfield Heights"]
+  },
+  {
+    id: "mayfield-hts-native",
+    name: "Mayfield Heights Native ground",
+    lat: 41.5192,
+    lng: -81.4579,
+    radius: 1600,
+    short: "Euclid Creek ridge. Same Native east-side ground as Lyndhurst. The road followed a dry line above the creek.",
+    long: "",
+    names: ["Euclid Creek"]
+  },
+  {
+    id: "mayfield-hts-war",
+    name: "Mayfield Heights war",
+    lat: 41.5192,
+    lng: -81.4579,
+    radius: 1400,
+    short: "No fort. Township men left from Mayfield. The memorials sit near city hall.",
+    long: "",
+    names: ["Mayfield Heights"]
+  },
+  {
+    id: "mayfield-hts-legend",
+    name: "Named for the road",
+    lat: 41.5192,
+    lng: -81.4579,
+    radius: 800,
+    short: "The legend is simple. The road was older than the city. They put Heights on the end so you would know you had climbed.",
+    long: "",
+    names: ["Mayfield Road"]
+  },
+
+  {
+    id: "approach-beachwood",
+    name: "Beachwood",
+    lat: 41.4645,
+    lng: -81.5087,
+    radius: 4000,
+    layer: "approach",
+    short: "You are coming up on Beachwood. East-side city named for trees, not a beach. If you drop into town, I'll start on Chagrin.",
+    long: "",
+    names: ["Beachwood"]
+  },
+  {
+    id: "beachwood-founding",
+    name: "Beachwood founding",
+    lat: 41.4645,
+    lng: -81.5087,
+    radius: 1200,
+    short: "Carved from Warrensville Township. Beech trees, not lake sand. A village that became a city when the east side filled in.",
+    long: "",
+    names: ["Warrensville Township"]
+  },
+  {
+    id: "beachwood-roads",
+    name: "Beachwood roads",
+    lat: 41.4645,
+    lng: -81.5087,
+    radius: 1400,
+    short: "Chagrin Boulevard and I-271. Office parks later. No mill river through the center. A township that sold location.",
+    long: "",
+    names: ["Chagrin Boulevard"]
+  },
+  {
+    id: "beachwood-parks",
+    name: "Beachwood parks",
+    lat: 41.4645,
+    lng: -81.5087,
+    radius: 1400,
+    short: "Beachwood City Park and the civic campus. A name that promised woods and tried to keep some.",
+    long: "",
+    names: ["Beachwood City Park"]
+  },
+  {
+    id: "beachwood-people",
+    name: "Beachwood people",
+    lat: 41.4645,
+    lng: -81.5087,
+    radius: 1400,
+    short: "East-side families and a large Jewish community that built schools and synagogues on this ridge. A city with congregations as landmarks.",
+    long: "",
+    names: ["Beachwood"]
+  },
+  {
+    id: "beachwood-native",
+    name: "Beachwood Native ground",
+    lat: 41.4645,
+    lng: -81.5087,
+    radius: 1600,
+    short: "Toward the Chagrin. Same Native east-side ground as Orange and Pepper Pike. Beech woods on a path.",
+    long: "",
+    names: ["Chagrin River"]
+  },
+  {
+    id: "beachwood-war",
+    name: "Beachwood war",
+    lat: 41.4645,
+    lng: -81.5087,
+    radius: 1400,
+    short: "No fort. Township men left from Warrensville. The memorials are civic.",
+    long: "",
+    names: ["Beachwood"]
+  },
+  {
+    id: "beachwood-legend",
+    name: "No beach",
+    lat: 41.4645,
+    lng: -81.5087,
+    radius: 800,
+    short: "The legend is the spelling. Visitors look for water. Locals point at a beech tree and shrug. The lake is a drive west.",
+    long: "",
+    names: ["Beachwood"]
+  },
+
+  {
+    id: "approach-pepper-pike",
+    name: "Pepper Pike",
+    lat: 41.4803,
+    lng: -81.4637,
+    radius: 4000,
+    layer: "approach",
+    short: "You are coming up on Pepper Pike. Orange Township ground. Named for a turnpike and a family. If you drop into town, I'll start on Lander.",
+    long: "",
+    names: ["Pepper Pike"]
+  },
+  {
+    id: "pepper-pike-founding",
+    name: "Pepper Pike founding",
+    lat: 41.4803,
+    lng: -81.4637,
+    radius: 1200,
+    short: "Orange Township farms. The Pepper family and a pike. Became a village to control the lots when the east side moved out. A name that is a road plus a household.",
+    long: "",
+    names: ["Orange Township"]
+  },
+  {
+    id: "pepper-pike-roads",
+    name: "Pepper Pike roads",
+    lat: 41.4803,
+    lng: -81.4637,
+    radius: 1400,
+    short: "Lander and Shaker. No mill. Large lots on purpose. A township that stayed expensive by staying empty longer.",
+    long: "",
+    names: ["Lander Road"]
+  },
+  {
+    id: "pepper-pike-parks",
+    name: "Pepper Pike parks",
+    lat: 41.4803,
+    lng: -81.4637,
+    radius: 1400,
+    short: "City parkland and the Chagrin valley edge. A pike town that kept woods between the houses.",
+    long: "",
+    names: ["Chagrin River"]
+  },
+  {
+    id: "pepper-pike-people",
+    name: "Pepper Pike people",
+    lat: 41.4803,
+    lng: -81.4637,
+    radius: 1400,
+    short: "Farm families, then east-side estates. Ursuline College sits on this map. A small city with long driveways.",
+    long: "",
+    names: ["Ursuline College"]
+  },
+  {
+    id: "pepper-pike-native",
+    name: "Pepper Pike Native ground",
+    lat: 41.4803,
+    lng: -81.4637,
+    radius: 1600,
+    short: "Chagrin upland. Same Native east-side ground as Orange and Beachwood. The pike is new. The ridge is not.",
+    long: "",
+    names: ["Chagrin River"]
+  },
+  {
+    id: "pepper-pike-war",
+    name: "Pepper Pike war",
+    lat: 41.4803,
+    lng: -81.4637,
+    radius: 1400,
+    short: "No fort. Township men left from Orange. The memorials are civic and quiet.",
+    long: "",
+    names: ["Pepper Pike"]
+  },
+  {
+    id: "pepper-pike-legend",
+    name: "Pepper and a pike",
+    lat: 41.4803,
+    lng: -81.4637,
+    radius: 800,
+    short: "The legend is the name sounding fancy. It is a family and a road. That is enough for a city.",
+    long: "",
+    names: ["Pepper Pike"]
+  },
+
+  {
+    id: "approach-orange-oh",
+    name: "Orange Ohio",
+    lat: 41.4498,
+    lng: -81.4807,
+    radius: 4000,
+    layer: "approach",
+    short: "You are coming up on Orange. Western Reserve township. James A. Garfield was born here. If you drop into town, I'll start at the school grounds.",
+    long: "",
+    names: ["Orange", "James A. Garfield"]
+  },
+  {
+    id: "orange-founding",
+    name: "Orange founding",
+    lat: 41.4498,
+    lng: -81.4807,
+    radius: 1200,
+    short: "Connecticut Western Reserve township named Orange. Farms on the Chagrin upland. The village is later. The township name is the old one.",
+    long: "",
+    names: ["Orange Township"]
+  },
+  {
+    id: "orange-garfield",
+    name: "Garfield birthplace Orange",
+    lat: 41.4498,
+    lng: -81.4807,
+    radius: 800,
+    short: "James A. Garfield was born in a cabin in Orange Township in 1831. Canal boy, general, president. Lawnfield in Mentor is the house. This ridge is the birth.",
+    long: "",
+    names: ["James A. Garfield"]
+  },
+  {
+    id: "orange-roads",
+    name: "Orange roads",
+    lat: 41.4498,
+    lng: -81.4807,
+    radius: 1400,
+    short: "No mill town. Chagrin and Brainard. Schools and lots. A township that stayed a name on a ridge.",
+    long: "",
+    names: ["Orange"]
+  },
+  {
+    id: "orange-parks",
+    name: "Orange parks",
+    lat: 41.4498,
+    lng: -81.4807,
+    radius: 1400,
+    short: "School greens and township parkland. The Garfield monument habit lives more in Mentor. The birth field is here.",
+    long: "",
+    names: ["James A. Garfield"]
+  },
+  {
+    id: "orange-native",
+    name: "Orange Native ground",
+    lat: 41.4498,
+    lng: -81.4807,
+    radius: 1600,
+    short: "Chagrin upland. Same Native east-side ground as Pepper Pike. A Reserve name on an older ridge.",
+    long: "",
+    names: ["Chagrin River"]
+  },
+  {
+    id: "orange-war",
+    name: "Orange war",
+    lat: 41.4498,
+    lng: -81.4807,
+    radius: 1400,
+    short: "No fort. The war story is Garfield himself leaving this township and not coming back as a farmer.",
+    long: "",
+    names: ["James A. Garfield"]
+  },
+  {
+    id: "orange-legend",
+    name: "Orange legend",
+    lat: 41.4498,
+    lng: -81.4807,
+    radius: 800,
+    short: "The legend is a president from a cabin on this ridge. Mentor keeps the porch. Orange keeps the beginning.",
+    long: "",
+    names: ["James A. Garfield"]
+  },
+
+  {
+    id: "approach-massillon",
+    name: "Massillon",
+    lat: 40.7967,
+    lng: -81.5215,
+    radius: 7000,
+    layer: "approach",
+    short: "You are coming up on Massillon. Canal town on the Tuscarawas. Steel. The Tigers. If you drop downtown, I'll start at the river.",
+    long: "",
+    names: ["Massillon"]
+  },
+  {
+    id: "massillon-founding",
+    name: "Massillon founding",
+    lat: 40.7967,
+    lng: -81.5215,
+    radius: 1400,
+    short: "James Duncan platted Massillon in the 1820s and named it for Jean-Baptiste Massillon, a French bishop. Ohio and Erie Canal made the town. A preacher's name on a towpath.",
+    long: "",
+    names: ["James Duncan", "Jean-Baptiste Massillon"]
+  },
+  {
+    id: "massillon-canal-steel",
+    name: "Massillon canal and steel",
+    lat: 40.7967,
+    lng: -81.5215,
+    radius: 1600,
+    short: "The canal, then steel. Republic and the other shops. Coal and ore on the Tuscarawas. A river town that learned heat.",
+    long: "",
+    names: ["Ohio and Erie Canal", "Tuscarawas River"]
+  },
+  {
+    id: "massillon-tigers",
+    name: "Massillon Tigers",
+    lat: 40.7967,
+    lng: -81.5215,
+    radius: 1400,
+    short: "Washington High and the Tigers. Paul Brown coached here before Cleveland. Friday night is civic religion. The rivalry with Canton is older than the NFL.",
+    long: "",
+    names: ["Paul Brown", "Massillon Tigers"]
+  },
+  {
+    id: "massillon-coxey",
+    name: "Jacob Coxey",
+    lat: 40.7967,
+    lng: -81.5215,
+    radius: 1200,
+    short: "Jacob Coxey of Massillon led Coxey's Army to Washington in 1894. Unemployed men walking for jobs. A steel town that sent a protest on foot.",
+    long: "",
+    names: ["Jacob Coxey"]
+  },
+  {
+    id: "massillon-parks",
+    name: "Massillon parks",
+    lat: 40.7967,
+    lng: -81.5215,
+    radius: 1400,
+    short: "Lincoln Park and the canal towpath. A mill town that kept water public.",
+    long: "",
+    names: ["Lincoln Park"]
+  },
+  {
+    id: "massillon-native-war",
+    name: "Massillon Native and war",
+    lat: 40.7967,
+    lng: -81.5215,
+    radius: 1800,
+    short: "Tuscarawas drainage. Delaware and other river peoples. No fort downtown. County companies left from here. The later war is the mill.",
+    long: "",
+    names: ["Tuscarawas River"]
+  },
+  {
+    id: "massillon-legend",
+    name: "Tiger Town",
+    lat: 40.7967,
+    lng: -81.5215,
+    radius: 1000,
+    short: "The legend is orange and black. People who cannot name Duncan can name the Tigers. A French bishop and a high-school helmet share the sign.",
+    long: "",
+    names: ["Massillon Tigers"]
+  },
+  {
+    id: "approach-alliance",
+    name: "Alliance",
+    lat: 40.9103,
+    lng: -81.1059,
+    radius: 7000,
+    layer: "approach",
+    short: "You are coming up on Alliance. Two railroads met and named the town. Mount Union. Glazed brick. If you drop downtown, I'll start at the crossing.",
+    long: "",
+    names: ["Alliance"]
+  },
+  {
+    id: "alliance-founding",
+    name: "Alliance founding",
+    lat: 40.9103,
+    lng: -81.1059,
+    radius: 1400,
+    short: "Freedom, Williamsport, and Alliance were separate plats. The name that stuck was the junction. Two rail lines met here and the town took the word for that meeting.",
+    long: "",
+    names: ["Alliance"]
+  },
+  {
+    id: "alliance-rail",
+    name: "Alliance railroads",
+    lat: 40.9103,
+    lng: -81.1059,
+    radius: 1500,
+    short: "The crossing is the industry. Passenger trains, freight, and later the shops. A Stark County town that exists because two companies needed the same dirt.",
+    long: "",
+    names: ["Alliance"]
+  },
+  {
+    id: "alliance-mount-union",
+    name: "Mount Union",
+    lat: 40.9145,
+    lng: -81.1095,
+    radius: 700,
+    short: "Mount Union College opened 1846. A hill campus above the junction. Alliance grew a school as well as a yard.",
+    long: "",
+    names: ["Mount Union"]
+  },
+  {
+    id: "alliance-brick",
+    name: "Alliance brick and steel",
+    lat: 40.9103,
+    lng: -81.1059,
+    radius: 1500,
+    short: "Glazed brick, steel, and Morgan Engineering. A junction that learned to fire clay and bend iron. The yards fed the plants.",
+    long: "",
+    names: ["Morgan Engineering"]
+  },
+  {
+    id: "alliance-parks",
+    name: "Alliance parks",
+    lat: 40.9103,
+    lng: -81.1059,
+    radius: 1400,
+    short: "Silver Park and the campus green. A rail town that kept a creek and a lawn.",
+    long: "",
+    names: ["Silver Park"]
+  },
+  {
+    id: "alliance-native-war",
+    name: "Alliance Native and war",
+    lat: 40.9103,
+    lng: -81.1059,
+    radius: 1800,
+    short: "Mahoning drainage on the Stark-Columbiana edge. Hunting ground before the rails. No fort downtown. County companies left from this crossing.",
+    long: "",
+    names: ["Mahoning River"]
+  },
+  {
+    id: "alliance-marker-radio",
+    name: "Marker Radio Alliance",
+    lat: 40.9103,
+    lng: -81.1059,
+    radius: 1600,
+    short: "The person who built Marker Radio was born in Alliance. Entrepreneur, businessman, investor, and composer. A junction town sent out another kind of signal: stories that trip when you drive. You are listening to that idea now.",
+    long: "",
+    names: ["Marker Radio"]
+  },
+  {
+    id: "alliance-legend",
+    name: "Named for a meeting",
+    lat: 40.9103,
+    lng: -81.1059,
+    radius: 1000,
+    short: "The legend is the word itself. Not a saint. Not a general. A junction. Two lines agreed on a patch of Ohio and called it Alliance.",
+    long: "",
+    names: ["Alliance"]
+  },
+
+  {
+    id: "approach-niles",
+    name: "Niles",
+    lat: 41.1828,
+    lng: -80.7654,
+    radius: 6000,
+    layer: "approach",
+    short: "You are coming up on Niles. McKinley was born here. Mill town on the Mahoning. If you drop downtown, I'll start at the memorial.",
+    long: "",
+    names: ["Niles", "William McKinley"]
+  },
+  {
+    id: "niles-founding",
+    name: "Niles founding",
+    lat: 41.1828,
+    lng: -80.7654,
+    radius: 1400,
+    short: "Heaton's furnace first. Then a town named Niles. Mahoning Valley iron before Youngstown swallowed the story. A mill seat with its own name.",
+    long: "",
+    names: ["Heaton"]
+  },
+  {
+    id: "niles-mckinley",
+    name: "McKinley birthplace Niles",
+    lat: 41.1828,
+    lng: -80.7654,
+    radius: 800,
+    short: "William McKinley was born in Niles in 1843. The memorial on the square is this town's claim. Canton has the tomb. Niles has the beginning.",
+    long: "",
+    names: ["William McKinley"]
+  },
+  {
+    id: "niles-steel",
+    name: "Niles steel",
+    lat: 41.1828,
+    lng: -80.7654,
+    radius: 1500,
+    short: "Sheet and tube country. The Mahoning ran orange here too. A furnace town in the same valley as Youngstown and Girard.",
+    long: "",
+    names: ["Mahoning River"]
+  },
+  {
+    id: "niles-parks",
+    name: "Niles parks",
+    lat: 41.1828,
+    lng: -80.7654,
+    radius: 1400,
+    short: "Waddell Park and the memorial grounds. A mill town that put a president on the lawn.",
+    long: "",
+    names: ["Waddell Park"]
+  },
+  {
+    id: "niles-people",
+    name: "Niles people",
+    lat: 41.1828,
+    lng: -80.7654,
+    radius: 1400,
+    short: "Furnace families and the McKinley name. Trumbull County's other mill city. The valley is the people.",
+    long: "",
+    names: ["Niles"]
+  },
+  {
+    id: "niles-native-war",
+    name: "Niles Native and war",
+    lat: 41.1828,
+    lng: -80.7654,
+    radius: 1800,
+    short: "Mahoning hunting ground. McKinley left this town for the Civil War and came back a name. The mills were the later war work.",
+    long: "",
+    names: ["Mahoning River"]
+  },
+  {
+    id: "niles-legend",
+    name: "Birthplace not the tomb",
+    lat: 41.1828,
+    lng: -80.7654,
+    radius: 1000,
+    short: "The legend is an argument with Canton. They have the dome. Niles has the birth. Both are true. The river does not take sides.",
+    long: "",
+    names: ["William McKinley"]
+  },
+
+  {
+    id: "alliance-marker-radio",
+    name: "Marker Radio Alliance",
+    lat: 40.9103,
+    lng: -81.1059,
+    radius: 1600,
+    short: "Robert \"Bob\" Wiley was born in Alliance. He built Marker Radio, the voice riding with you now. A junction town sent out another kind of signal: stories that trip when you drive past the places that made them.",
+    long: "",
+    names: ["Bob Wiley", "Robert Wiley", "Marker Radio"]
+  },
+
+  {
+    id: "alliance-marker-radio",
+    name: "Marker Radio Alliance",
+    lat: 40.9103,
+    lng: -81.1059,
+    radius: 1800,
+    short: "Robert \"Bob\" Wiley was born in Alliance. Entrepreneur, investor, composer, and the builder of Marker Radio. He took a junction town's habit of sending things down the line and pointed it at history. The voice in this car is his. The idea is simple and a little audacious: every town already had a station. Nobody had tuned it. He did. You are listening to a kid from the crossing, talking Ohio back to itself.",
+    long: "",
+    names: ["Bob Wiley", "Robert Wiley", "Marker Radio"]
+  },
+
+  {
+    id: "approach-warren-oh",
+    name: "Warren Ohio",
+    lat: 41.2376,
+    lng: -80.8184,
+    radius: 7000,
+    layer: "approach",
+    short: "You are coming up on Warren. Trumbull County seat. Older than Youngstown on the same Reserve. Packard and steel. If you drop downtown, I'll start at the square.",
+    long: "",
+    names: ["Warren"]
+  },
+  {
+    id: "warren-founding",
+    name: "Warren founding",
+    lat: 41.2376,
+    lng: -80.8184,
+    radius: 1400,
+    short: "Ephraim Quinby and others platted Warren in 1801. Named for Moses Warren, a Reserve surveyor. County seat before the mills to the south got famous. The valley's first downtown.",
+    long: "",
+    names: ["Ephraim Quinby", "Moses Warren"]
+  },
+  {
+    id: "warren-packard",
+    name: "Packard Warren",
+    lat: 41.2376,
+    lng: -80.8184,
+    radius: 1400,
+    short: "The Packard brothers started here. Wagons, then cars, then Packard Electric. A county seat that put a name on a motor. The museum still holds the story.",
+    long: "",
+    names: ["Packard"]
+  },
+  {
+    id: "warren-steel",
+    name: "Warren steel",
+    lat: 41.2376,
+    lng: -80.8184,
+    radius: 1600,
+    short: "Republic and the other shops tied Warren to the Mahoning. Not just Youngstown's neighbor. A steel city with a courthouse.",
+    long: "",
+    names: ["Mahoning River"]
+  },
+  {
+    id: "warren-parks",
+    name: "Warren parks",
+    lat: 41.2376,
+    lng: -80.8184,
+    radius: 1400,
+    short: "Packard Park and the courthouse green. A Reserve square that survived the mills.",
+    long: "",
+    names: ["Packard Park"]
+  },
+  {
+    id: "warren-native",
+    name: "Warren Native ground",
+    lat: 41.2376,
+    lng: -80.8184,
+    radius: 1800,
+    short: "Mahoning hunting ground. Western Reserve survey. The river was the road before the furnaces.",
+    long: "",
+    names: ["Mahoning River"]
+  },
+  {
+    id: "warren-war",
+    name: "Warren war",
+    lat: 41.2376,
+    lng: -80.8184,
+    radius: 1500,
+    short: "No fort on the square. County companies left from here. The mills were the later war work.",
+    long: "",
+    names: ["Trumbull County"]
+  },
+  {
+    id: "warren-legend",
+    name: "First downtown in the valley",
+    lat: 41.2376,
+    lng: -80.8184,
+    radius: 1000,
+    short: "The legend is seniority. Youngstown got louder. Warren will tell you it was here first. The courthouse agrees.",
+    long: "",
+    names: ["Warren"]
+  },
+
+  {
+    id: "approach-warren-oh",
+    name: "Warren Ohio",
+    lat: 41.2376,
+    lng: -80.8184,
+    radius: 7000,
+    layer: "approach",
+    short: "You are coming up on Warren. Trumbull County seat. Older than Youngstown on the same Reserve. Packard and steel. If you drop downtown, I'll start at the square.",
+    long: "",
+    names: ["Warren"]
+  },
+  {
+    id: "warren-founding",
+    name: "Warren founding",
+    lat: 41.2376,
+    lng: -80.8184,
+    radius: 1400,
+    short: "Ephraim Quinby and others platted Warren in 1801. Named for Moses Warren, a Reserve surveyor. County seat before the mills to the south got famous. The valley's first downtown.",
+    long: "",
+    names: ["Ephraim Quinby", "Moses Warren"]
+  },
+  {
+    id: "warren-packard",
+    name: "Packard Warren",
+    lat: 41.2376,
+    lng: -80.8184,
+    radius: 1400,
+    short: "The Packard brothers started here. Wagons, then cars, then Packard Electric. A county seat that put a name on a motor. The museum still holds the story.",
+    long: "",
+    names: ["Packard"]
+  },
+  {
+    id: "warren-steel",
+    name: "Warren steel",
+    lat: 41.2376,
+    lng: -80.8184,
+    radius: 1600,
+    short: "Republic and the other shops tied Warren to the Mahoning. Not just Youngstown's neighbor. A steel city with a courthouse.",
+    long: "",
+    names: ["Mahoning River"]
+  },
+  {
+    id: "warren-parks",
+    name: "Warren parks",
+    lat: 41.2376,
+    lng: -80.8184,
+    radius: 1400,
+    short: "Packard Park and the courthouse green. A Reserve square that survived the mills.",
+    long: "",
+    names: ["Packard Park"]
+  },
+  {
+    id: "warren-native",
+    name: "Warren Native ground",
+    lat: 41.2376,
+    lng: -80.8184,
+    radius: 1800,
+    short: "Mahoning hunting ground. Western Reserve survey. The river was the road before the furnaces.",
+    long: "",
+    names: ["Mahoning River"]
+  },
+  {
+    id: "warren-war",
+    name: "Warren war",
+    lat: 41.2376,
+    lng: -80.8184,
+    radius: 1500,
+    short: "No fort on the square. County companies left from here. The mills were the later war work.",
+    long: "",
+    names: ["Trumbull County"]
+  },
+  {
+    id: "warren-legend",
+    name: "First downtown in the valley",
+    lat: 41.2376,
+    lng: -80.8184,
+    radius: 1000,
+    short: "The legend is seniority. Youngstown got louder. Warren will tell you it was here first. The courthouse agrees.",
+    long: "",
+    names: ["Warren"]
+  },
+
+  {
+    id: "approach-girard-oh",
+    name: "Girard Ohio",
+    lat: 41.1542,
+    lng: -80.7015,
+    radius: 5000,
+    layer: "approach",
+    short: "You are coming up on Girard. Mill town on the Mahoning between Warren and Youngstown. If you drop into town, I'll start at the river.",
+    long: "",
+    names: ["Girard"]
+  },
+  {
+    id: "girard-founding",
+    name: "Girard founding",
+    lat: 41.1542,
+    lng: -80.7015,
+    radius: 1400,
+    short: "Named for Stephen Girard, the Philadelphia financier. A canal and furnace stop that became a city when the valley filled with heat.",
+    long: "",
+    names: ["Stephen Girard"]
+  },
+  {
+    id: "girard-steel",
+    name: "Girard steel",
+    lat: 41.1542,
+    lng: -80.7015,
+    radius: 1500,
+    short: "Furnaces on the Mahoning. Same sheet-and-tube world as Niles and Youngstown. A short stretch of river with a long payroll.",
+    long: "",
+    names: ["Mahoning River"]
+  },
+  {
+    id: "girard-canal",
+    name: "Girard canal",
+    lat: 41.1542,
+    lng: -80.7015,
+    radius: 1400,
+    short: "Pennsylvania and Ohio Canal cut this bank before the big steel. Water first. Heat later.",
+    long: "",
+    names: ["Pennsylvania and Ohio Canal"]
+  },
+  {
+    id: "girard-parks",
+    name: "Girard parks",
+    lat: 41.1542,
+    lng: -80.7015,
+    radius: 1400,
+    short: "The river green and the downtown block. A mill city that kept a little lawn above the slag.",
+    long: "",
+    names: ["Girard"]
+  },
+  {
+    id: "girard-people",
+    name: "Girard people",
+    lat: 41.1542,
+    lng: -80.7015,
+    radius: 1400,
+    short: "Immigrant furnace labor. A valley town that shared shifts with the plants on either side.",
+    long: "",
+    names: ["Girard"]
+  },
+  {
+    id: "girard-native-war",
+    name: "Girard Native and war",
+    lat: 41.1542,
+    lng: -80.7015,
+    radius: 1800,
+    short: "Mahoning hunting ground. No fort downtown. The mills were the war work. The river is the older road.",
+    long: "",
+    names: ["Mahoning River"]
+  },
+  {
+    id: "girard-legend",
+    name: "Named for a banker",
+    lat: 41.1542,
+    lng: -80.7015,
+    radius: 1000,
+    short: "The legend is a borrowed rich man. Stephen Girard never ran a furnace here. The valley took his name and put smoke on it.",
+    long: "",
+    names: ["Stephen Girard"]
+  },
+
+  {
+    id: "approach-campbell-oh",
+    name: "Campbell Ohio",
+    lat: 41.0756,
+    lng: -80.5762,
+    radius: 5000,
+    layer: "approach",
+    short: "You are coming up on Campbell. First called East Youngstown. Named for James Campbell of Sheet and Tube. If you drop into town, I'll start at the mills' edge.",
+    long: "",
+    names: ["Campbell"]
+  },
+  {
+    id: "campbell-founding",
+    name: "Campbell founding",
+    lat: 41.0756,
+    lng: -80.5762,
+    radius: 1400,
+    short: "Company housing against the Youngstown Sheet and Tube works. East Youngstown until after the 1916 strike riots. They renamed the town for the company man. A mill village with a new sign.",
+    long: "",
+    names: ["James Campbell", "East Youngstown"]
+  },
+  {
+    id: "campbell-steel",
+    name: "Campbell steel",
+    lat: 41.0756,
+    lng: -80.5762,
+    radius: 1500,
+    short: "The Campbell Works were the skyline. Sheet and Tube. Black Monday hit this bank as hard as any. The name stayed when the heat left.",
+    long: "",
+    names: ["Youngstown Sheet and Tube"]
+  },
+  {
+    id: "campbell-parks",
+    name: "Campbell parks",
+    lat: 41.0756,
+    lng: -80.5762,
+    radius: 1400,
+    short: "The civic green above the river. A company town that had to invent a park after the company thinned.",
+    long: "",
+    names: ["Campbell"]
+  },
+  {
+    id: "campbell-people",
+    name: "Campbell people",
+    lat: 41.0756,
+    lng: -80.5762,
+    radius: 1400,
+    short: "Immigrant furnace labor packed into the lots by the works. Churches outlasted stacks. The parish is what held.",
+    long: "",
+    names: ["Campbell"]
+  },
+  {
+    id: "campbell-native",
+    name: "Campbell Native ground",
+    lat: 41.0756,
+    lng: -80.5762,
+    radius: 1600,
+    short: "Mahoning bank. Same hunting ground as Youngstown and Struthers. The works covered the old walk.",
+    long: "",
+    names: ["Mahoning River"]
+  },
+  {
+    id: "campbell-war",
+    name: "Campbell war",
+    lat: 41.0756,
+    lng: -80.5762,
+    radius: 1500,
+    short: "The 1916 strike is the local war story. East Youngstown burned. The rename was supposed to bury that week. People still know both names.",
+    long: "",
+    names: ["East Youngstown"]
+  },
+  {
+    id: "campbell-legend",
+    name: "Two names",
+    lat: 41.0756,
+    lng: -80.5762,
+    radius: 1000,
+    short: "The legend is a cover-up that did not quite take. Maps say Campbell. Old voices still say East Youngstown. Both are the same bank of the river.",
+    long: "",
+    names: ["East Youngstown", "Campbell"]
+  },
+
+  {
+    id: "approach-struthers",
+    name: "Struthers",
+    lat: 41.0526,
+    lng: -80.6081,
+    radius: 5000,
+    layer: "approach",
+    short: "You are coming up on Struthers. Yellow Creek meets the Mahoning. Another mill village in the string. If you drop into town, I'll start at the creek.",
+    long: "",
+    names: ["Struthers"]
+  },
+  {
+    id: "struthers-founding",
+    name: "Struthers founding",
+    lat: 41.0526,
+    lng: -80.6081,
+    radius: 1400,
+    short: "Named for John Struthers, an early landholder. Yellow Creek furnace ground. A village that became a city when the valley filled.",
+    long: "",
+    names: ["John Struthers"]
+  },
+  {
+    id: "struthers-steel",
+    name: "Struthers steel",
+    lat: 41.0526,
+    lng: -80.6081,
+    radius: 1500,
+    short: "Mills on the Mahoning and the creek. Same sheet-and-tube world as Campbell and Youngstown. A short town with a long stack memory.",
+    long: "",
+    names: ["Mahoning River"]
+  },
+  {
+    id: "struthers-creek",
+    name: "Yellow Creek Struthers",
+    lat: 41.0526,
+    lng: -80.6081,
+    radius: 1200,
+    short: "Yellow Creek is the other water. Furnace stream into the Mahoning. The meeting is why anyone stopped here.",
+    long: "",
+    names: ["Yellow Creek"]
+  },
+  {
+    id: "struthers-parks",
+    name: "Struthers parks",
+    lat: 41.0526,
+    lng: -80.6081,
+    radius: 1400,
+    short: "The creek parks and the high-school green. A mill village that kept a lawn above the confluence.",
+    long: "",
+    names: ["Struthers"]
+  },
+  {
+    id: "struthers-people",
+    name: "Struthers people",
+    lat: 41.0526,
+    lng: -80.6081,
+    radius: 1400,
+    short: "Furnace families. Yellow Creek pride. People will tell you they are not Youngstown even when the smoke was the same.",
+    long: "",
+    names: ["Struthers"]
+  },
+  {
+    id: "struthers-native-war",
+    name: "Struthers Native and war",
+    lat: 41.0526,
+    lng: -80.6081,
+    radius: 1800,
+    short: "Mahoning and Yellow Creek hunting ground. No fort downtown. The mills were the war work.",
+    long: "",
+    names: ["Yellow Creek"]
+  },
+  {
+    id: "struthers-legend",
+    name: "Not the next town over",
+    lat: 41.0526,
+    lng: -80.6081,
+    radius: 1000,
+    short: "The legend is independence. A small name on a crowded river. Struthers will not let you fold it into Youngstown without an argument.",
+    long: "",
+    names: ["Struthers"]
+  },
+
+  {
+    id: "approach-salem-oh",
+    name: "Salem Ohio",
+    lat: 40.9009,
+    lng: -80.8567,
+    radius: 7000,
+    layer: "approach",
+    short: "You are coming up on Salem. Quaker town. Underground Railroad. Anti-slavery press. If you drop downtown, I'll start on Main.",
+    long: "",
+    names: ["Salem"]
+  },
+  {
+    id: "salem-founding",
+    name: "Salem founding",
+    lat: 40.9009,
+    lng: -80.8567,
+    radius: 1400,
+    short: "Founded 1806 by Quakers from Pennsylvania and New Jersey. Named Salem, peace. Columbiana County. A meetinghouse town before it was a shop town.",
+    long: "",
+    names: ["Salem"]
+  },
+  {
+    id: "salem-urr",
+    name: "Salem Underground Railroad",
+    lat: 40.9009,
+    lng: -80.8567,
+    radius: 1500,
+    short: "Salem was a station and a loud one. The Anti-Slavery Bugle printed here. Meetings that did not whisper. A Quaker grid that made a habit of getting people north.",
+    long: "",
+    names: ["Anti-Slavery Bugle"]
+  },
+  {
+    id: "salem-industry",
+    name: "Salem industry",
+    lat: 40.9009,
+    lng: -80.8567,
+    radius: 1500,
+    short: "Farms, then metal shops and a streetcar town. Silver Manufacturing and the other plants. A peace name with a factory whistle.",
+    long: "",
+    names: ["Salem"]
+  },
+  {
+    id: "salem-parks",
+    name: "Salem parks",
+    lat: 40.9009,
+    lng: -80.8567,
+    radius: 1400,
+    short: "Waterworth Park and the downtown green. A meetinghouse town that kept a lawn on Main.",
+    long: "",
+    names: ["Waterworth Park"]
+  },
+  {
+    id: "salem-native",
+    name: "Salem Native ground",
+    lat: 40.9009,
+    lng: -80.8567,
+    radius: 1800,
+    short: "Mahoning upland. Hunting ground before the Quaker purchase. The grid is imported. The ridge is not.",
+    long: "",
+    names: ["Mahoning River"]
+  },
+  {
+    id: "salem-war",
+    name: "Salem war",
+    lat: 40.9009,
+    lng: -80.8567,
+    radius: 1600,
+    short: "No fort. The war this town chose was against slavery. Civil War companies still left from here. The Bugle is the monument.",
+    long: "",
+    names: ["Anti-Slavery Bugle"]
+  },
+  {
+    id: "salem-legend",
+    name: "Peace on the sign",
+    lat: 40.9009,
+    lng: -80.8567,
+    radius: 1000,
+    short: "The legend is the name doing work. Salem meant peace. They used it to hide people and to print trouble. Both were the point.",
+    long: "",
+    names: ["Salem"]
+  },
+
+  {
+    id: "approach-east-liverpool",
+    name: "East Liverpool",
+    lat: 40.6187,
+    lng: -80.5773,
+    radius: 7000,
+    layer: "approach",
+    short: "You are coming up on East Liverpool. Pottery Capital on the Ohio. Clay and kilns. If you drop downtown, I'll start at the river.",
+    long: "",
+    names: ["East Liverpool"]
+  },
+  {
+    id: "east-liverpool-founding",
+    name: "East Liverpool founding",
+    lat: 40.6187,
+    lng: -80.5773,
+    radius: 1400,
+    short: "Thomas Fawcett and other English potters settled this bend. Named for Liverpool. A river landing that decided to fire clay instead of only ship it.",
+    long: "",
+    names: ["Thomas Fawcett"]
+  },
+  {
+    id: "east-liverpool-pottery",
+    name: "East Liverpool pottery",
+    lat: 40.6187,
+    lng: -80.5773,
+    radius: 1600,
+    short: "By the late 1800s this town made a huge share of America's pottery. Knowles, Taylor, Laughlin. Kilns on the Ohio. Yellow ware and then white ware. Pottery Capital was a freight fact.",
+    long: "",
+    names: ["Laughlin", "Knowles"]
+  },
+  {
+    id: "east-liverpool-river",
+    name: "East Liverpool Ohio River",
+    lat: 40.6187,
+    lng: -80.5773,
+    radius: 1500,
+    short: "The Ohio is the street. Clay in, pots out. Pennsylvania and West Virginia look back from the other bank. A three-state bend.",
+    long: "",
+    names: ["Ohio River"]
+  },
+  {
+    id: "east-liverpool-parks",
+    name: "East Liverpool parks",
+    lat: 40.6187,
+    lng: -80.5773,
+    radius: 1400,
+    short: "Thompson Park on the hill. The museum downtown holds the cups. A kiln town that kept a view of the river it used.",
+    long: "",
+    names: ["Thompson Park"]
+  },
+  {
+    id: "east-liverpool-native",
+    name: "East Liverpool Native ground",
+    lat: 40.6187,
+    lng: -80.5773,
+    radius: 1800,
+    short: "Ohio River hunting and crossing ground. Mingo and other river peoples. The bend was a place before it was a kiln.",
+    long: "",
+    names: ["Ohio River"]
+  },
+  {
+    id: "east-liverpool-war",
+    name: "East Liverpool war",
+    lat: 40.6187,
+    lng: -80.5773,
+    radius: 1500,
+    short: "No fort downtown. County companies left from here. Pretty Boy Floyd was captured in this area in 1934. A different kind of later story on a pottery street.",
+    long: "",
+    names: ["Pretty Boy Floyd"]
+  },
+  {
+    id: "east-liverpool-legend",
+    name: "Pottery Capital",
+    lat: 40.6187,
+    lng: -80.5773,
+    radius: 1000,
+    short: "The legend is a cup. People still find East Liverpool marks on plates two states away. The river took the ware. The name stayed on the bottom.",
+    long: "",
+    names: ["East Liverpool"]
+  },
 
 
 

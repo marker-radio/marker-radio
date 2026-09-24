@@ -22684,9 +22684,1394 @@ const STORIES = [
     long: "",
     names: ["Centerville"]
   },
+ {
+    id: "approach-springboro-oh",
+    name: "Springboro",
+    lat: 39.5523,
+    lng: -84.2333,
+    radius: 4500,
+    layer: "approach",
+    short: "You are coming up on Springboro. Warren County town between Dayton and Cincinnati. Quaker street. Underground Railroad country. If you drop in, I'll start on Main.",
+    long: "",
+    names: ["Springboro"]
+  },
+  {
+    id: "springboro-founding",
+    name: "Springboro founding",
+    lat: 39.5523,
+    lng: -84.2333,
+    radius: 1400,
+    short: "Laid out by Quakers in 1815. A planned street town with a moral backbone. The later lots grew around that grid.",
+    long: "",
+    names: ["Springboro"]
+  },
+  {
+    id: "springboro-ugrr",
+    name: "Springboro Underground Railroad",
+    lat: 39.5523,
+    lng: -84.2333,
+    radius: 1400,
+    short: "Springboro was a dense Underground Railroad town. Quaker houses, hiding places, and the road north. The city still tells that story on purpose.",
+    long: "",
+    names: ["Underground Railroad"]
+  },
+  {
+    id: "springboro-roads",
+    name: "Springboro roads",
+    lat: 39.5523,
+    lng: -84.2333,
+    radius: 1500,
+    short: "The old Cincinnati-Dayton corridor, then I-75 nearby. A village that became a growth suburb without tearing out Main.",
+    long: "",
+    names: ["Springboro"]
+  },
+  {
+    id: "springboro-parks",
+    name: "Springboro parks",
+    lat: 39.5523,
+    lng: -84.2333,
+    radius: 1400,
+    short: "North Park, the trail bits, and the greens a fast-growing city still funded.",
+    long: "",
+    names: ["Springboro"]
+  },
+  {
+    id: "springboro-people",
+    name: "Springboro people",
+    lat: 39.5523,
+    lng: -84.2333,
+    radius: 1400,
+    short: "Quaker founders first. Then commuters. A town that still introduces itself with the Railroad story.",
+    long: "",
+    names: ["Springboro"]
+  },
+  {
+    id: "springboro-native",
+    name: "Springboro Native ground",
+    lat: 39.5523,
+    lng: -84.2333,
+    radius: 1700,
+    short: "Upland between the two Miamis. Shawnee and Miami hunting ground before the Quaker lots.",
+    long: "",
+    names: ["Shawnee", "Miami"]
+  },
+  {
+    id: "springboro-war",
+    name: "Springboro war and freedom",
+    lat: 39.5523,
+    lng: -84.2333,
+    radius: 1500,
+    short: "No standing fort. The freedom story is the Railroad. That is the war this street actually fought.",
+    long: "",
+    names: ["Underground Railroad"]
+  },
+  {
+    id: "springboro-legend",
+    name: "The Quaker town that hid people",
+    lat: 39.5523,
+    lng: -84.2333,
+    radius: 1100,
+    short: "The local legend is that almost every old house on Main had a hiding place. Not every house. Enough that the story is the town.",
+    long: "",
+    names: ["Underground Railroad"]
+  },
 
+  {
+    id: "approach-franklin-oh",
+    name: "Franklin",
+    lat: 39.5612,
+    lng: -84.3041,
+    radius: 4000,
+    layer: "approach",
+    short: "You are coming up on Franklin. Great Miami town in Warren County. Paper, canal, and a Main Street that still faces the river. If you drop in, I'll start on the bank.",
+    long: "",
+    names: ["Franklin"]
+  },
+  {
+    id: "franklin-founding",
+    name: "Franklin founding",
+    lat: 39.5612,
+    lng: -84.3041,
+    radius: 1300,
+    short: "Platted in 1796. One of the older river towns on this stretch. The name is the printer. The site is the ford.",
+    long: "",
+    names: ["Franklin"]
+  },
+  {
+    id: "franklin-paper",
+    name: "Franklin paper",
+    lat: 39.5612,
+    lng: -84.3041,
+    radius: 1400,
+    short: "Paper mills on the Miami. Same belt as Middletown and Miamisburg. The mill wrote the payday.",
+    long: "",
+    names: ["Franklin"]
+  },
+  {
+    id: "franklin-canal",
+    name: "Franklin canal",
+    lat: 39.5612,
+    lng: -84.3041,
+    radius: 1400,
+    short: "The Miami and Erie Canal ran this bank. Hydraulic power and freight. The railroad finished it.",
+    long: "",
+    names: ["Miami and Erie Canal"]
+  },
+  {
+    id: "franklin-downtown",
+    name: "Franklin downtown",
+    lat: 39.5612,
+    lng: -84.3041,
+    radius: 800,
+    short: "Main Street on the terrace. A mill downtown that kept more of its brick than some neighbors.",
+    long: "",
+    names: ["Franklin"]
+  },
+  {
+    id: "franklin-parks",
+    name: "Franklin parks",
+    lat: 39.5612,
+    lng: -84.3041,
+    radius: 1300,
+    short: "River parks and the civic greens a mill town kept on the bank.",
+    long: "",
+    names: ["Franklin"]
+  },
+  {
+    id: "franklin-people",
+    name: "Franklin people",
+    lat: 39.5612,
+    lng: -84.3041,
+    radius: 1300,
+    short: "Mill families and the later commute. A town that still points at the river first.",
+    long: "",
+    names: ["Franklin"]
+  },
+  {
+    id: "franklin-native",
+    name: "Franklin Native ground",
+    lat: 39.5612,
+    lng: -84.3041,
+    radius: 1600,
+    short: "Great Miami bottom. Miami country before the 1796 lots.",
+    long: "",
+    names: ["Miami"]
+  },
+  {
+    id: "franklin-war",
+    name: "Franklin war",
+    lat: 39.5612,
+    lng: -84.3041,
+    radius: 1400,
+    short: "No standing fort downtown. Men left from these mills. The fort story sits up and down this same river.",
+    long: "",
+    names: ["Franklin"]
+  },
+  {
+    id: "franklin-legend",
+    name: "The old town on the Miami",
+    lat: 39.5612,
+    lng: -84.3041,
+    radius: 1100,
+    short: "The local legend is that Franklin is the town people skip between Dayton and Cincinnati. The river did not skip it.",
+    long: "",
+    names: ["Franklin"]
+  },
 
+  {
+    id: "approach-carlisle-oh",
+    name: "Carlisle",
+    lat: 39.5820,
+    lng: -84.3202,
+    radius: 3500,
+    layer: "approach",
+    short: "You are coming up on Carlisle. Small city next to Franklin on the Great Miami side. Village street, then the later lots. If you drop in, I'll start on Central.",
+    long: "",
+    names: ["Carlisle"]
+  },
+  {
+    id: "carlisle-founding",
+    name: "Carlisle founding",
+    lat: 39.5820,
+    lng: -84.3202,
+    radius: 1200,
+    short: "A later village on the edge of Franklin's mill world. Incorporated as the county filled in. The name traveled from Pennsylvania.",
+    long: "",
+    names: ["Carlisle"]
+  },
+  {
+    id: "carlisle-roads",
+    name: "Carlisle roads",
+    lat: 39.5820,
+    lng: -84.3202,
+    radius: 1300,
+    short: "Not its own mill river core. A road town beside Franklin's paper. Rail and then the later highway.",
+    long: "",
+    names: ["Carlisle"]
+  },
+  {
+    id: "carlisle-industry",
+    name: "Carlisle work",
+    lat: 39.5820,
+    lng: -84.3202,
+    radius: 1300,
+    short: "The industrial story is next door in Franklin and Middletown. Carlisle supplied houses and a school.",
+    long: "",
+    names: ["Carlisle"]
+  },
+  {
+    id: "carlisle-parks",
+    name: "Carlisle parks",
+    lat: 39.5820,
+    lng: -84.3202,
+    radius: 1200,
+    short: "Village park and the school lawns. A small city that kept a green middle.",
+    long: "",
+    names: ["Carlisle"]
+  },
+  {
+    id: "carlisle-people",
+    name: "Carlisle people",
+    lat: 39.5820,
+    lng: -84.3202,
+    radius: 1200,
+    short: "Mill families who did not live in Franklin proper. A town that still introduces itself as the neighbor.",
+    long: "",
+    names: ["Carlisle"]
+  },
+  {
+    id: "carlisle-native",
+    name: "Carlisle Native ground",
+    lat: 39.5820,
+    lng: -84.3202,
+    radius: 1500,
+    short: "Great Miami terrace. Miami country before the lots.",
+    long: "",
+    names: ["Miami"]
+  },
+  {
+    id: "carlisle-war",
+    name: "Carlisle war",
+    lat: 39.5820,
+    lng: -84.3202,
+    radius: 1300,
+    short: "No fort on Central. Men left from these houses. The river towns nearby hold the older military names.",
+    long: "",
+    names: ["Carlisle"]
+  },
+  {
+    id: "carlisle-legend",
+    name: "The village beside the mill town",
+    lat: 39.5820,
+    lng: -84.3202,
+    radius: 1000,
+    short: "The local legend is that Carlisle is Franklin's spare bedroom. Close enough to be a joke. Distinct enough to keep a city hall.",
+    long: "",
+    names: ["Carlisle"]
+  },
 
+  {
+    id: "approach-new-lebanon-oh",
+    name: "New Lebanon",
+    lat: 39.7453,
+    lng: -84.3855,
+    radius: 3500,
+    layer: "approach",
+    short: "You are coming up on New Lebanon. West of Dayton on the old Eaton road. Village street, then the later lots. If you drop in, I'll start on Main.",
+    long: "",
+    names: ["New Lebanon"]
+  },
+  {
+    id: "new-lebanon-founding",
+    name: "New Lebanon founding",
+    lat: 39.7453,
+    lng: -84.3855,
+    radius: 1200,
+    short: "A road village west of Dayton. Named for the older Lebanon idea — cedars, not the Warren County city. Incorporated as the township filled.",
+    long: "",
+    names: ["New Lebanon"]
+  },
+  {
+    id: "new-lebanon-roads",
+    name: "New Lebanon roads",
+    lat: 39.7453,
+    lng: -84.3855,
+    radius: 1300,
+    short: "The old National Road corridor sits north. This is the Eaton pike town. Not a river mill core. A road town.",
+    long: "",
+    names: ["New Lebanon"]
+  },
+  {
+    id: "new-lebanon-industry",
+    name: "New Lebanon work",
+    lat: 39.7453,
+    lng: -84.3855,
+    radius: 1300,
+    short: "Farms first. Then the Dayton commute. Small shops. The industrial story is east in the city.",
+    long: "",
+    names: ["New Lebanon"]
+  },
+  {
+    id: "new-lebanon-parks",
+    name: "New Lebanon parks",
+    lat: 39.7453,
+    lng: -84.3855,
+    radius: 1200,
+    short: "Village park and the school lawns. A small place that kept a green middle.",
+    long: "",
+    names: ["New Lebanon"]
+  },
+  {
+    id: "new-lebanon-people",
+    name: "New Lebanon people",
+    lat: 39.7453,
+    lng: -84.3855,
+    radius: 1200,
+    short: "Farm families and west-side commuters. A town that still means the pike when it says home.",
+    long: "",
+    names: ["New Lebanon"]
+  },
+  {
+    id: "new-lebanon-native",
+    name: "New Lebanon Native ground",
+    lat: 39.7453,
+    lng: -84.3855,
+    radius: 1500,
+    short: "Upland west of the Great Miami. Shawnee and Miami hunting ground before the lots.",
+    long: "",
+    names: ["Shawnee", "Miami"]
+  },
+  {
+    id: "new-lebanon-war",
+    name: "New Lebanon war",
+    lat: 39.7453,
+    lng: -84.3855,
+    radius: 1300,
+    short: "No fort on Main. Men left from these farms. The fort names sit on the rivers.",
+    long: "",
+    names: ["New Lebanon"]
+  },
+  {
+    id: "new-lebanon-legend",
+    name: "The other Lebanon",
+    lat: 39.7453,
+    lng: -84.3855,
+    radius: 1000,
+    short: "The local legend is that outsiders always ask if this is the Lebanon with the Golden Lamb. It is not. That is the point of the New.",
+    long: "",
+    names: ["New Lebanon"]
+  },
 
-    ];
+  {
+    id: "approach-brookville-oh",
+    name: "Brookville",
+    lat: 39.8364,
+    lng: -84.4113,
+    radius: 4000,
+    layer: "approach",
+    short: "You are coming up on Brookville. West of Dayton. Railroad town on the old National Road edge. If you drop in, I'll start on Market.",
+    long: "",
+    names: ["Brookville"]
+  },
+  {
+    id: "brookville-founding",
+    name: "Brookville founding",
+    lat: 39.8364,
+    lng: -84.4113,
+    radius: 1300,
+    short: "Platted when the railroad and the pike made a crossing worth a town. West Montgomery. A village that kept growing.",
+    long: "",
+    names: ["Brookville"]
+  },
+  {
+    id: "brookville-rail",
+    name: "Brookville railroad",
+    lat: 39.8364,
+    lng: -84.4113,
+    radius: 1400,
+    short: "The depot wrote the street. Grain, coal, and the later commute into Dayton. A railroad town that still shows the tracks.",
+    long: "",
+    names: ["Brookville"]
+  },
+  {
+    id: "brookville-road",
+    name: "Brookville and the National Road",
+    lat: 39.8364,
+    lng: -84.4113,
+    radius: 1400,
+    short: "U.S. 40 runs just north. The old National Road. Brookville is the town that sat off the pike and still caught the traffic.",
+    long: "",
+    names: ["National Road"]
+  },
+  {
+    id: "brookville-parks",
+    name: "Brookville parks",
+    lat: 39.8364,
+    lng: -84.4113,
+    radius: 1300,
+    short: "Town park and the school lawns. A small city that kept a green middle.",
+    long: "",
+    names: ["Brookville"]
+  },
+  {
+    id: "brookville-people",
+    name: "Brookville people",
+    lat: 39.8364,
+    lng: -84.4113,
+    radius: 1300,
+    short: "Farm families, railroad men, then the west-side commute. A town that still means the depot when it talks old times.",
+    long: "",
+    names: ["Brookville"]
+  },
+  {
+    id: "brookville-native",
+    name: "Brookville Native ground",
+    lat: 39.8364,
+    lng: -84.4113,
+    radius: 1600,
+    short: "Upland west of Dayton. Shawnee and Miami hunting ground before the lots.",
+    long: "",
+    names: ["Shawnee", "Miami"]
+  },
+  {
+    id: "brookville-war",
+    name: "Brookville war",
+    lat: 39.8364,
+    lng: -84.4113,
+    radius: 1400,
+    short: "No fort on Market. Men left from these farms. The federal later story is Wright Field east.",
+    long: "",
+    names: ["Brookville"]
+  },
+  {
+    id: "brookville-legend",
+    name: "The west-side railroad town",
+    lat: 39.8364,
+    lng: -84.4113,
+    radius: 1100,
+    short: "The local legend is that Brookville is where Dayton ends and farm country starts. The tracks already knew that.",
+    long: "",
+    names: ["Brookville"]
+  },
+
+  {
+    id: "approach-clayton-oh",
+    name: "Clayton",
+    lat: 39.8631,
+    lng: -84.3602,
+    radius: 4000,
+    layer: "approach",
+    short: "You are coming up on Clayton. Northwest of Dayton. Township that became a city. If you drop in, I'll start on the old village street.",
+    long: "",
+    names: ["Clayton"]
+  },
+  {
+    id: "clayton-founding",
+    name: "Clayton founding",
+    lat: 39.8631,
+    lng: -84.3602,
+    radius: 1400,
+    short: "Randolph Township first. The village of Clayton sat inside it. They merged into one city so the map would match the tax bill.",
+    long: "",
+    names: ["Clayton"]
+  },
+  {
+    id: "clayton-roads",
+    name: "Clayton roads",
+    lat: 39.8631,
+    lng: -84.3602,
+    radius: 1500,
+    short: "National Road just south. I-70 later. A township city built on pavement, not a mill river.",
+    long: "",
+    names: ["National Road"]
+  },
+  {
+    id: "clayton-industry",
+    name: "Clayton work",
+    lat: 39.8631,
+    lng: -84.3602,
+    radius: 1400,
+    short: "Farms, then the Dayton commute and the later warehouses along the interstate. Work followed the pavement.",
+    long: "",
+    names: ["Clayton"]
+  },
+  {
+    id: "clayton-parks",
+    name: "Clayton parks",
+    lat: 39.8631,
+    lng: -84.3602,
+    radius: 1400,
+    short: "Township parks and the school lawns. A city that kept green on purpose after the merger.",
+    long: "",
+    names: ["Clayton"]
+  },
+  {
+    id: "clayton-people",
+    name: "Clayton people",
+    lat: 39.8631,
+    lng: -84.3602,
+    radius: 1400,
+    short: "Farm families and northwest commuters. A city that still argues whether it is a village or a township in the same sentence.",
+    long: "",
+    names: ["Clayton"]
+  },
+  {
+    id: "clayton-native",
+    name: "Clayton Native ground",
+    lat: 39.8631,
+    lng: -84.3602,
+    radius: 1700,
+    short: "Upland north of the Miami. Shawnee and Miami hunting ground before the section lines.",
+    long: "",
+    names: ["Shawnee", "Miami"]
+  },
+  {
+    id: "clayton-war",
+    name: "Clayton war",
+    lat: 39.8631,
+    lng: -84.3602,
+    radius: 1500,
+    short: "No fort on the village street. Men left from these farms. Wright Field is the later federal neighbor.",
+    long: "",
+    names: ["Clayton"]
+  },
+  {
+    id: "clayton-legend",
+    name: "The township that became a city",
+    lat: 39.8631,
+    lng: -84.3602,
+    radius: 1100,
+    short: "The local legend is that Clayton exists because nobody wanted to be annexed by somebody else. Close enough to be the founding story.",
+    long: "",
+    names: ["Clayton"]
+  },
+
+  {
+    id: "approach-union-oh",
+    name: "Union",
+    lat: 39.8978,
+    lng: -84.3144,
+    radius: 3500,
+    layer: "approach",
+    short: "You are coming up on Union. Small city northwest of Dayton. Village street beside Englewood and Clayton. If you drop in, I'll start on the main run.",
+    long: "",
+    names: ["Union"]
+  },
+  {
+    id: "union-founding",
+    name: "Union founding",
+    lat: 39.8978,
+    lng: -84.3144,
+    radius: 1200,
+    short: "A village that took the Union name and later became a city so it could keep its own line on the map.",
+    long: "",
+    names: ["Union"]
+  },
+  {
+    id: "union-roads",
+    name: "Union roads",
+    lat: 39.8978,
+    lng: -84.3144,
+    radius: 1300,
+    short: "I-70 and the old pike nearby. Not a river mill core. A road town in the northwest cluster.",
+    long: "",
+    names: ["Union"]
+  },
+  {
+    id: "union-industry",
+    name: "Union work",
+    lat: 39.8978,
+    lng: -84.3144,
+    radius: 1300,
+    short: "Farms, then the Dayton commute. Small shops. The plants sit in the bigger neighbors.",
+    long: "",
+    names: ["Union"]
+  },
+  {
+    id: "union-parks",
+    name: "Union parks",
+    lat: 39.8978,
+    lng: -84.3144,
+    radius: 1200,
+    short: "Village park and the school lawns. A small city that kept a green middle.",
+    long: "",
+    names: ["Union"]
+  },
+  {
+    id: "union-people",
+    name: "Union people",
+    lat: 39.8978,
+    lng: -84.3144,
+    radius: 1200,
+    short: "Farm families and northwest commuters. A town that still has to tell people which Union.",
+    long: "",
+    names: ["Union"]
+  },
+  {
+    id: "union-native",
+    name: "Union Native ground",
+    lat: 39.8978,
+    lng: -84.3144,
+    radius: 1500,
+    short: "Upland north of Dayton. Shawnee and Miami hunting ground before the lots.",
+    long: "",
+    names: ["Shawnee", "Miami"]
+  },
+  {
+    id: "union-war",
+    name: "Union war",
+    lat: 39.8978,
+    lng: -84.3144,
+    radius: 1300,
+    short: "The name is the Civil War word. The street is a village. Men left from these farms.",
+    long: "",
+    names: ["Union"]
+  },
+  {
+    id: "union-legend",
+    name: "The other Union",
+    lat: 39.8978,
+    lng: -84.3144,
+    radius: 1000,
+    short: "The local legend is that every state has a Union and this one is the one next to Englewood. Accurate, if unromantic.",
+    long: "",
+    names: ["Union"]
+  },
+
+  {
+    id: "approach-englewood-oh",
+    name: "Englewood",
+    lat: 39.8776,
+    lng: -84.3022,
+    radius: 4000,
+    layer: "approach",
+    short: "You are coming up on Englewood. Northwest of Dayton on the National Road. I-70 town. If you drop in, I'll start on Main.",
+    long: "",
+    names: ["Englewood"]
+  },
+  {
+    id: "englewood-founding",
+    name: "Englewood founding",
+    lat: 39.8776,
+    lng: -84.3022,
+    radius: 1300,
+    short: "A National Road village that became a city when the interstate arrived. Northwest Dayton's door.",
+    long: "",
+    names: ["Englewood"]
+  },
+  {
+    id: "englewood-road",
+    name: "Englewood and the National Road",
+    lat: 39.8776,
+    lng: -84.3022,
+    radius: 1400,
+    short: "U.S. 40 through town. The old National Road. Then I-70. Englewood is a pike town that got an interchange.",
+    long: "",
+    names: ["National Road"]
+  },
+  {
+    id: "englewood-dam",
+    name: "Englewood Dam",
+    lat: 39.8680,
+    lng: -84.2950,
+    radius: 1200,
+    short: "Englewood Dam on the Stillwater. One of the five Miami Conservancy dams after the 1913 flood. The flood wrote the concrete.",
+    long: "",
+    names: ["Englewood Dam", "Miami Conservancy District"]
+  },
+  {
+    id: "englewood-parks",
+    name: "Englewood parks",
+    lat: 39.8776,
+    lng: -84.3022,
+    radius: 1400,
+    short: "The metropark below the dam and the city greens. A town that put a trail under a flood wall.",
+    long: "",
+    names: ["Englewood MetroPark"]
+  },
+  {
+    id: "englewood-people",
+    name: "Englewood people",
+    lat: 39.8776,
+    lng: -84.3022,
+    radius: 1300,
+    short: "Pike families, then the interchange commute. A city that still points at the dam when you ask what shaped it.",
+    long: "",
+    names: ["Englewood"]
+  },
+  {
+    id: "englewood-native",
+    name: "Englewood Native ground",
+    lat: 39.8776,
+    lng: -84.3022,
+    radius: 1600,
+    short: "Stillwater valley. Shawnee and Miami hunting ground before the pike lots.",
+    long: "",
+    names: ["Shawnee", "Miami"]
+  },
+  {
+    id: "englewood-war",
+    name: "Englewood war",
+    lat: 39.8776,
+    lng: -84.3022,
+    radius: 1400,
+    short: "No fort on Main. The civic war here was water after 1913. The dam is the monument.",
+    long: "",
+    names: ["Englewood Dam"]
+  },
+  {
+    id: "englewood-legend",
+    name: "The dam town on the pike",
+    lat: 39.8776,
+    lng: -84.3022,
+    radius: 1100,
+    short: "The local legend is that Englewood is just an I-70 exit. The flood of 1913 is why the concrete is here.",
+    long: "",
+    names: ["Englewood Dam"]
+  },
+
+  {
+    id: "approach-vandalia-oh",
+    name: "Vandalia",
+    lat: 39.8906,
+    lng: -84.1988,
+    radius: 4500,
+    layer: "approach",
+    short: "You are coming up on Vandalia. North of Dayton. Airport town. National Road. If you drop in, I'll start on the pike.",
+    long: "",
+    names: ["Vandalia"]
+  },
+  {
+    id: "vandalia-founding",
+    name: "Vandalia founding",
+    lat: 39.8906,
+    lng: -84.1988,
+    radius: 1400,
+    short: "A National Road town that took a name from the old Vandalia idea — the road west. Then the airport arrived and rewrote the map.",
+    long: "",
+    names: ["Vandalia"]
+  },
+  {
+    id: "vandalia-airport",
+    name: "Dayton airport at Vandalia",
+    lat: 39.9024,
+    lng: -84.2194,
+    radius: 2000,
+    short: "Dayton International sits on Vandalia's north side. The field made this a layover city. Planes, hotels, and the old pike in the same sentence.",
+    long: "",
+    names: ["Dayton International Airport"]
+  },
+  {
+    id: "vandalia-road",
+    name: "Vandalia and the National Road",
+    lat: 39.8906,
+    lng: -84.1988,
+    radius: 1400,
+    short: "U.S. 40 through town. The National Road. Vandalia is a pike town that got a runway.",
+    long: "",
+    names: ["National Road"]
+  },
+  {
+    id: "vandalia-parks",
+    name: "Vandalia parks",
+    lat: 39.8906,
+    lng: -84.1988,
+    radius: 1400,
+    short: "City parks and the sports fields a road-and-airport town funded on purpose.",
+    long: "",
+    names: ["Vandalia"]
+  },
+  {
+    id: "vandalia-people",
+    name: "Vandalia people",
+    lat: 39.8906,
+    lng: -84.1988,
+    radius: 1400,
+    short: "Pike families, then airport workers and the north-side commute. A city that still hears jets over the old road.",
+    long: "",
+    names: ["Vandalia"]
+  },
+  {
+    id: "vandalia-native",
+    name: "Vandalia Native ground",
+    lat: 39.8906,
+    lng: -84.1988,
+    radius: 1700,
+    short: "Upland north of Dayton. Shawnee and Miami hunting ground before the pike.",
+    long: "",
+    names: ["Shawnee", "Miami"]
+  },
+  {
+    id: "vandalia-war",
+    name: "Vandalia war",
+    lat: 39.8906,
+    lng: -84.1988,
+    radius: 1500,
+    short: "No fort on the pike. The later war story is Wright-Patterson next door and the field that still moves military and civilian traffic.",
+    long: "",
+    names: ["Wright-Patterson"]
+  },
+  {
+    id: "vandalia-legend",
+    name: "The pike under the flight path",
+    lat: 39.8906,
+    lng: -84.1988,
+    radius: 1100,
+    short: "The local legend is that Vandalia is just the airport. The National Road was here first. The jets just got louder.",
+    long: "",
+    names: ["Vandalia"]
+  },
+
+  {
+    id: "approach-tipp-city-oh",
+    name: "Tipp City",
+    lat: 39.9634,
+    lng: -84.1722,
+    radius: 4000,
+    layer: "approach",
+    short: "You are coming up on Tipp City. Miami County town north of Dayton on I-75. Canal and downtown brick. If you drop in, I'll start on Main.",
+    long: "",
+    names: ["Tipp City"]
+  },
+  {
+    id: "tipp-founding",
+    name: "Tipp City founding",
+    lat: 39.9634,
+    lng: -84.1722,
+    radius: 1300,
+    short: "Laid out as Tippecanoe. Named for the battle and the Harrison campaign. Later shortened on the map to Tipp City so the post office would fit.",
+    long: "",
+    names: ["Tipp City", "Tippecanoe"]
+  },
+  {
+    id: "tipp-canal",
+    name: "Tipp City canal",
+    lat: 39.9634,
+    lng: -84.1722,
+    radius: 1400,
+    short: "The Miami and Erie Canal ran this town. Hydraulic power and freight. The downtown still faces the old water line.",
+    long: "",
+    names: ["Miami and Erie Canal"]
+  },
+  {
+    id: "tipp-downtown",
+    name: "Tipp City downtown",
+    lat: 39.9634,
+    lng: -84.1722,
+    radius: 800,
+    short: "Brick Main. One of the better-kept canal downtowns north of Dayton. A town that put money back into the block.",
+    long: "",
+    names: ["Tipp City"]
+  },
+  {
+    id: "tipp-parks",
+    name: "Tipp City parks",
+    lat: 39.9634,
+    lng: -84.1722,
+    radius: 1300,
+    short: "Canal park, the river bits, and the civic greens. A small city that walks its old water.",
+    long: "",
+    names: ["Tipp City"]
+  },
+  {
+    id: "tipp-people",
+    name: "Tipp City people",
+    lat: 39.9634,
+    lng: -84.1722,
+    radius: 1300,
+    short: "Canal families, then the I-75 commute. A town that still introduces itself with the brick street.",
+    long: "",
+    names: ["Tipp City"]
+  },
+  {
+    id: "tipp-native",
+    name: "Tipp City Native ground",
+    lat: 39.9634,
+    lng: -84.1722,
+    radius: 1600,
+    short: "Great Miami terrace. Miami country. The name on the map is a battle farther north.",
+    long: "",
+    names: ["Miami", "Tippecanoe"]
+  },
+  {
+    id: "tipp-war",
+    name: "Tipp City war",
+    lat: 39.9634,
+    lng: -84.1722,
+    radius: 1400,
+    short: "The name is Tippecanoe. The street is a canal town. Men left from these blocks. The battle itself is not here.",
+    long: "",
+    names: ["Tippecanoe"]
+  },
+  {
+    id: "tipp-legend",
+    name: "The town that shortened Tippecanoe",
+    lat: 39.9634,
+    lng: -84.1722,
+    radius: 1100,
+    short: "The local legend is that Tipp is just a cute name. It is a battle name that would not fit on a postmark.",
+    long: "",
+    names: ["Tippecanoe"]
+  },
+
+  {
+    id: "approach-brookville-oh",
+    name: "Brookville",
+    lat: 39.8364,
+    lng: -84.4113,
+    radius: 4000,
+    layer: "approach",
+    short: "You are coming up on Brookville. West of Dayton. Railroad town on the old National Road edge. If you drop in, I'll start on Market.",
+    long: "",
+    names: ["Brookville"]
+  },
+  {
+    id: "brookville-founding",
+    name: "Brookville founding",
+    lat: 39.8364,
+    lng: -84.4113,
+    radius: 1300,
+    short: "Platted when the railroad and the pike made a crossing worth a town. West Montgomery. A village that kept growing.",
+    long: "",
+    names: ["Brookville"]
+  },
+  {
+    id: "brookville-rail",
+    name: "Brookville railroad",
+    lat: 39.8364,
+    lng: -84.4113,
+    radius: 1400,
+    short: "The depot wrote the street. Grain, coal, and the later commute into Dayton. A railroad town that still shows the tracks.",
+    long: "",
+    names: ["Brookville"]
+  },
+  {
+    id: "brookville-road",
+    name: "Brookville and the National Road",
+    lat: 39.8364,
+    lng: -84.4113,
+    radius: 1400,
+    short: "U.S. 40 runs just north. The old National Road. Brookville is the town that sat off the pike and still caught the traffic.",
+    long: "",
+    names: ["National Road"]
+  },
+  {
+    id: "brookville-parks",
+    name: "Brookville parks",
+    lat: 39.8364,
+    lng: -84.4113,
+    radius: 1300,
+    short: "Town park and the school lawns. A small city that kept a green middle.",
+    long: "",
+    names: ["Brookville"]
+  },
+  {
+    id: "brookville-people",
+    name: "Brookville people",
+    lat: 39.8364,
+    lng: -84.4113,
+    radius: 1300,
+    short: "Farm families, railroad men, then the west-side commute. A town that still means the depot when it talks old times.",
+    long: "",
+    names: ["Brookville"]
+  },
+  {
+    id: "brookville-native",
+    name: "Brookville Native ground",
+    lat: 39.8364,
+    lng: -84.4113,
+    radius: 1600,
+    short: "Upland west of Dayton. Shawnee and Miami hunting ground before the lots.",
+    long: "",
+    names: ["Shawnee", "Miami"]
+  },
+  {
+    id: "brookville-war",
+    name: "Brookville war",
+    lat: 39.8364,
+    lng: -84.4113,
+    radius: 1400,
+    short: "No fort on Market. Men left from these farms. The federal later story is Wright Field east.",
+    long: "",
+    names: ["Brookville"]
+  },
+  {
+    id: "brookville-legend",
+    name: "The west-side railroad town",
+    lat: 39.8364,
+    lng: -84.4113,
+    radius: 1100,
+    short: "The local legend is that Brookville is where Dayton ends and farm country starts. The tracks already knew that.",
+    long: "",
+    names: ["Brookville"]
+  },
+  {
+    id: "approach-clayton-oh",
+    name: "Clayton",
+    lat: 39.8631,
+    lng: -84.3602,
+    radius: 4000,
+    layer: "approach",
+    short: "You are coming up on Clayton. Northwest of Dayton. Township that became a city. If you drop in, I'll start on the old village street.",
+    long: "",
+    names: ["Clayton"]
+  },
+  {
+    id: "clayton-founding",
+    name: "Clayton founding",
+    lat: 39.8631,
+    lng: -84.3602,
+    radius: 1400,
+    short: "Randolph Township first. The village of Clayton sat inside it. They merged into one city so the map would match the tax bill.",
+    long: "",
+    names: ["Clayton"]
+  },
+  {
+    id: "clayton-roads",
+    name: "Clayton roads",
+    lat: 39.8631,
+    lng: -84.3602,
+    radius: 1500,
+    short: "National Road just south. I-70 later. A township city built on pavement, not a mill river.",
+    long: "",
+    names: ["National Road"]
+  },
+  {
+    id: "clayton-industry",
+    name: "Clayton work",
+    lat: 39.8631,
+    lng: -84.3602,
+    radius: 1400,
+    short: "Farms, then the Dayton commute and the later warehouses along the interstate. Work followed the pavement.",
+    long: "",
+    names: ["Clayton"]
+  },
+  {
+    id: "clayton-parks",
+    name: "Clayton parks",
+    lat: 39.8631,
+    lng: -84.3602,
+    radius: 1400,
+    short: "Township parks and the school lawns. A city that kept green on purpose after the merger.",
+    long: "",
+    names: ["Clayton"]
+  },
+  {
+    id: "clayton-people",
+    name: "Clayton people",
+    lat: 39.8631,
+    lng: -84.3602,
+    radius: 1400,
+    short: "Farm families and northwest commuters. A city that still argues whether it is a village or a township in the same sentence.",
+    long: "",
+    names: ["Clayton"]
+  },
+  {
+    id: "clayton-native",
+    name: "Clayton Native ground",
+    lat: 39.8631,
+    lng: -84.3602,
+    radius: 1700,
+    short: "Upland north of the Miami. Shawnee and Miami hunting ground before the section lines.",
+    long: "",
+    names: ["Shawnee", "Miami"]
+  },
+  {
+    id: "clayton-war",
+    name: "Clayton war",
+    lat: 39.8631,
+    lng: -84.3602,
+    radius: 1500,
+    short: "No fort on the village street. Men left from these farms. Wright Field is the later federal neighbor.",
+    long: "",
+    names: ["Clayton"]
+  },
+  {
+    id: "clayton-legend",
+    name: "The township that became a city",
+    lat: 39.8631,
+    lng: -84.3602,
+    radius: 1100,
+    short: "The local legend is that Clayton exists because nobody wanted to be annexed by somebody else. Close enough to be the founding story.",
+    long: "",
+    names: ["Clayton"]
+  },
+
+  {
+    id: "approach-union-oh",
+    name: "Union",
+    lat: 39.8978,
+    lng: -84.3144,
+    radius: 3500,
+    layer: "approach",
+    short: "You are coming up on Union. Small city northwest of Dayton. Village street beside Englewood and Clayton. If you drop in, I'll start on the main run.",
+    long: "",
+    names: ["Union"]
+  },
+  {
+    id: "union-founding",
+    name: "Union founding",
+    lat: 39.8978,
+    lng: -84.3144,
+    radius: 1200,
+    short: "A village that took the Union name and later became a city so it could keep its own line on the map.",
+    long: "",
+    names: ["Union"]
+  },
+  {
+    id: "union-roads",
+    name: "Union roads",
+    lat: 39.8978,
+    lng: -84.3144,
+    radius: 1300,
+    short: "I-70 and the old pike nearby. Not a river mill core. A road town in the northwest cluster.",
+    long: "",
+    names: ["Union"]
+  },
+  {
+    id: "union-industry",
+    name: "Union work",
+    lat: 39.8978,
+    lng: -84.3144,
+    radius: 1300,
+    short: "Farms, then the Dayton commute. Small shops. The plants sit in the bigger neighbors.",
+    long: "",
+    names: ["Union"]
+  },
+  {
+    id: "union-parks",
+    name: "Union parks",
+    lat: 39.8978,
+    lng: -84.3144,
+    radius: 1200,
+    short: "Village park and the school lawns. A small city that kept a green middle.",
+    long: "",
+    names: ["Union"]
+  },
+  {
+    id: "union-people",
+    name: "Union people",
+    lat: 39.8978,
+    lng: -84.3144,
+    radius: 1200,
+    short: "Farm families and northwest commuters. A town that still has to tell people which Union.",
+    long: "",
+    names: ["Union"]
+  },
+  {
+    id: "union-native",
+    name: "Union Native ground",
+    lat: 39.8978,
+    lng: -84.3144,
+    radius: 1500,
+    short: "Upland north of Dayton. Shawnee and Miami hunting ground before the lots.",
+    long: "",
+    names: ["Shawnee", "Miami"]
+  },
+  {
+    id: "union-war",
+    name: "Union war",
+    lat: 39.8978,
+    lng: -84.3144,
+    radius: 1300,
+    short: "The name is the Civil War word. The street is a village. Men left from these farms.",
+    long: "",
+    names: ["Union"]
+  },
+  {
+    id: "union-legend",
+    name: "The other Union",
+    lat: 39.8978,
+    lng: -84.3144,
+    radius: 1000,
+    short: "The local legend is that every state has a Union and this one is the one next to Englewood. Accurate, if unromantic.",
+    long: "",
+    names: ["Union"]
+  },
+
+  {
+    id: "approach-englewood-oh",
+    name: "Englewood",
+    lat: 39.8776,
+    lng: -84.3022,
+    radius: 4000,
+    layer: "approach",
+    short: "You are coming up on Englewood. Northwest of Dayton on the National Road. I-70 town. If you drop in, I'll start on Main.",
+    long: "",
+    names: ["Englewood"]
+  },
+  {
+    id: "englewood-founding",
+    name: "Englewood founding",
+    lat: 39.8776,
+    lng: -84.3022,
+    radius: 1300,
+    short: "A National Road village that became a city when the interstate arrived. Northwest Dayton's door.",
+    long: "",
+    names: ["Englewood"]
+  },
+  {
+    id: "englewood-road",
+    name: "Englewood and the National Road",
+    lat: 39.8776,
+    lng: -84.3022,
+    radius: 1400,
+    short: "U.S. 40 through town. The old National Road. Then I-70. Englewood is a pike town that got an interchange.",
+    long: "",
+    names: ["National Road"]
+  },
+  {
+    id: "englewood-dam",
+    name: "Englewood Dam",
+    lat: 39.8680,
+    lng: -84.2950,
+    radius: 1200,
+    short: "Englewood Dam on the Stillwater. One of the five Miami Conservancy dams after the 1913 flood. The flood wrote the concrete.",
+    long: "",
+    names: ["Englewood Dam", "Miami Conservancy District"]
+  },
+  {
+    id: "englewood-parks",
+    name: "Englewood parks",
+    lat: 39.8776,
+    lng: -84.3022,
+    radius: 1400,
+    short: "The metropark below the dam and the city greens. A town that put a trail under a flood wall.",
+    long: "",
+    names: ["Englewood MetroPark"]
+  },
+  {
+    id: "englewood-people",
+    name: "Englewood people",
+    lat: 39.8776,
+    lng: -84.3022,
+    radius: 1300,
+    short: "Pike families, then the interchange commute. A city that still points at the dam when you ask what shaped it.",
+    long: "",
+    names: ["Englewood"]
+  },
+  {
+    id: "englewood-native",
+    name: "Englewood Native ground",
+    lat: 39.8776,
+    lng: -84.3022,
+    radius: 1600,
+    short: "Stillwater valley. Shawnee and Miami hunting ground before the pike lots.",
+    long: "",
+    names: ["Shawnee", "Miami"]
+  },
+  {
+    id: "englewood-war",
+    name: "Englewood war",
+    lat: 39.8776,
+    lng: -84.3022,
+    radius: 1400,
+    short: "No fort on Main. The civic war here was water after 1913. The dam is the monument.",
+    long: "",
+    names: ["Englewood Dam"]
+  },
+  {
+    id: "englewood-legend",
+    name: "The dam town on the pike",
+    lat: 39.8776,
+    lng: -84.3022,
+    radius: 1100,
+    short: "The local legend is that Englewood is just an I-70 exit. The flood of 1913 is why the concrete is here.",
+    long: "",
+    names: ["Englewood Dam"]
+  },
+
+  {
+    id: "approach-vandalia-oh",
+    name: "Vandalia",
+    lat: 39.8906,
+    lng: -84.1988,
+    radius: 4500,
+    layer: "approach",
+    short: "You are coming up on Vandalia. North of Dayton. Airport town. National Road. If you drop in, I'll start on the pike.",
+    long: "",
+    names: ["Vandalia"]
+  },
+  {
+    id: "vandalia-founding",
+    name: "Vandalia founding",
+    lat: 39.8906,
+    lng: -84.1988,
+    radius: 1400,
+    short: "A National Road town that took a name from the old Vandalia idea — the road west. Then the airport arrived and rewrote the map.",
+    long: "",
+    names: ["Vandalia"]
+  },
+  {
+    id: "vandalia-airport",
+    name: "Dayton airport at Vandalia",
+    lat: 39.9024,
+    lng: -84.2194,
+    radius: 2000,
+    short: "Dayton International sits on Vandalia's north side. The field made this a layover city. Planes, hotels, and the old pike in the same sentence.",
+    long: "",
+    names: ["Dayton International Airport"]
+  },
+  {
+    id: "vandalia-road",
+    name: "Vandalia and the National Road",
+    lat: 39.8906,
+    lng: -84.1988,
+    radius: 1400,
+    short: "U.S. 40 through town. The National Road. Vandalia is a pike town that got a runway.",
+    long: "",
+    names: ["National Road"]
+  },
+  {
+    id: "vandalia-parks",
+    name: "Vandalia parks",
+    lat: 39.8906,
+    lng: -84.1988,
+    radius: 1400,
+    short: "City parks and the sports fields a road-and-airport town funded on purpose.",
+    long: "",
+    names: ["Vandalia"]
+  },
+  {
+    id: "vandalia-people",
+    name: "Vandalia people",
+    lat: 39.8906,
+    lng: -84.1988,
+    radius: 1400,
+    short: "Pike families, then airport workers and the north-side commute. A city that still hears jets over the old road.",
+    long: "",
+    names: ["Vandalia"]
+  },
+  {
+    id: "vandalia-native",
+    name: "Vandalia Native ground",
+    lat: 39.8906,
+    lng: -84.1988,
+    radius: 1700,
+    short: "Upland north of Dayton. Shawnee and Miami hunting ground before the pike.",
+    long: "",
+    names: ["Shawnee", "Miami"]
+  },
+  {
+    id: "vandalia-war",
+    name: "Vandalia war",
+    lat: 39.8906,
+    lng: -84.1988,
+    radius: 1500,
+    short: "No fort on the pike. The later war story is Wright-Patterson next door and the field that still moves military and civilian traffic.",
+    long: "",
+    names: ["Wright-Patterson"]
+  },
+  {
+    id: "vandalia-legend",
+    name: "The pike under the flight path",
+    lat: 39.8906,
+    lng: -84.1988,
+    radius: 1100,
+    short: "The local legend is that Vandalia is just the airport. The National Road was here first. The jets just got louder.",
+    long: "",
+    names: ["Vandalia"]
+  },
+
+  ];
 

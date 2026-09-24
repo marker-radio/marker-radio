@@ -17270,7 +17270,1153 @@ const STORIES = [
     long: "",
     names: ["East Liverpool"]
   },
+  {
+    id: "approach-wellsville",
+    name: "Wellsville",
+    lat: 40.6028,
+    lng: -80.6487,
+    radius: 5000,
+    layer: "approach",
+    short: "You are coming up on Wellsville. Ohio River town above East Liverpool. Landing, rail, and brick. If you drop downtown, I'll start at the water.",
+    long: "",
+    names: ["Wellsville"]
+  },
+  {
+    id: "wellsville-founding",
+    name: "Wellsville founding",
+    lat: 40.6028,
+    lng: -80.6487,
+    radius: 1400,
+    short: "William Wells laid a landing on this bank. A river town before the pottery boom downriver stole the bigger name. Columbiana County's older landing.",
+    long: "",
+    names: ["William Wells"]
+  },
+  {
+    id: "wellsville-river-rail",
+    name: "Wellsville river and rail",
+    lat: 40.6028,
+    lng: -80.6487,
+    radius: 1500,
+    short: "Ohio River packets, then the railroad shops. Brick and clay. A bank that loaded whatever the valley made.",
+    long: "",
+    names: ["Ohio River"]
+  },
+  {
+    id: "wellsville-parks",
+    name: "Wellsville parks",
+    lat: 40.6028,
+    lng: -80.6487,
+    radius: 1400,
+    short: "The riverfront and the hill cemetery view. A landing town that kept a porch on the Ohio.",
+    long: "",
+    names: ["Wellsville"]
+  },
+  {
+    id: "wellsville-people",
+    name: "Wellsville people",
+    lat: 40.6028,
+    lng: -80.6487,
+    radius: 1400,
+    short: "Boatmen, rail crews, and kiln families. People here will tell you they were a town while East Liverpool was still learning clay.",
+    long: "",
+    names: ["Wellsville"]
+  },
+  {
+    id: "wellsville-native",
+    name: "Wellsville Native ground",
+    lat: 40.6028,
+    lng: -80.6487,
+    radius: 1800,
+    short: "Ohio River crossing ground. Same bend country as East Liverpool. The landing is new. The water is not.",
+    long: "",
+    names: ["Ohio River"]
+  },
+  {
+    id: "wellsville-war",
+    name: "Wellsville war",
+    lat: 40.6028,
+    lng: -80.6487,
+    radius: 1500,
+    short: "No fort downtown. River traffic in wartime. County companies left from this bank.",
+    long: "",
+    names: ["Wellsville"]
+  },
+  {
+    id: "wellsville-legend",
+    name: "The other landing",
+    lat: 40.6028,
+    lng: -80.6487,
+    radius: 1000,
+    short: "The legend is seniority. Pottery took the fame downriver. Wellsville keeps the older claim: we were already here when the kilns lit.",
+    long: "",
+    names: ["Wellsville"]
+  },
 
+  {
+    id: "approach-lisbon-oh",
+    name: "Lisbon Ohio",
+    lat: 40.7720,
+    lng: -80.7681,
+    radius: 6000,
+    layer: "approach",
+    short: "You are coming up on Lisbon. Columbiana County seat. Old New Lisbon. Canal town in the hills. If you drop downtown, I'll start at the square.",
+    long: "",
+    names: ["Lisbon"]
+  },
+  {
+    id: "lisbon-founding",
+    name: "Lisbon founding",
+    lat: 40.7720,
+    lng: -80.7681,
+    radius: 1400,
+    short: "Lewis Kinney platted New Lisbon in 1803. One of the oldest towns in this corner of Ohio. The New later dropped. County seat on Little Beaver Creek country.",
+    long: "",
+    names: ["Lewis Kinney"]
+  },
+  {
+    id: "lisbon-canal",
+    name: "Sandy and Beaver Canal",
+    lat: 40.7720,
+    lng: -80.7681,
+    radius: 1500,
+    short: "The Sandy and Beaver Canal tried to tie this hill town to the Ohio and the Tuscarawas. Locks in the woods. It never quite won. The attempt is still in the ground.",
+    long: "",
+    names: ["Sandy and Beaver Canal"]
+  },
+  {
+    id: "lisbon-courthouse",
+    name: "Columbiana County Courthouse",
+    lat: 40.7720,
+    lng: -80.7681,
+    radius: 400,
+    short: "The courthouse on the square is why the town kept the seat. Brick and a green. A hill county's middle.",
+    long: "",
+    names: ["Columbiana County Courthouse"]
+  },
+  {
+    id: "lisbon-parks",
+    name: "Lisbon parks",
+    lat: 40.7720,
+    lng: -80.7681,
+    radius: 1400,
+    short: "The square and the creek edges. A seat town that still looks like a plat from 1803.",
+    long: "",
+    names: ["Lisbon"]
+  },
+  {
+    id: "lisbon-native",
+    name: "Lisbon Native ground",
+    lat: 40.7720,
+    lng: -80.7681,
+    radius: 1800,
+    short: "Little Beaver drainage toward the Ohio. Hunting ground before New Lisbon. The canal followed a valley people already used.",
+    long: "",
+    names: ["Little Beaver Creek"]
+  },
+  {
+    id: "lisbon-war",
+    name: "Lisbon war",
+    lat: 40.7720,
+    lng: -80.7681,
+    radius: 1500,
+    short: "No fort on the square. County companies left from here. Clement Vallandigham, the Peace Democrat, is a later political war tied to this county.",
+    long: "",
+    names: ["Columbiana County"]
+  },
+  {
+    id: "lisbon-legend",
+    name: "Dropped the New",
+    lat: 40.7720,
+    lng: -80.7681,
+    radius: 1000,
+    short: "The legend is a shortened name. New Lisbon lasted until the post office and habit cut it down. The square did not get any younger.",
+    long: "",
+    names: ["New Lisbon"]
+  },
+
+  {
+    id: "approach-east-palestine",
+    name: "East Palestine",
+    lat: 40.8334,
+    lng: -80.5392,
+    radius: 5000,
+    layer: "approach",
+    short: "You are coming up on East Palestine. Named for a far country. Railroad town on the Pennsylvania line. If you drop into town, I'll start on Market.",
+    long: "",
+    names: ["East Palestine"]
+  },
+  {
+    id: "east-pal-founding",
+    name: "East Palestine founding",
+    lat: 40.8334,
+    lng: -80.5392,
+    radius: 1400,
+    short: "Laid out in the 1820s and named East Palestine. A farm village that became a town when the rails came through. Columbiana County's border crossing.",
+    long: "",
+    names: ["East Palestine"]
+  },
+  {
+    id: "east-pal-rail",
+    name: "East Palestine railroad",
+    lat: 40.8334,
+    lng: -80.5392,
+    radius: 1500,
+    short: "The railroad made the town and later marked it. Shops, passengers, freight on the Pennsylvania line. In 2023 a freight derailment put this crossing in the national mouth. The tracks were always the industry.",
+    long: "",
+    names: ["East Palestine"]
+  },
+  {
+    id: "east-pal-industry",
+    name: "East Palestine shops",
+    lat: 40.8334,
+    lng: -80.5392,
+    radius: 1400,
+    short: "Pottery and small shops sat beside the yards. A border town that worked clay and freight. Not East Liverpool's kiln row. Its own whistle.",
+    long: "",
+    names: ["East Palestine"]
+  },
+  {
+    id: "east-pal-parks",
+    name: "East Palestine parks",
+    lat: 40.8334,
+    lng: -80.5392,
+    radius: 1400,
+    short: "City Park and the downtown block. A small city that kept a green off Market Street.",
+    long: "",
+    names: ["East Palestine"]
+  },
+  {
+    id: "east-pal-native",
+    name: "East Palestine Native ground",
+    lat: 40.8334,
+    lng: -80.5392,
+    radius: 1600,
+    short: "Little Beaver drainage toward the Ohio. Hunting ground before the plat. The state line is a later pencil.",
+    long: "",
+    names: ["Little Beaver Creek"]
+  },
+  {
+    id: "east-pal-war",
+    name: "East Palestine war",
+    lat: 40.8334,
+    lng: -80.5392,
+    radius: 1500,
+    short: "No fort. County companies left from this border town. The later fight was civic: a crossing that had to explain itself to the whole country.",
+    long: "",
+    names: ["East Palestine"]
+  },
+  {
+    id: "east-pal-legend",
+    name: "A name from far away",
+    lat: 40.8334,
+    lng: -80.5392,
+    radius: 1000,
+    short: "The legend is the name. Palestine on the Ohio-Pennsylvania line. People have always asked why. The short answer is hope on a map. The long answer is a railroad town that outlived every headline.",
+    long: "",
+    names: ["East Palestine"]
+  },
+
+  {
+    id: "approach-columbiana",
+    name: "Columbiana",
+    lat: 40.8884,
+    lng: -80.6937,
+    radius: 5000,
+    layer: "approach",
+    short: "You are coming up on Columbiana. Named for the county. Harvey Firestone was born here. If you drop into town, I'll start on Main.",
+    long: "",
+    names: ["Columbiana", "Harvey Firestone"]
+  },
+  {
+    id: "columbiana-founding",
+    name: "Columbiana founding",
+    lat: 40.8884,
+    lng: -80.6937,
+    radius: 1400,
+    short: "Joshua Dixon and others platted the town in 1805. Named for Columbus. A farm village that kept a main street when the county grew around it.",
+    long: "",
+    names: ["Joshua Dixon"]
+  },
+  {
+    id: "columbiana-firestone",
+    name: "Firestone birthplace",
+    lat: 40.8884,
+    lng: -80.6937,
+    radius: 1400,
+    short: "Harvey Firestone was born on a farm in this town in 1868. He left for Akron and put his name on a tire. Columbiana kept the beginning. Akron kept the plant.",
+    long: "",
+    names: ["Harvey Firestone"]
+  },
+  {
+    id: "columbiana-industry",
+    name: "Columbiana shops",
+    lat: 40.8884,
+    lng: -80.6937,
+    radius: 1400,
+    short: "Farms first. Then small shops and a later industrial park. No river mill through the center. A ridge town between Salem and the Ohio.",
+    long: "",
+    names: ["Columbiana"]
+  },
+  {
+    id: "columbiana-parks",
+    name: "Columbiana parks",
+    lat: 40.8884,
+    lng: -80.6937,
+    radius: 1400,
+    short: "Firestone Park and the downtown green. A farm town that put the tire man's name on the lawn.",
+    long: "",
+    names: ["Firestone Park"]
+  },
+  {
+    id: "columbiana-native",
+    name: "Columbiana Native ground",
+    lat: 40.8884,
+    lng: -80.6937,
+    radius: 1600,
+    short: "Between the Mahoning and Little Beaver. Hunting ground before the plat. The county name is a later flag.",
+    long: "",
+    names: ["Columbiana"]
+  },
+  {
+    id: "columbiana-war",
+    name: "Columbiana war",
+    lat: 40.8884,
+    lng: -80.6937,
+    radius: 1500,
+    short: "No fort. Township men left from here. Firestone's later plants did wartime rubber. The birth farm did not.",
+    long: "",
+    names: ["Harvey Firestone"]
+  },
+  {
+    id: "columbiana-legend",
+    name: "Tire town before Akron",
+    lat: 40.8884,
+    lng: -80.6937,
+    radius: 1000,
+    short: "The legend is a boy on a farm. Akron got Rubber Capital. Columbiana will tell you the man started here. Both can be true.",
+    long: "",
+    names: ["Harvey Firestone"]
+  },
+
+  {
+    id: "approach-canfield",
+    name: "Canfield",
+    lat: 41.0251,
+    lng: -80.7609,
+    radius: 5000,
+    layer: "approach",
+    short: "You are coming up on Canfield. First seat of Mahoning County. Village green. The fair. If you drop into town, I'll start on the green.",
+    long: "",
+    names: ["Canfield"]
+  },
+  {
+    id: "canfield-founding",
+    name: "Canfield founding",
+    lat: 41.0251,
+    lng: -80.7609,
+    radius: 1400,
+    short: "Western Reserve township named for Judson Canfield. New England green on Ohio ground. Mahoning County's first courthouse sat here before Youngstown took the seat.",
+    long: "",
+    names: ["Judson Canfield"]
+  },
+  {
+    id: "canfield-seat",
+    name: "Canfield county seat",
+    lat: 41.0251,
+    lng: -80.7609,
+    radius: 1200,
+    short: "The county seat fight is the civic wound. Canfield had the green and the hall. Youngstown had the mills and the votes. The fairgrounds kept the crowds.",
+    long: "",
+    names: ["Mahoning County"]
+  },
+  {
+    id: "canfield-fair",
+    name: "Canfield Fair",
+    lat: 41.0251,
+    lng: -80.7609,
+    radius: 1000,
+    short: "Canfield Fair is one of the large county fairs in the country. The green town that lost the courthouse kept the September nation.",
+    long: "",
+    names: ["Canfield Fair"]
+  },
+  {
+    id: "canfield-parks",
+    name: "Canfield green",
+    lat: 41.0251,
+    lng: -80.7609,
+    radius: 700,
+    short: "The village green is the park. A Reserve square that still looks like Connecticut on a good morning.",
+    long: "",
+    names: ["Canfield Green"]
+  },
+  {
+    id: "canfield-native",
+    name: "Canfield Native ground",
+    lat: 41.0251,
+    lng: -80.7609,
+    radius: 1600,
+    short: "Mahoning upland. Hunting ground before the Reserve grid. The green is imported. The ridge is not.",
+    long: "",
+    names: ["Mahoning River"]
+  },
+  {
+    id: "canfield-war",
+    name: "Canfield war",
+    lat: 41.0251,
+    lng: -80.7609,
+    radius: 1500,
+    short: "No fort on the green. Township men left from here. The later fight was the seat, not a battery.",
+    long: "",
+    names: ["Canfield"]
+  },
+  {
+    id: "canfield-legend",
+    name: "Lost the seat kept the fair",
+    lat: 41.0251,
+    lng: -80.7609,
+    radius: 1000,
+    short: "The legend is a trade they did not agree to. Youngstown got the courts. Canfield kept September. Ask in the third week of the fair which town won.",
+    long: "",
+    names: ["Canfield Fair"]
+  },
+
+  {
+    id: "approach-poland-oh",
+    name: "Poland Ohio",
+    lat: 41.0242,
+    lng: -80.6148,
+    radius: 5000,
+    layer: "approach",
+    short: "You are coming up on Poland. One of the oldest villages in Mahoning County. Yellow Creek. Seminary town. If you drop into the village, I'll start on the green.",
+    long: "",
+    names: ["Poland"]
+  },
+  {
+    id: "poland-founding",
+    name: "Poland founding",
+    lat: 41.0242,
+    lng: -80.6148,
+    radius: 1400,
+    short: "Settled from the Western Reserve. Named Poland. Yellow Creek village south of Youngstown. A green that predates the mills that later surrounded it.",
+    long: "",
+    names: ["Poland"]
+  },
+  {
+    id: "poland-seminary",
+    name: "Poland Seminary",
+    lat: 41.0242,
+    lng: -80.6148,
+    radius: 800,
+    short: "Poland Seminary and Academy taught the valley's children. William McKinley studied here. A village school that sent a president out.",
+    long: "",
+    names: ["Poland Seminary", "William McKinley"]
+  },
+  {
+    id: "poland-creek",
+    name: "Yellow Creek Poland",
+    lat: 41.0242,
+    lng: -80.6148,
+    radius: 1200,
+    short: "Yellow Creek is the water. Same stream that meets the Mahoning at Struthers. The village sat on the creek before the city sat on the river.",
+    long: "",
+    names: ["Yellow Creek"]
+  },
+  {
+    id: "poland-parks",
+    name: "Poland parks",
+    lat: 41.0242,
+    lng: -80.6148,
+    radius: 1400,
+    short: "The village green and the creek parks. A Reserve lawn that refused to look like a mill ward.",
+    long: "",
+    names: ["Poland"]
+  },
+  {
+    id: "poland-native",
+    name: "Poland Native ground",
+    lat: 41.0242,
+    lng: -80.6148,
+    radius: 1600,
+    short: "Yellow Creek hunting ground. Same drainage as Struthers. The village name is imported. The creek is not.",
+    long: "",
+    names: ["Yellow Creek"]
+  },
+  {
+    id: "poland-war",
+    name: "Poland war",
+    lat: 41.0242,
+    lng: -80.6148,
+    radius: 1500,
+    short: "No fort on the green. Township men left from here. McKinley's later war was not fought on Yellow Creek.",
+    long: "",
+    names: ["William McKinley"]
+  },
+  {
+    id: "poland-legend",
+    name: "Village that kept the green",
+    lat: 41.0242,
+    lng: -80.6148,
+    radius: 1000,
+    short: "The legend is resistance. Mills grew on every side. Poland kept the seminary and the lawn. People still say they live in the village, not the city.",
+    long: "",
+    names: ["Poland"]
+  },
+
+  {
+    id: "approach-boardman",
+    name: "Boardman",
+    lat: 41.0242,
+    lng: -80.6628,
+    radius: 6000,
+    layer: "approach",
+    short: "You are coming up on Boardman. The township south of Youngstown. Malls and old farms. If you drop in, I'll start on Market Street.",
+    long: "",
+    names: ["Boardman"]
+  },
+  {
+    id: "boardman-founding",
+    name: "Boardman founding",
+    lat: 41.0242,
+    lng: -80.6628,
+    radius: 1600,
+    short: "Named for Elijah Boardman, a Connecticut landholder in the Western Reserve. A farm township that became Youngstown's south side without becoming Youngstown.",
+    long: "",
+    names: ["Elijah Boardman"]
+  },
+  {
+    id: "boardman-suburb",
+    name: "Boardman township",
+    lat: 41.0242,
+    lng: -80.6628,
+    radius: 1800,
+    short: "After the mills, the houses moved south. Southern Park and the strip. A township that absorbed the valley's next generation.",
+    long: "",
+    names: ["Boardman"]
+  },
+  {
+    id: "boardman-parks",
+    name: "Boardman parks",
+    lat: 41.0242,
+    lng: -80.6628,
+    radius: 1600,
+    short: "Mill Creek's south edge and the township parks. The gorge is Youngstown's. The lawns are Boardman's.",
+    long: "",
+    names: ["Mill Creek Park"]
+  },
+  {
+    id: "boardman-people",
+    name: "Boardman people",
+    lat: 41.0242,
+    lng: -80.6628,
+    radius: 1600,
+    short: "Mill families who moved one township south. A mailing address that meant you had left the ward but not the valley.",
+    long: "",
+    names: ["Boardman"]
+  },
+  {
+    id: "boardman-native",
+    name: "Boardman Native ground",
+    lat: 41.0242,
+    lng: -80.6628,
+    radius: 1800,
+    short: "Mill Creek and Mahoning upland. Hunting ground before the Reserve lots. The malls sit on old fields.",
+    long: "",
+    names: ["Mill Creek"]
+  },
+  {
+    id: "boardman-war",
+    name: "Boardman war",
+    lat: 41.0242,
+    lng: -80.6628,
+    radius: 1600,
+    short: "No fort. Township men left from here. The later war was annexation talk. Boardman stayed a township on purpose.",
+    long: "",
+    names: ["Boardman"]
+  },
+  {
+    id: "boardman-legend",
+    name: "Not Youngstown",
+    lat: 41.0242,
+    lng: -80.6628,
+    radius: 1200,
+    short: "The legend is the line on the map. Same stores, same teams, different government. People will correct you if you fold Boardman into the city.",
+    long: "",
+    names: ["Boardman"]
+  },
+
+  {
+    id: "approach-austintown",
+    name: "Austintown",
+    lat: 41.1017,
+    lng: -80.7645,
+    radius: 6000,
+    layer: "approach",
+    short: "You are coming up on Austintown. The township west of Youngstown. Another farm grid that filled after the mills. If you drop in, I'll start on Mahoning Avenue.",
+    long: "",
+    names: ["Austintown"]
+  },
+  {
+    id: "austintown-founding",
+    name: "Austintown founding",
+    lat: 41.1017,
+    lng: -80.7645,
+    radius: 1600,
+    short: "Named for Calvin Austin, a Western Reserve land agent. A farm township that became the west side of the valley without joining the city.",
+    long: "",
+    names: ["Calvin Austin"]
+  },
+  {
+    id: "austintown-suburb",
+    name: "Austintown township",
+    lat: 41.1017,
+    lng: -80.7645,
+    radius: 1800,
+    short: "Houses, schools, and the Avenue after the war. Mill paychecks built lots that were not inside Youngstown's line.",
+    long: "",
+    names: ["Austintown"]
+  },
+  {
+    id: "austintown-parks",
+    name: "Austintown parks",
+    lat: 41.1017,
+    lng: -80.7645,
+    radius: 1600,
+    short: "Township parks and the school greens. No gorge through the middle. A lawn town west of the stacks.",
+    long: "",
+    names: ["Austintown"]
+  },
+  {
+    id: "austintown-people",
+    name: "Austintown people",
+    lat: 41.1017,
+    lng: -80.7645,
+    radius: 1600,
+    short: "Same valley families as Boardman, different compass point. West instead of south. The argument is the same.",
+    long: "",
+    names: ["Austintown"]
+  },
+  {
+    id: "austintown-native",
+    name: "Austintown Native ground",
+    lat: 41.1017,
+    lng: -80.7645,
+    radius: 1800,
+    short: "Mahoning upland. Hunting ground before the Reserve lots. The Avenue is a later wagon road.",
+    long: "",
+    names: ["Mahoning River"]
+  },
+  {
+    id: "austintown-war",
+    name: "Austintown war",
+    lat: 41.1017,
+    lng: -80.7645,
+    radius: 1600,
+    short: "No fort. Township men left from here. The later fight was staying a township.",
+    long: "",
+    names: ["Austintown"]
+  },
+  {
+    id: "austintown-legend",
+    name: "West of the line",
+    lat: 41.1017,
+    lng: -80.7645,
+    radius: 1200,
+    short: "The legend is the same as Boardman's. Not the city. A name on the west side of the river valley that refused the annexation story.",
+    long: "",
+    names: ["Austintown"]
+  },
+
+  {
+    id: "approach-lordstown",
+    name: "Lordstown",
+    lat: 41.1656,
+    lng: -80.8587,
+    radius: 7000,
+    layer: "approach",
+    short: "You are coming up on Lordstown. The plant on the Turnpike. A township that became a factory name. If you drop in, I'll start at the works.",
+    long: "",
+    names: ["Lordstown"]
+  },
+  {
+    id: "lordstown-founding",
+    name: "Lordstown founding",
+    lat: 41.1656,
+    lng: -80.8587,
+    radius: 1600,
+    short: "Named for Samuel P. Lord. A farm township in Trumbull County until General Motors put a plant on the fields in the 1960s. After that the name meant cars.",
+    long: "",
+    names: ["Samuel P. Lord"]
+  },
+  {
+    id: "lordstown-gm",
+    name: "Lordstown Assembly",
+    lat: 41.1656,
+    lng: -80.8587,
+    radius: 2000,
+    short: "Lordstown Assembly built Vegas, Cavaliers, and later the Cruze. A Turnpike plant that employed a region. When the line slowed, the township felt it in every driveway.",
+    long: "",
+    names: ["Lordstown Assembly"]
+  },
+  {
+    id: "lordstown-turnpike",
+    name: "Lordstown Turnpike",
+    lat: 41.1656,
+    lng: -80.8587,
+    radius: 1800,
+    short: "The Ohio Turnpike made the site. Freight in, cars out. A farm grid that suddenly sat on a national road.",
+    long: "",
+    names: ["Ohio Turnpike"]
+  },
+  {
+    id: "lordstown-parks",
+    name: "Lordstown parks",
+    lat: 41.1656,
+    lng: -80.8587,
+    radius: 1600,
+    short: "Township parks beside the plant fence. A green that had to live next to a parking lot the size of a village.",
+    long: "",
+    names: ["Lordstown"]
+  },
+  {
+    id: "lordstown-native",
+    name: "Lordstown Native ground",
+    lat: 41.1656,
+    lng: -80.8587,
+    radius: 1800,
+    short: "Mahoning upland. Hunting ground before the Reserve lots. The plant sits on old fields, not an old fort.",
+    long: "",
+    names: ["Lordstown"]
+  },
+  {
+    id: "lordstown-war",
+    name: "Lordstown war",
+    lat: 41.1656,
+    lng: -80.8587,
+    radius: 1600,
+    short: "No fort. The later war was labor and the line. Strikes and shutdowns are the civic memory here.",
+    long: "",
+    names: ["Lordstown Assembly"]
+  },
+  {
+    id: "lordstown-legend",
+    name: "The plant is the town",
+    lat: 41.1656,
+    lng: -80.8587,
+    radius: 1200,
+    short: "The legend is a map that got rewritten by a factory. People who never lived here still say Lordstown and mean the line. The township is still under that name.",
+    long: "",
+    names: ["Lordstown"]
+  },
+
+  {
+    id: "approach-newton-falls",
+    name: "Newton Falls",
+    lat: 41.1887,
+    lng: -80.9781,
+    radius: 5000,
+    layer: "approach",
+    short: "You are coming up on Newton Falls. Mahoning River dam town. Covered bridge. If you drop downtown, I'll start at the falls.",
+    long: "",
+    names: ["Newton Falls"]
+  },
+  {
+    id: "newton-falls-founding",
+    name: "Newton Falls founding",
+    lat: 41.1887,
+    lng: -80.9781,
+    radius: 1400,
+    short: "Named for the falls on the Mahoning. A mill seat before Youngstown's mills ate the river's fame. Trumbull County. Water first, then the street.",
+    long: "",
+    names: ["Newton Falls"]
+  },
+  {
+    id: "newton-falls-bridge",
+    name: "Newton Falls covered bridge",
+    lat: 41.1887,
+    lng: -80.9781,
+    radius: 600,
+    short: "The covered bridge over the river is the postcard. One of the few still carrying a town this far north in Ohio. Wood over the Mahoning.",
+    long: "",
+    names: ["Newton Falls Covered Bridge"]
+  },
+  {
+    id: "newton-falls-power",
+    name: "Newton Falls water power",
+    lat: 41.1887,
+    lng: -80.9781,
+    radius: 1400,
+    short: "The dam and the drop ran early mills. Later a power story. A small city that still explains itself with water.",
+    long: "",
+    names: ["Mahoning River"]
+  },
+  {
+    id: "newton-falls-parks",
+    name: "Newton Falls parks",
+    lat: 41.1887,
+    lng: -80.9781,
+    radius: 1400,
+    short: "The river parks and the bridge lawn. A falls town that kept the bank public.",
+    long: "",
+    names: ["Newton Falls"]
+  },
+  {
+    id: "newton-falls-native",
+    name: "Newton Falls Native ground",
+    lat: 41.1887,
+    lng: -80.9781,
+    radius: 1800,
+    short: "Mahoning falls and ford country. A drop people used before they named it Newton. The bridge is new. The break in the river is not.",
+    long: "",
+    names: ["Mahoning River"]
+  },
+  {
+    id: "newton-falls-war",
+    name: "Newton Falls war",
+    lat: 41.1887,
+    lng: -80.9781,
+    radius: 1500,
+    short: "No fort. Township men left from here. The river work in wartime was power and metal up and down the valley.",
+    long: "",
+    names: ["Newton Falls"]
+  },
+  {
+    id: "newton-falls-legend",
+    name: "The river still drops",
+    lat: 41.1887,
+    lng: -80.9781,
+    radius: 1000,
+    short: "The legend is that the name is still accurate. Mills change. The falls stay. People photograph the bridge and forget the dam made the town.",
+    long: "",
+    names: ["Newton Falls"]
+  },
+
+  {
+    id: "approach-girard-oh",
+    name: "Girard Ohio",
+    lat: 41.1542,
+    lng: -80.7015,
+    radius: 5000,
+    layer: "approach",
+    short: "You are coming up on Girard. Mill town on the Mahoning between Youngstown and Niles. If you drop downtown, I'll start on State Street.",
+    long: "",
+    names: ["Girard"]
+  },
+  {
+    id: "girard-founding",
+    name: "Girard founding",
+    lat: 41.1542,
+    lng: -80.7015,
+    radius: 1400,
+    short: "Named for Stephen Girard. A canal and river village that became a mill city when the valley filled. Liberty Township's old landing.",
+    long: "",
+    names: ["Stephen Girard"]
+  },
+  {
+    id: "girard-steel",
+    name: "Girard steel",
+    lat: 41.1542,
+    lng: -80.7015,
+    radius: 1500,
+    short: "Mills on the Mahoning. Same sheet-and-tube world as Niles and Youngstown. A short main street with a long stack memory.",
+    long: "",
+    names: ["Mahoning River"]
+  },
+  {
+    id: "girard-parks",
+    name: "Girard parks",
+    lat: 41.1542,
+    lng: -80.7015,
+    radius: 1400,
+    short: "The river park and the high-school green. A mill town that kept a lawn above the water.",
+    long: "",
+    names: ["Girard"]
+  },
+  {
+    id: "girard-people",
+    name: "Girard people",
+    lat: 41.1542,
+    lng: -80.7015,
+    radius: 1400,
+    short: "Furnace families packed between Niles and Youngstown. People here will tell you they are not either neighbor.",
+    long: "",
+    names: ["Girard"]
+  },
+  {
+    id: "girard-native",
+    name: "Girard Native ground",
+    lat: 41.1542,
+    lng: -80.7015,
+    radius: 1600,
+    short: "Mahoning bank. Same hunting ground as the rest of the valley. The name is a Philadelphia merchant. The river is local.",
+    long: "",
+    names: ["Mahoning River"]
+  },
+  {
+    id: "girard-war",
+    name: "Girard war",
+    lat: 41.1542,
+    lng: -80.7015,
+    radius: 1500,
+    short: "No fort downtown. The mills were the war work. Valley companies left from this bank.",
+    long: "",
+    names: ["Girard"]
+  },
+  {
+    id: "girard-legend",
+    name: "Between two bigger names",
+    lat: 41.1542,
+    lng: -80.7015,
+    radius: 1000,
+    short: "The legend is the squeeze. Youngstown south. Niles north. Girard in the middle with its own whistle. People still refuse the fold-in.",
+    long: "",
+    names: ["Girard"]
+  },
+
+  {
+    id: "approach-hubbard-oh",
+    name: "Hubbard Ohio",
+    lat: 41.1564,
+    lng: -80.5692,
+    radius: 5000,
+    layer: "approach",
+    short: "You are coming up on Hubbard. East edge of the Mahoning valley. Almost Pennsylvania. If you drop downtown, I'll start on Main.",
+    long: "",
+    names: ["Hubbard"]
+  },
+  {
+    id: "hubbard-founding",
+    name: "Hubbard founding",
+    lat: 41.1564,
+    lng: -80.5692,
+    radius: 1400,
+    short: "Named for Nehemiah Hubbard, a Connecticut landholder. A Reserve township that became a small city on the state line.",
+    long: "",
+    names: ["Nehemiah Hubbard"]
+  },
+  {
+    id: "hubbard-coal-steel",
+    name: "Hubbard coal and steel",
+    lat: 41.1564,
+    lng: -80.5692,
+    radius: 1500,
+    short: "Coal under the township. Then mills in the valley. Hubbard sent fuel and men east and west. A border town with a pit memory.",
+    long: "",
+    names: ["Hubbard"]
+  },
+  {
+    id: "hubbard-parks",
+    name: "Hubbard parks",
+    lat: 41.1564,
+    lng: -80.5692,
+    radius: 1400,
+    short: "The civic park and the school green. A line town that kept a lawn off Main.",
+    long: "",
+    names: ["Hubbard"]
+  },
+  {
+    id: "hubbard-people",
+    name: "Hubbard people",
+    lat: 41.1564,
+    lng: -80.5692,
+    radius: 1400,
+    short: "Mine and mill families. Ohio addresses with Pennsylvania radio. The line is a survey. The work was shared.",
+    long: "",
+    names: ["Hubbard"]
+  },
+  {
+    id: "hubbard-native",
+    name: "Hubbard Native ground",
+    lat: 41.1564,
+    lng: -80.5692,
+    radius: 1600,
+    short: "Mahoning upland toward the Pennsylvania line. Hunting ground before the Reserve lots.",
+    long: "",
+    names: ["Hubbard"]
+  },
+  {
+    id: "hubbard-war",
+    name: "Hubbard war",
+    lat: 41.1564,
+    lng: -80.5692,
+    radius: 1500,
+    short: "No fort downtown. Township men left from here. The later work was coal and steel for bigger wars down the valley.",
+    long: "",
+    names: ["Hubbard"]
+  },
+  {
+    id: "hubbard-legend",
+    name: "The line town",
+    lat: 41.1564,
+    lng: -80.5692,
+    radius: 1000,
+    short: "The legend is the border. People shop both states and still say Hubbard. The survey is sharp. The living is not.",
+    long: "",
+    names: ["Hubbard"]
+  },
+
+  {
+    id: "approach-lordstown",
+    name: "Lordstown",
+    lat: 41.1656,
+    lng: -80.8587,
+    radius: 7000,
+    layer: "approach",
+    short: "You are coming up on Lordstown. The plant on the Turnpike. A township that became a factory name. If you drop in, I'll start at the works.",
+    long: "",
+    names: ["Lordstown"]
+  },
+  {
+    id: "lordstown-founding",
+    name: "Lordstown founding",
+    lat: 41.1656,
+    lng: -80.8587,
+    radius: 1600,
+    short: "Named for Samuel P. Lord. A farm township in Trumbull County until General Motors put a plant on the fields in the 1960s. After that the name meant cars.",
+    long: "",
+    names: ["Samuel P. Lord"]
+  },
+  {
+    id: "lordstown-gm",
+    name: "Lordstown Assembly",
+    lat: 41.1656,
+    lng: -80.8587,
+    radius: 2000,
+    short: "Lordstown Assembly built Vegas, Cavaliers, and later the Cruze. A Turnpike plant that employed a region. When the line slowed, the township felt it in every driveway.",
+    long: "",
+    names: ["Lordstown Assembly"]
+  },
+  {
+    id: "lordstown-turnpike",
+    name: "Lordstown Turnpike",
+    lat: 41.1656,
+    lng: -80.8587,
+    radius: 1800,
+    short: "The Ohio Turnpike made the site. Freight in, cars out. A farm grid that suddenly sat on a national road.",
+    long: "",
+    names: ["Ohio Turnpike"]
+  },
+  {
+    id: "lordstown-parks",
+    name: "Lordstown parks",
+    lat: 41.1656,
+    lng: -80.8587,
+    radius: 1600,
+    short: "Township parks beside the plant fence. A green that had to live next to a parking lot the size of a village.",
+    long: "",
+    names: ["Lordstown"]
+  },
+  {
+    id: "lordstown-native",
+    name: "Lordstown Native ground",
+    lat: 41.1656,
+    lng: -80.8587,
+    radius: 1800,
+    short: "Mahoning upland. Hunting ground before the Reserve lots. The plant sits on old fields, not an old fort.",
+    long: "",
+    names: ["Lordstown"]
+  },
+  {
+    id: "lordstown-war",
+    name: "Lordstown war",
+    lat: 41.1656,
+    lng: -80.8587,
+    radius: 1600,
+    short: "No fort. The later war was labor and the line. Strikes and shutdowns are the civic memory here.",
+    long: "",
+    names: ["Lordstown Assembly"]
+  },
+  {
+    id: "lordstown-legend",
+    name: "The plant is the town",
+    lat: 41.1656,
+    lng: -80.8587,
+    radius: 1200,
+    short: "The legend is a map that got rewritten by a factory. People who never lived here still say Lordstown and mean the line. The township is still under that name.",
+    long: "",
+    names: ["Lordstown"]
+  },
+
+  {
+    id: "approach-newton-falls",
+    name: "Newton Falls",
+    lat: 41.1887,
+    lng: -80.9781,
+    radius: 5000,
+    layer: "approach",
+    short: "You are coming up on Newton Falls. Mahoning River dam town. Covered bridge. If you drop downtown, I'll start at the falls.",
+    long: "",
+    names: ["Newton Falls"]
+  },
+  {
+    id: "newton-falls-founding",
+    name: "Newton Falls founding",
+    lat: 41.1887,
+    lng: -80.9781,
+    radius: 1400,
+    short: "Named for the falls on the Mahoning. A mill seat before Youngstown's mills ate the river's fame. Trumbull County. Water first, then the street.",
+    long: "",
+    names: ["Newton Falls"]
+  },
+  {
+    id: "newton-falls-bridge",
+    name: "Newton Falls covered bridge",
+    lat: 41.1887,
+    lng: -80.9781,
+    radius: 600,
+    short: "The covered bridge over the river is the postcard. One of the few still carrying a town this far north in Ohio. Wood over the Mahoning.",
+    long: "",
+    names: ["Newton Falls Covered Bridge"]
+  },
+  {
+    id: "newton-falls-power",
+    name: "Newton Falls water power",
+    lat: 41.1887,
+    lng: -80.9781,
+    radius: 1400,
+    short: "The dam and the drop ran early mills. Later a power story. A small city that still explains itself with water.",
+    long: "",
+    names: ["Mahoning River"]
+  },
+  {
+    id: "newton-falls-parks",
+    name: "Newton Falls parks",
+    lat: 41.1887,
+    lng: -80.9781,
+    radius: 1400,
+    short: "The river parks and the bridge lawn. A falls town that kept the bank public.",
+    long: "",
+    names: ["Newton Falls"]
+  },
+  {
+    id: "newton-falls-native",
+    name: "Newton Falls Native ground",
+    lat: 41.1887,
+    lng: -80.9781,
+    radius: 1800,
+    short: "Mahoning falls and ford country. A drop people used before they named it Newton. The bridge is new. The break in the river is not.",
+    long: "",
+    names: ["Mahoning River"]
+  },
+  {
+    id: "newton-falls-war",
+    name: "Newton Falls war",
+    lat: 41.1887,
+    lng: -80.9781,
+    radius: 1500,
+    short: "No fort. Township men left from here. The river work in wartime was power and metal up and down the valley.",
+    long: "",
+    names: ["Newton Falls"]
+  },
+  {
+    id: "newton-falls-legend",
+    name: "The river still drops",
+    lat: 41.1887,
+    lng: -80.9781,
+    radius: 1000,
+    short: "The legend is that the name is still accurate. Mills change. The falls stay. People photograph the bridge and forget the dam made the town.",
+    long: "",
+    names: ["Newton Falls"]
+  },
 
 
     ];

@@ -11377,6 +11377,1609 @@ const STORIES = [
     long: "",
     names: ["Ohio State Reformatory"]
   },
+{
+    id: "approach-findlay",
+    name: "Findlay",
+    lat: 41.0442,
+    lng: -83.6499,
+    radius: 8000,
+    layer: "approach",
+    short: "You are coming up on Findlay. Fort Findlay on the Blanchard. Gas boom town. Marathon's hometown. Flag City. If you drop downtown, I'll start at the river.",
+    long: "",
+    names: ["Findlay"]
+  },
+  {
+    id: "findlay-fort",
+    name: "Fort Findlay",
+    lat: 41.0442,
+    lng: -83.6499,
+    radius: 700,
+    short: "Colonel James Findlay built a War of 1812 stockade on this bend of the Blanchard. The town took his name. Hancock County seat. A supply post that became a courthouse town.",
+    long: "",
+    names: ["James Findlay", "Fort Findlay"]
+  },
+  {
+    id: "findlay-gas",
+    name: "Findlay gas boom",
+    lat: 41.0442,
+    lng: -83.6499,
+    radius: 1600,
+    short: "Natural gas blew in the 1880s. Free fuel. Glass plants and a boom skyline. The Karg well was a tourist torch. When the gas faded the town kept the brick.",
+    long: "",
+    names: ["Findlay gas boom"]
+  },
+  {
+    id: "findlay-marathon",
+    name: "Marathon Findlay",
+    lat: 41.0442,
+    lng: -83.6499,
+    radius: 1400,
+    short: "Marathon Oil grew up here. The headquarters still sit in Hancock County. A fort town that ended up running gasoline. The boom never fully left.",
+    long: "",
+    names: ["Marathon"]
+  },
+  {
+    id: "findlay-blanchard",
+    name: "Blanchard River",
+    lat: 41.0442,
+    lng: -83.6499,
+    radius: 1400,
+    short: "The Blanchard cuts downtown. Named for a trapper. Floods still come. Riverside Park is the civic bank. A small river with a county on it.",
+    long: "",
+    names: ["Blanchard River"]
+  },
+  {
+    id: "findlay-people-parks",
+    name: "Findlay parks",
+    lat: 41.0442,
+    lng: -83.6499,
+    radius: 1500,
+    short: "Riverside Park and the University of Findlay campus are the green. Flag City USA came from a 1960s civic push. A gas town that planted flags and a college.",
+    long: "",
+    names: ["University of Findlay"]
+  },
+  {
+    id: "findlay-native-war",
+    name: "Findlay Native and war",
+    lat: 41.0442,
+    lng: -83.6499,
+    radius: 2000,
+    short: "Ottawa and Wyandot used the Blanchard. Hull's road north in 1812 came through this country. The fort was a latch on that road. Greenville had opened the paper. The stockade opened the ground.",
+    long: "",
+    names: ["Blanchard River"]
+  },
+  {
+    id: "findlay-legend",
+    name: "Flag City",
+    lat: 41.0442,
+    lng: -83.6499,
+    radius: 1200,
+    short: "Findlay calls itself Flag City. The legend is civic on purpose: put a flag on every block and the boom town still has a name that is not only gas and oil. It worked.",
+    long: "",
+    names: ["Flag City"]
+  },
+  {
+    id: "approach-lancaster-oh",
+    name: "Lancaster Ohio",
+    lat: 39.7137,
+    lng: -82.5993,
+    radius: 8000,
+    layer: "approach",
+    short: "You are coming up on Lancaster. Zane's Trace. Square Thirteen. Sherman brothers born here. Mount Pleasant looking over the town. If you drop downtown, I'll start at the square.",
+    long: "",
+    names: ["Lancaster", "William Tecumseh Sherman"]
+  },
+  {
+    id: "lancaster-founding",
+    name: "Lancaster founding",
+    lat: 39.7137,
+    lng: -82.5993,
+    radius: 1400,
+    short: "Ebenezer Zane's trace needed a town at the crossing. Platted 1800. Named for Lancaster, Pennsylvania. Fairfield County seat. Square Thirteen is the old public square the German settlers kept formal.",
+    long: "",
+    names: ["Ebenezer Zane", "Square Thirteen"]
+  },
+  {
+    id: "lancaster-zane",
+    name: "Zane Trace Lancaster",
+    lat: 39.7137,
+    lng: -82.5993,
+    radius: 1500,
+    short: "Zane's Trace was the first road through Ohio that was more than a path. Lancaster sat on it. Later the Hocking Canal and the rails. A ridge town that lived off people passing through.",
+    long: "",
+    names: ["Zane's Trace", "Hocking Canal"]
+  },
+  {
+    id: "lancaster-sherman",
+    name: "Sherman House Lancaster",
+    lat: 39.7145,
+    lng: -82.6015,
+    radius: 400,
+    short: "Charles Sherman's house. William Tecumseh Sherman and John Sherman were born in this town. One burned Atlanta. One wrote the Sherman Antitrust Act. Two national names from one Fairfield County parlor.",
+    long: "",
+    names: ["William Tecumseh Sherman", "John Sherman"]
+  },
+  {
+    id: "lancaster-mount-pleasant",
+    name: "Mount Pleasant Lancaster",
+    lat: 39.7200,
+    lng: -82.5850,
+    radius: 800,
+    short: "Mount Pleasant, the sandstone bluff over town. Rising Park. Native lookout long before the trace. Stairs and a view of the Hocking valley. The town's balcony.",
+    long: "",
+    names: ["Mount Pleasant", "Rising Park"]
+  },
+  {
+    id: "lancaster-native",
+    name: "Lancaster Native ground",
+    lat: 39.7137,
+    lng: -82.5993,
+    radius: 2000,
+    short: "Hocking valley. Adena and Hopewell ground. Mount Pleasant was a watch hill. The trace followed a route people already knew. Settlement stacked a county seat on a much older road.",
+    long: "",
+    names: ["Hocking River"]
+  },
+  {
+    id: "lancaster-war",
+    name: "Lancaster war",
+    lat: 39.7137,
+    lng: -82.5993,
+    radius: 1600,
+    short: "No fort on the square. The war story is the Sherman boys. Civil War companies left from this county. The house on the street is the monument.",
+    long: "",
+    names: ["William Tecumseh Sherman"]
+  },
+  {
+    id: "lancaster-legend",
+    name: "Lancaster legend",
+    lat: 39.7137,
+    lng: -82.5993,
+    radius: 1200,
+    short: "Locals still point at Square Thirteen and say the town was laid out by men who cared how a German square should look. Then they point at Mount Pleasant and say the real square was already there. Both tours are right.",
+    long: "",
+    names: ["Square Thirteen"]
+  },
+ {
+    id: "approach-lima",
+    name: "Lima",
+    lat: 40.7426,
+    lng: -84.1052,
+    radius: 8000,
+    layer: "approach",
+    short: "You are coming up on Lima. Oil boom. Lima Locomotive. Tank plant in the next war. Ottawa River through downtown. If you drop into town, I'll start at the square.",
+    long: "",
+    names: ["Lima"]
+  },
+  {
+    id: "lima-founding",
+    name: "Lima founding",
+    lat: 40.7426,
+    lng: -84.1052,
+    radius: 1400,
+    short: "Allen County needed a seat in 1831. Named for Lima, Peru, after a local doctor's Peruvian bark medicine. A courthouse town on the Ottawa River before anyone drilled a well.",
+    long: "",
+    names: ["Lima"]
+  },
+  {
+    id: "lima-oil",
+    name: "Lima oil boom",
+    lat: 40.7426,
+    lng: -84.1052,
+    radius: 1800,
+    short: "Oil came in the 1880s. Lima field was one of the first giant fields in America. John D. Rockefeller bought into it. Refineries and a boom skyline. When the field faded the shops stayed.",
+    long: "",
+    names: ["Lima oil field"]
+  },
+  {
+    id: "lima-locomotive",
+    name: "Lima Locomotive",
+    lat: 40.7426,
+    lng: -84.1052,
+    radius: 1400,
+    short: "Lima Locomotive Works built Shay engines and then some of the last great steam. Super Power. The plant later built tanks. A county seat that manufactured movement.",
+    long: "",
+    names: ["Lima Locomotive"]
+  },
+  {
+    id: "lima-people-parks",
+    name: "Lima parks",
+    lat: 40.7426,
+    lng: -84.1052,
+    radius: 1500,
+    short: "Faurot Park and the Civic Center are the civic rooms. Allen County Museum holds the boom. A town that put a park on the river after the wells quieted.",
+    long: "",
+    names: ["Faurot Park"]
+  },
+  {
+    id: "lima-native",
+    name: "Lima Native ground",
+    lat: 40.7426,
+    lng: -84.1052,
+    radius: 2000,
+    short: "Ottawa River. Ottawa and Shawnee ground. Fort Amanda sits northwest on the Auglaize from the War of 1812. Lima is the later seat on the same drainage.",
+    long: "",
+    names: ["Ottawa River", "Fort Amanda"]
+  },
+  {
+    id: "lima-war",
+    name: "Lima tank plant",
+    lat: 40.7426,
+    lng: -84.1052,
+    radius: 1600,
+    short: "The locomotive shops became a tank arsenal in the Second World War and after. Joint Systems Manufacturing. A steam town that learned to build armor.",
+    long: "",
+    names: ["Lima tank plant"]
+  },
+  {
+    id: "lima-legend",
+    name: "Lima name legend",
+    lat: 40.7426,
+    lng: -84.1052,
+    radius: 1200,
+    short: "They named it for Peru because a doctor swore by quinine bark. That is the official odd fact. The local legend is simpler: oil and engines made a small name loud.",
+    long: "",
+    names: ["Lima"]
+  },
+  {
+    id: "approach-huber-heights",
+    name: "Huber Heights",
+    lat: 39.8439,
+    lng: -84.1247,
+    radius: 6000,
+    layer: "approach",
+    short: "You are coming up on Huber Heights. Charles Huber's postwar tract on Dayton's north edge. Wayne Township first. If you drop into town, I'll start with the builder.",
+    long: "",
+    names: ["Huber Heights"]
+  },
+  {
+    id: "huber-founding",
+    name: "Huber Heights founding",
+    lat: 39.8439,
+    lng: -84.1247,
+    radius: 1400,
+    short: "Wayne Township until Charles Huber poured streets and Cape Cods after the war. Became a city in 1981 and kept his name. A builder's town, not a fort town.",
+    long: "",
+    names: ["Charles Huber", "Wayne Township"]
+  },
+  {
+    id: "huber-industry",
+    name: "Huber Heights industry",
+    lat: 39.8439,
+    lng: -84.1247,
+    radius: 1500,
+    short: "No mill of its own. Wright-Patterson and Dayton's plants paid the mortgages. I-70 and old State Route 202 are the working roads. A bedroom with a highway through it.",
+    long: "",
+    names: ["Wright-Patterson"]
+  },
+  {
+    id: "huber-people-parks",
+    name: "Huber Heights parks",
+    lat: 39.8439,
+    lng: -84.1247,
+    radius: 1400,
+    short: "Thomas Cloud Park and the Huber sports campus are the civic green. A tract suburb that bought parkland after the lots filled.",
+    long: "",
+    names: ["Thomas Cloud Park"]
+  },
+  {
+    id: "huber-native",
+    name: "Huber Heights Native ground",
+    lat: 39.8439,
+    lng: -84.1247,
+    radius: 1800,
+    short: "Same Mad River and Miami ground as Dayton. Greenville opened it. Farms until the subdivisions. No mound in the median, just the old township grid.",
+    long: "",
+    names: ["Wayne Township"]
+  },
+  {
+    id: "huber-war",
+    name: "Huber Heights war",
+    lat: 39.8439,
+    lng: -84.1247,
+    radius: 1600,
+    short: "The base next door is the war story. Huffman Prairie is east. A housing city grown off an airfield that used to be a cow pasture the Wrights borrowed.",
+    long: "",
+    names: ["Huffman Prairie"]
+  },
+  {
+    id: "huber-legend",
+    name: "Huber legend",
+    lat: 39.8439,
+    lng: -84.1247,
+    radius: 1200,
+    short: "The legend is one man stamped his last name on a township and it stuck. Cape Cods in rows. That is the whole civic myth, and it is on the water tower.",
+    long: "",
+    names: ["Charles Huber"]
+  },
+ {
+    id: "approach-marion",
+    name: "Marion",
+    lat: 40.5887,
+    lng: -83.1285,
+    radius: 8000,
+    layer: "approach",
+    short: "You are coming up on Marion. Harding's front porch. Steam shovels that dug the Panama Canal. Popcorn later. If you drop downtown, I'll start at the memorial.",
+    long: "",
+    names: ["Marion", "Warren G. Harding"]
+  },
+  {
+    id: "marion-founding",
+    name: "Marion founding",
+    lat: 40.5887,
+    lng: -83.1285,
+    radius: 1400,
+    short: "Eber Baker laid this town out in 1822. Named for Francis Marion, the Swamp Fox. County seat on the Scioto's north branches. A grid before the president.",
+    long: "",
+    names: ["Eber Baker", "Francis Marion"]
+  },
+  {
+    id: "marion-shovel",
+    name: "Marion steam shovel",
+    lat: 40.5887,
+    lng: -83.1285,
+    radius: 1500,
+    short: "Marion Steam Shovel, later Marion Power Shovel. Machines from this town dug Panama and stripped coal fields. Industry first. The porch came after.",
+    long: "",
+    names: ["Marion Steam Shovel"]
+  },
+  {
+    id: "marion-harding-home",
+    name: "Harding Home",
+    lat: 40.5950,
+    lng: -83.1270,
+    radius: 400,
+    short: "Warren G. Harding ran the 1920 campaign from this porch on Mount Vernon Avenue. Newspaper man. Ohio Gang after. The house is a presidential site. Third Ohio porch campaign if you count McKinley and Garfield.",
+    long: "",
+    names: ["Warren G. Harding", "Florence Harding"]
+  },
+  {
+    id: "marion-memorial",
+    name: "Harding Memorial",
+    lat: 40.5730,
+    lng: -83.1230,
+    radius: 500,
+    short: "Harding Memorial. Circular colonnade south of downtown. He and Florence are here. Built like a Greek ring for a small-town editor who reached the White House and died in office.",
+    long: "",
+    names: ["Harding Memorial"]
+  },
+  {
+    id: "marion-parks",
+    name: "Marion parks",
+    lat: 40.5887,
+    lng: -83.1285,
+    radius: 1400,
+    short: "Garfield Park and the palace grounds at the memorial are the civic green. A county seat that put its president in a park instead of a churchyard only.",
+    long: "",
+    names: ["Garfield Park"]
+  },
+  {
+    id: "marion-native-war",
+    name: "Marion Native and war",
+    lat: 40.5887,
+    lng: -83.1285,
+    radius: 1800,
+    short: "Wyandot and Delaware hunting ground on the Scioto tributaries. Named for a Revolutionary partisan. Harding left this town for the Senate and the war-after-the-war presidency.",
+    long: "",
+    names: ["Wyandot"]
+  },
+  {
+    id: "marion-legend",
+    name: "Marion popcorn",
+    lat: 40.5887,
+    lng: -83.1285,
+    radius: 1400,
+    short: "Wyandot Popcorn and the popcorn museum are the later civic joke that became a fact. A shovel-and-president town that also claims the snack. Both tours run on the same square.",
+    long: "",
+    names: ["Wyandot Popcorn"]
+  },
+{
+    id: "approach-bowling-green",
+    name: "Bowling Green",
+    lat: 41.3748,
+    lng: -83.6513,
+    radius: 7000,
+    layer: "approach",
+    short: "You are coming up on Bowling Green. Wood County seat on the old Black Swamp. University town. Oil and gas before the classrooms. If you drop downtown, I'll start at the courthouse.",
+    long: "",
+    names: ["Bowling Green"]
+  },
+  {
+    id: "bg-founding",
+    name: "Bowling Green founding",
+    lat: 41.3748,
+    lng: -83.6513,
+    radius: 1400,
+    short: "Named for Bowling Green, Kentucky. Platted in the 1830s after the swamp began to be ditched. Took the county seat from Perrysburg after a fight. A grid on dried wetland.",
+    long: "",
+    names: ["Bowling Green"]
+  },
+  {
+    id: "bg-swamp-oil",
+    name: "Bowling Green swamp and oil",
+    lat: 41.3748,
+    lng: -83.6513,
+    radius: 1600,
+    short: "Great Black Swamp had to be tiled before this town worked. Then oil and gas in Wood County. Glass and a short boom. The university outlasted the wells.",
+    long: "",
+    names: ["Great Black Swamp"]
+  },
+  {
+    id: "bg-university",
+    name: "Bowling Green State",
+    lat: 41.3795,
+    lng: -83.6305,
+    radius: 800,
+    short: "Bowling Green State University opened as a normal school in 1910. The town's largest employer and its skyline. A swamp county that trained teachers and then a whole university.",
+    long: "",
+    names: ["Bowling Green State University"]
+  },
+  {
+    id: "bg-parks",
+    name: "Bowling Green parks",
+    lat: 41.3748,
+    lng: -83.6513,
+    radius: 1400,
+    short: "City Park and the university green are the civic lawns. No big river. Ditches and tiles are the water story. A park system on land that used to stand in water.",
+    long: "",
+    names: ["Bowling Green City Park"]
+  },
+  {
+    id: "bg-native",
+    name: "Bowling Green Native ground",
+    lat: 41.3748,
+    lng: -83.6513,
+    radius: 2000,
+    short: "Ottawa and Wyandot used the swamp edges. Fort Meigs and Fallen Timbers are the downriver war. This plateau was wet enough that settlement came late on purpose.",
+    long: "",
+    names: ["Great Black Swamp"]
+  },
+  {
+    id: "bg-war",
+    name: "Bowling Green war",
+    lat: 41.3748,
+    lng: -83.6513,
+    radius: 1600,
+    short: "Wood County men left from this square for the Civil War and the two world wars. No fort in town. The military story sits at the Maumee forts to the north.",
+    long: "",
+    names: ["Wood County"]
+  },
+  {
+    id: "bg-legend",
+    name: "County seat fight",
+    lat: 41.3748,
+    lng: -83.6513,
+    radius: 1400,
+    short: "Perrysburg had the seat. Bowling Green took it. The legend is a stolen courthouse and a night ride with records. The details blur. The seat stayed.",
+    long: "",
+    names: ["Perrysburg"]
+  },
+     {
+    id: "approach-delaware-oh",
+    name: "Delaware Ohio",
+    lat: 40.2987,
+    lng: -83.0680,
+    radius: 7000,
+    layer: "approach",
+    short: "You are coming up on Delaware. Rutherford B. Hayes was born here. Ohio Wesleyan on the hill. Olentangy River. Little Brown Jug. If you drop downtown, I'll start at the square.",
+    long: "",
+    names: ["Delaware", "Rutherford B. Hayes"]
+  },
+  {
+    id: "delaware-founding",
+    name: "Delaware founding",
+    lat: 40.2987,
+    lng: -83.0680,
+    radius: 1400,
+    short: "Moses Byxbe and others platted Delaware in 1808. Named for the Delaware people who had been pushed here, then pushed again. County seat on the Olentangy. A New England-style square in the Scioto drainage.",
+    long: "",
+    names: ["Moses Byxbe"]
+  },
+  {
+    id: "delaware-hayes",
+    name: "Hayes birthplace Delaware",
+    lat: 40.2987,
+    lng: -83.0680,
+    radius: 800,
+    short: "Rutherford B. Hayes was born in this town in 1822. Civil War general. President after the disputed 1876 election. Spiegel Grove, his home and grave, is in Fremont. The birth is Delaware's.",
+    long: "",
+    names: ["Rutherford B. Hayes"]
+  },
+  {
+    id: "delaware-wesleyan",
+    name: "Ohio Wesleyan",
+    lat: 40.2970,
+    lng: -83.0665,
+    radius: 600,
+    short: "Ohio Wesleyan opened 1842. Methodist college on the north side of the square. Grey stone and a town that grew around a campus instead of a mill.",
+    long: "",
+    names: ["Ohio Wesleyan"]
+  },
+  {
+    id: "delaware-olentangy",
+    name: "Olentangy Delaware",
+    lat: 40.2987,
+    lng: -83.0680,
+    radius: 1400,
+    short: "The Olentangy runs west of downtown toward Columbus. Delaware is the upriver county seat on the same stream the capital sits on. Mills first. Campus later.",
+    long: "",
+    names: ["Olentangy River"]
+  },
+  {
+    id: "delaware-parks",
+    name: "Delaware parks",
+    lat: 40.2987,
+    lng: -83.0680,
+    radius: 1400,
+    short: "Mingo Park and the fairgrounds. Little Brown Jug, the trotting race, is the September civic explosion. A county seat that kept a horse race famous.",
+    long: "",
+    names: ["Little Brown Jug", "Mingo Park"]
+  },
+  {
+    id: "delaware-native-war",
+    name: "Delaware Native and war",
+    lat: 40.2987,
+    lng: -83.0680,
+    radius: 1800,
+    short: "Named for the Lenape, called Delaware. Their towns were already being moved when Byxbe platted this one. Hayes left this square for the Union army. The name is a people. The town is the replacement.",
+    long: "",
+    names: ["Delaware people"]
+  },
+  {
+    id: "delaware-legend",
+    name: "Little Brown Jug",
+    lat: 40.2987,
+    lng: -83.0680,
+    radius: 1000,
+    short: "The Jug is the local religion in September. A county fair race that outgrew the fair. People who cannot name Hayes can name the horse.",
+    long: "",
+    names: ["Little Brown Jug"]
+  },
+     {
+    id: "approach-westerville",
+    name: "Westerville",
+    lat: 40.1261,
+    lng: -82.9291,
+    radius: 6000,
+    layer: "approach",
+    short: "You are coming up on Westerville. Dry town. Anti-Saloon League printed the nation's temperance paper here. Otterbein on the hill. If you drop Uptown, I'll start at the league.",
+    long: "",
+    names: ["Westerville"]
+  },
+  {
+    id: "westerville-founding",
+    name: "Westerville founding",
+    lat: 40.1261,
+    lng: -82.9291,
+    radius: 1200,
+    short: "Matthew Westervelt and other settlers. Otterbein University opened 1847. The village grew around a United Brethren campus. Uptown State Street is the old walk.",
+    long: "",
+    names: ["Otterbein"]
+  },
+  {
+    id: "westerville-anti-saloon",
+    name: "Anti-Saloon League",
+    lat: 40.1261,
+    lng: -82.9291,
+    radius: 700,
+    short: "The Anti-Saloon League moved its press here. American Issue. Westerville was Dry Capital of the World. Prohibition was written, printed, and mailed from this village. The museum still sits Uptown.",
+    long: "",
+    names: ["Anti-Saloon League"]
+  },
+  {
+    id: "westerville-otterbein",
+    name: "Otterbein University",
+    lat: 40.1235,
+    lng: -82.9365,
+    radius: 500,
+    short: "Otterbein. One of the first colleges in the country to admit women and later to be coeducational on purpose. The campus is why the dry league picked the town.",
+    long: "",
+    names: ["Otterbein University"]
+  },
+  {
+    id: "westerville-parks",
+    name: "Westerville parks",
+    lat: 40.1261,
+    lng: -82.9291,
+    radius: 1400,
+    short: "Alum Creek on the east edge. Heritage Park. A suburb that kept a creek and an uptown instead of only a strip.",
+    long: "",
+    names: ["Alum Creek"]
+  },
+  {
+    id: "westerville-native",
+    name: "Westerville Native ground",
+    lat: 40.1261,
+    lng: -82.9291,
+    radius: 1600,
+    short: "Alum Creek and the Blendon plains. Same Scioto-side ground as Columbus. Farms on a trail that became State Street.",
+    long: "",
+    names: ["Alum Creek"]
+  },
+  {
+    id: "westerville-war",
+    name: "Westerville war",
+    lat: 40.1261,
+    lng: -82.9291,
+    radius: 1400,
+    short: "No fort. The war this town fought was against the saloon. Civil War companies still left from the county. The plaque people photograph is temperance, not a battery.",
+    long: "",
+    names: ["Anti-Saloon League"]
+  },
+  {
+    id: "westerville-legend",
+    name: "Dry Capital",
+    lat: 40.1261,
+    lng: -82.9291,
+    radius: 1000,
+    short: "The legend is that you could not buy a drink here for decades and the whole country caught the habit from these presses. Then the town annexed and poured beer again. Both halves are on the same block.",
+    long: "",
+    names: ["Westerville"]
+  },
+     {
+    id: "approach-grove-city",
+    name: "Grove City",
+    lat: 39.8815,
+    lng: -83.0930,
+    radius: 6000,
+    layer: "approach",
+    short: "You are coming up on Grove City. Farm town south of Columbus that kept a main street. Beulah Park. Gardens. If you drop into town, I'll start on Broadway.",
+    long: "",
+    names: ["Grove City"]
+  },
+  {
+    id: "grove-city-founding",
+    name: "Grove City founding",
+    lat: 39.8815,
+    lng: -83.0930,
+    radius: 1200,
+    short: "William Breck platted Grove City in 1852 around a grove and a crossroads. Jackson Township. Became the south-side town Columbus did not swallow.",
+    long: "",
+    names: ["William Breck"]
+  },
+  {
+    id: "grove-city-beulah",
+    name: "Beulah Park",
+    lat: 39.8815,
+    lng: -83.0930,
+    radius: 800,
+    short: "Beulah Park was a trotting and Thoroughbred track from 1923. First in Ohio with a photo finish and a tote board. The track is gone. The name is still on the redevelopment.",
+    long: "",
+    names: ["Beulah Park"]
+  },
+  {
+    id: "grove-city-parks",
+    name: "Grove City gardens",
+    lat: 39.8815,
+    lng: -83.0930,
+    radius: 1400,
+    short: "Gardens at Gantz and the civic green on Broadway. A suburb that sells itself as a town with porches. The parks are the proof they meant it.",
+    long: "",
+    names: ["Gantz Park"]
+  },
+  {
+    id: "grove-city-industry",
+    name: "Grove City roads",
+    lat: 39.8815,
+    lng: -83.0930,
+    radius: 1500,
+    short: "No river mill. I-71 and old 62 / Broadway are the working roads. Columbus jobs. Local shops. A crossroads that stayed a crossroads.",
+    long: "",
+    names: ["Broadway Grove City"]
+  },
+  {
+    id: "grove-city-native",
+    name: "Grove City Native ground",
+    lat: 39.8815,
+    lng: -83.0930,
+    radius: 1600,
+    short: "Scioto plains south of Franklinton. Same Native ground as Columbus. Farms on a trail that became Jackson Pike.",
+    long: "",
+    names: ["Scioto River"]
+  },
+  {
+    id: "grove-city-war",
+    name: "Grove City war",
+    lat: 39.8815,
+    lng: -83.0930,
+    radius: 1400,
+    short: "Township men left for the Civil War from this county. No fort. The later story is a quiet suburb that sent people to the same wars Columbus did.",
+    long: "",
+    names: ["Jackson Township"]
+  },
+  {
+    id: "grove-city-legend",
+    name: "Grove City legend",
+    lat: 39.8815,
+    lng: -83.0930,
+    radius: 1000,
+    short: "The civic line is that Grove City is still a small town. Broadway on a Friday night is the evidence they offer. Beulah's ghost is the other story.",
+    long: "",
+    names: ["Grove City"]
+  },
 
+  {
+    id: "approach-reynoldsburg",
+    name: "Reynoldsburg",
+    lat: 39.9548,
+    lng: -82.8121,
+    radius: 6000,
+    layer: "approach",
+    short: "You are coming up on Reynoldsburg. Tomato capital. National Road town east of Columbus. If you drop into town, I'll start on Main.",
+    long: "",
+    names: ["Reynoldsburg"]
+  },
+  {
+    id: "reynoldsburg-founding",
+    name: "Reynoldsburg founding",
+    lat: 39.9548,
+    lng: -82.8121,
+    radius: 1200,
+    short: "John French and others on the National Road. Named for John Reynolds. A pike town that sat one day's wagon east of the capital.",
+    long: "",
+    names: ["John Reynolds", "National Road"]
+  },
+  {
+    id: "reynoldsburg-tomato",
+    name: "Reynoldsburg tomato",
+    lat: 39.9548,
+    lng: -82.8121,
+    radius: 1400,
+    short: "Alexander W. Livingston bred the tomato here into a fruit people would eat on purpose. The Livingston House still stands. Tomato Festival is the civic holiday. Ohio's salad started as a farm experiment on this road.",
+    long: "",
+    names: ["Alexander W. Livingston"]
+  },
+  {
+    id: "reynoldsburg-road",
+    name: "Reynoldsburg National Road",
+    lat: 39.9548,
+    lng: -82.8121,
+    radius: 1400,
+    short: "Main Street is the old National Road. Same pike that paused in Springfield. Reynoldsburg sold meals and seed to the through traffic.",
+    long: "",
+    names: ["National Road"]
+  },
+  {
+    id: "reynoldsburg-parks",
+    name: "Reynoldsburg parks",
+    lat: 39.9548,
+    lng: -82.8121,
+    radius: 1400,
+    short: "Livingston Park and the civic green along Main. A suburb that kept a house and a festival instead of only a strip.",
+    long: "",
+    names: ["Livingston House"]
+  },
+  {
+    id: "reynoldsburg-native",
+    name: "Reynoldsburg Native ground",
+    lat: 39.9548,
+    lng: -82.8121,
+    radius: 1600,
+    short: "Blacklick and the Licking divide. Same trail the National Road later paved. Farms on a path that was already a path.",
+    long: "",
+    names: ["Blacklick Creek"]
+  },
+  {
+    id: "reynoldsburg-war",
+    name: "Reynoldsburg war",
+    lat: 39.9548,
+    lng: -82.8121,
+    radius: 1400,
+    short: "No fort. Franklin and Licking County men left from this pike. The town's fight that people remember is the tomato, not a battery.",
+    long: "",
+    names: ["Reynoldsburg"]
+  },
+  {
+    id: "reynoldsburg-legend",
+    name: "Tomato Capital",
+    lat: 39.9548,
+    lng: -82.8121,
+    radius: 1000,
+    short: "The legend is that America learned to like tomatoes because a man in Reynoldsburg bred the sour out. Close enough to true to put it on a water tower.",
+    long: "",
+    names: ["Tomato Festival"]
+  },
+ {
+    id: "approach-hilliard",
+    name: "Hilliard",
+    lat: 40.0334,
+    lng: -83.1582,
+    radius: 6000,
+    layer: "approach",
+    short: "You are coming up on Hilliard. Railroad town west of Columbus. John Hilliard platted the depot. If you drop into Old Hilliard, I'll start at the tracks.",
+    long: "",
+    names: ["Hilliard"]
+  },
+  {
+    id: "hilliard-founding",
+    name: "Hilliard founding",
+    lat: 40.0334,
+    lng: -83.1582,
+    radius: 1200,
+    short: "John R. Hilliard laid out a station town in 1853 on the railroad through Norwich Township. Grain went out. Columbus later came west. The depot is the reason the name exists.",
+    long: "",
+    names: ["John R. Hilliard"]
+  },
+  {
+    id: "hilliard-rail",
+    name: "Hilliard railroad",
+    lat: 40.0334,
+    lng: -83.1582,
+    radius: 1400,
+    short: "The tracks made the town. Old Hilliard still sits on that alignment. No canal. No river mill. A freight stop that learned to be a suburb.",
+    long: "",
+    names: ["Hilliard"]
+  },
+  {
+    id: "hilliard-parks",
+    name: "Hilliard parks",
+    lat: 40.0334,
+    lng: -83.1582,
+    radius: 1400,
+    short: "Municipal Park and the Old Hilliard green. First Responders Park. A depot town that kept a walkable block when the subdivisions arrived.",
+    long: "",
+    names: ["Old Hilliard"]
+  },
+  {
+    id: "hilliard-people",
+    name: "Hilliard people",
+    lat: 40.0334,
+    lng: -83.1582,
+    radius: 1400,
+    short: "Farm families, then rail workers, then Columbus commuters. The station name outlived the station agent.",
+    long: "",
+    names: ["Norwich Township"]
+  },
+  {
+    id: "hilliard-native",
+    name: "Hilliard Native ground",
+    lat: 40.0334,
+    lng: -83.1582,
+    radius: 1600,
+    short: "Scioto plains west of Franklinton. Same Native ground as Grove City and Dublin. A ridge between streams, then a grade for the railroad.",
+    long: "",
+    names: ["Scioto River"]
+  },
+  {
+    id: "hilliard-war",
+    name: "Hilliard war",
+    lat: 40.0334,
+    lng: -83.1582,
+    radius: 1400,
+    short: "Township men left for the Civil War before there was much of a town. The later memorials are suburban and sincere. No fort on the tracks.",
+    long: "",
+    names: ["Hilliard"]
+  },
+  {
+    id: "hilliard-legend",
+    name: "Old Hilliard",
+    lat: 40.0334,
+    lng: -83.1582,
+    radius: 800,
+    short: "The legend they tell is that the real town is still the two blocks by the tracks. Everything else is addition. On a Saturday morning that can sound true.",
+    long: "",
+    names: ["Old Hilliard"]
+  },
+    
+  {
+    id: "approach-dublin-oh",
+    name: "Dublin Ohio",
+    lat: 40.0992,
+    lng: -83.1141,
+    radius: 6000,
+    layer: "approach",
+    short: "You are coming up on Dublin. Scioto crossing north of Columbus. Irish name on Ohio ground. Stone bridge and a village that got rich without a mill. If you drop into Historic Dublin, I'll start at the river.",
+    long: "",
+    names: ["Dublin"]
+  },
+  {
+    id: "dublin-founding",
+    name: "Dublin founding",
+    lat: 40.0992,
+    lng: -83.1141,
+    radius: 1200,
+    short: "John Sells and other surveyors platted a town at this Scioto ford. Named Dublin. Washington Township. A river village that stayed small until the highway and Muirfield.",
+    long: "",
+    names: ["John Sells"]
+  },
+  {
+    id: "dublin-scioto",
+    name: "Dublin Scioto",
+    lat: 40.0992,
+    lng: -83.1141,
+    radius: 1400,
+    short: "The Scioto is the reason. Ford, then bridge, then a park along the bank. Same river as Franklinton and the statehouse, quieter here.",
+    long: "",
+    names: ["Scioto River"]
+  },
+  {
+    id: "dublin-people-parks",
+    name: "Dublin parks",
+    lat: 40.0992,
+    lng: -83.1141,
+    radius: 1400,
+    short: "Coffman Park and Historic Dublin. Field of Corn sculpture. A suburb that paid for art and river lawns with later money.",
+    long: "",
+    names: ["Coffman Park"]
+  },
+  {
+    id: "dublin-muirfield",
+    name: "Muirfield Village",
+    lat: 40.1360,
+    lng: -83.1480,
+    radius: 1000,
+    short: "Jack Nicklaus built Muirfield on the north edge. The Memorial Tournament put Dublin on a sports map the ford never reached.",
+    long: "",
+    names: ["Jack Nicklaus", "Muirfield"]
+  },
+  {
+    id: "dublin-native",
+    name: "Dublin Native ground",
+    lat: 40.0992,
+    lng: -83.1141,
+    radius: 1600,
+    short: "Scioto trail. Earthworks and camps along this bend before the plat. The river road is older than the Irish name.",
+    long: "",
+    names: ["Scioto River"]
+  },
+  {
+    id: "dublin-war",
+    name: "Dublin war",
+    lat: 40.0992,
+    lng: -83.1141,
+    radius: 1400,
+    short: "No fort. Township men left from Franklin County. The village story is a crossing, not a battle.",
+    long: "",
+    names: ["Washington Township"]
+  },
+  {
+    id: "dublin-legend",
+    name: "Dublin name",
+    lat: 40.0992,
+    lng: -83.1141,
+    radius: 1000,
+    short: "The legend is that surveyors missed Ireland and named the ford anyway. Irish Festival later made the joke official. The river did not care.",
+    long: "",
+    names: ["Dublin"]
+  },
+     {
+    id: "approach-upper-arlington",
+    name: "Upper Arlington",
+    lat: 40.0184,
+    lng: -83.0602,
+    radius: 5000,
+    layer: "approach",
+    short: "You are coming up on Upper Arlington. Planned town on the river terrace west of Ohio State. Thompson brothers, 1913. If you drop into the original plat, I'll start at the mall.",
+    long: "",
+    names: ["Upper Arlington"]
+  },
+  {
+    id: "ua-founding",
+    name: "Upper Arlington founding",
+    lat: 40.0184,
+    lng: -83.0602,
+    radius: 1200,
+    short: "King and Ben Thompson platted a restricted garden suburb in 1913 on the old Miller farm. Named for Arlington, Virginia. A designed town, not a depot that grew.",
+    long: "",
+    names: ["King Thompson", "Ben Thompson"]
+  },
+  {
+    id: "ua-plan",
+    name: "Upper Arlington plan",
+    lat: 40.0184,
+    lng: -83.0602,
+    radius: 1400,
+    short: "Curved streets, setbacks, a civic mall. Built as the anti-grid to Columbus. Streetcar and then cars. The plan is the industry.",
+    long: "",
+    names: ["Upper Arlington"]
+  },
+  {
+    id: "ua-parks",
+    name: "Upper Arlington parks",
+    lat: 40.0184,
+    lng: -83.0602,
+    radius: 1400,
+    short: "Northam Park and the original mall. Scioto on the west edge. A suburb that treated lawns as civic infrastructure.",
+    long: "",
+    names: ["Northam Park"]
+  },
+  {
+    id: "ua-people",
+    name: "Upper Arlington people",
+    lat: 40.0184,
+    lng: -83.0602,
+    radius: 1400,
+    short: "Faculty, officers, and professional families from the start. Next door to the university and the quartermaster depot. A town hired by the institutions beside it.",
+    long: "",
+    names: ["Upper Arlington"]
+  },
+  {
+    id: "ua-native",
+    name: "Upper Arlington Native ground",
+    lat: 40.0184,
+    lng: -83.0602,
+    radius: 1600,
+    short: "Scioto terrace. Same river terrace as Franklinton. Farms on a bluff before the plat. The river is the older street.",
+    long: "",
+    names: ["Scioto River"]
+  },
+  {
+    id: "ua-war",
+    name: "Upper Arlington war",
+    lat: 40.0184,
+    lng: -83.0602,
+    radius: 1400,
+    short: "The first lots sold into the First World War. A victory arch went up on the mall. Later wars marked the same green. A planned town with a planned memorial habit.",
+    long: "",
+    names: ["Upper Arlington"]
+  },
+  {
+    id: "ua-legend",
+    name: "Upper Arlington legend",
+    lat: 40.0184,
+    lng: -83.0602,
+    radius: 1000,
+    short: "The legend is that this was never a suburb, it was a plan that Columbus grew up to. The curbs still look like someone drew them on purpose.",
+    long: "",
+    names: ["Upper Arlington"]
+  },
+     {
+    id: "approach-mason",
+    name: "Mason",
+    lat: 39.3601,
+    lng: -84.3099,
+    radius: 6000,
+    layer: "approach",
+    short: "You are coming up on Mason. Warren County town between Cincinnati and Dayton. Kings Island on the edge. If you drop into town, I'll start at the square.",
+    long: "",
+    names: ["Mason"]
+  },
+  {
+    id: "mason-founding",
+    name: "Mason founding",
+    lat: 39.3601,
+    lng: -84.3099,
+    radius: 1200,
+    short: "Major William Mason platted this town in 1815. First called Palmyra, then his name. A stage stop on the Cincinnati-Lebanon-Xenia road.",
+    long: "",
+    names: ["William Mason"]
+  },
+  {
+    id: "mason-kings-island",
+    name: "Kings Island",
+    lat: 39.3450,
+    lng: -84.2660,
+    radius: 1200,
+    short: "Kings Island opened 1972 on farmland at the town's east edge. The Reds and a TV show put it on maps. A farm township that woke up next to a park.",
+    long: "",
+    names: ["Kings Island"]
+  },
+  {
+    id: "mason-industry",
+    name: "Mason industry",
+    lat: 39.3601,
+    lng: -84.3099,
+    radius: 1500,
+    short: "No river mill. I-71 did the work the canal did elsewhere. Procter plants and offices later. A crossroads that became a jobs suburb.",
+    long: "",
+    names: ["Mason"]
+  },
+  {
+    id: "mason-parks",
+    name: "Mason parks",
+    lat: 39.3601,
+    lng: -84.3099,
+    radius: 1400,
+    short: "Heritage Oak Park and the downtown green. A town that kept a square after the park and the highway arrived.",
+    long: "",
+    names: ["Heritage Oak Park"]
+  },
+  {
+    id: "mason-native",
+    name: "Mason Native ground",
+    lat: 39.3601,
+    lng: -84.3099,
+    radius: 1600,
+    short: "Between the Little Miami and the Great Miami. Same Shawnee ground as Lebanon and Fort Ancient up the river. A ridge road, not a ford.",
+    long: "",
+    names: ["Little Miami River"]
+  },
+  {
+    id: "mason-war",
+    name: "Mason war",
+    lat: 39.3601,
+    lng: -84.3099,
+    radius: 1400,
+    short: "No fort in town. Warren County men left from Lebanon and this road. Fort Ancient and the river forts are the older military story a few miles away.",
+    long: "",
+    names: ["Warren County"]
+  },
+  {
+    id: "mason-legend",
+    name: "Mason legend",
+    lat: 39.3601,
+    lng: -84.3099,
+    radius: 1000,
+    short: "The legend is that Mason stayed a small town until the park gates opened, then it never was small again. The square still tries.",
+    long: "",
+    names: ["Mason"]
+  },
+  {
+    id: "approach-stow",
+    name: "Stow",
+    lat: 41.1595,
+    lng: -81.4404,
+    radius: 6000,
+    layer: "approach",
+    short: "You are coming up on Stow. Western Reserve township next to Cuyahoga Falls and Akron. Silver Lake. If you drop into town, I'll start at the corners.",
+    long: "",
+    names: ["Stow"]
+  },
+  {
+    id: "stow-founding",
+    name: "Stow founding",
+    lat: 41.1595,
+    lng: -81.4404,
+    radius: 1200,
+    short: "Joshua Stow of Connecticut drew this township in the Western Reserve. Settlers in 1804. Stow Corners on the old road. A New England grid on the Cuyahoga side of the divide.",
+    long: "",
+    names: ["Joshua Stow"]
+  },
+  {
+    id: "stow-silver-lake",
+    name: "Silver Lake",
+    lat: 41.1540,
+    lng: -81.4540,
+    radius: 800,
+    short: "Silver Lake. Resort and then a village inside the township. Ice, boats, and a park before Akron's rubber money reached this far.",
+    long: "",
+    names: ["Silver Lake"]
+  },
+  {
+    id: "stow-industry",
+    name: "Stow industry",
+    lat: 41.1595,
+    lng: -81.4404,
+    radius: 1500,
+    short: "Farms, then Akron rubber commuters. No canal through the corners. State Road and later the expressway did the carrying.",
+    long: "",
+    names: ["Stow"]
+  },
+  {
+    id: "stow-parks",
+    name: "Stow parks",
+    lat: 41.1595,
+    lng: -81.4404,
+    radius: 1400,
+    short: "Silver Springs and the city parks on the kettle lakes. A township that kept water in the plan.",
+    long: "",
+    names: ["Silver Springs"]
+  },
+  {
+    id: "stow-native",
+    name: "Stow Native ground",
+    lat: 41.1595,
+    lng: -81.4404,
+    radius: 1600,
+    short: "Portage Path is west. Same ridge carry between Cuyahoga and Tuscarawas. Stow is the farm side of that old walk.",
+    long: "",
+    names: ["Portage Path"]
+  },
+  {
+    id: "stow-war",
+    name: "Stow war",
+    lat: 41.1595,
+    lng: -81.4404,
+    radius: 1400,
+    short: "No fort. Summit County men left from Akron and the corners. The military story here is the same as the Reserve: a militia, then a monument.",
+    long: "",
+    names: ["Stow"]
+  },
+  {
+    id: "stow-legend",
+    name: "Stow Corners",
+    lat: 41.1595,
+    lng: -81.4404,
+    radius: 800,
+    short: "The legend is that Stow is still a township that learned to be a city. The corners remain the argument: four roads and a name from Connecticut.",
+    long: "",
+    names: ["Stow Corners"]
+  },
+  {
+    id: "approach-gahanna",
+    name: "Gahanna",
+    lat: 40.0192,
+    lng: -82.8793,
+    radius: 6000,
+    layer: "approach",
+    short: "You are coming up on Gahanna. Big Walnut Creek east of Columbus. Creekside. A name older than the plat. If you drop into Olde Gahanna, I'll start at the water.",
+    long: "",
+    names: ["Gahanna"]
+  },
+  {
+    id: "gahanna-founding",
+    name: "Gahanna founding",
+    lat: 40.0192,
+    lng: -82.8793,
+    radius: 1200,
+    short: "John Clark and others at a mill seat on Big Walnut. Incorporated later. Mifflin Township. A creek town that Columbus grew out to meet.",
+    long: "",
+    names: ["John Clark"]
+  },
+  {
+    id: "gahanna-creek",
+    name: "Big Walnut Gahanna",
+    lat: 40.0192,
+    lng: -82.8793,
+    radius: 1200,
+    short: "Big Walnut Creek is the street that matters. Mill, then Creekside shops. Same stream that runs toward the Blacklick and the Scioto system.",
+    long: "",
+    names: ["Big Walnut Creek"]
+  },
+  {
+    id: "gahanna-parks",
+    name: "Gahanna parks",
+    lat: 40.0192,
+    lng: -82.8793,
+    radius: 1400,
+    short: "Creekside Park and the walk along the walnut. Olde Gahanna kept a mill-scale downtown when the subdivisions arrived.",
+    long: "",
+    names: ["Creekside"]
+  },
+  {
+    id: "gahanna-people",
+    name: "Gahanna people",
+    lat: 40.0192,
+    lng: -82.8793,
+    radius: 1400,
+    short: "Mill families, then Columbus commuters. Herb capital branding came later. The creek people were first.",
+    long: "",
+    names: ["Gahanna"]
+  },
+  {
+    id: "gahanna-native",
+    name: "Gahanna name",
+    lat: 40.0192,
+    lng: -82.8793,
+    radius: 1600,
+    short: "Gahanna is taken from a Native word for three creeks coming together. The name is the Native history the town kept. The confluence is real even when the translation is argued.",
+    long: "",
+    names: ["Gahanna"]
+  },
+  {
+    id: "gahanna-war",
+    name: "Gahanna war",
+    lat: 40.0192,
+    lng: -82.8793,
+    radius: 1400,
+    short: "No fort. Franklin County men left from this township. The memorials are civic. The older story is the name.",
+    long: "",
+    names: ["Mifflin Township"]
+  },
+  {
+    id: "gahanna-legend",
+    name: "Olde Gahanna",
+    lat: 40.0192,
+    lng: -82.8793,
+    radius: 800,
+    short: "The legend is that if you stand on the bridge you are in the real town and the rest is annexation. On a Saturday that can feel exact.",
+    long: "",
+    names: ["Olde Gahanna"]
+  },
+    
+  {
+    id: "approach-fairborn",
+    name: "Fairborn",
+    lat: 39.8209,
+    lng: -84.0194,
+    radius: 6000,
+    layer: "approach",
+    short: "You are coming up on Fairborn. Two towns, Fairfield and Osborn, fused after the 1913 flood. Wright-Patterson next door. Huffman Prairie in the fence line. If you drop into town, I'll start with the merge.",
+    long: "",
+    names: ["Fairborn"]
+  },
+  {
+    id: "fairborn-founding",
+    name: "Fairborn founding",
+    lat: 39.8209,
+    lng: -84.0194,
+    radius: 1400,
+    short: "Osborn sat too low. The 1913 flood wrecked it. The town picked up and moved next to Fairfield. In 1950 they became Fairborn. A name made from two names and a disaster.",
+    long: "",
+    names: ["Osborn", "Fairfield"]
+  },
+  {
+    id: "fairborn-base",
+    name: "Fairborn and the field",
+    lat: 39.8209,
+    lng: -84.0194,
+    radius: 1600,
+    short: "Wright Field and then Wright-Patterson ate the east side. Huffman Prairie, where the Wrights made a practical plane, is on the base. A housing city grown off an airfield.",
+    long: "",
+    names: ["Wright-Patterson", "Huffman Prairie"]
+  },
+  {
+    id: "fairborn-people-parks",
+    name: "Fairborn parks",
+    lat: 39.8209,
+    lng: -84.0194,
+    radius: 1400,
+    short: "Community Park and the downtown strip that used to be Fairfield. A merged town that still has two memories of Main Street.",
+    long: "",
+    names: ["Fairborn"]
+  },
+  {
+    id: "fairborn-native",
+    name: "Fairborn Native ground",
+    lat: 39.8209,
+    lng: -84.0194,
+    radius: 1800,
+    short: "Mad River drainage. Same Shawnee ground as Dayton and Springfield. The prairie the Wrights borrowed was already a wet meadow in that old landscape.",
+    long: "",
+    names: ["Mad River"]
+  },
+  {
+    id: "fairborn-war",
+    name: "Fairborn war",
+    lat: 39.8209,
+    lng: -84.0194,
+    radius: 1600,
+    short: "The base is the war. Logistics, flight test, two world wars and after. Fairborn's industry is the fence and the gate.",
+    long: "",
+    names: ["Wright-Patterson"]
+  },
+  {
+    id: "fairborn-legend",
+    name: "Fairborn merge",
+    lat: 39.8209,
+    lng: -84.0194,
+    radius: 1200,
+    short: "The legend is that a flood stole one town and a base invented the other. The water tower reads like a compromise because it is one.",
+    long: "",
+    names: ["Fairborn"]
+  },
+      {
+    id: "approach-north-ridgeville",
+    name: "North Ridgeville",
+    lat: 41.3895,
+    lng: -82.0190,
+    radius: 6000,
+    layer: "approach",
+    short: "You are coming up on North Ridgeville. Western Reserve ridge town west of Cleveland. First called Ridgeville. If you drop into town, I'll start on the ridge road.",
+    long: "",
+    names: ["North Ridgeville"]
+  },
+  {
+    id: "nr-founding",
+    name: "North Ridgeville founding",
+    lat: 41.3895,
+    lng: -82.0190,
+    radius: 1200,
+    short: "Connecticut Land Company township. Settlers on the ridge between the lake plain and the interior. Called Ridgeville, then North Ridgeville to keep the mail straight.",
+    long: "",
+    names: ["Ridgeville"]
+  },
+  {
+    id: "nr-ridge",
+    name: "North Ridgeville ridge",
+    lat: 41.3895,
+    lng: -82.0190,
+    radius: 1500,
+    short: "The ridge is the road. Center Ridge. Farms, then a suburb on the same high ground that kept wagons out of the mud. No canal. No mill river.",
+    long: "",
+    names: ["Center Ridge"]
+  },
+  {
+    id: "nr-parks",
+    name: "North Ridgeville parks",
+    lat: 41.3895,
+    lng: -82.0190,
+    radius: 1400,
+    short: "South Central Park and the civic green. A township that kept a corn festival after the lots filled.",
+    long: "",
+    names: ["South Central Park"]
+  },
+  {
+    id: "nr-people",
+    name: "North Ridgeville people",
+    lat: 41.3895,
+    lng: -82.0190,
+    radius: 1400,
+    short: "Reserve farmers, then Cleveland commuters. Lorain County, not Cuyahoga. A ridge that looks at both.",
+    long: "",
+    names: ["North Ridgeville"]
+  },
+  {
+    id: "nr-native",
+    name: "North Ridgeville Native ground",
+    lat: 41.3895,
+    lng: -82.0190,
+    radius: 1600,
+    short: "Lake plain edge. Same Native lake roads as Elyria and the Black River towns. The ridge was the dry walk.",
+    long: "",
+    names: ["Center Ridge"]
+  },
+  {
+    id: "nr-war",
+    name: "North Ridgeville war",
+    lat: 41.3895,
+    lng: -82.0190,
+    radius: 1400,
+    short: "No fort. Township militia, then county memorials. The 1924 Lorain tornado's family reached this far in stories if not always in timber.",
+    long: "",
+    names: ["North Ridgeville"]
+  },
+  {
+    id: "nr-legend",
+    name: "Corn festival",
+    lat: 41.3895,
+    lng: -82.0190,
+    radius: 1000,
+    short: "The legend they keep is that this is still a farming town that happens to have subdivisions. The corn festival is the annual exhibit.",
+    long: "",
+    names: ["North Ridgeville"]
+  },
+      {
+    id: "approach-westlake",
+    name: "Westlake",
+    lat: 41.4553,
+    lng: -81.9179,
+    radius: 6000,
+    layer: "approach",
+    short: "You are coming up on Westlake. First called Dover. Western Reserve township on the lake side of the ridge. If you drop into town, I'll start at Clague.",
+    long: "",
+    names: ["Westlake"]
+  },
+  {
+    id: "westlake-founding",
+    name: "Westlake founding",
+    lat: 41.4553,
+    lng: -81.9179,
+    radius: 1200,
+    short: "Dover Township, Connecticut Western Reserve. Farmers on the lake plain. The name changed to Westlake in 1940 so mail would stop landing in Dover, Ohio, downstate.",
+    long: "",
+    names: ["Dover Township"]
+  },
+  {
+    id: "westlake-clague",
+    name: "Clague Park",
+    lat: 41.4553,
+    lng: -81.9179,
+    radius: 800,
+    short: "Clague Park and the Clague House. The family farm became the civic park. A township that turned its showplace farm into public ground.",
+    long: "",
+    names: ["Clague House"]
+  },
+  {
+    id: "westlake-industry",
+    name: "Westlake roads",
+    lat: 41.4553,
+    lng: -81.9179,
+    radius: 1500,
+    short: "No mill river. Detroit Road and later I-90. Cleveland jobs. Greenhouse and nursery land before the office parks.",
+    long: "",
+    names: ["Detroit Road"]
+  },
+  {
+    id: "westlake-parks",
+    name: "Westlake parks",
+    lat: 41.4553,
+    lng: -81.9179,
+    radius: 1400,
+    short: "Clague and the recreation campus. A lake-county suburb that kept acreage on purpose.",
+    long: "",
+    names: ["Clague Park"]
+  },
+  {
+    id: "westlake-native",
+    name: "Westlake Native ground",
+    lat: 41.4553,
+    lng: -81.9179,
+    radius: 1600,
+    short: "Lake plain. Same Erie shore roads as Lakewood and Rocky River. Trails that became Detroit Road.",
+    long: "",
+    names: ["Lake Erie"]
+  },
+  {
+    id: "westlake-war",
+    name: "Westlake war",
+    lat: 41.4553,
+    lng: -81.9179,
+    radius: 1400,
+    short: "No fort. Township men left from Dover. The later city put its memorials in the park that used to be a farm.",
+    long: "",
+    names: ["Dover Township"]
+  },
+  {
+    id: "westlake-legend",
+    name: "Dover to Westlake",
+    lat: 41.4553,
+    lng: -81.9179,
+    radius: 1000,
+    short: "The legend is a post office problem. Two Dovers in one state. They picked a lake name so the letters would arrive. That is the whole civic baptism.",
+    long: "",
+    names: ["Westlake"]
+  },
+      {
+    id: "approach-maple-heights",
+    name: "Maple Heights",
+    lat: 41.4153,
+    lng: -81.5659,
+    radius: 5000,
+    layer: "approach",
+    short: "You are coming up on Maple Heights. Southeast of Cleveland. Broadway corridor. A village that became a city when the mills and the streetcars reached the heights.",
+    long: "",
+    names: ["Maple Heights"]
+  },
+  {
+    id: "maple-founding",
+    name: "Maple Heights founding",
+    lat: 41.4153,
+    lng: -81.5659,
+    radius: 1200,
+    short: "Carved from Bedford Township. Named for the trees on the rise above Mill Creek. Incorporated 1915, city later. A heights town on the way to Bedford and the mill valley.",
+    long: "",
+    names: ["Bedford Township"]
+  },
+  {
+    id: "maple-broadway",
+    name: "Maple Heights Broadway",
+    lat: 41.4153,
+    lng: -81.5659,
+    radius: 1400,
+    short: "Broadway is the working road. Streetcar then auto. Jobs in Cleveland and in the industrial valley south. No river through downtown. The grade is the story.",
+    long: "",
+    names: ["Broadway"]
+  },
+  {
+    id: "maple-parks",
+    name: "Maple Heights parks",
+    lat: 41.4153,
+    lng: -81.5659,
+    radius: 1400,
+    short: "Stafford Park and the civic campus. A small city that kept a green on the heights.",
+    long: "",
+    names: ["Stafford Park"]
+  },
+  {
+    id: "maple-people",
+    name: "Maple Heights people",
+    lat: 41.4153,
+    lng: -81.5659,
+    radius: 1400,
+    short: "Immigrant mill families and Cleveland workers. A first-ring suburb with a Main Street that is actually Broadway.",
+    long: "",
+    names: ["Maple Heights"]
+  },
+  {
+    id: "maple-native",
+    name: "Maple Heights Native ground",
+    lat: 41.4153,
+    lng: -81.5659,
+    radius: 1600,
+    short: "Mill Creek drainage toward the Cuyahoga. Same Native valley roads as Garfield Heights and Bedford. The heights were the dry camp above the creek.",
+    long: "",
+    names: ["Mill Creek"]
+  },
+  {
+    id: "maple-war",
+    name: "Maple Heights war",
+    lat: 41.4153,
+    lng: -81.5659,
+    radius: 1400,
+    short: "No fort. Men left from this township for both world wars. The memorials sit on the civic campus the village built when it became a city.",
+    long: "",
+    names: ["Maple Heights"]
+  },
+  {
+    id: "maple-legend",
+    name: "Maple Heights name",
+    lat: 41.4153,
+    lng: -81.5659,
+    radius: 1000,
+    short: "The legend is only the trees. Maples on a rise. A city named for shade on the way down to the mills.",
+    long: "",
+    names: ["Maple Heights"]
+  },
+    
     ];
 

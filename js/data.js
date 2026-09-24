@@ -7985,7 +7985,2328 @@ const STORIES = [
     short: "Same St. Joseph that Lake Seneca dammed and Nettle Lake feeds. Parker bet on a river town. The county grew around rails instead. A Christmas plat on older water.",
     long: "",
     names: ["St. Joseph River", "Potawatomi"]
-  }
+  },
+    {
+    id: "approach-cleveland",
+    name: "Cleveland",
+    lat: 41.4997,
+    lng: -81.6939,
+    radius: 12000,
+    layer: "approach",
+    short: "You are coming up on Cleveland, Ohio. Moses Cleaveland landed at the Cuyahoga in 1796 and never came back. The extra A in his name got dropped so a newspaper would fit. Canal, lake, steel, and Rockefeller made the rest. If you turn downtown, I'll start at Public Square.",
+    long: "",
+    names: ["Cleveland", "Moses Cleaveland"]
+  },
+  {
+    id: "cleveland-founding",
+    name: "Cleveland founding",
+    lat: 41.4997,
+    lng: -81.6939,
+    radius: 1800,
+    short: "You are on Public Square. Moses Cleaveland of the Connecticut Land Company stepped off at the mouth of the Cuyahoga July 22, 1796, and paced a New England green. He went home that fall and never saw the city again. Four settlers the first year. One hundred fifty people by 1820.",
+    long: "",
+    names: ["Moses Cleaveland", "Connecticut Land Company"]
+  },
+  {
+    id: "cleveland-canal",
+    name: "Ohio and Erie Canal Cleveland",
+    lat: 41.4960,
+    lng: -81.7030,
+    radius: 1600,
+    short: "Alfred Kelley got the northern end of the Ohio and Erie Canal planted at this river mouth. First boats from Akron July 4, 1827. Full line to the Ohio River in 1832. That ditch turned a hamlet into a port between the lake and the interior.",
+    long: "",
+    names: ["Ohio and Erie Canal", "Alfred Kelley"]
+  },
+  {
+    id: "cleveland-people",
+    name: "Cleveland people",
+    lat: 41.5130,
+    lng: -81.5910,
+    radius: 1500,
+    short: "John D. Rockefeller started Standard Oil here. James A. Garfield, twentieth president, lies under a tower at Lake View Cemetery. Eliot Ness is buried there too. Tom L. Johnson ran the city on cheap streetcars and municipal light. Charles Brush lit Public Square with arc lamps in 1879.",
+    long: "",
+    names: ["John D. Rockefeller", "James A. Garfield", "Eliot Ness", "Tom L. Johnson", "Charles Brush"]
+  },
+  {
+    id: "cleveland-parks",
+    name: "Cleveland Metroparks",
+    lat: 41.4490,
+    lng: -81.7160,
+    radius: 2500,
+    short: "William Stinchcomb built the Emerald Necklace, a ring of Metroparks around the city. Rockefeller Park and the Cultural Gardens run along Martin Luther King Drive. Cuyahoga Valley National Park starts south of town and follows the old canal toward Akron.",
+    long: "",
+    names: ["William Stinchcomb", "Cleveland Metroparks", "Cuyahoga Valley National Park"]
+  },
+  {
+    id: "cleveland-native",
+    name: "Cuyahoga Native ground",
+    lat: 41.4997,
+    lng: -81.6939,
+    radius: 2500,
+    short: "Seneca called this place Gayáha’geh. Erie people were pushed out by the Iroquois. A Seneca village sat at the river mouth before the surveyors. Chief Stigwanish guided Cleaveland's party. Red Jacket stopped them at Buffalo first and made them sit council.",
+    long: "",
+    names: ["Seneca", "Erie", "Stigwanish", "Red Jacket"]
+  },
+  {
+    id: "cleveland-war",
+    name: "Cleveland war sites",
+    lat: 41.4997,
+    lng: -81.6939,
+    radius: 1800,
+    short: "Clevelanders heard Perry's guns on Lake Erie in 1813. A chestnut-log stockade went up on this shore after Detroit fell. In the Civil War the yards built nearly half the ships on the lakes. Lincoln's funeral train stopped here. The Soldiers and Sailors Monument still holds Public Square.",
+    long: "",
+    names: ["Oliver Hazard Perry", "Soldiers and Sailors Monument"]
+  },
+  {
+    id: "cleveland-legend",
+    name: "Cleveland name legend",
+    lat: 41.4997,
+    lng: -81.6939,
+    radius: 1500,
+    short: "The extra A in Cleaveland would not fit a newspaper masthead. In 1831 the Cleveland Advertiser dropped it and the city kept the shorter spelling. Moses never came back to argue. Local legend also says he named the Chagrin River after a wrong turn. That one is thinner.",
+    long: "",
+    names: ["Cleveland Advertiser"]
+  },
 
- ];
+  {
+    id: "cleveland-terminal-tower",
+    name: "Terminal Tower",
+    lat: 41.4983,
+    lng: -81.6939,
+    radius: 900,
+    short: "The Van Sweringen brothers piled a railroad terminal under Public Square and stacked fifty-two stories on top. Dedicated 1930. Tallest building in North America outside New York until 1964. The hole they dug was second only to the Panama Canal. Key Tower later took the height record. This one still owns the skyline in photographs.",
+    long: "",
+    names: ["Terminal Tower", "Van Sweringen brothers"]
+  },
+  {
+    id: "cleveland-rockefeller",
+    name: "Standard Oil Cleveland",
+    lat: 41.5001,
+    lng: -81.6915,
+    radius: 900,
+    short: "John D. Rockefeller was a bookkeeper who went into oil at twenty-four. Standard Oil was born in this city. 200 Public Square went up as Sohio headquarters. The company that started here became one of the most powerful firms on earth, and one of the most hated.",
+    long: "",
+    names: ["John D. Rockefeller", "Standard Oil", "Sohio"]
+  },
+  {
+    id: "cleveland-flats",
+    name: "Cuyahoga Flats",
+    lat: 41.4945,
+    lng: -81.7020,
+    radius: 1400,
+    short: "The Flats are the industrial gut of the Cuyahoga. Iron ore off the lake. Coal off the rails. Steel in between. The river caught fire more than once. The 1969 blaze made national news and helped pass the Clean Water Act. Same water Moses Cleaveland called the place.",
+    long: "",
+    names: ["Cuyahoga River", "the Flats"]
+  },
+  {
+    id: "cleveland-erie-cemetery",
+    name: "Erie Street Cemetery",
+    lat: 41.4978,
+    lng: -81.6817,
+    radius: 700,
+    short: "Oldest cemetery still standing in Cleveland, opened 1826. Lorenzo Carter, first permanent white settler, is here. So is John Willey, first mayor. David Eldridge drowned in 1797 and was moved here from the old Public Square burying ground. Progressive Field sits next door.",
+    long: "",
+    names: ["Lorenzo Carter", "John Willey", "David Eldridge"]
+  },
+  {
+    id: "cleveland-west-side-market",
+    name: "West Side Market",
+    lat: 41.4845,
+    lng: -81.7033,
+    radius: 800,
+    short: "Ohio City was a rival city across the Cuyahoga before Cleveland swallowed it. West Side Market opened 1912. John Heisman, the coach the trophy is named for, was born in this neighborhood in 1869. St. John's Episcopal on West 26th is the oldest consecrated church in the county.",
+    long: "",
+    names: ["West Side Market", "Ohio City", "John Heisman"]
+  },
+  {
+    id: "cleveland-old-stone",
+    name: "Old Stone Church",
+    lat: 41.5006,
+    lng: -81.6935,
+    radius: 500,
+    short: "Old Stone Church faces Public Square. First Presbyterian congregation dates to 1820. This building went up in 1855 after fire took the last one. It has watched the Terminal Tower rise, the arc lights, and Lincoln's funeral train. Still a working church on the green Cleaveland paced.",
+    long: "",
+    names: ["Old Stone Church"]
+  },
+
+  {
+    id: "cleveland-garfield-tomb",
+    name: "Garfield Memorial",
+    lat: 41.5100,
+    lng: -81.5914,
+    radius: 900,
+    short: "Lake View Cemetery. President James A. Garfield was shot in 1881 and died two hundred days into office. This sandstone tower went up in 1890. Lucretia is in the crypt with him. Rockefeller, Eliot Ness, and Alan Freed lie on the same grounds. Born in what is now Moreland Hills. Buried looking toward the lake.",
+    long: "",
+    names: ["James A. Garfield", "Lake View Cemetery", "Lucretia Garfield"]
+  },
+  {
+    id: "cleveland-guardians-bridge",
+    name: "Hope Memorial Bridge",
+    lat: 41.4894,
+    lng: -81.6936,
+    radius: 900,
+    short: "Hope Memorial Bridge, once the Lorain-Carnegie. Finished 1932. Eight stone Guardians of Traffic hold the pylons. The baseball club took their name from these statues in 2021. They were carved for immigrant labor and for the idea that a city moves on steel and concrete.",
+    long: "",
+    names: ["Hope Memorial Bridge", "Guardians of Traffic"]
+  },
+  {
+    id: "cleveland-dunham",
+    name: "Dunham Tavern",
+    lat: 41.5046,
+    lng: -81.6432,
+    radius: 600,
+    short: "Oldest building still on its original lot in Cleveland. Rufus and Jane Pratt Dunham put a house here in 1824 and a taproom in 1842. Stagecoaches stopped on Euclid. Everything else on this stretch of Millionaires' Row is gone. The tavern stayed.",
+    long: "",
+    names: ["Dunham Tavern", "Rufus Dunham"]
+  },
+  {
+    id: "cleveland-cultural-gardens",
+    name: "Cleveland Cultural Gardens",
+    lat: 41.5250,
+    lng: -81.6220,
+    radius: 1200,
+    short: "Rockefeller Park holds the Cultural Gardens. First plot honored Shakespeare in 1916. More than thirty nations have a garden now along Martin Luther King Drive. Cleveland was built by people who arrived speaking something else. The gardens are the receipt.",
+    long: "",
+    names: ["Cleveland Cultural Gardens", "Rockefeller Park"]
+  },
+  {
+    id: "cleveland-garrett-morgan",
+    name: "Garrett Morgan Cleveland",
+    lat: 41.4997,
+    lng: -81.6939,
+    radius: 1800,
+    short: "Garrett Morgan lived in this city. He invented a smoke hood that saved tunnel workers and a traffic signal that became the pattern for the rest of the country. Buried at Lake View. A Black inventor whose patents still sit under every red light you will pass.",
+    long: "",
+    names: ["Garrett Morgan"]
+  },
+  {
+    id: "cleveland-collinwood",
+    name: "Collinwood school fire",
+    lat: 41.5730,
+    lng: -81.5670,
+    radius: 1200,
+    short: "Collinwood, 1908. Lake View School burned. One hundred seventy-two children and two teachers died, most jammed at a door that opened the wrong way. The disaster changed school exits across America. A memorial stands at Lake View Cemetery.",
+    long: "",
+    names: ["Collinwood school fire"]
+  },
+
+  {
+    id: "cleveland-franklin-castle",
+    name: "Franklin Castle",
+    lat: 41.4857,
+    lng: -81.7166,
+    radius: 500,
+    short: "Franklin Castle on Franklin Boulevard. Hannes Tiedemann, a German grocer turned banker, built it in the 1880s. His daughter Emma died of diabetes the year work started. Later owners called it the most haunted house in Ohio. Secret rooms, stone walls, and a legend that outgrew the facts. The house is real. The ghosts are the story Cleveland tells about it.",
+    long: "",
+    names: ["Franklin Castle", "Hannes Tiedemann"]
+  },
+  {
+    id: "cleveland-stokes",
+    name: "Carl Stokes",
+    lat: 41.4920,
+    lng: -81.6400,
+    radius: 1400,
+    short: "Carl Stokes grew up in Outhwaite Homes on the East Side. In 1967 he became the first Black mayor of a major American city. He pushed the Cuyahoga fire onto the national map. His brother Louis went to Congress for thirty years. Both are buried at Lake View.",
+    long: "",
+    names: ["Carl Stokes", "Louis Stokes", "Outhwaite Homes"]
+  },
+  {
+    id: "cleveland-playhouse",
+    name: "Playhouse Square",
+    lat: 41.5012,
+    lng: -81.6808,
+    radius: 700,
+    short: "Playhouse Square. Five 1920s theaters on Euclid almost went to the wrecking ball. A restoration in the 1970s saved the largest theater district outside New York. The lights on this block are the ones that did not go out.",
+    long: "",
+    names: ["Playhouse Square"]
+  },
+  {
+    id: "cleveland-grays-armory",
+    name: "Grays Armory",
+    lat: 41.4993,
+    lng: -81.6760,
+    radius: 500,
+    short: "Grays Armory, 1893. The Cleveland Grays were a volunteer militia company from 1837. This sandstone hall held drills, concerts, and the first Cleveland Orchestra concerts. It still stands between downtown and the ballpark.",
+    long: "",
+    names: ["Grays Armory", "Cleveland Grays"]
+  },
+  {
+    id: "cleveland-jesse-owens",
+    name: "Jesse Owens Cleveland",
+    lat: 41.4820,
+    lng: -81.6300,
+    radius: 1400,
+    short: "Jesse Owens grew up on Cleveland's East Side after the family left Alabama. East Technical High School. Four gold medals in Berlin in 1936 in front of Hitler. The city that taught him to run still names a park and a track after him.",
+    long: "",
+    names: ["Jesse Owens"]
+  },
+  {
+    id: "cleveland-millionaires-row",
+    name: "Euclid Millionaires Row",
+    lat: 41.5040,
+    lng: -81.6500,
+    radius: 1600,
+    short: "Euclid Avenue was Millionaires' Row. Rockefeller, Hanna, and the rest built palaces from downtown out toward University Circle. Almost every house is gone. Dunham Tavern is the oldest leftover. The street that made Cleveland rich ate its own monuments.",
+    long: "",
+    names: ["Millionaires Row", "Euclid Avenue"]
+  },
+  {
+    id: "cleveland-arcade",
+    name: "The Arcade Cleveland",
+    lat: 41.5003,
+    lng: -81.6818,
+    radius: 500,
+    short: "The Arcade opened 1890 between Euclid and Superior. John D. Rockefeller was an early backer. Glass roof, iron balconies, two levels of shops. One of the first indoor shopping arcades in the country. Still standing while Millionaires' Row is not.",
+    long: "",
+    names: ["The Arcade"]
+  },
+  {
+    id: "cleveland-uss-cod",
+    name: "USS Cod",
+    lat: 41.5100,
+    lng: -81.6915,
+    radius: 600,
+    short: "USS Cod is tied to the North Coast Harbor. A World War Two submarine that never lost a man to enemy fire. After the war she became a training boat, then a museum. Cleveland's lake front still keeps a fighting ship.",
+    long: "",
+    names: ["USS Cod"]
+  },
+  {
+    id: "cleveland-clinic",
+    name: "Cleveland Clinic founding",
+    lat: 41.5034,
+    lng: -81.6216,
+    radius: 900,
+    short: "Four Cleveland doctors opened a group practice in 1921 after serving together in the First World War. That clinic is now one of the largest medical centers on earth. The city that made steel also made a hospital system.",
+    long: "",
+    names: ["Cleveland Clinic"]
+  },
+  {
+    id: "cleveland-severance",
+    name: "Severance Hall",
+    lat: 41.5062,
+    lng: -81.6094,
+    radius: 600,
+    short: "Severance Hall, 1931. Home of the Cleveland Orchestra. University Circle grew around Western Reserve and Case. John D. Rockefeller and the industrial families paid for culture the same way they paid for oil. The music is what lasted.",
+    long: "",
+    names: ["Severance Hall", "Cleveland Orchestra"]
+  },
+  {
+    id: "cleveland-alan-freed",
+    name: "Alan Freed Moondog",
+    lat: 41.4997,
+    lng: -81.6939,
+    radius: 1800,
+    short: "Alan Freed was a Cleveland disc jockey. In 1952 he put on the Moondog Coronation Ball at the old Cleveland Arena. Historians call it the first rock and roll concert. The Rock Hall on the lakefront is the monument. Freed is buried at Lake View.",
+    long: "",
+    names: ["Alan Freed", "Moondog Coronation Ball"]
+  },
+  {
+    id: "cleveland-warehouse",
+    name: "Warehouse District Cleveland",
+    lat: 41.4985,
+    lng: -81.7015,
+    radius: 800,
+    short: "West of Public Square the Warehouse District packed grain, iron, and dry goods when the canal and the rails met the lake. Cast-iron fronts. After the industry left, the buildings stayed. This is the commercial leftover of the port Cleaveland picked.",
+    long: "",
+    names: ["Warehouse District"]
+  }
+{
+    id: "cleveland-fort-huntington",
+    name: "Fort Huntington",
+    lat: 41.5055,
+    lng: -81.6955,
+    radius: 700,
+    short: "Fort Huntington Park marks a War of 1812 stockade of chestnut logs. After Detroit fell, Cleveland expected the British on the lake. Perry won on September 10, 1813. The village heard the guns. The fort never had to fire.",
+    long: "",
+    names: ["Fort Huntington", "Oliver Hazard Perry"]
+  },
+  {
+    id: "cleveland-lorenzo-carter",
+    name: "Lorenzo Carter landing",
+    lat: 41.4965,
+    lng: -81.7025,
+    radius: 800,
+    short: "Lorenzo Carter was the first permanent white settler. He built a cabin on this riverbank in 1797, launched the first ship here, the Zephyr, and talked the tribes out of a war after a knife fight between a Chippewa and a Seneca medicine man. Buried at Erie Street Cemetery.",
+    long: "",
+    names: ["Lorenzo Carter", "Zephyr"]
+  },
+  {
+    id: "cleveland-st-john-ame",
+    name: "St John AME Cleveland",
+    lat: 41.5018,
+    lng: -81.6620,
+    radius: 600,
+    short: "St. John's African Methodist Episcopal was organized in 1830. Cleveland had a loud abolitionist streak from its New England roots. This congregation is among the oldest Black churches in the city. The Underground Railroad used the lake as an exit.",
+    long: "",
+    names: ["St. John's AME"]
+  },
+  {
+    id: "cleveland-edgewater",
+    name: "Edgewater Park",
+    lat: 41.4900,
+    lng: -81.7350,
+    radius: 1200,
+    short: "Edgewater is the west-side piece of Cleveland Lakefront State Park. The city bought lake lots so working people could reach the water. Gordon Park on the east side did the same. The Emerald Necklace and the lakefront were the answer to a packed industrial town.",
+    long: "",
+    names: ["Edgewater Park"]
+  },
+  {
+    id: "cleveland-trust",
+    name: "Cleveland Trust rotunda",
+    lat: 41.4998,
+    lng: -81.6855,
+    radius: 400,
+    short: "Cleveland Trust rotunda at Ninth and Euclid, 1908. A banking temple from the years when this city cleared iron, oil, and ore. The dome is still there. The money moved on.",
+    long: "",
+    names: ["Cleveland Trust"]
+  },
+  {
+    id: "cleveland-euclid-beach",
+    name: "Euclid Beach",
+    lat: 41.5830,
+    lng: -81.5700,
+    radius: 1000,
+    short: "Euclid Beach Park opened 1895 on the east shore. For seventy years Clevelanders rode the Racing Coaster and ate the same popcorn. Closed 1969. The arch still stands on Lake Shore. A summer city that lived on a beach and a streetcar.",
+    long: "",
+    names: ["Euclid Beach Park"]
+  },
+      {
+    id: "cleveland-league-park",
+    name: "League Park",
+    lat: 41.5117,
+    lng: -81.6447,
+    radius: 700,
+    short: "League Park, 1891. Cy Young pitched here. Babe Ruth hit his five hundredth home run here in 1929. The Indians won the 1920 World Series on this dirt after a shortstop, Ray Chapman, had been killed by a pitch the same year. The field is a public park now. The diamond is still in the grass.",
+    long: "",
+    names: ["League Park", "Cy Young", "Ray Chapman"]
+  },
+  {
+    id: "cleveland-municipal-stadium",
+    name: "Cleveland Municipal Stadium",
+    lat: 41.5064,
+    lng: -81.6997,
+    radius: 800,
+    short: "Municipal Stadium opened 1931 on the fill along the lake. Browns and Indians both called it home. The Dawg Pound was born in these seats. Torn down in 1996. The new football house sits on the same ground. The Mistake by the Lake was also the biggest crowd in town.",
+    long: "",
+    names: ["Cleveland Municipal Stadium"]
+  },
+  {
+    id: "cleveland-public-library",
+    name: "Cleveland Public Library",
+    lat: 41.5012,
+    lng: -81.6920,
+    radius: 400,
+    short: "Main library on Superior, 1925, part of Daniel Burnham's Group Plan. Cleveland built a civic mall of marble after the steel money arrived. The library was the people's piece. Still open on the mall that was supposed to look like a World's Fair that never left.",
+    long: "",
+    names: ["Cleveland Public Library", "Group Plan"]
+  },
+  {
+    id: "cleveland-detroit-superior",
+    name: "Detroit Superior Bridge",
+    lat: 41.4963,
+    lng: -81.7035,
+    radius: 700,
+    short: "Detroit-Superior Bridge, 1918. First high-level crossing of the Cuyahoga in the city. Lower deck carried streetcars. Upper deck still carries cars between Ohio City and downtown. The river that made the port also split the town in two.",
+    long: "",
+    names: ["Detroit-Superior Bridge"]
+  },
+  {
+    id: "cleveland-christmas-story",
+    name: "A Christmas Story house",
+    lat: 41.4686,
+    lng: -81.6872,
+    radius: 400,
+    short: "The house from A Christmas Story stands on West 11th in Tremont. The movie was set in Indiana and shot in Cleveland. That is how this city works. A steel town that keeps getting used as everybody's hometown.",
+    long: "",
+    names: ["A Christmas Story house", "Tremont"]
+  },
+  {
+    id: "cleveland-first-lights",
+    name: "Brush arc lights",
+    lat: 41.4997,
+    lng: -81.6939,
+    radius: 800,
+    short: "April 29, 1879, 7:55 p.m. Charles Brush of Euclid flipped twelve arc lamps on Public Square. Higher than gas. Brighter than anything the town had seen. He was not yet thirty. Cleveland claims the first public electric street lighting in the country.",
+    long: "",
+    names: ["Charles Brush"]
+  },
+      {
+    id: "cleveland-shakers",
+    name: "North Union Shakers",
+    lat: 41.4780,
+    lng: -81.5520,
+    radius: 1400,
+    short: "North Union Shaker colony sat on land that is now Shaker Heights, 1822. They dammed Doan Brook for mills. The Van Sweringen brothers later laid a planned suburb on the same ground and a rapid to Terminal Tower. A holy village became a commuter town.",
+    long: "",
+    names: ["North Union Shakers", "Shaker Heights", "Van Sweringen"]
+  },
+  {
+    id: "cleveland-wade-oval",
+    name: "Wade Oval",
+    lat: 41.5085,
+    lng: -81.6115,
+    radius: 800,
+    short: "Wade Oval in University Circle. Jeptha Wade of Western Union gave the park. Museums, Severance Hall, and the garden sit on what used to be the edge of town. This is where the industrial fortunes turned into marble.",
+    long: "",
+    names: ["Wade Oval", "Jeptha Wade"]
+  },
+  {
+    id: "cleveland-city-hall",
+    name: "Cleveland City Hall",
+    lat: 41.5050,
+    lng: -81.6938,
+    radius: 500,
+    short: "City Hall on the Mall, 1916. Burnham's Group Plan put government in a row facing the lake. Tom Johnson had already fought for municipal power. Carl Stokes later ran the building. Willard Park next door holds Claes Oldenburg's giant Free Stamp.",
+    long: "",
+    names: ["Cleveland City Hall", "Free Stamp"]
+  },
+  {
+    id: "cleveland-great-lakes-expo",
+    name: "Great Lakes Exposition",
+    lat: 41.5085,
+    lng: -81.6965,
+    radius: 900,
+    short: "Great Lakes Exposition, 1936 and 1937, on this lakefront. Thirteen million visitors. Billy Rose's Aquacade. A Depression city putting on a world's fair to prove it still had a pulse. The land later held stadium and rock hall.",
+    long: "",
+    names: ["Great Lakes Exposition"]
+  },
+  {
+    id: "cleveland-hopkins",
+    name: "Cleveland Hopkins Airport",
+    lat: 41.4117,
+    lng: -81.8498,
+    radius: 2000,
+    short: "Hopkins opened 1925 as one of the first municipal airports in the country. Named for William R. Hopkins, city manager. Cleveland put lights on a runway when most cities still had grass fields. The air age started on the west side.",
+    long: "",
+    names: ["Cleveland Hopkins", "William R. Hopkins"]
+  },
+  {
+    id: "cleveland-doan-brook",
+    name: "Doan Brook",
+    lat: 41.5080,
+    lng: -81.6080,
+    radius: 1200,
+    short: "Doan Brook runs from Shaker Lakes through Rockefeller Park to the lake. The Shakers used it. The Cultural Gardens follow it. A small stream that organized the east side the way the Cuyahoga organized downtown.",
+    long: "",
+    names: ["Doan Brook"]
+  },
+      {
+    id: "cleveland-society-savings",
+    name: "Society for Savings Building",
+    lat: 41.5004,
+    lng: -81.6930,
+    radius: 400,
+    short: "Society for Savings Building, 1890. Often called Cleveland's first skyscraper. Richardsonian stone on Public Square. Banks stacked themselves here before Terminal Tower stole the sky. Key Tower later rose next door.",
+    long: "",
+    names: ["Society for Savings Building"]
+  },
+  {
+    id: "cleveland-courthouse",
+    name: "Cuyahoga County Courthouse",
+    lat: 41.5042,
+    lng: -81.6965,
+    radius: 400,
+    short: "Cuyahoga County Courthouse on the Mall, 1912. Beaux-Arts limestone in Burnham's civic row. This is where the county that runs from the lake to the heights still files its business. The Group Plan made government look like Rome on a Great Lake.",
+    long: "",
+    names: ["Cuyahoga County Courthouse"]
+  },
+  {
+    id: "cleveland-karamu",
+    name: "Karamu House",
+    lat: 41.4895,
+    lng: -81.6195,
+    radius: 600,
+    short: "Karamu House opened 1915 as a settlement theater. Oldest Black theater in the United States still running. Langston Hughes had plays done here. East Side Cleveland built a stage when other cities would not.",
+    long: "",
+    names: ["Karamu House", "Langston Hughes"]
+  },
+  {
+    id: "cleveland-rock-hall",
+    name: "Rock and Roll Hall of Fame",
+    lat: 41.5086,
+    lng: -81.6954,
+    radius: 600,
+    short: "Rock Hall on the harbor, 1995. I. M. Pei glass tent on the same fill as the old exposition and stadium. Cleveland claimed the music because Alan Freed named it here. The building is new. The argument is old.",
+    long: "",
+    names: ["Rock and Roll Hall of Fame", "I. M. Pei"]
+  },
+  {
+    id: "cleveland-hough",
+    name: "Hough",
+    lat: 41.5120,
+    lng: -81.6380,
+    radius: 1200,
+    short: "Hough. A dense East Side neighborhood that burned in 1966 after years of crowding and neglect. The uprising is part of why Stokes won a year later. Same city that lit Public Square also had to face what the light did not reach.",
+    long: "",
+    names: ["Hough"]
+  },
+  {
+    id: "cleveland-glenville",
+    name: "Glenville Cleveland",
+    lat: 41.5320,
+    lng: -81.6160,
+    radius: 1200,
+    short: "Glenville. Another East Side neighborhood with a long Jewish, then Black, history. The 1968 Glenville shootout came in Stokes's first term. Lake View Cemetery sits on the ridge above it. Two Cleveland stories on the same hill.",
+    long: "",
+    names: ["Glenville"]
+  },
+  {
+    id: "cleveland-tremont-churches",
+    name: "Tremont churches",
+    lat: 41.4735,
+    lng: -81.6885,
+    radius: 900,
+    short: "Tremont is a hill of steeples. Pilgrim Congregational, St. Theodosius Russian Orthodox with the gold domes, St. Augustine. Steelworkers from a dozen countries built churches they could walk to after the shift. The Christmas Story house is the famous one. The domes are the real skyline of the near west side.",
+    long: "",
+    names: ["Tremont", "St. Theodosius"]
+  },
+  {
+    id: "cleveland-the-angle",
+    name: "The Angle Cleveland",
+    lat: 41.4940,
+    lng: -81.7250,
+    radius: 900,
+    short: "The Angle on the near west side was Irish Cleveland. Whiskey Island, ore docks, and St. Malachi. Lake boats and the bridge to downtown. The neighborhood that unloaded the lake.",
+    long: "",
+    names: ["The Angle", "Whiskey Island", "St. Malachi"]
+  },
+  {
+    id: "cleveland-whiskey-island",
+    name: "Whiskey Island",
+    lat: 41.5000,
+    lng: -81.7180,
+    radius: 800,
+    short: "Whiskey Island sits where the Cuyahoga meets the lake. Named for a still. Later ore and salt. The coast guard station and the old docks are what is left of the working mouth of the river Cleaveland picked.",
+    long: "",
+    names: ["Whiskey Island"]
+  },
+  {
+    id: "cleveland-fenn",
+    name: "Fenn College",
+    lat: 41.5040,
+    lng: -81.6750,
+    radius: 700,
+    short: "Fenn College started as a YMCA night school for men who worked days. It became Cleveland State. Fenn Tower on Euclid is the old high-rise dorm. A working-class college stacked into a skyscraper.",
+    long: "",
+    names: ["Fenn College", "Cleveland State"]
+  },
+  {
+    id: "cleveland-canal-towpath",
+    name: "Ohio Erie Towpath Cleveland",
+    lat: 41.4730,
+    lng: -81.6690,
+    radius: 1400,
+    short: "The Ohio and Erie Towpath still runs south from the Flats through the valley. Mules walked this bank. The canal that made Cleveland a city is a trail now. Follow it far enough and you hit Akron, then the Ohio River.",
+    long: "",
+    names: ["Ohio and Erie Canal", "Towpath"]
+  },
+  {
+    id: "cleveland-brooklyn-centre",
+    name: "Brooklyn Centre",
+    lat: 41.4510,
+    lng: -81.6990,
+    radius: 1100,
+    short: "Brooklyn Centre was a separate village on the west bank before Cleveland annexed it. Old houses on a ridge above the river. Another town swallowed by the port. The pattern of this city is annex first, explain later.",
+    long: "",
+    names: ["Brooklyn Centre"]
+  },
+  {
+    id: "approach-cincinnati",
+    name: "Cincinnati",
+    lat: 39.1012,
+    lng: -84.5120,
+    radius: 12000,
+    layer: "approach",
+    short: "You are coming up on Cincinnati. Three river towns in 1788. St. Clair hated the name Losantiville and renamed it for Roman farmers who left the plow, fought, and went home. Fort Washington, pork, the canal, and the Ohio River made the Queen City. If you drop downtown, I'll start at the landing.",
+    long: "",
+    names: ["Cincinnati", "Losantiville"]
+  },
+  {
+    id: "cincinnati-founding",
+    name: "Cincinnati founding",
+    lat: 39.0965,
+    lng: -84.5055,
+    radius: 1500,
+    short: "December 28, 1788. Flatboats landed at Yeatman's Cove across from the Licking. John Filson named it Losantiville, city opposite the mouth of the river, then vanished in the woods. Israel Ludlow finished the plat. Arthur St. Clair threw the name out in 1790.",
+    long: "",
+    names: ["Losantiville", "John Filson", "Israel Ludlow", "Arthur St. Clair"]
+  },
+  {
+    id: "cincinnati-fort-washington",
+    name: "Fort Washington Cincinnati",
+    lat: 39.0995,
+    lng: -84.5074,
+    radius: 900,
+    short: "Fort Washington went up in 1789 facing the Licking. Harmar, St. Clair, and Mad Anthony Wayne all used it. St. Clair marched from here to the worst U.S. defeat of the Indian wars. Wayne left from the same ground and won Fallen Timbers. The fort is gone. Fort Washington Way still carries the name.",
+    long: "",
+    names: ["Fort Washington", "Josiah Harmar", "Arthur St. Clair", "Anthony Wayne"]
+  },
+  {
+    id: "cincinnati-river-canal",
+    name: "Cincinnati river and canal",
+    lat: 39.0940,
+    lng: -84.5130,
+    radius: 1600,
+    short: "The Ohio brought the New Orleans steamboat in 1811. Miami and Erie Canal reached Dayton in 1829. Pork packing earned the name Porkopolis. Rails later stole the river's freight. The basin between two Miamis is why this city exists.",
+    long: "",
+    names: ["Ohio River", "Miami and Erie Canal", "Porkopolis"]
+  },
+  {
+    id: "cincinnati-people",
+    name: "Cincinnati people",
+    lat: 39.1012,
+    lng: -84.5120,
+    radius: 1800,
+    short: "William Henry Harrison lived at North Bend and left from this river to the White House. William Howard Taft was born in Mount Auburn. Harriet Beecher Stowe taught here and wrote what she saw of slavery across the water. The city sits on a free-state bank looking at Kentucky.",
+    long: "",
+    names: ["William Henry Harrison", "William Howard Taft", "Harriet Beecher Stowe"]
+  },
+  {
+    id: "cincinnati-parks",
+    name: "Cincinnati parks",
+    lat: 39.1170,
+    lng: -84.5220,
+    radius: 2000,
+    short: "Eden Park and the hilltop parks were the city's answer to a packed basin. Spring Grove Cemetery is a rural garden on purpose. The Ohio River is the public land that mattered first. Everything else is a view of it.",
+    long: "",
+    names: ["Eden Park", "Spring Grove Cemetery"]
+  },
+  {
+    id: "cincinnati-native",
+    name: "Cincinnati Native ground",
+    lat: 39.1012,
+    lng: -84.5120,
+    radius: 2500,
+    short: "This was Shawnee, Miami, and Mingo hunting ground between the Great Miami and Little Miami. The Symmes Purchase sat on land still contested. St. Clair's disaster and Wayne's campaign started from this landing. The river towns went up after the fighting moved north.",
+    long: "",
+    names: ["Shawnee", "Miami", "Symmes Purchase"]
+  },
+  {
+    id: "cincinnati-legend",
+    name: "Cincinnati name legend",
+    lat: 39.1012,
+    lng: -84.5120,
+    radius: 1500,
+    short: "Losantiville was four languages glued together. St. Clair said it was nonsense and named the place for Cincinnatus, the Roman who returned to his farm. Queen City of the West came later. Porkopolis was not a compliment. All four names are still true.",
+    long: "",
+    names: ["Cincinnatus", "Queen City"]
+  },
+     {
+    id: "cincinnati-fountain-square",
+    name: "Fountain Square",
+    lat: 39.1016,
+    lng: -84.5125,
+    radius: 500,
+    short: "Fountain Square. An Indian mound sat here when the first boats landed. Henry Probasco gave the Tyler Davidson Fountain in 1871 in memory of his partner. Genius of Water. The butcher stalls came off this block so the city could have a heart.",
+    long: "",
+    names: ["Fountain Square", "Tyler Davidson Fountain"]
+  },
+  {
+    id: "cincinnati-roebling",
+    name: "Roebling Suspension Bridge",
+    lat: 39.0922,
+    lng: -84.5096,
+    radius: 700,
+    short: "John A. Roebling hung this span across the Ohio, opened 1867. Longest suspension bridge in the world when it opened. He practiced here before Brooklyn. Civil War traffic and a slave-state bank on the far side. The cables still sing.",
+    long: "",
+    names: ["John A. Roebling", "Roebling Suspension Bridge"]
+  },
+  {
+    id: "cincinnati-music-hall",
+    name: "Cincinnati Music Hall",
+    lat: 39.1095,
+    lng: -84.5188,
+    radius: 500,
+    short: "Music Hall, 1878, on the site of an orphan asylum and a potter's field. Red brick Gothic on Over-the-Rhine. May Festival and the symphony still use it. Built over graves. The city that packed pork also packed a concert hall.",
+    long: "",
+    names: ["Cincinnati Music Hall"]
+  },
+  {
+    id: "cincinnati-findlay",
+    name: "Findlay Market",
+    lat: 39.1153,
+    lng: -84.5192,
+    radius: 500,
+    short: "Findlay Market, 1852. Oldest public market in Ohio still running. Iron frame when that was new. Over-the-Rhine German butchers and truck farms. The Pearl Street market bell hangs in the tower.",
+    long: "",
+    names: ["Findlay Market"]
+  },
+  {
+    id: "cincinnati-taft-house",
+    name: "William Howard Taft birthplace",
+    lat: 39.1197,
+    lng: -84.5086,
+    radius: 500,
+    short: "Mount Auburn. William Howard Taft was born in this house in 1857. Only man to be president and chief justice. His father Alphonso was Grant's attorney general. A hill house above the basin that named a national political family.",
+    long: "",
+    names: ["William Howard Taft", "Alphonso Taft"]
+  },
+  {
+    id: "cincinnati-freedom-center",
+    name: "National Underground Railroad Freedom Center",
+    lat: 39.0968,
+    lng: -84.5115,
+    radius: 600,
+    short: "The Freedom Center sits on the river that was the line. Kentucky slave soil on one bank. Ohio free soil on the other. Harriet Beecher Stowe watched the traffic from this city. The building is new. The crossing is the oldest story in town.",
+    long: "",
+    names: ["Underground Railroad", "Harriet Beecher Stowe"]
+  },
+   {
+    id: "cincinnati-union-terminal",
+    name: "Cincinnati Union Terminal",
+    lat: 39.1100,
+    lng: -84.5375,
+    radius: 800,
+    short: "Union Terminal, 1933. Art Deco half-dome on the west end. Rotunda murals of work and river. Built for passenger trains that were already dying. Now a museum. The last great station in a river town that had already moved its freight to rails.",
+    long: "",
+    names: ["Cincinnati Union Terminal"]
+  },
+  {
+    id: "cincinnati-carew",
+    name: "Carew Tower",
+    lat: 39.1008,
+    lng: -84.5135,
+    radius: 400,
+    short: "Carew Tower, 1930. Tallest in the city for decades. Built in the Depression as a city in a building: hotel, offices, arcade. Cincinnati looking up after a century of looking at the river.",
+    long: "",
+    names: ["Carew Tower"]
+  },
+  {
+    id: "cincinnati-spring-grove",
+    name: "Spring Grove Cemetery",
+    lat: 39.1745,
+    lng: -84.5250,
+    radius: 1200,
+    short: "Spring Grove, 1845. One of the finest rural cemeteries in the country. Salmon P. Chase is here. So are the industrial names that packed pork and built Music Hall. A garden of the dead on purpose, not an afterthought.",
+    long: "",
+    names: ["Spring Grove Cemetery", "Salmon P. Chase"]
+  },
+  {
+    id: "cincinnati-eden-park",
+    name: "Eden Park",
+    lat: 39.1165,
+    lng: -84.4960,
+    radius: 1000,
+    short: "Eden Park on the hill. City water reservoirs first. Then art museum, Playhouse in the Park, and a view of the river bend. Cincinnati put culture where it could see Kentucky.",
+    long: "",
+    names: ["Eden Park"]
+  },
+  {
+    id: "cincinnati-otr",
+    name: "Over-the-Rhine",
+    lat: 39.1130,
+    lng: -84.5165,
+    radius: 1200,
+    short: "Over-the-Rhine. Germans stacked Italianate brick north of the canal they nicknamed the Rhine. Findlay Market and Music Hall sit in it. Densest historic neighborhood in the country for that style. Beer, churches, and a canal that is now a street.",
+    long: "",
+    names: ["Over-the-Rhine"]
+  },
+  {
+    id: "cincinnati-zoo",
+    name: "Cincinnati Zoo",
+    lat: 39.1450,
+    lng: -84.5080,
+    radius: 900,
+    short: "Cincinnati Zoo opened 1875. Second oldest zoo in the country. The last passenger pigeon, Martha, died here in 1914. A city that packed hogs also kept what was left of the wild.",
+    long: "",
+    names: ["Cincinnati Zoo", "Martha passenger pigeon"]
+  },
+      {
+    id: "cincinnati-harrison-tomb",
+    name: "Harrison Tomb North Bend",
+    lat: 39.1506,
+    lng: -84.7516,
+    radius: 900,
+    short: "North Bend. William Henry Harrison's tomb sits on a bluff over the Ohio. He left this farm for the White House and died a month after the inaugural. The third of the 1788 river towns. Symmes picked hills. Losantiville got the fort. North Bend got a president.",
+    long: "",
+    names: ["William Henry Harrison", "North Bend"]
+  },
+  {
+    id: "cincinnati-wise-temple",
+    name: "Isaac M Wise Temple",
+    lat: 39.1045,
+    lng: -84.5183,
+    radius: 400,
+    short: "Isaac M. Wise Temple, Plum Street, 1866. Wise built American Reform Judaism from this city. Twin towers on a German congregation that had already made Cincinnati a center of Jewish life in the Midwest.",
+    long: "",
+    names: ["Isaac M. Wise", "Plum Street Temple"]
+  },
+  {
+    id: "cincinnati-courthouse-riot",
+    name: "Cincinnati Courthouse riot",
+    lat: 39.1075,
+    lng: -84.5138,
+    radius: 500,
+    short: "March 1884. A mob burned the courthouse after a murder verdict. Dozens dead. Militia in the streets. The Queen City had a riot that made national papers. The rebuilt hall is still county business.",
+    long: "",
+    names: ["Cincinnati Courthouse"]
+  },
+  {
+    id: "cincinnati-crosley",
+    name: "Crosley Field",
+    lat: 39.1170,
+    lng: -84.5365,
+    radius: 700,
+    short: "Crosley Field. Reds baseball from 1912 to 1970. First major league night game, 1935. Flooded more than once because it sat in the basin. The park is gone. The night baseball idea left town with the team.",
+    long: "",
+    names: ["Crosley Field"]
+  },
+  {
+    id: "cincinnati-mount-adams",
+    name: "Mount Adams",
+    lat: 39.1075,
+    lng: -84.4985,
+    radius: 800,
+    short: "Mount Adams. An incline once hauled people up from the basin. Immaculata Church on the crown. Pilgrims still climb those steps. A hill neighborhood that watched the river and the packing houses from above the smoke.",
+    long: "",
+    names: ["Mount Adams", "Immaculata"]
+  },
+  {
+    id: "cincinnati-columbia",
+    name: "Columbia Cincinnati",
+    lat: 39.1210,
+    lng: -84.4190,
+    radius: 1400,
+    short: "Columbia was the first of the three 1788 towns, at the Little Miami, now Lunken field. Grew fastest at the start. First Protestant church in the Northwest Territory. The river flooded it. Losantiville kept the fort and the name.",
+    long: "",
+    names: ["Columbia", "Benjamin Stites"]
+  },
+  {
+    id: "cincinnati-stowe-house",
+    name: "Harriet Beecher Stowe House",
+    lat: 39.1295,
+    lng: -84.4900,
+    radius: 500,
+    short: "Walnut Hills. Harriet Beecher lived in this house while her father ran Lane Seminary. She watched the river and the slave state on the other bank. Uncle Tom's Cabin came out of what she saw here. The seminary debates on slavery started in this neighborhood.",
+    long: "",
+    names: ["Harriet Beecher Stowe", "Lane Seminary"]
+  },
+  {
+    id: "cincinnati-observatory",
+    name: "Cincinnati Observatory",
+    lat: 39.1389,
+    lng: -84.4225,
+    radius: 600,
+    short: "Cincinnati Observatory, 1842. Oldest professional observatory in the United States still operating. Moved up to Mount Lookout after smoke from the basin ruined the first site. A river town that also wanted the stars.",
+    long: "",
+    names: ["Cincinnati Observatory"]
+  },
+  {
+    id: "cincinnati-sawyer-point",
+    name: "Sawyer Point",
+    lat: 39.0985,
+    lng: -84.4985,
+    radius: 800,
+    short: "Sawyer Point and the Serpentine Wall. This riverbank was landing, then industrial edge, then park. The wall steps down to the Ohio. Yeatman's Cove is next door. The first flatboats tied somewhere on this bend.",
+    long: "",
+    names: ["Sawyer Point", "Yeatman's Cove"]
+  },
+  {
+    id: "cincinnati-camp-dennison",
+    name: "Camp Dennison",
+    lat: 39.2280,
+    lng: -84.2890,
+    radius: 1500,
+    short: "Camp Dennison, Civil War training ground up the Little Miami. Named for Governor William Dennison. Thousands of Ohio volunteers passed through. The railroad that fed it still follows the valley.",
+    long: "",
+    names: ["Camp Dennison"]
+  },
+  {
+    id: "cincinnati-pendleton",
+    name: "Pendleton Cincinnati",
+    lat: 39.1135,
+    lng: -84.5090,
+    radius: 700,
+    short: "Pendleton sits between downtown and Over-the-Rhine. Italianate leftovers and the old brewery streets. Another German brick quarter that lived off the canal nicknamed the Rhine.",
+    long: "",
+    names: ["Pendleton"]
+  },
+  {
+    id: "cincinnati-inclines",
+    name: "Cincinnati inclines",
+    lat: 39.1070,
+    lng: -84.5200,
+    radius: 1800,
+    short: "Cincinnati ran five inclines up the hills. Mount Adams, Price Hill, Bellevue. The basin flooded and smoked. The rich and the churches went up. Streetcars later killed the cars. The steps at Immaculata are what is left of that climb.",
+    long: "",
+    names: ["Cincinnati inclines"]
+  },
+  {
+    id: "cincinnati-price-hill",
+    name: "Price Hill",
+    lat: 39.1090,
+    lng: -84.5760,
+    radius: 1400,
+    short: "Price Hill on the west. An incline once pulled people out of the basin. Catholic parishes and a ridge view of the river toward Indiana. Another hill town that Cincinnati annexed and kept.",
+    long: "",
+    names: ["Price Hill"]
+  },
+  {
+    id: "cincinnati-walnut-hills",
+    name: "Walnut Hills",
+    lat: 39.1290,
+    lng: -84.4820,
+    radius: 1200,
+    short: "Walnut Hills. Lane Seminary and the Beecher family. Later a dense Black neighborhood with its own business strip. The hill between the basin and the observatory. Cincinnati's arguments about slavery started here.",
+    long: "",
+    names: ["Walnut Hills"]
+  },
+  {
+    id: "cincinnati-little-miami",
+    name: "Little Miami meeting",
+    lat: 39.1230,
+    lng: -84.4050,
+    radius: 1600,
+    short: "The Little Miami hits the Ohio east of downtown. Columbia was planted here in 1788 because the smaller river made a landing. Lunken Airport later took the floodplain. Two rivers meeting is why the first cabins were not downtown.",
+    long: "",
+    names: ["Little Miami River"]
+  },
+  {
+    id: "cincinnati-great-miami",
+    name: "Great Miami mouth",
+    lat: 39.1300,
+    lng: -84.7700,
+    radius: 2000,
+    short: "The Great Miami meets the Ohio at the west end of the old Symmes Purchase. North Bend and Cleves sit on that fork. The two Miamis framed the whole bargain. Cincinnati grew in the pocket between them.",
+    long: "",
+    names: ["Great Miami River"]
+  },
+  {
+    id: "cincinnati-newport-barracks",
+    name: "Newport Barracks view",
+    lat: 39.0915,
+    lng: -84.4955,
+    radius: 900,
+    short: "Look across the river. Fort Washington's garrison moved to Newport Barracks in 1803. The Ohio was never just Cincinnati's water. Kentucky held the other bank and the next fort. The Roebling span tied the two sides together.",
+    long: "",
+    names: ["Newport Barracks"]
+  },
+  {
+    id: "cincinnati-porkopolis",
+    name: "Porkopolis packing",
+    lat: 39.1020,
+    lng: -84.5280,
+    radius: 1400,
+    short: "West End packing houses made the name Porkopolis. Hogs walked in. Barrels went out on the river. Cincinnati was the hog butcher of the interior before Chicago took the crown. The smell is gone. The nickname is not.",
+    long: "",
+    names: ["Porkopolis"]
+  },
+      {
+    id: "approach-toledo",
+    name: "Toledo",
+    lat: 41.6528,
+    lng: -83.5378,
+    radius: 11000,
+    layer: "approach",
+    short: "You are coming up on Toledo. Mouth of the Maumee. Fallen Timbers was fought a few miles upriver. Ohio and Michigan nearly went to war over this strip. Canals, glass, and the lake made Glass City. If you drop into downtown, I'll start at Swan Creek.",
+    long: "",
+    names: ["Toledo", "Maumee River"]
+  },
+  {
+    id: "toledo-founding",
+    name: "Toledo founding",
+    lat: 41.6528,
+    lng: -83.5378,
+    radius: 1400,
+    short: "Port Lawrence and Vistula sat on this swamp and merged in 1833. Named for Toledo, Spain. Incorporated 1837 after the Toledo War. Early people called the flats Frog Town. Two villages and a mudhole at the mouth of the Maumee.",
+    long: "",
+    names: ["Port Lawrence", "Vistula"]
+  },
+  {
+    id: "toledo-fort-industry",
+    name: "Fort Industry",
+    lat: 41.6515,
+    lng: -83.5355,
+    radius: 700,
+    short: "Fort Industry stood at Swan Creek and the Maumee, around Jefferson and Summit. A short-lived stockade after 1800. The 1805 treaty that opened this ground was signed in the neighborhood of this post. Downtown sits on the old mouth.",
+    long: "",
+    names: ["Fort Industry"]
+  },
+  {
+    id: "toledo-canal-port",
+    name: "Toledo canals and port",
+    lat: 41.6500,
+    lng: -83.5300,
+    radius: 1600,
+    short: "Miami and Erie Canal reached here in 1845. Wabash and Erie too. Then the rails. Toledo became a Great Lakes port because the Maumee is the ditch that drains the old Black Swamp into Erie. Coal, grain, and glass rode out of this bay.",
+    long: "",
+    names: ["Miami and Erie Canal", "Wabash and Erie Canal"]
+  },
+  {
+    id: "toledo-people",
+    name: "Toledo people",
+    lat: 41.6528,
+    lng: -83.5378,
+    radius: 1800,
+    short: "Glassmakers made the nickname. Edward Drummond Libbey brought a plant from New England. Michael Owens invented the bottle machine that ended child glass labor. The city still calls itself Glass City for a reason.",
+    long: "",
+    names: ["Edward Drummond Libbey", "Michael Owens"]
+  },
+  {
+    id: "toledo-parks",
+    name: "Toledo parks",
+    lat: 41.6670,
+    lng: -83.5690,
+    radius: 1600,
+    short: "Ottawa Park and the river metroparks are the city's green answer to a port. Toledo Zoo sits in the old canal lands. The Maumee itself is the public water. Everything else is a bank of it.",
+    long: "",
+    names: ["Ottawa Park", "Toledo Zoo"]
+  },
+  {
+    id: "toledo-native",
+    name: "Toledo Native ground",
+    lat: 41.6528,
+    lng: -83.5378,
+    radius: 2500,
+    short: "Odawa, Ojibwe, and Wyandot used the Maumee mouth. Pontiac's people were here. Ottoke, a grandson of Pontiac, led the last Odawa band west in 1839. Fallen Timbers, a few miles upriver, broke the confederacy that held this valley.",
+    long: "",
+    names: ["Odawa", "Pontiac", "Ottoke"]
+  },
+  {
+    id: "toledo-war-legend",
+    name: "Toledo War",
+    lat: 41.6528,
+    lng: -83.5378,
+    radius: 2000,
+    short: "1835. Ohio and Michigan lined up militias over a strip of swamp that held this town. Almost no blood. Michigan took the Upper Peninsula. Ohio kept Toledo. A border fight over a canal route and a port that did not exist yet.",
+    long: "",
+    names: ["Toledo War", "Stevens T. Mason", "Robert Lucas"]
+  },
+{
+    id: "toledo-fallen-timbers",
+    name: "Fallen Timbers",
+    lat: 41.5440,
+    lng: -83.6975,
+    radius: 1200,
+    short: "August 20, 1794. Mad Anthony Wayne broke the confederacy here among trees flattened by a storm. Blue Jacket and Little Turtle. The British fort downriver did not open the gate. The Treaty of Greenville followed. The Maumee valley opened after this fight.",
+    long: "",
+    names: ["Fallen Timbers", "Anthony Wayne", "Blue Jacket", "Little Turtle"]
+  },
+  {
+    id: "toledo-fort-meigs",
+    name: "Fort Meigs",
+    lat: 41.5525,
+    lng: -83.6515,
+    radius: 900,
+    short: "Fort Meigs, Perrysburg. William Henry Harrison built this huge earthwork in 1813. Two British and Native sieges failed. Largest wooden-walled fort in North America at the time. The War of 1812 for this river was decided on this bluff.",
+    long: "",
+    names: ["Fort Meigs", "William Henry Harrison"]
+  },
+  {
+    id: "toledo-wayne-bridge",
+    name: "Anthony Wayne Bridge",
+    lat: 41.6445,
+    lng: -83.5370,
+    radius: 700,
+    short: "Anthony Wayne Bridge, the High Level. Sky-blue suspension over the Maumee. Named for the general who won Fallen Timbers upriver. Downtown on one bank. East Toledo on the other. The river that made the port still splits the town.",
+    long: "",
+    names: ["Anthony Wayne Bridge"]
+  },
+  {
+    id: "toledo-museum",
+    name: "Toledo Museum of Art",
+    lat: 41.6583,
+    lng: -83.5813,
+    radius: 600,
+    short: "Toledo Museum of Art. Edward Drummond Libbey and his wife Florence paid for it with glass money. The Glass Pavilion next door holds what this city invented. A factory town that built a world-class museum on purpose.",
+    long: "",
+    names: ["Toledo Museum of Art", "Edward Drummond Libbey"]
+  },
+  {
+    id: "toledo-libbey",
+    name: "Libbey glass",
+    lat: 41.6450,
+    lng: -83.5550,
+    radius: 1200,
+    short: "Libbey brought a New England glassworks here in 1888. Michael Owens's automatic bottle machine, 1903, ended the boy labor that had blown glass by hand. Owens-Illinois grew out of that shop. Glass City is not a metaphor.",
+    long: "",
+    names: ["Libbey Glass", "Michael Owens", "Owens-Illinois"]
+  },
+  {
+    id: "toledo-zoo",
+    name: "Toledo Zoo",
+    lat: 41.6195,
+    lng: -83.5795,
+    radius: 800,
+    short: "Toledo Zoo opened in 1900 in Walbridge Park on the river. WPA buildings from the Depression still stand. A port city that kept a zoo when the factories were loud. The hippoquarium is the famous room. The river is the older exhibit.",
+    long: "",
+    names: ["Toledo Zoo"]
+  },
+      {
+    id: "toledo-fort-miami",
+    name: "Fort Miami",
+    lat: 41.5570,
+    lng: -83.6480,
+    radius: 800,
+    short: "Fort Miami, British post on the Maumee, 1794. After Fallen Timbers the confederacy ran here. The gate stayed shut. Wayne called it an insult on American ground. The earthworks are still on the riverbank in Maumee.",
+    long: "",
+    names: ["Fort Miami"]
+  },
+  {
+    id: "toledo-schoonmaker",
+    name: "SS Schoonmaker",
+    lat: 41.6505,
+    lng: -83.5285,
+    radius: 500,
+    short: "Col. James M. Schoonmaker sits on the downtown river as a museum boat. Great Lakes freighter. Toledo's harbor still handles ore and coal. This hull is what the port looked like when glass and grain paid the bills.",
+    long: "",
+    names: ["SS Schoonmaker"]
+  },
+  {
+    id: "toledo-warehouse",
+    name: "Toledo Warehouse District",
+    lat: 41.6490,
+    lng: -83.5395,
+    radius: 700,
+    short: "Warehouse District on the west bank. Grain, glass, and machine parts stacked in brick when the canal and the rails met the lake boats. Fifth Third Field later dropped a ballpark into the same blocks.",
+    long: "",
+    names: ["Toledo Warehouse District"]
+  },
+  {
+    id: "toledo-black-swamp",
+    name: "Great Black Swamp Toledo",
+    lat: 41.6528,
+    lng: -83.5378,
+    radius: 2500,
+    short: "Toledo sits on the drain of the Great Black Swamp. Ditches and the canal made farms out of a wetland that had stopped armies. Hicksville's timber and this port are the same swamp, dried from two ends.",
+    long: "",
+    names: ["Great Black Swamp"]
+  },
+  {
+    id: "toledo-sylvania",
+    name: "Sylvania Ohio",
+    lat: 41.7189,
+    lng: -83.7130,
+    radius: 1600,
+    short: "Sylvania on the Michigan line. Part of the strip Ohio kept after the Toledo War. Lumber and then a commuter town. The border that almost started a state war runs through these streets.",
+    long: "",
+    names: ["Sylvania"]
+  },
+  {
+    id: "toledo-maumee-town",
+    name: "Maumee Ohio",
+    lat: 41.5628,
+    lng: -83.6538,
+    radius: 1400,
+    short: "Maumee was the older river town. County seat before Toledo took it. Fort Meigs looks down on it. The rapids of the Maumee made this the head of navigation. Toledo stole the name of the region and the courthouse.",
+    long: "",
+    names: ["Maumee"]
+  },
+      {
+    id: "toledo-fort-miami",
+    name: "Fort Miami",
+    lat: 41.5570,
+    lng: -83.6480,
+    radius: 800,
+    short: "Fort Miami, British post on the Maumee, 1794. After Fallen Timbers the confederacy ran here. The gate stayed shut. Wayne called it an insult on American ground. The earthworks are still on the riverbank in Maumee.",
+    long: "",
+    names: ["Fort Miami"]
+  },
+  {
+    id: "toledo-schoonmaker",
+    name: "SS Schoonmaker",
+    lat: 41.6505,
+    lng: -83.5285,
+    radius: 500,
+    short: "Col. James M. Schoonmaker sits on the downtown river as a museum boat. Great Lakes freighter. Toledo's harbor still handles ore and coal. This hull is what the port looked like when glass and grain paid the bills.",
+    long: "",
+    names: ["SS Schoonmaker"]
+  },
+  {
+    id: "toledo-warehouse",
+    name: "Toledo Warehouse District",
+    lat: 41.6490,
+    lng: -83.5395,
+    radius: 700,
+    short: "Warehouse District on the west bank. Grain, glass, and machine parts stacked in brick when the canal and the rails met the lake boats. Fifth Third Field later dropped a ballpark into the same blocks.",
+    long: "",
+    names: ["Toledo Warehouse District"]
+  },
+  {
+    id: "toledo-black-swamp",
+    name: "Great Black Swamp Toledo",
+    lat: 41.6528,
+    lng: -83.5378,
+    radius: 2500,
+    short: "Toledo sits on the drain of the Great Black Swamp. Ditches and the canal made farms out of a wetland that had stopped armies. Hicksville's timber and this port are the same swamp, dried from two ends.",
+    long: "",
+    names: ["Great Black Swamp"]
+  },
+  {
+    id: "toledo-sylvania",
+    name: "Sylvania Ohio",
+    lat: 41.7189,
+    lng: -83.7130,
+    radius: 1600,
+    short: "Sylvania on the Michigan line. Part of the strip Ohio kept after the Toledo War. Lumber and then a commuter town. The border that almost started a state war runs through these streets.",
+    long: "",
+    names: ["Sylvania"]
+  },
+  {
+    id: "toledo-maumee-town",
+    name: "Maumee Ohio",
+    lat: 41.5628,
+    lng: -83.6538,
+    radius: 1400,
+    short: "Maumee was the older river town. County seat before Toledo took it. Fort Meigs looks down on it. The rapids of the Maumee made this the head of navigation. Toledo stole the name of the region and the courthouse.",
+    long: "",
+    names: ["Maumee"]
+  },
+  {
+    id: "toledo-perrysburg",
+    name: "Perrysburg Ohio",
+    lat: 41.5570,
+    lng: -83.6294,
+    radius: 1400,
+    short: "Perrysburg on the south bluff. Named for Oliver Hazard Perry. Fort Meigs sits at the edge of town. Laid out after the War of 1812 as the river village that would watch the Maumee. Toledo grew bigger. This ridge kept the view.",
+    long: "",
+    names: ["Perrysburg", "Oliver Hazard Perry"]
+  },
+  {
+    id: "toledo-jeep",
+    name: "Jeep Toledo",
+    lat: 41.6660,
+    lng: -83.5750,
+    radius: 1200,
+    short: "Willys-Overland built the Jeep in Toledo. World War Two made the name. The plant on Jeep Parkway is still running. Glass City also builds the vehicle that left this town and went everywhere.",
+    long: "",
+    names: ["Willys-Overland", "Jeep"]
+  },
+  {
+    id: "toledo-blade",
+    name: "Toledo Blade",
+    lat: 41.6510,
+    lng: -83.5390,
+    radius: 500,
+    short: "The Toledo Blade began in 1835 while the town was still fighting Michigan. A newspaper named for a weapon during a bloodless war. It outlived the militias.",
+    long: "",
+    names: ["Toledo Blade"]
+  },
+  {
+    id: "toledo-oliver-house",
+    name: "Oliver House",
+    lat: 41.6475,
+    lng: -83.5335,
+    radius: 400,
+    short: "Oliver House, 1859, on the east bank of Swan Creek. Oldest surviving hotel building in the city. Canal and rail travelers slept here when Frog Town was trying to become a port.",
+    long: "",
+    names: ["Oliver House"]
+  },
+  {
+    id: "toledo-oregon",
+    name: "Oregon Ohio",
+    lat: 41.6439,
+    lng: -83.4869,
+    radius: 1600,
+    short: "Oregon, Ohio, east of the river. Refineries and the lake. Part of the port that is not downtown. Maumee Bay starts here. Toledo's other bank.",
+    long: "",
+    names: ["Oregon Ohio"]
+  },
+  {
+    id: "toledo-rossford",
+    name: "Rossford Ohio",
+    lat: 41.6098,
+    lng: -83.5641,
+    radius: 1200,
+    short: "Rossford. Edward Ford built a glass town here and named it for his family. Another Libbey-era plant on the Maumee. Company housing and a factory stack. Glass City was more than one plant.",
+    long: "",
+    names: ["Rossford", "Edward Ford"]
+  },
+    {
+    id: "toledo-lucas-courthouse",
+    name: "Lucas County Courthouse",
+    lat: 41.6555,
+    lng: -83.5388,
+    radius: 400,
+    short: "Lucas County Courthouse on the downtown mall. County named for Governor Robert Lucas, who called out the militia in the Toledo War. The courthouse is the souvenir of that argument.",
+    long: "",
+    names: ["Lucas County Courthouse", "Robert Lucas"]
+  },
+  {
+    id: "toledo-valentine",
+    name: "Valentine Theatre",
+    lat: 41.6518,
+    lng: -83.5372,
+    radius: 400,
+    short: "Valentine Theatre, 1895. Downtown stage from the years when a port wanted opera as much as ore. Restored. Still open on the square that used to be Frog Town.",
+    long: "",
+    names: ["Valentine Theatre"]
+  },
+  {
+    id: "toledo-swan-creek",
+    name: "Swan Creek",
+    lat: 41.6485,
+    lng: -83.5420,
+    radius: 900,
+    short: "Swan Creek hits the Maumee under downtown. Fort Industry sat at the mouth. The creek is why the first plats made sense. A small water into a big one. Same pattern as every town on this list.",
+    long: "",
+    names: ["Swan Creek"]
+  },
+  {
+    id: "toledo-east-toledo",
+    name: "East Toledo",
+    lat: 41.6500,
+    lng: -83.5150,
+    radius: 1400,
+    short: "East Toledo across the High Level. Working wards, churches, and the older immigrant streets. The bridge made one city out of two banks. The river still decides which side you are on.",
+    long: "",
+    names: ["East Toledo"]
+  },
+  {
+    id: "toledo-point-place",
+    name: "Point Place",
+    lat: 41.7150,
+    lng: -83.4750,
+    radius: 1400,
+    short: "Point Place on Maumee Bay. Cottages and fishing before it was city. Lake Erie at the mouth. Toledo's north edge where the river finally quits and the lake begins.",
+    long: "",
+    names: ["Point Place", "Maumee Bay"]
+  },
+  {
+    id: "toledo-legend-name",
+    name: "Toledo name",
+    lat: 41.6528,
+    lng: -83.5378,
+    radius: 1500,
+    short: "Two stories on the name. One says a merchant picked Toledo, Spain, off a map because it sounded important. Another says it was a joke at a naming meeting. Either way a swamp town borrowed an imperial city and then won a war to keep it.",
+    long: "",
+    names: ["Toledo"]
+  },
+      {
+    id: "approach-akron",
+    name: "Akron",
+    lat: 41.0814,
+    lng: -81.5190,
+    radius: 10000,
+    layer: "approach",
+    short: "You are coming up on Akron. Greek for summit. Canal town at the portage between the Cuyahoga and the Tuscarawas. Then rubber. Goodrich, Goodyear, Firestone. If you drop downtown, I'll start at the locks.",
+    long: "",
+    names: ["Akron"]
+  },
+  {
+    id: "akron-founding",
+    name: "Akron founding",
+    lat: 41.0814,
+    lng: -81.5190,
+    radius: 1400,
+    short: "Simon Perkins and Paul Williams platted Akron in 1825 at the summit of the Ohio and Erie Canal. Name from the Greek for high point. Canal boats were built near Main and Exchange. A New England surveyor's town on an old carrying path.",
+    long: "",
+    names: ["Simon Perkins", "Paul Williams"]
+  },
+  {
+    id: "akron-canal-locks",
+    name: "Akron canal locks",
+    lat: 41.0735,
+    lng: -81.5175,
+    radius: 900,
+    short: "The Ohio and Erie climbed into Akron on a staircase of locks. Summit Lake is the high water. Mules walked this bank. The canal is why a town exists on a ridge instead of a big river.",
+    long: "",
+    names: ["Ohio and Erie Canal"]
+  },
+  {
+    id: "akron-portage-path",
+    name: "Portage Path",
+    lat: 41.0910,
+    lng: -81.5510,
+    radius: 900,
+    short: "Portage Path follows the old Native carry between the Cuyahoga and the Tuscarawas. Eight miles of ridge. Once treated as the western edge of the United States. Elk made the trail. People followed. The canal later cheated the carry.",
+    long: "",
+    names: ["Portage Path"]
+  },
+  {
+    id: "akron-goodrich",
+    name: "B.F. Goodrich Akron",
+    lat: 41.0730,
+    lng: -81.5205,
+    radius: 800,
+    short: "Benjamin Franklin Goodrich moved a rubber shop here in 1871. Water and rails. Then cars needed tires. Firestone, General, Goodyear piled on. Rubber Capital of the World was not a slogan. It was four factories in one town.",
+    long: "",
+    names: ["B.F. Goodrich"]
+  },
+  {
+    id: "akron-goodyear",
+    name: "Goodyear Akron",
+    lat: 41.0765,
+    lng: -81.4795,
+    radius: 900,
+    short: "Frank Seiberling founded Goodyear in 1898. Bicycle tires and poker chips first. World's largest tire company by 1916. Blinds and airships later. Headquarters never left. The Rubber City still has a company that kept the name.",
+    long: "",
+    names: ["Frank Seiberling", "Goodyear"]
+  },
+  {
+    id: "akron-people-parks",
+    name: "Akron people and parks",
+    lat: 41.0814,
+    lng: -81.5190,
+    radius: 1800,
+    short: "Sojourner Truth spoke here. John Brown's years in Hudson sit next door. Stan Hywet is the Seiberling mansion. The Metro Parks follow the old gorge. A factory town that kept a Tudor house and a towpath.",
+    long: "",
+    names: ["Sojourner Truth", "Stan Hywet", "John Brown"]
+  },
+  {
+    id: "akron-legend",
+    name: "Akron summit legend",
+    lat: 41.0814,
+    lng: -81.5190,
+    radius: 1500,
+    short: "Locals say if you stand on the divide a raindrop can choose Lake Erie or the Gulf of Mexico. That is the whole joke of the name. Summit. The town is a hinge. Canal, rubber, and a path older than both.",
+    long: "",
+    names: ["Akron"]
+  },
+  {
+    id: "akron-stan-hywet",
+    name: "Stan Hywet Hall",
+    lat: 41.1165,
+    lng: -81.5495,
+    radius: 700,
+    short: "Stan Hywet. Frank Seiberling's Tudor manor on the west hill. Rubber money built an English house over a gorge. The gardens are still open. The man who founded Goodyear lived like a lord above the factories.",
+    long: "",
+    names: ["Stan Hywet", "Frank Seiberling"]
+  },
+  {
+    id: "akron-firestone",
+    name: "Firestone Akron",
+    lat: 41.0470,
+    lng: -81.5180,
+    radius: 900,
+    short: "Harvey Firestone put a plant south of downtown. Ford needed tires. Firestone Park was company housing. Another rubber giant on the same canal town. The name left. The streets still say Firestone.",
+    long: "",
+    names: ["Harvey Firestone", "Firestone Park"]
+  },
+  {
+    id: "akron-airdock",
+    name: "Goodyear Airdock",
+    lat: 41.0305,
+    lng: -81.4675,
+    radius: 800,
+    short: "Goodyear Airdock, 1929. One of the largest buildings in the world without interior supports. Built to hang rigid airships. You can still see the barn from the highway. Rubber City also tried to own the sky.",
+    long: "",
+    names: ["Goodyear Airdock"]
+  },
+  {
+    id: "akron-buchtel",
+    name: "Buchtel College",
+    lat: 41.0755,
+    lng: -81.5115,
+    radius: 600,
+    short: "Buchtel College opened 1872 with Universalist money. Became the University of Akron. John R. Buchtel put a school on the hill above the canal. Rubber later paid for the rest.",
+    long: "",
+    names: ["Buchtel College", "University of Akron"]
+  },
+  {
+    id: "akron-derby",
+    name: "Soap Box Derby",
+    lat: 41.0800,
+    lng: -81.5235,
+    radius: 700,
+    short: "All-American Soap Box Derby made Akron its home. Kids racing homemade cars down a hill. A rubber town celebrating gravity and scrap wood. Derby Downs still runs.",
+    long: "",
+    names: ["Soap Box Derby", "Derby Downs"]
+  },
+  {
+    id: "akron-cascade",
+    name: "Cascade Locks",
+    lat: 41.0890,
+    lng: -81.5205,
+    radius: 700,
+    short: "Cascade Locks Park. The canal stair that lifted boats to the summit. Mustill Store still stands. This is the hinge between the Cuyahoga and the Tuscarawas in brick and water.",
+    long: "",
+    names: ["Cascade Locks", "Mustill Store"]
+  },
+  {
+    id: "akron-quaker-oats",
+    name: "Quaker Oats silos",
+    lat: 41.0835,
+    lng: -81.5160,
+    radius: 500,
+    short: "Quaker Oats built concrete grain silos downtown. Cereal on the canal. The silos later became a hotel. A mill town that turned its tanks into rooms.",
+    long: "",
+    names: ["Quaker Oats"]
+  },
+  {
+    id: "akron-lock-3",
+    name: "Lock 3 Akron",
+    lat: 41.0810,
+    lng: -81.5180,
+    radius: 400,
+    short: "Lock 3 in the middle of downtown. The canal cut through what is now the civic space. Summer concerts sit on a lock pit. Akron paved the water and then uncovered it again.",
+    long: "",
+    names: ["Lock 3"]
+  },
+  {
+    id: "akron-cuyahoga-falls",
+    name: "Cuyahoga Falls",
+    lat: 41.1339,
+    lng: -81.4846,
+    radius: 1400,
+    short: "Cuyahoga Falls was the first county seat. The river drops here. Mills took the power. Akron took the courthouse. Two towns on one gorge. The falls are why the name is not a metaphor.",
+    long: "",
+    names: ["Cuyahoga Falls"]
+  },
+  {
+    id: "akron-hudson",
+    name: "Hudson Ohio",
+    lat: 41.2401,
+    lng: -81.4407,
+    radius: 1400,
+    short: "Hudson. Connecticut Western Reserve town. John Brown grew up here. His father's tannery and the old green. Abolition started in parlors on this square before Harper's Ferry.",
+    long: "",
+    names: ["Hudson", "John Brown"]
+  },
+  {
+    id: "akron-summit-lake",
+    name: "Summit Lake",
+    lat: 41.0475,
+    lng: -81.5330,
+    radius: 1000,
+    short: "Summit Lake is the canal reservoir on the divide. High water for the locks. Working neighborhoods grew around it. The pond that let boats climb the summit.",
+    long: "",
+    names: ["Summit Lake"]
+  },
+  {
+    id: "akron-native-portage",
+    name: "Akron Native portage",
+    lat: 41.0910,
+    lng: -81.5510,
+    radius: 1500,
+    short: "This ridge was the shortest dry walk between two drainages. Erie, Wyandot, and others used it. The statue on Portage Path marks a carry, not a battle. The United States once called this line a border.",
+    long: "",
+    names: ["Portage Path"]
+  },
+  {
+    id: "akron-goodyear-hall",
+    name: "Goodyear Hall",
+    lat: 41.0760,
+    lng: -81.4780,
+    radius: 500,
+    short: "Goodyear Hall and the old factory block on East Market. Company town architecture. Gym, theater, and offices for men who built tires. The campus of a corporation that outlasted the others.",
+    long: "",
+    names: ["Goodyear Hall"]
+  },
+  {
+    id: "akron-art-museum",
+    name: "Akron Art Museum",
+    lat: 41.0838,
+    lng: -81.5168,
+    radius: 400,
+    short: "Akron Art Museum downtown. A rubber city's art house in a modern box against an old brick post office. Culture paid for after the factories peaked.",
+    long: "",
+    names: ["Akron Art Museum"]
+  },
+  {
+    id: "akron-glendale",
+    name: "Glendale Cemetery Akron",
+    lat: 41.0865,
+    lng: -81.5285,
+    radius: 600,
+    short: "Glendale Cemetery. Perkins family and the canal names. Rural cemetery on the hill above downtown. The people who platted the summit are in the ground they surveyed.",
+    long: "",
+    names: ["Glendale Cemetery", "Simon Perkins"]
+  },
+  {
+    id: "akron-little-cuyahoga",
+    name: "Little Cuyahoga",
+    lat: 41.0700,
+    lng: -81.5050,
+    radius: 1200,
+    short: "Little Cuyahoga powered the first mills and the Goodrich works. A small river that did the work the big Cuyahoga did for Cleveland. Akron's factory water.",
+    long: "",
+    names: ["Little Cuyahoga River"]
+  },
+  {
+    id: "akron-barberton",
+    name: "Barberton Ohio",
+    lat: 41.0128,
+    lng: -81.6051,
+    radius: 1400,
+    short: "Barberton. O.C. Barber built a planned company town and called it the Magic City. Match works and a farm that tried to be a model. Akron's south neighbor on the Tuscarawas side of the divide.",
+    long: "",
+    names: ["Barberton", "O.C. Barber"]
+  },
+  {
+    id: "akron-legend-rubber",
+    name: "Rubber capital",
+    lat: 41.0814,
+    lng: -81.5190,
+    radius: 1600,
+    short: "By 1920 Akron had tripled in a decade. People slept in chairs. Tires came off these lines for half the cars in America. The smell is gone. The nickname Rubber Capital is the legend that is also a fact.",
+    long: "",
+    names: ["Rubber Capital"]
+  },
+ {
+    id: "approach-dayton",
+    name: "Dayton",
+    lat: 39.7589,
+    lng: -84.1916,
+    radius: 10000,
+    layer: "approach",
+    short: "You are coming up on Dayton. Named for Jonathan Dayton. Four rivers in a floodplain. Wright brothers taught the world to fly from a cow pasture east of town. Cash registers and the self-starter came from the same streets. If you drop downtown, I'll start at the confluence.",
+    long: "",
+    names: ["Dayton", "Wright brothers"]
+  },
+  {
+    id: "dayton-founding",
+    name: "Dayton founding",
+    lat: 39.7589,
+    lng: -84.1916,
+    radius: 1400,
+    short: "Laid out in 1796 after Greenville. Revolutionary officers including Jonathan Dayton of New Jersey. Great Miami, Stillwater, Mad River, and Wolf Creek meet here. A river town on a floodplain that kept flooding until the 1913 lesson.",
+    long: "",
+    names: ["Jonathan Dayton"]
+  },
+  {
+    id: "dayton-rivers-canal",
+    name: "Dayton rivers and canal",
+    lat: 39.7640,
+    lng: -84.1945,
+    radius: 1500,
+    short: "Miami and Erie Canal reached Cincinnati from here in 1829. Produce went south to New Orleans before that. Four streams in one basin. The 1913 flood drowned the city and forced the conservancy dams that still hold the water back.",
+    long: "",
+    names: ["Great Miami River", "Miami and Erie Canal"]
+  },
+  {
+    id: "dayton-wright-cycle",
+    name: "Wright Cycle Company",
+    lat: 39.7565,
+    lng: -84.2120,
+    radius: 500,
+    short: "The Wright Cycle Company on West Third. Bicycles paid for the flying. Kitty Hawk was the first hop. Huffman Prairie east of town is where they made a machine that could stay up. Dayton is the shop. North Carolina is the beach.",
+    long: "",
+    names: ["Wright brothers", "Wright Cycle Company"]
+  },
+  {
+    id: "dayton-huffman",
+    name: "Huffman Prairie",
+    lat: 39.8033,
+    lng: -84.0658,
+    radius: 900,
+    short: "Huffman Prairie, 1904 and 1905. Torrence Huffman let them use a cow field by the trolley. October 5, 1905, Flyer III stayed up until the fuel ran out. First practical airplane. Wright-Patterson later swallowed the grass.",
+    long: "",
+    names: ["Huffman Prairie", "Wright Flyer III"]
+  },
+  {
+    id: "dayton-ncr",
+    name: "National Cash Register",
+    lat: 39.7480,
+    lng: -84.1850,
+    radius: 800,
+    short: "James Ritty invented a cash register here. John H. Patterson built National Cash Register into a giant. Charles Kettering later made the auto self-starter in the same town. Dayton's other invention factory besides the bicycle shop.",
+    long: "",
+    names: ["John H. Patterson", "James Ritty", "Charles Kettering"]
+  },
+  {
+    id: "dayton-parks-people",
+    name: "Dayton parks and people",
+    lat: 39.7589,
+    lng: -84.1916,
+    radius: 1800,
+    short: "Woodland Cemetery holds the Wrights. Carillon Historical Park keeps Flyer III. Island Park sits in the river meeting. A flood city that put its dead and its machines on high ground.",
+    long: "",
+    names: ["Woodland Cemetery"]
+  },
+  {
+    id: "dayton-native",
+    name: "Dayton Native ground",
+    lat: 39.7589,
+    lng: -84.1916,
+    radius: 2200,
+    short: "Shawnee ground until Greenville, 1795. The Mad River and the Miami were corridors. Settlement waited on that treaty. The town is named for a New Jersey signer, not for the people who used the forks first.",
+    long: "",
+    names: ["Shawnee", "Treaty of Greenville"]
+  }
+  {
+    id: "dayton-flood-1913",
+    name: "Dayton 1913 flood",
+    lat: 39.7589,
+    lng: -84.1916,
+    radius: 2000,
+    short: "March 1913. Four rivers came up at once. Hundreds dead. John H. Patterson turned NCR into a rescue camp. The Miami Conservancy District dams that followed are why downtown still exists. The city was rebuilt on the memory of water.",
+    long: "",
+    names: ["1913 flood", "Miami Conservancy District"]
+  },
+  {
+    id: "dayton-carillon",
+    name: "Carillon Historical Park",
+    lat: 39.7285,
+    lng: -84.2005,
+    radius: 700,
+    short: "Carillon Historical Park. Flyer III is in a hall here. Deeds Carillon towers over the grounds. Kettering and Deeds money stacked a museum of the machines Dayton made. The practical airplane lives in this park, not on the Outer Banks.",
+    long: "",
+    names: ["Carillon Historical Park", "Wright Flyer III"]
+  },
+  {
+    id: "dayton-woodland",
+    name: "Woodland Cemetery Dayton",
+    lat: 39.7430,
+    lng: -84.1770,
+    radius: 600,
+    short: "Woodland Cemetery. Orville and Wilbur Wright are here. So are Patterson and the other names that built the town. A hill of inventors above the floodplain.",
+    long: "",
+    names: ["Woodland Cemetery", "Wright brothers"]
+  },
+  {
+    id: "dayton-wright-patt",
+    name: "Wright-Patterson",
+    lat: 39.8260,
+    lng: -84.0480,
+    radius: 2000,
+    short: "Wright-Patterson Air Force Base ate Huffman Prairie and then some. The field where they learned to fly became the logistics heart of the Air Force. Dayton's cow pasture grew a military city.",
+    long: "",
+    names: ["Wright-Patterson"]
+  },
+  {
+    id: "dayton-oregon-district",
+    name: "Oregon District",
+    lat: 39.7575,
+    lng: -84.1845,
+    radius: 500,
+    short: "Oregon District. Oldest surviving neighborhood. Brick houses from the canal years. Downtown's east side leftover. The streets the Wrights would have walked to the bicycle shop.",
+    long: "",
+    names: ["Oregon District"]
+  },
+  {
+    id: "dayton-accords",
+    name: "Dayton Accords",
+    lat: 39.8230,
+    lng: -84.0485,
+    radius: 1200,
+    short: "Wright-Patterson hosted the Dayton Accords in 1995. Bosnia's peace was argued on this base. A midwestern airfield that ended a European war on paper. The name traveled farther than the Flyer.",
+    long: "",
+    names: ["Dayton Accords"]
+  },
+      {
+    id: "dayton-dunbar",
+    name: "Paul Laurence Dunbar House",
+    lat: 39.7580,
+    lng: -84.2195,
+    radius: 400,
+    short: "Paul Laurence Dunbar House on North Summit. The poet grew up in Dayton, went to school with Orville Wright, and became the first Black writer to gain a wide national audience. The house is a state memorial. Two kinds of flight from the same town.",
+    long: "",
+    names: ["Paul Laurence Dunbar"]
+  },
+  {
+    id: "dayton-sunwatch",
+    name: "SunWatch Village",
+    lat: 39.7145,
+    lng: -84.2280,
+    radius: 800,
+    short: "SunWatch. A reconstructed Fort Ancient village on the Great Miami. Eighth to fifteenth century. Circular plaza aligned with the sun. Dayton's ground was a town before it was Dayton.",
+    long: "",
+    names: ["SunWatch", "Fort Ancient"]
+  },
+  {
+    id: "dayton-miamisburg-mound",
+    name: "Miamisburg Mound",
+    lat: 39.6275,
+    lng: -84.2810,
+    radius: 700,
+    short: "Miamisburg Mound. One of the largest conical burial mounds in the eastern United States. Adena. A hill of earth older than any canal lock. The Miami valley kept its dead in plain sight.",
+    long: "",
+    names: ["Miamisburg Mound", "Adena"]
+  },
+  {
+    id: "dayton-kettering",
+    name: "Charles Kettering",
+    lat: 39.6895,
+    lng: -84.1685,
+    radius: 1400,
+    short: "Charles Kettering built the electric starter in this city. Delco. The suburb that took his name sits south of town. A barn inventor who made cars start without a crank.",
+    long: "",
+    names: ["Charles Kettering", "Delco"]
+  },
+  {
+    id: "dayton-miamisburg",
+    name: "Miamisburg Ohio",
+    lat: 39.6428,
+    lng: -84.2866,
+    radius: 1400,
+    short: "Miamisburg on the Great Miami south of Dayton. Canal town, paper mills, and the mound. Another river village that Dayton's floodplain grew past.",
+    long: "",
+    names: ["Miamisburg"]
+  },
+  {
+    id: "dayton-legend-bike",
+    name: "Wright bicycle legend",
+    lat: 39.7565,
+    lng: -84.2120,
+    radius: 800,
+    short: "Locals will tell you the airplane is a Dayton bicycle with wings. That is almost fair. Chain drives, balance, and two brothers who thought in shops, not universities. Kitty Hawk gets the postcard. This street gets the work.",
+    long: "",
+    names: ["Wright brothers"]
+  },
+    {
+    id: "dayton-fairborn",
+    name: "Fairborn Ohio",
+    lat: 39.8209,
+    lng: -84.0194,
+    radius: 1400,
+    short: "Fairborn grew against Wright-Patterson. Two towns, Fairfield and Osborn, merged after the 1913 flood moved Osborn. Huffman Prairie is in this edge. A base town with a pasture underneath.",
+    long: "",
+    names: ["Fairborn"]
+  },
+  {
+    id: "dayton-xenia",
+    name: "Xenia Ohio",
+    lat: 39.6848,
+    lng: -83.9296,
+    radius: 1600,
+    short: "Xenia, county seat of Greene. Shawnee name for hospitality. The 1974 tornado tore the town apart. Dayton's east neighbor on the old army trace.",
+    long: "",
+    names: ["Xenia"]
+  },
+  {
+    id: "dayton-stillwater",
+    name: "Stillwater River Dayton",
+    lat: 39.7800,
+    lng: -84.2050,
+    radius: 1200,
+    short: "The Stillwater meets the Great Miami on the north side. One of the four that drowned the city in 1913. Conservancy dams upstream are why this fork is quiet now.",
+    long: "",
+    names: ["Stillwater River"]
+  },
+  {
+    id: "dayton-mad-river",
+    name: "Mad River Dayton",
+    lat: 39.7650,
+    lng: -84.1850,
+    radius: 1000,
+    short: "The Mad River comes in from the east. Huffman Prairie sits in its drainage. Another of the four. Dayton is a meeting of tempers.",
+    long: "",
+    names: ["Mad River"]
+  },
+  {
+    id: "dayton-canals-locks",
+    name: "Dayton canal basin",
+    lat: 39.7580,
+    lng: -84.1980,
+    radius: 900,
+    short: "The Miami and Erie ran through what is now downtown streets. Boats tied where pavement is. Patterson and the factories used that water before the flood ended the old grade.",
+    long: "",
+    names: ["Miami and Erie Canal"]
+  },
+  {
+    id: "dayton-oakwood",
+    name: "Oakwood Ohio",
+    lat: 39.7256,
+    lng: -84.1741,
+    radius: 1000,
+    short: "Oakwood. Orville Wright lived on this ridge after the shop years. A hill suburb above the flood line. The man who flew the prairie chose high ground to sleep.",
+    long: "",
+    names: ["Oakwood", "Orville Wright"]
+  },
+ {
+    id: "approach-parma",
+    name: "Parma",
+    lat: 41.4048,
+    lng: -81.7229,
+    radius: 7000,
+    layer: "approach",
+    short: "You are coming up on Parma. Western Reserve township that refused to be swallowed by Cleveland. Farms, then factories, then the second-largest city in the county. If you drop into town, I'll start on Pearl Road.",
+    long: "",
+    names: ["Parma"]
+  },
+  {
+    id: "parma-founding",
+    name: "Parma founding",
+    lat: 41.4048,
+    lng: -81.7229,
+    radius: 1400,
+    short: "Benajah Fay's family settled this Western Reserve tract in 1816 on the Columbus road, now Pearl. Township 1826. Named for a New York town, not Italy. Neighbors called it Greenbrier for the brush. They voted down annexation by Cleveland in 1931.",
+    long: "",
+    names: ["Benajah Fay"]
+  },
+  {
+    id: "parma-industry",
+    name: "Parma industry",
+    lat: 41.4048,
+    lng: -81.7229,
+    radius: 1600,
+    short: "Farms until the car era. Chevrolet opened a plant in 1949. Modern Tool and Die on West 130th. A township that became a factory suburb on Cleveland's south-west shoulder.",
+    long: "",
+    names: ["Chevrolet Parma"]
+  },
+  {
+    id: "parma-people-parks",
+    name: "Parma people and parks",
+    lat: 41.4048,
+    lng: -81.7229,
+    radius: 1600,
+    short: "German, Polish, Italian, Slovak, and Irish families filled the streets after the war. German Central Farm dates to 1926. Stearns Homestead keeps a farm in the middle of the suburb. Big city built on small-lot pride.",
+    long: "",
+    names: ["German Central Farm", "Stearns Homestead"]
+  },
+  {
+    id: "parma-native",
+    name: "Parma Native ground",
+    lat: 41.4048,
+    lng: -81.7229,
+    radius: 2000,
+    short: "Connecticut Western Reserve survey, 1806. Same ridge south of the Cuyahoga that Native trails used to skirt the lake plain. No battle here. A farm township on somebody else's path.",
+    long: "",
+    names: ["Western Reserve"]
+  },
+  {
+    id: "parma-war",
+    name: "Crile Hospital Parma",
+    lat: 41.3910,
+    lng: -81.7670,
+    radius: 800,
+    short: "Crile General Hospital treated soldiers here in the Second World War. A Nike missile site sat on the same grounds in the Cold War. A suburb that hosted a war hospital and a nuclear-age battery.",
+    long: "",
+    names: ["Crile General Hospital"]
+  },
+  {
+    id: "parma-legend",
+    name: "Parma Heights split",
+    lat: 41.3901,
+    lng: -81.7596,
+    radius: 1000,
+    short: "Parma Heights broke off in 1911 after a fight about Sunday beer. Two cities from one township over whether the taverns could open. The split is the local legend that is also the map.",
+    long: "",
+    names: ["Parma Heights"]
+  },
+     {
+    id: "approach-canton",
+    name: "Canton",
+    lat: 40.7986,
+    lng: -81.3750,
+    radius: 9000,
+    layer: "approach",
+    short: "You are coming up on Canton. McKinley ran for president from a front porch here. The NFL was born in a Hupmobile showroom. Timken bearings and the Hall of Fame. If you drop into town, I'll start at the monument.",
+    long: "",
+    names: ["Canton", "William McKinley"]
+  },
+  {
+    id: "canton-founding",
+    name: "Canton founding",
+    lat: 40.7986,
+    lng: -81.3750,
+    radius: 1400,
+    short: "Bezaleel Wells platted Canton in 1805. Named for Canton, China, a fashion of the time. Stark County seat. A market town on the watershed between the Tuscarawas and the lakes.",
+    long: "",
+    names: ["Bezaleel Wells"]
+  },
+  {
+    id: "canton-mckinley",
+    name: "McKinley National Memorial",
+    lat: 40.8067,
+    lng: -81.3925,
+    radius: 700,
+    short: "William McKinley is in this dome. Front-porch campaign, 1896. Shot in Buffalo in 1901. Ida Saxton McKinley is here with him. The steps are a sword laid on the hill. Canton buried a president in its own ground.",
+    long: "",
+    names: ["William McKinley", "Ida Saxton McKinley"]
+  },
+  {
+    id: "canton-nfl",
+    name: "NFL founding Canton",
+    lat: 40.7986,
+    lng: -81.3750,
+    radius: 1200,
+    short: "September 17, 1920. The American Professional Football Association formed in a Hupmobile showroom. Jim Thorpe had already played for the Canton Bulldogs. The Hall of Fame opened in 1963 because this town could prove the paperwork.",
+    long: "",
+    names: ["Canton Bulldogs", "Jim Thorpe"]
+  },
+  {
+    id: "canton-hall",
+    name: "Pro Football Hall of Fame",
+    lat: 40.8198,
+    lng: -81.3984,
+    radius: 700,
+    short: "Pro Football Hall of Fame. Yellow jackets of steel. Built because the league started here and because Timken and the Repository pushed until the owners said yes.",
+    long: "",
+    names: ["Pro Football Hall of Fame"]
+  },
+  {
+    id: "canton-timken",
+    name: "Timken Canton",
+    lat: 40.7980,
+    lng: -81.3760,
+    radius: 1200,
+    short: "Henry Timken put a roller-bearing works here. The company that bankrolled the Hall also put Canton on factory maps. Steel and bearings under the football story.",
+    long: "",
+    names: ["Timken"]
+  },
+  {
+    id: "canton-native-war",
+    name: "Canton Native and war",
+    lat: 40.7986,
+    lng: -81.3750,
+    radius: 2000,
+    short: "Tuscarawas drainage. Delaware and Wyandot hunting ground before Wells's plat. McKinley was a Civil War major before he was president. The memorial hill was first meant for Stark County soldiers.",
+    long: "",
+    names: ["Tuscarawas"]
+  },
+  {
+    id: "canton-legend-porch",
+    name: "Front porch campaign",
+    lat: 40.7986,
+    lng: -81.3750,
+    radius: 1200,
+    short: "McKinley did not tour. Crowds came to the porch. Mark Hanna packed the trains. The legend is that a man won the White House without leaving Canton. That is close enough to true.",
+    long: "",
+    names: ["Mark Hanna"]
+  },
+      {
+    id: "canton-first-ladies",
+    name: "First Ladies National Historic Site",
+    lat: 40.8015,
+    lng: -81.3755,
+    radius: 400,
+    short: "Ida Saxton McKinley's family house is the First Ladies National Historic Site. Canton honors the wives because it already had the president. A banker's daughter who became first lady from this street.",
+    long: "",
+    names: ["Ida Saxton McKinley", "Saxton House"]
+  },
+  {
+    id: "canton-mckinley-library",
+    name: "McKinley Presidential Library",
+    lat: 40.8045,
+    lng: -81.3940,
+    radius: 500,
+    short: "McKinley Presidential Library and Museum at the foot of the memorial. Streetcars used to climb this hill for the funeral crowds. The museum holds the porch story in cases.",
+    long: "",
+    names: ["McKinley Presidential Library"]
+  },
+  {
+    id: "canton-hoover",
+    name: "Hoover Company North Canton",
+    lat: 40.8759,
+    lng: -81.4026,
+    radius: 1200,
+    short: "North Canton. W.H. Hoover turned a leather-goods shop into the vacuum company that named a verb. Company town north of the Hall of Fame. Another Stark County machine.",
+    long: "",
+    names: ["Hoover", "W.H. Hoover"]
+  },
+  {
+    id: "canton-bulldogs-field",
+    name: "Lakeside Park Bulldogs",
+    lat: 40.8120,
+    lng: -81.3850,
+    radius: 700,
+    short: "The Canton Bulldogs played in this town when pro football was still a factory-gate sport. Jim Thorpe in a Canton jersey. Two NFL titles in the early twenties. The Hall is the monument. The field was just a field.",
+    long: "",
+    names: ["Canton Bulldogs"]
+  },
+  {
+    id: "canton-repository",
+    name: "Canton Repository",
+    lat: 40.7986,
+    lng: -81.3750,
+    radius: 800,
+    short: "The Repository pushed the Hall of Fame into existence with a headline in 1959. A local paper that decided the league needed a shrine and that the shrine belonged here.",
+    long: "",
+    names: ["Canton Repository"]
+  },
+  {
+    id: "canton-parks",
+    name: "Canton parks",
+    lat: 40.8067,
+    lng: -81.3925,
+    radius: 1200,
+    short: "Monument Park around McKinley's tomb is the civic green. Stadium Park holds the football crowds. A city that put its president and its league on adjoining hills.",
+    long: "",
+    names: ["Monument Park"]
+  },
+  {
+    id: "canton-first-ladies",
+    name: "First Ladies National Historic Site",
+    lat: 40.8015,
+    lng: -81.3755,
+    radius: 400,
+    short: "Ida Saxton McKinley's family house is the First Ladies National Historic Site. Canton honors the wives because it already had the president. A banker's daughter who became first lady from this street.",
+    long: "",
+    names: ["Ida Saxton McKinley", "Saxton House"]
+  },
+  {
+    id: "canton-mckinley-library",
+    name: "McKinley Presidential Library",
+    lat: 40.8045,
+    lng: -81.3940,
+    radius: 500,
+    short: "McKinley Presidential Library and Museum at the foot of the memorial. Streetcars used to climb this hill for the funeral crowds. The museum holds the porch story in cases.",
+    long: "",
+    names: ["McKinley Presidential Library"]
+  },
+  {
+    id: "canton-hoover",
+    name: "Hoover Company North Canton",
+    lat: 40.8759,
+    lng: -81.4026,
+    radius: 1200,
+    short: "North Canton. W.H. Hoover turned a leather-goods shop into the vacuum company that named a verb. Company town north of the Hall of Fame. Another Stark County machine.",
+    long: "",
+    names: ["Hoover", "W.H. Hoover"]
+  },
+  {
+    id: "canton-bulldogs-field",
+    name: "Lakeside Park Bulldogs",
+    lat: 40.8120,
+    lng: -81.3850,
+    radius: 700,
+    short: "The Canton Bulldogs played in this town when pro football was still a factory-gate sport. Jim Thorpe in a Canton jersey. Two NFL titles in the early twenties. The Hall is the monument. The field was just a field.",
+    long: "",
+    names: ["Canton Bulldogs"]
+  },
+  {
+    id: "canton-repository",
+    name: "Canton Repository",
+    lat: 40.7986,
+    lng: -81.3750,
+    radius: 800,
+    short: "The Repository pushed the Hall of Fame into existence with a headline in 1959. A local paper that decided the league needed a shrine and that the shrine belonged here.",
+    long: "",
+    names: ["Canton Repository"]
+  },
+  {
+    id: "canton-parks",
+    name: "Canton parks",
+    lat: 40.8067,
+    lng: -81.3925,
+    radius: 1200,
+    short: "Monument Park around McKinley's tomb is the civic green. Stadium Park holds the football crowds. A city that put its president and its league on adjoining hills.",
+    long: "",
+    names: ["Monument Park"]
+  },
+  {
+    id: "canton-massillon",
+    name: "Massillon Ohio",
+    lat: 40.7967,
+    lng: -81.5215,
+    radius: 1600,
+    short: "Massillon on the Tuscarawas. Canal town and steel. High-school football so loud it is a civic religion. Canton's twin in Stark County. The Tigers and the Bulldogs is an older fight than the NFL.",
+    long: "",
+    names: ["Massillon"]
+  },
+  {
+    id: "canton-alliance",
+    name: "Alliance Ohio",
+    lat: 40.9103,
+    lng: -81.1059,
+    radius: 1600,
+    short: "Alliance. Named for two rail lines that met. Glahs and brick. Mount Union College. Another Stark County shop town on the way to the Pennsylvania line.",
+    long: "",
+    names: ["Alliance"]
+  },
+  {
+    id: "canton-nimishillen",
+    name: "Nimishillen Creek",
+    lat: 40.7986,
+    lng: -81.3750,
+    radius: 1400,
+    short: "Nimishillen Creek drains Canton toward the Tuscarawas. The water that made a mill town before bearings and football. A small stream with a long name.",
+    long: "",
+    names: ["Nimishillen Creek"]
+  },
+  {
+    id: "canton-west-lawn",
+    name: "West Lawn Cemetery",
+    lat: 40.7980,
+    lng: -81.3950,
+    radius: 600,
+    short: "West Lawn held McKinley until the memorial was ready. Civil War dead and factory names. The first grave of a president in this town was temporary.",
+    long: "",
+    names: ["West Lawn Cemetery"]
+  },
+  {
+    id: "canton-saxton-mckinley",
+    name: "McKinley front porch site",
+    lat: 40.8035,
+    lng: -81.3780,
+    radius: 500,
+    short: "The McKinley house on North Market is gone. The porch campaign happened on this side of town. Crowds stood in the street. A missing house on a street that still tells the story.",
+    long: "",
+    names: ["William McKinley"]
+  },
+  {
+    id: "canton-legend-thorpe",
+    name: "Jim Thorpe Canton",
+    lat: 40.7986,
+    lng: -81.3750,
+    radius: 1200,
+    short: "Jim Thorpe played for pay in Canton before the league had a name. Olympic champion in a factory-town jersey. The Hall claims him. The town saw him first.",
+    long: "",
+    names: ["Jim Thorpe"]
+  },
+    {
+    id: "approach-youngstown",
+    name: "Youngstown",
+    lat: 41.0992,
+    lng: -80.6495,
+    radius: 9000,
+    layer: "approach",
+    short: "You are coming up on Youngstown. John Young bought this township in 1797. Iron, then steel. Sheet and Tube. Black Monday 1977. Mill Creek Park is the surprise. If you drop downtown, I'll start at the river.",
+    long: "",
+    names: ["Youngstown"]
+  },
+  {
+    id: "youngstown-founding",
+    name: "Youngstown founding",
+    lat: 41.0992,
+    lng: -80.6495,
+    radius: 1400,
+    short: "John Young of New York bought 15,560 acres of Western Reserve in 1797 and put a sawmill on the Mahoning. Recorded 1802. A mill seat that became Steel Town.",
+    long: "",
+    names: ["John Young"]
+  },
+  {
+    id: "youngstown-steel",
+    name: "Youngstown Sheet and Tube",
+    lat: 41.1255,
+    lng: -80.6834,
+    radius: 1400,
+    short: "George Wick and James Campbell founded Youngstown Sheet and Tube in 1900. Fifth-largest steelmaker in the country. Campbell Works and Brier Hill. September 19, 1977, Black Monday, the mills shut. The valley still talks in that date.",
+    long: "",
+    names: ["Youngstown Sheet and Tube", "George Wick", "James Campbell"]
+  },
+  {
+    id: "youngstown-mahoning",
+    name: "Mahoning River",
+    lat: 41.0992,
+    lng: -80.6495,
+    radius: 1600,
+    short: "The Mahoning cut the valley that held the furnaces. Coal, ore, and lime met here. The river ran orange for a century. A working water that paid for downtown and then left it.",
+    long: "",
+    names: ["Mahoning River"]
+  },
+  {
+    id: "youngstown-mill-creek",
+    name: "Mill Creek Park",
+    lat: 41.0760,
+    lng: -80.6970,
+    radius: 1200,
+    short: "Mill Creek Park. Volney Rogers forced a park through in the 1890s so the mills would not eat the gorge. Lanterman Falls. One of the finest urban parks in the country, paid for by a steel town that wanted a woods.",
+    long: "",
+    names: ["Mill Creek Park", "Volney Rogers"]
+  },
+  {
+    id: "youngstown-people",
+    name: "Youngstown people",
+    lat: 41.0992,
+    lng: -80.6495,
+    radius: 1800,
+    short: "Immigrant steel labor from a dozen countries. Youngstown State grew out of a YMCA school. Stambaugh Auditorium is the civic room the mills paid for. A city of shifts.",
+    long: "",
+    names: ["Youngstown State"]
+  },
+  {
+    id: "youngstown-native-war",
+    name: "Youngstown Native and war",
+    lat: 41.0992,
+    lng: -80.6495,
+    radius: 2200,
+    short: "Western Reserve on Mahoning hunting ground. Delaware and Seneca used this valley. The Civil War took mill men. The mills themselves were the twentieth-century war work.",
+    long: "",
+    names: ["Mahoning"]
+  },
+  {
+    id: "youngstown-legend-black-monday",
+    name: "Black Monday",
+    lat: 41.0992,
+    lng: -80.6495,
+    radius: 1800,
+    short: "Black Monday is the local calendar. One date when the valley learned the furnaces could stop. Songs and votes still start from September 19, 1977. The legend is a shutdown.",
+    long: "",
+    names: ["Black Monday"]
+  },
+    
+    ];
 

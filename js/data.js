@@ -8309,7 +8309,7 @@ const STORIES = [
     short: "West of Public Square the Warehouse District packed grain, iron, and dry goods when the canal and the rails met the lake. Cast-iron fronts. After the industry left, the buildings stayed. This is the commercial leftover of the port Cleaveland picked.",
     long: "",
     names: ["Warehouse District"]
-  }
+  },
 {
     id: "cleveland-fort-huntington",
     name: "Fort Huntington",

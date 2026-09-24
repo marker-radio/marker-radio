@@ -12980,6 +12980,581 @@ const STORIES = [
     long: "",
     names: ["Maple Heights"]
   },
-    
+      {
+    id: "approach-avon-lake",
+    name: "Avon Lake",
+    lat: 41.5053,
+    lng: -82.0168,
+    radius: 5000,
+    layer: "approach",
+    short: "You are coming up on Avon Lake. Lake Erie shore west of Cleveland. Power plant on the water. Beach town that grew a city. If you drop into town, I'll start at the lake.",
+    long: "",
+    names: ["Avon Lake"]
+  },
+  {
+    id: "avon-lake-founding",
+    name: "Avon Lake founding",
+    lat: 41.5053,
+    lng: -82.0168,
+    radius: 1200,
+    short: "Split from Avon Township so the lake end could have its own government. Interurban cars made a resort strip. Then year-round houses.",
+    long: "",
+    names: ["Avon Township"]
+  },
+  {
+    id: "avon-lake-power",
+    name: "Avon Lake power plant",
+    lat: 41.5053,
+    lng: -82.0168,
+    radius: 1000,
+    short: "The generating plant on the shore was the industrial skyline. Coal and lake water. A beach town that also made electricity for the rest of the county.",
+    long: "",
+    names: ["Avon Lake power plant"]
+  },
+  {
+    id: "avon-lake-beach",
+    name: "Avon Lake shore",
+    lat: 41.5150,
+    lng: -82.0168,
+    radius: 1200,
+    short: "Lake Erie is the public land. Parks on the bluff. The 1924 tornado that wrecked Lorain walked this same shore a few minutes earlier.",
+    long: "",
+    names: ["Lake Erie"]
+  },
+  {
+    id: "avon-lake-people",
+    name: "Avon Lake people",
+    lat: 41.5053,
+    lng: -82.0168,
+    radius: 1400,
+    short: "Resort families, then plant workers, then commuters. Lorain County's lake suburb with a stack on the horizon.",
+    long: "",
+    names: ["Avon Lake"]
+  },
+  {
+    id: "avon-lake-native",
+    name: "Avon Lake Native ground",
+    lat: 41.5053,
+    lng: -82.0168,
+    radius: 1600,
+    short: "Erie shore. Same Native lake road as Lorain and Lakewood. Fish camps and a beach before the plant.",
+    long: "",
+    names: ["Lake Erie"]
+  },
+  {
+    id: "avon-lake-war",
+    name: "Avon Lake war",
+    lat: 41.5053,
+    lng: -82.0168,
+    radius: 1400,
+    short: "No fort. The plant and the lake were the wartime work. Township men left from Avon and Lorain.",
+    long: "",
+    names: ["Avon Lake"]
+  },
+  {
+    id: "avon-lake-legend",
+    name: "Avon Lake legend",
+    lat: 41.5053,
+    lng: -82.0168,
+    radius: 1000,
+    short: "The legend is a split: Avon kept the ridge, Avon Lake kept the water. Two towns from one township because the lake would not share a name quietly.",
+    long: "",
+    names: ["Avon"]
+  },
+
+  {
+    id: "approach-piqua",
+    name: "Piqua",
+    lat: 40.1448,
+    lng: -84.2424,
+    radius: 7000,
+    layer: "approach",
+    short: "You are coming up on Piqua. Great Miami. Shawnee name. John Johnston's farm. Fort and factory town. If you drop downtown, I'll start at the river.",
+    long: "",
+    names: ["Piqua"]
+  },
+  {
+    id: "piqua-founding",
+    name: "Piqua founding",
+    lat: 40.1448,
+    lng: -84.2424,
+    radius: 1400,
+    short: "Laid out after Greenville on ground that already had a name. Piqua is Shawnee. Washington and then Miami County. A river town that kept the older word.",
+    long: "",
+    names: ["Piqua"]
+  },
+  {
+    id: "piqua-canal",
+    name: "Piqua canal and river",
+    lat: 40.1448,
+    lng: -84.2424,
+    radius: 1500,
+    short: "Great Miami and the Miami and Erie Canal. Hydraulic race. Woolens and later mills. The 1913 flood hit this bend hard. Conservancy dams are why downtown still sits here.",
+    long: "",
+    names: ["Great Miami River", "Miami and Erie Canal"]
+  },
+  {
+    id: "piqua-johnston",
+    name: "Johnston Farm",
+    lat: 40.1640,
+    lng: -84.2420,
+    radius: 700,
+    short: "John Johnston was the Indian agent. His farm north of town is a state historic site. Canal lock, farm, and the place where federal policy met the Miami valley in person.",
+    long: "",
+    names: ["John Johnston"]
+  },
+  {
+    id: "piqua-parks",
+    name: "Piqua parks",
+    lat: 40.1448,
+    lng: -84.2424,
+    radius: 1400,
+    short: "Echo Hills and the river green. A mill town that kept the bend public after the water tried to take it.",
+    long: "",
+    names: ["Piqua"]
+  },
+  {
+    id: "piqua-native",
+    name: "Piqua Native ground",
+    lat: 40.1448,
+    lng: -84.2424,
+    radius: 2000,
+    short: "Piqua towns of the Shawnee stood on this river. Clark burned villages in the Revolution's western war. The name outlasted the towns. This is not an imported label.",
+    long: "",
+    names: ["Shawnee"]
+  },
+  {
+    id: "piqua-war",
+    name: "Fort Piqua",
+    lat: 40.1448,
+    lng: -84.2424,
+    radius: 900,
+    short: "Fort Piqua and the later military posts sat on this crossing. Wayne's road north used the Miami. The downtown fort site is under later brick. The farm tells it cleaner.",
+    long: "",
+    names: ["Fort Piqua"]
+  },
+  {
+    id: "piqua-legend",
+    name: "Piqua name",
+    lat: 40.1448,
+    lng: -84.2424,
+    radius: 1200,
+    short: "Ask what Piqua means and you will get three answers and a shrug. The legend worth keeping is simpler: the town kept a Shawnee name on purpose while it built a canal city on top.",
+    long: "",
+    names: ["Piqua"]
+  },
+
+  {
+    id: "approach-troy-oh",
+    name: "Troy Ohio",
+    lat: 40.0392,
+    lng: -84.2033,
+    radius: 7000,
+    layer: "approach",
+    short: "You are coming up on Troy. Miami County seat. Courthouse square on the Great Miami. Canal brick. If you drop downtown, I'll start at the square.",
+    long: "",
+    names: ["Troy"]
+  },
+  {
+    id: "troy-founding",
+    name: "Troy founding",
+    lat: 40.0392,
+    lng: -84.2033,
+    radius: 1400,
+    short: "Platted 1807 as the county seat. Named for Troy. A square town on a bend of the Great Miami between Piqua and Dayton.",
+    long: "",
+    names: ["Troy"]
+  },
+  {
+    id: "troy-canal",
+    name: "Troy canal and river",
+    lat: 40.0392,
+    lng: -84.2033,
+    radius: 1500,
+    short: "Miami and Erie Canal and the river. Mills, then foundries. The 1913 flood wrecked the low streets. The square sits just high enough.",
+    long: "",
+    names: ["Great Miami River", "Miami and Erie Canal"]
+  },
+  {
+    id: "troy-courthouse",
+    name: "Miami County Courthouse Troy",
+    lat: 40.0392,
+    lng: -84.2033,
+    radius: 400,
+    short: "Miami County Courthouse on the square. Second Empire stone. The civic room of a river county. Hobart and the shops paid for what the canal started.",
+    long: "",
+    names: ["Miami County Courthouse"]
+  },
+  {
+    id: "troy-parks",
+    name: "Troy parks",
+    lat: 40.0392,
+    lng: -84.2033,
+    radius: 1400,
+    short: "Treasure Island and the river levee parks. A county seat that put picnic ground on the water that used to drown it.",
+    long: "",
+    names: ["Treasure Island"]
+  },
+  {
+    id: "troy-native",
+    name: "Troy Native ground",
+    lat: 40.0392,
+    lng: -84.2033,
+    radius: 1800,
+    short: "Same Miami-Shawnee river as Piqua. Greenville opened the paper. The square is the replacement town.",
+    long: "",
+    names: ["Great Miami River"]
+  },
+  {
+    id: "troy-war",
+    name: "Troy war",
+    lat: 40.0392,
+    lng: -84.2033,
+    radius: 1500,
+    short: "No standing fort on the square. County companies left from here. Wayne's road is the older military line up this valley.",
+    long: "",
+    names: ["Miami County"]
+  },
+  {
+    id: "troy-legend",
+    name: "Troy square",
+    lat: 40.0392,
+    lng: -84.2033,
+    radius: 800,
+    short: "The legend is the square itself. Four sides of brick and a courthouse that still runs the county. People measure the town from those corners.",
+    long: "",
+    names: ["Troy"]
+  },
+
+  {
+    id: "approach-sandusky",
+    name: "Sandusky",
+    lat: 41.4489,
+    lng: -82.7079,
+    radius: 8000,
+    layer: "approach",
+    short: "You are coming up on Sandusky. Lake Erie port on a limestone bay. Johnson's Island prison. Underground Railroad water. Cedar Point on the spit. If you drop downtown, I'll start at the water.",
+    long: "",
+    names: ["Sandusky"]
+  },
+  {
+    id: "sandusky-founding",
+    name: "Sandusky founding",
+    lat: 41.4489,
+    lng: -82.7079,
+    radius: 1400,
+    short: "Laid out on a Wyandot word for the cold water. Portland and then Sandusky. A planned grid on a natural harbor. Erie County seat.",
+    long: "",
+    names: ["Sandusky"]
+  },
+  {
+    id: "sandusky-port",
+    name: "Sandusky port",
+    lat: 41.4489,
+    lng: -82.7079,
+    radius: 1500,
+    short: "Coal, fish, ice, limestone, and lake boats. The railroad hit the water here. Cedar Point began as a shipping and picnic spit, then a park. The bay is the industry.",
+    long: "",
+    names: ["Cedar Point"]
+  },
+  {
+    id: "sandusky-johnson-island",
+    name: "Johnson's Island",
+    lat: 41.4960,
+    lng: -82.7310,
+    radius: 1200,
+    short: "Johnson's Island in the bay held Confederate officers in the Civil War. Cemetery still there. A Union prison on a Great Lake. The water was the wall.",
+    long: "",
+    names: ["Johnson's Island"]
+  },
+  {
+    id: "sandusky-urr",
+    name: "Sandusky Underground Railroad",
+    lat: 41.4489,
+    lng: -82.7079,
+    radius: 1400,
+    short: "Sandusky was an endpoint. Boats to Canada. Second Baptist and the waterfront. Harriet Beecher Stowe used this shore in the story. A lake port that was also an exit.",
+    long: "",
+    names: ["Underground Railroad"]
+  },
+  {
+    id: "sandusky-parks",
+    name: "Sandusky parks",
+    lat: 41.4489,
+    lng: -82.7079,
+    radius: 1500,
+    short: "Shoreline Park and the Battery. Cedar Point is the famous public ground. A city that put its carnival on a sand spit and its dead Confederates on an island.",
+    long: "",
+    names: ["Cedar Point"]
+  },
+  {
+    id: "sandusky-native",
+    name: "Sandusky Native ground",
+    lat: 41.4489,
+    lng: -82.7079,
+    radius: 2000,
+    short: "Wyandot and other lake peoples used this bay. The name is theirs. Perry's victory sat west on the same water. The harbor is older than the grid.",
+    long: "",
+    names: ["Wyandot"]
+  },
+  {
+    id: "sandusky-legend",
+    name: "Cedar Point legend",
+    lat: 41.4860,
+    lng: -82.6870,
+    radius: 1200,
+    short: "The legend is that a shipping peninsula became the roller-coaster capital because the lake needed a crowd. True enough. The older legend is the prison island you can still see from the shore.",
+    long: "",
+    names: ["Cedar Point", "Johnson's Island"]
+  },
+
+  {
+    id: "approach-ashtabula",
+    name: "Ashtabula",
+    lat: 41.8651,
+    lng: -80.7898,
+    radius: 8000,
+    layer: "approach",
+    short: "You are coming up on Ashtabula. River name from the Lenape. Ore docks. Underground Railroad harbor. The 1876 bridge disaster. If you drop downtown, I'll start at the river.",
+    long: "",
+    names: ["Ashtabula"]
+  },
+  {
+    id: "ashtabula-founding",
+    name: "Ashtabula founding",
+    lat: 41.8651,
+    lng: -80.7898,
+    radius: 1400,
+    short: "Western Reserve harbor at the river mouth. The name is usually given as 'river of many fish.' A lake town that existed because ore and timber needed a hole in the shore.",
+    long: "",
+    names: ["Ashtabula"]
+  },
+  {
+    id: "ashtabula-harbor",
+    name: "Ashtabula harbor",
+    lat: 41.8950,
+    lng: -80.7950,
+    radius: 1200,
+    short: "Ashtabula Harbor took ore off the lakes for the Pennsylvania mills. Hulett unloaders. A working river with a lift bridge. The docks were the industry.",
+    long: "",
+    names: ["Ashtabula Harbor"]
+  },
+  {
+    id: "ashtabula-bridge",
+    name: "Ashtabula bridge disaster",
+    lat: 41.8651,
+    lng: -80.7898,
+    radius: 900,
+    short: "December 29, 1876. A Lake Shore train dropped into the gulf when the iron bridge failed. Ninety-two dead. One of the worst bridge wrecks in the country. The town still marks the gulf.",
+    long: "",
+    names: ["Ashtabula bridge disaster"]
+  },
+  {
+    id: "ashtabula-urr",
+    name: "Ashtabula Underground Railroad",
+    lat: 41.8651,
+    lng: -80.7898,
+    radius: 1400,
+    short: "Hubbard House at the harbor was a documented station. Boats to Canada. Another Lake Erie exit like Sandusky. The harbor hid more than ore.",
+    long: "",
+    names: ["Hubbard House"]
+  },
+  {
+    id: "ashtabula-parks",
+    name: "Ashtabula parks",
+    lat: 41.8651,
+    lng: -80.7898,
+    radius: 1400,
+    short: "Walnut Beach and the riverwalk. Finnish and Italian neighborhoods up the bank. A port that kept a beach next to the docks.",
+    long: "",
+    names: ["Walnut Beach"]
+  },
+  {
+    id: "ashtabula-native",
+    name: "Ashtabula Native ground",
+    lat: 41.8651,
+    lng: -80.7898,
+    radius: 2000,
+    short: "The name is Lenape. Erie shore. Same lake road as Conneaut and the Reserve townships. Fish and a mouth before the unloaders.",
+    long: "",
+    names: ["Ashtabula River"]
+  },
+  {
+    id: "ashtabula-legend",
+    name: "Harbor and gulf",
+    lat: 41.8651,
+    lng: -80.7898,
+    radius: 1200,
+    short: "Two legends share the town: the harbor that sent people to Canada, and the bridge that dropped a train. Both are true. The river holds them.",
+    long: "",
+    names: ["Ashtabula"]
+  },
+
+  {
+    id: "approach-zanesville",
+    name: "Zanesville",
+    lat: 39.9403,
+    lng: -82.0132,
+    radius: 8000,
+    layer: "approach",
+    short: "You are coming up on Zanesville. Licking meets the Muskingum. Y-Bridge. Zane's Trace. Pottery. Ohio's capital for two years. If you drop downtown, I'll start at the Y.",
+    long: "",
+    names: ["Zanesville"]
+  },
+  {
+    id: "zanesville-founding",
+    name: "Zanesville founding",
+    lat: 39.9403,
+    lng: -82.0132,
+    radius: 1400,
+    short: "Ebenezer Zane's trace needed a town at this fork. Ebenezer and John McIntire. 1797. Named for Zane. Muskingum County seat. Putnam was the rival village across the river.",
+    long: "",
+    names: ["Ebenezer Zane", "John McIntire"]
+  },
+  {
+    id: "zanesville-y-bridge",
+    name: "Y Bridge",
+    lat: 39.9403,
+    lng: -82.0132,
+    radius: 700,
+    short: "The Y-Bridge stands in the confluence. Three ways at once. National Road and two rivers. People still give directions that sound like a riddle: go to the middle of the bridge and turn left.",
+    long: "",
+    names: ["Y-Bridge"]
+  },
+  {
+    id: "zanesville-capital",
+    name: "Zanesville capital",
+    lat: 39.9403,
+    lng: -82.0132,
+    radius: 1000,
+    short: "Zanesville was Ohio's capital from 1810 to 1812 while Chillicothe and Columbus fought. A two-year capital at a fork. The statehouse left. The Y stayed.",
+    long: "",
+    names: ["Zanesville"]
+  },
+  {
+    id: "zanesville-pottery",
+    name: "Zanesville pottery",
+    lat: 39.9403,
+    lng: -82.0132,
+    radius: 1500,
+    short: "Clay and the river made pottery town. Roseville, Weller, McCoy nearby. Art ware and drain tile. A fork that shipped dishes with the coal.",
+    long: "",
+    names: ["Weller", "Roseville"]
+  },
+  {
+    id: "zanesville-parks",
+    name: "Zanesville parks",
+    lat: 39.9403,
+    lng: -82.0132,
+    radius: 1400,
+    short: "Putnam and the river walks. Two towns on two banks that became one city. The park is the leftover village green.",
+    long: "",
+    names: ["Putnam"]
+  },
+  {
+    id: "zanesville-native",
+    name: "Zanesville Native ground",
+    lat: 39.9403,
+    lng: -82.0132,
+    radius: 2000,
+    short: "Muskingum. Shawnee and other river peoples. The fork was a meeting place before Zane's road. Flint Ridge sits east. Stone and water.",
+    long: "",
+    names: ["Muskingum River", "Licking River"]
+  },
+  {
+    id: "zanesville-legend",
+    name: "Turn left in the middle",
+    lat: 39.9403,
+    lng: -82.0132,
+    radius: 800,
+    short: "The local directions are the legend. Meet me in the middle of the bridge and turn. Only a Y town can say that and mean it.",
+    long: "",
+    names: ["Y-Bridge"]
+  },
+
+  {
+    id: "approach-chillicothe",
+    name: "Chillicothe",
+    lat: 39.3331,
+    lng: -82.9824,
+    radius: 8000,
+    layer: "approach",
+    short: "You are coming up on Chillicothe. First capital of Ohio. Shawnee name. Hopewell earthworks on the Scioto. If you drop downtown, I'll start at the statehouse site.",
+    long: "",
+    names: ["Chillicothe"]
+  },
+  {
+    id: "chillicothe-founding",
+    name: "Chillicothe founding",
+    lat: 39.3331,
+    lng: -82.9824,
+    radius: 1400,
+    short: "Nathaniel Massie platted Chillicothe in 1796. Virginia Military District. First Ohio capital, 1803, and again after Zanesville. The name is Shawnee for a principal town.",
+    long: "",
+    names: ["Nathaniel Massie"]
+  },
+  {
+    id: "chillicothe-capital",
+    name: "First capital",
+    lat: 39.3331,
+    lng: -82.9824,
+    radius: 800,
+    short: "Ohio became a state from this town. The first capitol sat here. Thomas Worthington and the Virginia men. Columbus later took the chair. Chillicothe kept the claim.",
+    long: "",
+    names: ["Thomas Worthington"]
+  },
+  {
+    id: "chillicothe-mounds",
+    name: "Hopewell Chillicothe",
+    lat: 39.3331,
+    lng: -82.9824,
+    radius: 1800,
+    short: "Mound City and the Hopewell culture earthworks sit on this river. Two thousand years of geometry. Adena mansion of Worthington is the later house on the same landscape.",
+    long: "",
+    names: ["Mound City", "Hopewell", "Adena"]
+  },
+  {
+    id: "chillicothe-scioto",
+    name: "Scioto Chillicothe",
+    lat: 39.3331,
+    lng: -82.9824,
+    radius: 1500,
+    short: "The Scioto is why. Paint Creek too. Paper mills later. A valley town on the road from the Ohio River into the middle of the state.",
+    long: "",
+    names: ["Scioto River", "Paint Creek"]
+  },
+  {
+    id: "chillicothe-parks",
+    name: "Chillicothe parks",
+    lat: 39.3331,
+    lng: -82.9824,
+    radius: 1400,
+    short: "Yoctangee Park and the mound grounds. A capital that kept a lake in town and the earthworks at the edge.",
+    long: "",
+    names: ["Yoctangee Park"]
+  },
+  {
+    id: "chillicothe-native-war",
+    name: "Chillicothe Native and war",
+    lat: 39.3331,
+    lng: -82.9824,
+    radius: 2200,
+    short: "Principal Shawnee town stood in this valley. Camp Sherman in the First World War covered the mound field with barracks. The oldest architecture and a modern camp on one river terrace.",
+    long: "",
+    names: ["Shawnee", "Camp Sherman"]
+  },
+  {
+    id: "chillicothe-legend",
+    name: "Chillicothe name",
+    lat: 39.3331,
+    lng: -82.9824,
+    radius: 1200,
+    short: "The legend is that this was already a capital before Ohio had a constitution. Shawnee town, then statehouse, then paper mill. The name never changed to fit the new government.",
+    long: "",
+    names: ["Chillicothe"]
+  },
+
+
+
     ];
 

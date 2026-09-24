@@ -10307,6 +10307,1076 @@ const STORIES = [
     long: "",
     names: ["Black Monday"]
   },
-    
+      {
+    id: "youngstown-lanterman",
+    name: "Lanterman Mill",
+    lat: 41.0725,
+    lng: -80.6885,
+    radius: 500,
+    short: "Lanterman Mill in Mill Creek Park. A working mill on the falls. The park exists because Rogers did not want this gorge turned into more furnace land. Grain first. Steel later. Water the whole time.",
+    long: "",
+    names: ["Lanterman Mill"]
+  },
+  {
+    id: "youngstown-stambaugh",
+    name: "Stambaugh Auditorium",
+    lat: 41.1055,
+    lng: -80.6460,
+    radius: 400,
+    short: "Stambaugh Auditorium, 1926. Steel money built a concert hall on the north hill. Youngstown wanted marble as well as slag.",
+    long: "",
+    names: ["Stambaugh Auditorium"]
+  },
+  {
+    id: "youngstown-ysu",
+    name: "Youngstown State",
+    lat: 41.1050,
+    lng: -80.6475,
+    radius: 600,
+    short: "Youngstown State started as a YMCA night school for mill workers. Wick-Patterson on the hill. A university grown out of shifts.",
+    long: "",
+    names: ["Youngstown State"]
+  },
+  {
+    id: "youngstown-campbell",
+    name: "Campbell Ohio",
+    lat: 41.0756,
+    lng: -80.5762,
+    radius: 1200,
+    short: "Campbell. Named for James Campbell of Sheet and Tube. Company housing against the mills. East of the river. When the works died the town kept the name.",
+    long: "",
+    names: ["Campbell", "James Campbell"]
+  },
+  {
+    id: "youngstown-struthers",
+    name: "Struthers Ohio",
+    lat: 41.0526,
+    lng: -80.6081,
+    radius: 1200,
+    short: "Struthers on the Mahoning. Another mill village. Yellow Creek meets the river here. Furnace towns in a row down the valley.",
+    long: "",
+    names: ["Struthers"]
+  },
+  {
+    id: "youngstown-idora",
+    name: "Idora Park",
+    lat: 41.0760,
+    lng: -80.6700,
+    radius: 700,
+    short: "Idora Park was the steelworkers' amusement ground. Burned 1984. The carousel survived. A vanished park on the south side. Summer for people who worked nights.",
+    long: "",
+    names: ["Idora Park"]
+  },
+{
+    id: "youngstown-brier-hill",
+    name: "Brier Hill",
+    lat: 41.1180,
+    lng: -80.6750,
+    radius: 900,
+    short: "Brier Hill. Italian neighborhood against the mills. Sheet and Tube bought the works here in 1923. Sauce and slag on the same hill. The parish is what lasted.",
+    long: "",
+    names: ["Brier Hill"]
+  },
+  {
+    id: "youngstown-warren",
+    name: "Warren Ohio",
+    lat: 41.2376,
+    lng: -80.8184,
+    radius: 1800,
+    short: "Warren, Trumbull County seat. Older than Youngstown on the same Western Reserve. Packard electric and steel. The valley's other downtown.",
+    long: "",
+    names: ["Warren"]
+  },
+  {
+    id: "youngstown-niles",
+    name: "Niles Ohio",
+    lat: 41.1828,
+    lng: -80.7654,
+    radius: 1400,
+    short: "Niles. William McKinley was born here. Another Mahoning Valley mill town that sent a president to Canton. Birthplace on this river, tomb on that one.",
+    long: "",
+    names: ["Niles", "William McKinley"]
+  },
+  {
+    id: "youngstown-girard",
+    name: "Girard Ohio",
+    lat: 41.1542,
+    lng: -80.7015,
+    radius: 1200,
+    short: "Girard on the Mahoning between Warren and Youngstown. More furnaces in the string. A valley that was one plant with many names.",
+    long: "",
+    names: ["Girard"]
+  },
+  {
+    id: "youngstown-east-youngstown",
+    name: "East Youngstown",
+    lat: 41.0756,
+    lng: -80.5762,
+    radius: 1000,
+    short: "East Youngstown became Campbell after the 1916 strike riots. The name change was supposed to bury the violence. The mills kept the heat.",
+    long: "",
+    names: ["East Youngstown"]
+  },
+  {
+    id: "youngstown-legend-valley",
+    name: "Mahoning Valley",
+    lat: 41.0992,
+    lng: -80.6495,
+    radius: 2000,
+    short: "People here say the valley, not the city. Youngstown, Campbell, Struthers, Warren, Niles. One river of steel. When it stopped, it stopped as a region. That is the story the map still tells.",
+    long: "",
+    names: ["Mahoning Valley"]
+  },
+  {
+    id: "youngstown-brier-hill",
+    name: "Brier Hill",
+    lat: 41.1180,
+    lng: -80.6750,
+    radius: 900,
+    short: "Brier Hill. Italian neighborhood against the mills. Sheet and Tube bought the works here in 1923. Sauce and slag on the same hill. The parish is what lasted.",
+    long: "",
+    names: ["Brier Hill"]
+  },
+  {
+    id: "youngstown-warren",
+    name: "Warren Ohio",
+    lat: 41.2376,
+    lng: -80.8184,
+    radius: 1800,
+    short: "Warren, Trumbull County seat. Older than Youngstown on the same Western Reserve. Packard electric and steel. The valley's other downtown.",
+    long: "",
+    names: ["Warren"]
+  },
+  {
+    id: "youngstown-niles",
+    name: "Niles Ohio",
+    lat: 41.1828,
+    lng: -80.7654,
+    radius: 1400,
+    short: "Niles. William McKinley was born here. Another Mahoning Valley mill town that sent a president to Canton. Birthplace on this river, tomb on that one.",
+    long: "",
+    names: ["Niles", "William McKinley"]
+  },
+  {
+    id: "youngstown-girard",
+    name: "Girard Ohio",
+    lat: 41.1542,
+    lng: -80.7015,
+    radius: 1200,
+    short: "Girard on the Mahoning between Warren and Youngstown. More furnaces in the string. A valley that was one plant with many names.",
+    long: "",
+    names: ["Girard"]
+  },
+  {
+    id: "youngstown-east-youngstown",
+    name: "East Youngstown",
+    lat: 41.0756,
+    lng: -80.5762,
+    radius: 1000,
+    short: "East Youngstown became Campbell after the 1916 strike riots. The name change was supposed to bury the violence. The mills kept the heat.",
+    long: "",
+    names: ["East Youngstown"]
+  },
+  {
+    id: "youngstown-legend-valley",
+    name: "Mahoning Valley",
+    lat: 41.0992,
+    lng: -80.6495,
+    radius: 2000,
+    short: "People here say the valley, not the city. Youngstown, Campbell, Struthers, Warren, Niles. One river of steel. When it stopped, it stopped as a region. That is the story the map still tells.",
+    long: "",
+    names: ["Mahoning Valley"]
+  },
+  {
+    id: "approach-lorain",
+    name: "Lorain",
+    lat: 41.4528,
+    lng: -82.1824,
+    radius: 8000,
+    layer: "approach",
+    short: "You are coming up on Lorain. Mouth of the Black River on Lake Erie. Ships and steel. The 1924 tornado came off the lake and tore downtown in minutes. If you drop into town, I'll start at the river mouth.",
+    long: "",
+    names: ["Lorain"]
+  },
+  {
+    id: "lorain-founding",
+    name: "Lorain founding",
+    lat: 41.4528,
+    lng: -82.1824,
+    radius: 1400,
+    short: "First called the mouth of Black River. Then Charleston. Then Lorain, for the French region. A lake port where a small river meets Erie. Connecticut Western Reserve on a working shore.",
+    long: "",
+    names: ["Black River"]
+  },
+  {
+    id: "lorain-ships-steel",
+    name: "Lorain shipyard and steel",
+    lat: 41.4730,
+    lng: -82.1730,
+    radius: 1200,
+    short: "American Shipbuilding put a steel yard on this river in the 1890s. Ore boats for the lakes. The steel mill took the south bank. Lorain built the hulls that hauled the ore that fed the mill.",
+    long: "",
+    names: ["American Shipbuilding"]
+  },
+  {
+    id: "lorain-tornado",
+    name: "Lorain tornado 1924",
+    lat: 41.4678,
+    lng: -82.1764,
+    radius: 900,
+    short: "June 28, 1924, just after five. A tornado came off the lake through downtown. Seventy-eight dead. Fifteen in the State Theatre. Deadliest tornado in Ohio. The shipyard and five hundred houses went with it.",
+    long: "",
+    names: ["Lorain tornado"]
+  },
+  {
+    id: "lorain-lighthouse",
+    name: "Lorain lighthouse",
+    lat: 41.4770,
+    lng: -82.1835,
+    radius: 600,
+    short: "Lorain West Breakwater Light. The harbor mouth. Saved from demolition and kept as the jewel of the port. A working light on a working river.",
+    long: "",
+    names: ["Lorain Lighthouse"]
+  },
+  {
+    id: "lorain-people-parks",
+    name: "Lorain people and parks",
+    lat: 41.4528,
+    lng: -82.1824,
+    radius: 1600,
+    short: "Admiral Ernest King, commander of the U.S. fleet in the Second World War, was born here. Lakeview Park is the beach the tornado first hit. A port that sent a sailor to run the whole navy.",
+    long: "",
+    names: ["Ernest King", "Lakeview Park"]
+  },
+  {
+    id: "lorain-native",
+    name: "Lorain Native ground",
+    lat: 41.4528,
+    lng: -82.1824,
+    radius: 2000,
+    short: "Erie and then Ottawa used this river mouth. The Black River was a small door into the reserve. Settlement waited on the lake trade.",
+    long: "",
+    names: ["Black River"]
+  },
+  {
+    id: "lorain-legend",
+    name: "Lorain Palace",
+    lat: 41.4645,
+    lng: -82.1790,
+    radius: 400,
+    short: "Lorain Palace Theatre opened 1928, after the tornado, with a huge pipe organ and the claim of first talking picture in Ohio. A city that rebuilt a stage where the last one had killed fifteen people.",
+    long: "",
+    names: ["Lorain Palace"]
+  },
+      {
+    id: "lorain-elyria",
+    name: "Elyria Ohio",
+    lat: 41.3684,
+    lng: -82.1076,
+    radius: 1600,
+    short: "Elyria, county seat, inland on the Black River forks. Heman Ely named it for himself. Cascade Park in the gorge. Lorain took the lake. Elyria kept the courthouse.",
+    long: "",
+    names: ["Elyria", "Heman Ely"]
+  },
+  {
+    id: "lorain-sheffield",
+    name: "Sheffield Lorain County",
+    lat: 41.4212,
+    lng: -82.0960,
+    radius: 1400,
+    short: "Sheffield was next in the 1924 tornado's path after downtown Lorain. Farms then suburbs on the same lake plain. The storm did not stop at the city line.",
+    long: "",
+    names: ["Sheffield"]
+  },
+  {
+    id: "lorain-avon",
+    name: "Avon Ohio",
+    lat: 41.4517,
+    lng: -82.0354,
+    radius: 1400,
+    short: "Avon, also hit minutes after Lorain that Saturday. Western Reserve township that became a suburb. The tornado is still the story old families tell first.",
+    long: "",
+    names: ["Avon"]
+  },
+  {
+    id: "lorain-lakeview",
+    name: "Lakeview Park Lorain",
+    lat: 41.4720,
+    lng: -82.1980,
+    radius: 700,
+    short: "Lakeview Park. Bathhouse and beach. The 1924 tornado came ashore here first. Rose garden later. A park that remembers a sky.",
+    long: "",
+    names: ["Lakeview Park"]
+  },
+  {
+    id: "lorain-mill",
+    name: "Lorain steel mill",
+    lat: 41.4400,
+    lng: -82.1370,
+    radius: 1200,
+    short: "The steelworks on the east side of the river employed generations. National Tube, then U.S. Steel. Ore off the lake, heat on the bank. The stacks defined the skyline more than the lighthouse.",
+    long: "",
+    names: ["National Tube"]
+  },
+  {
+    id: "lorain-admiral-king",
+    name: "Admiral King birthplace",
+    lat: 41.4528,
+    lng: -82.1824,
+    radius: 1400,
+    short: "Ernest J. King was born in Lorain in 1878. He ran the U.S. Navy in the Second World War. A lake-port boy who ended up directing fleets. The high school still carries his name.",
+    long: "",
+    names: ["Ernest J. King"]
+  },
+      {
+    id: "approach-hamilton",
+    name: "Hamilton",
+    lat: 39.3997,
+    lng: -84.5613,
+    radius: 8000,
+    layer: "approach",
+    short: "You are coming up on Hamilton. Fort Hamilton, 1791, named for Alexander Hamilton. St. Clair and Wayne used this ford on the Great Miami. Paper mills and a hydraulic canal later. If you drop downtown, I'll start at the monument.",
+    long: "",
+    names: ["Hamilton", "Fort Hamilton"]
+  },
+  {
+    id: "hamilton-fort",
+    name: "Fort Hamilton",
+    lat: 39.3990,
+    lng: -84.5610,
+    radius: 600,
+    short: "Fort Hamilton went up in 1791 on this ford. Supply post for St. Clair, then Wayne. Named for the Treasury secretary. The Soldiers, Sailors and Pioneers Monument sits on the footprint. The last piece of stockade died in the 1913 flood.",
+    long: "",
+    names: ["Fort Hamilton", "Alexander Hamilton"]
+  },
+  {
+    id: "hamilton-hydraulic",
+    name: "Hamilton Hydraulic",
+    lat: 39.4050,
+    lng: -84.5600,
+    radius: 1000,
+    short: "Hamilton Hydraulic, 1845. A dam and race brought Great Miami water into town as factory power. Beckett Paper and then Champion. A city that dug its own canal to become a mill town.",
+    long: "",
+    names: ["Hamilton Hydraulic"]
+  },
+  {
+    id: "hamilton-champion",
+    name: "Champion Paper",
+    lat: 39.4100,
+    lng: -84.5680,
+    radius: 800,
+    short: "Peter G. Thomson opened Champion here in 1894. By 1910 it was called the largest coated-paper mill in the world. Hamilton's smell was pulp. The river took the waste. The sheets went everywhere.",
+    long: "",
+    names: ["Champion Paper", "Peter G. Thomson"]
+  },
+  {
+    id: "hamilton-rossville",
+    name: "Rossville Hamilton",
+    lat: 39.4010,
+    lng: -84.5685,
+    radius: 700,
+    short: "Rossville was the town on the west bank. Hamilton was the east. They merged. Two river villages that became one county seat. The bridge is the argument that ended.",
+    long: "",
+    names: ["Rossville"]
+  },
+  {
+    id: "hamilton-native-war",
+    name: "Hamilton Native and war",
+    lat: 39.3997,
+    lng: -84.5613,
+    radius: 2000,
+    short: "This ford mattered before the fort. Miami and Shawnee used the Great Miami. St. Clair marched north from here toward disaster. Wayne used the same road toward Fallen Timbers. The monument is a war marker on a crossing.",
+    long: "",
+    names: ["Great Miami River"]
+  },
+  {
+    id: "hamilton-flood",
+    name: "Hamilton 1913 flood",
+    lat: 39.3997,
+    lng: -84.5613,
+    radius: 1600,
+    short: "The 1913 flood wrecked Hamilton the way it wrecked Dayton. The fort remnant washed out. Paper mills took water they did not want. Conservancy dams later put a lid on the Miami.",
+    long: "",
+    names: ["1913 flood"]
+  },
+  {
+    id: "hamilton-legend",
+    name: "Hamilton High Street",
+    lat: 39.3997,
+    lng: -84.5613,
+    radius: 800,
+    short: "High Street is the old spine. German shops and mill money. Locals still argue whether they live in a paper town or a fort town. Both are true. The river decides.",
+    long: "",
+    names: ["Hamilton"]
+  },
+  {
+    id: "hamilton-courthouse",
+    name: "Butler County Courthouse",
+    lat: 39.3995,
+    lng: -84.5618,
+    radius: 400,
+    short: "Butler County Courthouse on High Street. County named for Richard Butler, fallen in St. Clair's defeat. The seat sits on the fort's town. Paper and law on the same square.",
+    long: "",
+    names: ["Butler County Courthouse"]
+  },
+  {
+    id: "hamilton-monument",
+    name: "Soldiers Sailors Pioneers Monument",
+    lat: 39.3988,
+    lng: -84.5608,
+    radius: 400,
+    short: "Limestone tower on the fort site. Civil War veterans paid for it. You are standing where pack trains left for the woods in 1791.",
+    long: "",
+    names: ["Soldiers Sailors and Pioneers Monument"]
+  },
+  {
+    id: "hamilton-fairfield",
+    name: "Fairfield Ohio",
+    lat: 39.3459,
+    lng: -84.5605,
+    radius: 1600,
+    short: "Fairfield south of Hamilton. Farm township that became a suburb of both Hamilton and Cincinnati. Same Miami valley. Different pace.",
+    long: "",
+    names: ["Fairfield"]
+  },
+  {
+    id: "hamilton-oxford",
+    name: "Oxford Ohio",
+    lat: 39.5070,
+    lng: -84.7452,
+    radius: 1600,
+    short: "Oxford. Miami University, 1809. Upham and the uptown brick. A college town on the western edge of the old fort's county. Students where Wayne's road once ran.",
+    long: "",
+    names: ["Oxford", "Miami University"]
+  },
+  {
+    id: "hamilton-seven-mile",
+    name: "Seven Mile Creek",
+    lat: 39.4200,
+    lng: -84.5550,
+    radius: 1200,
+    short: "Seven Mile Creek feeds the hydraulic and the west side. Champion used this drainage. A small stream with a factory on it.",
+    long: "",
+    names: ["Seven Mile Creek"]
+  },
+  {
+    id: "hamilton-beckett",
+    name: "Beckett Paper",
+    lat: 39.4020,
+    lng: -84.5550,
+    radius: 700,
+    short: "Beckett Paper came with the hydraulic in the late 1840s. Before Champion. Fine paper from river power. Hamilton was a paper town before it was a Champion town.",
+    long: "",
+    names: ["Beckett Paper"]
+  },
+      {
+    id: "approach-springfield-oh",
+    name: "Springfield Ohio",
+    lat: 39.9242,
+    lng: -83.8088,
+    radius: 8000,
+    layer: "approach",
+    short: "You are coming up on Springfield. James Demint, 1801. End of the National Road for a decade. Reapers, International Harvester, Wittenberg. 4-H started in this county. If you drop downtown, I'll start at the pike.",
+    long: "",
+    names: ["Springfield"]
+  },
+  {
+    id: "springfield-founding",
+    name: "Springfield founding",
+    lat: 39.9242,
+    lng: -83.8088,
+    radius: 1400,
+    short: "James Demint of Kentucky platted this town in 1801 and borrowed the name from Massachusetts. Clark County seat by two votes over New Boston. Mad River country on the way west.",
+    long: "",
+    names: ["James Demint"]
+  },
+  {
+    id: "springfield-national-road",
+    name: "National Road Springfield",
+    lat: 39.9242,
+    lng: -83.8088,
+    radius: 1500,
+    short: "The National Road reached Springfield in 1838 and stopped. Town at the End of the Pike. Jackson finally sent it west to Richmond, Indiana. For ten years this was the edge of the federal road.",
+    long: "",
+    names: ["National Road"]
+  },
+  {
+    id: "springfield-harvester",
+    name: "International Harvester Springfield",
+    lat: 39.9242,
+    lng: -83.8088,
+    radius: 1600,
+    short: "William Whiteley built a self-raking reaper here. Warder, Bushnell and Glessner became Champion, then International Harvester. Trucks still leave this town under the Navistar name. Champion City was farm iron.",
+    long: "",
+    names: ["International Harvester", "William Whiteley"]
+  },
+  {
+    id: "springfield-4h",
+    name: "4-H origin Springfield",
+    lat: 39.9242,
+    lng: -83.8088,
+    radius: 1400,
+    short: "A.B. Graham started a Boys' and Girls' Agricultural Club in this township in 1902. That club became 4-H. A school superintendent and a county that grew more than corn.",
+    long: "",
+    names: ["A.B. Graham", "4-H"]
+  },
+  {
+    id: "springfield-wittenberg",
+    name: "Wittenberg University",
+    lat: 39.9375,
+    lng: -83.8147,
+    radius: 600,
+    short: "Wittenberg, 1845. German Lutheran college on the north hill. A farm-equipment city that also kept a campus.",
+    long: "",
+    names: ["Wittenberg"]
+  },
+  {
+    id: "springfield-clark",
+    name: "George Rogers Clark Park",
+    lat: 39.9100,
+    lng: -83.8700,
+    radius: 1200,
+    short: "George Rogers Clark Park west of town. Clark took this ground in the Revolution's western war. Piqua villages of the Shawnee stood near here. The county is named for him.",
+    long: "",
+    names: ["George Rogers Clark"]
+  },
+  {
+    id: "springfield-legend",
+    name: "Rose City Springfield",
+    lat: 39.9242,
+    lng: -83.8088,
+    radius: 1400,
+    short: "Springfield called itself the City of Roses and the Home City. Nursery stock and a town that sold itself as gentle while it built reapers. Both nicknames stuck. The steel did too.",
+    long: "",
+    names: ["Springfield"]
+  },
+  {
+    id: "springfield-buck-creek",
+    name: "Buck Creek Springfield",
+    lat: 39.9300,
+    lng: -83.7900,
+    radius: 1000,
+    short: "Buck Creek cuts downtown and feeds the reservoir east of town. Mill water. Park water. The small stream under the Champion City.",
+    long: "",
+    names: ["Buck Creek"]
+  },
+  {
+    id: "springfield-snyder",
+    name: "Snyder Park",
+    lat: 39.9350,
+    lng: -83.8300,
+    radius: 800,
+    short: "Snyder Park. Gift of the Snyder brothers who made money in the city. West side green along the creek. A factory town that kept a park with a name on the gate.",
+    long: "",
+    names: ["Snyder Park"]
+  },
+  {
+    id: "springfield-crowell",
+    name: "Crowell Collier",
+    lat: 39.9242,
+    lng: -83.8088,
+    radius: 1000,
+    short: "Crowell-Collier printed magazines in Springfield. Woman's Home Companion and Collier's. A farm-tool city that also bound paper. The presses are gone. The nickname Home City is leftover ink.",
+    long: "",
+    names: ["Crowell-Collier"]
+  },
+  {
+    id: "springfield-heritage",
+    name: "Clark County Heritage Center",
+    lat: 39.9245,
+    lng: -83.8095,
+    radius: 400,
+    short: "Old City Hall is now the Heritage Center. Market Street stone. The county keeps its story in the building that used to run the town.",
+    long: "",
+    names: ["Clark County Heritage Center"]
+  },
+  {
+    id: "springfield-urbana-road",
+    name: "Mad River Springfield",
+    lat: 39.9400,
+    lng: -83.7800,
+    radius: 1400,
+    short: "The Mad River runs north of town toward Dayton. Same water that meets the Miami there. Springfield sits on the upper fork of Dayton's flood.",
+    long: "",
+    names: ["Mad River"]
+  },
+  {
+    id: "springfield-legend-pike",
+    name: "End of the Pike",
+    lat: 39.9242,
+    lng: -83.8088,
+    radius: 1200,
+    short: "Teamsters used to dump freight here when the National Road quit. Taverns and wagon shops. The legend is that Springfield got rich by being in the way. That is fair.",
+    long: "",
+    names: ["National Road"]
+  },
+ {
+    id: "approach-kettering",
+    name: "Kettering",
+    lat: 39.6895,
+    lng: -84.1688,
+    radius: 6000,
+    layer: "approach",
+    short: "You are coming up on Kettering. Named for Charles Kettering, the man who made cars start without a crank. Delco and Frigidaire money on Dayton's south hill. If you drop into town, I'll start with the inventor.",
+    long: "",
+    names: ["Kettering", "Charles Kettering"]
+  },
+  {
+    id: "kettering-founding",
+    name: "Kettering founding",
+    lat: 39.6895,
+    lng: -84.1688,
+    radius: 1400,
+    short: "This was Van Buren Township until the postwar boom. Became a city in 1955 and took Kettering's name. Oakwood sits next door where Orville Wright lived. A suburb named for a barn inventor.",
+    long: "",
+    names: ["Van Buren Township"]
+  },
+  {
+    id: "kettering-delco",
+    name: "Delco Kettering",
+    lat: 39.6895,
+    lng: -84.1688,
+    radius: 1600,
+    short: "Dayton Engineering Laboratories Company. Kettering and Deeds. The self-starter, then farm lighting, then Frigidaire. The jobs that filled these streets came off those benches.",
+    long: "",
+    names: ["Delco", "Edward A. Deeds"]
+  },
+  {
+    id: "kettering-people-parks",
+    name: "Kettering parks",
+    lat: 39.6895,
+    lng: -84.1688,
+    radius: 1600,
+    short: "Lincoln Park and the Fraze Pavilion are the civic rooms. A hill suburb with no river of its own. Dayton's four rivers are north. This town bought elevation instead.",
+    long: "",
+    names: ["Fraze Pavilion"]
+  },
+  {
+    id: "kettering-native",
+    name: "Kettering Native ground",
+    lat: 39.6895,
+    lng: -84.1688,
+    radius: 1800,
+    short: "Same Shawnee and Miami ground as Dayton. Greenville opened it. No fort on this ridge. Farms, then lots.",
+    long: "",
+    names: ["Treaty of Greenville"]
+  },
+  {
+    id: "kettering-war",
+    name: "Kettering war work",
+    lat: 39.6895,
+    lng: -84.1688,
+    radius: 1600,
+    short: "Wright Field and the Delco plants pulled this ridge into the world wars. Engineering suburbs. The starter that began as a car part became a war-industry town.",
+    long: "",
+    names: ["Wright Field"]
+  },
+  {
+    id: "kettering-legend",
+    name: "Boss Ket",
+    lat: 39.6895,
+    lng: -84.1688,
+    radius: 1400,
+    short: "They called him Boss Ket. Farm boy, barn lab, thousand patents. The legend is that one man named a city because he hated cranking a car in the cold. Close enough.",
+    long: "",
+    names: ["Charles Kettering"]
+  }
+  {
+    id: "approach-lakewood",
+    name: "Lakewood",
+    lat: 41.4820,
+    lng: -81.7980,
+    radius: 5000,
+    layer: "approach",
+    short: "You are coming up on Lakewood. Cleveland's west-side lake suburb. Rocky River on one edge. Clifton on the other. Streetcar city that filled in first. If you drop into town, I'll start at the lake.",
+    long: "",
+    names: ["Lakewood"]
+  },
+  {
+    id: "lakewood-founding",
+    name: "Lakewood founding",
+    lat: 41.4820,
+    lng: -81.7980,
+    radius: 1200,
+    short: "East Rockport township, then Lakewood. James Nicholson and other Western Reserve farmers. Became a city when the streetcars made it possible to live on the lake and work downtown.",
+    long: "",
+    names: ["East Rockport"]
+  },
+  {
+    id: "lakewood-rocky-river",
+    name: "Rocky River valley Lakewood",
+    lat: 41.4820,
+    lng: -81.8300,
+    radius: 1000,
+    short: "The Rocky River gorge is the west wall. Clifton Park and the lagoons sit on the old estate lots. A suburb with a canyon.",
+    long: "",
+    names: ["Rocky River"]
+  },
+  {
+    id: "lakewood-clifton",
+    name: "Clifton Park",
+    lat: 41.4900,
+    lng: -81.8250,
+    radius: 700,
+    short: "Clifton Park. Gilded-age lots on the lake and the river mouth. Private streets that tried to stay a resort while Cleveland grew around them.",
+    long: "",
+    names: ["Clifton Park"]
+  },
+  {
+    id: "lakewood-park",
+    name: "Lakewood Park",
+    lat: 41.4945,
+    lng: -81.7970,
+    radius: 600,
+    short: "Lakewood Park on the bluff. Bandstand and a drop to Erie. The public piece of a private lake shore.",
+    long: "",
+    names: ["Lakewood Park"]
+  },
+  {
+    id: "lakewood-people-war",
+    name: "Lakewood people",
+    lat: 41.4820,
+    lng: -81.7980,
+    radius: 1400,
+    short: "Dense brick and double-family houses after 1910. A streetcar suburb that sent men to two wars from the same porches. No mill of its own. Cleveland's bedroom with a beach.",
+    long: "",
+    names: ["Lakewood"]
+  },
+  {
+    id: "lakewood-native",
+    name: "Lakewood Native ground",
+    lat: 41.4820,
+    lng: -81.7980,
+    radius: 1600,
+    short: "Erie shore and Rocky River mouth. Same Native lake road as Edgewater and the Angle. Farms on a trail that became Clifton and Detroit Road.",
+    long: "",
+    names: ["Rocky River"]
+  },
+  {
+    id: "lakewood-legend",
+    name: "Lakewood legend",
+    lat: 41.4820,
+    lng: -81.7980,
+    radius: 1200,
+    short: "Smallest big city in the county by acre, crowded on purpose. The legend is that Lakewood never wanted to be Cleveland and never wanted to be country. The lots still say so.",
+    long: "",
+    names: ["Lakewood"]
+  },
+ {
+    id: "approach-mentor",
+    name: "Mentor",
+    lat: 41.6664,
+    lng: -81.3396,
+    radius: 7000,
+    layer: "approach",
+    short: "You are coming up on Mentor. James A. Garfield's farm, Lawnfield. Headlands Beach and the marsh. Western Reserve lake town that sent a president to Cleveland's cemetery. If you drop into town, I'll start at the house.",
+    long: "",
+    names: ["Mentor", "James A. Garfield"]
+  },
+  {
+    id: "mentor-lawnfield",
+    name: "Lawnfield",
+    lat: 41.6635,
+    lng: -81.3510,
+    radius: 600,
+    short: "Lawnfield. Garfield bought this farm and ran another front-porch campaign from it in 1880. Shot the next year. The house is a national historic site. Mentor's porch. Canton's porch was McKinley. Ohio kept doing this.",
+    long: "",
+    names: ["Lawnfield", "James A. Garfield"]
+  },
+  {
+    id: "mentor-founding",
+    name: "Mentor founding",
+    lat: 41.6664,
+    lng: -81.3396,
+    radius: 1400,
+    short: "Named for Mentor of the Odyssey, a Western Reserve fashion. Farms and vineyards on the lake plain. Became a city when Cleveland's east side spilled out Route 20.",
+    long: "",
+    names: ["Mentor"]
+  },
+  {
+    id: "mentor-headlands",
+    name: "Headlands Beach",
+    lat: 41.7440,
+    lng: -81.2900,
+    radius: 1000,
+    short: "Headlands Beach State Park. Longest natural sand beach in Ohio. Fairport Harbor next door. The lake that Garfield could not see from the porch is this one.",
+    long: "",
+    names: ["Headlands Beach"]
+  },
+  {
+    id: "mentor-marsh",
+    name: "Mentor Marsh",
+    lat: 41.7260,
+    lng: -81.3200,
+    radius: 1200,
+    short: "Mentor Marsh. An old river mouth the lake sealed off. A wet wilderness inside a suburb. The Reserve kept one swamp on purpose.",
+    long: "",
+    names: ["Mentor Marsh"]
+  },
+  {
+    id: "mentor-native-war",
+    name: "Mentor Native and war",
+    lat: 41.6664,
+    lng: -81.3396,
+    radius: 1800,
+    short: "Erie shore. Same lake trail as Cleveland's east side. Garfield left this farm as a Civil War general and came back as a candidate. The war is in the house, not in a fort.",
+    long: "",
+    names: ["James A. Garfield"]
+  },
+  {
+    id: "mentor-legend",
+    name: "Mentor legend",
+    lat: 41.6664,
+    lng: -81.3396,
+    radius: 1200,
+    short: "People still call it Garfield's town first and a mall town second. Lawnfield is the reason the name travels. The beach is the reason people stay.",
+    long: "",
+    names: ["Lawnfield"]
+  },
+
+  {
+    id: "approach-middletown",
+    name: "Middletown",
+    lat: 39.5150,
+    lng: -84.3983,
+    radius: 7000,
+    layer: "approach",
+    short: "You are coming up on Middletown. Midway on the Miami between Dayton and Cincinnati. Armco steel and paper. Canal town that became a mill town. If you drop downtown, I'll start at the river.",
+    long: "",
+    names: ["Middletown"]
+  },
+  {
+    id: "middletown-founding",
+    name: "Middletown founding",
+    lat: 39.5150,
+    lng: -84.3983,
+    radius: 1400,
+    short: "Stephen Vail and others platted Middletown in 1802 on the Great Miami. Named because it sat in the middle of the river road. Miami and Erie Canal later locked it into the Cincinnati-Dayton trade.",
+    long: "",
+    names: ["Stephen Vail"]
+  },
+  {
+    id: "middletown-armco",
+    name: "Armco Middletown",
+    lat: 39.5150,
+    lng: -84.3983,
+    radius: 1600,
+    short: "American Rolling Mill Company, Armco, put a steelworks here. George M. Verity. The mill is why the town grew past the canal. Smoke on the Miami. Still a steel name on the map.",
+    long: "",
+    names: ["Armco", "George M. Verity"]
+  },
+  {
+    id: "middletown-paper",
+    name: "Middletown paper",
+    lat: 39.5150,
+    lng: -84.3983,
+    radius: 1400,
+    short: "Sorg and the other paper mills used the same river as Hamilton's Champion. Coated sheets and newsprint. A Miami valley habit: turn water into paper and steel.",
+    long: "",
+    names: ["Sorg Paper"]
+  },
+  {
+    id: "middletown-canal",
+    name: "Middletown canal",
+    lat: 39.5150,
+    lng: -84.3983,
+    radius: 1200,
+    short: "Miami and Erie ran through town. Locks and a basin. Before Armco this was a boat town. After Armco the canal was a ditch beside a mill.",
+    long: "",
+    names: ["Miami and Erie Canal"]
+  },
+  {
+    id: "middletown-people-parks",
+    name: "Middletown parks",
+    lat: 39.5150,
+    lng: -84.3983,
+    radius: 1500,
+    short: "Smith Park and the river levee are the civic green. 1913 flood hit here too. Conservancy dams saved the second century. A mill town with a high bank.",
+    long: "",
+    names: ["Smith Park"]
+  },
+  {
+    id: "middletown-native-war",
+    name: "Middletown Native ground",
+    lat: 39.5150,
+    lng: -84.3983,
+    radius: 1800,
+    short: "Great Miami corridor. Shawnee and Miami hunting ground. Same valley as Fort Hamilton and Dayton. Settlement after Greenville. No fort of its own. A middle crossing.",
+    long: "",
+    names: ["Great Miami River"]
+  },
+  {
+    id: "middletown-legend",
+    name: "Middletown name",
+    lat: 39.5150,
+    lng: -84.3983,
+    radius: 1200,
+    short: "The joke is that Middletown is always in the middle of someone else's story. Dayton's river. Cincinnati's canal. Armco's mill. True enough. The town is the interval.",
+    long: "",
+    names: ["Middletown"]
+  },
+      {
+    id: "approach-newark",
+    name: "Newark",
+    lat: 40.0581,
+    lng: -82.4013,
+    radius: 8000,
+    layer: "approach",
+    short: "You are coming up on Newark. Licking River. Hopewell earthworks that still humble the courthouse. Ohio and Erie feeder. If you drop into town, I'll start at the mounds.",
+    long: "",
+    names: ["Newark"]
+  },
+  {
+    id: "newark-earthworks",
+    name: "Newark Earthworks",
+    lat: 40.0405,
+    lng: -82.4460,
+    radius: 1200,
+    short: "Newark Earthworks. Great Circle, Octagon, Wright Earthworks. Hopewell, two thousand years back. Largest geometric earthwork complex in the world. A golf club still plays inside the Octagon. The oldest architecture in Ohio is here.",
+    long: "",
+    names: ["Newark Earthworks", "Hopewell"]
+  },
+  {
+    id: "newark-founding",
+    name: "Newark founding",
+    lat: 40.0581,
+    lng: -82.4013,
+    radius: 1400,
+    short: "William C. Schenck and others platted Newark in 1802 on the Licking. Named for Newark, New Jersey. County seat. Canal later. The mounds were already here when the plat was drawn.",
+    long: "",
+    names: ["William C. Schenck"]
+  },
+  {
+    id: "newark-canal",
+    name: "Newark canal",
+    lat: 40.0581,
+    lng: -82.4013,
+    radius: 1200,
+    short: "Ohio and Erie feeder and the Licking Reservoir, now Buckeye Lake. Newark sat on the cut that tied the interior to Cleveland's lake. Boats before rails.",
+    long: "",
+    names: ["Ohio and Erie Canal", "Buckeye Lake"]
+  },
+  {
+    id: "newark-courthouse",
+    name: "Licking County Courthouse",
+    lat: 40.0581,
+    lng: -82.4013,
+    radius: 400,
+    short: "Licking County Courthouse on the square. Second Empire stone. The county is named for the river, the river for salt licks the animals used. Law on a lick.",
+    long: "",
+    names: ["Licking County Courthouse"]
+  },
+  {
+    id: "newark-people-parks",
+    name: "Newark parks and people",
+    lat: 40.0581,
+    lng: -82.4013,
+    radius: 1500,
+    short: "Moundbuilders Country Club is the uneasy neighbor of the Octagon. Dawes Arboretum sits south. A county that kept trees and earthworks in the same breath as glass and insurance.",
+    long: "",
+    names: ["Dawes Arboretum"]
+  },
+  {
+    id: "newark-war",
+    name: "Newark war",
+    lat: 40.0581,
+    lng: -82.4013,
+    radius: 1600,
+    short: "No fort on the square. Licking County sent Civil War companies like every Ohio county seat. The real war story here is older: who kept the circles and who farmed over them.",
+    long: "",
+    names: ["Newark Earthworks"]
+  },
+  {
+    id: "newark-legend",
+    name: "Great Circle",
+    lat: 40.0405,
+    lng: -82.4460,
+    radius: 800,
+    short: "Walk the Great Circle and the town noise drops. People still argue whether it was ceremony, calendar, or both. The legend is that Newark was a city before it had a name. The walls agree.",
+    long: "",
+    names: ["Great Circle"]
+  },
+  {
+    id: "approach-mansfield",
+    name: "Mansfield",
+    lat: 40.7584,
+    lng: -82.5154,
+    radius: 8000,
+    layer: "approach",
+    short: "You are coming up on Mansfield. Blockhouse town on the divide. Johnny Appleseed walked these streets. The Reformatory on the hill is the building everyone films. If you drop downtown, I'll start at the square.",
+    long: "",
+    names: ["Mansfield"]
+  },
+  {
+    id: "mansfield-founding",
+    name: "Mansfield founding",
+    lat: 40.7584,
+    lng: -82.5154,
+    radius: 1400,
+    short: "Jacob Newman, Joseph H. Larwill, and James Hedges platted Mansfield in 1808. Named for Jared Mansfield, surveyor of the United States. Richland County seat on a watershed.",
+    long: "",
+    names: ["Jared Mansfield"]
+  },
+  {
+    id: "mansfield-blockhouse",
+    name: "Mansfield blockhouse",
+    lat: 40.7584,
+    lng: -82.5154,
+    radius: 600,
+    short: "A War of 1812 blockhouse stood on the square. Copy now sits in South Park. Johnny Appleseed ran to Mount Vernon for powder when the alarm went up. A frontier county seat that expected trouble from the north.",
+    long: "",
+    names: ["Mansfield blockhouse"]
+  },
+  {
+    id: "mansfield-appleseed",
+    name: "Johnny Appleseed Mansfield",
+    lat: 40.7584,
+    lng: -82.5154,
+    radius: 1500,
+    short: "John Chapman, Johnny Appleseed, kept a nursery and a reputation here. Swedenborgian barefoot nurseryman. He is in more Ohio towns than any general. Mansfield is one of the places that can prove he stayed.",
+    long: "",
+    names: ["Johnny Appleseed", "John Chapman"]
+  },
+  {
+    id: "mansfield-reformatory",
+    name: "Ohio State Reformatory",
+    lat: 40.7845,
+    lng: -82.5020,
+    radius: 700,
+    short: "Ohio State Reformatory, 1896. Levi Scofield, same architect as Cleveland's Soldiers and Sailors Monument. The Shawshank prison on film. A Gothic castle for young men the state wanted to remake.",
+    long: "",
+    names: ["Ohio State Reformatory", "Levi Scofield"]
+  },
+  {
+    id: "mansfield-industry",
+    name: "Mansfield industry",
+    lat: 40.7584,
+    lng: -82.5154,
+    radius: 1600,
+    short: "Westinghouse, Tappan stoves, steel. A shop town on the B&O and the Erie. The square sold what the plants made. Richland County iron under a pretty name.",
+    long: "",
+    names: ["Westinghouse", "Tappan"]
+  },
+  {
+    id: "mansfield-native",
+    name: "Mansfield Native ground",
+    lat: 40.7584,
+    lng: -82.5154,
+    radius: 1800,
+    short: "Wyandot and Delaware hunting ground on the divide between Lake Erie and the Ohio. Greenville opened it. The blockhouse was the argument that the opening was not finished.",
+    long: "",
+    names: ["Wyandot"]
+  },
+  {
+    id: "mansfield-legend",
+    name: "Shawshank Mansfield",
+    lat: 40.7845,
+    lng: -82.5020,
+    radius: 800,
+    short: "People come for a movie and find a real prison. That is the new legend. The old one is Appleseed and a wooden fort on the square. Both are true. The castle on the hill photographs better.",
+    long: "",
+    names: ["Ohio State Reformatory"]
+  },
+
     ];
 

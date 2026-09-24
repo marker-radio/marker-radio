@@ -19154,6 +19154,3537 @@ const STORIES = [
     long: "",
     names: ["West Farmington"]
   },
+  {
+    id: "approach-bristolville",
+    name: "Bristolville",
+    lat: 41.3862,
+    lng: -80.8690,
+    radius: 4000,
+    layer: "approach",
+    short: "You are coming up on Bristolville. Crossroads in Bristol Township, north of Warren. If you drop in, I'll start on the corners.",
+    long: "",
+    names: ["Bristolville"]
+  },
+  {
+    id: "bristolville-founding",
+    name: "Bristolville founding",
+    lat: 41.3862,
+    lng: -80.8690,
+    radius: 1200,
+    short: "The village center of Bristol Township. A Western Reserve farm crossing that kept the township name on a few stores and a hall.",
+    long: "",
+    names: ["Bristol Township"]
+  },
+  {
+    id: "bristolville-roads",
+    name: "Bristolville roads",
+    lat: 41.3862,
+    lng: -80.8690,
+    radius: 1400,
+    short: "State routes crossing farm sections. No river port and no mill stack. The industry here was the road and the acre.",
+    long: "",
+    names: ["Bristolville"]
+  },
+  {
+    id: "bristolville-parks",
+    name: "Bristolville parks",
+    lat: 41.3862,
+    lng: -80.8690,
+    radius: 1200,
+    short: "The township park and the school green. A lawn at the corners instead of a downtown block.",
+    long: "",
+    names: ["Bristolville"]
+  },
+  {
+    id: "bristolville-people",
+    name: "Bristolville people",
+    lat: 41.3862,
+    lng: -80.8690,
+    radius: 1200,
+    short: "Farm families and later Warren commuters. People here still say township before they say city.",
+    long: "",
+    names: ["Bristolville"]
+  },
+  {
+    id: "bristolville-native",
+    name: "Bristolville Native ground",
+    lat: 41.3862,
+    lng: -80.8690,
+    radius: 1600,
+    short: "Grand River and Mahoning divide. Hunting ground before the Reserve lots.",
+    long: "",
+    names: ["Bristolville"]
+  },
+  {
+    id: "bristolville-war",
+    name: "Bristolville war",
+    lat: 41.3862,
+    lng: -80.8690,
+    radius: 1400,
+    short: "No fort. Township men left from these corners. The later work was Warren's mills, not a battery here.",
+    long: "",
+    names: ["Bristolville"]
+  },
+  {
+    id: "bristolville-legend",
+    name: "The corners",
+    lat: 41.3862,
+    lng: -80.8690,
+    radius: 1000,
+    short: "The legend is that Bristolville is four corners and a memory. Miss the stop and you missed the town.",
+    long: "",
+    names: ["Bristolville"]
+  },
+
+  {
+    id: "approach-mesopotamia-oh",
+    name: "Mesopotamia Ohio",
+    lat: 41.4584,
+    lng: -80.9501,
+    radius: 4000,
+    layer: "approach",
+    short: "You are coming up on Mesopotamia. Township with the old-world name in northern Trumbull. Amish farms and Grand River headwaters. If you drop in, I'll start on the corners.",
+    long: "",
+    names: ["Mesopotamia"]
+  },
+  {
+    id: "mesopotamia-founding",
+    name: "Mesopotamia founding",
+    lat: 41.4584,
+    lng: -80.9501,
+    radius: 1400,
+    short: "Named Mesopotamia for the land between waters. A Western Reserve township that stayed rural. The name is the story. The streets never grew into a city.",
+    long: "",
+    names: ["Mesopotamia"]
+  },
+  {
+    id: "mesopotamia-amish",
+    name: "Mesopotamia Amish country",
+    lat: 41.4584,
+    lng: -80.9501,
+    radius: 1800,
+    short: "This is one of Trumbull's Amish and plain-farm townships. Buggies on the same sections as the Reserve lots. The economy is still the acre.",
+    long: "",
+    names: ["Mesopotamia"]
+  },
+  {
+    id: "mesopotamia-river",
+    name: "Mesopotamia waters",
+    lat: 41.4584,
+    lng: -80.9501,
+    radius: 1800,
+    short: "Grand River headwater country. Creeks between the ridges. That is why the proprietors reached for the old name.",
+    long: "",
+    names: ["Grand River"]
+  },
+  {
+    id: "mesopotamia-parks",
+    name: "Mesopotamia parks",
+    lat: 41.4584,
+    lng: -80.9501,
+    radius: 1400,
+    short: "Township greens and the cemetery lot. Open land is the park here.",
+    long: "",
+    names: ["Mesopotamia"]
+  },
+  {
+    id: "mesopotamia-native",
+    name: "Mesopotamia Native ground",
+    lat: 41.4584,
+    lng: -80.9501,
+    radius: 1800,
+    short: "Headwater hunting ground before the lots. The creeks were the roads.",
+    long: "",
+    names: ["Grand River"]
+  },
+  {
+    id: "mesopotamia-war",
+    name: "Mesopotamia war",
+    lat: 41.4584,
+    lng: -80.9501,
+    radius: 1500,
+    short: "No fort. Township men left from here. The later story is the farm, not a mill or a battery.",
+    long: "",
+    names: ["Mesopotamia"]
+  },
+  {
+    id: "mesopotamia-legend",
+    name: "Between the waters",
+    lat: 41.4584,
+    lng: -80.9501,
+    radius: 1000,
+    short: "The legend is the name. People from outside laugh at Mesopotamia, Ohio. People who live here just say they live between the creeks.",
+    long: "",
+    names: ["Mesopotamia"]
+  },
+
+  {
+    id: "approach-north-bloomfield",
+    name: "North Bloomfield",
+    lat: 41.4595,
+    lng: -80.8695,
+    radius: 4000,
+    layer: "approach",
+    short: "You are coming up on North Bloomfield. Crossroads in Bloomfield Township. If you drop in, I'll start on the corners.",
+    long: "",
+    names: ["North Bloomfield"]
+  },
+  {
+    id: "north-bloomfield-founding",
+    name: "North Bloomfield founding",
+    lat: 41.4595,
+    lng: -80.8695,
+    radius: 1200,
+    short: "The north village of Bloomfield Township. A Western Reserve farm center. Bloomfield is the township. North Bloomfield is the sign.",
+    long: "",
+    names: ["Bloomfield Township"]
+  },
+  {
+    id: "north-bloomfield-roads",
+    name: "North Bloomfield roads",
+    lat: 41.4595,
+    lng: -80.8695,
+    radius: 1400,
+    short: "State routes on the old section lines. No canal port. The work was the farm and the crossing.",
+    long: "",
+    names: ["North Bloomfield"]
+  },
+  {
+    id: "north-bloomfield-parks",
+    name: "North Bloomfield parks",
+    lat: 41.4595,
+    lng: -80.8695,
+    radius: 1200,
+    short: "Township park and the school green. A lawn at the corners.",
+    long: "",
+    names: ["North Bloomfield"]
+  },
+  {
+    id: "north-bloomfield-people",
+    name: "North Bloomfield people",
+    lat: 41.4595,
+    lng: -80.8695,
+    radius: 1200,
+    short: "Farm families and later commuters. A township village that never needed a second downtown.",
+    long: "",
+    names: ["North Bloomfield"]
+  },
+  {
+    id: "north-bloomfield-native",
+    name: "North Bloomfield Native ground",
+    lat: 41.4595,
+    lng: -80.8695,
+    radius: 1600,
+    short: "Grand River and Mahoning divide. Hunting ground before the lots.",
+    long: "",
+    names: ["North Bloomfield"]
+  },
+  {
+    id: "north-bloomfield-war",
+    name: "North Bloomfield war",
+    lat: 41.4595,
+    lng: -80.8695,
+    radius: 1400,
+    short: "No fort. Township men left from these corners with the same county companies as Warren.",
+    long: "",
+    names: ["North Bloomfield"]
+  },
+  {
+    id: "north-bloomfield-legend",
+    name: "North of Bloomfield",
+    lat: 41.4595,
+    lng: -80.8695,
+    radius: 1000,
+    short: "The legend is the compass word. People still argue whether they live in Bloomfield or North Bloomfield. The post office picked a side.",
+    long: "",
+    names: ["North Bloomfield"]
+  },
+
+  {
+    id: "approach-greene-oh",
+    name: "Greene Ohio",
+    lat: 41.4580,
+    lng: -80.7600,
+    radius: 4000,
+    layer: "approach",
+    short: "You are coming up on Greene. Township in northern Trumbull. Farm sections and a hall. If you drop in, I'll start on the corners.",
+    long: "",
+    names: ["Greene"]
+  },
+  {
+    id: "greene-founding",
+    name: "Greene founding",
+    lat: 41.4580,
+    lng: -80.7600,
+    radius: 1400,
+    short: "Greene Township on the Western Reserve. Named in the Revolutionary style. A farm grid that never became a city.",
+    long: "",
+    names: ["Greene Township"]
+  },
+  {
+    id: "greene-farms",
+    name: "Greene farms",
+    lat: 41.4580,
+    lng: -80.7600,
+    radius: 1600,
+    short: "The industry is the acre. Dairy and grain on the old lots. No mill stack and no river port.",
+    long: "",
+    names: ["Greene"]
+  },
+  {
+    id: "greene-parks",
+    name: "Greene parks",
+    lat: 41.4580,
+    lng: -80.7600,
+    radius: 1400,
+    short: "Township hall lawn and the cemetery green. Open land is the park.",
+    long: "",
+    names: ["Greene"]
+  },
+  {
+    id: "greene-people",
+    name: "Greene people",
+    lat: 41.4580,
+    lng: -80.7600,
+    radius: 1400,
+    short: "Farm families who still say township first. Later commuters toward Warren and the airport road.",
+    long: "",
+    names: ["Greene"]
+  },
+  {
+    id: "greene-native",
+    name: "Greene Native ground",
+    lat: 41.4580,
+    lng: -80.7600,
+    radius: 1800,
+    short: "Upland hunting ground before the Reserve lots. The creeks run toward the Grand and the Mahoning.",
+    long: "",
+    names: ["Greene"]
+  },
+  {
+    id: "greene-war",
+    name: "Greene war",
+    lat: 41.4580,
+    lng: -80.7600,
+    radius: 1500,
+    short: "Named for the war generation. No fort here. Township men left from these sections.",
+    long: "",
+    names: ["Nathanael Greene"]
+  },
+  {
+    id: "greene-legend",
+    name: "Just Greene",
+    lat: 41.4580,
+    lng: -80.7600,
+    radius: 1000,
+    short: "The legend is that there is no town to point at. Greene is the map. The corners are enough.",
+    long: "",
+    names: ["Greene"]
+  },
+
+  {
+    id: "approach-southington-oh",
+    name: "Southington",
+    lat: 41.3084,
+    lng: -80.9506,
+    radius: 4000,
+    layer: "approach",
+    short: "You are coming up on Southington. Township west of Warren. Farm roads and a school. If you drop in, I'll start on the corners.",
+    long: "",
+    names: ["Southington"]
+  },
+  {
+    id: "southington-founding",
+    name: "Southington founding",
+    lat: 41.3084,
+    lng: -80.9506,
+    radius: 1400,
+    short: "Southington Township on the Western Reserve. Named for the Connecticut town. A farm grid that stayed a township.",
+    long: "",
+    names: ["Southington"]
+  },
+  {
+    id: "southington-farms",
+    name: "Southington farms",
+    lat: 41.3084,
+    lng: -80.9506,
+    radius: 1600,
+    short: "The work was the acre and later the road into Warren. No canal basin. No mill city.",
+    long: "",
+    names: ["Southington"]
+  },
+  {
+    id: "southington-parks",
+    name: "Southington parks",
+    lat: 41.3084,
+    lng: -80.9506,
+    radius: 1400,
+    short: "Township park and the school grounds. A lawn instead of a square.",
+    long: "",
+    names: ["Southington"]
+  },
+  {
+    id: "southington-people",
+    name: "Southington people",
+    lat: 41.3084,
+    lng: -80.9506,
+    radius: 1400,
+    short: "Farm families and Warren commuters. People here still name the township before the nearest city.",
+    long: "",
+    names: ["Southington"]
+  },
+  {
+    id: "southington-native",
+    name: "Southington Native ground",
+    lat: 41.3084,
+    lng: -80.9506,
+    radius: 1800,
+    short: "Mahoning upland. Hunting ground before the lots.",
+    long: "",
+    names: ["Southington"]
+  },
+  {
+    id: "southington-war",
+    name: "Southington war",
+    lat: 41.3084,
+    lng: -80.9506,
+    radius: 1500,
+    short: "No fort. Township men left from here with the county companies.",
+    long: "",
+    names: ["Southington"]
+  },
+  {
+    id: "southington-legend",
+    name: "South of the center",
+    lat: 41.3084,
+    lng: -80.9506,
+    radius: 1000,
+    short: "The legend is the name. Southington is not south of a city so much as south on the old Connecticut map. Locals just say they live in the township.",
+    long: "",
+    names: ["Southington"]
+  },
+
+  {
+    id: "approach-fowler-oh",
+    name: "Fowler",
+    lat: 41.3087,
+    lng: -80.6656,
+    radius: 4000,
+    layer: "approach",
+    short: "You are coming up on Fowler. Township east of Cortland toward the Pennsylvania line. If you drop in, I'll start on the corners.",
+    long: "",
+    names: ["Fowler"]
+  },
+  {
+    id: "fowler-founding",
+    name: "Fowler founding",
+    lat: 41.3087,
+    lng: -80.6656,
+    radius: 1400,
+    short: "Fowler Township on the Western Reserve. Named for a proprietor family. A farm grid that never incorporated as a city.",
+    long: "",
+    names: ["Fowler Township"]
+  },
+  {
+    id: "fowler-farms",
+    name: "Fowler farms",
+    lat: 41.3087,
+    lng: -80.6656,
+    radius: 1600,
+    short: "Dairy and grain on the old lots. Later a little line traffic toward Sharon. The acre stayed first.",
+    long: "",
+    names: ["Fowler"]
+  },
+  {
+    id: "fowler-parks",
+    name: "Fowler parks",
+    lat: 41.3087,
+    lng: -80.6656,
+    radius: 1400,
+    short: "Township hall lawn and the cemetery green. Open land is the park.",
+    long: "",
+    names: ["Fowler"]
+  },
+  {
+    id: "fowler-people",
+    name: "Fowler people",
+    lat: 41.3087,
+    lng: -80.6656,
+    radius: 1400,
+    short: "Farm families and later commuters toward Cortland and the valley. A township that still answers to the hall.",
+    long: "",
+    names: ["Fowler"]
+  },
+  {
+    id: "fowler-native",
+    name: "Fowler Native ground",
+    lat: 41.3087,
+    lng: -80.6656,
+    radius: 1800,
+    short: "Upland toward the state line. Hunting ground before the lots.",
+    long: "",
+    names: ["Fowler"]
+  },
+  {
+    id: "fowler-war",
+    name: "Fowler war",
+    lat: 41.3087,
+    lng: -80.6656,
+    radius: 1500,
+    short: "No fort. Township men left from these sections. The later work was the valley mills, not a battery here.",
+    long: "",
+    names: ["Fowler"]
+  },
+  {
+    id: "fowler-legend",
+    name: "Just Fowler",
+    lat: 41.3087,
+    lng: -80.6656,
+    radius: 1000,
+    short: "The legend is that Fowler is easy to miss unless you grew up on the section. The hall is the downtown.",
+    long: "",
+    names: ["Fowler"]
+  },
+
+  {
+    id: "approach-hartford-oh",
+    name: "Hartford Ohio",
+    lat: 41.3089,
+    lng: -80.5673,
+    radius: 4000,
+    layer: "approach",
+    short: "You are coming up on Hartford. Township and village on the Pennsylvania line. If you drop in, I'll start on the corners.",
+    long: "",
+    names: ["Hartford"]
+  },
+  {
+    id: "hartford-founding",
+    name: "Hartford founding",
+    lat: 41.3089,
+    lng: -80.5673,
+    radius: 1400,
+    short: "Hartford Township on the Western Reserve. Named for the Connecticut city. A line township. Ohio by the survey. Pennsylvania by the next farm.",
+    long: "",
+    names: ["Hartford Township"]
+  },
+  {
+    id: "hartford-line",
+    name: "Hartford state line",
+    lat: 41.3089,
+    lng: -80.5673,
+    radius: 1600,
+    short: "The border is the civic fact. People shop in Sharon and vote in Ohio. Orangeville sits in the same township on the creek.",
+    long: "",
+    names: ["Hartford"]
+  },
+  {
+    id: "hartford-parks",
+    name: "Hartford parks",
+    lat: 41.3089,
+    lng: -80.5673,
+    radius: 1400,
+    short: "Village green and township lots. A lawn at the corners.",
+    long: "",
+    names: ["Hartford"]
+  },
+  {
+    id: "hartford-people",
+    name: "Hartford people",
+    lat: 41.3089,
+    lng: -80.5673,
+    radius: 1400,
+    short: "Farm families who cross the line for work and keep the Ohio address. A township that never needed a mill city.",
+    long: "",
+    names: ["Hartford"]
+  },
+  {
+    id: "hartford-native",
+    name: "Hartford Native ground",
+    lat: 41.3089,
+    lng: -80.5673,
+    radius: 1800,
+    short: "Pymatuning and line-country hunting ground before the lots.",
+    long: "",
+    names: ["Hartford"]
+  },
+  {
+    id: "hartford-war",
+    name: "Hartford war",
+    lat: 41.3089,
+    lng: -80.5673,
+    radius: 1500,
+    short: "No fort. Township men left from here. The later federal story is the reservoir to the north, not a battery on these corners.",
+    long: "",
+    names: ["Hartford"]
+  },
+  {
+    id: "hartford-legend",
+    name: "Ohio Hartford",
+    lat: 41.3089,
+    lng: -80.5673,
+    radius: 1000,
+    short: "The legend is that you have to say Ohio. Hartford is a famous name. This one is a quiet line township.",
+    long: "",
+    names: ["Hartford"]
+  },
+
+  {
+    id: "approach-burghill",
+    name: "Burghill",
+    lat: 41.3085,
+    lng: -80.5320,
+    radius: 3500,
+    layer: "approach",
+    short: "You are coming up on Burghill. Hamlet on the Pennsylvania line in Hartford Township. If you drop in, I'll start on the corners.",
+    long: "",
+    names: ["Burghill"]
+  },
+  {
+    id: "burghill-founding",
+    name: "Burghill founding",
+    lat: 41.3085,
+    lng: -80.5320,
+    radius: 1200,
+    short: "A line hamlet in Hartford Township. Named for the rise and the family lots. Never a city. Always a crossing.",
+    long: "",
+    names: ["Burghill"]
+  },
+  {
+    id: "burghill-line",
+    name: "Burghill line",
+    lat: 41.3085,
+    lng: -80.5320,
+    radius: 1400,
+    short: "Ohio on one porch. Pennsylvania on the next. The road is older than the argument about which state the mailbox is in.",
+    long: "",
+    names: ["Burghill"]
+  },
+  {
+    id: "burghill-parks",
+    name: "Burghill parks",
+    lat: 41.3085,
+    lng: -80.5320,
+    radius: 1200,
+    short: "The church lot and the cemetery green. No village park board. The yard is the park.",
+    long: "",
+    names: ["Burghill"]
+  },
+  {
+    id: "burghill-people",
+    name: "Burghill people",
+    lat: 41.3085,
+    lng: -80.5320,
+    radius: 1200,
+    short: "Farm families who work both sides of the line. A hamlet that still answers to Hartford Township.",
+    long: "",
+    names: ["Burghill"]
+  },
+  {
+    id: "burghill-native",
+    name: "Burghill Native ground",
+    lat: 41.3085,
+    lng: -80.5320,
+    radius: 1600,
+    short: "Line-country hunting ground before the lots. Pymatuning drainage to the north.",
+    long: "",
+    names: ["Burghill"]
+  },
+  {
+    id: "burghill-war",
+    name: "Burghill war",
+    lat: 41.3085,
+    lng: -80.5320,
+    radius: 1400,
+    short: "No fort. Men left from these farms with the township companies.",
+    long: "",
+    names: ["Burghill"]
+  },
+  {
+    id: "burghill-legend",
+    name: "The hill on the line",
+    lat: 41.3085,
+    lng: -80.5320,
+    radius: 1000,
+    short: "The legend is that Burghill is only a name until you miss the turn. Then you know you were on the hill.",
+    long: "",
+    names: ["Burghill"]
+  },
+
+  {
+    id: "approach-vernon-oh",
+    name: "Vernon Ohio",
+    lat: 41.3860,
+    lng: -80.5670,
+    radius: 4000,
+    layer: "approach",
+    short: "You are coming up on Vernon. Township on the Pennsylvania line north of Hartford. If you drop in, I'll start on the corners.",
+    long: "",
+    names: ["Vernon"]
+  },
+  {
+    id: "vernon-founding",
+    name: "Vernon founding",
+    lat: 41.3860,
+    lng: -80.5670,
+    radius: 1400,
+    short: "Vernon Township on the Western Reserve. Named in the old English style. A line township that stayed farms and a hall.",
+    long: "",
+    names: ["Vernon Township"]
+  },
+  {
+    id: "vernon-line",
+    name: "Vernon state line",
+    lat: 41.3860,
+    lng: -80.5670,
+    radius: 1600,
+    short: "The border is the civic fact. Work in Pennsylvania. Vote in Ohio. Pymatuning water is the north neighbor.",
+    long: "",
+    names: ["Vernon"]
+  },
+  {
+    id: "vernon-parks",
+    name: "Vernon parks",
+    lat: 41.3860,
+    lng: -80.5670,
+    radius: 1400,
+    short: "Township lots and the cemetery green. Open land is the park.",
+    long: "",
+    names: ["Vernon"]
+  },
+  {
+    id: "vernon-people",
+    name: "Vernon people",
+    lat: 41.3860,
+    lng: -80.5670,
+    radius: 1400,
+    short: "Farm families who cross the line for a paycheck and keep the Ohio address.",
+    long: "",
+    names: ["Vernon"]
+  },
+  {
+    id: "vernon-native",
+    name: "Vernon Native ground",
+    lat: 41.3860,
+    lng: -80.5670,
+    radius: 1800,
+    short: "Pymatuning country. Hunting ground before the lots.",
+    long: "",
+    names: ["Pymatuning"]
+  },
+  {
+    id: "vernon-war",
+    name: "Vernon war",
+    lat: 41.3860,
+    lng: -80.5670,
+    radius: 1500,
+    short: "No fort. Township men left from these sections. The later federal story is the reservoir, not a battery here.",
+    long: "",
+    names: ["Vernon"]
+  },
+  {
+    id: "vernon-legend",
+    name: "Ohio Vernon",
+    lat: 41.3860,
+    lng: -80.5670,
+    radius: 1000,
+    short: "The legend is that you have to say Ohio. Vernon is a common name. This one is a quiet line township.",
+    long: "",
+    names: ["Vernon"]
+  },
+
+  {
+    id: "approach-orangeville-oh",
+    name: "Orangeville Ohio",
+    lat: 41.3401,
+    lng: -80.5217,
+    radius: 3500,
+    layer: "approach",
+    short: "You are coming up on Orangeville. Tiny village on Pymatuning Creek at the Pennsylvania line. If you drop in, I'll start on the bridge.",
+    long: "",
+    names: ["Orangeville"]
+  },
+  {
+    id: "orangeville-founding",
+    name: "Orangeville founding",
+    lat: 41.3401,
+    lng: -80.5217,
+    radius: 1100,
+    short: "A creek village in Hartford Township. Named in the orchard style. Ohio by the survey. Pennsylvania by the next porch.",
+    long: "",
+    names: ["Orangeville"]
+  },
+  {
+    id: "orangeville-creek",
+    name: "Pymatuning Creek at Orangeville",
+    lat: 41.3401,
+    lng: -80.5217,
+    radius: 1400,
+    short: "The creek is the reason the hamlet exists. Water, a mill site, and a line crossing. Pymatuning Reservoir is the later lake to the north.",
+    long: "",
+    names: ["Pymatuning Creek"]
+  },
+  {
+    id: "orangeville-parks",
+    name: "Orangeville parks",
+    lat: 41.3401,
+    lng: -80.5217,
+    radius: 1100,
+    short: "The creek bank and the cemetery lot. No city park board. The water is the park.",
+    long: "",
+    names: ["Orangeville"]
+  },
+  {
+    id: "orangeville-people",
+    name: "Orangeville people",
+    lat: 41.3401,
+    lng: -80.5217,
+    radius: 1100,
+    short: "A handful of families on both sides of the line. The village is small enough that everybody already knows the story.",
+    long: "",
+    names: ["Orangeville"]
+  },
+  {
+    id: "orangeville-native",
+    name: "Orangeville Native ground",
+    lat: 41.3401,
+    lng: -80.5217,
+    radius: 1600,
+    short: "Pymatuning drainage. Hunting and fishing ground before the lots.",
+    long: "",
+    names: ["Pymatuning"]
+  },
+  {
+    id: "orangeville-war",
+    name: "Orangeville war",
+    lat: 41.3401,
+    lng: -80.5217,
+    radius: 1300,
+    short: "No fort. Men left from these farms. The later federal work is the reservoir, not a battery on this creek.",
+    long: "",
+    names: ["Orangeville"]
+  },
+  {
+    id: "orangeville-legend",
+    name: "The line village",
+    lat: 41.3401,
+    lng: -80.5217,
+    radius: 900,
+    short: "The legend is that Orangeville is two towns if you blink. One mailbox in Ohio. One in Pennsylvania. The creek does not care.",
+    long: "",
+    names: ["Orangeville"]
+  },
+
+  {
+    id: "approach-dayton",
+    name: "Dayton",
+    lat: 39.7589,
+    lng: -84.1916,
+    radius: 8000,
+    layer: "approach",
+    short: "You are coming up on Dayton. Miami River city. Wright brothers. National Cash Register. Air Force country. If you drop in, I'll start downtown.",
+    long: "",
+    names: ["Dayton"]
+  },
+  {
+    id: "dayton-founding",
+    name: "Dayton founding",
+    lat: 39.7589,
+    lng: -84.1916,
+    radius: 1800,
+    short: "Platted in 1796 at the confluence of the Great Miami, Mad, and Stillwater. Named for Jonathan Dayton, a signer who never lived here. The rivers made the town before the factories did.",
+    long: "",
+    names: ["Jonathan Dayton", "Great Miami River"]
+  },
+  {
+    id: "dayton-miami",
+    name: "Great Miami River",
+    lat: 39.7610,
+    lng: -84.1980,
+    radius: 2000,
+    short: "The Great Miami is why Dayton exists. Three rivers meet here. Floods built the later conservative city. The 1913 flood almost erased downtown. The dams after that are part of the civic religion.",
+    long: "",
+    names: ["Great Miami River", "1913 flood"]
+  },
+  {
+    id: "dayton-canal",
+    name: "Miami and Erie Canal Dayton",
+    lat: 39.7580,
+    lng: -84.1910,
+    radius: 1600,
+    short: "The Miami and Erie Canal put Dayton on the state water road. Warehouses on the basin. Boats before the railroad. The ditch is gone. The warehouse streets are still downtown.",
+    long: "",
+    names: ["Miami and Erie Canal"]
+  },
+  {
+    id: "dayton-ncr",
+    name: "National Cash Register",
+    lat: 39.7430,
+    lng: -84.1900,
+    radius: 1600,
+    short: "John H. Patterson built National Cash Register here. The machine that taught American stores to count. NCR made Dayton an office-machine city long before computers had a name.",
+    long: "",
+    names: ["John H. Patterson", "NCR"]
+  },
+  {
+    id: "dayton-wright",
+    name: "Wright brothers Dayton",
+    lat: 39.7540,
+    lng: -84.2100,
+    radius: 1800,
+    short: "Wilbur and Orville Wright ran a bicycle shop in Dayton and taught the world to fly. Huffman Prairie is east of town. The house and shop stories are west. This is still Wright country even when the planes live at Wright-Patterson.",
+    long: "",
+    names: ["Wilbur Wright", "Orville Wright"]
+  },
+  {
+    id: "dayton-wright-patterson",
+    name: "Wright-Patterson Air Force Base",
+    lat: 39.8260,
+    lng: -84.0480,
+    radius: 4000,
+    short: "Wright-Patterson is the later empire. Air Force research, the museum, and the payroll that still holds the region when factories close.",
+    long: "",
+    names: ["Wright-Patterson"]
+  },
+  {
+    id: "dayton-oregon-district",
+    name: "Oregon District",
+    lat: 39.7570,
+    lng: -84.1830,
+    radius: 900,
+    short: "The Oregon District is Dayton's oldest surviving neighborhood. Brick streets east of downtown. The name is older than the bars.",
+    long: "",
+    names: ["Oregon District"]
+  },
+
+  {
+    id: "dayton-1913-flood",
+    name: "1913 flood",
+    lat: 39.7589,
+    lng: -84.1916,
+    radius: 2000,
+    short: "Easter 1913. The rivers came over the levees. Downtown drowned. Out of the wreck John H. Patterson and the city built the Miami Conservancy District. The dry dams still sit on the tributaries.",
+    long: "",
+    names: ["1913 flood", "Miami Conservancy District"]
+  },
+  {
+    id: "dayton-courthouse",
+    name: "Old Courthouse Dayton",
+    lat: 39.7586,
+    lng: -84.1917,
+    radius: 700,
+    short: "The Old Courthouse on Third. Greek Revival limestone. Lincoln spoke from these steps. The county still treats the square as the civic center even when the new courts moved.",
+    long: "",
+    names: ["Old Courthouse"]
+  },
+  {
+    id: "dayton-dunbar",
+    name: "Paul Laurence Dunbar",
+    lat: 39.7608,
+    lng: -84.2192,
+    radius: 900,
+    short: "Paul Laurence Dunbar grew up in Dayton and became the first widely read African American poet in the country. His house is still on the west side. The Wrights knew the family.",
+    long: "",
+    names: ["Paul Laurence Dunbar"]
+  },
+  {
+    id: "dayton-kettering",
+    name: "Charles Kettering",
+    lat: 39.7589,
+    lng: -84.1916,
+    radius: 1600,
+    short: "Charles Kettering. The self-starter, Delco, and a pile of GM research that started in Dayton barns and labs. Kettering the suburb is named for the same man.",
+    long: "",
+    names: ["Charles Kettering", "Delco"]
+  },
+  {
+    id: "dayton-deeds",
+    name: "Edward Deeds",
+    lat: 39.7589,
+    lng: -84.1916,
+    radius: 1600,
+    short: "Colonel Edward Deeds. NCR, Delco, and the money that helped turn bicycle Dayton into an engineering city.",
+    long: "",
+    names: ["Edward Deeds"]
+  },
+  {
+    id: "dayton-carillon",
+    name: "Carillon Historical Park",
+    lat: 39.7330,
+    lng: -84.2010,
+    radius: 1200,
+    short: "Carillon Historical Park holds the Wright story, the Deeds Carillon, and the machines that made Dayton. If you only stop once for the civic memory, this is the stop.",
+    long: "",
+    names: ["Carillon Historical Park"]
+  },
+  {
+    id: "dayton-riverscape",
+    name: "Riverscape",
+    lat: 39.7640,
+    lng: -84.1910,
+    radius: 1100,
+    short: "Riverscape is the modern park on the Great Miami downtown. The river that flooded the city is now the front lawn.",
+    long: "",
+    names: ["Riverscape"]
+  },
+  {
+    id: "dayton-native",
+    name: "Dayton Native ground",
+    lat: 39.7589,
+    lng: -84.1916,
+    radius: 2200,
+    short: "Shawnee and Miami country at the three-river meeting. The portage and the hunting ground were here before the 1796 plat.",
+    long: "",
+    names: ["Shawnee", "Miami"]
+  },
+
+  {
+    id: "dayton-huffman-prairie",
+    name: "Huffman Prairie",
+    lat: 39.8056,
+    lng: -84.0597,
+    radius: 1800,
+    short: "Huffman Prairie. The cow pasture east of town where the Wrights learned to stay in the air. The hangar replica still sits on the field inside the base approach.",
+    long: "",
+    names: ["Huffman Prairie"]
+  },
+  {
+    id: "dayton-aviation-heritage",
+    name: "Dayton Aviation Heritage",
+    lat: 39.7540,
+    lng: -84.2100,
+    radius: 1600,
+    short: "The national park sites stitch the bicycle shop, the Wright house, Huffman Prairie, and Dunbar into one aviation story. Dayton claims the invention. The park is how they keep the claim on the ground.",
+    long: "",
+    names: ["Dayton Aviation Heritage"]
+  },
+  {
+    id: "dayton-war",
+    name: "Dayton war",
+    lat: 39.7589,
+    lng: -84.1916,
+    radius: 2000,
+    short: "No Revolutionary fort downtown. The later war story is Wright Field, Patterson Field, and the Air Force city that grew after 1917. Depot and research, not a river redoubt.",
+    long: "",
+    names: ["Wright Field"]
+  },
+  {
+    id: "dayton-packards",
+    name: "Dayton-Wright and the factories",
+    lat: 39.7500,
+    lng: -84.2000,
+    radius: 1800,
+    short: "Dayton built more than cash registers. Carriages, then cars, then aircraft parts. The industrial west and south sides still show the mill and the rail spur.",
+    long: "",
+    names: ["Dayton"]
+  },
+  {
+    id: "dayton-west-side",
+    name: "West Dayton",
+    lat: 39.7580,
+    lng: -84.2200,
+    radius: 1500,
+    short: "West Dayton is Dunbar's neighborhood and a long Black civic core. Churches, the house museum, and the streets that carried the city's other half of the story.",
+    long: "",
+    names: ["West Dayton"]
+  },
+  {
+    id: "dayton-ud",
+    name: "University of Dayton",
+    lat: 39.7400,
+    lng: -84.1790,
+    radius: 1200,
+    short: "The University of Dayton. Marianist school on the south edge of downtown. A civic employer that outlasted a lot of the factories.",
+    long: "",
+    names: ["University of Dayton"]
+  },
+  {
+    id: "dayton-legend-flood",
+    name: "The city that refused the river",
+    lat: 39.7589,
+    lng: -84.1916,
+    radius: 1600,
+    short: "The local legend is that Dayton should have died in 1913 and did not. People still talk about the flood the way other towns talk about a war.",
+    long: "",
+    names: ["1913 flood"]
+  },
+  {
+    id: "dayton-legend-first-flight",
+    name: "First in flight argument",
+    lat: 39.7589,
+    lng: -84.1916,
+    radius: 1600,
+    short: "The other legend is the argument with North Carolina. Kitty Hawk had the sand. Dayton had the shop, the prairie, and the years of work. Locals will tell you which one counts.",
+    long: "",
+    names: ["Wright brothers"]
+  },
+
+  {
+    id: "dayton-arcade",
+    name: "Dayton Arcade",
+    lat: 39.7596,
+    lng: -84.1935,
+    radius: 700,
+    short: "The Arcade. A 1904 market hall with a glass dome. Dead for years. Brought back as the city's stubborn downtown room.",
+    long: "",
+    names: ["Dayton Arcade"]
+  },
+  {
+    id: "dayton-victoria",
+    name: "Victoria Theatre",
+    lat: 39.7582,
+    lng: -84.1930,
+    radius: 700,
+    short: "The Victoria Theatre. 1866 house, rebuilt after fire. The stage downtown that outlasted the department stores.",
+    long: "",
+    names: ["Victoria Theatre"]
+  },
+  {
+    id: "dayton-field",
+    name: "Dayton Dragons field",
+    lat: 39.7638,
+    lng: -84.2013,
+    radius: 900,
+    short: "The ballpark on the river. Minor league nights on ground that used to flood. The modern civic picnic.",
+    long: "",
+    names: ["Dayton Dragons"]
+  },
+  {
+    id: "dayton-mad-river",
+    name: "Mad River",
+    lat: 39.7700,
+    lng: -84.1750,
+    radius: 1800,
+    short: "The Mad River comes in from the east. One of the three that made the town. Wright-Patterson sits on its old floodplain.",
+    long: "",
+    names: ["Mad River"]
+  },
+  {
+    id: "dayton-stillwater",
+    name: "Stillwater River",
+    lat: 39.7800,
+    lng: -84.2050,
+    radius: 1800,
+    short: "The Stillwater comes in from the north. Third river in the confluence. The conservancy dams keep it from repeating 1913.",
+    long: "",
+    names: ["Stillwater River"]
+  },
+  {
+    id: "dayton-woodland",
+    name: "Woodland Cemetery Dayton",
+    lat: 39.7430,
+    lng: -84.1730,
+    radius: 1100,
+    short: "Woodland Cemetery. The Wrights. Dunbar. Patterson. The city's famous names under one hill of trees.",
+    long: "",
+    names: ["Woodland Cemetery"]
+  },
+  {
+    id: "dayton-five-rivers",
+    name: "Five Rivers MetroParks",
+    lat: 39.7589,
+    lng: -84.1916,
+    radius: 2000,
+    short: "Five Rivers MetroParks is the modern public land system. River corridors, prairies, and the idea that the floodplain should be a park instead of another warehouse.",
+    long: "",
+    names: ["Five Rivers MetroParks"]
+  },
+  {
+    id: "dayton-industry-rail",
+    name: "Dayton railroads",
+    lat: 39.7540,
+    lng: -84.1910,
+    radius: 1600,
+    short: "Rail finished what the canal started. Lines to Cincinnati, Toledo, and the east. The yards still sit south and west of downtown.",
+    long: "",
+    names: ["Dayton"]
+  },
+
+  {
+    id: "dayton-patterson-homestead",
+    name: "Patterson Homestead",
+    lat: 39.7390,
+    lng: -84.1890,
+    radius: 1000,
+    short: "The Patterson Homestead. Colonel Robert Patterson helped plat the town. The later NCR fortune grew from the same family name.",
+    long: "",
+    names: ["Robert Patterson"]
+  },
+  {
+    id: "dayton-stivers",
+    name: "Stivers School",
+    lat: 39.7580,
+    lng: -84.1750,
+    radius: 800,
+    short: "Stivers. The old high school that still carries Dayton's performing-arts pride. A civic landmark more than a sports argument.",
+    long: "",
+    names: ["Stivers"]
+  },
+  {
+    id: "dayton-museum-usaf",
+    name: "National Museum of the U.S. Air Force",
+    lat: 39.7817,
+    lng: -84.1106,
+    radius: 2200,
+    short: "The Air Force museum on the edge of Wright-Patterson. Free, huge, and the reason a lot of road-trip families exit I-675. Planes from the Wright era to the black projects.",
+    long: "",
+    names: ["National Museum of the U.S. Air Force"]
+  },
+  {
+    id: "dayton-canals-legacy",
+    name: "Dayton warehouse streets",
+    lat: 39.7560,
+    lng: -84.1940,
+    radius: 1000,
+    short: "The warehouse streets west of Main are the canal and rail leftover. Brick that used to hold cash registers, paper, and freight.",
+    long: "",
+    names: ["Dayton"]
+  },
+  {
+    id: "dayton-people-close",
+    name: "Dayton people",
+    lat: 39.7589,
+    lng: -84.1916,
+    radius: 1800,
+    short: "Inventors, poets, factory hands, and airmen. Dayton's pride is that the bicycle shop and the cash register came from the same river town.",
+    long: "",
+    names: ["Dayton"]
+  },
+  {
+    id: "dayton-parks-close",
+    name: "Dayton parks",
+    lat: 39.7589,
+    lng: -84.1916,
+    radius: 1800,
+    short: "River parks, the Carillon lawn, Woodland hill, and MetroParks prairie. The city that flooded learned to give the water a park instead of another basement.",
+    long: "",
+    names: ["Dayton"]
+  },
+  {
+    id: "dayton-legend-ncr",
+    name: "The cash register city",
+    lat: 39.7589,
+    lng: -84.1916,
+    radius: 1500,
+    short: "The local saying is that Dayton taught the country to count. Patterson's factory methods were as famous as the machine.",
+    long: "",
+    names: ["NCR"]
+  },
+  {
+    id: "dayton-done",
+    name: "Dayton spine",
+    lat: 39.7589,
+    lng: -84.1916,
+    radius: 2000,
+    short: "Rivers, flood, Wrights, NCR, Air Force. That is the Dayton spine. Suburbs and mill towns around it get their own cards next.",
+    long: "",
+    names: ["Dayton"]
+  },
+  {
+    id: "approach-kettering",
+    name: "Kettering",
+    lat: 39.6895,
+    lng: -84.1688,
+    radius: 5000,
+    layer: "approach",
+    short: "You are coming up on Kettering. Dayton's big south suburb. Named for the man who put the starter in the car. If you drop in, I'll start on the hills.",
+    long: "",
+    names: ["Kettering"]
+  },
+  {
+    id: "kettering-founding",
+    name: "Kettering founding",
+    lat: 39.6895,
+    lng: -84.1688,
+    radius: 1600,
+    short: "Farm township south of Dayton that incorporated in 1955 and took Charles Kettering's name. A postwar city built on the hills above the river bottoms.",
+    long: "",
+    names: ["Kettering"]
+  },
+  {
+    id: "kettering-charles",
+    name: "Charles F. Kettering",
+    lat: 39.6895,
+    lng: -84.1688,
+    radius: 1800,
+    short: "Charles Kettering. Self-starter, Delco, and a pile of automotive research. The suburb wears the inventor the way Dayton wears the Wrights.",
+    long: "",
+    names: ["Charles Kettering"]
+  },
+  {
+    id: "kettering-industry",
+    name: "Kettering industry",
+    lat: 39.6895,
+    lng: -84.1688,
+    radius: 1700,
+    short: "Not a mill town. A research and office town that grew with GM, Delco, and the Air Force commute. The factories stayed closer to the river. The houses climbed the ridge.",
+    long: "",
+    names: ["Delco"]
+  },
+  {
+    id: "kettering-parks",
+    name: "Kettering parks",
+    lat: 39.6895,
+    lng: -84.1688,
+    radius: 1500,
+    short: "Lincoln Park, the Fraze Pavilion lawn, and ridge parks looking back toward Dayton. A suburb that spent money on grass.",
+    long: "",
+    names: ["Fraze Pavilion"]
+  },
+  {
+    id: "kettering-people",
+    name: "Kettering people",
+    lat: 39.6895,
+    lng: -84.1688,
+    radius: 1500,
+    short: "Engineers, teachers, and Air Force families. A city that still introduces itself with the inventor's name.",
+    long: "",
+    names: ["Kettering"]
+  },
+  {
+    id: "kettering-native",
+    name: "Kettering Native ground",
+    lat: 39.6895,
+    lng: -84.1688,
+    radius: 2000,
+    short: "Upland above the Great Miami. Shawnee and Miami hunting ground before the farm lots.",
+    long: "",
+    names: ["Shawnee"]
+  },
+  {
+    id: "kettering-war",
+    name: "Kettering war",
+    lat: 39.6895,
+    lng: -84.1688,
+    radius: 1700,
+    short: "No fort on these hills. The later war story is Wright-Patterson to the east and the families who worked the base.",
+    long: "",
+    names: ["Wright-Patterson"]
+  },
+  {
+    id: "kettering-legend",
+    name: "The suburb with a last name",
+    lat: 39.6895,
+    lng: -84.1688,
+    radius: 1200,
+    short: "The local joke is that Kettering sounds like a man, not a town. That is the point. They named the city after the inventor on purpose.",
+    long: "",
+    names: ["Kettering"]
+  },
+
+  {
+    id: "approach-oakwood-oh",
+    name: "Oakwood",
+    lat: 39.7256,
+    lng: -84.1741,
+    radius: 4000,
+    layer: "approach",
+    short: "You are coming up on Oakwood. Small hill city between Dayton and Kettering. Wright house country. If you drop in, I'll start on the ridge.",
+    long: "",
+    names: ["Oakwood"]
+  },
+  {
+    id: "oakwood-founding",
+    name: "Oakwood founding",
+    lat: 39.7256,
+    lng: -84.1741,
+    radius: 1300,
+    short: "Oakwood incorporated in 1908 on the ridge south of Dayton. A streetcar suburb that stayed small on purpose.",
+    long: "",
+    names: ["Oakwood"]
+  },
+  {
+    id: "oakwood-hawthorn",
+    name: "Hawthorn Hill",
+    lat: 39.7206,
+    lng: -84.1764,
+    radius: 800,
+    short: "Hawthorn Hill. Orville Wright's mansion on the Oakwood ridge. The inventor's house looking back at the city that built the bicycle shop.",
+    long: "",
+    names: ["Hawthorn Hill", "Orville Wright"]
+  },
+  {
+    id: "oakwood-parks",
+    name: "Oakwood parks",
+    lat: 39.7256,
+    lng: -84.1741,
+    radius: 1200,
+    short: "Ridge parks and school lawns. A tiny city that treats the hill as the civic green.",
+    long: "",
+    names: ["Oakwood"]
+  },
+  {
+    id: "oakwood-people",
+    name: "Oakwood people",
+    lat: 39.7256,
+    lng: -84.1741,
+    radius: 1200,
+    short: "Professional families and the Wright shadow. Oakwood still introduces itself with the house on the hill.",
+    long: "",
+    names: ["Oakwood"]
+  },
+  {
+    id: "oakwood-native",
+    name: "Oakwood Native ground",
+    lat: 39.7256,
+    lng: -84.1741,
+    radius: 1600,
+    short: "Upland above the Great Miami. Hunting ground before the lots.",
+    long: "",
+    names: ["Oakwood"]
+  },
+  {
+    id: "oakwood-war",
+    name: "Oakwood war",
+    lat: 39.7256,
+    lng: -84.1741,
+    radius: 1400,
+    short: "No fort. The later war story is Wright Field over the river and the families who worked it.",
+    long: "",
+    names: ["Oakwood"]
+  },
+  {
+    id: "oakwood-legend",
+    name: "The hill that stayed small",
+    lat: 39.7256,
+    lng: -84.1741,
+    radius: 1000,
+    short: "The legend is that Oakwood refused to become Kettering. Small on purpose. The Wright house is the proof they meant it.",
+    long: "",
+    names: ["Oakwood"]
+  },
+
+  {
+    id: "approach-moraine",
+    name: "Moraine",
+    lat: 39.7062,
+    lng: -84.2266,
+    radius: 4500,
+    layer: "approach",
+    short: "You are coming up on Moraine. River-bottom industrial city south of Dayton. Factories, the airport edge, and the old GM ground. If you drop in, I'll start on the flats.",
+    long: "",
+    names: ["Moraine"]
+  },
+  {
+    id: "moraine-founding",
+    name: "Moraine founding",
+    lat: 39.7062,
+    lng: -84.2266,
+    radius: 1500,
+    short: "Moraine took its name from the glacial ridge and the river flats. Incorporated in 1957 out of farm and factory land along the Great Miami.",
+    long: "",
+    names: ["Moraine"]
+  },
+  {
+    id: "moraine-gm",
+    name: "Moraine Assembly",
+    lat: 39.7000,
+    lng: -84.2300,
+    radius: 1600,
+    short: "GM's Moraine plants made trucks and SUVs on this bottomland for decades. When the line went quiet the city had to remember it was more than a badge on a building.",
+    long: "",
+    names: ["Moraine Assembly"]
+  },
+  {
+    id: "moraine-airport",
+    name: "Dayton-Wright Brothers Airport",
+    lat: 39.5880,
+    lng: -84.2240,
+    radius: 2500,
+    short: "The general-aviation field south of town keeps the Wright name on a working runway. Not Huffman Prairie. Still Wright country.",
+    long: "",
+    names: ["Wright Brothers Airport"]
+  },
+  {
+    id: "moraine-river",
+    name: "Great Miami at Moraine",
+    lat: 39.7062,
+    lng: -84.2266,
+    radius: 1700,
+    short: "The Great Miami runs the west edge. Floodplain factories. The conservancy dams are why the plants could sit here after 1913.",
+    long: "",
+    names: ["Great Miami River"]
+  },
+  {
+    id: "moraine-parks",
+    name: "Moraine parks",
+    lat: 39.7062,
+    lng: -84.2266,
+    radius: 1400,
+    short: "River corridor parks and the civic lots on the flats. Industry took the good ground. The city kept the bank.",
+    long: "",
+    names: ["Moraine"]
+  },
+  {
+    id: "moraine-people",
+    name: "Moraine people",
+    lat: 39.7062,
+    lng: -84.2266,
+    radius: 1400,
+    short: "Factory families and the later warehouse shift. A city that still measures years by which plant was hiring.",
+    long: "",
+    names: ["Moraine"]
+  },
+  {
+    id: "moraine-native",
+    name: "Moraine Native ground",
+    lat: 39.7062,
+    lng: -84.2266,
+    radius: 1800,
+    short: "River-bottom hunting and travel ground before the lots. Miami and Shawnee country on the Great Miami.",
+    long: "",
+    names: ["Miami", "Shawnee"]
+  },
+  {
+    id: "moraine-war",
+    name: "Moraine war",
+    lat: 39.7062,
+    lng: -84.2266,
+    radius: 1600,
+    short: "No fort. The later war story is the same as Dayton's — Wright Field payroll and the plants that fed it.",
+    long: "",
+    names: ["Moraine"]
+  },
+  {
+    id: "moraine-legend",
+    name: "The plant city",
+    lat: 39.7062,
+    lng: -84.2266,
+    radius: 1200,
+    short: "The local legend is that Moraine was a parking lot with a city hall. Fair or not, the assembly line wrote the town's first draft.",
+    long: "",
+    names: ["Moraine"]
+  },
+
+  {
+    id: "approach-miamisburg",
+    name: "Miamisburg",
+    lat: 39.6428,
+    lng: -84.2866,
+    radius: 5000,
+    layer: "approach",
+    short: "You are coming up on Miamisburg. River town south of Dayton. The big mound. Paper mills. If you drop in, I'll start at the mound.",
+    long: "",
+    names: ["Miamisburg"]
+  },
+  {
+    id: "miamisburg-founding",
+    name: "Miamisburg founding",
+    lat: 39.6428,
+    lng: -84.2866,
+    radius: 1500,
+    short: "Platted on the Great Miami in 1818. Named for the river and the people who were here first. A mill town that kept a downtown when other river villages thinned out.",
+    long: "",
+    names: ["Miamisburg"]
+  },
+  {
+    id: "miamisburg-mound",
+    name: "Miamisburg Mound",
+    lat: 39.6275,
+    lng: -84.2808,
+    radius: 1200,
+    short: "Miamisburg Mound. One of the largest conical Adena mounds in Ohio. Sixty-plus feet of earth on the hill above town. The first story here is older than the plat.",
+    long: "",
+    names: ["Miamisburg Mound", "Adena"]
+  },
+  {
+    id: "miamisburg-paper",
+    name: "Miamisburg paper",
+    lat: 39.6428,
+    lng: -84.2866,
+    radius: 1500,
+    short: "Paper and bag mills on the river. The smell and the shift whistle wrote the town for a century. Downtown still sits like a mill village that learned restaurants.",
+    long: "",
+    names: ["Miamisburg"]
+  },
+  {
+    id: "miamisburg-canal-rail",
+    name: "Miamisburg canal and rail",
+    lat: 39.6428,
+    lng: -84.2866,
+    radius: 1500,
+    short: "The Miami and Erie Canal ran this bank. The railroad followed. The river road is still the reason you are here.",
+    long: "",
+    names: ["Miami and Erie Canal"]
+  },
+  {
+    id: "miamisburg-parks",
+    name: "Miamisburg parks",
+    lat: 39.6428,
+    lng: -84.2866,
+    radius: 1400,
+    short: "The mound park, the river trail, and the downtown green. A town that put its oldest monument in a city park.",
+    long: "",
+    names: ["Miamisburg Mound"]
+  },
+  {
+    id: "miamisburg-people",
+    name: "Miamisburg people",
+    lat: 39.6428,
+    lng: -84.2866,
+    radius: 1400,
+    short: "Mill families and the later commuters. The mound is how they introduce the town to strangers.",
+    long: "",
+    names: ["Miamisburg"]
+  },
+  {
+    id: "miamisburg-native",
+    name: "Miamisburg Native ground",
+    lat: 39.6275,
+    lng: -84.2808,
+    radius: 1800,
+    short: "Adena earth first. Later Miami and Shawnee river country. The name of the town is the acknowledgment.",
+    long: "",
+    names: ["Adena", "Miami"]
+  },
+  {
+    id: "miamisburg-war",
+    name: "Miamisburg war",
+    lat: 39.6428,
+    lng: -84.2866,
+    radius: 1500,
+    short: "No standing fort downtown. Men left from these mills. The later federal story is Dayton's airfields, not a battery on this bend.",
+    long: "",
+    names: ["Miamisburg"]
+  },
+  {
+    id: "miamisburg-legend",
+    name: "The mound above the mills",
+    lat: 39.6275,
+    lng: -84.2808,
+    radius: 1100,
+    short: "The local legend is that nobody really knows who is in the mound and everybody still climbs it. The town grew under an older monument and never moved it.",
+    long: "",
+    names: ["Miamisburg Mound"]
+  },
+
+  {
+    id: "approach-west-carrollton",
+    name: "West Carrollton",
+    lat: 39.6723,
+    lng: -84.2522,
+    radius: 4500,
+    layer: "approach",
+    short: "You are coming up on West Carrollton. River mill city between Moraine and Miamisburg. Paper, the Great Miami, and a downtown that still faces the water. If you drop in, I'll start on the flats.",
+    long: "",
+    names: ["West Carrollton"]
+  },
+  {
+    id: "west-carrollton-founding",
+    name: "West Carrollton founding",
+    lat: 39.6723,
+    lng: -84.2522,
+    radius: 1400,
+    short: "A mill village on the Great Miami that grew into its own city. Named in the Carrollton style and split from the older farm township by the river and the plants.",
+    long: "",
+    names: ["West Carrollton"]
+  },
+  {
+    id: "west-carrollton-paper",
+    name: "West Carrollton mills",
+    lat: 39.6723,
+    lng: -84.2522,
+    radius: 1500,
+    short: "Paper and industrial plants on the floodplain. The shift whistle wrote the town. When the mills thinned, the city hall stayed and the river trail took the bank.",
+    long: "",
+    names: ["West Carrollton"]
+  },
+  {
+    id: "west-carrollton-river",
+    name: "Great Miami at West Carrollton",
+    lat: 39.6723,
+    lng: -84.2522,
+    radius: 1600,
+    short: "The Great Miami is the west wall. Canal, then rail, then truck. The conservancy dams are why the plants could sit this close to the water after 1913.",
+    long: "",
+    names: ["Great Miami River"]
+  },
+  {
+    id: "west-carrollton-parks",
+    name: "West Carrollton parks",
+    lat: 39.6723,
+    lng: -84.2522,
+    radius: 1300,
+    short: "River corridor and civic lots. A mill city that kept the bank for walking when the machines quieted.",
+    long: "",
+    names: ["West Carrollton"]
+  },
+  {
+    id: "west-carrollton-people",
+    name: "West Carrollton people",
+    lat: 39.6723,
+    lng: -84.2522,
+    radius: 1300,
+    short: "Mill families and the later warehouse shift. A small city that still measures itself against Dayton and Miamisburg.",
+    long: "",
+    names: ["West Carrollton"]
+  },
+  {
+    id: "west-carrollton-native",
+    name: "West Carrollton Native ground",
+    lat: 39.6723,
+    lng: -84.2522,
+    radius: 1700,
+    short: "River-bottom Miami and Shawnee country. The same confluence world as Dayton, just farther down the water.",
+    long: "",
+    names: ["Miami", "Shawnee"]
+  },
+  {
+    id: "west-carrollton-war",
+    name: "West Carrollton war",
+    lat: 39.6723,
+    lng: -84.2522,
+    radius: 1500,
+    short: "No fort. Men left from these mills. The later federal story is Wright Field, not a redoubt on this bend.",
+    long: "",
+    names: ["West Carrollton"]
+  },
+  {
+    id: "west-carrollton-legend",
+    name: "The other mill town",
+    lat: 39.6723,
+    lng: -84.2522,
+    radius: 1100,
+    short: "The local joke is that strangers mix it up with Miamisburg. Locals do not. The river is the same. The city hall is not.",
+    long: "",
+    names: ["West Carrollton"]
+  },
+
+  {
+    id: "approach-centerville-oh",
+    name: "Centerville",
+    lat: 39.6284,
+    lng: -84.1594,
+    radius: 5000,
+    layer: "approach",
+    short: "You are coming up on Centerville. Stone-cottage town on the ridge south of Dayton. Old Main Street. If you drop in, I'll start at the architecture.",
+    long: "",
+    names: ["Centerville"]
+  },
+  {
+    id: "centerville-founding",
+    name: "Centerville founding",
+    lat: 39.6284,
+    lng: -84.1594,
+    radius: 1500,
+    short: "Platted in 1796, same year as Dayton, on the ridge between the Miami and Little Miami drainages. A crossroads that kept its stone houses when the suburbs arrived.",
+    long: "",
+    names: ["Centerville"]
+  },
+  {
+    id: "centerville-stone",
+    name: "Centerville stone houses",
+    lat: 39.6284,
+    lng: -84.1594,
+    radius: 1200,
+    short: "Centerville is famous for limestone cottages and the vernacular stone work along Main and Franklin. The historic district is the town's argument that it was a place before the strip malls.",
+    long: "",
+    names: ["Centerville"]
+  },
+  {
+    id: "centerville-industry",
+    name: "Centerville roads",
+    lat: 39.6284,
+    lng: -84.1594,
+    radius: 1500,
+    short: "Not a river mill town. A ridge town on the stage and later the car roads south of Dayton. Farms, then commuters, then Washington Township wrapping around it.",
+    long: "",
+    names: ["Centerville"]
+  },
+  {
+    id: "centerville-parks",
+    name: "Centerville parks",
+    lat: 39.6284,
+    lng: -84.1594,
+    radius: 1400,
+    short: "Township parks, the historic green, and the trail system that ties the ridge to Sugarcreek. A suburb that kept a village park in the middle.",
+    long: "",
+    names: ["Centerville"]
+  },
+  {
+    id: "centerville-people",
+    name: "Centerville people",
+    lat: 39.6284,
+    lng: -84.1594,
+    radius: 1400,
+    short: "Early settlers, stone masons, and the later professional commute. The cottages are how they introduce the town.",
+    long: "",
+    names: ["Centerville"]
+  },
+  {
+    id: "centerville-native",
+    name: "Centerville Native ground",
+    lat: 39.6284,
+    lng: -84.1594,
+    radius: 1800,
+    short: "Upland between two Miami drainages. Hunting ground and later farm lots. The rivers are down the hills.",
+    long: "",
+    names: ["Centerville"]
+  },
+  {
+    id: "centerville-war",
+    name: "Centerville war",
+    lat: 39.6284,
+    lng: -84.1594,
+    radius: 1500,
+    short: "No fort on the ridge. Men left from these farms. The later federal story is Wright-Patterson to the north.",
+    long: "",
+    names: ["Centerville"]
+  },
+  {
+    id: "centerville-legend",
+    name: "The stone village in the suburb",
+    lat: 39.6284,
+    lng: -84.1594,
+    radius: 1100,
+    short: "The local legend is that Centerville is two towns. The old stone street, and the township around it. Locals still mean the stone street.",
+    long: "",
+    names: ["Centerville"]
+  },
+
+  {
+    id: "approach-springboro",
+    name: "Springboro",
+    lat: 39.5523,
+    lng: -84.2333,
+    radius: 4500,
+    layer: "approach",
+    short: "You are coming up on Springboro. Quaker-founded town on the ridge south of Dayton. Brick downtown. If you drop in, I'll start on Main.",
+    long: "",
+    names: ["Springboro"]
+  },
+  {
+    id: "springboro-founding",
+    name: "Springboro founding",
+    lat: 39.5523,
+    lng: -84.2333,
+    radius: 1400,
+    short: "Laid out in 1815 by Quaker Jonathan Wright. Springs on the hill. A planned village that kept its brick street when I-75 arrived.",
+    long: "",
+    names: ["Jonathan Wright"]
+  },
+  {
+    id: "springboro-quaker",
+    name: "Springboro Quakers",
+    lat: 39.5523,
+    lng: -84.2333,
+    radius: 1300,
+    short: "Quaker meeting and a strong Underground Railroad reputation. Houses on the old street still carry the quiet-station story.",
+    long: "",
+    names: ["Underground Railroad"]
+  },
+  {
+    id: "springboro-industry",
+    name: "Springboro roads",
+    lat: 39.5523,
+    lng: -84.2333,
+    radius: 1400,
+    short: "Not a mill river town. A ridge town on the Cincinnati-Dayton road, then I-75. Farms, then commuters, then a historic district that refused to flatten.",
+    long: "",
+    names: ["Springboro"]
+  },
+  {
+    id: "springboro-parks",
+    name: "Springboro parks",
+    lat: 39.5523,
+    lng: -84.2333,
+    radius: 1300,
+    short: "Village green, township parks, and the trail bits that tie the old lots to the new subdivisions.",
+    long: "",
+    names: ["Springboro"]
+  },
+  {
+    id: "springboro-people",
+    name: "Springboro people",
+    lat: 39.5523,
+    lng: -84.2333,
+    radius: 1300,
+    short: "Quaker founders, later merchants, and the I-75 commute. The brick street is how they introduce the town.",
+    long: "",
+    names: ["Springboro"]
+  },
+  {
+    id: "springboro-native",
+    name: "Springboro Native ground",
+    lat: 39.5523,
+    lng: -84.2333,
+    radius: 1700,
+    short: "Upland between the Great Miami and Little Miami. Hunting ground before the meeting house.",
+    long: "",
+    names: ["Springboro"]
+  },
+  {
+    id: "springboro-war",
+    name: "Springboro war and freedom",
+    lat: 39.5523,
+    lng: -84.2333,
+    radius: 1400,
+    short: "No fort. The freedom story here is the Railroad, not a battery. Men still left from these farms for the later wars.",
+    long: "",
+    names: ["Underground Railroad"]
+  },
+  {
+    id: "springboro-legend",
+    name: "The quiet station",
+    lat: 39.5523,
+    lng: -84.2333,
+    radius: 1100,
+    short: "The local legend is that you can still point at houses that hid people. True, half-true, or embroidered, the town wears the story on purpose.",
+    long: "",
+    names: ["Springboro"]
+  },
+
+  {
+    id: "approach-franklin-oh",
+    name: "Franklin",
+    lat: 39.5589,
+    lng: -84.3041,
+    radius: 4500,
+    layer: "approach",
+    short: "You are coming up on Franklin. River mill town on the Great Miami between Dayton and Middletown. Paper and the old canal bank. If you drop in, I'll start at the water.",
+    long: "",
+    names: ["Franklin"]
+  },
+  {
+    id: "franklin-founding",
+    name: "Franklin founding",
+    lat: 39.5589,
+    lng: -84.3041,
+    radius: 1400,
+    short: "Platted in 1796 on the Great Miami. Same founding season as Dayton. A river crossing that became a paper town.",
+    long: "",
+    names: ["Franklin"]
+  },
+  {
+    id: "franklin-paper",
+    name: "Franklin paper",
+    lat: 39.5589,
+    lng: -84.3041,
+    radius: 1400,
+    short: "Paper mills on the Miami. The smell and the shift wrote the town. Downtown still sits like a mill village that learned to face the highway.",
+    long: "",
+    names: ["Franklin"]
+  },
+  {
+    id: "franklin-canal",
+    name: "Franklin canal and rail",
+    lat: 39.5589,
+    lng: -84.3041,
+    radius: 1500,
+    short: "The Miami and Erie Canal ran this bank. The railroad followed. I-75 now takes the through traffic and leaves the old street to the locals.",
+    long: "",
+    names: ["Miami and Erie Canal"]
+  },
+  {
+    id: "franklin-parks",
+    name: "Franklin parks",
+    lat: 39.5589,
+    lng: -84.3041,
+    radius: 1300,
+    short: "River park and the civic lots on the old plat. A mill town that kept a piece of the bank.",
+    long: "",
+    names: ["Franklin"]
+  },
+  {
+    id: "franklin-people",
+    name: "Franklin people",
+    lat: 39.5589,
+    lng: -84.3041,
+    radius: 1300,
+    short: "Mill families and the later commute to Dayton and Middletown. The river is how they introduce the town.",
+    long: "",
+    names: ["Franklin"]
+  },
+  {
+    id: "franklin-native",
+    name: "Franklin Native ground",
+    lat: 39.5589,
+    lng: -84.3041,
+    radius: 1700,
+    short: "Great Miami bottom. Miami and Shawnee travel ground before the 1796 lots.",
+    long: "",
+    names: ["Miami", "Shawnee"]
+  },
+  {
+    id: "franklin-war",
+    name: "Franklin war",
+    lat: 39.5589,
+    lng: -84.3041,
+    radius: 1400,
+    short: "No standing fort downtown. Men left from these mills. The later federal story is Dayton's airfields.",
+    long: "",
+    names: ["Franklin"]
+  },
+  {
+    id: "franklin-legend",
+    name: "The paper town on the Miami",
+    lat: 39.5589,
+    lng: -84.3041,
+    radius: 1100,
+    short: "The local legend is that Franklin is the town people drive past on I-75 and never see. The river street is still there.",
+    long: "",
+    names: ["Franklin"]
+  },
+ {
+    id: "approach-middletown-oh",
+    name: "Middletown",
+    lat: 39.5151,
+    lng: -84.3983,
+    radius: 7000,
+    layer: "approach",
+    short: "You are coming up on Middletown. Steel and paper on the Great Miami. Armco town. If you drop in, I'll start at the mill and the river.",
+    long: "",
+    names: ["Middletown", "Armco"]
+  },
+  {
+    id: "middletown-founding",
+    name: "Middletown founding",
+    lat: 39.5151,
+    lng: -84.3983,
+    radius: 1800,
+    short: "Platted in 1802 on the Great Miami, midway between Dayton and Cincinnati on the old river road. The name is the geography.",
+    long: "",
+    names: ["Middletown"]
+  },
+  {
+    id: "middletown-armco",
+    name: "Armco",
+    lat: 39.5100,
+    lng: -84.4100,
+    radius: 2000,
+    short: "Armco steel made Middletown a mill city. The works, the smoke, and the paycheck wrote the twentieth century here. When the mill thinned, the town had to learn a second story.",
+    long: "",
+    names: ["Armco"]
+  },
+  {
+    id: "middletown-paper",
+    name: "Middletown paper",
+    lat: 39.5151,
+    lng: -84.3983,
+    radius: 1700,
+    short: "Paper came before steel and stayed beside it. The Miami bottom was good for both. Mills and the river road built the first downtown.",
+    long: "",
+    names: ["Middletown"]
+  },
+  {
+    id: "middletown-canal",
+    name: "Middletown canal",
+    lat: 39.5151,
+    lng: -84.3983,
+    radius: 1700,
+    short: "The Miami and Erie Canal ran this bank. Hydraulic power and freight. The railroad finished the job the canal started.",
+    long: "",
+    names: ["Miami and Erie Canal"]
+  },
+  {
+    id: "middletown-sorg",
+    name: "Sorg Opera House",
+    lat: 39.5156,
+    lng: -84.3981,
+    radius: 800,
+    short: "The Sorg. Paul J. Sorg's 1891 opera house downtown. A tobacco and paper fortune put a stage on Main.",
+    long: "",
+    names: ["Sorg Opera House", "Paul Sorg"]
+  },
+  {
+    id: "middletown-people",
+    name: "Middletown people",
+    lat: 39.5151,
+    lng: -84.3983,
+    radius: 1700,
+    short: "Mill families, paper hands, and the later warehouse shift. A city that still introduces itself with steel even when the heat is gone.",
+    long: "",
+    names: ["Middletown"]
+  },
+  {
+    id: "middletown-native",
+    name: "Middletown Native ground",
+    lat: 39.5151,
+    lng: -84.3983,
+    radius: 2000,
+    short: "Great Miami bottom. Miami and Shawnee country before the 1802 lots.",
+    long: "",
+    names: ["Miami", "Shawnee"]
+  },
+
+  {
+    id: "middletown-parks",
+    name: "Middletown parks",
+    lat: 39.5151,
+    lng: -84.3983,
+    radius: 1700,
+    short: "Smith Park, the river corridor, and the civic lawns. A mill city that kept green on the high ground when the flats belonged to the works.",
+    long: "",
+    names: ["Smith Park"]
+  },
+  {
+    id: "middletown-war",
+    name: "Middletown war",
+    lat: 39.5151,
+    lng: -84.3983,
+    radius: 1700,
+    short: "No standing fort downtown. Men left from these mills. The later federal story is Dayton's airfields and the steel the country needed.",
+    long: "",
+    names: ["Middletown"]
+  },
+  {
+    id: "middletown-legend-steel",
+    name: "The Armco city",
+    lat: 39.5100,
+    lng: -84.4100,
+    radius: 1500,
+    short: "The local legend is that Middletown was Armco with a city hall attached. Fair or not, the mill wrote the first draft of the modern town.",
+    long: "",
+    names: ["Armco"]
+  },
+  {
+    id: "middletown-downtown",
+    name: "Middletown downtown",
+    lat: 39.5151,
+    lng: -84.3983,
+    radius: 900,
+    short: "Central Avenue and the old commercial blocks. A mill downtown that thinned and is trying to come back one storefront at a time.",
+    long: "",
+    names: ["Middletown"]
+  },
+  {
+    id: "middletown-miami-univ",
+    name: "Miami University Middletown",
+    lat: 39.5230,
+    lng: -84.3570,
+    radius: 1400,
+    short: "Miami's regional campus on the east side. The university name on a mill-town hill.",
+    long: "",
+    names: ["Miami University"]
+  },
+  {
+    id: "middletown-hydraulic",
+    name: "Middletown hydraulic",
+    lat: 39.5151,
+    lng: -84.3983,
+    radius: 1600,
+    short: "The old hydraulic canals took Miami water into the mills. Power before steam was cheap. The ditches are mostly gone. The idea is not.",
+    long: "",
+    names: ["Middletown"]
+  },
+  {
+    id: "middletown-rail",
+    name: "Middletown railroads",
+    lat: 39.5151,
+    lng: -84.3983,
+    radius: 1600,
+    short: "Rail finished the canal job. Lines north to Dayton and south toward Cincinnati. The yards still mark the industrial west side.",
+    long: "",
+    names: ["Middletown"]
+  },
+  {
+    id: "middletown-done",
+    name: "Middletown spine",
+    lat: 39.5151,
+    lng: -84.3983,
+    radius: 2000,
+    short: "River, canal, paper, Armco. That is the Middletown spine. The mill city between Dayton and Cincinnati.",
+    long: "",
+    names: ["Middletown"]
+  },
+
+  {
+    id: "approach-hamilton-oh",
+    name: "Hamilton",
+    lat: 39.3995,
+    lng: -84.5613,
+    radius: 7000,
+    layer: "approach",
+    short: "You are coming up on Hamilton. Fort town on the Great Miami. Paper mills and a courthouse square. If you drop in, I'll start at the river.",
+    long: "",
+    names: ["Hamilton", "Fort Hamilton"]
+  },
+  {
+    id: "hamilton-fort",
+    name: "Fort Hamilton",
+    lat: 39.3995,
+    lng: -84.5613,
+    radius: 1600,
+    short: "Fort Hamilton, 1791. Supply post on the Great Miami for St. Clair and then Wayne. The city grew on the fort ground and kept the name.",
+    long: "",
+    names: ["Fort Hamilton", "Arthur St. Clair", "Anthony Wayne"]
+  },
+  {
+    id: "hamilton-founding",
+    name: "Hamilton founding",
+    lat: 39.3995,
+    lng: -84.5613,
+    radius: 1700,
+    short: "After the fort came the plat. County seat of Butler County. A river town that became a paper and machine city.",
+    long: "",
+    names: ["Hamilton"]
+  },
+  {
+    id: "hamilton-paper",
+    name: "Hamilton paper",
+    lat: 39.3995,
+    lng: -84.5613,
+    radius: 1700,
+    short: "Champion and the other paper mills wrote Hamilton's industrial century. The river and the hydraulic canals fed the machines.",
+    long: "",
+    names: ["Champion Paper"]
+  },
+  {
+    id: "hamilton-canal",
+    name: "Hamilton canal",
+    lat: 39.3995,
+    lng: -84.5613,
+    radius: 1700,
+    short: "The Miami and Erie Canal and the Hamilton hydraulic. Water power on purpose. The railroad then took the long freight.",
+    long: "",
+    names: ["Miami and Erie Canal"]
+  },
+  {
+    id: "hamilton-courthouse",
+    name: "Butler County Courthouse",
+    lat: 39.3997,
+    lng: -84.5616,
+    radius: 700,
+    short: "The courthouse square. County seat gravity. High Street still behaves like a county town that also ran mills.",
+    long: "",
+    names: ["Butler County Courthouse"]
+  },
+  {
+    id: "hamilton-people",
+    name: "Hamilton people",
+    lat: 39.3995,
+    lng: -84.5613,
+    radius: 1700,
+    short: "Soldiers first, then mill families. A city that still introduces itself with the fort and the paper.",
+    long: "",
+    names: ["Hamilton"]
+  },
+  {
+    id: "hamilton-native",
+    name: "Hamilton Native ground",
+    lat: 39.3995,
+    lng: -84.5613,
+    radius: 2000,
+    short: "Great Miami bottom. Miami country. The fort was planted on a river that already had a name and a people.",
+    long: "",
+    names: ["Miami"]
+  },
+
+  {
+    id: "hamilton-parks",
+    name: "Hamilton parks",
+    lat: 39.3995,
+    lng: -84.5613,
+    radius: 1600,
+    short: "The river walk, Marcum Park, and the civic greens on the old fort side. A mill city that put a trail on the bank the machines used.",
+    long: "",
+    names: ["Marcum Park"]
+  },
+  {
+    id: "hamilton-war",
+    name: "Hamilton war",
+    lat: 39.3995,
+    lng: -84.5613,
+    radius: 1700,
+    short: "The fort is the first war story. Later wars took men from the mills. The city still starts with 1791.",
+    long: "",
+    names: ["Fort Hamilton"]
+  },
+  {
+    id: "hamilton-legend",
+    name: "The city that kept the fort name",
+    lat: 39.3995,
+    lng: -84.5613,
+    radius: 1400,
+    short: "The local legend is that Hamilton is two towns — the fort story and the paper story — and they share one river.",
+    long: "",
+    names: ["Hamilton"]
+  },
+  {
+    id: "hamilton-high",
+    name: "High Street Hamilton",
+    lat: 39.3995,
+    lng: -84.5613,
+    radius: 800,
+    short: "High Street. The commercial spine. A county-seat main street that also served the mill gates.",
+    long: "",
+    names: ["Hamilton"]
+  },
+  {
+    id: "hamilton-lane",
+    name: "Lane Public Library",
+    lat: 39.4005,
+    lng: -84.5605,
+    radius: 700,
+    short: "Lane Library. An old civic gift on the square side. The town kept a reading room when the mills were loud.",
+    long: "",
+    names: ["Lane Public Library"]
+  },
+  {
+    id: "hamilton-machine",
+    name: "Hamilton machinery",
+    lat: 39.3995,
+    lng: -84.5613,
+    radius: 1600,
+    short: "Besides paper, Hamilton made machines and tools. A shop-floor city. The foundries sat near the water like the mills.",
+    long: "",
+    names: ["Hamilton"]
+  },
+  {
+    id: "hamilton-rail",
+    name: "Hamilton railroads",
+    lat: 39.3995,
+    lng: -84.5613,
+    radius: 1600,
+    short: "Rail tied the fort town to Cincinnati and Dayton. The yards still mark the industrial west of downtown.",
+    long: "",
+    names: ["Hamilton"]
+  },
+  {
+    id: "hamilton-done",
+    name: "Hamilton spine",
+    lat: 39.3995,
+    lng: -84.5613,
+    radius: 2000,
+    short: "Fort, river, canal, paper. That is the Hamilton spine. Butler County's seat on the Great Miami.",
+    long: "",
+    names: ["Hamilton"]
+  },
+
+  {
+    id: "approach-fairfield-oh",
+    name: "Fairfield",
+    lat: 39.3459,
+    lng: -84.5605,
+    radius: 5000,
+    layer: "approach",
+    short: "You are coming up on Fairfield. Township that became a city between Hamilton and Cincinnati. Farms, then warehouses, then a main street that is really a strip. If you drop in, I'll start on the old township ground.",
+    long: "",
+    names: ["Fairfield"]
+  },
+  {
+    id: "fairfield-founding",
+    name: "Fairfield founding",
+    lat: 39.3459,
+    lng: -84.5605,
+    radius: 1600,
+    short: "Fairfield Township is old. The city is newer. Incorporated as the farms turned into lots between Hamilton and the Cincinnati edge.",
+    long: "",
+    names: ["Fairfield"]
+  },
+  {
+    id: "fairfield-roads",
+    name: "Fairfield roads",
+    lat: 39.3459,
+    lng: -84.5605,
+    radius: 1600,
+    short: "Not a river mill core. A road town. Route 4, I-275 later. Commerce followed the pavement more than a canal basin.",
+    long: "",
+    names: ["Fairfield"]
+  },
+  {
+    id: "fairfield-jungle",
+    name: "Jungle Jim's",
+    lat: 39.3517,
+    lng: -84.5436,
+    radius: 900,
+    short: "Jungle Jim's. The giant grocery as local landmark. Not a courthouse. Still the place strangers ask about when they say Fairfield.",
+    long: "",
+    names: ["Jungle Jim's"]
+  },
+  {
+    id: "fairfield-parks",
+    name: "Fairfield parks",
+    lat: 39.3459,
+    lng: -84.5605,
+    radius: 1500,
+    short: "Township-scale parks and the civic greens a late city built on purpose. The farms left room.",
+    long: "",
+    names: ["Fairfield"]
+  },
+  {
+    id: "fairfield-people",
+    name: "Fairfield people",
+    lat: 39.3459,
+    lng: -84.5605,
+    radius: 1500,
+    short: "Farm families, then commuters to Hamilton and Cincinnati. A city that still feels like a township with a tax base.",
+    long: "",
+    names: ["Fairfield"]
+  },
+  {
+    id: "fairfield-native",
+    name: "Fairfield Native ground",
+    lat: 39.3459,
+    lng: -84.5605,
+    radius: 1800,
+    short: "Upland between the Great Miami and the Mill Creek drainages. Hunting ground before the section lines.",
+    long: "",
+    names: ["Fairfield"]
+  },
+  {
+    id: "fairfield-war",
+    name: "Fairfield war",
+    lat: 39.3459,
+    lng: -84.5605,
+    radius: 1600,
+    short: "No fort in the modern city. The old war story sits in Hamilton. Men still left from these farms.",
+    long: "",
+    names: ["Fairfield"]
+  },
+  {
+    id: "fairfield-legend",
+    name: "The township that became a city",
+    lat: 39.3459,
+    lng: -84.5605,
+    radius: 1200,
+    short: "The local legend is that Fairfield has no downtown because the whole place is a road. Locals know the old corners anyway.",
+    long: "",
+    names: ["Fairfield"]
+  },
+
+  {
+    id: "approach-oxford-oh",
+    name: "Oxford",
+    lat: 39.5070,
+    lng: -84.7452,
+    radius: 5000,
+    layer: "approach",
+    short: "You are coming up on Oxford. College town on the upland west of Hamilton. Miami University. If you drop in, I'll start on High Street.",
+    long: "",
+    names: ["Oxford", "Miami University"]
+  },
+  {
+    id: "oxford-miami",
+    name: "Miami University",
+    lat: 39.5089,
+    lng: -84.7344,
+    radius: 1400,
+    short: "Miami University, chartered 1809, opened 1824. One of the old state schools. The town exists because the campus does.",
+    long: "",
+    names: ["Miami University"]
+  },
+  {
+    id: "oxford-founding",
+    name: "Oxford founding",
+    lat: 39.5070,
+    lng: -84.7452,
+    radius: 1400,
+    short: "Platted as the college town. High Street, the slants, the brick. A planned village around a university, not a mill.",
+    long: "",
+    names: ["Oxford"]
+  },
+  {
+    id: "oxford-mcguffey",
+    name: "McGuffey",
+    lat: 39.5078,
+    lng: -84.7335,
+    radius: 900,
+    short: "William Holmes McGuffey taught here. The Readers that taught a nation to read started in this college town.",
+    long: "",
+    names: ["William Holmes McGuffey"]
+  },
+  {
+    id: "oxford-western",
+    name: "Western College",
+    lat: 39.5055,
+    lng: -84.7280,
+    radius: 1000,
+    short: "Western College for Women, later part of Miami. Freedom Summer trained here in 1964. The campus lawn is a civil-rights site.",
+    long: "",
+    names: ["Western College", "Freedom Summer"]
+  },
+  {
+    id: "oxford-parks",
+    name: "Oxford parks",
+    lat: 39.5070,
+    lng: -84.7452,
+    radius: 1400,
+    short: "Upham, the slants, Peffer Park, and the campus greens. A town that is half quad.",
+    long: "",
+    names: ["Oxford"]
+  },
+  {
+    id: "oxford-people",
+    name: "Oxford people",
+    lat: 39.5070,
+    lng: -84.7452,
+    radius: 1400,
+    short: "Faculty, students, and the town that feeds them. A city that measures years by commencements.",
+    long: "",
+    names: ["Oxford"]
+  },
+  {
+    id: "oxford-native",
+    name: "Oxford Native ground",
+    lat: 39.5070,
+    lng: -84.7452,
+    radius: 1800,
+    short: "Upland between the Miami drainages. Hunting ground before the college grant.",
+    long: "",
+    names: ["Oxford"]
+  },
+  {
+    id: "oxford-war",
+    name: "Oxford war and freedom",
+    lat: 39.5055,
+    lng: -84.7280,
+    radius: 1400,
+    short: "No fort. The freedom story here is Freedom Summer as much as any battery. Men still left from these halls.",
+    long: "",
+    names: ["Freedom Summer"]
+  },
+  {
+    id: "oxford-legend",
+    name: "The college is the town",
+    lat: 39.5089,
+    lng: -84.7344,
+    radius: 1100,
+    short: "The local legend is that Oxford vanishes in May and returns in August. True enough. The brick stays.",
+    long: "",
+    names: ["Oxford"]
+  },
+
+  {
+    id: "approach-mason-oh",
+    name: "Mason",
+    lat: 39.3601,
+    lng: -84.3099,
+    radius: 5000,
+    layer: "approach",
+    short: "You are coming up on Mason. Warren County town that became a Cincinnati-Dayton suburb. Kings Island is next door. If you drop in, I'll start on Main.",
+    long: "",
+    names: ["Mason"]
+  },
+  {
+    id: "mason-founding",
+    name: "Mason founding",
+    lat: 39.3601,
+    lng: -84.3099,
+    radius: 1400,
+    short: "Laid out in 1815 as Palmyra, later Mason. A crossroads village that exploded when I-71 and the park arrived.",
+    long: "",
+    names: ["Mason"]
+  },
+  {
+    id: "mason-kings-island",
+    name: "Kings Island",
+    lat: 39.3447,
+    lng: -84.2661,
+    radius: 1800,
+    short: "Kings Island opened in 1972 on the old farmland east of town. The park put Mason on the map for people who never saw the old Main Street.",
+    long: "",
+    names: ["Kings Island"]
+  },
+  {
+    id: "mason-industry",
+    name: "Mason roads",
+    lat: 39.3601,
+    lng: -84.3099,
+    radius: 1500,
+    short: "Not a river mill core. A road and rail village that became offices, parks, and subdivisions. I-71 is the new canal.",
+    long: "",
+    names: ["Mason"]
+  },
+  {
+    id: "mason-parks",
+    name: "Mason parks",
+    lat: 39.3601,
+    lng: -84.3099,
+    radius: 1400,
+    short: "City parks, the bike trails, and the giant neighbor at Kings Island. A suburb that built recreation on purpose.",
+    long: "",
+    names: ["Mason"]
+  },
+  {
+    id: "mason-people",
+    name: "Mason people",
+    lat: 39.3601,
+    lng: -84.3099,
+    radius: 1400,
+    short: "Farm families, then commuters, then the park workforce. A town that still points at the old Main when it wants history.",
+    long: "",
+    names: ["Mason"]
+  },
+  {
+    id: "mason-native",
+    name: "Mason Native ground",
+    lat: 39.3601,
+    lng: -84.3099,
+    radius: 1700,
+    short: "Upland between the Little Miami and the Great Miami. Hunting ground before the Palmyra lots.",
+    long: "",
+    names: ["Mason"]
+  },
+  {
+    id: "mason-war",
+    name: "Mason war",
+    lat: 39.3601,
+    lng: -84.3099,
+    radius: 1500,
+    short: "No fort downtown. Men left from these farms. The later story is the highway, not a battery.",
+    long: "",
+    names: ["Mason"]
+  },
+  {
+    id: "mason-legend",
+    name: "The village beside the park",
+    lat: 39.3601,
+    lng: -84.3099,
+    radius: 1100,
+    short: "The local legend is that Mason is Kings Island's parking lot. Locals will walk you to the old street and disagree.",
+    long: "",
+    names: ["Mason", "Kings Island"]
+  },
+
+  {
+    id: "approach-lebanon-oh",
+    name: "Lebanon",
+    lat: 39.4353,
+    lng: -84.2030,
+    radius: 5000,
+    layer: "approach",
+    short: "You are coming up on Lebanon. Warren County seat. Brick downtown and the Golden Lamb. If you drop in, I'll start on Broadway.",
+    long: "",
+    names: ["Lebanon", "Golden Lamb"]
+  },
+  {
+    id: "lebanon-founding",
+    name: "Lebanon founding",
+    lat: 39.4353,
+    lng: -84.2030,
+    radius: 1400,
+    short: "Platted in 1802. County seat from the start. A courthouse town that kept its brick street when the highways went around it.",
+    long: "",
+    names: ["Lebanon"]
+  },
+  {
+    id: "lebanon-golden-lamb",
+    name: "The Golden Lamb",
+    lat: 39.4344,
+    lng: -84.2078,
+    radius: 700,
+    short: "The Golden Lamb, 1803. Ohio's oldest inn still in business. Presidents slept here. Broadway still aims at the porch.",
+    long: "",
+    names: ["Golden Lamb"]
+  },
+  {
+    id: "lebanon-courthouse",
+    name: "Warren County Courthouse",
+    lat: 39.4353,
+    lng: -84.2082,
+    radius: 700,
+    short: "The courthouse square. County gravity. The town exists to hold court and feed travelers on the old Cincinnati road.",
+    long: "",
+    names: ["Warren County Courthouse"]
+  },
+  {
+    id: "lebanon-canal",
+    name: "Lebanon roads and canal",
+    lat: 39.4353,
+    lng: -84.2030,
+    radius: 1500,
+    short: "Not a big mill river. Stage roads, then the Little Miami Railroad nearby, then I-71. The inn is the industrial story — hospitality as a business.",
+    long: "",
+    names: ["Lebanon"]
+  },
+  {
+    id: "lebanon-parks",
+    name: "Lebanon parks",
+    lat: 39.4353,
+    lng: -84.2030,
+    radius: 1400,
+    short: "The square, Harmon Park, and the trail bits on the edge. A county seat that kept a walkable middle.",
+    long: "",
+    names: ["Harmon Park"]
+  },
+  {
+    id: "lebanon-people",
+    name: "Lebanon people",
+    lat: 39.4353,
+    lng: -84.2030,
+    radius: 1400,
+    short: "Lawyers, innkeepers, and farm families. A town that still introduces itself with the Lamb.",
+    long: "",
+    names: ["Lebanon"]
+  },
+  {
+    id: "lebanon-native",
+    name: "Lebanon Native ground",
+    lat: 39.4353,
+    lng: -84.2030,
+    radius: 1700,
+    short: "Upland near the Little Miami drainage. Shawnee and Miami hunting ground before the 1802 lots.",
+    long: "",
+    names: ["Shawnee", "Miami"]
+  },
+  {
+    id: "lebanon-war",
+    name: "Lebanon war",
+    lat: 39.4353,
+    lng: -84.2030,
+    radius: 1500,
+    short: "No standing fort on Broadway. Men left from this county. The inn fed officers and politicians on the road to Cincinnati.",
+    long: "",
+    names: ["Lebanon"]
+  },
+  {
+    id: "lebanon-legend",
+    name: "The inn that outlasted the coaches",
+    lat: 39.4344,
+    lng: -84.2078,
+    radius: 900,
+    short: "The local legend is that every famous person who passed through southwest Ohio signed the Lamb register. Enough of them did that the story stuck.",
+    long: "",
+    names: ["Golden Lamb"]
+  },
+ {
+    id: "approach-monroe-oh",
+    name: "Monroe",
+    lat: 39.4403,
+    lng: -84.3622,
+    radius: 4500,
+    layer: "approach",
+    short: "You are coming up on Monroe. I-75 town between Middletown and Lebanon. Farms, then exits, then a city that grew on the interchange. If you drop in, I'll start on the old street.",
+    long: "",
+    names: ["Monroe"]
+  },
+  {
+    id: "monroe-founding",
+    name: "Monroe founding",
+    lat: 39.4403,
+    lng: -84.3622,
+    radius: 1400,
+    short: "A crossroads village that incorporated as the highway arrived. The old town is still there. The new town is the exit.",
+    long: "",
+    names: ["Monroe"]
+  },
+  {
+    id: "monroe-roads",
+    name: "Monroe and I-75",
+    lat: 39.4403,
+    lng: -84.3622,
+    radius: 1500,
+    short: "I-75 made Monroe. Outlets, warehouses, and the through traffic. The old lots sit a few blocks off the ramp.",
+    long: "",
+    names: ["Monroe"]
+  },
+  {
+    id: "monroe-industry",
+    name: "Monroe industry",
+    lat: 39.4403,
+    lng: -84.3622,
+    radius: 1500,
+    short: "Not a river mill core. Logistics and the retail exit. The industrial story is pavement.",
+    long: "",
+    names: ["Monroe"]
+  },
+  {
+    id: "monroe-parks",
+    name: "Monroe parks",
+    lat: 39.4403,
+    lng: -84.3622,
+    radius: 1300,
+    short: "City parks on the old village side and the green bits the new plats required. A highway town that kept a park.",
+    long: "",
+    names: ["Monroe"]
+  },
+  {
+    id: "monroe-people",
+    name: "Monroe people",
+    lat: 39.4403,
+    lng: -84.3622,
+    radius: 1300,
+    short: "Farm families, then commuters, then the exit workforce. Locals still mean the old street when they say town.",
+    long: "",
+    names: ["Monroe"]
+  },
+  {
+    id: "monroe-native",
+    name: "Monroe Native ground",
+    lat: 39.4403,
+    lng: -84.3622,
+    radius: 1700,
+    short: "Upland between the Great Miami and the Little Miami. Hunting ground before the section lines.",
+    long: "",
+    names: ["Monroe"]
+  },
+  {
+    id: "monroe-war",
+    name: "Monroe war",
+    lat: 39.4403,
+    lng: -84.3622,
+    radius: 1400,
+    short: "No fort at the exit. Men left from these farms. The later story is the interstate.",
+    long: "",
+    names: ["Monroe"]
+  },
+  {
+    id: "monroe-legend",
+    name: "The town at the ramp",
+    lat: 39.4403,
+    lng: -84.3622,
+    radius: 1100,
+    short: "The local legend is that Monroe is an exit with a city hall. The old village will argue the point if you get off.",
+    long: "",
+    names: ["Monroe"]
+  },
+
+  {
+    id: "approach-trenton-oh",
+    name: "Trenton",
+    lat: 39.4809,
+    lng: -84.4577,
+    radius: 4000,
+    layer: "approach",
+    short: "You are coming up on Trenton. Butler County town between Hamilton and Middletown. Brick street, farms, then the later lots. If you drop in, I'll start on State.",
+    long: "",
+    names: ["Trenton"]
+  },
+  {
+    id: "trenton-founding",
+    name: "Trenton founding",
+    lat: 39.4809,
+    lng: -84.4577,
+    radius: 1300,
+    short: "Laid out in the early 1800s on the road between the two mill cities. A village that kept its name when the county filled in.",
+    long: "",
+    names: ["Trenton"]
+  },
+  {
+    id: "trenton-roads",
+    name: "Trenton roads",
+    lat: 39.4809,
+    lng: -84.4577,
+    radius: 1400,
+    short: "Not a river mill core. A road town. Hamilton one way, Middletown the other. Rail later. The street still reads village.",
+    long: "",
+    names: ["Trenton"]
+  },
+  {
+    id: "trenton-industry",
+    name: "Trenton work",
+    lat: 39.4809,
+    lng: -84.4577,
+    radius: 1400,
+    short: "Farms first. Then small shops and the commute to the bigger mills. The industrial story is next door.",
+    long: "",
+    names: ["Trenton"]
+  },
+  {
+    id: "trenton-parks",
+    name: "Trenton parks",
+    lat: 39.4809,
+    lng: -84.4577,
+    radius: 1300,
+    short: "Village park and the school lawns. A small city that kept a green middle.",
+    long: "",
+    names: ["Trenton"]
+  },
+  {
+    id: "trenton-people",
+    name: "Trenton people",
+    lat: 39.4809,
+    lng: -84.4577,
+    radius: 1300,
+    short: "Farm families and mill commuters. A town that still introduces itself as the place between Hamilton and Middletown.",
+    long: "",
+    names: ["Trenton"]
+  },
+  {
+    id: "trenton-native",
+    name: "Trenton Native ground",
+    lat: 39.4809,
+    lng: -84.4577,
+    radius: 1600,
+    short: "Upland near the Great Miami. Miami country before the lots.",
+    long: "",
+    names: ["Miami"]
+  },
+  {
+    id: "trenton-war",
+    name: "Trenton war",
+    lat: 39.4809,
+    lng: -84.4577,
+    radius: 1400,
+    short: "No fort on State Street. Men left from these farms. The fort story sits in Hamilton.",
+    long: "",
+    names: ["Trenton"]
+  },
+  {
+    id: "trenton-legend",
+    name: "The town between the mills",
+    lat: 39.4809,
+    lng: -84.4577,
+    radius: 1100,
+    short: "The local legend is that Trenton is the quiet street you miss if you stay on the highway. That is the point.",
+    long: "",
+    names: ["Trenton"]
+  },
+
+  {
+    id: "approach-germantown-oh",
+    name: "Germantown",
+    lat: 39.6262,
+    lng: -84.3694,
+    radius: 4000,
+    layer: "approach",
+    short: "You are coming up on Germantown. Twin Creek town south of Dayton. German settlement, brick street, covered-bridge country nearby. If you drop in, I'll start on Market.",
+    long: "",
+    names: ["Germantown"]
+  },
+  {
+    id: "germantown-founding",
+    name: "Germantown founding",
+    lat: 39.6262,
+    lng: -84.3694,
+    radius: 1300,
+    short: "Settled by German Baptists around 1804. Platted as a neat street town on Twin Creek. The name is the people.",
+    long: "",
+    names: ["Germantown"]
+  },
+  {
+    id: "germantown-creek",
+    name: "Twin Creek",
+    lat: 39.6262,
+    lng: -84.3694,
+    radius: 1400,
+    short: "Twin Creek cut the mill seats. Water, then small industry, then the later highway around the old street.",
+    long: "",
+    names: ["Twin Creek"]
+  },
+  {
+    id: "germantown-historic",
+    name: "Germantown historic district",
+    lat: 39.6262,
+    lng: -84.3694,
+    radius: 800,
+    short: "The brick downtown. Market and the old commercial blocks. A village that kept the German street pattern.",
+    long: "",
+    names: ["Germantown"]
+  },
+  {
+    id: "germantown-parks",
+    name: "Germantown parks",
+    lat: 39.6262,
+    lng: -84.3694,
+    radius: 1300,
+    short: "The metropark on Twin Creek and the village greens. Dayton's park system reaches this bank.",
+    long: "",
+    names: ["Germantown MetroPark"]
+  },
+  {
+    id: "germantown-people",
+    name: "Germantown people",
+    lat: 39.6262,
+    lng: -84.3694,
+    radius: 1300,
+    short: "German Baptist families first. Then mill hands and the later commute to Dayton. The street still speaks settlement.",
+    long: "",
+    names: ["Germantown"]
+  },
+  {
+    id: "germantown-native",
+    name: "Germantown Native ground",
+    lat: 39.6262,
+    lng: -84.3694,
+    radius: 1600,
+    short: "Twin Creek bottom. Shawnee and Miami hunting ground before the German lots.",
+    long: "",
+    names: ["Shawnee", "Miami"]
+  },
+  {
+    id: "germantown-war",
+    name: "Germantown war",
+    lat: 39.6262,
+    lng: -84.3694,
+    radius: 1400,
+    short: "No fort on Market. Men left from these farms. The later federal story is Dayton's airfields.",
+    long: "",
+    names: ["Germantown"]
+  },
+  {
+    id: "germantown-legend",
+    name: "The German street on Twin Creek",
+    lat: 39.6262,
+    lng: -84.3694,
+    radius: 1100,
+    short: "The local legend is that Germantown looks like it never left 1840 if you stay on the brick. Close enough to be useful.",
+    long: "",
+    names: ["Germantown"]
+  },
+
+  {
+    id: "approach-miamisburg-oh",
+    name: "Miamisburg",
+    lat: 39.6428,
+    lng: -84.2866,
+    radius: 5000,
+    layer: "approach",
+    short: "You are coming up on Miamisburg. Great Miami town south of Dayton. Paper mills and a mound older than the street. If you drop in, I'll start at the river.",
+    long: "",
+    names: ["Miamisburg", "Miamisburg Mound"]
+  },
+  {
+    id: "miamisburg-mound",
+    name: "Miamisburg Mound",
+    lat: 39.6276,
+    lng: -84.2813,
+    radius: 900,
+    short: "The Miamisburg Mound. Adena earthwork. One of the largest conical mounds in the state. The town is named for the river. The hill is older than the name.",
+    long: "",
+    names: ["Miamisburg Mound", "Adena"]
+  },
+  {
+    id: "miamisburg-founding",
+    name: "Miamisburg founding",
+    lat: 39.6428,
+    lng: -84.2866,
+    radius: 1400,
+    short: "Platted in 1818 on the Great Miami. German settlers, then paper. A river town under a mound.",
+    long: "",
+    names: ["Miamisburg"]
+  },
+  {
+    id: "miamisburg-paper",
+    name: "Miamisburg paper",
+    lat: 39.6428,
+    lng: -84.2866,
+    radius: 1500,
+    short: "Paper mills on the Miami. Same river story as Middletown and Hamilton, one town north. The mill wrote the payday.",
+    long: "",
+    names: ["Miamisburg"]
+  },
+  {
+    id: "miamisburg-canal",
+    name: "Miamisburg canal",
+    lat: 39.6428,
+    lng: -84.2866,
+    radius: 1500,
+    short: "The Miami and Erie Canal ran this bank. Hydraulic power and freight. The railroad finished it.",
+    long: "",
+    names: ["Miami and Erie Canal"]
+  },
+  {
+    id: "miamisburg-downtown",
+    name: "Miamisburg downtown",
+    lat: 39.6428,
+    lng: -84.2866,
+    radius: 800,
+    short: "Main Street on the river terrace. A mill downtown that kept more brick than some of its neighbors.",
+    long: "",
+    names: ["Miamisburg"]
+  },
+  {
+    id: "miamisburg-parks",
+    name: "Miamisburg parks",
+    lat: 39.6428,
+    lng: -84.2866,
+    radius: 1400,
+    short: "River corridor parks and the mound grounds. A town that put a trail under an Adena hill.",
+    long: "",
+    names: ["Miamisburg"]
+  },
+  {
+    id: "miamisburg-people",
+    name: "Miamisburg people",
+    lat: 39.6428,
+    lng: -84.2866,
+    radius: 1400,
+    short: "German mill families and the later Dayton commute. A city that still points at the mound first.",
+    long: "",
+    names: ["Miamisburg"]
+  },
+  {
+    id: "miamisburg-native",
+    name: "Miamisburg Native ground",
+    lat: 39.6276,
+    lng: -84.2813,
+    radius: 1800,
+    short: "The mound is the Native sentence. Adena first. Miami later on the river that kept the name.",
+    long: "",
+    names: ["Adena", "Miami"]
+  },
+  {
+    id: "miamisburg-war",
+    name: "Miamisburg war",
+    lat: 39.6428,
+    lng: -84.2866,
+    radius: 1500,
+    short: "No standing fort downtown. Men left from these mills. The federal later story is Wright Field up the river.",
+    long: "",
+    names: ["Miamisburg"]
+  },
+  {
+    id: "miamisburg-legend",
+    name: "The town under the mound",
+    lat: 39.6276,
+    lng: -84.2813,
+    radius: 1100,
+    short: "The local legend is that you have not seen Miamisburg until you have stood on the mound and looked down at the river town.",
+    long: "",
+    names: ["Miamisburg Mound"]
+  },
+
+  {
+    id: "approach-west-carrollton-oh",
+    name: "West Carrollton",
+    lat: 39.6723,
+    lng: -84.2522,
+    radius: 4000,
+    layer: "approach",
+    short: "You are coming up on West Carrollton. Great Miami town between Miamisburg and Dayton. Paper and the later plants. If you drop in, I'll start on the river side.",
+    long: "",
+    names: ["West Carrollton"]
+  },
+  {
+    id: "west-carrollton-founding",
+    name: "West Carrollton founding",
+    lat: 39.6723,
+    lng: -84.2522,
+    radius: 1300,
+    short: "A mill village on the Miami that kept growing north toward Dayton. The name is the Carrollton that sat west of the older plat.",
+    long: "",
+    names: ["West Carrollton"]
+  },
+  {
+    id: "west-carrollton-paper",
+    name: "West Carrollton mills",
+    lat: 39.6723,
+    lng: -84.2522,
+    radius: 1400,
+    short: "Paper and chemical plants on the river. Same Miami industrial belt as Miamisburg. The payday came off the water.",
+    long: "",
+    names: ["West Carrollton"]
+  },
+  {
+    id: "west-carrollton-canal",
+    name: "West Carrollton canal",
+    lat: 39.6723,
+    lng: -84.2522,
+    radius: 1400,
+    short: "Canal and then rail on this bank. Freight into Dayton. The highway later ran the same corridor.",
+    long: "",
+    names: ["Miami and Erie Canal"]
+  },
+  {
+    id: "west-carrollton-parks",
+    name: "West Carrollton parks",
+    lat: 39.6723,
+    lng: -84.2522,
+    radius: 1300,
+    short: "River parks and the civic greens a mill town kept on the terrace.",
+    long: "",
+    names: ["West Carrollton"]
+  },
+  {
+    id: "west-carrollton-people",
+    name: "West Carrollton people",
+    lat: 39.6723,
+    lng: -84.2522,
+    radius: 1300,
+    short: "Mill families and the Dayton commute. A city that still smells faintly of the plant even when the plant is quieter.",
+    long: "",
+    names: ["West Carrollton"]
+  },
+  {
+    id: "west-carrollton-native",
+    name: "West Carrollton Native ground",
+    lat: 39.6723,
+    lng: -84.2522,
+    radius: 1600,
+    short: "Great Miami bottom. Miami country. The mound sits one town south.",
+    long: "",
+    names: ["Miami"]
+  },
+  {
+    id: "west-carrollton-war",
+    name: "West Carrollton war",
+    lat: 39.6723,
+    lng: -84.2522,
+    radius: 1400,
+    short: "No fort on the main street. Men left from these mills. Wright Field is the later federal neighbor.",
+    long: "",
+    names: ["West Carrollton"]
+  },
+  {
+    id: "west-carrollton-legend",
+    name: "The mill town between two names",
+    lat: 39.6723,
+    lng: -84.2522,
+    radius: 1100,
+    short: "The local legend is that West Carrollton is the town people drive through on the way to Miamisburg or Dayton and never clock. The river clocked it first.",
+    long: "",
+    names: ["West Carrollton"]
+  },
+
+  {
+    id: "approach-moraine-oh",
+    name: "Moraine",
+    lat: 39.7062,
+    lng: -84.1933,
+    radius: 4000,
+    layer: "approach",
+    short: "You are coming up on Moraine. South Dayton industrial city. Plants, the river, and the airport edge. If you drop in, I'll start on the plant side.",
+    long: "",
+    names: ["Moraine"]
+  },
+  {
+    id: "moraine-founding",
+    name: "Moraine founding",
+    lat: 39.7062,
+    lng: -84.1933,
+    radius: 1300,
+    short: "Named for the glacial hills. Incorporated as the plants and the airfield filled the south side of Dayton. A city built on work, not a courthouse.",
+    long: "",
+    names: ["Moraine"]
+  },
+  {
+    id: "moraine-gm",
+    name: "Moraine plants",
+    lat: 39.7062,
+    lng: -84.1933,
+    radius: 1500,
+    short: "General Motors and the other south-side plants wrote the payday. When the lines slowed, the city felt it first.",
+    long: "",
+    names: ["General Motors"]
+  },
+  {
+    id: "moraine-air",
+    name: "Moraine airfield edge",
+    lat: 39.7062,
+    lng: -84.1933,
+    radius: 1500,
+    short: "Dayton International sits north. The south fields and the old flying culture still brush this city. Wright's town next door.",
+    long: "",
+    names: ["Moraine"]
+  },
+  {
+    id: "moraine-parks",
+    name: "Moraine parks",
+    lat: 39.7062,
+    lng: -84.1933,
+    radius: 1300,
+    short: "River and glacial-hill parks. A plant city that kept green on the moraine it was named for.",
+    long: "",
+    names: ["Moraine"]
+  },
+  {
+    id: "moraine-people",
+    name: "Moraine people",
+    lat: 39.7062,
+    lng: -84.1933,
+    radius: 1300,
+    short: "Shop-floor families. A city that still introduces itself with the plant gate even when the gate is quieter.",
+    long: "",
+    names: ["Moraine"]
+  },
+  {
+    id: "moraine-native",
+    name: "Moraine Native ground",
+    lat: 39.7062,
+    lng: -84.1933,
+    radius: 1600,
+    short: "Great Miami terrace and the glacial hills. Miami country before the factory lots.",
+    long: "",
+    names: ["Miami"]
+  },
+  {
+    id: "moraine-war",
+    name: "Moraine war",
+    lat: 39.7062,
+    lng: -84.1933,
+    radius: 1400,
+    short: "The war story here is industrial. Plants for the air war. Wright Field is the neighbor that trained the century.",
+    long: "",
+    names: ["Moraine"]
+  },
+  {
+    id: "moraine-legend",
+    name: "The city named for ice",
+    lat: 39.7062,
+    lng: -84.1933,
+    radius: 1100,
+    short: "The local legend is that Moraine is just Dayton's south plant. The hills and the river were here first. The name admits it.",
+    long: "",
+    names: ["Moraine"]
+  },
+
+  {
+    id: "approach-kettering-oh",
+    name: "Kettering",
+    lat: 39.6895,
+    lng: -84.1688,
+    radius: 5000,
+    layer: "approach",
+    short: "You are coming up on Kettering. Dayton's big south suburb. Named for the man who made the self-starter. If you drop in, I'll start on the civic side.",
+    long: "",
+    names: ["Kettering", "Charles Kettering"]
+  },
+  {
+    id: "kettering-founding",
+    name: "Kettering founding",
+    lat: 39.6895,
+    lng: -84.1688,
+    radius: 1600,
+    short: "Van Buren Township first. Became a city in 1955 and took Charles Kettering's name. A postwar suburb with an inventor on the letterhead.",
+    long: "",
+    names: ["Kettering"]
+  },
+  {
+    id: "kettering-charles",
+    name: "Charles Kettering",
+    lat: 39.6895,
+    lng: -84.1688,
+    radius: 1600,
+    short: "Charles Kettering. Self-starter, Delco, and a pile of other patents. Dayton's inventor. The city put his name on the map after he was already famous.",
+    long: "",
+    names: ["Charles Kettering", "Delco"]
+  },
+  {
+    id: "kettering-roads",
+    name: "Kettering roads",
+    lat: 39.6895,
+    lng: -84.1688,
+    radius: 1600,
+    short: "Not a river mill core. A streetcar-then-car suburb. Far Hills, Stroop, and the later interstates. Commerce followed the pavement.",
+    long: "",
+    names: ["Kettering"]
+  },
+  {
+    id: "kettering-parks",
+    name: "Kettering parks",
+    lat: 39.6895,
+    lng: -84.1688,
+    radius: 1500,
+    short: "Lincoln Park, the civic campus, and the green bits a postwar city built on purpose. Fraze Pavilion sits in that park culture.",
+    long: "",
+    names: ["Lincoln Park", "Fraze Pavilion"]
+  },
+  {
+    id: "kettering-people",
+    name: "Kettering people",
+    lat: 39.6895,
+    lng: -84.1688,
+    radius: 1500,
+    short: "Engineers, teachers, and the south-side commute. A city that still points at an inventor when you ask who it is.",
+    long: "",
+    names: ["Kettering"]
+  },
+  {
+    id: "kettering-native",
+    name: "Kettering Native ground",
+    lat: 39.6895,
+    lng: -84.1688,
+    radius: 1800,
+    short: "Upland south of the Great Miami. Miami hunting ground before the township lines.",
+    long: "",
+    names: ["Miami"]
+  },
+  {
+    id: "kettering-war",
+    name: "Kettering war",
+    lat: 39.6895,
+    lng: -84.1688,
+    radius: 1600,
+    short: "No fort on Far Hills. The war story is Wright Field and the plants. Kettering's name is already an industrial war story — the car that starts in the cold.",
+    long: "",
+    names: ["Charles Kettering"]
+  },
+  {
+    id: "kettering-legend",
+    name: "The suburb named for a starter",
+    lat: 39.6895,
+    lng: -84.1688,
+    radius: 1200,
+    short: "The local legend is that Kettering is just south Dayton with better schools. The name on the sign is a man who changed how every car on that road starts.",
+    long: "",
+    names: ["Charles Kettering"]
+  },
+
+  {
+    id: "approach-oakwood-oh",
+    name: "Oakwood",
+    lat: 39.7256,
+    lng: -84.1741,
+    radius: 3500,
+    layer: "approach",
+    short: "You are coming up on Oakwood. Small city on the hill south of Dayton. Hawthorn Hill. The Wright brothers' later house. If you drop in, I'll start on Far Hills.",
+    long: "",
+    names: ["Oakwood", "Hawthorn Hill"]
+  },
+  {
+    id: "oakwood-hawthorn",
+    name: "Hawthorn Hill",
+    lat: 39.7228,
+    lng: -84.1758,
+    radius: 700,
+    short: "Hawthorn Hill. Orville Wright's house. After Kitty Hawk and Huffman Prairie, this is where the inventor lived on the hill above Dayton.",
+    long: "",
+    names: ["Hawthorn Hill", "Orville Wright"]
+  },
+  {
+    id: "oakwood-founding",
+    name: "Oakwood founding",
+    lat: 39.7256,
+    lng: -84.1741,
+    radius: 1200,
+    short: "A hill suburb carved out so Dayton's managers could live above the smoke. Incorporated early. Still small on purpose.",
+    long: "",
+    names: ["Oakwood"]
+  },
+  {
+    id: "oakwood-roads",
+    name: "Oakwood streets",
+    lat: 39.7256,
+    lng: -84.1741,
+    radius: 1200,
+    short: "Far Hills and the shaded laterals. Not a mill street. A planned hill town. The industrial story is next door in Dayton.",
+    long: "",
+    names: ["Oakwood"]
+  },
+  {
+    id: "oakwood-parks",
+    name: "Oakwood parks",
+    lat: 39.7256,
+    lng: -84.1741,
+    radius: 1200,
+    short: "Small civic greens and the private lawns that make the hill look like a park. A city that kept the trees in the name.",
+    long: "",
+    names: ["Oakwood"]
+  },
+  {
+    id: "oakwood-people",
+    name: "Oakwood people",
+    lat: 39.7256,
+    lng: -84.1741,
+    radius: 1200,
+    short: "The Wrights on the hill. NCR and GM managers after them. A tiny city with a long list of names that ran Dayton.",
+    long: "",
+    names: ["Orville Wright"]
+  },
+  {
+    id: "oakwood-native",
+    name: "Oakwood Native ground",
+    lat: 39.7256,
+    lng: -84.1741,
+    radius: 1500,
+    short: "The hill above the Miami. Miami hunting ground before the lots.",
+    long: "",
+    names: ["Miami"]
+  },
+  {
+    id: "oakwood-war",
+    name: "Oakwood war",
+    lat: 39.7256,
+    lng: -84.1741,
+    radius: 1300,
+    short: "No fort. The war story is the airfield and the house where Orville still lived while the century learned to fly for war.",
+    long: "",
+    names: ["Orville Wright"]
+  },
+  {
+    id: "oakwood-legend",
+    name: "The hill above the shop",
+    lat: 39.7228,
+    lng: -84.1758,
+    radius: 900,
+    short: "The local legend is that Oakwood is where Dayton went when it wanted quiet. Hawthorn Hill is why the quiet still matters.",
+    long: "",
+    names: ["Hawthorn Hill"]
+  },
+
+  {
+    id: "approach-centerville-oh",
+    name: "Centerville",
+    lat: 39.6284,
+    lng: -84.1594,
+    radius: 4500,
+    layer: "approach",
+    short: "You are coming up on Centerville. South of Dayton. Old stone village on the ridge, then the later lots. If you drop in, I'll start on Main.",
+    long: "",
+    names: ["Centerville"]
+  },
+  {
+    id: "centerville-founding",
+    name: "Centerville founding",
+    lat: 39.6284,
+    lng: -84.1594,
+    radius: 1400,
+    short: "Settled early on the ridge road south of Dayton. Stone houses first. The name is the middle of the township.",
+    long: "",
+    names: ["Centerville"]
+  },
+  {
+    id: "centerville-stone",
+    name: "Centerville stone village",
+    lat: 39.6284,
+    lng: -84.1594,
+    radius: 800,
+    short: "The old stone commercial blocks and houses. A village that kept more 19th-century street than most Dayton suburbs.",
+    long: "",
+    names: ["Centerville"]
+  },
+  {
+    id: "centerville-roads",
+    name: "Centerville roads",
+    lat: 39.6284,
+    lng: -84.1594,
+    radius: 1500,
+    short: "The old Cincinnati-Dayton road. Then I-675. A ridge town that became an exit town without losing Main.",
+    long: "",
+    names: ["Centerville"]
+  },
+  {
+    id: "centerville-parks",
+    name: "Centerville parks",
+    lat: 39.6284,
+    lng: -84.1594,
+    radius: 1400,
+    short: "Grant Park, the township greens, and the library campus. A suburb that kept a village lawn.",
+    long: "",
+    names: ["Grant Park"]
+  },
+  {
+    id: "centerville-people",
+    name: "Centerville people",
+    lat: 39.6284,
+    lng: -84.1594,
+    radius: 1400,
+    short: "Farm families, then the south-side commute. A city that still walks the stone block when it wants to remember.",
+    long: "",
+    names: ["Centerville"]
+  },
+  {
+    id: "centerville-native",
+    name: "Centerville Native ground",
+    lat: 39.6284,
+    lng: -84.1594,
+    radius: 1700,
+    short: "Ridge between drainages. Miami hunting ground before the stone lots.",
+    long: "",
+    names: ["Miami"]
+  },
+  {
+    id: "centerville-war",
+    name: "Centerville war",
+    lat: 39.6284,
+    lng: -84.1594,
+    radius: 1500,
+    short: "No fort on Main. Men left from these farms. Wright Field is the later federal neighbor.",
+    long: "",
+    names: ["Centerville"]
+  },
+  {
+    id: "centerville-legend",
+    name: "The stone street on the ridge",
+    lat: 39.6284,
+    lng: -84.1594,
+    radius: 1100,
+    short: "The local legend is that Centerville is just another Dayton suburb until you hit the stone village. Then it is a different century.",
+    long: "",
+    names: ["Centerville"]
+  },
+
 
 
 

@@ -18417,6 +18417,744 @@ const STORIES = [
     long: "",
     names: ["Newton Falls"]
   },
+ {
+    id: "approach-girard-oh",
+    name: "Girard Ohio",
+    lat: 41.1542,
+    lng: -80.7015,
+    radius: 5000,
+    layer: "approach",
+    short: "You are coming up on Girard. Mill town on the Mahoning between Youngstown and Niles. If you drop downtown, I'll start on State Street.",
+    long: "",
+    names: ["Girard"]
+  },
+  {
+    id: "girard-founding",
+    name: "Girard founding",
+    lat: 41.1542,
+    lng: -80.7015,
+    radius: 1400,
+    short: "Named for Stephen Girard. A canal and river village that became a mill city when the valley filled. Liberty Township's old landing.",
+    long: "",
+    names: ["Stephen Girard"]
+  },
+  {
+    id: "girard-steel",
+    name: "Girard steel",
+    lat: 41.1542,
+    lng: -80.7015,
+    radius: 1500,
+    short: "Mills on the Mahoning. Same sheet-and-tube world as Niles and Youngstown. A short main street with a long stack memory.",
+    long: "",
+    names: ["Mahoning River"]
+  },
+  {
+    id: "girard-parks",
+    name: "Girard parks",
+    lat: 41.1542,
+    lng: -80.7015,
+    radius: 1400,
+    short: "The river park and the high-school green. A mill town that kept a lawn above the water.",
+    long: "",
+    names: ["Girard"]
+  },
+  {
+    id: "girard-people",
+    name: "Girard people",
+    lat: 41.1542,
+    lng: -80.7015,
+    radius: 1400,
+    short: "Furnace families packed between Niles and Youngstown. People here will tell you they are not either neighbor.",
+    long: "",
+    names: ["Girard"]
+  },
+  {
+    id: "girard-native",
+    name: "Girard Native ground",
+    lat: 41.1542,
+    lng: -80.7015,
+    radius: 1600,
+    short: "Mahoning bank. Same hunting ground as the rest of the valley. The name is a Philadelphia merchant. The river is local.",
+    long: "",
+    names: ["Mahoning River"]
+  },
+  {
+    id: "girard-war",
+    name: "Girard war",
+    lat: 41.1542,
+    lng: -80.7015,
+    radius: 1500,
+    short: "No fort downtown. The mills were the war work. Valley companies left from this bank.",
+    long: "",
+    names: ["Girard"]
+  },
+  {
+    id: "girard-legend",
+    name: "Between two bigger names",
+    lat: 41.1542,
+    lng: -80.7015,
+    radius: 1000,
+    short: "The legend is the squeeze. Youngstown south. Niles north. Girard in the middle with its own whistle. People still refuse the fold-in.",
+    long: "",
+    names: ["Girard"]
+  },
+
+  {
+    id: "approach-hubbard-oh",
+    name: "Hubbard Ohio",
+    lat: 41.1564,
+    lng: -80.5692,
+    radius: 5000,
+    layer: "approach",
+    short: "You are coming up on Hubbard. East edge of the Mahoning valley. Almost Pennsylvania. If you drop downtown, I'll start on Main.",
+    long: "",
+    names: ["Hubbard"]
+  },
+  {
+    id: "hubbard-founding",
+    name: "Hubbard founding",
+    lat: 41.1564,
+    lng: -80.5692,
+    radius: 1400,
+    short: "Named for Nehemiah Hubbard, a Connecticut landholder. A Reserve township that became a small city on the state line.",
+    long: "",
+    names: ["Nehemiah Hubbard"]
+  },
+  {
+    id: "hubbard-coal-steel",
+    name: "Hubbard coal and steel",
+    lat: 41.1564,
+    lng: -80.5692,
+    radius: 1500,
+    short: "Coal under the township. Then mills in the valley. Hubbard sent fuel and men east and west. A border town with a pit memory.",
+    long: "",
+    names: ["Hubbard"]
+  },
+  {
+    id: "hubbard-parks",
+    name: "Hubbard parks",
+    lat: 41.1564,
+    lng: -80.5692,
+    radius: 1400,
+    short: "The civic park and the school green. A line town that kept a lawn off Main.",
+    long: "",
+    names: ["Hubbard"]
+  },
+  {
+    id: "hubbard-people",
+    name: "Hubbard people",
+    lat: 41.1564,
+    lng: -80.5692,
+    radius: 1400,
+    short: "Mine and mill families. Ohio addresses with Pennsylvania radio. The line is a survey. The work was shared.",
+    long: "",
+    names: ["Hubbard"]
+  },
+  {
+    id: "hubbard-native",
+    name: "Hubbard Native ground",
+    lat: 41.1564,
+    lng: -80.5692,
+    radius: 1600,
+    short: "Mahoning upland toward the Pennsylvania line. Hunting ground before the Reserve lots.",
+    long: "",
+    names: ["Hubbard"]
+  },
+  {
+    id: "hubbard-war",
+    name: "Hubbard war",
+    lat: 41.1564,
+    lng: -80.5692,
+    radius: 1500,
+    short: "No fort downtown. Township men left from here. The later work was coal and steel for bigger wars down the valley.",
+    long: "",
+    names: ["Hubbard"]
+  },
+  {
+    id: "hubbard-legend",
+    name: "The line town",
+    lat: 41.1564,
+    lng: -80.5692,
+    radius: 1000,
+    short: "The legend is the border. People shop both states and still say Hubbard. The survey is sharp. The living is not.",
+    long: "",
+    names: ["Hubbard"]
+  },
+
+  {
+    id: "approach-cortland-oh",
+    name: "Cortland Ohio",
+    lat: 41.3303,
+    lng: -80.7254,
+    radius: 5000,
+    layer: "approach",
+    short: "You are coming up on Cortland. North of Warren. Lake town on the Mosquito Creek side. If you drop into town, I'll start on High Street.",
+    long: "",
+    names: ["Cortland"]
+  },
+  {
+    id: "cortland-founding",
+    name: "Cortland founding",
+    lat: 41.3303,
+    lng: -80.7254,
+    radius: 1400,
+    short: "First called Baconsburg. Later Cortland. A farm village in Bazetta Township that became a small city when the lakes and the highway filled the north side of Warren.",
+    long: "",
+    names: ["Baconsburg"]
+  },
+  {
+    id: "cortland-lakes",
+    name: "Cortland lakes",
+    lat: 41.3303,
+    lng: -80.7254,
+    radius: 1800,
+    short: "Mosquito Creek Lake is the water that remade this map. A reservoir for flood control and a weekend shore. Cortland became the town you stop in on the way to the water.",
+    long: "",
+    names: ["Mosquito Creek Lake"]
+  },
+  {
+    id: "cortland-parks",
+    name: "Cortland parks",
+    lat: 41.3303,
+    lng: -80.7254,
+    radius: 1400,
+    short: "The village parks and the lake access. A farm street that learned how to be a marina town.",
+    long: "",
+    names: ["Cortland"]
+  },
+  {
+    id: "cortland-people",
+    name: "Cortland people",
+    lat: 41.3303,
+    lng: -80.7254,
+    radius: 1400,
+    short: "Warren workers who moved north. Lake people on the weekend. A small city with two calendars.",
+    long: "",
+    names: ["Cortland"]
+  },
+  {
+    id: "cortland-native",
+    name: "Cortland Native ground",
+    lat: 41.3303,
+    lng: -80.7254,
+    radius: 1800,
+    short: "Mosquito Creek drainage to the Mahoning. Hunting and wetland ground before the dam. The lake is new. The creek is not.",
+    long: "",
+    names: ["Mosquito Creek"]
+  },
+  {
+    id: "cortland-war",
+    name: "Cortland war",
+    lat: 41.3303,
+    lng: -80.7254,
+    radius: 1500,
+    short: "No fort. Township men left from here. The later federal work was the reservoir, not a battery.",
+    long: "",
+    names: ["Cortland"]
+  },
+  {
+    id: "cortland-legend",
+    name: "Baconsburg under the lake town",
+    lat: 41.3303,
+    lng: -80.7254,
+    radius: 1000,
+    short: "The legend is the first name. Baconsburg was the village. Cortland is the city. Old families still know both.",
+    long: "",
+    names: ["Baconsburg"]
+  },
+
+  {
+    id: "approach-howland",
+    name: "Howland",
+    lat: 41.2362,
+    lng: -80.7454,
+    radius: 6000,
+    layer: "approach",
+    short: "You are coming up on Howland. The township east of Warren. Springs and later subdivisions. If you drop in, I'll start on East Market.",
+    long: "",
+    names: ["Howland"]
+  },
+  {
+    id: "howland-founding",
+    name: "Howland founding",
+    lat: 41.2362,
+    lng: -80.7454,
+    radius: 1600,
+    short: "Named for Joseph Howland, a Connecticut proprietor. Western Reserve township that stayed a township while Warren became the city next door.",
+    long: "",
+    names: ["Joseph Howland"]
+  },
+  {
+    id: "howland-springs",
+    name: "Howland Springs",
+    lat: 41.2362,
+    lng: -80.7454,
+    radius: 1400,
+    short: "Howland Springs was the early draw. Mineral water and a hotel story. Before the subdivisions, people came for the well.",
+    long: "",
+    names: ["Howland Springs"]
+  },
+  {
+    id: "howland-suburb",
+    name: "Howland township",
+    lat: 41.2362,
+    lng: -80.7454,
+    radius: 1800,
+    short: "After the war the lots filled. East of Warren, not in it. Schools and strips that absorbed the county's next generation.",
+    long: "",
+    names: ["Howland"]
+  },
+  {
+    id: "howland-parks",
+    name: "Howland parks",
+    lat: 41.2362,
+    lng: -80.7454,
+    radius: 1600,
+    short: "Township parks and the school greens. A lawn map between Warren and the airport road.",
+    long: "",
+    names: ["Howland"]
+  },
+  {
+    id: "howland-native",
+    name: "Howland Native ground",
+    lat: 41.2362,
+    lng: -80.7454,
+    radius: 1800,
+    short: "Mahoning upland. Hunting ground before the Reserve lots. The springs were already here.",
+    long: "",
+    names: ["Howland Springs"]
+  },
+  {
+    id: "howland-war",
+    name: "Howland war",
+    lat: 41.2362,
+    lng: -80.7454,
+    radius: 1600,
+    short: "No fort. Township men left from here. The later work was Warren's mills and the airfield to the north.",
+    long: "",
+    names: ["Howland"]
+  },
+  {
+    id: "howland-legend",
+    name: "Not Warren",
+    lat: 41.2362,
+    lng: -80.7454,
+    radius: 1200,
+    short: "The legend is the same township line you hear in Boardman. Same stores. Different government. People will correct the address.",
+    long: "",
+    names: ["Howland"]
+  },
+
+  {
+    id: "approach-vienna-oh",
+    name: "Vienna Ohio",
+    lat: 41.2381,
+    lng: -80.6612,
+    radius: 6000,
+    layer: "approach",
+    short: "You are coming up on Vienna. Township north of Hubbard. The airport that serves Youngstown and Warren sits here. If you drop in, I'll start on the ridge.",
+    long: "",
+    names: ["Vienna"]
+  },
+  {
+    id: "vienna-founding",
+    name: "Vienna founding",
+    lat: 41.2381,
+    lng: -80.6612,
+    radius: 1600,
+    short: "Western Reserve township named Vienna. A farm grid that stayed a township. The later fame is the runway, not a mill stack.",
+    long: "",
+    names: ["Vienna"]
+  },
+  {
+    id: "vienna-airport",
+    name: "Youngstown-Warren airport",
+    lat: 41.2603,
+    lng: -80.6791,
+    radius: 2000,
+    short: "Youngstown-Warren Regional Airport is in Vienna. Built as a wartime field and kept as the valley's commercial strip. A township that became the region's front door from the air.",
+    long: "",
+    names: ["Youngstown-Warren Regional Airport"]
+  },
+  {
+    id: "vienna-parks",
+    name: "Vienna parks",
+    lat: 41.2381,
+    lng: -80.6612,
+    radius: 1600,
+    short: "Township parks and the cemetery green. A ridge town with a lawn beside a runway.",
+    long: "",
+    names: ["Vienna"]
+  },
+  {
+    id: "vienna-people",
+    name: "Vienna people",
+    lat: 41.2381,
+    lng: -80.6612,
+    radius: 1600,
+    short: "Farm families and later airport workers. People here live under the approach path and still call it the township.",
+    long: "",
+    names: ["Vienna"]
+  },
+  {
+    id: "vienna-native",
+    name: "Vienna Native ground",
+    lat: 41.2381,
+    lng: -80.6612,
+    radius: 1800,
+    short: "Mahoning upland. Hunting ground before the Reserve lots. The field is graded. The ridge is not.",
+    long: "",
+    names: ["Vienna"]
+  },
+  {
+    id: "vienna-war",
+    name: "Vienna airfield war",
+    lat: 41.2603,
+    lng: -80.6791,
+    radius: 2000,
+    short: "The field started as a wartime airfield. Training and transport. The later commercial name still sits on that military plat.",
+    long: "",
+    names: ["Youngstown-Warren Regional Airport"]
+  },
+  {
+    id: "vienna-legend",
+    name: "The township with the runway",
+    lat: 41.2381,
+    lng: -80.6612,
+    radius: 1200,
+    short: "The legend is that Vienna is quiet until a jet goes over. People from the cities land here and never see the township hall. The map still says Vienna.",
+    long: "",
+    names: ["Vienna"]
+  },
+
+  {
+    id: "approach-brookfield-oh",
+    name: "Brookfield Ohio",
+    lat: 41.2348,
+    lng: -80.5584,
+    radius: 5000,
+    layer: "approach",
+    short: "You are coming up on Brookfield. Trumbull County on the Pennsylvania line. Yankee Lake country. If you drop in, I'll start on the ridge road.",
+    long: "",
+    names: ["Brookfield"]
+  },
+  {
+    id: "brookfield-founding",
+    name: "Brookfield founding",
+    lat: 41.2348,
+    lng: -80.5584,
+    radius: 1600,
+    short: "Western Reserve township named Brookfield. A farm grid on the state line. Later a small commercial strip without becoming a city.",
+    long: "",
+    names: ["Brookfield"]
+  },
+  {
+    id: "brookfield-yankee-lake",
+    name: "Yankee Lake",
+    lat: 41.2670,
+    lng: -80.5670,
+    radius: 1600,
+    short: "Yankee Lake is the water. A resort pond that drew dance halls and summer people. Brookfield's name on the weekend map.",
+    long: "",
+    names: ["Yankee Lake"]
+  },
+  {
+    id: "brookfield-parks",
+    name: "Brookfield parks",
+    lat: 41.2348,
+    lng: -80.5584,
+    radius: 1600,
+    short: "Township parks and the lake edge. A line township that kept a lawn and a beach.",
+    long: "",
+    names: ["Brookfield"]
+  },
+  {
+    id: "brookfield-people",
+    name: "Brookfield people",
+    lat: 41.2348,
+    lng: -80.5584,
+    radius: 1600,
+    short: "Farm families and later mill workers who lived on the Ohio side and worked both states. The line is a survey.",
+    long: "",
+    names: ["Brookfield"]
+  },
+  {
+    id: "brookfield-native",
+    name: "Brookfield Native ground",
+    lat: 41.2348,
+    lng: -80.5584,
+    radius: 1800,
+    short: "Upland toward the Pennsylvania line. Hunting ground before the Reserve lots.",
+    long: "",
+    names: ["Brookfield"]
+  },
+  {
+    id: "brookfield-war",
+    name: "Brookfield war",
+    lat: 41.2348,
+    lng: -80.5584,
+    radius: 1600,
+    short: "No fort. Township men left from here. The later work was the valley mills and the line traffic.",
+    long: "",
+    names: ["Brookfield"]
+  },
+  {
+    id: "brookfield-legend",
+    name: "The lake on the line",
+    lat: 41.2348,
+    lng: -80.5584,
+    radius: 1200,
+    short: "The legend is Yankee Lake after dark. Dance hall stories and a township that still points to the water when you ask what Brookfield is.",
+    long: "",
+    names: ["Yankee Lake"]
+  },
+
+  {
+    id: "approach-masury",
+    name: "Masury",
+    lat: 41.2112,
+    lng: -80.5384,
+    radius: 4000,
+    layer: "approach",
+    short: "You are coming up on Masury. A line settlement on the Pennsylvania border. If you drop in, I'll start on the state-line road.",
+    long: "",
+    names: ["Masury"]
+  },
+  {
+    id: "masury-founding",
+    name: "Masury founding",
+    lat: 41.2112,
+    lng: -80.5384,
+    radius: 1200,
+    short: "Named for the Masury family and the paint works that once sat on this line. A settlement that grew because the border and the railroad met.",
+    long: "",
+    names: ["Masury"]
+  },
+  {
+    id: "masury-paint",
+    name: "Masury paint",
+    lat: 41.2112,
+    lng: -80.5384,
+    radius: 1200,
+    short: "Masury paint was the industry. A brand on a map. The works faded. The name stayed on the Ohio side of Sharon.",
+    long: "",
+    names: ["Masury"]
+  },
+  {
+    id: "masury-line",
+    name: "Masury state line",
+    lat: 41.2112,
+    lng: -80.5384,
+    radius: 1400,
+    short: "The survey is the civic fact. Ohio houses, Pennsylvania stores. A place people cross without noticing the sign.",
+    long: "",
+    names: ["Masury"]
+  },
+  {
+    id: "masury-parks",
+    name: "Masury parks",
+    lat: 41.2112,
+    lng: -80.5384,
+    radius: 1200,
+    short: "Small greens and the school lots. A line town without a courthouse square.",
+    long: "",
+    names: ["Masury"]
+  },
+  {
+    id: "masury-native",
+    name: "Masury Native ground",
+    lat: 41.2112,
+    lng: -80.5384,
+    radius: 1600,
+    short: "Upland on the state line. Hunting ground before the lots. The paint works were later.",
+    long: "",
+    names: ["Masury"]
+  },
+  {
+    id: "masury-war",
+    name: "Masury war",
+    lat: 41.2112,
+    lng: -80.5384,
+    radius: 1400,
+    short: "No fort. Men left from this line for the valley companies. The later work was the mills on both sides.",
+    long: "",
+    names: ["Masury"]
+  },
+  {
+    id: "masury-legend",
+    name: "Ohio by a few yards",
+    lat: 41.2112,
+    lng: -80.5384,
+    radius: 1000,
+    short: "The legend is the sign. People say they live in Masury and mean a strip that is Ohio on paper and Sharon in practice.",
+    long: "",
+    names: ["Masury"]
+  },
+
+  {
+    id: "approach-orangeville-oh",
+    name: "Orangeville Ohio",
+    lat: 41.3417,
+    lng: -80.5217,
+    radius: 4000,
+    layer: "approach",
+    short: "You are coming up on Orangeville. Tiny village on the Pennsylvania line near the Pymatuning side. If you drop in, I'll start on the creek road.",
+    long: "",
+    names: ["Orangeville"]
+  },
+  {
+    id: "orangeville-founding",
+    name: "Orangeville founding",
+    lat: 41.3417,
+    lng: -80.5217,
+    radius: 1200,
+    short: "A line village in Hartford Township. Orangeville grew at a crossing and stayed small. Ohio by the survey. Pennsylvania by the next farm.",
+    long: "",
+    names: ["Orangeville"]
+  },
+  {
+    id: "orangeville-creek",
+    name: "Orangeville creek",
+    lat: 41.3417,
+    lng: -80.5217,
+    radius: 1400,
+    short: "Pymatuning drainage. A creek town before the reservoir remade the county's north water. The village sat on the stream first.",
+    long: "",
+    names: ["Pymatuning Creek"]
+  },
+  {
+    id: "orangeville-parks",
+    name: "Orangeville parks",
+    lat: 41.3417,
+    lng: -80.5217,
+    radius: 1200,
+    short: "The village lot and the creek bank. A line town without a mall or a mill stack.",
+    long: "",
+    names: ["Orangeville"]
+  },
+  {
+    id: "orangeville-people",
+    name: "Orangeville people",
+    lat: 41.3417,
+    lng: -80.5217,
+    radius: 1200,
+    short: "Farm families who vote in Ohio and shop across the line. A village that never needed a second street.",
+    long: "",
+    names: ["Orangeville"]
+  },
+  {
+    id: "orangeville-native",
+    name: "Orangeville Native ground",
+    lat: 41.3417,
+    lng: -80.5217,
+    radius: 1600,
+    short: "Pymatuning creek country. Hunting and wetland ground before the lots.",
+    long: "",
+    names: ["Pymatuning Creek"]
+  },
+  {
+    id: "orangeville-war",
+    name: "Orangeville war",
+    lat: 41.3417,
+    lng: -80.5217,
+    radius: 1400,
+    short: "No fort. Township men left from here. The later federal story is the reservoir to the north, not a battery in town.",
+    long: "",
+    names: ["Orangeville"]
+  },
+  {
+    id: "orangeville-legend",
+    name: "The last Ohio street",
+    lat: 41.3417,
+    lng: -80.5217,
+    radius: 1000,
+    short: "The legend is that Orangeville is easy to miss and hard to explain. People who grew up here can still point to the line from the porch.",
+    long: "",
+    names: ["Orangeville"]
+  },
+
+  {
+    id: "approach-west-farmington",
+    name: "West Farmington",
+    lat: 41.3909,
+    lng: -80.9723,
+    radius: 4000,
+    layer: "approach",
+    short: "You are coming up on West Farmington. Small village in Farmington Township. Grand River headwaters. If you drop in, I'll start on the square.",
+    long: "",
+    names: ["West Farmington"]
+  },
+  {
+    id: "west-farmington-founding",
+    name: "West Farmington founding",
+    lat: 41.3909,
+    lng: -80.9723,
+    radius: 1200,
+    short: "The west village of Farmington Township. A Western Reserve farm center that never became a mill city. The name is the compass point on the township.",
+    long: "",
+    names: ["West Farmington"]
+  },
+  {
+    id: "west-farmington-river",
+    name: "West Farmington headwaters",
+    lat: 41.3909,
+    lng: -80.9723,
+    radius: 1600,
+    short: "Grand River country. Headwater farms before the river becomes the Lake County story. This village sits near the start of that water.",
+    long: "",
+    names: ["Grand River"]
+  },
+  {
+    id: "west-farmington-parks",
+    name: "West Farmington parks",
+    lat: 41.3909,
+    lng: -80.9723,
+    radius: 1200,
+    short: "The village green and the school lot. A township center with a lawn instead of a stack.",
+    long: "",
+    names: ["West Farmington"]
+  },
+  {
+    id: "west-farmington-people",
+    name: "West Farmington people",
+    lat: 41.3909,
+    lng: -80.9723,
+    radius: 1200,
+    short: "Farm families and later commuters toward Warren. A village that still measures itself in acres.",
+    long: "",
+    names: ["West Farmington"]
+  },
+  {
+    id: "west-farmington-native",
+    name: "West Farmington Native ground",
+    lat: 41.3909,
+    lng: -80.9723,
+    radius: 1600,
+    short: "Grand River headwater ground. Hunting country before the Reserve lots.",
+    long: "",
+    names: ["Grand River"]
+  },
+  {
+    id: "west-farmington-war",
+    name: "West Farmington war",
+    lat: 41.3909,
+    lng: -80.9723,
+    radius: 1400,
+    short: "No fort. Township men left from here. The later story is the same county companies as Warren.",
+    long: "",
+    names: ["West Farmington"]
+  },
+  {
+    id: "west-farmington-legend",
+    name: "The west village",
+    lat: 41.3909,
+    lng: -80.9723,
+    radius: 1000,
+    short: "The legend is the word West. Farmington is the township. This is the village that kept the name on a sign.",
+    long: "",
+    names: ["West Farmington"]
+  },
+
 
 
     ];

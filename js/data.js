@@ -9713,7 +9713,7 @@ const STORIES = [
     short: "Shawnee ground until Greenville, 1795. The Mad River and the Miami were corridors. Settlement waited on that treaty. The town is named for a New Jersey signer, not for the people who used the forks first.",
     long: "",
     names: ["Shawnee", "Treaty of Greenville"]
-  }
+  },
   {
     id: "dayton-flood-1913",
     name: "Dayton 1913 flood",
@@ -10980,7 +10980,7 @@ const STORIES = [
     short: "They called him Boss Ket. Farm boy, barn lab, thousand patents. The legend is that one man named a city because he hated cranking a car in the cold. Close enough.",
     long: "",
     names: ["Charles Kettering"]
-  }
+  },
   {
     id: "approach-lakewood",
     name: "Lakewood",

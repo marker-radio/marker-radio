@@ -26996,6 +26996,7930 @@ const STORIES = [
     long: "",
     names: ["Xenia"]
   },
-  
+    {
+    id: "approach-avilla-in",
+    name: "Avilla",
+    lat: 41.3639,
+    lng: -85.2364,
+    radius: 3500,
+    layer: "approach",
+    short: "You are coming up on Avilla. Old Hill Town on the Lima Road. Railroads later. If you drop in, I'll start on Main.",
+    long: "",
+    names: ["Avilla"]
+  },
+  {
+    id: "avilla-founding",
+    name: "Avilla founding",
+    lat: 41.3639,
+    lng: -85.2364,
+    radius: 1200,
+    short: "Noah Hill put a store and tavern on the Lima Road. People called it Hill Town. Judge Randall named it Avilla.",
+    long: "",
+    names: ["Noah Hill"]
+  },
+  {
+    id: "avilla-lima-road",
+    name: "Lima Road",
+    lat: 41.3639,
+    lng: -85.2364,
+    radius: 1500,
+    short: "Lima Road started as the Mongoquinon trail. Then plank. Then pavement. Avilla sat on that north-south path between Howe and Fort Wayne.",
+    long: "",
+    names: ["Lima Road"]
+  },
+  {
+    id: "avilla-rail",
+    name: "Avilla railroads",
+    lat: 41.3639,
+    lng: -85.2364,
+    radius: 1400,
+    short: "The Grand Rapids and Indiana and the Baltimore line made the village. Grain and passengers. Then the cars came.",
+    long: "",
+    names: ["Grand Rapids and Indiana"]
+  },
+  {
+    id: "avilla-st-james",
+    name: "St. James Hotel",
+    lat: 41.3639,
+    lng: -85.2364,
+    radius: 700,
+    short: "The St. James opened in 1878. Hotel first. Restaurant later. One of the oldest buildings still working on Main.",
+    long: "",
+    names: ["St. James"]
+  },
+  {
+    id: "avilla-churches",
+    name: "Avilla churches",
+    lat: 41.3639,
+    lng: -85.2364,
+    radius: 1100,
+    short: "Immanuel Lutheran from 1844. St. Mary dedicated in 1878. A small town with old parishes on purpose.",
+    long: "",
+    names: ["Avilla"]
+  },
+  {
+    id: "avilla-people",
+    name: "Avilla people",
+    lat: 41.3639,
+    lng: -85.2364,
+    radius: 1200,
+    short: "Tavern families first. Then rail crews. Then the Fort Wayne commute. A town that still points at Hill Town.",
+    long: "",
+    names: ["Noah Hill"]
+  },
+  {
+    id: "avilla-native",
+    name: "Avilla Native ground",
+    lat: 41.3639,
+    lng: -85.2364,
+    radius: 1700,
+    short: "The Lima Road is an old path. Miami and Potawatomi country before the tavern.",
+    long: "",
+    names: ["Miami", "Potawatomi"]
+  },
+  {
+    id: "avilla-war",
+    name: "Avilla war",
+    lat: 41.3639,
+    lng: -85.2364,
+    radius: 1300,
+    short: "No fort on Main. Men left from these farms. The later story is the road and the rails.",
+    long: "",
+    names: ["Avilla"]
+  },
+  {
+    id: "avilla-legend",
+    name: "Hill Town under a French name",
+    lat: 41.3639,
+    lng: -85.2364,
+    radius: 1000,
+    short: "The local legend is that Avilla was always a pass-through. It started as one man's tavern on an Indian road.",
+    long: "",
+    names: ["Noah Hill"]
+  },
+  {
+    id: "approach-huntertown-in",
+    name: "Huntertown",
+    lat: 41.2278,
+    lng: -85.1694,
+    radius: 3500,
+    layer: "approach",
+    short: "You are coming up on Huntertown. First called The Opening. Lima Plank Road. If you drop in, I'll start on Old Lima.",
+    long: "",
+    names: ["Huntertown"]
+  },
+  {
+    id: "huntertown-founding",
+    name: "Huntertown founding",
+    lat: 41.2278,
+    lng: -85.1694,
+    radius: 1200,
+    short: "A natural clearing in the forest. People called it The Opening. William Hunter settled it. Platted in 1869. Incorporated in 1966.",
+    long: "",
+    names: ["William T. Hunter"]
+  },
+  {
+    id: "huntertown-plank",
+    name: "Lima Plank Road",
+    lat: 41.2278,
+    lng: -85.1694,
+    radius: 1500,
+    short: "Huntertown sat on the Lima Plank Road from Howe to Fort Wayne. The village is still organized around that old line.",
+    long: "",
+    names: ["Lima Plank Road"]
+  },
+  {
+    id: "huntertown-seminary",
+    name: "Perry Centre Seminary",
+    lat: 41.2278,
+    lng: -85.1694,
+    radius: 1100,
+    short: "Perry Centre Seminary opened in 1856. It closed in 1861 when the faculty and the adult students enlisted together.",
+    long: "",
+    names: ["Perry Centre Seminary"]
+  },
+  {
+    id: "huntertown-weather",
+    name: "Huntertown weather record",
+    lat: 41.2278,
+    lng: -85.1694,
+    radius: 1200,
+    short: "Rapin Andrews started weather notes here in 1839. One of the oldest farm weather records in the country.",
+    long: "",
+    names: ["Rapin Andrews"]
+  },
+  {
+    id: "huntertown-people",
+    name: "Huntertown people",
+    lat: 41.2278,
+    lng: -85.1694,
+    radius: 1200,
+    short: "Clearing families first. Then plank-road traffic. Then north Fort Wayne growth. A town that still leads with The Opening.",
+    long: "",
+    names: ["William T. Hunter"]
+  },
+  {
+    id: "huntertown-native",
+    name: "Huntertown Native ground",
+    lat: 41.2278,
+    lng: -85.1694,
+    radius: 1700,
+    short: "The Opening was already a gap in the timber. Miami country on the path north of the Maumee headwaters.",
+    long: "",
+    names: ["Miami"]
+  },
+  {
+    id: "huntertown-war",
+    name: "Huntertown war",
+    lat: 41.2278,
+    lng: -85.1694,
+    radius: 1300,
+    short: "The seminary emptied into the Union Army. That is the war story this town still owns.",
+    long: "",
+    names: ["Perry Centre Seminary"]
+  },
+  {
+    id: "huntertown-legend",
+    name: "The hole in the woods",
+    lat: 41.2278,
+    lng: -85.1694,
+    radius: 1000,
+    short: "The local legend is that Huntertown is only new north-side housing. It started as a burned-out clearing on a plank road.",
+    long: "",
+    names: ["Huntertown"]
+  },
+  {
+    id: "approach-dupont-fort-wayne",
+    name: "North Fort Wayne",
+    lat: 41.1610,
+    lng: -85.1280,
+    radius: 4000,
+    layer: "approach",
+    short: "You are coming into north Fort Wayne on the Dupont side. Lima Road country. The old path into the city. If you keep going, the river town starts south of here.",
+    long: "",
+    names: ["Fort Wayne"]
+  },
+
+  {
+    id: "approach-garrett-in",
+    name: "Garrett",
+    lat: 41.3492,
+    lng: -85.1355,
+    radius: 4000,
+    layer: "approach",
+    short: "You are coming up on Garrett. A B and O railroad town named for a railroad president. If you drop in, I'll start by the tracks.",
+    long: "",
+    names: ["Garrett"]
+  },
+  {
+    id: "garrett-founding",
+    name: "Garrett founding",
+    lat: 41.3492,
+    lng: -85.1355,
+    radius: 1400,
+    short: "The Baltimore and Ohio laid this town out in the 1870s. Named for John W. Garrett, president of the B and O. Fifty acres for a shop town.",
+    long: "",
+    names: ["John W. Garrett"]
+  },
+  {
+    id: "garrett-shops",
+    name: "Garrett railroad shops",
+    lat: 41.3492,
+    lng: -85.1355,
+    radius: 1500,
+    short: "Shops, yards, and a roundhouse. Almost ninety acres of track and buildings. Garrett built and fixed steam locomotives for the Chicago division.",
+    long: "",
+    names: ["Baltimore and Ohio"]
+  },
+  {
+    id: "garrett-freight-house",
+    name: "B and O freight house",
+    lat: 41.3492,
+    lng: -85.1355,
+    radius: 800,
+    short: "The 1901 freight house is now the museum. The passenger station is gone. The freight house is what they kept.",
+    long: "",
+    names: ["Baltimore and Ohio"]
+  },
+  {
+    id: "garrett-creek-chub",
+    name: "Creek Chub Bait",
+    lat: 41.3492,
+    lng: -85.1355,
+    radius: 1100,
+    short: "Creek Chub Bait Company. Wooden lures from a railroad town. Fishermen still know the name.",
+    long: "",
+    names: ["Creek Chub"]
+  },
+  {
+    id: "garrett-csx",
+    name: "Garrett still on the line",
+    lat: 41.3492,
+    lng: -85.1355,
+    radius: 1600,
+    short: "Steam left. The roundhouse came down. CSX still runs the old B and O through town. The line did not die when the shops did.",
+    long: "",
+    names: ["CSX"]
+  },
+  {
+    id: "garrett-parks",
+    name: "Garrett parks",
+    lat: 41.3492,
+    lng: -85.1355,
+    radius: 1400,
+    short: "City parks and the later trail bits a shop town funded after the engines went diesel.",
+    long: "",
+    names: ["Garrett"]
+  },
+  {
+    id: "garrett-people",
+    name: "Garrett people",
+    lat: 41.3492,
+    lng: -85.1355,
+    radius: 1400,
+    short: "Shop men first. Then diesel and fewer jobs. A city that still leads with a railroad last name.",
+    long: "",
+    names: ["John W. Garrett"]
+  },
+  {
+    id: "garrett-native",
+    name: "Garrett Native ground",
+    lat: 41.3492,
+    lng: -85.1355,
+    radius: 1800,
+    short: "DeKalb upland. Potawatomi and Miami hunting ground before the B and O bought the fifty acres.",
+    long: "",
+    names: ["Potawatomi", "Miami"]
+  },
+  {
+    id: "garrett-war",
+    name: "Garrett war",
+    lat: 41.3492,
+    lng: -85.1355,
+    radius: 1500,
+    short: "John Garrett's B and O moved Union troops in the Civil War. This town is the later shop end of that same company.",
+    long: "",
+    names: ["John W. Garrett"]
+  },
+  {
+    id: "garrett-legend",
+    name: "The town the railroad invented",
+    lat: 41.3492,
+    lng: -85.1355,
+    radius: 1100,
+    short: "The local legend is that Garrett is only a stop off 8. It was drawn on a map so a railroad would have a place to fix engines.",
+    long: "",
+    names: ["Garrett"]
+  },
+
+  {
+    id: "approach-churubusco-in",
+    name: "Churubusco",
+    lat: 41.2306,
+    lng: -85.3194,
+    radius: 4000,
+    layer: "approach",
+    short: "You are coming up on Churubusco. Named for a Mexican War battle. Turtle town. If you drop in, I'll start on Main.",
+    long: "",
+    names: ["Churubusco"]
+  },
+  {
+    id: "churubusco-founding",
+    name: "Churubusco founding",
+    lat: 41.2306,
+    lng: -85.3194,
+    radius: 1300,
+    short: "Two villages grew together here. They took the name Churubusco from a battle in the Mexican War. A long name on a small map.",
+    long: "",
+    names: ["Churubusco"]
+  },
+  {
+    id: "churubusco-battle-name",
+    name: "Battle of Churubusco",
+    lat: 41.2306,
+    lng: -85.3194,
+    radius: 1400,
+    short: "The name is from 1847. American troops fought at Churubusco outside Mexico City. Veterans brought the word home to this crossing.",
+    long: "",
+    names: ["Battle of Churubusco"]
+  },
+  {
+    id: "churubusco-busco",
+    name: "Beast of Busco",
+    lat: 41.2306,
+    lng: -85.3194,
+    radius: 1200,
+    short: "Oscar. The Beast of Busco. A giant turtle story from Fulk Lake. They drained water and never proved it. Turtle Days still shows up.",
+    long: "",
+    names: ["Beast of Busco"]
+  },
+  {
+    id: "churubusco-rail",
+    name: "Churubusco railroad",
+    lat: 41.2306,
+    lng: -85.3194,
+    radius: 1400,
+    short: "The railroad made the two villages into one town. Grain and passengers. Then the cars came and Main kept the name.",
+    long: "",
+    names: ["Churubusco"]
+  },
+  {
+    id: "churubusco-eel",
+    name: "Eel River country",
+    lat: 41.2306,
+    lng: -85.3194,
+    radius: 1600,
+    short: "Eel River country west of Fort Wayne. Mills and low ground. The town sat on that water map.",
+    long: "",
+    names: ["Eel River"]
+  },
+  {
+    id: "churubusco-parks",
+    name: "Churubusco parks",
+    lat: 41.2306,
+    lng: -85.3194,
+    radius: 1300,
+    short: "Town parks, the lake country, and the later festival ground a small town kept on purpose.",
+    long: "",
+    names: ["Churubusco"]
+  },
+  {
+    id: "churubusco-people",
+    name: "Churubusco people",
+    lat: 41.2306,
+    lng: -85.3194,
+    radius: 1300,
+    short: "War-name families first. Then rail crews. Then the Fort Wayne commute. A town that still leads with a turtle.",
+    long: "",
+    names: ["Churubusco"]
+  },
+  {
+    id: "churubusco-native",
+    name: "Churubusco Native ground",
+    lat: 41.2306,
+    lng: -85.3194,
+    radius: 1700,
+    short: "Eel River hunting ground. Miami country before the battle name landed on the plat.",
+    long: "",
+    names: ["Miami"]
+  },
+  {
+    id: "churubusco-war",
+    name: "Churubusco war",
+    lat: 41.2306,
+    lng: -85.3194,
+    radius: 1400,
+    short: "The war in the name is Mexico, 1847. Men also left from these blocks in later fights. The turtle is the story people tell first.",
+    long: "",
+    names: ["Battle of Churubusco"]
+  },
+  {
+    id: "churubusco-legend",
+    name: "The town that hunted a turtle",
+    lat: 41.2306,
+    lng: -85.3194,
+    radius: 1100,
+    short: "The local legend is not a maybe. Oscar the giant turtle is why strangers know this name. They never caught him. They still celebrate him.",
+    long: "",
+    names: ["Beast of Busco"]
+  },
+
+  {
+    id: "approach-columbia-city-in",
+    name: "Columbia City",
+    lat: 41.1573,
+    lng: -85.4883,
+    radius: 4500,
+    layer: "approach",
+    short: "You are coming up on Columbia City. County seat of Whitley County. Marshall town. If you drop in, I'll start on the square.",
+    long: "",
+    names: ["Columbia City"]
+  },
+  {
+    id: "columbia-city-founding",
+    name: "Columbia City founding",
+    lat: 41.1573,
+    lng: -85.4883,
+    radius: 1400,
+    short: "Laid out as the Whitley County seat. A Blue River town that kept the court and the railroad.",
+    long: "",
+    names: ["Columbia City"]
+  },
+  {
+    id: "columbia-city-marshall",
+    name: "Thomas R. Marshall",
+    lat: 41.1573,
+    lng: -85.4883,
+    radius: 1200,
+    short: "Thomas Riley Marshall practiced law here. Vice President under Woodrow Wilson. He is buried in Columbia City.",
+    long: "",
+    names: ["Thomas R. Marshall"]
+  },
+  {
+    id: "columbia-city-courthouse",
+    name: "Whitley County Courthouse",
+    lat: 41.1573,
+    lng: -85.4883,
+    radius: 700,
+    short: "Whitley County Courthouse on the square. The county still runs from the middle of the Blue River town.",
+    long: "",
+    names: ["Whitley County Courthouse"]
+  },
+  {
+    id: "columbia-city-rail",
+    name: "Columbia City railroad",
+    lat: 41.1573,
+    lng: -85.4883,
+    radius: 1500,
+    short: "The railroad made the county seat bigger than a farm square. Grain, passengers, later US 30 traffic.",
+    long: "",
+    names: ["Columbia City"]
+  },
+  {
+    id: "columbia-city-blue-river",
+    name: "Blue River",
+    lat: 41.1573,
+    lng: -85.4883,
+    radius: 1600,
+    short: "Blue River country. Mills and low ground west of Fort Wayne. The town sat on that water before the highway.",
+    long: "",
+    names: ["Blue River"]
+  },
+  {
+    id: "columbia-city-us30",
+    name: "US 30 Columbia City",
+    lat: 41.1573,
+    lng: -85.4883,
+    radius: 1800,
+    short: "US 30 is the later spine. Lincoln Highway country. Through traffic that never had to stop on the square.",
+    long: "",
+    names: ["Lincoln Highway"]
+  },
+  {
+    id: "columbia-city-parks",
+    name: "Columbia City parks",
+    lat: 41.1573,
+    lng: -85.4883,
+    radius: 1400,
+    short: "City parks and the later trail bits a county seat funded on purpose.",
+    long: "",
+    names: ["Columbia City"]
+  },
+  {
+    id: "columbia-city-people",
+    name: "Columbia City people",
+    lat: 41.1573,
+    lng: -85.4883,
+    radius: 1400,
+    short: "Court families, rail crews, then a vice president. A town that still leads with Marshall.",
+    long: "",
+    names: ["Thomas R. Marshall"]
+  },
+  {
+    id: "columbia-city-native",
+    name: "Columbia City Native ground",
+    lat: 41.1573,
+    lng: -85.4883,
+    radius: 1800,
+    short: "Miami country on the Blue River. The county name is Whitley. The older name is the river people.",
+    long: "",
+    names: ["Miami"]
+  },
+  {
+    id: "columbia-city-war",
+    name: "Columbia City war",
+    lat: 41.1573,
+    lng: -85.4883,
+    radius: 1500,
+    short: "No fort on the square. Men left from these blocks. Marshall's war was the Great War, from a law office on this street.",
+    long: "",
+    names: ["Thomas R. Marshall"]
+  },
+  {
+    id: "columbia-city-legend",
+    name: "The small city that sent a vice president",
+    lat: 41.1573,
+    lng: -85.4883,
+    radius: 1100,
+    short: "The local legend is that Columbia City is only a 30-stop. A vice president of the United States came out of this square.",
+    long: "",
+    names: ["Thomas R. Marshall"]
+  },
+
+  {
+    id: "approach-roanoke-in",
+    name: "Roanoke",
+    lat: 40.9625,
+    lng: -85.3733,
+    radius: 3500,
+    layer: "approach",
+    short: "You are coming up on Roanoke. Canal town southwest of Fort Wayne. If you drop in, I'll start on Main.",
+    long: "",
+    names: ["Roanoke"]
+  },
+  {
+    id: "roanoke-founding",
+    name: "Roanoke founding",
+    lat: 40.9625,
+    lng: -85.3733,
+    radius: 1200,
+    short: "Laid out on the Wabash and Erie Canal. Named for Roanoke in Virginia. A lock-and-basin village before the cars.",
+    long: "",
+    names: ["Roanoke"]
+  },
+  {
+    id: "roanoke-canal",
+    name: "Wabash and Erie at Roanoke",
+    lat: 40.9625,
+    lng: -85.3733,
+    radius: 1500,
+    short: "The canal is why the town is here. Boats, warehouses, a basin. Then the railroad took the freight and the ditch went quiet.",
+    long: "",
+    names: ["Wabash and Erie Canal"]
+  },
+  {
+    id: "roanoke-little-river",
+    name: "Little River",
+    lat: 40.9625,
+    lng: -85.3733,
+    radius: 1600,
+    short: "Little River country. Part of the old portage map between the Wabash world and the Maumee. Canoes used this ground first.",
+    long: "",
+    names: ["Little River"]
+  },
+  {
+    id: "roanoke-downtown",
+    name: "Roanoke Main Street",
+    lat: 40.9625,
+    lng: -85.3733,
+    radius: 700,
+    short: "A short brick Main. Canal-scale downtown a later suburb commute still drives through.",
+    long: "",
+    names: ["Roanoke"]
+  },
+  {
+    id: "roanoke-parks",
+    name: "Roanoke parks",
+    lat: 40.9625,
+    lng: -85.3733,
+    radius: 1300,
+    short: "Town parks and the later trail bits on old water and rail ground.",
+    long: "",
+    names: ["Roanoke"]
+  },
+  {
+    id: "roanoke-people",
+    name: "Roanoke people",
+    lat: 40.9625,
+    lng: -85.3733,
+    radius: 1200,
+    short: "Canal families first. Then rail. Then the Fort Wayne and Huntington commute. A village that still points at the ditch.",
+    long: "",
+    names: ["Roanoke"]
+  },
+  {
+    id: "roanoke-native",
+    name: "Roanoke Native ground",
+    lat: 40.9625,
+    lng: -85.3733,
+    radius: 1700,
+    short: "Miami portage country. The Little River was a working road before the canal was dug.",
+    long: "",
+    names: ["Miami"]
+  },
+  {
+    id: "roanoke-war",
+    name: "Roanoke war",
+    lat: 40.9625,
+    lng: -85.3733,
+    radius: 1300,
+    short: "No fort on Main. Men left from these farms. The older fight is the one written on the portage.",
+    long: "",
+    names: ["Roanoke"]
+  },
+  {
+    id: "roanoke-legend",
+    name: "The canal village that kept its brick street",
+    lat: 40.9625,
+    lng: -85.3733,
+    radius: 1000,
+    short: "The local legend is that Roanoke is only a 24-stop. It started as a basin town on the longest canal in the country.",
+    long: "",
+    names: ["Wabash and Erie Canal"]
+  },
+
+  {
+    id: "approach-huntington-in",
+    name: "Huntington",
+    lat: 40.8831,
+    lng: -85.4975,
+    radius: 5500,
+    layer: "approach",
+    short: "You are coming up on Huntington. County seat. Forks of the Wabash. Quayle town. If you drop in, I'll start on Jefferson.",
+    long: "",
+    names: ["Huntington"]
+  },
+  {
+    id: "huntington-founding",
+    name: "Huntington founding",
+    lat: 40.8831,
+    lng: -85.4975,
+    radius: 1600,
+    short: "Laid out where the Little River meets the Wabash. Named for Samuel Huntington. A forks town that kept the county.",
+    long: "",
+    names: ["Samuel Huntington"]
+  },
+  {
+    id: "huntington-forks",
+    name: "Forks of the Wabash",
+    lat: 40.8750,
+    lng: -85.5270,
+    radius: 1200,
+    short: "Forks of the Wabash. Treaty ground. Miami town at the meeting of the rivers. The later county seat sat downstream of that fork.",
+    long: "",
+    names: ["Forks of the Wabash"]
+  },
+  {
+    id: "huntington-quayle",
+    name: "Dan Quayle",
+    lat: 40.8831,
+    lng: -85.4975,
+    radius: 1400,
+    short: "Dan Quayle. Huntington is the town that claims him. Vice President under George H. W. Bush. The museum still sits here.",
+    long: "",
+    names: ["Dan Quayle"]
+  },
+  {
+    id: "huntington-university",
+    name: "Huntington University",
+    lat: 40.8831,
+    lng: -85.4975,
+    radius: 900,
+    short: "Huntington University. United Brethren campus on the hill. A small school that still sits over the river town.",
+    long: "",
+    names: ["Huntington University"]
+  },
+  {
+    id: "huntington-courthouse",
+    name: "Huntington County Courthouse",
+    lat: 40.8831,
+    lng: -85.4975,
+    radius: 700,
+    short: "Huntington County Courthouse. The county still runs from the square above the forks.",
+    long: "",
+    names: ["Huntington County Courthouse"]
+  },
+  {
+    id: "huntington-canal-rail",
+    name: "Huntington canal and rail",
+    lat: 40.8831,
+    lng: -85.4975,
+    radius: 1600,
+    short: "Wabash and Erie Canal first. Then the railroad. US 24 later. Three roads stacked on the same river terrace.",
+    long: "",
+    names: ["Wabash and Erie Canal"]
+  },
+  {
+    id: "huntington-rivers",
+    name: "Little River and the Wabash",
+    lat: 40.8831,
+    lng: -85.4975,
+    radius: 1800,
+    short: "Two rivers made this town. Canoe road, then canal, then highway. The water is still the reason the map bends here.",
+    long: "",
+    names: ["Wabash", "Little River"]
+  },
+  {
+    id: "huntington-parks",
+    name: "Huntington parks",
+    lat: 40.8831,
+    lng: -85.4975,
+    radius: 1500,
+    short: "River parks, Sunken Gardens, and the later reservoir country a county seat funded on purpose.",
+    long: "",
+    names: ["Sunken Gardens"]
+  },
+  {
+    id: "huntington-people",
+    name: "Huntington people",
+    lat: 40.8831,
+    lng: -85.4975,
+    radius: 1500,
+    short: "Miami families first. Then canal and rail. Then a vice president. A city that still leads with the forks.",
+    long: "",
+    names: ["Dan Quayle"]
+  },
+  {
+    id: "huntington-native",
+    name: "Huntington Native ground",
+    lat: 40.8750,
+    lng: -85.5270,
+    radius: 2000,
+    short: "The forks were a Miami place before they were a park. Treaties happened here. Removal started from this water.",
+    long: "",
+    names: ["Miami"]
+  },
+  {
+    id: "huntington-war",
+    name: "Huntington war",
+    lat: 40.8831,
+    lng: -85.4975,
+    radius: 1600,
+    short: "Frontier war first at the forks. Then men left from these blocks. The later name people know is Quayle, not a fort.",
+    long: "",
+    names: ["Forks of the Wabash"]
+  },
+  {
+    id: "huntington-legend",
+    name: "The forks town that sent another vice president",
+    lat: 40.8831,
+    lng: -85.4975,
+    radius: 1200,
+    short: "The local legend is that Huntington is only a 24-stop. Two rivers meet here, and a vice president came off this square.",
+    long: "",
+    names: ["Dan Quayle", "Forks of the Wabash"]
+  },
+
+  {
+    id: "approach-huntington-in",
+    name: "Huntington",
+    lat: 40.8831,
+    lng: -85.4975,
+    radius: 5500,
+    layer: "approach",
+    short: "You are coming up on Huntington. County seat. Forks of the Wabash. Quayle town. If you drop in, I'll start on Jefferson.",
+    long: "",
+    names: ["Huntington"]
+  },
+  {
+    id: "huntington-founding",
+    name: "Huntington founding",
+    lat: 40.8831,
+    lng: -85.4975,
+    radius: 1600,
+    short: "Laid out where the Little River meets the Wabash. Named for Samuel Huntington. A forks town that kept the county.",
+    long: "",
+    names: ["Samuel Huntington"]
+  },
+  {
+    id: "huntington-forks",
+    name: "Forks of the Wabash",
+    lat: 40.8750,
+    lng: -85.5270,
+    radius: 1200,
+    short: "Forks of the Wabash. Treaty ground. Miami town at the meeting of the rivers. The later county seat sat downstream of that fork.",
+    long: "",
+    names: ["Forks of the Wabash"]
+  },
+  {
+    id: "huntington-quayle",
+    name: "Dan Quayle",
+    lat: 40.8831,
+    lng: -85.4975,
+    radius: 1400,
+    short: "Dan Quayle. Huntington is the town that claims him. Vice President under George H. W. Bush. The museum still sits here.",
+    long: "",
+    names: ["Dan Quayle"]
+  },
+  {
+    id: "huntington-university",
+    name: "Huntington University",
+    lat: 40.8831,
+    lng: -85.4975,
+    radius: 900,
+    short: "Huntington University. United Brethren campus on the hill. A small school that still sits over the river town.",
+    long: "",
+    names: ["Huntington University"]
+  },
+  {
+    id: "huntington-courthouse",
+    name: "Huntington County Courthouse",
+    lat: 40.8831,
+    lng: -85.4975,
+    radius: 700,
+    short: "Huntington County Courthouse. The county still runs from the square above the forks.",
+    long: "",
+    names: ["Huntington County Courthouse"]
+  },
+  {
+    id: "huntington-canal-rail",
+    name: "Huntington canal and rail",
+    lat: 40.8831,
+    lng: -85.4975,
+    radius: 1600,
+    short: "Wabash and Erie Canal first. Then the railroad. US 24 later. Three roads stacked on the same river terrace.",
+    long: "",
+    names: ["Wabash and Erie Canal"]
+  },
+  {
+    id: "huntington-rivers",
+    name: "Little River and the Wabash",
+    lat: 40.8831,
+    lng: -85.4975,
+    radius: 1800,
+    short: "Two rivers made this town. Canoe road, then canal, then highway. The water is still the reason the map bends here.",
+    long: "",
+    names: ["Wabash", "Little River"]
+  },
+  {
+    id: "huntington-parks",
+    name: "Huntington parks",
+    lat: 40.8831,
+    lng: -85.4975,
+    radius: 1500,
+    short: "River parks, Sunken Gardens, and the later reservoir country a county seat funded on purpose.",
+    long: "",
+    names: ["Sunken Gardens"]
+  },
+  {
+    id: "huntington-people",
+    name: "Huntington people",
+    lat: 40.8831,
+    lng: -85.4975,
+    radius: 1500,
+    short: "Miami families first. Then canal and rail. Then a vice president. A city that still leads with the forks.",
+    long: "",
+    names: ["Dan Quayle"]
+  },
+  {
+    id: "huntington-native",
+    name: "Huntington Native ground",
+    lat: 40.8750,
+    lng: -85.5270,
+    radius: 2000,
+    short: "The forks were a Miami place before they were a park. Treaties happened here. Removal started from this water.",
+    long: "",
+    names: ["Miami"]
+  },
+  {
+    id: "huntington-war",
+    name: "Huntington war",
+    lat: 40.8831,
+    lng: -85.4975,
+    radius: 1600,
+    short: "Frontier war first at the forks. Then men left from these blocks. The later name people know is Quayle, not a fort.",
+    long: "",
+    names: ["Forks of the Wabash"]
+  },
+  {
+    id: "huntington-legend",
+    name: "The forks town that sent another vice president",
+    lat: 40.8831,
+    lng: -85.4975,
+    radius: 1200,
+    short: "The local legend is that Huntington is only a 24-stop. Two rivers meet here, and a vice president came off this square.",
+    long: "",
+    names: ["Dan Quayle", "Forks of the Wabash"]
+  },
+
+  {
+    id: "approach-markle-in",
+    name: "Markle",
+    lat: 40.8248,
+    lng: -85.3378,
+    radius: 3500,
+    layer: "approach",
+    short: "You are coming up on Markle. Wabash River town on the county line. If you drop in, I'll start on Morse.",
+    long: "",
+    names: ["Markle"]
+  },
+  {
+    id: "markle-founding",
+    name: "Markle founding",
+    lat: 40.8248,
+    lng: -85.3378,
+    radius: 1200,
+    short: "Platted on the Wabash where Huntington County meets Wells. A river crossing that kept a short Main.",
+    long: "",
+    names: ["Markle"]
+  },
+  {
+    id: "markle-wabash",
+    name: "Markle and the Wabash",
+    lat: 40.8248,
+    lng: -85.3378,
+    radius: 1500,
+    short: "The Wabash is why the town is here. Ferry ground, then a bridge, then the highway on the same terrace.",
+    long: "",
+    names: ["Wabash"]
+  },
+  {
+    id: "markle-rail",
+    name: "Markle railroad",
+    lat: 40.8248,
+    lng: -85.3378,
+    radius: 1400,
+    short: "The railroad took the grain off the river. Elevators and a siding. Then the trucks came.",
+    long: "",
+    names: ["Markle"]
+  },
+  {
+    id: "markle-224",
+    name: "US 224 Markle",
+    lat: 40.8248,
+    lng: -85.3378,
+    radius: 1600,
+    short: "US 224 is the later spine. Through traffic that can miss Main if it never turns off.",
+    long: "",
+    names: ["Markle"]
+  },
+  {
+    id: "markle-parks",
+    name: "Markle parks",
+    lat: 40.8248,
+    lng: -85.3378,
+    radius: 1300,
+    short: "River bank and town parks. A small crossing that kept public ground on purpose.",
+    long: "",
+    names: ["Markle"]
+  },
+  {
+    id: "markle-people",
+    name: "Markle people",
+    lat: 40.8248,
+    lng: -85.3378,
+    radius: 1200,
+    short: "River families first. Then rail. Then the Huntington and Bluffton commute. A town that still points at the Wabash.",
+    long: "",
+    names: ["Markle"]
+  },
+  {
+    id: "markle-native",
+    name: "Markle Native ground",
+    lat: 40.8248,
+    lng: -85.3378,
+    radius: 1700,
+    short: "Miami river country. The Wabash was a road before it was a county line.",
+    long: "",
+    names: ["Miami"]
+  },
+  {
+    id: "markle-war",
+    name: "Markle war",
+    lat: 40.8248,
+    lng: -85.3378,
+    radius: 1300,
+    short: "No fort on Morse. Men left from these farms. The older story is the river, not a battery.",
+    long: "",
+    names: ["Markle"]
+  },
+  {
+    id: "markle-legend",
+    name: "The crossing that kept both counties",
+    lat: 40.8248,
+    lng: -85.3378,
+    radius: 1000,
+    short: "The local legend is that Markle is only a blink on 224. It sits on a county line because the river was already here.",
+    long: "",
+    names: ["Markle"]
+  },
+
+  {
+    id: "approach-bluffton-in",
+    name: "Bluffton",
+    lat: 40.7392,
+    lng: -85.1716,
+    radius: 5000,
+    layer: "approach",
+    short: "You are coming up on Bluffton. County seat of Wells County. Bluff City on the Wabash. If you drop in, I'll start on Main.",
+    long: "",
+    names: ["Bluffton"]
+  },
+  {
+    id: "bluffton-founding",
+    name: "Bluffton founding",
+    lat: 40.7392,
+    lng: -85.1716,
+    radius: 1500,
+    short: "Laid out on the high bank of the Wabash. The name is the landform. A county seat that still sits on the bluff.",
+    long: "",
+    names: ["Bluffton"]
+  },
+  {
+    id: "bluffton-courthouse",
+    name: "Wells County Courthouse",
+    lat: 40.7392,
+    lng: -85.1716,
+    radius: 700,
+    short: "Wells County Courthouse. The county still runs from the square above the river.",
+    long: "",
+    names: ["Wells County Courthouse"]
+  },
+  {
+    id: "bluffton-wabash",
+    name: "Bluffton and the Wabash",
+    lat: 40.7392,
+    lng: -85.1716,
+    radius: 1700,
+    short: "The Wabash is why the town is here. Canoe road, then mill, then the later highway on the same terrace.",
+    long: "",
+    names: ["Wabash"]
+  },
+  {
+    id: "bluffton-ouabache",
+    name: "Ouabache State Park",
+    lat: 40.7170,
+    lng: -85.2000,
+    radius: 1400,
+    short: "Ouabache State Park. The French spelling of Wabash. Public ground on the river the town was named for.",
+    long: "",
+    names: ["Ouabache State Park"]
+  },
+  {
+    id: "bluffton-rail",
+    name: "Bluffton railroad",
+    lat: 40.7392,
+    lng: -85.1716,
+    radius: 1500,
+    short: "The railroad took the grain off the bluff. A county seat that also became a siding town.",
+    long: "",
+    names: ["Bluffton"]
+  },
+  {
+    id: "bluffton-parks",
+    name: "Bluffton parks",
+    lat: 40.7392,
+    lng: -85.1716,
+    radius: 1500,
+    short: "River parks, the later trail, and the state park west of town.",
+    long: "",
+    names: ["Bluffton"]
+  },
+  {
+    id: "bluffton-people",
+    name: "Bluffton people",
+    lat: 40.7392,
+    lng: -85.1716,
+    radius: 1400,
+    short: "River families first. Then the court and the rail. A city that still leads with a bluff.",
+    long: "",
+    names: ["Bluffton"]
+  },
+  {
+    id: "bluffton-native",
+    name: "Bluffton Native ground",
+    lat: 40.7392,
+    lng: -85.1716,
+    radius: 1900,
+    short: "Miami river country. Rivare and the Wabash towns sat on this water before the county seat.",
+    long: "",
+    names: ["Miami"]
+  },
+  {
+    id: "bluffton-war",
+    name: "Bluffton war",
+    lat: 40.7392,
+    lng: -85.1716,
+    radius: 1500,
+    short: "No standing fort on Main. Men left from these blocks. The older fight is the one written on the river.",
+    long: "",
+    names: ["Bluffton"]
+  },
+  {
+    id: "bluffton-legend",
+    name: "The city named for a bank of dirt",
+    lat: 40.7392,
+    lng: -85.1716,
+    radius: 1100,
+    short: "The local legend is that Bluffton is only a Wells County stop. The name is the high ground. The river is still under it.",
+    long: "",
+    names: ["Bluffton"]
+  },
+
+  {
+    id: "approach-ossian-in",
+    name: "Ossian",
+    lat: 40.8806,
+    lng: -85.1664,
+    radius: 3500,
+    layer: "approach",
+    short: "You are coming up on Ossian. Wells County village south of Fort Wayne. If you drop in, I'll start on Mill.",
+    long: "",
+    names: ["Ossian"]
+  },
+  {
+    id: "ossian-founding",
+    name: "Ossian founding",
+    lat: 40.8806,
+    lng: -85.1664,
+    radius: 1200,
+    short: "Laid out as a farm village on the road south of Fort Wayne. Named Ossian. A mill-and-store town before the commute.",
+    long: "",
+    names: ["Ossian"]
+  },
+  {
+    id: "ossian-rail",
+    name: "Ossian railroad",
+    lat: 40.8806,
+    lng: -85.1664,
+    radius: 1400,
+    short: "The railroad made the village stick. Grain, a depot, then the later trucks on the same line of travel.",
+    long: "",
+    names: ["Ossian"]
+  },
+  {
+    id: "ossian-1",
+    name: "State Road 1 Ossian",
+    lat: 40.8806,
+    lng: -85.1664,
+    radius: 1500,
+    short: "State Road 1 is the spine. Fort Wayne to Bluffton traffic that still hits this Main.",
+    long: "",
+    names: ["Ossian"]
+  },
+  {
+    id: "ossian-parks",
+    name: "Ossian parks",
+    lat: 40.8806,
+    lng: -85.1664,
+    radius: 1300,
+    short: "Town parks and school ground a village kept on purpose when the farms filled in.",
+    long: "",
+    names: ["Ossian"]
+  },
+  {
+    id: "ossian-people",
+    name: "Ossian people",
+    lat: 40.8806,
+    lng: -85.1664,
+    radius: 1200,
+    short: "Farm families first. Then rail. Then the south Fort Wayne commute. A town that still leads with a short Main.",
+    long: "",
+    names: ["Ossian"]
+  },
+  {
+    id: "ossian-native",
+    name: "Ossian Native ground",
+    lat: 40.8806,
+    lng: -85.1664,
+    radius: 1700,
+    short: "Wells County upland. Miami hunting ground between the Wabash and the St. Marys.",
+    long: "",
+    names: ["Miami"]
+  },
+  {
+    id: "ossian-war",
+    name: "Ossian war",
+    lat: 40.8806,
+    lng: -85.1664,
+    radius: 1300,
+    short: "No fort on Mill. Men left from these farms. The later story is the commute, not a battlefield.",
+    long: "",
+    names: ["Ossian"]
+  },
+  {
+    id: "ossian-legend",
+    name: "The village on the Bluffton road",
+    lat: 40.8806,
+    lng: -85.1664,
+    radius: 1000,
+    short: "The local legend is that Ossian is only a blinking light. It started as a mill stop on the road that still runs to the river county seat.",
+    long: "",
+    names: ["Ossian"]
+  },
+
+  {
+    id: "approach-decatur-in",
+    name: "Decatur",
+    lat: 40.8306,
+    lng: -84.9291,
+    radius: 5000,
+    layer: "approach",
+    short: "You are coming up on Decatur. County seat of Adams County. St. Marys River town. If you drop in, I'll start on Second.",
+    long: "",
+    names: ["Decatur"]
+  },
+  {
+    id: "decatur-founding",
+    name: "Decatur founding",
+    lat: 40.8306,
+    lng: -84.9291,
+    radius: 1500,
+    short: "Laid out as the Adams County seat on the St. Marys. Named for Stephen Decatur. A river square that kept the court.",
+    long: "",
+    names: ["Stephen Decatur"]
+  },
+  {
+    id: "decatur-courthouse",
+    name: "Adams County Courthouse",
+    lat: 40.8306,
+    lng: -84.9291,
+    radius: 700,
+    short: "Adams County Courthouse. The county still runs from the square above the St. Marys.",
+    long: "",
+    names: ["Adams County Courthouse"]
+  },
+  {
+    id: "decatur-st-marys",
+    name: "St. Marys River Decatur",
+    lat: 40.8306,
+    lng: -84.9291,
+    radius: 1700,
+    short: "The St. Marys is why the town is here. Canoe road toward Fort Wayne. Then mills. Then the highway on the same terrace.",
+    long: "",
+    names: ["St. Marys River"]
+  },
+  {
+    id: "decatur-rail",
+    name: "Decatur railroad",
+    lat: 40.8306,
+    lng: -84.9291,
+    radius: 1500,
+    short: "The railroad took the grain off the river. A county seat that also became a siding and factory town.",
+    long: "",
+    names: ["Decatur"]
+  },
+  {
+    id: "decatur-27",
+    name: "US 27 Decatur",
+    lat: 40.8306,
+    lng: -84.9291,
+    radius: 1800,
+    short: "US 27 is the later spine. Fort Wayne to Portland traffic that still hits this square if you leave the bypass.",
+    long: "",
+    names: ["Decatur"]
+  },
+  {
+    id: "decatur-parks",
+    name: "Decatur parks",
+    lat: 40.8306,
+    lng: -84.9291,
+    radius: 1500,
+    short: "River parks and the later trail bits a county seat funded on purpose.",
+    long: "",
+    names: ["Decatur"]
+  },
+  {
+    id: "decatur-people",
+    name: "Decatur people",
+    lat: 40.8306,
+    lng: -84.9291,
+    radius: 1400,
+    short: "River families first. Then German and Swiss neighbors from the south county. Then the factory commute. A town that still leads with a commodore's name.",
+    long: "",
+    names: ["Stephen Decatur"]
+  },
+  {
+    id: "decatur-native",
+    name: "Decatur Native ground",
+    lat: 40.8306,
+    lng: -84.9291,
+    radius: 1900,
+    short: "Miami country on the St. Marys. This river was a road into Kekionga before it was a county line.",
+    long: "",
+    names: ["Miami"]
+  },
+  {
+    id: "decatur-war",
+    name: "Decatur war",
+    lat: 40.8306,
+    lng: -84.9291,
+    radius: 1500,
+    short: "The name is a Navy fight. The local fight is the older one on this river. Men also left from these blocks later.",
+    long: "",
+    names: ["Stephen Decatur"]
+  },
+  {
+    id: "decatur-legend",
+    name: "The commodore town on an older river",
+    lat: 40.8306,
+    lng: -84.9291,
+    radius: 1100,
+    short: "The local legend is that Decatur is only a 27-stop. It is named for a war at sea and built on a Miami river road.",
+    long: "",
+    names: ["Stephen Decatur"]
+  },
+
+  {
+    id: "approach-berne-in",
+    name: "Berne",
+    lat: 40.6578,
+    lng: -84.9519,
+    radius: 4000,
+    layer: "approach",
+    short: "You are coming up on Berne. Swiss Mennonite town. Steeple you can see from the fields. If you drop in, I'll start on Main.",
+    long: "",
+    names: ["Berne"]
+  },
+  {
+    id: "berne-founding",
+    name: "Berne founding",
+    lat: 40.6578,
+    lng: -84.9519,
+    radius: 1300,
+    short: "Settled by Swiss Mennonites. They named it for Bern. A church town that kept the accent in the architecture.",
+    long: "",
+    names: ["Berne"]
+  },
+  {
+    id: "berne-first-mennonite",
+    name: "First Mennonite Church",
+    lat: 40.6578,
+    lng: -84.9519,
+    radius: 700,
+    short: "First Mennonite Church. The steeple is the landmark. A Swiss congregation that built higher than the courthouse towns around it.",
+    long: "",
+    names: ["First Mennonite Church"]
+  },
+  {
+    id: "berne-plaza",
+    name: "Muensterberg Plaza",
+    lat: 40.6578,
+    lng: -84.9519,
+    radius: 700,
+    short: "Muensterberg Plaza and the clock. A Swiss square dropped onto an Indiana Main.",
+    long: "",
+    names: ["Muensterberg Plaza"]
+  },
+  {
+    id: "berne-rail",
+    name: "Berne railroad",
+    lat: 40.6578,
+    lng: -84.9519,
+    radius: 1400,
+    short: "The railroad sold the cheese and the furniture. A church town that also became a factory town.",
+    long: "",
+    names: ["Berne"]
+  },
+  {
+    id: "berne-parks",
+    name: "Berne parks",
+    lat: 40.6578,
+    lng: -84.9519,
+    radius: 1300,
+    short: "Town parks and the later Swiss plaza ground a congregation funded on purpose.",
+    long: "",
+    names: ["Berne"]
+  },
+  {
+    id: "berne-people",
+    name: "Berne people",
+    lat: 40.6578,
+    lng: -84.9519,
+    radius: 1300,
+    short: "Mennonite families first. Then the shops. A town that still leads with Switzerland.",
+    long: "",
+    names: ["Berne"]
+  },
+  {
+    id: "berne-native",
+    name: "Berne Native ground",
+    lat: 40.6578,
+    lng: -84.9519,
+    radius: 1700,
+    short: "Adams County upland. Miami hunting ground before the Swiss bought farms.",
+    long: "",
+    names: ["Miami"]
+  },
+  {
+    id: "berne-war",
+    name: "Berne war",
+    lat: 40.6578,
+    lng: -84.9519,
+    radius: 1400,
+    short: "No fort on Main. Mennonite peace is part of the story. Men still left from these blocks in later wars.",
+    long: "",
+    names: ["Berne"]
+  },
+  {
+    id: "berne-legend",
+    name: "The Indiana town that copied a Swiss capital",
+    lat: 40.6578,
+    lng: -84.9519,
+    radius: 1100,
+    short: "The local legend is that Berne is only a furniture stop. They named it for the old country and then built a steeple to prove it.",
+    long: "",
+    names: ["Berne"]
+  },
+
+  {
+    id: "approach-geneva-in",
+    name: "Geneva",
+    lat: 40.5917,
+    lng: -84.9597,
+    radius: 4000,
+    layer: "approach",
+    short: "You are coming up on Geneva. Limberlost town. Gene Stratton-Porter country. If you drop in, I'll start on Line.",
+    long: "",
+    names: ["Geneva"]
+  },
+  {
+    id: "geneva-founding",
+    name: "Geneva founding",
+    lat: 40.5917,
+    lng: -84.9597,
+    radius: 1200,
+    short: "Laid out on the edge of the Limberlost. A farm and oil village that became a writer's town.",
+    long: "",
+    names: ["Geneva"]
+  },
+  {
+    id: "geneva-porter",
+    name: "Gene Stratton-Porter",
+    lat: 40.5917,
+    lng: -84.9597,
+    radius: 900,
+    short: "Gene Stratton-Porter lived here. Novels and photographs out of the swamp. A famous woman who made this village known.",
+    long: "",
+    names: ["Gene Stratton-Porter"]
+  },
+  {
+    id: "geneva-cabin",
+    name: "Limberlost State Historic Site",
+    lat: 40.5917,
+    lng: -84.9597,
+    radius: 800,
+    short: "The Limberlost cabin. Her house and workplace. Still standing on the edge of the ground she wrote about.",
+    long: "",
+    names: ["Limberlost State Historic Site"]
+  },
+  {
+    id: "geneva-limberlost",
+    name: "Limberlost Swamp",
+    lat: 40.5917,
+    lng: -84.9597,
+    radius: 1800,
+    short: "The Limberlost. Wet woods they drained for farms and oil. She wrote it down before it was gone.",
+    long: "",
+    names: ["Limberlost"]
+  },
+  {
+    id: "geneva-rail",
+    name: "Geneva railroad",
+    lat: 40.5917,
+    lng: -84.9597,
+    radius: 1400,
+    short: "The railroad and the oil boom made the village bigger than a swamp crossing. Then the wells quieted.",
+    long: "",
+    names: ["Geneva"]
+  },
+  {
+    id: "geneva-parks",
+    name: "Geneva parks",
+    lat: 40.5917,
+    lng: -84.9597,
+    radius: 1300,
+    short: "Town parks and the later restored swamp bits. Public ground on the story she left.",
+    long: "",
+    names: ["Limberlost"]
+  },
+  {
+    id: "geneva-people",
+    name: "Geneva people",
+    lat: 40.5917,
+    lng: -84.9597,
+    radius: 1200,
+    short: "Swamp farmers first. Then oil. Then a writer the whole country read. A town that still leads with her name.",
+    long: "",
+    names: ["Gene Stratton-Porter"]
+  },
+  {
+    id: "geneva-native",
+    name: "Geneva Native ground",
+    lat: 40.5917,
+    lng: -84.9597,
+    radius: 1700,
+    short: "Wet woods on the old Miami map. The Limberlost was a hunting ground before it was a novel.",
+    long: "",
+    names: ["Miami"]
+  },
+  {
+    id: "geneva-war",
+    name: "Geneva war",
+    lat: 40.5917,
+    lng: -84.9597,
+    radius: 1300,
+    short: "No fort on Line. Men left from these farms. The fight she wrote was against the draining of the swamp.",
+    long: "",
+    names: ["Gene Stratton-Porter"]
+  },
+  {
+    id: "geneva-legend",
+    name: "The swamp that became a book",
+    lat: 40.5917,
+    lng: -84.9597,
+    radius: 1100,
+    short: "The local legend is that Geneva is only a 27-blink. A woman wrote a swamp into American rooms from this street.",
+    long: "",
+    names: ["Gene Stratton-Porter"]
+  }
+
+  {
+    id: "approach-geneva-in",
+    name: "Geneva",
+    lat: 40.5917,
+    lng: -84.9597,
+    radius: 4000,
+    layer: "approach",
+    short: "You are coming up on Geneva. Limberlost town. Gene Stratton-Porter country. If you drop in, I'll start on Line.",
+    long: "",
+    names: ["Geneva"]
+  },
+  {
+    id: "geneva-founding",
+    name: "Geneva founding",
+    lat: 40.5917,
+    lng: -84.9597,
+    radius: 1200,
+    short: "Laid out on the edge of the Limberlost. A farm and oil village that became a writer's town.",
+    long: "",
+    names: ["Geneva"]
+  },
+  {
+    id: "geneva-porter",
+    name: "Gene Stratton-Porter",
+    lat: 40.5917,
+    lng: -84.9597,
+    radius: 900,
+    short: "Gene Stratton-Porter lived here. Novels and photographs out of the swamp. A famous woman who made this village known.",
+    long: "",
+    names: ["Gene Stratton-Porter"]
+  },
+  {
+    id: "geneva-cabin",
+    name: "Limberlost State Historic Site",
+    lat: 40.5917,
+    lng: -84.9597,
+    radius: 800,
+    short: "The Limberlost cabin. Her house and workplace. Still standing on the edge of the ground she wrote about.",
+    long: "",
+    names: ["Limberlost State Historic Site"]
+  },
+  {
+    id: "geneva-limberlost",
+    name: "Limberlost Swamp",
+    lat: 40.5917,
+    lng: -84.9597,
+    radius: 1800,
+    short: "The Limberlost. Wet woods they drained for farms and oil. She wrote it down before it was gone.",
+    long: "",
+    names: ["Limberlost"]
+  },
+  {
+    id: "geneva-rail",
+    name: "Geneva railroad",
+    lat: 40.5917,
+    lng: -84.9597,
+    radius: 1400,
+    short: "The railroad and the oil boom made the village bigger than a swamp crossing. Then the wells quieted.",
+    long: "",
+    names: ["Geneva"]
+  },
+  {
+    id: "geneva-parks",
+    name: "Geneva parks",
+    lat: 40.5917,
+    lng: -84.9597,
+    radius: 1300,
+    short: "Town parks and the later restored swamp bits. Public ground on the story she left.",
+    long: "",
+    names: ["Limberlost"]
+  },
+  {
+    id: "geneva-people",
+    name: "Geneva people",
+    lat: 40.5917,
+    lng: -84.9597,
+    radius: 1200,
+    short: "Swamp farmers first. Then oil. Then a writer the whole country read. A town that still leads with her name.",
+    long: "",
+    names: ["Gene Stratton-Porter"]
+  },
+  {
+    id: "geneva-native",
+    name: "Geneva Native ground",
+    lat: 40.5917,
+    lng: -84.9597,
+    radius: 1700,
+    short: "Wet woods on the old Miami map. The Limberlost was a hunting ground before it was a novel.",
+    long: "",
+    names: ["Miami"]
+  },
+  {
+    id: "geneva-war",
+    name: "Geneva war",
+    lat: 40.5917,
+    lng: -84.9597,
+    radius: 1300,
+    short: "No fort on Line. Men left from these farms. The fight she wrote was against the draining of the swamp.",
+    long: "",
+    names: ["Gene Stratton-Porter"]
+  },
+  {
+    id: "geneva-legend",
+    name: "The swamp that became a book",
+    lat: 40.5917,
+    lng: -84.9597,
+    radius: 1100,
+    short: "The local legend is that Geneva is only a 27-blink. A woman wrote a swamp into American rooms from this street.",
+    long: "",
+    names: ["Gene Stratton-Porter"]
+  },
+
+  {
+    id: "approach-geneva-in",
+    name: "Geneva",
+    lat: 40.5917,
+    lng: -84.9597,
+    radius: 4000,
+    layer: "approach",
+    short: "You are coming up on Geneva. Limberlost town. Gene Stratton-Porter country. If you drop in, I'll start on Line.",
+    long: "",
+    names: ["Geneva"]
+  },
+  {
+    id: "geneva-founding",
+    name: "Geneva founding",
+    lat: 40.5917,
+    lng: -84.9597,
+    radius: 1200,
+    short: "Laid out on the edge of the Limberlost. A farm and oil village that became a writer's town.",
+    long: "",
+    names: ["Geneva"]
+  },
+  {
+    id: "geneva-porter",
+    name: "Gene Stratton-Porter",
+    lat: 40.5917,
+    lng: -84.9597,
+    radius: 900,
+    short: "Gene Stratton-Porter lived here. Novels and photographs out of the swamp. A famous woman who made this village known.",
+    long: "",
+    names: ["Gene Stratton-Porter"]
+  },
+  {
+    id: "geneva-cabin",
+    name: "Limberlost State Historic Site",
+    lat: 40.5917,
+    lng: -84.9597,
+    radius: 800,
+    short: "The Limberlost cabin. Her house and workplace. Still standing on the edge of the ground she wrote about.",
+    long: "",
+    names: ["Limberlost State Historic Site"]
+  },
+  {
+    id: "geneva-limberlost",
+    name: "Limberlost Swamp",
+    lat: 40.5917,
+    lng: -84.9597,
+    radius: 1800,
+    short: "The Limberlost. Wet woods they drained for farms and oil. She wrote it down before it was gone.",
+    long: "",
+    names: ["Limberlost"]
+  },
+  {
+    id: "geneva-rail",
+    name: "Geneva railroad",
+    lat: 40.5917,
+    lng: -84.9597,
+    radius: 1400,
+    short: "The railroad and the oil boom made the village bigger than a swamp crossing. Then the wells quieted.",
+    long: "",
+    names: ["Geneva"]
+  },
+  {
+    id: "geneva-parks",
+    name: "Geneva parks",
+    lat: 40.5917,
+    lng: -84.9597,
+    radius: 1300,
+    short: "Town parks and the later restored swamp bits. Public ground on the story she left.",
+    long: "",
+    names: ["Limberlost"]
+  },
+  {
+    id: "geneva-people",
+    name: "Geneva people",
+    lat: 40.5917,
+    lng: -84.9597,
+    radius: 1200,
+    short: "Swamp farmers first. Then oil. Then a writer the whole country read. A town that still leads with her name.",
+    long: "",
+    names: ["Gene Stratton-Porter"]
+  },
+  {
+    id: "geneva-native",
+    name: "Geneva Native ground",
+    lat: 40.5917,
+    lng: -84.9597,
+    radius: 1700,
+    short: "Wet woods on the old Miami map. The Limberlost was a hunting ground before it was a novel.",
+    long: "",
+    names: ["Miami"]
+  },
+  {
+    id: "geneva-war",
+    name: "Geneva war",
+    lat: 40.5917,
+    lng: -84.9597,
+    radius: 1300,
+    short: "No fort on Line. Men left from these farms. The fight she wrote was against the draining of the swamp.",
+    long: "",
+    names: ["Gene Stratton-Porter"]
+  },
+  {
+    id: "geneva-legend",
+    name: "The swamp that became a book",
+    lat: 40.5917,
+    lng: -84.9597,
+    radius: 1100,
+    short: "The local legend is that Geneva is only a 27-blink. A woman wrote a swamp into American rooms from this street.",
+    long: "",
+    names: ["Gene Stratton-Porter"]
+  },
+  {
+    id: "approach-monroe-in",
+    name: "Monroe",
+    lat: 40.7442,
+    lng: -84.9397,
+    radius: 3000,
+    layer: "approach",
+    short: "You are coming up on Monroe. Adams County village on 27 between Decatur and Berne. If you drop in, I'll start on Main.",
+    long: "",
+    names: ["Monroe"]
+  },
+  {
+    id: "monroe-founding",
+    name: "Monroe founding",
+    lat: 40.7442,
+    lng: -84.9397,
+    radius: 1100,
+    short: "Laid out as a farm village on the road between the county seat and the Swiss town. Named Monroe. A store-and-church stop.",
+    long: "",
+    names: ["Monroe"]
+  },
+  {
+    id: "monroe-27",
+    name: "US 27 Monroe",
+    lat: 40.7442,
+    lng: -84.9397,
+    radius: 1400,
+    short: "US 27 is why the village stuck. Through traffic from Fort Wayne south. Grain and later trucks on the same line.",
+    long: "",
+    names: ["Monroe"]
+  },
+  {
+    id: "monroe-rail",
+    name: "Monroe railroad",
+    lat: 40.7442,
+    lng: -84.9397,
+    radius: 1300,
+    short: "A siding and an elevator. The railroad took the crop off the Adams County upland.",
+    long: "",
+    names: ["Monroe"]
+  },
+  {
+    id: "monroe-parks",
+    name: "Monroe parks",
+    lat: 40.7442,
+    lng: -84.9397,
+    radius: 1200,
+    short: "School ground and a small park a village kept when the farms filled in.",
+    long: "",
+    names: ["Monroe"]
+  },
+  {
+    id: "monroe-people",
+    name: "Monroe people",
+    lat: 40.7442,
+    lng: -84.9397,
+    radius: 1100,
+    short: "Farm families first. Then the 27 commute. German and Swiss neighbors from both sides of town.",
+    long: "",
+    names: ["Monroe"]
+  },
+  {
+    id: "monroe-native",
+    name: "Monroe Native ground",
+    lat: 40.7442,
+    lng: -84.9397,
+    radius: 1600,
+    short: "Adams County upland. Miami hunting ground between the St. Marys and the Wabash world.",
+    long: "",
+    names: ["Miami"]
+  },
+  {
+    id: "monroe-war",
+    name: "Monroe war",
+    lat: 40.7442,
+    lng: -84.9397,
+    radius: 1200,
+    short: "No fort on Main. Men left from these farms. The later story is the highway, not a battlefield.",
+    long: "",
+    names: ["Monroe"]
+  },
+  {
+    id: "monroe-legend",
+    name: "The blink between two bigger names",
+    lat: 40.7442,
+    lng: -84.9397,
+    radius: 900,
+    short: "The local legend is that Monroe is only the stretch of 27 between Decatur and Berne. It started as a farm stop and never pretended to be the square.",
+    long: "",
+    names: ["Monroe"]
+  },
+
+  {
+    id: "approach-monroeville-in",
+    name: "Monroeville",
+    lat: 41.0006,
+    lng: -84.8686,
+    radius: 3500,
+    layer: "approach",
+    short: "You are coming up on Monroeville. Allen County railroad village east of Fort Wayne. If you drop in, I'll start on Main.",
+    long: "",
+    names: ["Monroeville"]
+  },
+  {
+    id: "monroeville-founding",
+    name: "Monroeville founding",
+    lat: 41.0006,
+    lng: -84.8686,
+    radius: 1200,
+    short: "Laid out on the railroad in eastern Allen County. Named Monroeville. A depot village before the cars.",
+    long: "",
+    names: ["Monroeville"]
+  },
+  {
+    id: "monroeville-rail",
+    name: "Monroeville railroad",
+    lat: 41.0006,
+    lng: -84.8686,
+    radius: 1400,
+    short: "The railroad is why the town is here. Grain, passengers, a crossing. Then the trucks came and Main stayed.",
+    long: "",
+    names: ["Monroeville"]
+  },
+  {
+    id: "monroeville-30",
+    name: "US 30 country Monroeville",
+    lat: 41.0006,
+    lng: -84.8686,
+    radius: 1800,
+    short: "Lincoln Highway country to the north. US 30 traffic that can miss this Main if it never turns south.",
+    long: "",
+    names: ["Lincoln Highway"]
+  },
+  {
+    id: "monroeville-parks",
+    name: "Monroeville parks",
+    lat: 41.0006,
+    lng: -84.8686,
+    radius: 1300,
+    short: "Town parks and school ground a depot village kept on purpose.",
+    long: "",
+    names: ["Monroeville"]
+  },
+  {
+    id: "monroeville-people",
+    name: "Monroeville people",
+    lat: 41.0006,
+    lng: -84.8686,
+    radius: 1200,
+    short: "Rail families first. Then farm. Then the Fort Wayne commute. A village that still points at the tracks.",
+    long: "",
+    names: ["Monroeville"]
+  },
+  {
+    id: "monroeville-native",
+    name: "Monroeville Native ground",
+    lat: 41.0006,
+    lng: -84.8686,
+    radius: 1700,
+    short: "Eastern Allen County. Miami hunting ground between the St. Marys and the Ohio line.",
+    long: "",
+    names: ["Miami"]
+  },
+  {
+    id: "monroeville-war",
+    name: "Monroeville war",
+    lat: 41.0006,
+    lng: -84.8686,
+    radius: 1300,
+    short: "No fort on Main. Men left from these farms. The later story is the railroad, not a battery.",
+    long: "",
+    names: ["Monroeville"]
+  },
+  {
+    id: "monroeville-legend",
+    name: "The depot that kept a name",
+    lat: 41.0006,
+    lng: -84.8686,
+    radius: 1000,
+    short: "The local legend is that Monroeville is only a crossing east of Fort Wayne. It started because a train needed a stop.",
+    long: "",
+    names: ["Monroeville"]
+  },
+
+  {
+    id: "approach-new-haven-in",
+    name: "New Haven",
+    lat: 41.0706,
+    lng: -85.0144,
+    radius: 4500,
+    layer: "approach",
+    short: "You are coming up on New Haven. Canal town on the Maumee east of Fort Wayne. If you drop in, I'll start on Broadway.",
+    long: "",
+    names: ["New Haven"]
+  },
+  {
+    id: "new-haven-founding",
+    name: "New Haven founding",
+    lat: 41.0706,
+    lng: -85.0144,
+    radius: 1400,
+    short: "Laid out on the Wabash and Erie Canal. Named for New Haven in Connecticut. A basin town that later became a Fort Wayne neighbor.",
+    long: "",
+    names: ["New Haven"]
+  },
+  {
+    id: "new-haven-canal",
+    name: "Wabash and Erie at New Haven",
+    lat: 41.0706,
+    lng: -85.0144,
+    radius: 1500,
+    short: "The canal is why the town is here. Boats on the Maumee terrace. Then the railroad. Then US 24.",
+    long: "",
+    names: ["Wabash and Erie Canal"]
+  },
+  {
+    id: "new-haven-maumee",
+    name: "Maumee River New Haven",
+    lat: 41.0706,
+    lng: -85.0144,
+    radius: 1700,
+    short: "The Maumee is the older road. Canoes first. Then the canal ditch beside it. Fort Wayne sits upstream.",
+    long: "",
+    names: ["Maumee"]
+  },
+  {
+    id: "new-haven-rail",
+    name: "New Haven railroad",
+    lat: 41.0706,
+    lng: -85.0144,
+    radius: 1500,
+    short: "The railroad took the freight off the canal. A depot town that later filled with Fort Wayne shops.",
+    long: "",
+    names: ["New Haven"]
+  },
+  {
+    id: "new-haven-parks",
+    name: "New Haven parks",
+    lat: 41.0706,
+    lng: -85.0144,
+    radius: 1400,
+    short: "Moser Park and the river ground a canal town kept when it became a suburb.",
+    long: "",
+    names: ["Moser Park"]
+  },
+  {
+    id: "new-haven-people",
+    name: "New Haven people",
+    lat: 41.0706,
+    lng: -85.0144,
+    radius: 1400,
+    short: "Canal families first. Then rail. Then the east Fort Wayne commute. A town that still points at the river.",
+    long: "",
+    names: ["New Haven"]
+  },
+  {
+    id: "new-haven-native",
+    name: "New Haven Native ground",
+    lat: 41.0706,
+    lng: -85.0144,
+    radius: 1900,
+    short: "Maumee valley. Miami water road into Kekionga. This bank was used before the canal was cut.",
+    long: "",
+    names: ["Miami"]
+  },
+  {
+    id: "new-haven-war",
+    name: "New Haven war",
+    lat: 41.0706,
+    lng: -85.0144,
+    radius: 1500,
+    short: "No fort on Broadway. The older fight sat upstream at the three rivers. Men later left from these blocks.",
+    long: "",
+    names: ["New Haven"]
+  },
+  {
+    id: "new-haven-legend",
+    name: "The Connecticut name on a Miami river",
+    lat: 41.0706,
+    lng: -85.0144,
+    radius: 1100,
+    short: "The local legend is that New Haven is only a Fort Wayne suburb. It started as a canal basin named for a city on another water.",
+    long: "",
+    names: ["New Haven"]
+  },
+
+  {
+    id: "approach-hoagland-in",
+    name: "Hoagland",
+    lat: 40.9611,
+    lng: -85.0133,
+    radius: 3000,
+    layer: "approach",
+    short: "You are coming up on Hoagland. South Allen County crossroads. If you drop in, I'll start on the four corners.",
+    long: "",
+    names: ["Hoagland"]
+  },
+  {
+    id: "hoagland-founding",
+    name: "Hoagland founding",
+    lat: 40.9611,
+    lng: -85.0133,
+    radius: 1100,
+    short: "Named for the Hoagland family. A farm crossroads that kept a store, a church, and a name on the map.",
+    long: "",
+    names: ["Hoagland"]
+  },
+  {
+    id: "hoagland-rail",
+    name: "Hoagland railroad",
+    lat: 40.9611,
+    lng: -85.0133,
+    radius: 1300,
+    short: "A siding and an elevator. The railroad took the crop off south Allen County.",
+    long: "",
+    names: ["Hoagland"]
+  },
+  {
+    id: "hoagland-roads",
+    name: "Hoagland roads",
+    lat: 40.9611,
+    lng: -85.0133,
+    radius: 1400,
+    short: "County roads that still meet here. Fort Wayne to Decatur travel that can miss the corners if it stays on 27.",
+    long: "",
+    names: ["Hoagland"]
+  },
+  {
+    id: "hoagland-parks",
+    name: "Hoagland parks",
+    lat: 40.9611,
+    lng: -85.0133,
+    radius: 1200,
+    short: "School and church ground. A crossroads that kept public land without a courthouse.",
+    long: "",
+    names: ["Hoagland"]
+  },
+  {
+    id: "hoagland-people",
+    name: "Hoagland people",
+    lat: 40.9611,
+    lng: -85.0133,
+    radius: 1100,
+    short: "Farm families first. Then the south Fort Wayne commute. A name that is still a family name.",
+    long: "",
+    names: ["Hoagland"]
+  },
+  {
+    id: "hoagland-native",
+    name: "Hoagland Native ground",
+    lat: 40.9611,
+    lng: -85.0133,
+    radius: 1600,
+    short: "South Allen upland. Miami hunting ground between the St. Marys and the Wabash.",
+    long: "",
+    names: ["Miami"]
+  },
+  {
+    id: "hoagland-war",
+    name: "Hoagland war",
+    lat: 40.9611,
+    lng: -85.0133,
+    radius: 1200,
+    short: "No fort at the corners. Men left from these farms. The later story is the elevator, not a battery.",
+    long: "",
+    names: ["Hoagland"]
+  },
+  {
+    id: "hoagland-legend",
+    name: "The family name that stuck to a crossing",
+    lat: 40.9611,
+    lng: -85.0133,
+    radius: 900,
+    short: "The local legend is that Hoagland is only a blinking light. It is a surname that became a town.",
+    long: "",
+    names: ["Hoagland"]
+  },
+
+  {
+    id: "approach-poe-in",
+    name: "Poe",
+    lat: 40.9842,
+    lng: -85.0875,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Poe. Tiny south Allen County hamlet. If you drop in, I'll start on the crossing.",
+    long: "",
+    names: ["Poe"]
+  },
+  {
+    id: "poe-founding",
+    name: "Poe founding",
+    lat: 40.9842,
+    lng: -85.0875,
+    radius: 1000,
+    short: "A farm hamlet with a name longer than the street. Store, church, school. Then Fort Wayne grew toward it.",
+    long: "",
+    names: ["Poe"]
+  },
+  {
+    id: "poe-roads",
+    name: "Poe roads",
+    lat: 40.9842,
+    lng: -85.0875,
+    radius: 1300,
+    short: "County roads and the later commute. A crossing that never needed a courthouse.",
+    long: "",
+    names: ["Poe"]
+  },
+  {
+    id: "poe-rail",
+    name: "Poe railroad",
+    lat: 40.9842,
+    lng: -85.0875,
+    radius: 1200,
+    short: "Grain left on wagons and later trucks. A hamlet that lived off the same farms the bigger towns billed.",
+    long: "",
+    names: ["Poe"]
+  },
+  {
+    id: "poe-parks",
+    name: "Poe parks",
+    lat: 40.9842,
+    lng: -85.0875,
+    radius: 1100,
+    short: "Church and school ground. Public land without a square.",
+    long: "",
+    names: ["Poe"]
+  },
+  {
+    id: "poe-people",
+    name: "Poe people",
+    lat: 40.9842,
+    lng: -85.0875,
+    radius: 1000,
+    short: "Farm families first. Then the south Fort Wayne drive. A hamlet that kept the short name.",
+    long: "",
+    names: ["Poe"]
+  },
+  {
+    id: "poe-native",
+    name: "Poe Native ground",
+    lat: 40.9842,
+    lng: -85.0875,
+    radius: 1500,
+    short: "South Allen upland. Miami hunting ground on the way to the St. Marys.",
+    long: "",
+    names: ["Miami"]
+  },
+  {
+    id: "poe-war",
+    name: "Poe war",
+    lat: 40.9842,
+    lng: -85.0875,
+    radius: 1100,
+    short: "No fort here. Men left from these farms. The later story is the commute.",
+    long: "",
+    names: ["Poe"]
+  },
+  {
+    id: "poe-legend",
+    name: "The hamlet with a writer's name",
+    lat: 40.9842,
+    lng: -85.0875,
+    radius: 800,
+    short: "The local legend is that Poe is named like the poet. Locals will tell you it is just the crossing they grew up on.",
+    long: "",
+    names: ["Poe"]
+  },
+
+  {
+    id: "approach-zanesville-in",
+    name: "Zanesville",
+    lat: 40.9167,
+    lng: -85.2806,
+    radius: 3000,
+    layer: "approach",
+    short: "You are coming up on Zanesville. Allen and Wells county-line village. If you drop in, I'll start on Main.",
+    long: "",
+    names: ["Zanesville"]
+  },
+  {
+    id: "zanesville-founding",
+    name: "Zanesville founding",
+    lat: 40.9167,
+    lng: -85.2806,
+    radius: 1100,
+    short: "Laid out on the county line. Named Zanesville. A store-and-church village between Fort Wayne and the Wabash towns.",
+    long: "",
+    names: ["Zanesville"]
+  },
+  {
+    id: "zanesville-rail",
+    name: "Zanesville railroad",
+    lat: 40.9167,
+    lng: -85.2806,
+    radius: 1300,
+    short: "A siding and an elevator. The railroad took the crop off the line between two counties.",
+    long: "",
+    names: ["Zanesville"]
+  },
+  {
+    id: "zanesville-roads",
+    name: "Zanesville roads",
+    lat: 40.9167,
+    lng: -85.2806,
+    radius: 1400,
+    short: "County roads and the later commute. A village you can miss if you stay on the bigger state roads.",
+    long: "",
+    names: ["Zanesville"]
+  },
+  {
+    id: "zanesville-parks",
+    name: "Zanesville parks",
+    lat: 40.9167,
+    lng: -85.2806,
+    radius: 1200,
+    short: "Church and school ground. Public land a line town kept without a courthouse.",
+    long: "",
+    names: ["Zanesville"]
+  },
+  {
+    id: "zanesville-people",
+    name: "Zanesville people",
+    lat: 40.9167,
+    lng: -85.2806,
+    radius: 1100,
+    short: "Farm families first. Then the Fort Wayne and Huntington drives. A name borrowed from another Zane town.",
+    long: "",
+    names: ["Zanesville"]
+  },
+  {
+    id: "zanesville-native",
+    name: "Zanesville Native ground",
+    lat: 40.9167,
+    lng: -85.2806,
+    radius: 1600,
+    short: "Upland between the St. Marys and the Wabash. Miami hunting ground before the county line was drawn.",
+    long: "",
+    names: ["Miami"]
+  },
+  {
+    id: "zanesville-war",
+    name: "Zanesville war",
+    lat: 40.9167,
+    lng: -85.2806,
+    radius: 1200,
+    short: "No fort on Main. Men left from these farms. The later story is the elevator.",
+    long: "",
+    names: ["Zanesville"]
+  },
+  {
+    id: "zanesville-legend",
+    name: "The other Zanesville",
+    lat: 40.9167,
+    lng: -85.2806,
+    radius: 900,
+    short: "The local legend is that people hear Zanesville and think Ohio. This one is a county-line village that kept the name anyway.",
+    long: "",
+    names: ["Zanesville"]
+  },
+
+  {
+    id: "approach-yoder-in",
+    name: "Yoder",
+    lat: 40.9694,
+    lng: -85.1786,
+    radius: 3000,
+    layer: "approach",
+    short: "You are coming up on Yoder. South Allen County village. Mennonite name on the map. If you drop in, I'll start on the crossing.",
+    long: "",
+    names: ["Yoder"]
+  },
+  {
+    id: "yoder-founding",
+    name: "Yoder founding",
+    lat: 40.9694,
+    lng: -85.1786,
+    radius: 1100,
+    short: "Named Yoder. A farm village south of Fort Wayne. Church, store, school. Then the city grew toward it.",
+    long: "",
+    names: ["Yoder"]
+  },
+  {
+    id: "yoder-rail",
+    name: "Yoder railroad",
+    lat: 40.9694,
+    lng: -85.1786,
+    radius: 1300,
+    short: "A siding and an elevator. The railroad took the crop off the south county.",
+    long: "",
+    names: ["Yoder"]
+  },
+  {
+    id: "yoder-roads",
+    name: "Yoder roads",
+    lat: 40.9694,
+    lng: -85.1786,
+    radius: 1400,
+    short: "County roads and the later commute. A village you pass if you stay on the bigger state roads.",
+    long: "",
+    names: ["Yoder"]
+  },
+  {
+    id: "yoder-parks",
+    name: "Yoder parks",
+    lat: 40.9694,
+    lng: -85.1786,
+    radius: 1200,
+    short: "Church and school ground. Public land without a square.",
+    long: "",
+    names: ["Yoder"]
+  },
+  {
+    id: "yoder-people",
+    name: "Yoder people",
+    lat: 40.9694,
+    lng: -85.1786,
+    radius: 1100,
+    short: "Farm families first. A Mennonite surname that became a place. Then the south Fort Wayne drive.",
+    long: "",
+    names: ["Yoder"]
+  },
+  {
+    id: "yoder-native",
+    name: "Yoder Native ground",
+    lat: 40.9694,
+    lng: -85.1786,
+    radius: 1600,
+    short: "South Allen upland. Miami hunting ground between the St. Marys and the Wabash.",
+    long: "",
+    names: ["Miami"]
+  },
+  {
+    id: "yoder-war",
+    name: "Yoder war",
+    lat: 40.9694,
+    lng: -85.1786,
+    radius: 1200,
+    short: "No fort at the crossing. Men left from these farms. The later story is the commute.",
+    long: "",
+    names: ["Yoder"]
+  },
+  {
+    id: "yoder-legend",
+    name: "The surname that became a village",
+    lat: 40.9694,
+    lng: -85.1786,
+    radius: 900,
+    short: "The local legend is that Yoder is only a sign on the way to Bluffton. It is a family name that stuck to a crossing.",
+    long: "",
+    names: ["Yoder"]
+  },
+
+  {
+    id: "approach-uniondale-in",
+    name: "Uniondale",
+    lat: 40.8297,
+    lng: -85.2411,
+    radius: 3000,
+    layer: "approach",
+    short: "You are coming up on Uniondale. Wells County village. If you drop in, I'll start on Main.",
+    long: "",
+    names: ["Uniondale"]
+  },
+  {
+    id: "uniondale-founding",
+    name: "Uniondale founding",
+    lat: 40.8297,
+    lng: -85.2411,
+    radius: 1100,
+    short: "Laid out as a farm and oil village. Named Uniondale. A depot stop that kept a short Main.",
+    long: "",
+    names: ["Uniondale"]
+  },
+  {
+    id: "uniondale-rail",
+    name: "Uniondale railroad",
+    lat: 40.8297,
+    lng: -85.2411,
+    radius: 1300,
+    short: "The railroad and later the wells. Grain first. Then oil money. Then quiet again.",
+    long: "",
+    names: ["Uniondale"]
+  },
+  {
+    id: "uniondale-oil",
+    name: "Uniondale oil",
+    lat: 40.8297,
+    lng: -85.2411,
+    radius: 1400,
+    short: "Wells County oil country. Derricks and lease money that made a village briefly bigger than its streets.",
+    long: "",
+    names: ["Uniondale"]
+  },
+  {
+    id: "uniondale-parks",
+    name: "Uniondale parks",
+    lat: 40.8297,
+    lng: -85.2411,
+    radius: 1200,
+    short: "Church and school ground. Public land a boom village kept after the wells quieted.",
+    long: "",
+    names: ["Uniondale"]
+  },
+  {
+    id: "uniondale-people",
+    name: "Uniondale people",
+    lat: 40.8297,
+    lng: -85.2411,
+    radius: 1100,
+    short: "Farm families first. Then oil. Then the later commute. A town that still leads with a union name.",
+    long: "",
+    names: ["Uniondale"]
+  },
+  {
+    id: "uniondale-native",
+    name: "Uniondale Native ground",
+    lat: 40.8297,
+    lng: -85.2411,
+    radius: 1600,
+    short: "Wells County upland. Miami hunting ground between the Wabash and the St. Marys.",
+    long: "",
+    names: ["Miami"]
+  },
+  {
+    id: "uniondale-war",
+    name: "Uniondale war",
+    lat: 40.8297,
+    lng: -85.2411,
+    radius: 1200,
+    short: "The name sounds like a war. The village is a railroad and oil stop. Men still left from these farms.",
+    long: "",
+    names: ["Uniondale"]
+  },
+  {
+    id: "uniondale-legend",
+    name: "The boom that left a quiet Main",
+    lat: 40.8297,
+    lng: -85.2411,
+    radius: 900,
+    short: "The local legend is that Uniondale used to be louder. Oil money came. Oil money left. The name stayed.",
+    long: "",
+    names: ["Uniondale"]
+  },
+
+  {
+    id: "approach-markle-in",
+    name: "Markle",
+    lat: 40.8247,
+    lng: -85.3386,
+    radius: 3500,
+    layer: "approach",
+    short: "You are coming up on Markle. Wabash River town on the Huntington and Wells line. If you drop in, I'll start on Morse.",
+    long: "",
+    names: ["Markle"]
+  },
+  {
+    id: "markle-founding",
+    name: "Markle founding",
+    lat: 40.8247,
+    lng: -85.3386,
+    radius: 1200,
+    short: "Laid out on the Wabash. Named Markle. A mill and river village that later took the railroad.",
+    long: "",
+    names: ["Markle"]
+  },
+  {
+    id: "markle-wabash",
+    name: "Wabash River Markle",
+    lat: 40.8247,
+    lng: -85.3386,
+    radius: 1600,
+    short: "The Wabash is why the town is here. Canoe road. Then mills. Then the highway on the terrace.",
+    long: "",
+    names: ["Wabash"]
+  },
+  {
+    id: "markle-rail",
+    name: "Markle railroad",
+    lat: 40.8247,
+    lng: -85.3386,
+    radius: 1400,
+    short: "The railroad took the grain off the river. A depot town that still sits on both counties.",
+    long: "",
+    names: ["Markle"]
+  },
+  {
+    id: "markle-24",
+    name: "US 24 Markle",
+    lat: 40.8247,
+    lng: -85.3386,
+    radius: 1800,
+    short: "US 24 is the later spine. Fort Wayne to Huntington traffic that can miss Main if it stays on the four-lane.",
+    long: "",
+    names: ["Markle"]
+  },
+  {
+    id: "markle-parks",
+    name: "Markle parks",
+    lat: 40.8247,
+    lng: -85.3386,
+    radius: 1300,
+    short: "River parks and school ground a mill town kept on purpose.",
+    long: "",
+    names: ["Markle"]
+  },
+  {
+    id: "markle-people",
+    name: "Markle people",
+    lat: 40.8247,
+    lng: -85.3386,
+    radius: 1200,
+    short: "River families first. Then rail. Then the later commute. A town that still points at the Wabash.",
+    long: "",
+    names: ["Markle"]
+  },
+  {
+    id: "markle-native",
+    name: "Markle Native ground",
+    lat: 40.8247,
+    lng: -85.3386,
+    radius: 1700,
+    short: "Wabash valley. Miami water road. This bend was used before the mill race was cut.",
+    long: "",
+    names: ["Miami"]
+  },
+  {
+    id: "markle-war",
+    name: "Markle war",
+    lat: 40.8247,
+    lng: -85.3386,
+    radius: 1300,
+    short: "No fort on Morse. The older fight sat on this river system. Men later left from these blocks.",
+    long: "",
+    names: ["Markle"]
+  },
+  {
+    id: "markle-legend",
+    name: "The river town the four-lane can skip",
+    lat: 40.8247,
+    lng: -85.3386,
+    radius: 1000,
+    short: "The local legend is that Markle is only a 24 exit. It started because the Wabash bent here.",
+    long: "",
+    names: ["Markle"]
+  },
+
+  {
+    id: "approach-ossian-in",
+    name: "Ossian",
+    lat: 40.8806,
+    lng: -85.1664,
+    radius: 3500,
+    layer: "approach",
+    short: "You are coming up on Ossian. Wells County town north of Bluffton. If you drop in, I'll start on Mill.",
+    long: "",
+    names: ["Ossian"]
+  },
+  {
+    id: "ossian-founding",
+    name: "Ossian founding",
+    lat: 40.8806,
+    lng: -85.1664,
+    radius: 1200,
+    short: "Laid out as a farm village. Named Ossian. A store-and-church town that later grew toward Fort Wayne.",
+    long: "",
+    names: ["Ossian"]
+  },
+  {
+    id: "ossian-rail",
+    name: "Ossian railroad",
+    lat: 40.8806,
+    lng: -85.1664,
+    radius: 1400,
+    short: "The railroad took the grain off northern Wells County. A depot village that kept Main after the trains thinned.",
+    long: "",
+    names: ["Ossian"]
+  },
+  {
+    id: "ossian-1",
+    name: "State Road 1 Ossian",
+    lat: 40.8806,
+    lng: -85.1664,
+    radius: 1600,
+    short: "State Road 1 is the later spine. Fort Wayne to Bluffton traffic that still hits this town if it stays on 1.",
+    long: "",
+    names: ["Ossian"]
+  },
+  {
+    id: "ossian-parks",
+    name: "Ossian parks",
+    lat: 40.8806,
+    lng: -85.1664,
+    radius: 1300,
+    short: "Town parks and school ground a village kept as it became a commuter town.",
+    long: "",
+    names: ["Ossian"]
+  },
+  {
+    id: "ossian-people",
+    name: "Ossian people",
+    lat: 40.8806,
+    lng: -85.1664,
+    radius: 1200,
+    short: "Farm families first. Then rail. Then the Fort Wayne drive. A town that still leads with a poet's name.",
+    long: "",
+    names: ["Ossian"]
+  },
+  {
+    id: "ossian-native",
+    name: "Ossian Native ground",
+    lat: 40.8806,
+    lng: -85.1664,
+    radius: 1700,
+    short: "Northern Wells upland. Miami hunting ground between the Wabash and the St. Marys.",
+    long: "",
+    names: ["Miami"]
+  },
+  {
+    id: "ossian-war",
+    name: "Ossian war",
+    lat: 40.8806,
+    lng: -85.1664,
+    radius: 1300,
+    short: "No fort on Mill. Men left from these farms. The later story is the school and the commute.",
+    long: "",
+    names: ["Ossian"]
+  },
+  {
+    id: "ossian-legend",
+    name: "The poem name on a farm road",
+    lat: 40.8806,
+    lng: -85.1664,
+    radius: 1000,
+    short: "The local legend is that Ossian is only a 1 stop north of Bluffton. They named a Wells County village after a legend and then built a school on it.",
+    long: "",
+    names: ["Ossian"]
+  },
+
+  {
+    id: "approach-bluffton-in",
+    name: "Bluffton",
+    lat: 40.7386,
+    lng: -85.1717,
+    radius: 5000,
+    layer: "approach",
+    short: "You are coming up on Bluffton. Wells County seat on the Wabash. Oil-boom town that kept a river square. If you drop in, I'll start on Market.",
+    long: "",
+    names: ["Bluffton"]
+  },
+  {
+    id: "bluffton-founding",
+    name: "Bluffton founding",
+    lat: 40.7386,
+    lng: -85.1717,
+    radius: 1400,
+    short: "Laid out on a bluff above the Wabash. Named Bluffton. County seat from the start. Mills first. Then oil.",
+    long: "",
+    names: ["Bluffton"]
+  },
+  {
+    id: "bluffton-wabash",
+    name: "Wabash River Bluffton",
+    lat: 40.7386,
+    lng: -85.1717,
+    radius: 1800,
+    short: "The Wabash is why the town sits here. Canoe road. Then mills. Then the square on the terrace.",
+    long: "",
+    names: ["Wabash"]
+  },
+  {
+    id: "bluffton-courthouse",
+    name: "Wells County Courthouse",
+    lat: 40.7386,
+    lng: -85.1717,
+    radius: 800,
+    short: "The courthouse on Market. Wells County business still walks this square.",
+    long: "",
+    names: ["Wells County Courthouse"]
+  },
+  {
+    id: "bluffton-oil",
+    name: "Bluffton oil boom",
+    lat: 40.7386,
+    lng: -85.1717,
+    radius: 1600,
+    short: "Wells County oil. Derricks and lease money that made this river town briefly loud. Then the wells quieted and the square stayed.",
+    long: "",
+    names: ["Bluffton"]
+  },
+  {
+    id: "bluffton-rail",
+    name: "Bluffton railroad",
+    lat: 40.7386,
+    lng: -85.1717,
+    radius: 1500,
+    short: "The railroad took the grain and the oil off the river. A depot county seat.",
+    long: "",
+    names: ["Bluffton"]
+  },
+  {
+    id: "bluffton-parks",
+    name: "Bluffton parks",
+    lat: 40.7386,
+    lng: -85.1717,
+    radius: 1500,
+    short: "River greenway and town parks. Public ground a county seat kept on the Wabash.",
+    long: "",
+    names: ["Bluffton"]
+  },
+  {
+    id: "bluffton-people",
+    name: "Bluffton people",
+    lat: 40.7386,
+    lng: -85.1717,
+    radius: 1400,
+    short: "River families first. Then oil. Then the later commute. A town that still leads with the courthouse.",
+    long: "",
+    names: ["Bluffton"]
+  },
+  {
+    id: "bluffton-native",
+    name: "Bluffton Native ground",
+    lat: 40.7386,
+    lng: -85.1717,
+    radius: 1900,
+    short: "Wabash valley. Miami water road. This bluff was used before the county was drawn.",
+    long: "",
+    names: ["Miami"]
+  },
+  {
+    id: "bluffton-war",
+    name: "Bluffton war",
+    lat: 40.7386,
+    lng: -85.1717,
+    radius: 1500,
+    short: "No fort on Market. The older fight sat on this river system. Men later left from these blocks.",
+    long: "",
+    names: ["Bluffton"]
+  },
+  {
+    id: "bluffton-legend",
+    name: "The bluff that became a county seat",
+    lat: 40.7386,
+    lng: -85.1717,
+    radius: 1100,
+    short: "The local legend is that Bluffton is only oil and a river. They put the courthouse on a bluff and the name explained itself.",
+    long: "",
+    names: ["Bluffton"]
+  },
+
+  {
+    id: "approach-huntington-in",
+    name: "Huntington",
+    lat: 40.8831,
+    lng: -85.4975,
+    radius: 7000,
+    layer: "approach",
+    short: "You are coming up on Huntington. County seat at the Forks of the Wabash. Canal town. Dan Quayle's town. If you drop in, I'll start on Jefferson.",
+    long: "",
+    names: ["Huntington"]
+  },
+  {
+    id: "huntington-founding",
+    name: "Huntington founding",
+    lat: 40.8831,
+    lng: -85.4975,
+    radius: 1500,
+    short: "Laid out where the Little River meets the Wabash. Named for Samuel Huntington. Canal basin first. Then the courthouse.",
+    long: "",
+    names: ["Huntington"]
+  },
+  {
+    id: "huntington-forks",
+    name: "Forks of the Wabash",
+    lat: 40.8780,
+    lng: -85.5400,
+    radius: 1800,
+    short: "The Forks. Little River into the Wabash. Miami council ground. Later a canal and a park. This junction is why the town exists.",
+    long: "",
+    names: ["Forks of the Wabash", "Little River"]
+  },
+  {
+    id: "huntington-canal",
+    name: "Wabash and Erie at Huntington",
+    lat: 40.8831,
+    lng: -85.4975,
+    radius: 1600,
+    short: "The Wabash and Erie cut through here. Boats on the river terrace. Then the railroad. Then US 24.",
+    long: "",
+    names: ["Wabash and Erie Canal"]
+  },
+  {
+    id: "huntington-courthouse",
+    name: "Huntington County Courthouse",
+    lat: 40.8831,
+    lng: -85.4975,
+    radius: 800,
+    short: "The courthouse on the square. County business still walks these blocks.",
+    long: "",
+    names: ["Huntington County Courthouse"]
+  },
+  {
+    id: "huntington-quayle",
+    name: "Dan Quayle",
+    lat: 40.8831,
+    lng: -85.4975,
+    radius: 1400,
+    short: "Dan Quayle grew up here. Vice president. The museum and the name still sit on this county seat.",
+    long: "",
+    names: ["Dan Quayle"]
+  },
+  {
+    id: "huntington-university",
+    name: "Huntington University",
+    lat: 40.8831,
+    lng: -85.4975,
+    radius: 1200,
+    short: "Huntington University on the hill. A college town layered on a canal town.",
+    long: "",
+    names: ["Huntington University"]
+  },
+  {
+    id: "huntington-parks",
+    name: "Huntington parks",
+    lat: 40.8831,
+    lng: -85.4975,
+    radius: 1500,
+    short: "River parks and the Forks ground. Public land a canal county seat kept on purpose.",
+    long: "",
+    names: ["Huntington"]
+  },
+  {
+    id: "huntington-native",
+    name: "Huntington Native ground",
+    lat: 40.8780,
+    lng: -85.5400,
+    radius: 2000,
+    short: "Forks of the Wabash. Miami council and treaty ground. Chief Francis La Fontaine's people used this junction before the canal.",
+    long: "",
+    names: ["Miami", "Francis La Fontaine"]
+  },
+  {
+    id: "huntington-war",
+    name: "Huntington war",
+    lat: 40.8831,
+    lng: -85.4975,
+    radius: 1600,
+    short: "No fort on Jefferson. The older fight sat on this river system. Men later left from these blocks.",
+    long: "",
+    names: ["Huntington"]
+  },
+  {
+    id: "huntington-legend",
+    name: "The forks that made a county",
+    lat: 40.8831,
+    lng: -85.4975,
+    radius: 1200,
+    short: "The local legend is that Huntington is only Quayle and a college. It started because two rivers met and the Miami already knew the ground.",
+    long: "",
+    names: ["Huntington"]
+  },
+
+  {
+    id: "huntington-la-fontaine",
+    name: "Chief Francis La Fontaine",
+    lat: 40.8780,
+    lng: -85.5400,
+    radius: 1600,
+    short: "Francis La Fontaine, last principal chief of the Miami here. The Forks park still carries that name.",
+    long: "",
+    names: ["Francis La Fontaine", "Miami"]
+  },
+  {
+    id: "huntington-rail",
+    name: "Huntington railroad",
+    lat: 40.8831,
+    lng: -85.4975,
+    radius: 1600,
+    short: "The railroad took the freight off the canal. Shops and a yard. A county seat that still hears trains.",
+    long: "",
+    names: ["Huntington"]
+  },
+  {
+    id: "huntington-24",
+    name: "US 24 Huntington",
+    lat: 40.8831,
+    lng: -85.4975,
+    radius: 2200,
+    short: "US 24 is the later spine. Fort Wayne to Wabash traffic that can miss Jefferson if it stays on the four-lane.",
+    long: "",
+    names: ["Huntington"]
+  },
+  {
+    id: "huntington-industry",
+    name: "Huntington industry",
+    lat: 40.8831,
+    lng: -85.4975,
+    radius: 1700,
+    short: "Shops, lime, and later plants. A river town that made things after the boats stopped.",
+    long: "",
+    names: ["Huntington"]
+  },
+  {
+    id: "huntington-people",
+    name: "Huntington people",
+    lat: 40.8831,
+    lng: -85.4975,
+    radius: 1500,
+    short: "Canal families. Miami families who stayed. Quayle. College kids. A town that still points at the Forks.",
+    long: "",
+    names: ["Huntington"]
+  },
+  {
+    id: "huntington-downtown",
+    name: "Huntington downtown",
+    lat: 40.8831,
+    lng: -85.4975,
+    radius: 900,
+    short: "Jefferson and the square. Brick blocks a canal county seat kept after the boats left.",
+    long: "",
+    names: ["Huntington"]
+  },
+  {
+    id: "huntington-reservoir",
+    name: "Huntington Lake",
+    lat: 40.8300,
+    lng: -85.4600,
+    radius: 2500,
+    short: "Huntington Lake on the Wabash. Flood control and a weekend water after the river was dammed.",
+    long: "",
+    names: ["Huntington Lake"]
+  },
+  {
+    id: "huntington-legend-lime",
+    name: "Lime and the river terrace",
+    lat: 40.8831,
+    lng: -85.4975,
+    radius: 1300,
+    short: "The local legend is that Huntington always smelled like the kilns. Lime and the river built the payroll after the canal.",
+    long: "",
+    names: ["Huntington"]
+  }
+  {
+    id: "approach-andrews-in",
+    name: "Andrews",
+    lat: 40.8564,
+    lng: -85.6017,
+    radius: 3500,
+    layer: "approach",
+    short: "You are coming up on Andrews. Huntington County town west of the county seat. If you drop in, I'll start on Main.",
+    long: "",
+    names: ["Andrews"]
+  },
+  {
+    id: "andrews-founding",
+    name: "Andrews founding",
+    lat: 40.8564,
+    lng: -85.6017,
+    radius: 1200,
+    short: "Laid out on the railroad and the Wabash terrace. Named Andrews. A depot village between Huntington and Wabash.",
+    long: "",
+    names: ["Andrews"]
+  },
+  {
+    id: "andrews-rail",
+    name: "Andrews railroad",
+    lat: 40.8564,
+    lng: -85.6017,
+    radius: 1400,
+    short: "The railroad is why the town is here. A siding and an elevator. Then US 24.",
+    long: "",
+    names: ["Andrews"]
+  },
+  {
+    id: "andrews-wabash",
+    name: "Wabash near Andrews",
+    lat: 40.8564,
+    lng: -85.6017,
+    radius: 1600,
+    short: "The Wabash is just off town. Older than the rails. Canoe road that the later highway followed.",
+    long: "",
+    names: ["Wabash"]
+  },
+  {
+    id: "andrews-24",
+    name: "US 24 Andrews",
+    lat: 40.8564,
+    lng: -85.6017,
+    radius: 1800,
+    short: "US 24 is the later spine. Fort Wayne to Wabash traffic that can miss Main if it stays on the four-lane.",
+    long: "",
+    names: ["Andrews"]
+  },
+  {
+    id: "andrews-parks",
+    name: "Andrews parks",
+    lat: 40.8564,
+    lng: -85.6017,
+    radius: 1200,
+    short: "School and park ground a depot village kept after the trains thinned.",
+    long: "",
+    names: ["Andrews"]
+  },
+  {
+    id: "andrews-people",
+    name: "Andrews people",
+    lat: 40.8564,
+    lng: -85.6017,
+    radius: 1100,
+    short: "Rail families first. Then the later commute. A town that still points at the tracks.",
+    long: "",
+    names: ["Andrews"]
+  },
+  {
+    id: "andrews-native",
+    name: "Andrews Native ground",
+    lat: 40.8564,
+    lng: -85.6017,
+    radius: 1700,
+    short: "Wabash valley. Miami water road west of the Forks.",
+    long: "",
+    names: ["Miami"]
+  },
+  {
+    id: "andrews-war",
+    name: "Andrews war",
+    lat: 40.8564,
+    lng: -85.6017,
+    radius: 1300,
+    short: "No fort on Main. Men left from these farms. The later story is the depot.",
+    long: "",
+    names: ["Andrews"]
+  },
+  {
+    id: "andrews-legend",
+    name: "The stop the four-lane can skip",
+    lat: 40.8564,
+    lng: -85.6017,
+    radius: 900,
+    short: "The local legend is that Andrews is only a 24 blink. It started because the railroad needed a name between two river towns.",
+    long: "",
+    names: ["Andrews"]
+  },
+
+  {
+    id: "approach-wabash-in",
+    name: "Wabash",
+    lat: 40.7978,
+    lng: -85.8205,
+    radius: 7000,
+    layer: "approach",
+    short: "You are coming up on Wabash. County seat on the river that named it. First city in the world to light its streets with electricity. If you drop in, I'll start on Market.",
+    long: "",
+    names: ["Wabash"]
+  },
+  {
+    id: "wabash-founding",
+    name: "Wabash founding",
+    lat: 40.7978,
+    lng: -85.8205,
+    radius: 1500,
+    short: "Laid out on the Wabash. County seat. Canal basin. Then the railroad. Then the light.",
+    long: "",
+    names: ["Wabash"]
+  },
+  {
+    id: "wabash-electric",
+    name: "First electrically lighted city",
+    lat: 40.7978,
+    lng: -85.8205,
+    radius: 1400,
+    short: "March 1880. Brush arc lamps on the courthouse. Wabash claimed the first electrically lighted city in the world. The square still tells that story.",
+    long: "",
+    names: ["Charles Brush"]
+  },
+  {
+    id: "wabash-courthouse",
+    name: "Wabash County Courthouse",
+    lat: 40.7978,
+    lng: -85.8205,
+    radius: 800,
+    short: "The courthouse on the hill. The lamps hung here first. County business still walks these steps.",
+    long: "",
+    names: ["Wabash County Courthouse"]
+  },
+  {
+    id: "wabash-river",
+    name: "Wabash River",
+    lat: 40.7978,
+    lng: -85.8205,
+    radius: 1800,
+    short: "The river is the name and the reason. Canoe road. Canal. Then the town on the terrace.",
+    long: "",
+    names: ["Wabash"]
+  },
+  {
+    id: "wabash-canal",
+    name: "Wabash and Erie at Wabash",
+    lat: 40.7978,
+    lng: -85.8205,
+    radius: 1600,
+    short: "The Wabash and Erie cut through here. Boats on the terrace. Then the railroad took the freight.",
+    long: "",
+    names: ["Wabash and Erie Canal"]
+  },
+  {
+    id: "wabash-paradise",
+    name: "Paradise Spring",
+    lat: 40.7978,
+    lng: -85.8080,
+    radius: 1400,
+    short: "Paradise Spring. 1826 treaty ground with the Miami. The park still marks the council.",
+    long: "",
+    names: ["Paradise Spring", "Miami"]
+  },
+  {
+    id: "wabash-parks",
+    name: "Wabash parks",
+    lat: 40.7978,
+    lng: -85.8205,
+    radius: 1500,
+    short: "River parks and the spring ground. Public land a lighted county seat kept on purpose.",
+    long: "",
+    names: ["Wabash"]
+  },
+  {
+    id: "wabash-native",
+    name: "Wabash Native ground",
+    lat: 40.7978,
+    lng: -85.8080,
+    radius: 2000,
+    short: "Miami river town before it was a county seat. Paradise Spring is the treaty you can still stand on.",
+    long: "",
+    names: ["Miami"]
+  },
+  {
+    id: "wabash-war",
+    name: "Wabash war",
+    lat: 40.7978,
+    lng: -85.8205,
+    radius: 1600,
+    short: "No fort on Market. The older fight sat on this river. Men later left from these blocks.",
+    long: "",
+    names: ["Wabash"]
+  },
+  {
+    id: "wabash-legend",
+    name: "The night they turned the lamps on",
+    lat: 40.7978,
+    lng: -85.8205,
+    radius: 1100,
+    short: "The local legend is that people came from miles to see the courthouse glow. Wabash still leads with that night.",
+    long: "",
+    names: ["Wabash"]
+  },
+
+  {
+    id: "wabash-honeywell",
+    name: "Mark Honeywell",
+    lat: 40.7978,
+    lng: -85.8205,
+    radius: 1400,
+    short: "Mark Honeywell grew up here. Thermostats and a company that kept his name. A Wabash kid who wired the modern house.",
+    long: "",
+    names: ["Mark Honeywell"]
+  },
+  {
+    id: "wabash-rail",
+    name: "Wabash railroad",
+    lat: 40.7978,
+    lng: -85.8205,
+    radius: 1600,
+    short: "The railroad took the freight off the canal. Shops and a yard. A river town that still hears trains.",
+    long: "",
+    names: ["Wabash"]
+  },
+  {
+    id: "wabash-24",
+    name: "US 24 Wabash",
+    lat: 40.7978,
+    lng: -85.8205,
+    radius: 2200,
+    short: "US 24 is the later spine. Huntington to Peru traffic that can miss the square if it stays on the four-lane.",
+    long: "",
+    names: ["Wabash"]
+  },
+  {
+    id: "wabash-downtown",
+    name: "Wabash downtown",
+    lat: 40.7978,
+    lng: -85.8205,
+    radius: 900,
+    short: "Market and the hill. Brick blocks a lighted county seat kept after the boats left.",
+    long: "",
+    names: ["Wabash"]
+  },
+  {
+    id: "wabash-charley",
+    name: "Charley Creek",
+    lat: 40.7978,
+    lng: -85.8205,
+    radius: 1300,
+    short: "Charley Creek Inn and the old mill water. A downtown that still uses the creek name.",
+    long: "",
+    names: ["Charley Creek"]
+  },
+  {
+    id: "wabash-people",
+    name: "Wabash people",
+    lat: 40.7978,
+    lng: -85.8205,
+    radius: 1500,
+    short: "Canal families. Miami families who stayed. Honeywell. A town that still points at the lamps.",
+    long: "",
+    names: ["Wabash"]
+  },
+  {
+    id: "wabash-industry",
+    name: "Wabash industry",
+    lat: 40.7978,
+    lng: -85.8205,
+    radius: 1700,
+    short: "Shops, paper, and later plants. A river town that made things after the boats stopped.",
+    long: "",
+    names: ["Wabash"]
+  },
+  {
+    id: "wabash-legend-hill",
+    name: "The courthouse on the hill",
+    lat: 40.7978,
+    lng: -85.8205,
+    radius: 1000,
+    short: "The local legend is that you always look up to see Wabash. They put the lights on the hill so the river town could be seen at night.",
+    long: "",
+    names: ["Wabash"]
+  },
+
+  {
+    id: "approach-lagro-in",
+    name: "Lagro",
+    lat: 40.8381,
+    lng: -85.7275,
+    radius: 3500,
+    layer: "approach",
+    short: "You are coming up on Lagro. Wabash River village. Named for a Miami chief. If you drop in, I'll start on Washington.",
+    long: "",
+    names: ["Lagro"]
+  },
+  {
+    id: "lagro-founding",
+    name: "Lagro founding",
+    lat: 40.8381,
+    lng: -85.7275,
+    radius: 1200,
+    short: "Laid out on the Wabash and the canal. Named Lagro for Le Gros, a Miami leader. A river village between Huntington and Wabash.",
+    long: "",
+    names: ["Lagro", "Le Gros"]
+  },
+  {
+    id: "lagro-canal",
+    name: "Canal at Lagro",
+    lat: 40.8381,
+    lng: -85.7275,
+    radius: 1500,
+    short: "The Wabash and Erie cut through here. A lock town. Then the railroad. Then quiet Main.",
+    long: "",
+    names: ["Wabash and Erie Canal"]
+  },
+  {
+    id: "lagro-wabash",
+    name: "Wabash River Lagro",
+    lat: 40.8381,
+    lng: -85.7275,
+    radius: 1600,
+    short: "The river is why the village is here. Canoe road. Then the canal bench.",
+    long: "",
+    names: ["Wabash"]
+  },
+  {
+    id: "lagro-rail",
+    name: "Lagro railroad",
+    lat: 40.8381,
+    lng: -85.7275,
+    radius: 1400,
+    short: "The railroad took the freight off the canal. A siding that outlasted the boats.",
+    long: "",
+    names: ["Lagro"]
+  },
+  {
+    id: "lagro-parks",
+    name: "Lagro parks",
+    lat: 40.8381,
+    lng: -85.7275,
+    radius: 1200,
+    short: "River and church ground a lock village kept after the boats left.",
+    long: "",
+    names: ["Lagro"]
+  },
+  {
+    id: "lagro-people",
+    name: "Lagro people",
+    lat: 40.8381,
+    lng: -85.7275,
+    radius: 1100,
+    short: "Canal families. A Miami name on the map. Then the later quiet.",
+    long: "",
+    names: ["Lagro"]
+  },
+  {
+    id: "lagro-native",
+    name: "Lagro Native ground",
+    lat: 40.8381,
+    lng: -85.7275,
+    radius: 1700,
+    short: "Le Gros's ground. Miami river town before the locks. The name is the marker.",
+    long: "",
+    names: ["Miami", "Le Gros"]
+  },
+  {
+    id: "lagro-war",
+    name: "Lagro war",
+    lat: 40.8381,
+    lng: -85.7275,
+    radius: 1300,
+    short: "No fort on Washington. The older fight sat on this river. Men later left from these farms.",
+    long: "",
+    names: ["Lagro"]
+  },
+  {
+    id: "lagro-legend",
+    name: "The chief in the town name",
+    lat: 40.8381,
+    lng: -85.7275,
+    radius: 900,
+    short: "The local legend is that Lagro is only a blink on 24. They kept a Miami chief's name on a lock village.",
+    long: "",
+    names: ["Lagro"]
+  },
+
+  {
+    id: "approach-peru-in",
+    name: "Peru",
+    lat: 40.7537,
+    lng: -86.0689,
+    radius: 7000,
+    layer: "approach",
+    short: "You are coming up on Peru. Miami County seat on the Wabash. Circus Capital of the World. If you drop in, I'll start on Broadway.",
+    long: "",
+    names: ["Peru"]
+  },
+  {
+    id: "peru-founding",
+    name: "Peru founding",
+    lat: 40.7537,
+    lng: -86.0689,
+    radius: 1500,
+    short: "Laid out on the Wabash. Named Peru. County seat. Canal basin. Then the railroad. Then the circus wintered here.",
+    long: "",
+    names: ["Peru"]
+  },
+  {
+    id: "peru-circus",
+    name: "Circus Capital",
+    lat: 40.7537,
+    lng: -86.0689,
+    radius: 1600,
+    short: "Cole Brothers and the other shows wintered here. Peru still calls itself Circus Capital. The museum and the festival keep the tents in the story.",
+    long: "",
+    names: ["Cole Brothers Circus"]
+  },
+  {
+    id: "peru-courthouse",
+    name: "Miami County Courthouse",
+    lat: 40.7537,
+    lng: -86.0689,
+    radius: 800,
+    short: "The courthouse on the square. County business still walks Broadway.",
+    long: "",
+    names: ["Miami County Courthouse"]
+  },
+  {
+    id: "peru-wabash",
+    name: "Wabash River Peru",
+    lat: 40.7537,
+    lng: -86.0689,
+    radius: 1800,
+    short: "The Wabash is why the town is here. Canoe road. Canal. Then the winter quarters on the terrace.",
+    long: "",
+    names: ["Wabash"]
+  },
+  {
+    id: "peru-canal",
+    name: "Canal at Peru",
+    lat: 40.7537,
+    lng: -86.0689,
+    radius: 1600,
+    short: "The Wabash and Erie cut through here. Boats on the terrace. Then the railroad took the freight.",
+    long: "",
+    names: ["Wabash and Erie Canal"]
+  },
+  {
+    id: "peru-parks",
+    name: "Peru parks",
+    lat: 40.7537,
+    lng: -86.0689,
+    radius: 1500,
+    short: "River parks and circus ground. Public land a county seat kept on purpose.",
+    long: "",
+    names: ["Peru"]
+  },
+  {
+    id: "peru-native",
+    name: "Peru Native ground",
+    lat: 40.7537,
+    lng: -86.0689,
+    radius: 2000,
+    short: "Miami County is the name. This river bend was Miami ground before the circus or the canal.",
+    long: "",
+    names: ["Miami"]
+  },
+  {
+    id: "peru-war",
+    name: "Peru war",
+    lat: 40.7537,
+    lng: -86.0689,
+    radius: 1600,
+    short: "No fort on Broadway. The older fight sat on this river. Men later left from these blocks.",
+    long: "",
+    names: ["Peru"]
+  },
+  {
+    id: "peru-legend",
+    name: "The town that wintered the circus",
+    lat: 40.7537,
+    lng: -86.0689,
+    radius: 1200,
+    short: "The local legend is that elephants used to walk these streets in winter. Peru still leads with the tents.",
+    long: "",
+    names: ["Peru"]
+  },
+
+  {
+    id: "peru-porter",
+    name: "Cole Porter",
+    lat: 40.7537,
+    lng: -86.0689,
+    radius: 1400,
+    short: "Cole Porter was born in Peru. Night and Day. Anything Goes. A Wabash River kid who wrote the American songbook.",
+    long: "",
+    names: ["Cole Porter"]
+  },
+  {
+    id: "peru-rail",
+    name: "Peru railroad",
+    lat: 40.7537,
+    lng: -86.0689,
+    radius: 1600,
+    short: "The railroad took the freight off the canal and the circus off the road. Shops and a yard.",
+    long: "",
+    names: ["Peru"]
+  },
+  {
+    id: "peru-31",
+    name: "US 31 Peru",
+    lat: 40.7537,
+    lng: -86.0689,
+    radius: 2200,
+    short: "US 31 is the later spine. South Bend to Indianapolis traffic that can miss Broadway if it stays on the four-lane.",
+    long: "",
+    names: ["Peru"]
+  },
+  {
+    id: "peru-downtown",
+    name: "Peru downtown",
+    lat: 40.7537,
+    lng: -86.0689,
+    radius: 900,
+    short: "Broadway and the square. Brick blocks a circus county seat kept after the boats left.",
+    long: "",
+    names: ["Peru"]
+  },
+  {
+    id: "peru-people",
+    name: "Peru people",
+    lat: 40.7537,
+    lng: -86.0689,
+    radius: 1500,
+    short: "Canal families. Circus families. Cole Porter. Miami families who stayed. A town that still points at the river.",
+    long: "",
+    names: ["Peru"]
+  },
+  {
+    id: "peru-grissom",
+    name: "Grissom Air Reserve Base",
+    lat: 40.6481,
+    lng: -86.1521,
+    radius: 4000,
+    short: "Grissom south of town. Named for Gus Grissom. A Cold War field that still flies reserve missions.",
+    long: "",
+    names: ["Gus Grissom", "Grissom Air Reserve Base"]
+  },
+  {
+    id: "peru-industry",
+    name: "Peru industry",
+    lat: 40.7537,
+    lng: -86.0689,
+    radius: 1700,
+    short: "Shops, circus wagons, and later plants. A river town that made things after the boats stopped.",
+    long: "",
+    names: ["Peru"]
+  },
+  {
+    id: "peru-legend-porter",
+    name: "The kid from Peru who wrote the songs",
+    lat: 40.7537,
+    lng: -86.0689,
+    radius: 1100,
+    short: "The local legend is that Broadway started on this Broadway. Cole Porter left. The town kept the name.",
+    long: "",
+    names: ["Cole Porter"]
+  },
+
+  {
+    id: "approach-mexico-in",
+    name: "Mexico",
+    lat: 40.8189,
+    lng: -86.1142,
+    radius: 3000,
+    layer: "approach",
+    short: "You are coming up on Mexico. Miami County village north of Peru. If you drop in, I'll start on Main.",
+    long: "",
+    names: ["Mexico"]
+  },
+  {
+    id: "mexico-founding",
+    name: "Mexico founding",
+    lat: 40.8189,
+    lng: -86.1142,
+    radius: 1100,
+    short: "Laid out as a farm village. Named Mexico. A store-and-church town on the road to Rochester.",
+    long: "",
+    names: ["Mexico"]
+  },
+  {
+    id: "mexico-road",
+    name: "Mexico road",
+    lat: 40.8189,
+    lng: -86.1142,
+    radius: 1400,
+    short: "Old 31 and the later four-lane. Peru to Rochester traffic that can miss Main if it stays on the new road.",
+    long: "",
+    names: ["Mexico"]
+  },
+  {
+    id: "mexico-rail",
+    name: "Mexico railroad",
+    lat: 40.8189,
+    lng: -86.1142,
+    radius: 1300,
+    short: "A siding if the line ran close. Grain off northern Miami County.",
+    long: "",
+    names: ["Mexico"]
+  },
+  {
+    id: "mexico-parks",
+    name: "Mexico parks",
+    lat: 40.8189,
+    lng: -86.1142,
+    radius: 1100,
+    short: "Church and school ground a farm village kept after the highway moved.",
+    long: "",
+    names: ["Mexico"]
+  },
+  {
+    id: "mexico-people",
+    name: "Mexico people",
+    lat: 40.8189,
+    lng: -86.1142,
+    radius: 1000,
+    short: "Farm families first. Then the later commute to Peru. A town that still leads with a faraway name.",
+    long: "",
+    names: ["Mexico"]
+  },
+  {
+    id: "mexico-native",
+    name: "Mexico Native ground",
+    lat: 40.8189,
+    lng: -86.1142,
+    radius: 1600,
+    short: "Miami County upland north of the Wabash. Hunting ground between Peru and the lakes.",
+    long: "",
+    names: ["Miami"]
+  },
+  {
+    id: "mexico-war",
+    name: "Mexico war",
+    lat: 40.8189,
+    lng: -86.1142,
+    radius: 1200,
+    short: "No fort on Main. Men left from these farms. The later story is the highway.",
+    long: "",
+    names: ["Mexico"]
+  },
+  {
+    id: "mexico-legend",
+    name: "The Indiana Mexico",
+    lat: 40.8189,
+    lng: -86.1142,
+    radius: 900,
+    short: "The local legend is that people always ask which Mexico. This one is a Miami County crossroads with a borrowed name.",
+    long: "",
+    names: ["Mexico"]
+  },
+
+  {
+    id: "approach-denver-in",
+    name: "Denver",
+    lat: 40.8645,
+    lng: -86.0775,
+    radius: 3000,
+    layer: "approach",
+    short: "You are coming up on Denver. Miami County village. If you drop in, I'll start on Main.",
+    long: "",
+    names: ["Denver"]
+  },
+  {
+    id: "denver-founding",
+    name: "Denver founding",
+    lat: 40.8645,
+    lng: -86.0775,
+    radius: 1100,
+    short: "Laid out as a farm village. Named Denver. A store-and-church town north of Peru.",
+    long: "",
+    names: ["Denver"]
+  },
+  {
+    id: "denver-rail",
+    name: "Denver railroad",
+    lat: 40.8645,
+    lng: -86.0775,
+    radius: 1300,
+    short: "The railroad took the grain off this corner of Miami County. A siding village.",
+    long: "",
+    names: ["Denver"]
+  },
+  {
+    id: "denver-road",
+    name: "Denver road",
+    lat: 40.8645,
+    lng: -86.0775,
+    radius: 1400,
+    short: "County roads to 31. Peru to Rochester traffic that can miss this Main.",
+    long: "",
+    names: ["Denver"]
+  },
+  {
+    id: "denver-parks",
+    name: "Denver parks",
+    lat: 40.8645,
+    lng: -86.0775,
+    radius: 1100,
+    short: "School and church ground a depot village kept after the trains thinned.",
+    long: "",
+    names: ["Denver"]
+  },
+  {
+    id: "denver-people",
+    name: "Denver people",
+    lat: 40.8645,
+    lng: -86.0775,
+    radius: 1000,
+    short: "Farm families first. Then rail. Then the later quiet.",
+    long: "",
+    names: ["Denver"]
+  },
+  {
+    id: "denver-native",
+    name: "Denver Native ground",
+    lat: 40.8645,
+    lng: -86.0775,
+    radius: 1600,
+    short: "Miami County upland. Hunting ground north of the Wabash.",
+    long: "",
+    names: ["Miami"]
+  },
+  {
+    id: "denver-war",
+    name: "Denver war",
+    lat: 40.8645,
+    lng: -86.0775,
+    radius: 1200,
+    short: "No fort on Main. Men left from these farms. The later story is the elevator.",
+    long: "",
+    names: ["Denver"]
+  },
+  {
+    id: "denver-legend",
+    name: "The other Denver",
+    lat: 40.8645,
+    lng: -86.0775,
+    radius: 900,
+    short: "The local legend is that this Denver never needed mountains. Just a siding and a name that made people look twice.",
+    long: "",
+    names: ["Denver"]
+  },
+
+  {
+    id: "approach-rochester-in",
+    name: "Rochester",
+    lat: 41.0648,
+    lng: -86.2158,
+    radius: 6000,
+    layer: "approach",
+    short: "You are coming up on Rochester. Fulton County seat on Lake Manitou. If you drop in, I'll start on Main.",
+    long: "",
+    names: ["Rochester"]
+  },
+  {
+    id: "rochester-founding",
+    name: "Rochester founding",
+    lat: 41.0648,
+    lng: -86.2158,
+    radius: 1400,
+    short: "Laid out on the prairie and the lake. Named Rochester. County seat. Rail first. Then US 31.",
+    long: "",
+    names: ["Rochester"]
+  },
+  {
+    id: "rochester-manitou",
+    name: "Lake Manitou",
+    lat: 41.0648,
+    lng: -86.1950,
+    radius: 1800,
+    short: "Lake Manitou on the east side. Potawatomi water. Later cottages and a county weekend.",
+    long: "",
+    names: ["Lake Manitou"]
+  },
+  {
+    id: "rochester-courthouse",
+    name: "Fulton County Courthouse",
+    lat: 41.0648,
+    lng: -86.2158,
+    radius: 800,
+    short: "The courthouse on the square. County business still walks Main.",
+    long: "",
+    names: ["Fulton County Courthouse"]
+  },
+  {
+    id: "rochester-rail",
+    name: "Rochester railroad",
+    lat: 41.0648,
+    lng: -86.2158,
+    radius: 1500,
+    short: "The railroad took the grain off Fulton County. A depot county seat.",
+    long: "",
+    names: ["Rochester"]
+  },
+  {
+    id: "rochester-31",
+    name: "US 31 Rochester",
+    lat: 41.0648,
+    lng: -86.2158,
+    radius: 2200,
+    short: "US 31 is the later spine. Peru to South Bend traffic that can miss the square if it stays on the four-lane.",
+    long: "",
+    names: ["Rochester"]
+  },
+  {
+    id: "rochester-parks",
+    name: "Rochester parks",
+    lat: 41.0648,
+    lng: -86.2158,
+    radius: 1500,
+    short: "Lake parks and town parks. Public ground a county seat kept on Manitou.",
+    long: "",
+    names: ["Rochester"]
+  },
+  {
+    id: "rochester-native",
+    name: "Rochester Native ground",
+    lat: 41.0648,
+    lng: -86.1950,
+    radius: 2000,
+    short: "Manitou. Potawatomi lake and trail. This water was used before the square was drawn.",
+    long: "",
+    names: ["Potawatomi", "Lake Manitou"]
+  },
+  {
+    id: "rochester-war",
+    name: "Rochester war",
+    lat: 41.0648,
+    lng: -86.2158,
+    radius: 1500,
+    short: "No fort on Main. The Trail of Death passed this county. Men later left from these blocks.",
+    long: "",
+    names: ["Trail of Death"]
+  },
+  {
+    id: "rochester-legend",
+    name: "The lake that named the weekend",
+    lat: 41.0648,
+    lng: -86.2158,
+    radius: 1100,
+    short: "The local legend is that Rochester is only a 31 exit. It started because a lake already had a name.",
+    long: "",
+    names: ["Rochester"]
+  },
+
+  {
+    id: "rochester-round-barns",
+    name: "Fulton County round barns",
+    lat: 41.0648,
+    lng: -86.2158,
+    radius: 2500,
+    short: "Fulton County kept more round barns than almost anywhere. Drive the county roads and they still stand. Rochester is the square those barns circle.",
+    long: "",
+    names: ["round barns"]
+  },
+  {
+    id: "rochester-downtown",
+    name: "Rochester downtown",
+    lat: 41.0648,
+    lng: -86.2158,
+    radius: 900,
+    short: "Main and the square. Brick blocks a lake county seat kept after the depot quieted.",
+    long: "",
+    names: ["Rochester"]
+  },
+  {
+    id: "rochester-people",
+    name: "Rochester people",
+    lat: 41.0648,
+    lng: -86.2158,
+    radius: 1400,
+    short: "Farm families. Lake families. A town that still points at Manitou.",
+    long: "",
+    names: ["Rochester"]
+  },
+  {
+    id: "rochester-industry",
+    name: "Rochester industry",
+    lat: 41.0648,
+    lng: -86.2158,
+    radius: 1600,
+    short: "Elevators, shops, and later plants. A prairie county seat that loaded grain after the rails arrived.",
+    long: "",
+    names: ["Rochester"]
+  },
+  {
+    id: "rochester-trail",
+    name: "Trail of Death near Rochester",
+    lat: 41.0648,
+    lng: -86.2158,
+    radius: 2000,
+    short: "1838. Potawatomi forced west. This county was on the road. Markers still sit on Fulton ground.",
+    long: "",
+    names: ["Trail of Death", "Potawatomi"]
+  },
+  {
+    id: "rochester-legend-barns",
+    name: "The county of round barns",
+    lat: 41.0648,
+    lng: -86.2158,
+    radius: 1200,
+    short: "The local legend is that you have not seen Fulton County until you have seen a round barn from the road.",
+    long: "",
+    names: ["round barns"]
+  },
+
+  {
+    id: "approach-akron-in",
+    name: "Akron",
+    lat: 41.0387,
+    lng: -86.0280,
+    radius: 3500,
+    layer: "approach",
+    short: "You are coming up on Akron. Fulton County town. Not the Ohio one. If you drop in, I'll start on Rochester Street.",
+    long: "",
+    names: ["Akron"]
+  },
+  {
+    id: "akron-in-founding",
+    name: "Akron founding",
+    lat: 41.0387,
+    lng: -86.0280,
+    radius: 1200,
+    short: "Laid out as a farm town. Named Akron. A store-and-elevator village east of Rochester.",
+    long: "",
+    names: ["Akron"]
+  },
+  {
+    id: "akron-in-rail",
+    name: "Akron railroad",
+    lat: 41.0387,
+    lng: -86.0280,
+    radius: 1400,
+    short: "The railroad took the grain off eastern Fulton County. A siding town.",
+    long: "",
+    names: ["Akron"]
+  },
+  {
+    id: "akron-in-road",
+    name: "Akron road",
+    lat: 41.0387,
+    lng: -86.0280,
+    radius: 1600,
+    short: "State roads to Rochester and Warsaw. Traffic that can miss this Main if it stays on 31.",
+    long: "",
+    names: ["Akron"]
+  },
+  {
+    id: "akron-in-parks",
+    name: "Akron parks",
+    lat: 41.0387,
+    lng: -86.0280,
+    radius: 1200,
+    short: "School and park ground a farm town kept after the trains thinned.",
+    long: "",
+    names: ["Akron"]
+  },
+  {
+    id: "akron-in-people",
+    name: "Akron people",
+    lat: 41.0387,
+    lng: -86.0280,
+    radius: 1100,
+    short: "Farm families first. Then rail. Then the later commute.",
+    long: "",
+    names: ["Akron"]
+  },
+  {
+    id: "akron-in-native",
+    name: "Akron Native ground",
+    lat: 41.0387,
+    lng: -86.0280,
+    radius: 1700,
+    short: "Potawatomi prairie east of Manitou. Hunting ground before the elevator.",
+    long: "",
+    names: ["Potawatomi"]
+  },
+  {
+    id: "akron-in-war",
+    name: "Akron war",
+    lat: 41.0387,
+    lng: -86.0280,
+    radius: 1300,
+    short: "No fort on Rochester Street. The Trail of Death passed this county. Men later left from these farms.",
+    long: "",
+    names: ["Trail of Death"]
+  },
+  {
+    id: "akron-in-legend",
+    name: "The other Akron",
+    lat: 41.0387,
+    lng: -86.0280,
+    radius: 900,
+    short: "The local legend is that people always think Ohio. This Akron is a Fulton County elevator town with the same name.",
+    long: "",
+    names: ["Akron"]
+  },
+{
+    id: "approach-kewanna-in",
+    name: "Kewanna",
+    lat: 41.0181,
+    lng: -86.4125,
+    radius: 3000,
+    layer: "approach",
+    short: "You are coming up on Kewanna. Fulton County village west of Rochester. If you drop in, I'll start on Main.",
+    long: "",
+    names: ["Kewanna"]
+  },
+  {
+    id: "kewanna-founding",
+    name: "Kewanna founding",
+    lat: 41.0181,
+    lng: -86.4125,
+    radius: 1100,
+    short: "Laid out as a farm village. Named Kewanna. A store-and-church town on the west side of the county.",
+    long: "",
+    names: ["Kewanna"]
+  },
+  {
+    id: "kewanna-rail",
+    name: "Kewanna railroad",
+    lat: 41.0181,
+    lng: -86.4125,
+    radius: 1300,
+    short: "The railroad took the grain off western Fulton County. A siding village.",
+    long: "",
+    names: ["Kewanna"]
+  },
+  {
+    id: "kewanna-road",
+    name: "Kewanna road",
+    lat: 41.0181,
+    lng: -86.4125,
+    radius: 1400,
+    short: "County roads to Rochester and Logansport. Traffic that can miss this Main.",
+    long: "",
+    names: ["Kewanna"]
+  },
+  {
+    id: "kewanna-parks",
+    name: "Kewanna parks",
+    lat: 41.0181,
+    lng: -86.4125,
+    radius: 1100,
+    short: "School and church ground a depot village kept after the trains thinned.",
+    long: "",
+    names: ["Kewanna"]
+  },
+  {
+    id: "kewanna-people",
+    name: "Kewanna people",
+    lat: 41.0181,
+    lng: -86.4125,
+    radius: 1000,
+    short: "Farm families first. Then rail. Then the later quiet.",
+    long: "",
+    names: ["Kewanna"]
+  },
+  {
+    id: "kewanna-native",
+    name: "Kewanna Native ground",
+    lat: 41.0181,
+    lng: -86.4125,
+    radius: 1600,
+    short: "Potawatomi prairie west of Manitou. Hunting ground before the elevator.",
+    long: "",
+    names: ["Potawatomi"]
+  },
+  {
+    id: "kewanna-war",
+    name: "Kewanna war",
+    lat: 41.0181,
+    lng: -86.4125,
+    radius: 1200,
+    short: "No fort on Main. The Trail of Death passed this county. Men later left from these farms.",
+    long: "",
+    names: ["Trail of Death"]
+  },
+  {
+    id: "kewanna-legend",
+    name: "The west-county stop",
+    lat: 41.0181,
+    lng: -86.4125,
+    radius: 900,
+    short: "The local legend is that Kewanna is only a name on the weather radio. It started because the railroad needed a stop west of Rochester.",
+    long: "",
+    names: ["Kewanna"]
+  },
+
+  {
+    id: "approach-fulton-in",
+    name: "Fulton",
+    lat: 40.9473,
+    lng: -86.2639,
+    radius: 2800,
+    layer: "approach",
+    short: "You are coming up on Fulton. The village that shares the county name. If you drop in, I'll start on Main.",
+    long: "",
+    names: ["Fulton"]
+  },
+  {
+    id: "fulton-in-founding",
+    name: "Fulton founding",
+    lat: 40.9473,
+    lng: -86.2639,
+    radius: 1100,
+    short: "Laid out as a farm village. Named Fulton after the county. A store-and-church town south of Rochester.",
+    long: "",
+    names: ["Fulton"]
+  },
+  {
+    id: "fulton-in-rail",
+    name: "Fulton railroad",
+    lat: 40.9473,
+    lng: -86.2639,
+    radius: 1300,
+    short: "A siding if the line ran close. Grain off southern Fulton County.",
+    long: "",
+    names: ["Fulton"]
+  },
+  {
+    id: "fulton-in-road",
+    name: "Fulton road",
+    lat: 40.9473,
+    lng: -86.2639,
+    radius: 1400,
+    short: "County roads to Rochester and Logansport. Traffic that can miss this Main.",
+    long: "",
+    names: ["Fulton"]
+  },
+  {
+    id: "fulton-in-parks",
+    name: "Fulton parks",
+    lat: 40.9473,
+    lng: -86.2639,
+    radius: 1100,
+    short: "Church and school ground a name-village kept after the highway moved.",
+    long: "",
+    names: ["Fulton"]
+  },
+  {
+    id: "fulton-in-people",
+    name: "Fulton people",
+    lat: 40.9473,
+    lng: -86.2639,
+    radius: 1000,
+    short: "Farm families first. Then the later quiet. A town that still carries the county name.",
+    long: "",
+    names: ["Fulton"]
+  },
+  {
+    id: "fulton-in-native",
+    name: "Fulton Native ground",
+    lat: 40.9473,
+    lng: -86.2639,
+    radius: 1600,
+    short: "Potawatomi prairie south of Manitou. Hunting ground before the elevator.",
+    long: "",
+    names: ["Potawatomi"]
+  },
+  {
+    id: "fulton-in-war",
+    name: "Fulton war",
+    lat: 40.9473,
+    lng: -86.2639,
+    radius: 1200,
+    short: "No fort on Main. The Trail of Death passed this county. Men later left from these farms.",
+    long: "",
+    names: ["Trail of Death"]
+  },
+  {
+    id: "fulton-in-legend",
+    name: "The town named for the county",
+    lat: 40.9473,
+    lng: -86.2639,
+    radius: 900,
+    short: "The local legend is that Fulton is easy to miss because the county already used the name. The village kept it anyway.",
+    long: "",
+    names: ["Fulton"]
+  },
+
+  {
+    id: "approach-logansport-in",
+    name: "Logansport",
+    lat: 40.7545,
+    lng: -86.3567,
+    radius: 7000,
+    layer: "approach",
+    short: "You are coming up on Logansport. Cass County seat where the Eel meets the Wabash. If you drop in, I'll start on Broadway.",
+    long: "",
+    names: ["Logansport"]
+  },
+  {
+    id: "logansport-founding",
+    name: "Logansport founding",
+    lat: 40.7545,
+    lng: -86.3567,
+    radius: 1500,
+    short: "Laid out at the meeting of the Eel and the Wabash. Named for Captain Logan. County seat. Canal basin. Then the railroad shops.",
+    long: "",
+    names: ["Logansport", "Captain Logan"]
+  },
+  {
+    id: "logansport-eel",
+    name: "Eel River",
+    lat: 40.7545,
+    lng: -86.3567,
+    radius: 1800,
+    short: "The Eel comes in from the east. Two rivers. That is why the town is here.",
+    long: "",
+    names: ["Eel River"]
+  },
+  {
+    id: "logansport-wabash",
+    name: "Wabash River Logansport",
+    lat: 40.7545,
+    lng: -86.3567,
+    radius: 1800,
+    short: "The Wabash is the bigger road. Canoe. Canal. Then the shops on the terrace.",
+    long: "",
+    names: ["Wabash"]
+  },
+  {
+    id: "logansport-courthouse",
+    name: "Cass County Courthouse",
+    lat: 40.7545,
+    lng: -86.3567,
+    radius: 800,
+    short: "The courthouse on the square. County business still walks Broadway.",
+    long: "",
+    names: ["Cass County Courthouse"]
+  },
+  {
+    id: "logansport-canal",
+    name: "Canal at Logansport",
+    lat: 40.7545,
+    lng: -86.3567,
+    radius: 1600,
+    short: "The Wabash and Erie cut through here. A basin town. Then the railroad took the freight.",
+    long: "",
+    names: ["Wabash and Erie Canal"]
+  },
+  {
+    id: "logansport-parks",
+    name: "Logansport parks",
+    lat: 40.7545,
+    lng: -86.3567,
+    radius: 1600,
+    short: "Riverside parks at two rivers. Public ground a county seat kept on purpose.",
+    long: "",
+    names: ["Logansport"]
+  },
+  {
+    id: "logansport-native",
+    name: "Logansport Native ground",
+    lat: 40.7545,
+    lng: -86.3567,
+    radius: 2000,
+    short: "Two rivers. Miami and later Potawatomi ground. The meeting of waters was used before the square was drawn.",
+    long: "",
+    names: ["Miami", "Potawatomi"]
+  },
+  {
+    id: "logansport-war",
+    name: "Logansport war",
+    lat: 40.7545,
+    lng: -86.3567,
+    radius: 1600,
+    short: "Named for Captain Logan, a Shawnee scout who died in the War of 1812. The later fight left from these blocks.",
+    long: "",
+    names: ["Captain Logan"]
+  },
+  {
+    id: "logansport-legend",
+    name: "The town at two rivers",
+    lat: 40.7545,
+    lng: -86.3567,
+    radius: 1200,
+    short: "The local legend is that Logansport is only a 24 stop. It started because two rivers already met.",
+    long: "",
+    names: ["Logansport"]
+  },
+
+  {
+    id: "logansport-rail-shops",
+    name: "Logansport railroad shops",
+    lat: 40.7545,
+    lng: -86.3567,
+    radius: 1700,
+    short: "Logansport was a railroad shop town. Engines and cars built and repaired here. The yards still show why the county seat got big.",
+    long: "",
+    names: ["Logansport"]
+  },
+  {
+    id: "logansport-downtown",
+    name: "Logansport downtown",
+    lat: 40.7545,
+    lng: -86.3567,
+    radius: 900,
+    short: "Broadway and the square. Brick blocks a two-river town kept after the shops thinned.",
+    long: "",
+    names: ["Logansport"]
+  },
+  {
+    id: "logansport-people",
+    name: "Logansport people",
+    lat: 40.7545,
+    lng: -86.3567,
+    radius: 1500,
+    short: "Canal families. Shop families. A town that still points at two rivers.",
+    long: "",
+    names: ["Logansport"]
+  },
+  {
+    id: "logansport-hospital",
+    name: "Logansport State Hospital",
+    lat: 40.7680,
+    lng: -86.3400,
+    radius: 1600,
+    short: "The state hospital on the hill. A long public institution that shaped the east side of town.",
+    long: "",
+    names: ["Logansport State Hospital"]
+  },
+  {
+    id: "logansport-24",
+    name: "US 24 Logansport",
+    lat: 40.7545,
+    lng: -86.3567,
+    radius: 2200,
+    short: "US 24 is the later spine. Fort Wayne to Lafayette traffic that can miss Broadway if it stays on the bypass.",
+    long: "",
+    names: ["Logansport"]
+  },
+  {
+    id: "logansport-industry",
+    name: "Logansport industry",
+    lat: 40.7545,
+    lng: -86.3567,
+    radius: 1700,
+    short: "Shops, mills, and later plants. A river town that made things after the boats stopped.",
+    long: "",
+    names: ["Logansport"]
+  },
+  {
+    id: "logansport-legend-shops",
+    name: "The shop town",
+    lat: 40.7545,
+    lng: -86.3567,
+    radius: 1100,
+    short: "The local legend is that everybody here had a relative in the shops. The yards still prove it.",
+    long: "",
+    names: ["Logansport"]
+  },
+
+  {
+    id: "approach-walton-in",
+    name: "Walton",
+    lat: 40.6628,
+    lng: -86.2419,
+    radius: 3000,
+    layer: "approach",
+    short: "You are coming up on Walton. Cass County town south of Logansport. If you drop in, I'll start on Main.",
+    long: "",
+    names: ["Walton"]
+  },
+  {
+    id: "walton-founding",
+    name: "Walton founding",
+    lat: 40.6628,
+    lng: -86.2419,
+    radius: 1100,
+    short: "Laid out as a farm village. Named Walton. A store-and-elevator town on the road south of the county seat.",
+    long: "",
+    names: ["Walton"]
+  },
+  {
+    id: "walton-rail",
+    name: "Walton railroad",
+    lat: 40.6628,
+    lng: -86.2419,
+    radius: 1300,
+    short: "The railroad took the grain off southern Cass County. A siding village.",
+    long: "",
+    names: ["Walton"]
+  },
+  {
+    id: "walton-road",
+    name: "Walton road",
+    lat: 40.6628,
+    lng: -86.2419,
+    radius: 1400,
+    short: "US 35 and county roads. Logansport to Kokomo traffic that can miss this Main.",
+    long: "",
+    names: ["Walton"]
+  },
+  {
+    id: "walton-parks",
+    name: "Walton parks",
+    lat: 40.6628,
+    lng: -86.2419,
+    radius: 1100,
+    short: "School and park ground a depot village kept after the trains thinned.",
+    long: "",
+    names: ["Walton"]
+  },
+  {
+    id: "walton-people",
+    name: "Walton people",
+    lat: 40.6628,
+    lng: -86.2419,
+    radius: 1000,
+    short: "Farm families first. Then rail. Then the later commute.",
+    long: "",
+    names: ["Walton"]
+  },
+  {
+    id: "walton-native",
+    name: "Walton Native ground",
+    lat: 40.6628,
+    lng: -86.2419,
+    radius: 1600,
+    short: "Miami and later Potawatomi prairie south of the Eel. Hunting ground before the elevator.",
+    long: "",
+    names: ["Miami", "Potawatomi"]
+  },
+  {
+    id: "walton-war",
+    name: "Walton war",
+    lat: 40.6628,
+    lng: -86.2419,
+    radius: 1200,
+    short: "No fort on Main. Men left from these farms. The later story is 35.",
+    long: "",
+    names: ["Walton"]
+  },
+  {
+    id: "walton-legend",
+    name: "The south-county stop",
+    lat: 40.6628,
+    lng: -86.2419,
+    radius: 900,
+    short: "The local legend is that Walton is only a 35 blink. It started because the railroad needed a stop south of Logansport.",
+    long: "",
+    names: ["Walton"]
+  },
+
+  {
+    id: "approach-galveston-in",
+    name: "Galveston",
+    lat: 40.5789,
+    lng: -86.1903,
+    radius: 3000,
+    layer: "approach",
+    short: "You are coming up on Galveston. Cass County town. Not the Texas one. If you drop in, I'll start on Main.",
+    long: "",
+    names: ["Galveston"]
+  },
+  {
+    id: "galveston-in-founding",
+    name: "Galveston founding",
+    lat: 40.5789,
+    lng: -86.1903,
+    radius: 1100,
+    short: "Laid out as a farm village. Named Galveston. A store-and-elevator town in southern Cass County.",
+    long: "",
+    names: ["Galveston"]
+  },
+  {
+    id: "galveston-in-rail",
+    name: "Galveston railroad",
+    lat: 40.5789,
+    lng: -86.1903,
+    radius: 1300,
+    short: "The railroad took the grain off this corner of Cass County. A siding village.",
+    long: "",
+    names: ["Galveston"]
+  },
+  {
+    id: "galveston-in-road",
+    name: "Galveston road",
+    lat: 40.5789,
+    lng: -86.1903,
+    radius: 1400,
+    short: "US 35 and county roads. Logansport to Kokomo traffic that can miss this Main.",
+    long: "",
+    names: ["Galveston"]
+  },
+  {
+    id: "galveston-in-parks",
+    name: "Galveston parks",
+    lat: 40.5789,
+    lng: -86.1903,
+    radius: 1100,
+    short: "School and park ground a depot village kept after the trains thinned.",
+    long: "",
+    names: ["Galveston"]
+  },
+  {
+    id: "galveston-in-people",
+    name: "Galveston people",
+    lat: 40.5789,
+    lng: -86.1903,
+    radius: 1000,
+    short: "Farm families first. Then rail. Then the later commute.",
+    long: "",
+    names: ["Galveston"]
+  },
+  {
+    id: "galveston-in-native",
+    name: "Galveston Native ground",
+    lat: 40.5789,
+    lng: -86.1903,
+    radius: 1600,
+    short: "Miami prairie south of the Eel. Hunting ground before the elevator.",
+    long: "",
+    names: ["Miami"]
+  },
+  {
+    id: "galveston-in-war",
+    name: "Galveston war",
+    lat: 40.5789,
+    lng: -86.1903,
+    radius: 1200,
+    short: "No fort on Main. Men left from these farms. The later story is 35.",
+    long: "",
+    names: ["Galveston"]
+  },
+  {
+    id: "galveston-in-legend",
+    name: "The other Galveston",
+    lat: 40.5789,
+    lng: -86.1903,
+    radius: 900,
+    short: "The local legend is that people always think Texas. This Galveston is a Cass County elevator town with the same name.",
+    long: "",
+    names: ["Galveston"]
+  },
+
+  {
+    id: "approach-royal-center-in",
+    name: "Royal Center",
+    lat: 40.8648,
+    lng: -86.4994,
+    radius: 3000,
+    layer: "approach",
+    short: "You are coming up on Royal Center. Cass County town northwest of Logansport. If you drop in, I'll start on Main.",
+    long: "",
+    names: ["Royal Center"]
+  },
+  {
+    id: "royal-center-founding",
+    name: "Royal Center founding",
+    lat: 40.8648,
+    lng: -86.4994,
+    radius: 1100,
+    short: "Laid out as a farm village. Named Royal Center. A store-and-elevator town on the northwest prairie.",
+    long: "",
+    names: ["Royal Center"]
+  },
+  {
+    id: "royal-center-rail",
+    name: "Royal Center railroad",
+    lat: 40.8648,
+    lng: -86.4994,
+    radius: 1300,
+    short: "The railroad took the grain off northwest Cass County. A siding village.",
+    long: "",
+    names: ["Royal Center"]
+  },
+  {
+    id: "royal-center-road",
+    name: "Royal Center road",
+    lat: 40.8648,
+    lng: -86.4994,
+    radius: 1400,
+    short: "State roads to Logansport and Winamac. Traffic that can miss this Main.",
+    long: "",
+    names: ["Royal Center"]
+  },
+  {
+    id: "royal-center-parks",
+    name: "Royal Center parks",
+    lat: 40.8648,
+    lng: -86.4994,
+    radius: 1100,
+    short: "School and park ground a depot village kept after the trains thinned.",
+    long: "",
+    names: ["Royal Center"]
+  },
+  {
+    id: "royal-center-people",
+    name: "Royal Center people",
+    lat: 40.8648,
+    lng: -86.4994,
+    radius: 1000,
+    short: "Farm families first. Then rail. Then the later quiet.",
+    long: "",
+    names: ["Royal Center"]
+  },
+  {
+    id: "royal-center-native",
+    name: "Royal Center Native ground",
+    lat: 40.8648,
+    lng: -86.4994,
+    radius: 1600,
+    short: "Potawatomi prairie northwest of the Eel. Hunting ground before the elevator.",
+    long: "",
+    names: ["Potawatomi"]
+  },
+  {
+    id: "royal-center-war",
+    name: "Royal Center war",
+    lat: 40.8648,
+    lng: -86.4994,
+    radius: 1200,
+    short: "No fort on Main. Men left from these farms. The later story is the elevator.",
+    long: "",
+    names: ["Royal Center"]
+  },
+  {
+    id: "royal-center-legend",
+    name: "The northwest stop",
+    lat: 40.8648,
+    lng: -86.4994,
+    radius: 900,
+    short: "The local legend is that Royal Center is only a name on the grain report. It started because the railroad needed a stop on the northwest prairie.",
+    long: "",
+    names: ["Royal Center"]
+  },
+
+  {
+    id: "approach-winamac-in",
+    name: "Winamac",
+    lat: 41.0514,
+    lng: -86.6031,
+    radius: 5500,
+    layer: "approach",
+    short: "You are coming up on Winamac. Pulaski County seat on the Tippecanoe. If you drop in, I'll start on Main.",
+    long: "",
+    names: ["Winamac"]
+  },
+  {
+    id: "winamac-founding",
+    name: "Winamac founding",
+    lat: 41.0514,
+    lng: -86.6031,
+    radius: 1400,
+    short: "Laid out on the Tippecanoe. Named for a Potawatomi leader. County seat. Rail first. Then US 35.",
+    long: "",
+    names: ["Winamac"]
+  },
+  {
+    id: "winamac-courthouse",
+    name: "Pulaski County Courthouse",
+    lat: 41.0514,
+    lng: -86.6031,
+    radius: 800,
+    short: "The courthouse on the square. County business still walks Main.",
+    long: "",
+    names: ["Pulaski County Courthouse"]
+  },
+  {
+    id: "winamac-tippecanoe",
+    name: "Tippecanoe River Winamac",
+    lat: 41.0514,
+    lng: -86.6031,
+    radius: 1700,
+    short: "The Tippecanoe is the reason the town is here. Canoe road. Later parks on the bank.",
+    long: "",
+    names: ["Tippecanoe River"]
+  },
+  {
+    id: "winamac-rail",
+    name: "Winamac railroad",
+    lat: 41.0514,
+    lng: -86.6031,
+    radius: 1500,
+    short: "The railroad took the grain off Pulaski County. A depot county seat.",
+    long: "",
+    names: ["Winamac"]
+  },
+  {
+    id: "winamac-35",
+    name: "US 35 Winamac",
+    lat: 41.0514,
+    lng: -86.6031,
+    radius: 2000,
+    short: "US 35 is the later spine. Logansport to Michigan City traffic that can miss the square if it stays on the four-lane.",
+    long: "",
+    names: ["Winamac"]
+  },
+  {
+    id: "winamac-parks",
+    name: "Winamac parks",
+    lat: 41.0514,
+    lng: -86.6031,
+    radius: 1500,
+    short: "River parks and town parks. Public ground a county seat kept on the Tippecanoe.",
+    long: "",
+    names: ["Winamac"]
+  },
+  {
+    id: "winamac-native",
+    name: "Winamac Native ground",
+    lat: 41.0514,
+    lng: -86.6031,
+    radius: 1900,
+    short: "Named for Winamac. Potawatomi river town. This bank was used before the square was drawn.",
+    long: "",
+    names: ["Winamac", "Potawatomi"]
+  },
+  {
+    id: "winamac-war",
+    name: "Winamac war",
+    lat: 41.0514,
+    lng: -86.6031,
+    radius: 1500,
+    short: "No fort on Main. The Trail of Death passed this county. Men later left from these blocks.",
+    long: "",
+    names: ["Trail of Death"]
+  },
+  {
+    id: "winamac-legend",
+    name: "The town named for a chief",
+    lat: 41.0514,
+    lng: -86.6031,
+    radius: 1100,
+    short: "The local legend is that Winamac is only a 35 exit. It started because a river already had a name.",
+    long: "",
+    names: ["Winamac"]
+  },
+
+  {
+    id: "winamac-downtown",
+    name: "Winamac downtown",
+    lat: 41.0514,
+    lng: -86.6031,
+    radius: 900,
+    short: "Main and the square. Brick blocks a river county seat kept after the depot quieted.",
+    long: "",
+    names: ["Winamac"]
+  },
+  {
+    id: "winamac-people",
+    name: "Winamac people",
+    lat: 41.0514,
+    lng: -86.6031,
+    radius: 1400,
+    short: "Farm families. River families. A town that still points at the Tippecanoe.",
+    long: "",
+    names: ["Winamac"]
+  },
+  {
+    id: "winamac-industry",
+    name: "Winamac industry",
+    lat: 41.0514,
+    lng: -86.6031,
+    radius: 1500,
+    short: "Elevators, shops, and later plants. A prairie county seat that loaded grain after the rails arrived.",
+    long: "",
+    names: ["Winamac"]
+  },
+  {
+    id: "winamac-fwa",
+    name: "Winamac Fish and Wildlife Area",
+    lat: 41.0514,
+    lng: -86.6500,
+    radius: 2500,
+    short: "Public hunting and marsh west of town. State ground that kept Pulaski water open.",
+    long: "",
+    names: ["Winamac Fish and Wildlife Area"]
+  },
+  {
+    id: "winamac-legend-river",
+    name: "The Tippecanoe county seat",
+    lat: 41.0514,
+    lng: -86.6031,
+    radius: 1100,
+    short: "The local legend is that you have not seen Pulaski County until you have stood on the Tippecanoe bank.",
+    long: "",
+    names: ["Tippecanoe River"]
+  },
+
+  {
+    id: "approach-medaryville-in",
+    name: "Medaryville",
+    lat: 41.0806,
+    lng: -86.8889,
+    radius: 3000,
+    layer: "approach",
+    short: "You are coming up on Medaryville. Pulaski County town on US 421. If you drop in, I'll start on Main.",
+    long: "",
+    names: ["Medaryville"]
+  },
+  {
+    id: "medaryville-founding",
+    name: "Medaryville founding",
+    lat: 41.0806,
+    lng: -86.8889,
+    radius: 1100,
+    short: "Laid out as a farm village. Named Medaryville. A store-and-elevator town on the west edge of the county.",
+    long: "",
+    names: ["Medaryville"]
+  },
+  {
+    id: "medaryville-rail",
+    name: "Medaryville railroad",
+    lat: 41.0806,
+    lng: -86.8889,
+    radius: 1300,
+    short: "The railroad took the grain off western Pulaski County. A siding village.",
+    long: "",
+    names: ["Medaryville"]
+  },
+  {
+    id: "medaryville-421",
+    name: "US 421 Medaryville",
+    lat: 41.0806,
+    lng: -86.8889,
+    radius: 1600,
+    short: "US 421 is the later spine. Michigan City to Indianapolis traffic that can miss this Main.",
+    long: "",
+    names: ["Medaryville"]
+  },
+  {
+    id: "medaryville-parks",
+    name: "Medaryville parks",
+    lat: 41.0806,
+    lng: -86.8889,
+    radius: 1100,
+    short: "School and church ground a highway village kept after the trains thinned.",
+    long: "",
+    names: ["Medaryville"]
+  },
+  {
+    id: "medaryville-people",
+    name: "Medaryville people",
+    lat: 41.0806,
+    lng: -86.8889,
+    radius: 1000,
+    short: "Farm families first. Then rail. Then 421.",
+    long: "",
+    names: ["Medaryville"]
+  },
+  {
+    id: "medaryville-native",
+    name: "Medaryville Native ground",
+    lat: 41.0806,
+    lng: -86.8889,
+    radius: 1600,
+    short: "Potawatomi prairie west of the Tippecanoe. Hunting ground before the elevator.",
+    long: "",
+    names: ["Potawatomi"]
+  },
+  {
+    id: "medaryville-war",
+    name: "Medaryville war",
+    lat: 41.0806,
+    lng: -86.8889,
+    radius: 1200,
+    short: "No fort on Main. Men left from these farms. The later story is 421.",
+    long: "",
+    names: ["Medaryville"]
+  },
+  {
+    id: "medaryville-legend",
+    name: "The 421 stop",
+    lat: 41.0806,
+    lng: -86.8889,
+    radius: 900,
+    short: "The local legend is that Medaryville is only a 421 blink. It started because the railroad needed a stop on the west prairie.",
+    long: "",
+    names: ["Medaryville"]
+  },
+
+  {
+    id: "approach-monterey-in",
+    name: "Monterey",
+    lat: 41.1567,
+    lng: -86.4825,
+    radius: 2800,
+    layer: "approach",
+    short: "You are coming up on Monterey. Pulaski County village. Not the California one. If you drop in, I'll start on Main.",
+    long: "",
+    names: ["Monterey"]
+  },
+  {
+    id: "monterey-in-founding",
+    name: "Monterey founding",
+    lat: 41.1567,
+    lng: -86.4825,
+    radius: 1100,
+    short: "Laid out as a farm village. Named Monterey. A store-and-church town on the north side of Pulaski County.",
+    long: "",
+    names: ["Monterey"]
+  },
+  {
+    id: "monterey-in-rail",
+    name: "Monterey railroad",
+    lat: 41.1567,
+    lng: -86.4825,
+    radius: 1300,
+    short: "A siding if the line ran close. Grain off northern Pulaski County.",
+    long: "",
+    names: ["Monterey"]
+  },
+  {
+    id: "monterey-in-road",
+    name: "Monterey road",
+    lat: 41.1567,
+    lng: -86.4825,
+    radius: 1400,
+    short: "County roads to Winamac and Culver. Traffic that can miss this Main.",
+    long: "",
+    names: ["Monterey"]
+  },
+  {
+    id: "monterey-in-parks",
+    name: "Monterey parks",
+    lat: 41.1567,
+    lng: -86.4825,
+    radius: 1100,
+    short: "Church and school ground a name-village kept after the highway moved.",
+    long: "",
+    names: ["Monterey"]
+  },
+  {
+    id: "monterey-in-people",
+    name: "Monterey people",
+    lat: 41.1567,
+    lng: -86.4825,
+    radius: 1000,
+    short: "Farm families first. Then the later quiet.",
+    long: "",
+    names: ["Monterey"]
+  },
+  {
+    id: "monterey-in-native",
+    name: "Monterey Native ground",
+    lat: 41.1567,
+    lng: -86.4825,
+    radius: 1600,
+    short: "Potawatomi prairie north of Winamac. Hunting ground before the elevator.",
+    long: "",
+    names: ["Potawatomi"]
+  },
+  {
+    id: "monterey-in-war",
+    name: "Monterey war",
+    lat: 41.1567,
+    lng: -86.4825,
+    radius: 1200,
+    short: "Named after a Mexican War fight. No fort on this Main. Men later left from these farms.",
+    long: "",
+    names: ["Monterey"]
+  },
+  {
+    id: "monterey-in-legend",
+    name: "The other Monterey",
+    lat: 41.1567,
+    lng: -86.4825,
+    radius: 900,
+    short: "The local legend is that people always think California. This Monterey is a Pulaski County village with the same name.",
+    long: "",
+    names: ["Monterey"]
+  },
+
+  {
+    id: "approach-francesville-in",
+    name: "Francesville",
+    lat: 40.9853,
+    lng: -86.8847,
+    radius: 3000,
+    layer: "approach",
+    short: "You are coming up on Francesville. Pulaski County town on US 421. If you drop in, I'll start on Main.",
+    long: "",
+    names: ["Francesville"]
+  },
+  {
+    id: "francesville-founding",
+    name: "Francesville founding",
+    lat: 40.9853,
+    lng: -86.8847,
+    radius: 1100,
+    short: "Laid out as a farm village. Named Francesville. A store-and-elevator town on the west prairie.",
+    long: "",
+    names: ["Francesville"]
+  },
+  {
+    id: "francesville-rail",
+    name: "Francesville railroad",
+    lat: 40.9853,
+    lng: -86.8847,
+    radius: 1300,
+    short: "The railroad took the grain off southwest Pulaski County. A siding village.",
+    long: "",
+    names: ["Francesville"]
+  },
+  {
+    id: "francesville-421",
+    name: "US 421 Francesville",
+    lat: 40.9853,
+    lng: -86.8847,
+    radius: 1600,
+    short: "US 421 is the later spine. Michigan City to Indianapolis traffic that can miss this Main.",
+    long: "",
+    names: ["Francesville"]
+  },
+  {
+    id: "francesville-parks",
+    name: "Francesville parks",
+    lat: 40.9853,
+    lng: -86.8847,
+    radius: 1100,
+    short: "School and park ground a highway village kept after the trains thinned.",
+    long: "",
+    names: ["Francesville"]
+  },
+  {
+    id: "francesville-people",
+    name: "Francesville people",
+    lat: 40.9853,
+    lng: -86.8847,
+    radius: 1000,
+    short: "Farm families first. Then rail. Then 421.",
+    long: "",
+    names: ["Francesville"]
+  },
+  {
+    id: "francesville-native",
+    name: "Francesville Native ground",
+    lat: 40.9853,
+    lng: -86.8847,
+    radius: 1600,
+    short: "Potawatomi prairie west of the Tippecanoe. Hunting ground before the elevator.",
+    long: "",
+    names: ["Potawatomi"]
+  },
+  {
+    id: "francesville-war",
+    name: "Francesville war",
+    lat: 40.9853,
+    lng: -86.8847,
+    radius: 1200,
+    short: "No fort on Main. Men left from these farms. The later story is 421.",
+    long: "",
+    names: ["Francesville"]
+  },
+  {
+    id: "francesville-legend",
+    name: "The west-prairie stop",
+    lat: 40.9853,
+    lng: -86.8847,
+    radius: 900,
+    short: "The local legend is that Francesville is only a 421 blink. It started because the railroad needed a stop on the west prairie.",
+    long: "",
+    names: ["Francesville"]
+  },
+
+  {
+    id: "approach-rensselaer-in",
+    name: "Rensselaer",
+    lat: 40.9367,
+    lng: -87.1508,
+    radius: 6000,
+    layer: "approach",
+    short: "You are coming up on Rensselaer. Jasper County seat on the Iroquois. If you drop in, I'll start on Washington.",
+    long: "",
+    names: ["Rensselaer"]
+  },
+  {
+    id: "rensselaer-founding",
+    name: "Rensselaer founding",
+    lat: 40.9367,
+    lng: -87.1508,
+    radius: 1400,
+    short: "Laid out on the Iroquois. Named for the Van Rensselaer family. County seat. Rail first. Then US 231.",
+    long: "",
+    names: ["Rensselaer"]
+  },
+  {
+    id: "rensselaer-courthouse",
+    name: "Jasper County Courthouse",
+    lat: 40.9367,
+    lng: -87.1508,
+    radius: 800,
+    short: "The courthouse on the square. County business still walks Washington.",
+    long: "",
+    names: ["Jasper County Courthouse"]
+  },
+  {
+    id: "rensselaer-iroquois",
+    name: "Iroquois River Rensselaer",
+    lat: 40.9367,
+    lng: -87.1508,
+    radius: 1700,
+    short: "The Iroquois is the reason the town is here. Canoe road. Later parks on the bank.",
+    long: "",
+    names: ["Iroquois River"]
+  },
+  {
+    id: "rensselaer-rail",
+    name: "Rensselaer railroad",
+    lat: 40.9367,
+    lng: -87.1508,
+    radius: 1500,
+    short: "The railroad took the grain off Jasper County. A depot county seat.",
+    long: "",
+    names: ["Rensselaer"]
+  },
+  {
+    id: "rensselaer-231",
+    name: "US 231 Rensselaer",
+    lat: 40.9367,
+    lng: -87.1508,
+    radius: 2000,
+    short: "US 231 is the later spine. Lafayette to the Kankakee traffic that can miss the square if it stays on the bypass.",
+    long: "",
+    names: ["Rensselaer"]
+  },
+  {
+    id: "rensselaer-parks",
+    name: "Rensselaer parks",
+    lat: 40.9367,
+    lng: -87.1508,
+    radius: 1500,
+    short: "River parks and town parks. Public ground a county seat kept on the Iroquois.",
+    long: "",
+    names: ["Rensselaer"]
+  },
+  {
+    id: "rensselaer-native",
+    name: "Rensselaer Native ground",
+    lat: 40.9367,
+    lng: -87.1508,
+    radius: 1900,
+    short: "Potawatomi prairie on the Iroquois. Hunting ground before the square was drawn.",
+    long: "",
+    names: ["Potawatomi"]
+  },
+  {
+    id: "rensselaer-war",
+    name: "Rensselaer war",
+    lat: 40.9367,
+    lng: -87.1508,
+    radius: 1500,
+    short: "No fort on Washington. The Trail of Death passed this county. Men later left from these blocks.",
+    long: "",
+    names: ["Trail of Death"]
+  },
+  {
+    id: "rensselaer-legend",
+    name: "The Iroquois county seat",
+    lat: 40.9367,
+    lng: -87.1508,
+    radius: 1100,
+    short: "The local legend is that Rensselaer is only a 231 stop. It started because a river already had a name.",
+    long: "",
+    names: ["Rensselaer"]
+  },
+
+  {
+    id: "rensselaer-st-joe",
+    name: "Saint Joseph's College",
+    lat: 40.9230,
+    lng: -87.1550,
+    radius: 1400,
+    short: "Saint Joseph's College stood south of downtown. A Catholic campus that defined the town for generations. Closed in 2017. The grounds remain.",
+    long: "",
+    names: ["Saint Joseph's College"]
+  },
+  {
+    id: "rensselaer-downtown",
+    name: "Rensselaer downtown",
+    lat: 40.9367,
+    lng: -87.1508,
+    radius: 900,
+    short: "Washington and the square. Brick blocks a river county seat kept after the campus quieted.",
+    long: "",
+    names: ["Rensselaer"]
+  },
+  {
+    id: "rensselaer-people",
+    name: "Rensselaer people",
+    lat: 40.9367,
+    lng: -87.1508,
+    radius: 1400,
+    short: "Farm families. College families. A town that still points at the Iroquois.",
+    long: "",
+    names: ["Rensselaer"]
+  },
+  {
+    id: "rensselaer-industry",
+    name: "Rensselaer industry",
+    lat: 40.9367,
+    lng: -87.1508,
+    radius: 1500,
+    short: "Elevators, shops, and later plants. A prairie county seat that loaded grain after the rails arrived.",
+    long: "",
+    names: ["Rensselaer"]
+  },
+  {
+    id: "rensselaer-legend-college",
+    name: "The college town",
+    lat: 40.9230,
+    lng: -87.1550,
+    radius: 1200,
+    short: "The local legend is that Rensselaer was a college town first. The campus still sits even after the students left.",
+    long: "",
+    names: ["Saint Joseph's College"]
+  },
+  {
+    id: "approach-remington-in",
+    name: "Remington",
+    lat: 40.7606,
+    lng: -87.1508,
+    radius: 3200,
+    layer: "approach",
+    short: "You are coming up on Remington. Jasper County town south of Rensselaer. If you drop in, I'll start on Main.",
+    long: "",
+    names: ["Remington"]
+  },
+  {
+    id: "remington-founding",
+    name: "Remington founding",
+    lat: 40.7606,
+    lng: -87.1508,
+    radius: 1100,
+    short: "Laid out as a farm village. Named Remington. A store-and-elevator town on the south prairie.",
+    long: "",
+    names: ["Remington"]
+  },
+  {
+    id: "remington-rail",
+    name: "Remington railroad",
+    lat: 40.7606,
+    lng: -87.1508,
+    radius: 1300,
+    short: "The railroad took the grain off southern Jasper County. A siding village.",
+    long: "",
+    names: ["Remington"]
+  },
+  {
+    id: "remington-231",
+    name: "US 231 Remington",
+    lat: 40.7606,
+    lng: -87.1508,
+    radius: 1600,
+    short: "US 231 is the later spine. Lafayette to Rensselaer traffic that can miss this Main.",
+    long: "",
+    names: ["Remington"]
+  },
+  {
+    id: "remington-parks",
+    name: "Remington parks",
+    lat: 40.7606,
+    lng: -87.1508,
+    radius: 1100,
+    short: "School and park ground a highway village kept after the trains thinned.",
+    long: "",
+    names: ["Remington"]
+  },
+  {
+    id: "remington-people",
+    name: "Remington people",
+    lat: 40.7606,
+    lng: -87.1508,
+    radius: 1000,
+    short: "Farm families first. Then rail. Then 231.",
+    long: "",
+    names: ["Remington"]
+  },
+  {
+    id: "remington-native",
+    name: "Remington Native ground",
+    lat: 40.7606,
+    lng: -87.1508,
+    radius: 1600,
+    short: "Potawatomi prairie south of the Iroquois. Hunting ground before the elevator.",
+    long: "",
+    names: ["Potawatomi"]
+  },
+  {
+    id: "remington-war",
+    name: "Remington war",
+    lat: 40.7606,
+    lng: -87.1508,
+    radius: 1200,
+    short: "No fort on Main. Men left from these farms. The later story is 231.",
+    long: "",
+    names: ["Remington"]
+  },
+  {
+    id: "remington-legend",
+    name: "The south-county stop",
+    lat: 40.7606,
+    lng: -87.1508,
+    radius: 900,
+    short: "The local legend is that Remington is only a 231 blink. It started because the railroad needed a stop on the south prairie.",
+    long: "",
+    names: ["Remington"]
+  },
+
+  {
+    id: "approach-demotte-in",
+    name: "DeMotte",
+    lat: 41.1964,
+    lng: -87.1986,
+    radius: 4000,
+    layer: "approach",
+    short: "You are coming up on DeMotte. Jasper County town north of Rensselaer. If you drop in, I'll start on Halleck.",
+    long: "",
+    names: ["DeMotte"]
+  },
+  {
+    id: "demotte-founding",
+    name: "DeMotte founding",
+    lat: 41.1964,
+    lng: -87.1986,
+    radius: 1200,
+    short: "Laid out as a farm village. Named for Mark L. DeMotte. A store-and-church town that later grew on US 231.",
+    long: "",
+    names: ["DeMotte"]
+  },
+  {
+    id: "demotte-rail",
+    name: "DeMotte railroad",
+    lat: 41.1964,
+    lng: -87.1986,
+    radius: 1400,
+    short: "The railroad took the grain off northern Jasper County. A siding village that later became a highway town.",
+    long: "",
+    names: ["DeMotte"]
+  },
+  {
+    id: "demotte-231",
+    name: "US 231 DeMotte",
+    lat: 41.1964,
+    lng: -87.1986,
+    radius: 1800,
+    short: "US 231 is the later spine. Crown Point to Rensselaer traffic that can miss Halleck if it stays on the four-lane.",
+    long: "",
+    names: ["DeMotte"]
+  },
+  {
+    id: "demotte-parks",
+    name: "DeMotte parks",
+    lat: 41.1964,
+    lng: -87.1986,
+    radius: 1300,
+    short: "School and park ground a growing highway town kept after the trains thinned.",
+    long: "",
+    names: ["DeMotte"]
+  },
+  {
+    id: "demotte-people",
+    name: "DeMotte people",
+    lat: 41.1964,
+    lng: -87.1986,
+    radius: 1200,
+    short: "Farm families first. Then rail. Then the later commute north.",
+    long: "",
+    names: ["DeMotte"]
+  },
+  {
+    id: "demotte-native",
+    name: "DeMotte Native ground",
+    lat: 41.1964,
+    lng: -87.1986,
+    radius: 1700,
+    short: "Potawatomi prairie north of the Iroquois. Hunting ground before the elevator.",
+    long: "",
+    names: ["Potawatomi"]
+  },
+  {
+    id: "demotte-war",
+    name: "DeMotte war",
+    lat: 41.1964,
+    lng: -87.1986,
+    radius: 1400,
+    short: "No fort on Halleck. Men left from these farms. The later story is 231.",
+    long: "",
+    names: ["DeMotte"]
+  },
+  {
+    id: "demotte-legend",
+    name: "The north-county stop",
+    lat: 41.1964,
+    lng: -87.1986,
+    radius: 1000,
+    short: "The local legend is that DeMotte is only a 231 town now. It started as a named village on the north prairie.",
+    long: "",
+    names: ["DeMotte"]
+  },
+
+  {
+    id: "approach-wheatfield-in",
+    name: "Wheatfield",
+    lat: 41.1914,
+    lng: -87.0531,
+    radius: 3200,
+    layer: "approach",
+    short: "You are coming up on Wheatfield. Jasper County town east of DeMotte. If you drop in, I'll start on Main.",
+    long: "",
+    names: ["Wheatfield"]
+  },
+  {
+    id: "wheatfield-founding",
+    name: "Wheatfield founding",
+    lat: 41.1914,
+    lng: -87.0531,
+    radius: 1100,
+    short: "Laid out as a farm village. Named Wheatfield. A store-and-elevator town on the north prairie.",
+    long: "",
+    names: ["Wheatfield"]
+  },
+  {
+    id: "wheatfield-rail",
+    name: "Wheatfield railroad",
+    lat: 41.1914,
+    lng: -87.0531,
+    radius: 1300,
+    short: "The railroad took the grain off northeast Jasper County. A siding village.",
+    long: "",
+    names: ["Wheatfield"]
+  },
+  {
+    id: "wheatfield-road",
+    name: "Wheatfield road",
+    lat: 41.1914,
+    lng: -87.0531,
+    radius: 1500,
+    short: "State roads to DeMotte and Knox. Traffic that can miss this Main.",
+    long: "",
+    names: ["Wheatfield"]
+  },
+  {
+    id: "wheatfield-parks",
+    name: "Wheatfield parks",
+    lat: 41.1914,
+    lng: -87.0531,
+    radius: 1100,
+    short: "School and park ground a grain village kept after the trains thinned.",
+    long: "",
+    names: ["Wheatfield"]
+  },
+  {
+    id: "wheatfield-people",
+    name: "Wheatfield people",
+    lat: 41.1914,
+    lng: -87.0531,
+    radius: 1000,
+    short: "Farm families first. Then rail. Then the later quiet.",
+    long: "",
+    names: ["Wheatfield"]
+  },
+  {
+    id: "wheatfield-native",
+    name: "Wheatfield Native ground",
+    lat: 41.1914,
+    lng: -87.0531,
+    radius: 1600,
+    short: "Potawatomi prairie east of DeMotte. Hunting ground before the elevator.",
+    long: "",
+    names: ["Potawatomi"]
+  },
+  {
+    id: "wheatfield-war",
+    name: "Wheatfield war",
+    lat: 41.1914,
+    lng: -87.0531,
+    radius: 1200,
+    short: "No fort on Main. Men left from these farms. The later story is the elevator.",
+    long: "",
+    names: ["Wheatfield"]
+  },
+  {
+    id: "wheatfield-legend",
+    name: "The name on the grain",
+    lat: 41.1914,
+    lng: -87.0531,
+    radius: 900,
+    short: "The local legend is that Wheatfield is only a name on the grain report. It started because the railroad needed a stop on the north prairie.",
+    long: "",
+    names: ["Wheatfield"]
+  },
+
+  {
+    id: "approach-knox-in",
+    name: "Knox",
+    lat: 41.3117,
+    lng: -86.6250,
+    radius: 5500,
+    layer: "approach",
+    short: "You are coming up on Knox. Starke County seat. If you drop in, I'll start on Main.",
+    long: "",
+    names: ["Knox"]
+  },
+  {
+    id: "knox-founding",
+    name: "Knox founding",
+    lat: 41.3117,
+    lng: -86.6250,
+    radius: 1400,
+    short: "Laid out as a farm village. Named Knox. County seat. Rail first. Then US 35.",
+    long: "",
+    names: ["Knox"]
+  },
+  {
+    id: "knox-courthouse",
+    name: "Starke County Courthouse",
+    lat: 41.3117,
+    lng: -86.6250,
+    radius: 800,
+    short: "The courthouse on the square. County business still walks Main.",
+    long: "",
+    names: ["Starke County Courthouse"]
+  },
+  {
+    id: "knox-rail",
+    name: "Knox railroad",
+    lat: 41.3117,
+    lng: -86.6250,
+    radius: 1500,
+    short: "The railroad took the grain and sand off Starke County. A depot county seat.",
+    long: "",
+    names: ["Knox"]
+  },
+  {
+    id: "knox-35",
+    name: "US 35 Knox",
+    lat: 41.3117,
+    lng: -86.6250,
+    radius: 2000,
+    short: "US 35 is the later spine. Winamac to Michigan City traffic that can miss the square if it stays on the four-lane.",
+    long: "",
+    names: ["Knox"]
+  },
+  {
+    id: "knox-parks",
+    name: "Knox parks",
+    lat: 41.3117,
+    lng: -86.6250,
+    radius: 1400,
+    short: "Town parks and school ground. Public ground a county seat kept after the depot quieted.",
+    long: "",
+    names: ["Knox"]
+  },
+  {
+    id: "knox-people",
+    name: "Knox people",
+    lat: 41.3117,
+    lng: -86.6250,
+    radius: 1300,
+    short: "Farm families. Sand-country families. A town that still points at the courthouse.",
+    long: "",
+    names: ["Knox"]
+  },
+  {
+    id: "knox-native",
+    name: "Knox Native ground",
+    lat: 41.3117,
+    lng: -86.6250,
+    radius: 1800,
+    short: "Potawatomi sand prairie. Hunting ground before the square was drawn.",
+    long: "",
+    names: ["Potawatomi"]
+  },
+  {
+    id: "knox-war",
+    name: "Knox war",
+    lat: 41.3117,
+    lng: -86.6250,
+    radius: 1500,
+    short: "No fort on Main. The Trail of Death passed this county. Men later left from these blocks.",
+    long: "",
+    names: ["Trail of Death"]
+  },
+  {
+    id: "knox-legend",
+    name: "The sand county seat",
+    lat: 41.3117,
+    lng: -86.6250,
+    radius: 1100,
+    short: "The local legend is that Knox is only a 35 exit. It started because a county needed a square on the sand prairie.",
+    long: "",
+    names: ["Knox"]
+  },
+
+  {
+    id: "knox-downtown",
+    name: "Knox downtown",
+    lat: 41.3117,
+    lng: -86.6250,
+    radius: 900,
+    short: "Main and the square. Brick blocks a sand county seat kept after the depot quieted.",
+    long: "",
+    names: ["Knox"]
+  },
+  {
+    id: "knox-industry",
+    name: "Knox industry",
+    lat: 41.3117,
+    lng: -86.6250,
+    radius: 1500,
+    short: "Elevators, shops, and later plants. A prairie county seat that loaded grain after the rails arrived.",
+    long: "",
+    names: ["Knox"]
+  },
+  {
+    id: "knox-bass-lake",
+    name: "Bass Lake",
+    lat: 41.2260,
+    lng: -86.6020,
+    radius: 2200,
+    short: "Bass Lake south of Knox. A resort lake Starke County kept after the trains thinned. Cottages first. Then year-round.",
+    long: "",
+    names: ["Bass Lake"]
+  },
+  {
+    id: "knox-legend-lake",
+    name: "The lake county",
+    lat: 41.2260,
+    lng: -86.6020,
+    radius: 1800,
+    short: "The local legend is that Starke County is only a courthouse town. People still drive south to Bass Lake.",
+    long: "",
+    names: ["Bass Lake"]
+  },
+
+  {
+    id: "approach-north-judson-in",
+    name: "North Judson",
+    lat: 41.2170,
+    lng: -86.7756,
+    radius: 3800,
+    layer: "approach",
+    short: "You are coming up on North Judson. Starke County railroad town. If you drop in, I'll start on Lane.",
+    long: "",
+    names: ["North Judson"]
+  },
+  {
+    id: "north-judson-founding",
+    name: "North Judson founding",
+    lat: 41.2170,
+    lng: -86.7756,
+    radius: 1200,
+    short: "Laid out as a rail village. Named North Judson. A crossing town. Later US 231.",
+    long: "",
+    names: ["North Judson"]
+  },
+  {
+    id: "north-judson-rail",
+    name: "North Judson railroad",
+    lat: 41.2170,
+    lng: -86.7756,
+    radius: 1400,
+    short: "The crossing made the town. Several lines met here. A depot village that still talks trains.",
+    long: "",
+    names: ["North Judson"]
+  },
+  {
+    id: "north-judson-hoosier-valley",
+    name: "Hoosier Valley Railroad Museum",
+    lat: 41.2170,
+    lng: -86.7756,
+    radius: 900,
+    short: "The Hoosier Valley Railroad Museum keeps the crossing story. Equipment on the old line.",
+    long: "",
+    names: ["Hoosier Valley Railroad Museum"]
+  },
+  {
+    id: "north-judson-231",
+    name: "US 231 North Judson",
+    lat: 41.2170,
+    lng: -86.7756,
+    radius: 1700,
+    short: "US 231 is the later spine. Rensselaer to Knox traffic that can miss Lane if it stays on the highway.",
+    long: "",
+    names: ["North Judson"]
+  },
+  {
+    id: "north-judson-parks",
+    name: "North Judson parks",
+    lat: 41.2170,
+    lng: -86.7756,
+    radius: 1200,
+    short: "School and park ground a rail town kept after the passenger trains left.",
+    long: "",
+    names: ["North Judson"]
+  },
+  {
+    id: "north-judson-people",
+    name: "North Judson people",
+    lat: 41.2170,
+    lng: -86.7756,
+    radius: 1100,
+    short: "Rail families first. Then farm. Then 231.",
+    long: "",
+    names: ["North Judson"]
+  },
+  {
+    id: "north-judson-native",
+    name: "North Judson Native ground",
+    lat: 41.2170,
+    lng: -86.7756,
+    radius: 1700,
+    short: "Potawatomi sand prairie. Hunting ground before the crossing was drawn.",
+    long: "",
+    names: ["Potawatomi"]
+  },
+  {
+    id: "north-judson-war",
+    name: "North Judson war",
+    lat: 41.2170,
+    lng: -86.7756,
+    radius: 1400,
+    short: "No fort on Lane. Men left from these blocks. The later story is the museum.",
+    long: "",
+    names: ["North Judson"]
+  },
+  {
+    id: "north-judson-legend",
+    name: "The crossing town",
+    lat: 41.2170,
+    lng: -86.7756,
+    radius: 1000,
+    short: "The local legend is that North Judson is only a 231 blink. It started because the rails crossed here.",
+    long: "",
+    names: ["North Judson"]
+  },
+
+  {
+    id: "approach-hamlet-in",
+    name: "Hamlet",
+    lat: 41.3792,
+    lng: -86.5833,
+    radius: 2800,
+    layer: "approach",
+    short: "You are coming up on Hamlet. Starke County village north of Knox. If you drop in, I'll start on Main.",
+    long: "",
+    names: ["Hamlet"]
+  },
+  {
+    id: "hamlet-founding",
+    name: "Hamlet founding",
+    lat: 41.3792,
+    lng: -86.5833,
+    radius: 1100,
+    short: "Laid out as a farm village. Named Hamlet. A store-and-elevator town on the sand prairie.",
+    long: "",
+    names: ["Hamlet"]
+  },
+  {
+    id: "hamlet-rail",
+    name: "Hamlet railroad",
+    lat: 41.3792,
+    lng: -86.5833,
+    radius: 1300,
+    short: "The railroad took the grain off northern Starke County. A siding village.",
+    long: "",
+    names: ["Hamlet"]
+  },
+  {
+    id: "hamlet-35",
+    name: "US 35 Hamlet",
+    lat: 41.3792,
+    lng: -86.5833,
+    radius: 1500,
+    short: "US 35 is the later spine. Knox to Michigan City traffic that can miss this Main.",
+    long: "",
+    names: ["Hamlet"]
+  },
+  {
+    id: "hamlet-parks",
+    name: "Hamlet parks",
+    lat: 41.3792,
+    lng: -86.5833,
+    radius: 1100,
+    short: "School and church ground a highway village kept after the trains thinned.",
+    long: "",
+    names: ["Hamlet"]
+  },
+  {
+    id: "hamlet-people",
+    name: "Hamlet people",
+    lat: 41.3792,
+    lng: -86.5833,
+    radius: 1000,
+    short: "Farm families first. Then rail. Then 35.",
+    long: "",
+    names: ["Hamlet"]
+  },
+  {
+    id: "hamlet-native",
+    name: "Hamlet Native ground",
+    lat: 41.3792,
+    lng: -86.5833,
+    radius: 1600,
+    short: "Potawatomi sand prairie. Hunting ground before the elevator.",
+    long: "",
+    names: ["Potawatomi"]
+  },
+  {
+    id: "hamlet-war",
+    name: "Hamlet war",
+    lat: 41.3792,
+    lng: -86.5833,
+    radius: 1200,
+    short: "No fort on Main. Men left from these farms. The later story is 35.",
+    long: "",
+    names: ["Hamlet"]
+  },
+  {
+    id: "hamlet-legend",
+    name: "The name on the highway",
+    lat: 41.3792,
+    lng: -86.5833,
+    radius: 900,
+    short: "The local legend is that Hamlet is only a 35 blink. It started because the railroad needed a stop on the north prairie.",
+    long: "",
+    names: ["Hamlet"]
+  },
+
+  {
+    id: "approach-san-pierre-in",
+    name: "San Pierre",
+    lat: 41.1992,
+    lng: -86.8925,
+    radius: 2600,
+    layer: "approach",
+    short: "You are coming up on San Pierre. Starke County village west of North Judson. If you drop in, I'll start on Main.",
+    long: "",
+    names: ["San Pierre"]
+  },
+  {
+    id: "san-pierre-founding",
+    name: "San Pierre founding",
+    lat: 41.1992,
+    lng: -86.8925,
+    radius: 1000,
+    short: "Laid out as a farm village. Named San Pierre. A store-and-elevator town on the west prairie.",
+    long: "",
+    names: ["San Pierre"]
+  },
+  {
+    id: "san-pierre-rail",
+    name: "San Pierre railroad",
+    lat: 41.1992,
+    lng: -86.8925,
+    radius: 1200,
+    short: "A siding if the line ran close. Grain off western Starke County.",
+    long: "",
+    names: ["San Pierre"]
+  },
+  {
+    id: "san-pierre-road",
+    name: "San Pierre road",
+    lat: 41.1992,
+    lng: -86.8925,
+    radius: 1400,
+    short: "County roads to North Judson and Medaryville. Traffic that can miss this Main.",
+    long: "",
+    names: ["San Pierre"]
+  },
+  {
+    id: "san-pierre-parks",
+    name: "San Pierre parks",
+    lat: 41.1992,
+    lng: -86.8925,
+    radius: 1000,
+    short: "Church and school ground a name-village kept after the highway moved.",
+    long: "",
+    names: ["San Pierre"]
+  },
+  {
+    id: "san-pierre-people",
+    name: "San Pierre people",
+    lat: 41.1992,
+    lng: -86.8925,
+    radius: 900,
+    short: "Farm families first. Then the later quiet.",
+    long: "",
+    names: ["San Pierre"]
+  },
+  {
+    id: "san-pierre-native",
+    name: "San Pierre Native ground",
+    lat: 41.1992,
+    lng: -86.8925,
+    radius: 1500,
+    short: "Potawatomi prairie west of the crossing. Hunting ground before the elevator.",
+    long: "",
+    names: ["Potawatomi"]
+  },
+  {
+    id: "san-pierre-war",
+    name: "San Pierre war",
+    lat: 41.1992,
+    lng: -86.8925,
+    radius: 1100,
+    short: "No fort on Main. Men left from these farms. The later story is the name.",
+    long: "",
+    names: ["San Pierre"]
+  },
+  {
+    id: "san-pierre-legend",
+    name: "The French name",
+    lat: 41.1992,
+    lng: -86.8925,
+    radius: 800,
+    short: "The local legend is that San Pierre sounds like somewhere else. It is a Starke County village with a French name on the prairie.",
+    long: "",
+    names: ["San Pierre"]
+  },
+
+  {
+    id: "approach-walkerton-in",
+    name: "Walkerton",
+    lat: 41.4667,
+    lng: -86.5044,
+    radius: 3800,
+    layer: "approach",
+    short: "You are coming up on Walkerton. South St. Joseph County town. If you drop in, I'll start on Michigan.",
+    long: "",
+    names: ["Walkerton"]
+  },
+  {
+    id: "walkerton-founding",
+    name: "Walkerton founding",
+    lat: 41.4667,
+    lng: -86.5044,
+    radius: 1200,
+    short: "Laid out as a farm village. Named Walkerton. A store-and-rail town south of South Bend.",
+    long: "",
+    names: ["Walkerton"]
+  },
+  {
+    id: "walkerton-rail",
+    name: "Walkerton railroad",
+    lat: 41.4667,
+    lng: -86.5044,
+    radius: 1400,
+    short: "The railroad took the grain off south St. Joseph County. A depot village.",
+    long: "",
+    names: ["Walkerton"]
+  },
+  {
+    id: "walkerton-23",
+    name: "US 6 Walkerton",
+    lat: 41.4667,
+    lng: -86.5044,
+    radius: 1700,
+    short: "US 6 is the later spine. Bremen to La Porte traffic that can miss Michigan if it stays on the highway.",
+    long: "",
+    names: ["Walkerton"]
+  },
+  {
+    id: "walkerton-parks",
+    name: "Walkerton parks",
+    lat: 41.4667,
+    lng: -86.5044,
+    radius: 1200,
+    short: "School and park ground a south-county town kept after the trains thinned.",
+    long: "",
+    names: ["Walkerton"]
+  },
+  {
+    id: "walkerton-people",
+    name: "Walkerton people",
+    lat: 41.4667,
+    lng: -86.5044,
+    radius: 1100,
+    short: "Farm families first. Then rail. Then the later commute north.",
+    long: "",
+    names: ["Walkerton"]
+  },
+  {
+    id: "walkerton-native",
+    name: "Walkerton Native ground",
+    lat: 41.4667,
+    lng: -86.5044,
+    radius: 1700,
+    short: "Potawatomi prairie south of the St. Joseph. Hunting ground before the depot.",
+    long: "",
+    names: ["Potawatomi"]
+  },
+  {
+    id: "walkerton-war",
+    name: "Walkerton war",
+    lat: 41.4667,
+    lng: -86.5044,
+    radius: 1400,
+    short: "No fort on Michigan. Men left from these blocks. The later story is US 6.",
+    long: "",
+    names: ["Walkerton"]
+  },
+  {
+    id: "walkerton-legend",
+    name: "The south-county stop",
+    lat: 41.4667,
+    lng: -86.5044,
+    radius: 1000,
+    short: "The local legend is that Walkerton is only a South Bend satellite. It started as its own depot town.",
+    long: "",
+    names: ["Walkerton"]
+  },
+  {
+    id: "approach-north-liberty-in",
+    name: "North Liberty",
+    lat: 41.5342,
+    lng: -86.4300,
+    radius: 3200,
+    layer: "approach",
+    short: "You are coming up on North Liberty. St. Joseph County town southwest of South Bend. If you drop in, I'll start on Main.",
+    long: "",
+    names: ["North Liberty"]
+  },
+  {
+    id: "north-liberty-founding",
+    name: "North Liberty founding",
+    lat: 41.5342,
+    lng: -86.4300,
+    radius: 1100,
+    short: "Laid out as a farm village. Named North Liberty. A store-and-church town on the south prairie.",
+    long: "",
+    names: ["North Liberty"]
+  },
+  {
+    id: "north-liberty-rail",
+    name: "North Liberty railroad",
+    lat: 41.5342,
+    lng: -86.4300,
+    radius: 1300,
+    short: "A siding if the line ran close. Grain off southwest St. Joseph County.",
+    long: "",
+    names: ["North Liberty"]
+  },
+  {
+    id: "north-liberty-road",
+    name: "North Liberty road",
+    lat: 41.5342,
+    lng: -86.4300,
+    radius: 1500,
+    short: "State roads to Walkerton and South Bend. Traffic that can miss this Main.",
+    long: "",
+    names: ["North Liberty"]
+  },
+  {
+    id: "north-liberty-parks",
+    name: "North Liberty parks",
+    lat: 41.5342,
+    lng: -86.4300,
+    radius: 1100,
+    short: "School and park ground a name-village kept after the highway moved.",
+    long: "",
+    names: ["North Liberty"]
+  },
+  {
+    id: "north-liberty-people",
+    name: "North Liberty people",
+    lat: 41.5342,
+    lng: -86.4300,
+    radius: 1000,
+    short: "Farm families first. Then the later commute north.",
+    long: "",
+    names: ["North Liberty"]
+  },
+  {
+    id: "north-liberty-native",
+    name: "North Liberty Native ground",
+    lat: 41.5342,
+    lng: -86.4300,
+    radius: 1600,
+    short: "Potawatomi prairie southwest of South Bend. Hunting ground before the church.",
+    long: "",
+    names: ["Potawatomi"]
+  },
+  {
+    id: "north-liberty-war",
+    name: "North Liberty war",
+    lat: 41.5342,
+    lng: -86.4300,
+    radius: 1200,
+    short: "No fort on Main. Men left from these farms. The later story is the name.",
+    long: "",
+    names: ["North Liberty"]
+  },
+  {
+    id: "north-liberty-legend",
+    name: "The liberty name",
+    lat: 41.5342,
+    lng: -86.4300,
+    radius: 900,
+    short: "The local legend is that North Liberty is only a South Bend satellite. It started as its own named village.",
+    long: "",
+    names: ["North Liberty"]
+  },
+
+  {
+    id: "approach-lakeville-in",
+    name: "Lakeville",
+    lat: 41.5236,
+    lng: -86.2731,
+    radius: 3200,
+    layer: "approach",
+    short: "You are coming up on Lakeville. St. Joseph County town south of South Bend. If you drop in, I'll start on Michigan.",
+    long: "",
+    names: ["Lakeville"]
+  },
+  {
+    id: "lakeville-founding",
+    name: "Lakeville founding",
+    lat: 41.5236,
+    lng: -86.2731,
+    radius: 1100,
+    short: "Laid out as a farm village. Named Lakeville. A store-and-lake-edge town south of South Bend.",
+    long: "",
+    names: ["Lakeville"]
+  },
+  {
+    id: "lakeville-rail",
+    name: "Lakeville railroad",
+    lat: 41.5236,
+    lng: -86.2731,
+    radius: 1300,
+    short: "A siding if the line ran close. Grain off south St. Joseph County.",
+    long: "",
+    names: ["Lakeville"]
+  },
+  {
+    id: "lakeville-31",
+    name: "US 31 Lakeville",
+    lat: 41.5236,
+    lng: -86.2731,
+    radius: 1800,
+    short: "US 31 is the later spine. Plymouth to South Bend traffic that can miss Michigan if it stays on the four-lane.",
+    long: "",
+    names: ["Lakeville"]
+  },
+  {
+    id: "lakeville-parks",
+    name: "Lakeville parks",
+    lat: 41.5236,
+    lng: -86.2731,
+    radius: 1100,
+    short: "School and park ground a highway village kept after the trains thinned.",
+    long: "",
+    names: ["Lakeville"]
+  },
+  {
+    id: "lakeville-people",
+    name: "Lakeville people",
+    lat: 41.5236,
+    lng: -86.2731,
+    radius: 1000,
+    short: "Farm families first. Then the later commute north.",
+    long: "",
+    names: ["Lakeville"]
+  },
+  {
+    id: "lakeville-native",
+    name: "Lakeville Native ground",
+    lat: 41.5236,
+    lng: -86.2731,
+    radius: 1600,
+    short: "Potawatomi prairie south of South Bend. Hunting ground before the village.",
+    long: "",
+    names: ["Potawatomi"]
+  },
+  {
+    id: "lakeville-war",
+    name: "Lakeville war",
+    lat: 41.5236,
+    lng: -86.2731,
+    radius: 1200,
+    short: "No fort on Michigan. Men left from these farms. The later story is 31.",
+    long: "",
+    names: ["Lakeville"]
+  },
+  {
+    id: "lakeville-legend",
+    name: "The lake-edge stop",
+    lat: 41.5236,
+    lng: -86.2731,
+    radius: 900,
+    short: "The local legend is that Lakeville is only a 31 blink. It started as its own named village south of South Bend.",
+    long: "",
+    names: ["Lakeville"]
+  },
+
+  {
+    id: "approach-new-carlisle-in",
+    name: "New Carlisle",
+    lat: 41.7003,
+    lng: -86.5095,
+    radius: 4200,
+    layer: "approach",
+    short: "You are coming up on New Carlisle. West St. Joseph County town. If you drop in, I'll start on Michigan.",
+    long: "",
+    names: ["New Carlisle"]
+  },
+  {
+    id: "new-carlisle-founding",
+    name: "New Carlisle founding",
+    lat: 41.7003,
+    lng: -86.5095,
+    radius: 1200,
+    short: "Laid out as a farm village. Named New Carlisle. A store-and-rail town west of South Bend.",
+    long: "",
+    names: ["New Carlisle"]
+  },
+  {
+    id: "new-carlisle-rail",
+    name: "New Carlisle railroad",
+    lat: 41.7003,
+    lng: -86.5095,
+    radius: 1400,
+    short: "The railroad took the grain off west St. Joseph County. A depot village that later sat near the plants.",
+    long: "",
+    names: ["New Carlisle"]
+  },
+  {
+    id: "new-carlisle-20",
+    name: "US 20 New Carlisle",
+    lat: 41.7003,
+    lng: -86.5095,
+    radius: 1800,
+    short: "US 20 is the later spine. South Bend to Michigan City traffic that can miss Michigan Street if it stays on the highway.",
+    long: "",
+    names: ["New Carlisle"]
+  },
+  {
+    id: "new-carlisle-parks",
+    name: "New Carlisle parks",
+    lat: 41.7003,
+    lng: -86.5095,
+    radius: 1300,
+    short: "School and park ground a west-county town kept after the depot quieted.",
+    long: "",
+    names: ["New Carlisle"]
+  },
+  {
+    id: "new-carlisle-people",
+    name: "New Carlisle people",
+    lat: 41.7003,
+    lng: -86.5095,
+    radius: 1200,
+    short: "Farm families first. Then rail. Then the later plants west of South Bend.",
+    long: "",
+    names: ["New Carlisle"]
+  },
+  {
+    id: "new-carlisle-native",
+    name: "New Carlisle Native ground",
+    lat: 41.7003,
+    lng: -86.5095,
+    radius: 1700,
+    short: "Potawatomi ground west of the St. Joseph. Hunting ground before the depot.",
+    long: "",
+    names: ["Potawatomi"]
+  },
+  {
+    id: "new-carlisle-war",
+    name: "New Carlisle war",
+    lat: 41.7003,
+    lng: -86.5095,
+    radius: 1400,
+    short: "No fort on Michigan. Men left from these blocks. The later story is US 20.",
+    long: "",
+    names: ["New Carlisle"]
+  },
+  {
+    id: "new-carlisle-legend",
+    name: "The west-county stop",
+    lat: 41.7003,
+    lng: -86.5095,
+    radius: 1000,
+    short: "The local legend is that New Carlisle is only a South Bend satellite. It started as its own depot town.",
+    long: "",
+    names: ["New Carlisle"]
+  },
+
+  {
+    id: "approach-osceola-in",
+    name: "Osceola",
+    lat: 41.6650,
+    lng: -86.0756,
+    radius: 3500,
+    layer: "approach",
+    short: "You are coming up on Osceola. St. Joseph County town between Mishawaka and Elkhart. If you drop in, I'll start on Lincolnway.",
+    long: "",
+    names: ["Osceola"]
+  },
+  {
+    id: "osceola-founding",
+    name: "Osceola founding",
+    lat: 41.6650,
+    lng: -86.0756,
+    radius: 1100,
+    short: "Laid out as a farm village. Named Osceola. A store-and-rail town that later sat between two factory cities.",
+    long: "",
+    names: ["Osceola"]
+  },
+  {
+    id: "osceola-rail",
+    name: "Osceola railroad",
+    lat: 41.6650,
+    lng: -86.0756,
+    radius: 1300,
+    short: "The railroad took the grain off east St. Joseph County. A siding village that later became a corridor town.",
+    long: "",
+    names: ["Osceola"]
+  },
+  {
+    id: "osceola-33",
+    name: "Lincolnway Osceola",
+    lat: 41.6650,
+    lng: -86.0756,
+    radius: 1600,
+    short: "Lincolnway and US 33 are the later spine. Mishawaka to Elkhart traffic that can miss the old Main.",
+    long: "",
+    names: ["Osceola"]
+  },
+  {
+    id: "osceola-parks",
+    name: "Osceola parks",
+    lat: 41.6650,
+    lng: -86.0756,
+    radius: 1200,
+    short: "School and park ground a corridor town kept after the trains thinned.",
+    long: "",
+    names: ["Osceola"]
+  },
+  {
+    id: "osceola-people",
+    name: "Osceola people",
+    lat: 41.6650,
+    lng: -86.0756,
+    radius: 1100,
+    short: "Farm families first. Then rail. Then the later factory commute.",
+    long: "",
+    names: ["Osceola"]
+  },
+  {
+    id: "osceola-native",
+    name: "Osceola Native ground",
+    lat: 41.6650,
+    lng: -86.0756,
+    radius: 1600,
+    short: "Potawatomi ground on the St. Joseph corridor. Named for a Seminole leader far from Florida.",
+    long: "",
+    names: ["Potawatomi", "Osceola"]
+  },
+  {
+    id: "osceola-war",
+    name: "Osceola war",
+    lat: 41.6650,
+    lng: -86.0756,
+    radius: 1300,
+    short: "No fort on Lincolnway. Men left from these blocks. The later story is the corridor.",
+    long: "",
+    names: ["Osceola"]
+  },
+  {
+    id: "osceola-legend",
+    name: "The name between cities",
+    lat: 41.6650,
+    lng: -86.0756,
+    radius: 900,
+    short: "The local legend is that Osceola is only the gap between Mishawaka and Elkhart. It started as its own named village.",
+    long: "",
+    names: ["Osceola"]
+  },
+
+  {
+    id: "approach-wakarusa-in",
+    name: "Wakarusa",
+    lat: 41.5361,
+    lng: -86.0167,
+    radius: 3800,
+    layer: "approach",
+    short: "You are coming up on Wakarusa. Elkhart County town south of Elkhart. If you drop in, I'll start on Elkhart Street.",
+    long: "",
+    names: ["Wakarusa"]
+  },
+  {
+    id: "wakarusa-founding",
+    name: "Wakarusa founding",
+    lat: 41.5361,
+    lng: -86.0167,
+    radius: 1200,
+    short: "Laid out as a farm village. Named Wakarusa. A store-and-rail town that later sat in RV country.",
+    long: "",
+    names: ["Wakarusa"]
+  },
+  {
+    id: "wakarusa-rail",
+    name: "Wakarusa railroad",
+    lat: 41.5361,
+    lng: -86.0167,
+    radius: 1400,
+    short: "The railroad took the grain off south Elkhart County. A depot village.",
+    long: "",
+    names: ["Wakarusa"]
+  },
+  {
+    id: "wakarusa-maple",
+    name: "Wakarusa Maple Syrup Festival",
+    lat: 41.5361,
+    lng: -86.0167,
+    radius: 1100,
+    short: "The maple festival is the later civic story. A farm town that still boils syrup in public.",
+    long: "",
+    names: ["Wakarusa Maple Syrup Festival"]
+  },
+  {
+    id: "wakarusa-road",
+    name: "Wakarusa road",
+    lat: 41.5361,
+    lng: -86.0167,
+    radius: 1600,
+    short: "State roads to Elkhart and Nappanee. Traffic that can miss Elkhart Street.",
+    long: "",
+    names: ["Wakarusa"]
+  },
+  {
+    id: "wakarusa-parks",
+    name: "Wakarusa parks",
+    lat: 41.5361,
+    lng: -86.0167,
+    radius: 1200,
+    short: "School and park ground a south-county town kept after the trains thinned.",
+    long: "",
+    names: ["Wakarusa"]
+  },
+  {
+    id: "wakarusa-people",
+    name: "Wakarusa people",
+    lat: 41.5361,
+    lng: -86.0167,
+    radius: 1100,
+    short: "Farm families first. Then rail. Then the later shops and festival.",
+    long: "",
+    names: ["Wakarusa"]
+  },
+  {
+    id: "wakarusa-native",
+    name: "Wakarusa Native ground",
+    lat: 41.5361,
+    lng: -86.0167,
+    radius: 1700,
+    short: "Potawatomi prairie south of the St. Joseph. The name is older than the plat.",
+    long: "",
+    names: ["Potawatomi", "Wakarusa"]
+  },
+  {
+    id: "wakarusa-war",
+    name: "Wakarusa war",
+    lat: 41.5361,
+    lng: -86.0167,
+    radius: 1400,
+    short: "No fort on Elkhart Street. Men left from these blocks. The later story is the festival.",
+    long: "",
+    names: ["Wakarusa"]
+  },
+  {
+    id: "wakarusa-legend",
+    name: "The syrup town",
+    lat: 41.5361,
+    lng: -86.0167,
+    radius: 1000,
+    short: "The local legend is that Wakarusa is only maple weekend. It started as a depot village on the south prairie.",
+    long: "",
+    names: ["Wakarusa"]
+  },
+
+  {
+    id: "approach-nappanee-in",
+    name: "Nappanee",
+    lat: 41.4428,
+    lng: -85.9997,
+    radius: 5000,
+    layer: "approach",
+    short: "You are coming up on Nappanee. Elkhart County town on the Amish-and-RV edge. If you drop in, I'll start on Main.",
+    long: "",
+    names: ["Nappanee"]
+  },
+  {
+    id: "nappanee-founding",
+    name: "Nappanee founding",
+    lat: 41.4428,
+    lng: -85.9997,
+    radius: 1400,
+    short: "Laid out as a farm village. Named Nappanee. Rail first. Then furniture and RV shops.",
+    long: "",
+    names: ["Nappanee"]
+  },
+  {
+    id: "nappanee-rail",
+    name: "Nappanee railroad",
+    lat: 41.4428,
+    lng: -85.9997,
+    radius: 1500,
+    short: "The railroad took the grain off south Elkhart County. A depot town that later built coaches.",
+    long: "",
+    names: ["Nappanee"]
+  },
+  {
+    id: "nappanee-6",
+    name: "US 6 Nappanee",
+    lat: 41.4428,
+    lng: -85.9997,
+    radius: 2000,
+    short: "US 6 is the later spine. Bremen to Ligonier traffic that can miss Main if it stays on the highway.",
+    long: "",
+    names: ["Nappanee"]
+  },
+  {
+    id: "nappanee-amish",
+    name: "Nappanee Amish country",
+    lat: 41.4428,
+    lng: -85.9997,
+    radius: 1800,
+    short: "Amish farms and shops south and west of town. A town that still lives next to horse traffic.",
+    long: "",
+    names: ["Nappanee"]
+  },
+  {
+    id: "nappanee-parks",
+    name: "Nappanee parks",
+    lat: 41.4428,
+    lng: -85.9997,
+    radius: 1400,
+    short: "Town parks and school ground. Public ground a shop town kept after the depot quieted.",
+    long: "",
+    names: ["Nappanee"]
+  },
+  {
+    id: "nappanee-people",
+    name: "Nappanee people",
+    lat: 41.4428,
+    lng: -85.9997,
+    radius: 1300,
+    short: "Farm families. Shop families. A town that still points at Main and the shops.",
+    long: "",
+    names: ["Nappanee"]
+  },
+  {
+    id: "nappanee-native",
+    name: "Nappanee Native ground",
+    lat: 41.4428,
+    lng: -85.9997,
+    radius: 1800,
+    short: "Potawatomi prairie. The name is older than the plat.",
+    long: "",
+    names: ["Potawatomi", "Nappanee"]
+  },
+  {
+    id: "nappanee-war",
+    name: "Nappanee war",
+    lat: 41.4428,
+    lng: -85.9997,
+    radius: 1500,
+    short: "No fort on Main. Men left from these blocks. The later story is the shops.",
+    long: "",
+    names: ["Nappanee"]
+  },
+  {
+    id: "nappanee-legend",
+    name: "The shop town",
+    lat: 41.4428,
+    lng: -85.9997,
+    radius: 1100,
+    short: "The local legend is that Nappanee is only Amish tourism. It started as a depot village that learned to build.",
+    long: "",
+    names: ["Nappanee"]
+  },
+
+  {
+    id: "approach-bremen-in",
+    name: "Bremen",
+    lat: 41.4464,
+    lng: -86.1481,
+    radius: 4500,
+    layer: "approach",
+    short: "You are coming up on Bremen. Marshall County town west of Nappanee. If you drop in, I'll start on Plymouth.",
+    long: "",
+    names: ["Bremen"]
+  },
+  {
+    id: "bremen-founding",
+    name: "Bremen founding",
+    lat: 41.4464,
+    lng: -86.1481,
+    radius: 1300,
+    short: "Laid out as a farm village. Named Bremen. German settlers. Rail first. Then shops.",
+    long: "",
+    names: ["Bremen"]
+  },
+  {
+    id: "bremen-rail",
+    name: "Bremen railroad",
+    lat: 41.4464,
+    lng: -86.1481,
+    radius: 1500,
+    short: "The railroad took the grain off north Marshall County. A depot town.",
+    long: "",
+    names: ["Bremen"]
+  },
+  {
+    id: "bremen-6",
+    name: "US 6 Bremen",
+    lat: 41.4464,
+    lng: -86.1481,
+    radius: 1900,
+    short: "US 6 is the later spine. Walkerton to Nappanee traffic that can miss Plymouth if it stays on the highway.",
+    long: "",
+    names: ["Bremen"]
+  },
+  {
+    id: "bremen-parks",
+    name: "Bremen parks",
+    lat: 41.4464,
+    lng: -86.1481,
+    radius: 1300,
+    short: "Town parks and school ground. Public ground a German town kept after the depot quieted.",
+    long: "",
+    names: ["Bremen"]
+  },
+  {
+    id: "bremen-people",
+    name: "Bremen people",
+    lat: 41.4464,
+    lng: -86.1481,
+    radius: 1200,
+    short: "German farm families first. Then rail. Then the later shops.",
+    long: "",
+    names: ["Bremen"]
+  },
+  {
+    id: "bremen-native",
+    name: "Bremen Native ground",
+    lat: 41.4464,
+    lng: -86.1481,
+    radius: 1700,
+    short: "Potawatomi prairie. Hunting ground before the German plat.",
+    long: "",
+    names: ["Potawatomi"]
+  },
+  {
+    id: "bremen-war",
+    name: "Bremen war",
+    lat: 41.4464,
+    lng: -86.1481,
+    radius: 1400,
+    short: "No fort on Plymouth. Men left from these blocks. The later story is US 6.",
+    long: "",
+    names: ["Bremen"]
+  },
+  {
+    id: "bremen-legend",
+    name: "The German name",
+    lat: 41.4464,
+    lng: -86.1481,
+    radius: 1000,
+    short: "The local legend is that Bremen is only a 6 blink. It started as a German depot village.",
+    long: "",
+    names: ["Bremen"]
+  },
+
+  {
+    id: "nappanee-downtown",
+    name: "Nappanee downtown",
+    lat: 41.4428,
+    lng: -85.9997,
+    radius: 900,
+    short: "Main Street brick. A shop town that kept a walkable center after US 6 moved traffic.",
+    long: "",
+    names: ["Nappanee"]
+  },
+  {
+    id: "nappanee-industry",
+    name: "Nappanee industry",
+    lat: 41.4428,
+    lng: -85.9997,
+    radius: 1600,
+    short: "Furniture, coaches, and later RV shops. A prairie town that learned to build what the highway would buy.",
+    long: "",
+    names: ["Nappanee"]
+  },
+  {
+    id: "nappanee-amish-acres",
+    name: "Amish Acres",
+    lat: 41.4428,
+    lng: -85.9997,
+    radius: 1000,
+    short: "Amish Acres was the later tourist farm on the edge of town. The story is the farm next to the shops.",
+    long: "",
+    names: ["Amish Acres"]
+  },
+  {
+    id: "nappanee-legend-build",
+    name: "The builder town",
+    lat: 41.4428,
+    lng: -85.9997,
+    radius: 1200,
+    short: "The local legend is that Nappanee only sells quilts. It also built furniture and coaches.",
+    long: "",
+    names: ["Nappanee"]
+  },
+
+  {
+    id: "approach-bremen-in",
+    name: "Bremen",
+    lat: 41.4464,
+    lng: -86.1481,
+    radius: 4500,
+    layer: "approach",
+    short: "You are coming up on Bremen. Marshall County town west of Nappanee. If you drop in, I'll start on Plymouth.",
+    long: "",
+    names: ["Bremen"]
+  },
+  {
+    id: "bremen-founding",
+    name: "Bremen founding",
+    lat: 41.4464,
+    lng: -86.1481,
+    radius: 1300,
+    short: "Laid out as a farm village. Named Bremen. German settlers. Rail first. Then shops.",
+    long: "",
+    names: ["Bremen"]
+  },
+  {
+    id: "bremen-rail",
+    name: "Bremen railroad",
+    lat: 41.4464,
+    lng: -86.1481,
+    radius: 1500,
+    short: "The railroad took the grain off north Marshall County. A depot town.",
+    long: "",
+    names: ["Bremen"]
+  },
+  {
+    id: "bremen-6",
+    name: "US 6 Bremen",
+    lat: 41.4464,
+    lng: -86.1481,
+    radius: 1900,
+    short: "US 6 is the later spine. Walkerton to Nappanee traffic that can miss Plymouth if it stays on the highway.",
+    long: "",
+    names: ["Bremen"]
+  },
+  {
+    id: "bremen-parks",
+    name: "Bremen parks",
+    lat: 41.4464,
+    lng: -86.1481,
+    radius: 1300,
+    short: "Town parks and school ground. Public ground a German town kept after the depot quieted.",
+    long: "",
+    names: ["Bremen"]
+  },
+  {
+    id: "bremen-people",
+    name: "Bremen people",
+    lat: 41.4464,
+    lng: -86.1481,
+    radius: 1200,
+    short: "German farm families first. Then rail. Then the later shops.",
+    long: "",
+    names: ["Bremen"]
+  },
+  {
+    id: "bremen-native",
+    name: "Bremen Native ground",
+    lat: 41.4464,
+    lng: -86.1481,
+    radius: 1700,
+    short: "Potawatomi prairie. Hunting ground before the German plat.",
+    long: "",
+    names: ["Potawatomi"]
+  },
+  {
+    id: "bremen-war",
+    name: "Bremen war",
+    lat: 41.4464,
+    lng: -86.1481,
+    radius: 1400,
+    short: "No fort on Plymouth. Men left from these blocks. The later story is US 6.",
+    long: "",
+    names: ["Bremen"]
+  },
+  {
+    id: "bremen-legend",
+    name: "The German name",
+    lat: 41.4464,
+    lng: -86.1481,
+    radius: 1000,
+    short: "The local legend is that Bremen is only a 6 blink. It started as a German depot village.",
+    long: "",
+    names: ["Bremen"]
+  },
+
+  {
+    id: "approach-culver-in",
+    name: "Culver",
+    lat: 41.2170,
+    lng: -86.3731,
+    radius: 5500,
+    layer: "approach",
+    short: "You are coming up on Culver. Lake Maxinkuckee and the military academy. If you drop in, I'll start on Main.",
+    long: "",
+    names: ["Culver", "Lake Maxinkuckee"]
+  },
+  {
+    id: "culver-founding",
+    name: "Culver founding",
+    lat: 41.2170,
+    lng: -86.3731,
+    radius: 1400,
+    short: "Laid out as a lake village. Named Culver. Rail first. Then the academy and the resort shore.",
+    long: "",
+    names: ["Culver"]
+  },
+  {
+    id: "culver-maxinkuckee",
+    name: "Lake Maxinkuckee",
+    lat: 41.2050,
+    lng: -86.3900,
+    radius: 2500,
+    short: "Lake Maxinkuckee is the reason Culver exists. A glacial lake that became a resort and a school shore.",
+    long: "",
+    names: ["Lake Maxinkuckee"]
+  },
+  {
+    id: "culver-academy",
+    name: "Culver Academies",
+    lat: 41.2170,
+    lng: -86.3610,
+    radius: 1200,
+    short: "Culver Military Academy opened in 1894. A lake school that became a national name.",
+    long: "",
+    names: ["Culver Academies", "Culver Military Academy"]
+  },
+  {
+    id: "culver-rail",
+    name: "Culver railroad",
+    lat: 41.2170,
+    lng: -86.3731,
+    radius: 1500,
+    short: "The railroad brought summer people to the lake. A depot town that later lived on the academy calendar.",
+    long: "",
+    names: ["Culver"]
+  },
+  {
+    id: "culver-parks",
+    name: "Culver parks",
+    lat: 41.2170,
+    lng: -86.3731,
+    radius: 1400,
+    short: "Town beach and park ground. Public shore a lake town kept after the trains thinned.",
+    long: "",
+    names: ["Culver"]
+  },
+  {
+    id: "culver-people",
+    name: "Culver people",
+    lat: 41.2170,
+    lng: -86.3731,
+    radius: 1300,
+    short: "Farm families first. Then the academy. Then the later lake houses.",
+    long: "",
+    names: ["Culver"]
+  },
+  {
+    id: "culver-native",
+    name: "Maxinkuckee Native ground",
+    lat: 41.2050,
+    lng: -86.3900,
+    radius: 2200,
+    short: "Potawatomi ground on Maxinkuckee. The lake name is older than the academy.",
+    long: "",
+    names: ["Potawatomi", "Lake Maxinkuckee"]
+  },
+  {
+    id: "culver-war",
+    name: "Culver war",
+    lat: 41.2170,
+    lng: -86.3610,
+    radius: 1500,
+    short: "The academy is the war story here. Cadets trained on this shore for more than a century.",
+    long: "",
+    names: ["Culver Academies"]
+  },
+  {
+    id: "culver-legend",
+    name: "The lake school",
+    lat: 41.2170,
+    lng: -86.3731,
+    radius: 1100,
+    short: "The local legend is that Culver is only the academy. It started as a lake village that later taught soldiers.",
+    long: "",
+    names: ["Culver"]
+  },
+
+  {
+    id: "culver-downtown",
+    name: "Culver downtown",
+    lat: 41.2170,
+    lng: -86.3731,
+    radius: 900,
+    short: "Main Street brick. A lake town that kept a walkable center after the academy took the east shore.",
+    long: "",
+    names: ["Culver"]
+  },
+  {
+    id: "culver-17",
+    name: "SR 17 Culver",
+    lat: 41.2170,
+    lng: -86.3731,
+    radius: 1800,
+    short: "State Road 17 is the later spine. Plymouth to the lake traffic that can miss Main if it stays on the bypass.",
+    long: "",
+    names: ["Culver"]
+  },
+  {
+    id: "culver-beach",
+    name: "Culver town beach",
+    lat: 41.2130,
+    lng: -86.3850,
+    radius: 900,
+    short: "The town beach is public ground on Maxinkuckee. A lake town that still shares the shore.",
+    long: "",
+    names: ["Culver"]
+  },
+  {
+    id: "culver-legend-horses",
+    name: "The black horse troop",
+    lat: 41.2170,
+    lng: -86.3610,
+    radius: 1100,
+    short: "The local legend is the Black Horse Troop. Culver horses on parade is the picture this town still sends out.",
+    long: "",
+    names: ["Culver Academies", "Black Horse Troop"]
+  },
+  {
+    id: "approach-plymouth-in",
+    name: "Plymouth",
+    lat: 41.3436,
+    lng: -86.3097,
+    radius: 7000,
+    layer: "approach",
+    short: "You are coming up on Plymouth. Marshall County seat on the Yellow River. If you drop in, I'll start at the courthouse.",
+    long: "",
+    names: ["Plymouth", "Yellow River"]
+  },
+  {
+    id: "plymouth-founding",
+    name: "Plymouth founding",
+    lat: 41.3436,
+    lng: -86.3097,
+    radius: 1600,
+    short: "Laid out as the county seat. Named Plymouth. Yellow River first. Then the courthouse and the rails.",
+    long: "",
+    names: ["Plymouth"]
+  },
+  {
+    id: "plymouth-yellow-river",
+    name: "Yellow River",
+    lat: 41.3436,
+    lng: -86.3097,
+    radius: 1800,
+    short: "The Yellow River is why Plymouth sits here. A mill stream that later became a county-seat river.",
+    long: "",
+    names: ["Yellow River"]
+  },
+  {
+    id: "plymouth-courthouse",
+    name: "Marshall County Courthouse",
+    lat: 41.3436,
+    lng: -86.3097,
+    radius: 800,
+    short: "The courthouse square is the civic center. A county-seat town that still points at the dome.",
+    long: "",
+    names: ["Marshall County Courthouse"]
+  },
+  {
+    id: "plymouth-rail",
+    name: "Plymouth railroad",
+    lat: 41.3436,
+    lng: -86.3097,
+    radius: 1700,
+    short: "The railroad took the grain off Marshall County. A depot city that later sat on US 30 and 31.",
+    long: "",
+    names: ["Plymouth"]
+  },
+  {
+    id: "plymouth-30-31",
+    name: "US 30 and 31 Plymouth",
+    lat: 41.3436,
+    lng: -86.3097,
+    radius: 2500,
+    short: "US 30 and US 31 are the later spines. Chicago to Fort Wayne traffic that can miss the square if it stays on the four-lane.",
+    long: "",
+    names: ["Plymouth"]
+  },
+  {
+    id: "plymouth-parks",
+    name: "Plymouth parks",
+    lat: 41.3436,
+    lng: -86.3097,
+    radius: 1600,
+    short: "River parks and school ground. Public ground a county seat kept after the mills quieted.",
+    long: "",
+    names: ["Plymouth"]
+  },
+  {
+    id: "plymouth-people",
+    name: "Plymouth people",
+    lat: 41.3436,
+    lng: -86.3097,
+    radius: 1500,
+    short: "Farm families first. Then the courthouse. Then the later highway shops.",
+    long: "",
+    names: ["Plymouth"]
+  },
+  {
+    id: "plymouth-native",
+    name: "Plymouth Native ground",
+    lat: 41.3436,
+    lng: -86.3097,
+    radius: 2000,
+    short: "Potawatomi ground on the Yellow River. Removal roads later ran through this county.",
+    long: "",
+    names: ["Potawatomi"]
+  },
+  {
+    id: "plymouth-war",
+    name: "Plymouth war",
+    lat: 41.3436,
+    lng: -86.3097,
+    radius: 1700,
+    short: "No fort on the square. Men left from these blocks. The later story is the highways.",
+    long: "",
+    names: ["Plymouth"]
+  },
+  {
+    id: "plymouth-legend",
+    name: "The river seat",
+    lat: 41.3436,
+    lng: -86.3097,
+    radius: 1200,
+    short: "The local legend is that Plymouth is only an exit. It started as a river county seat.",
+    long: "",
+    names: ["Plymouth"]
+  },
+
+  {
+    id: "plymouth-downtown",
+    name: "Plymouth downtown",
+    lat: 41.3436,
+    lng: -86.3097,
+    radius: 1000,
+    short: "Michigan Street brick around the square. A county seat that kept a walkable center after 30 and 31 moved traffic.",
+    long: "",
+    names: ["Plymouth"]
+  },
+  {
+    id: "plymouth-industry",
+    name: "Plymouth industry",
+    lat: 41.3436,
+    lng: -86.3097,
+    radius: 1800,
+    short: "Mills first. Then shops and later plants. A river town that learned to live on the highway.",
+    long: "",
+    names: ["Plymouth"]
+  },
+  {
+    id: "plymouth-trail-of-death",
+    name: "Trail of Death corridor",
+    lat: 41.3436,
+    lng: -86.3097,
+    radius: 2200,
+    short: "The 1838 Potawatomi removal road crossed this county. Plymouth sits on a forced-march corridor, not only a courthouse square.",
+    long: "",
+    names: ["Trail of Death", "Potawatomi"]
+  },
+  {
+    id: "plymouth-legend-square",
+    name: "The square that stayed",
+    lat: 41.3436,
+    lng: -86.3097,
+    radius: 1100,
+    short: "The local legend is that Plymouth emptied when the bypasses opened. The square is still the civic center.",
+    long: "",
+    names: ["Plymouth"]
+  },
+
+  {
+    id: "approach-argos-in",
+    name: "Argos",
+    lat: 41.2378,
+    lng: -86.2461,
+    radius: 3800,
+    layer: "approach",
+    short: "You are coming up on Argos. Marshall County town south of Plymouth. If you drop in, I'll start on Michigan.",
+    long: "",
+    names: ["Argos"]
+  },
+  {
+    id: "argos-founding",
+    name: "Argos founding",
+    lat: 41.2378,
+    lng: -86.2461,
+    radius: 1100,
+    short: "Laid out as a farm village. Named Argos. A store-and-rail town south of the county seat.",
+    long: "",
+    names: ["Argos"]
+  },
+  {
+    id: "argos-rail",
+    name: "Argos railroad",
+    lat: 41.2378,
+    lng: -86.2461,
+    radius: 1300,
+    short: "The railroad took the grain off south Marshall County. A depot village.",
+    long: "",
+    names: ["Argos"]
+  },
+  {
+    id: "argos-31",
+    name: "US 31 Argos",
+    lat: 41.2378,
+    lng: -86.2461,
+    radius: 1800,
+    short: "US 31 is the later spine. Plymouth to Rochester traffic that can miss Michigan if it stays on the four-lane.",
+    long: "",
+    names: ["Argos"]
+  },
+  {
+    id: "argos-parks",
+    name: "Argos parks",
+    lat: 41.2378,
+    lng: -86.2461,
+    radius: 1100,
+    short: "School and park ground a highway village kept after the trains thinned.",
+    long: "",
+    names: ["Argos"]
+  },
+  {
+    id: "argos-people",
+    name: "Argos people",
+    lat: 41.2378,
+    lng: -86.2461,
+    radius: 1000,
+    short: "Farm families first. Then rail. Then the later 31 commute.",
+    long: "",
+    names: ["Argos"]
+  },
+  {
+    id: "argos-native",
+    name: "Argos Native ground",
+    lat: 41.2378,
+    lng: -86.2461,
+    radius: 1600,
+    short: "Potawatomi prairie south of Plymouth. Hunting ground before the plat.",
+    long: "",
+    names: ["Potawatomi"]
+  },
+  {
+    id: "argos-war",
+    name: "Argos war",
+    lat: 41.2378,
+    lng: -86.2461,
+    radius: 1200,
+    short: "No fort on Michigan. Men left from these farms. The later story is 31.",
+    long: "",
+    names: ["Argos"]
+  },
+  {
+    id: "argos-legend",
+    name: "The Greek name",
+    lat: 41.2378,
+    lng: -86.2461,
+    radius: 900,
+    short: "The local legend is that Argos is only a 31 blink. It started as a named depot village.",
+    long: "",
+    names: ["Argos"]
+  },
+
+  {
+    id: "approach-rochester-in",
+    name: "Rochester",
+    lat: 41.0648,
+    lng: -86.2158,
+    radius: 6500,
+    layer: "approach",
+    short: "You are coming up on Rochester. Fulton County seat on Lake Manitou. If you drop in, I'll start at the courthouse.",
+    long: "",
+    names: ["Rochester", "Lake Manitou"]
+  },
+  {
+    id: "rochester-founding",
+    name: "Rochester founding",
+    lat: 41.0648,
+    lng: -86.2158,
+    radius: 1500,
+    short: "Laid out as the county seat. Named Rochester. Lake Manitou first. Then the courthouse and the rails.",
+    long: "",
+    names: ["Rochester"]
+  },
+  {
+    id: "rochester-manitou",
+    name: "Lake Manitou",
+    lat: 41.0600,
+    lng: -86.1950,
+    radius: 2200,
+    short: "Lake Manitou is why Rochester sits here. A glacial lake that became a county-seat shore.",
+    long: "",
+    names: ["Lake Manitou"]
+  },
+  {
+    id: "rochester-courthouse",
+    name: "Fulton County Courthouse",
+    lat: 41.0648,
+    lng: -86.2158,
+    radius: 800,
+    short: "The courthouse square is the civic center. A county-seat town that still points at the dome.",
+    long: "",
+    names: ["Fulton County Courthouse"]
+  },
+  {
+    id: "rochester-rail",
+    name: "Rochester railroad",
+    lat: 41.0648,
+    lng: -86.2158,
+    radius: 1600,
+    short: "The railroad took the grain off Fulton County. A depot city that later sat on US 31.",
+    long: "",
+    names: ["Rochester"]
+  },
+  {
+    id: "rochester-31",
+    name: "US 31 Rochester",
+    lat: 41.0648,
+    lng: -86.2158,
+    radius: 2400,
+    short: "US 31 is the later spine. Plymouth to Peru traffic that can miss the square if it stays on the four-lane.",
+    long: "",
+    names: ["Rochester"]
+  },
+  {
+    id: "rochester-parks",
+    name: "Rochester parks",
+    lat: 41.0648,
+    lng: -86.2158,
+    radius: 1500,
+    short: "Lake parks and school ground. Public shore a county seat kept after the mills quieted.",
+    long: "",
+    names: ["Rochester"]
+  },
+  {
+    id: "rochester-people",
+    name: "Rochester people",
+    lat: 41.0648,
+    lng: -86.2158,
+    radius: 1400,
+    short: "Farm families first. Then the courthouse. Then the later lake houses.",
+    long: "",
+    names: ["Rochester"]
+  },
+  {
+    id: "rochester-native",
+    name: "Rochester Native ground",
+    lat: 41.0648,
+    lng: -86.2158,
+    radius: 2000,
+    short: "Potawatomi ground on Manitou. Removal roads later ran through this county.",
+    long: "",
+    names: ["Potawatomi", "Lake Manitou"]
+  },
+  {
+    id: "rochester-war",
+    name: "Rochester war",
+    lat: 41.0648,
+    lng: -86.2158,
+    radius: 1600,
+    short: "No fort on the square. Men left from these blocks. The later story is 31.",
+    long: "",
+    names: ["Rochester"]
+  },
+  {
+    id: "rochester-legend",
+    name: "The Manitou monster",
+    lat: 41.0600,
+    lng: -86.1950,
+    radius: 1500,
+    short: "The local legend is a creature in Lake Manitou. A lake town that still tells a water story.",
+    long: "",
+    names: ["Lake Manitou"]
+  },
+
+  {
+    id: "rochester-downtown",
+    name: "Rochester downtown",
+    lat: 41.0648,
+    lng: -86.2158,
+    radius: 1000,
+    short: "Main Street brick around the square. A county seat that kept a walkable center after 31 moved traffic.",
+    long: "",
+    names: ["Rochester"]
+  },
+  {
+    id: "rochester-trail-of-death",
+    name: "Trail of Death Rochester",
+    lat: 41.0648,
+    lng: -86.2158,
+    radius: 2200,
+    short: "The 1838 Potawatomi removal road crossed Fulton County. Rochester sits on a forced-march corridor, not only a lake square.",
+    long: "",
+    names: ["Trail of Death", "Potawatomi"]
+  },
+  {
+    id: "rochester-industry",
+    name: "Rochester industry",
+    lat: 41.0648,
+    lng: -86.2158,
+    radius: 1700,
+    short: "Mills first. Then shops and later plants. A lake town that learned to live on the highway.",
+    long: "",
+    names: ["Rochester"]
+  },
+  {
+    id: "rochester-legend-seat",
+    name: "The lake seat",
+    lat: 41.0648,
+    lng: -86.2158,
+    radius: 1100,
+    short: "The local legend is that Rochester is only an exit. It started as a lake county seat.",
+    long: "",
+    names: ["Rochester"]
+  },
+
+  {
+    id: "approach-warsaw-in",
+    name: "Warsaw",
+    lat: 41.2381,
+    lng: -85.8530,
+    radius: 7500,
+    layer: "approach",
+    short: "You are coming up on Warsaw. Kosciusko County seat. Lakes and orthopedic shops. If you drop in, I'll start at the courthouse.",
+    long: "",
+    names: ["Warsaw"]
+  },
+  {
+    id: "warsaw-founding",
+    name: "Warsaw founding",
+    lat: 41.2381,
+    lng: -85.8530,
+    radius: 1600,
+    short: "Laid out as the county seat. Named Warsaw. Lakes first. Then the courthouse and the rails.",
+    long: "",
+    names: ["Warsaw"]
+  },
+  {
+    id: "warsaw-courthouse",
+    name: "Kosciusko County Courthouse",
+    lat: 41.2381,
+    lng: -85.8530,
+    radius: 800,
+    short: "The courthouse square is the civic center. A county-seat town that still points at the dome.",
+    long: "",
+    names: ["Kosciusko County Courthouse"]
+  },
+  {
+    id: "warsaw-lakes",
+    name: "Warsaw lakes",
+    lat: 41.2381,
+    lng: -85.8530,
+    radius: 2000,
+    short: "Center Lake and the chain around town are why Warsaw sits here. A glacial lake county that became a shop city.",
+    long: "",
+    names: ["Center Lake"]
+  },
+  {
+    id: "warsaw-rail",
+    name: "Warsaw railroad",
+    lat: 41.2381,
+    lng: -85.8530,
+    radius: 1700,
+    short: "The railroad took the grain off Kosciusko County. A depot city that later built implants.",
+    long: "",
+    names: ["Warsaw"]
+  },
+  {
+    id: "warsaw-30",
+    name: "US 30 Warsaw",
+    lat: 41.2381,
+    lng: -85.8530,
+    radius: 2500,
+    short: "US 30 is the later spine. Fort Wayne to Chicago traffic that can miss the square if it stays on the four-lane.",
+    long: "",
+    names: ["Warsaw"]
+  },
+  {
+    id: "warsaw-ortho",
+    name: "Warsaw orthopedic industry",
+    lat: 41.2381,
+    lng: -85.8530,
+    radius: 1800,
+    short: "Warsaw became the orthopedic capital of the country. Hip and knee shops on a lake county seat.",
+    long: "",
+    names: ["Warsaw"]
+  },
+  {
+    id: "warsaw-parks",
+    name: "Warsaw parks",
+    lat: 41.2381,
+    lng: -85.8530,
+    radius: 1600,
+    short: "Lake parks and school ground. Public shore a county seat kept after the mills quieted.",
+    long: "",
+    names: ["Warsaw"]
+  },
+  {
+    id: "warsaw-people",
+    name: "Warsaw people",
+    lat: 41.2381,
+    lng: -85.8530,
+    radius: 1500,
+    short: "Farm families first. Then the courthouse. Then the later implant shops.",
+    long: "",
+    names: ["Warsaw"]
+  },
+  {
+    id: "warsaw-native",
+    name: "Warsaw Native ground",
+    lat: 41.2381,
+    lng: -85.8530,
+    radius: 2000,
+    short: "Potawatomi lake country. Hunting and village ground before the Polish name on the plat.",
+    long: "",
+    names: ["Potawatomi"]
+  },
+  {
+    id: "warsaw-war",
+    name: "Warsaw war",
+    lat: 41.2381,
+    lng: -85.8530,
+    radius: 1700,
+    short: "No fort on the square. Men left from these blocks. The later story is 30 and the shops.",
+    long: "",
+    names: ["Warsaw"]
+  },
+  {
+    id: "warsaw-legend",
+    name: "The implant city",
+    lat: 41.2381,
+    lng: -85.8530,
+    radius: 1200,
+    short: "The local legend is that Warsaw is only US 30. It started as a lake county seat that later built joints.",
+    long: "",
+    names: ["Warsaw"]
+  },
+
+  {
+    id: "warsaw-downtown",
+    name: "Warsaw downtown",
+    lat: 41.2381,
+    lng: -85.8530,
+    radius: 1000,
+    short: "Center Street brick around the square. A county seat that kept a walkable center after 30 moved traffic.",
+    long: "",
+    names: ["Warsaw"]
+  },
+  {
+    id: "winona-lake",
+    name: "Winona Lake",
+    lat: 41.2278,
+    lng: -85.8211,
+    radius: 1600,
+    short: "Winona Lake is the east-shore village. A Chautauqua and Bible-conference town next to Warsaw.",
+    long: "",
+    names: ["Winona Lake"]
+  },
+  {
+    id: "winona-billy-sunday",
+    name: "Billy Sunday home",
+    lat: 41.2278,
+    lng: -85.8211,
+    radius: 900,
+    short: "Evangelist Billy Sunday lived on Winona Lake. A preacher town on the Warsaw shore.",
+    long: "",
+    names: ["Billy Sunday", "Winona Lake"]
+  },
+  {
+    id: "warsaw-legend-lakes",
+    name: "The lake county",
+    lat: 41.2381,
+    lng: -85.8530,
+    radius: 1400,
+    short: "The local legend is that Warsaw is only plants. It still sits on a chain of glacial lakes.",
+    long: "",
+    names: ["Warsaw"]
+  },
+
+  {
+    id: "approach-syracuse-in",
+    name: "Syracuse",
+    lat: 41.4278,
+    lng: -85.7525,
+    radius: 5500,
+    layer: "approach",
+    short: "You are coming up on Syracuse. Lake Wawasee. Largest natural lake in Indiana. If you drop in, I'll start on Main.",
+    long: "",
+    names: ["Syracuse", "Lake Wawasee"]
+  },
+  {
+    id: "syracuse-founding",
+    name: "Syracuse founding",
+    lat: 41.4278,
+    lng: -85.7525,
+    radius: 1400,
+    short: "Laid out as a lake village. Named Syracuse. Wawasee first. Then the shops and the rails.",
+    long: "",
+    names: ["Syracuse"]
+  },
+  {
+    id: "syracuse-wawasee",
+    name: "Lake Wawasee",
+    lat: 41.4000,
+    lng: -85.7000,
+    radius: 3000,
+    short: "Lake Wawasee is why Syracuse exists. Indiana's largest natural lake. A glacial basin that became a resort shore.",
+    long: "",
+    names: ["Lake Wawasee"]
+  },
+  {
+    id: "syracuse-rail",
+    name: "Syracuse railroad",
+    lat: 41.4278,
+    lng: -85.7525,
+    radius: 1500,
+    short: "The railroad brought summer people to the lake. A depot town that later lived on the resort calendar.",
+    long: "",
+    names: ["Syracuse"]
+  },
+  {
+    id: "syracuse-6",
+    name: "US 6 Syracuse",
+    lat: 41.4278,
+    lng: -85.7525,
+    radius: 2000,
+    short: "US 6 is the later spine. Ligonier to Nappanee traffic that can miss the lake if it stays on the highway.",
+    long: "",
+    names: ["Syracuse"]
+  },
+  {
+    id: "syracuse-parks",
+    name: "Syracuse parks",
+    lat: 41.4278,
+    lng: -85.7525,
+    radius: 1400,
+    short: "Town beach and park ground. Public shore a lake town kept after the trains thinned.",
+    long: "",
+    names: ["Syracuse"]
+  },
+  {
+    id: "syracuse-people",
+    name: "Syracuse people",
+    lat: 41.4278,
+    lng: -85.7525,
+    radius: 1300,
+    short: "Farm families first. Then the lake houses. Then the later 6 shops.",
+    long: "",
+    names: ["Syracuse"]
+  },
+  {
+    id: "syracuse-native",
+    name: "Wawasee Native ground",
+    lat: 41.4000,
+    lng: -85.7000,
+    radius: 2800,
+    short: "Potawatomi lake country. The Wawasee name is older than the Syracuse plat.",
+    long: "",
+    names: ["Potawatomi", "Lake Wawasee"]
+  },
+  {
+    id: "syracuse-war",
+    name: "Syracuse war",
+    lat: 41.4278,
+    lng: -85.7525,
+    radius: 1500,
+    short: "No fort on Main. Men left from these farms. The later story is the lake and 6.",
+    long: "",
+    names: ["Syracuse"]
+  },
+  {
+    id: "syracuse-legend",
+    name: "The biggest lake",
+    lat: 41.4278,
+    lng: -85.7525,
+    radius: 1200,
+    short: "The local legend is that Syracuse is only cottages. It sits on the biggest natural lake in the state.",
+    long: "",
+    names: ["Syracuse", "Lake Wawasee"]
+  },
+
+  {
+    id: "syracuse-downtown",
+    name: "Syracuse downtown",
+    lat: 41.4278,
+    lng: -85.7525,
+    radius: 900,
+    short: "Main Street brick. A lake town that kept a walkable center after 6 moved traffic.",
+    long: "",
+    names: ["Syracuse"]
+  },
+  {
+    id: "syracuse-beach",
+    name: "Syracuse town beach",
+    lat: 41.4278,
+    lng: -85.7450,
+    radius: 900,
+    short: "The town beach is public ground on Wawasee. A lake town that still shares the shore.",
+    long: "",
+    names: ["Syracuse"]
+  },
+  {
+    id: "syracuse-legend-ice",
+    name: "The winter lake",
+    lat: 41.4000,
+    lng: -85.7000,
+    radius: 2000,
+    short: "The local legend is that Wawasee only lives in July. Ice and winter traffic are as old as the cottages.",
+    long: "",
+    names: ["Lake Wawasee"]
+  },
+
+  {
+    id: "approach-north-webster",
+    name: "North Webster",
+    lat: 41.3256,
+    lng: -85.6975,
+    radius: 4000,
+    layer: "approach",
+    short: "You are coming up on North Webster. Webster Lake and the Dixie. If you drop in, I'll start on Main.",
+    long: "",
+    names: ["North Webster", "Webster Lake"]
+  },
+  {
+    id: "north-webster-founding",
+    name: "North Webster founding",
+    lat: 41.3256,
+    lng: -85.6975,
+    radius: 1100,
+    short: "Laid out as a lake village. Named North Webster. Webster Lake first. Then the shops.",
+    long: "",
+    names: ["North Webster"]
+  },
+  {
+    id: "webster-lake",
+    name: "Webster Lake",
+    lat: 41.3256,
+    lng: -85.6900,
+    radius: 1800,
+    short: "Webster Lake is why the village exists. A glacial lake that became a resort shore.",
+    long: "",
+    names: ["Webster Lake"]
+  },
+  {
+    id: "north-webster-dixie",
+    name: "The Dixie",
+    lat: 41.3256,
+    lng: -85.6975,
+    radius: 900,
+    short: "The Dixie is the sternwheeler on Webster Lake. A local boat that became the town picture.",
+    long: "",
+    names: ["Dixie", "North Webster"]
+  },
+  {
+    id: "north-webster-rail",
+    name: "North Webster railroad",
+    lat: 41.3256,
+    lng: -85.6975,
+    radius: 1300,
+    short: "The railroad brought summer people. A depot village that later lived on the lake calendar.",
+    long: "",
+    names: ["North Webster"]
+  },
+  {
+    id: "north-webster-parks",
+    name: "North Webster parks",
+    lat: 41.3256,
+    lng: -85.6975,
+    radius: 1100,
+    short: "Town beach and park ground. Public shore a lake village kept after the trains thinned.",
+    long: "",
+    names: ["North Webster"]
+  },
+  {
+    id: "north-webster-people",
+    name: "North Webster people",
+    lat: 41.3256,
+    lng: -85.6975,
+    radius: 1000,
+    short: "Farm families first. Then the lake houses. Then the later Main shops.",
+    long: "",
+    names: ["North Webster"]
+  },
+  {
+    id: "north-webster-native",
+    name: "Webster Lake Native ground",
+    lat: 41.3256,
+    lng: -85.6900,
+    radius: 1800,
+    short: "Potawatomi lake country. Hunting ground before the Webster plat.",
+    long: "",
+    names: ["Potawatomi"]
+  },
+  {
+    id: "north-webster-war",
+    name: "North Webster war",
+    lat: 41.3256,
+    lng: -85.6975,
+    radius: 1200,
+    short: "No fort on Main. Men left from these farms. The later story is the lake.",
+    long: "",
+    names: ["North Webster"]
+  },
+  {
+    id: "north-webster-legend",
+    name: "The Dixie town",
+    lat: 41.3256,
+    lng: -85.6975,
+    radius: 900,
+    short: "The local legend is that North Webster is only a boat ride. It started as a lake village that kept the Dixie running.",
+    long: "",
+    names: ["North Webster", "Dixie"]
+  },
+
+  {
+    id: "approach-ligonier-in",
+    name: "Ligonier",
+    lat: 41.4659,
+    lng: -85.5875,
+    radius: 5000,
+    layer: "approach",
+    short: "You are coming up on Ligonier. Noble County town on the Elkhart River. If you drop in, I'll start on Cavin.",
+    long: "",
+    names: ["Ligonier"]
+  },
+  {
+    id: "ligonier-founding",
+    name: "Ligonier founding",
+    lat: 41.4659,
+    lng: -85.5875,
+    radius: 1300,
+    short: "Laid out as a mill village. Named Ligonier. Elkhart River first. Then the rails and the later shops.",
+    long: "",
+    names: ["Ligonier"]
+  },
+  {
+    id: "ligonier-elkhart-river",
+    name: "Elkhart River Ligonier",
+    lat: 41.4659,
+    lng: -85.5875,
+    radius: 1600,
+    short: "The Elkhart River is why Ligonier sits here. A mill stream that later became a Main Street town.",
+    long: "",
+    names: ["Elkhart River"]
+  },
+  {
+    id: "ligonier-rail",
+    name: "Ligonier railroad",
+    lat: 41.4659,
+    lng: -85.5875,
+    radius: 1500,
+    short: "The railroad took the grain off western Noble County. A depot town that later sat on US 6 and 33.",
+    long: "",
+    names: ["Ligonier"]
+  },
+  {
+    id: "ligonier-6-33",
+    name: "US 6 and 33 Ligonier",
+    lat: 41.4659,
+    lng: -85.5875,
+    radius: 2000,
+    short: "US 6 and 33 are the later spines. Goshen to Fort Wayne traffic that can miss Cavin if it stays on the four-lane.",
+    long: "",
+    names: ["Ligonier"]
+  },
+  {
+    id: "ligonier-jewish",
+    name: "Ligonier synagogue",
+    lat: 41.4659,
+    lng: -85.5875,
+    radius: 900,
+    short: "Ligonier kept a historic synagogue. A small-town Jewish community that left a stone building on the plat.",
+    long: "",
+    names: ["Ahavath Sholom", "Ligonier"]
+  },
+  {
+    id: "ligonier-parks",
+    name: "Ligonier parks",
+    lat: 41.4659,
+    lng: -85.5875,
+    radius: 1300,
+    short: "River parks and school ground. Public ground a mill town kept after the trains thinned.",
+    long: "",
+    names: ["Ligonier"]
+  },
+  {
+    id: "ligonier-people",
+    name: "Ligonier people",
+    lat: 41.4659,
+    lng: -85.5875,
+    radius: 1200,
+    short: "Farm families first. Then the synagogue and shops. Then the later 6 commute.",
+    long: "",
+    names: ["Ligonier"]
+  },
+  {
+    id: "ligonier-native",
+    name: "Ligonier Native ground",
+    lat: 41.4659,
+    lng: -85.5875,
+    radius: 1800,
+    short: "Potawatomi ground on the Elkhart. Hunting and village ground before the mill plat.",
+    long: "",
+    names: ["Potawatomi"]
+  },
+  {
+    id: "ligonier-war",
+    name: "Ligonier war",
+    lat: 41.4659,
+    lng: -85.5875,
+    radius: 1400,
+    short: "No fort on Cavin. Men left from these blocks. The later story is 6 and 33.",
+    long: "",
+    names: ["Ligonier"]
+  },
+  {
+    id: "ligonier-legend",
+    name: "Little Jerusalem",
+    lat: 41.4659,
+    lng: -85.5875,
+    radius: 1100,
+    short: "The local legend is Little Jerusalem. A Noble County town that still tells a synagogue story.",
+    long: "",
+    names: ["Ligonier"]
+  },
+
+  {
+    id: "ligonier-downtown",
+    name: "Ligonier downtown",
+    lat: 41.4659,
+    lng: -85.5875,
+    radius: 900,
+    short: "Cavin Street brick. A mill town that kept a walkable center after 6 and 33 moved traffic.",
+    long: "",
+    names: ["Ligonier"]
+  },
+  {
+    id: "ligonier-historic-district",
+    name: "Ligonier historic district",
+    lat: 41.4659,
+    lng: -85.5875,
+    radius: 1000,
+    short: "Victorian blocks around the square. A small town that kept its storefronts after the highways opened.",
+    long: "",
+    names: ["Ligonier"]
+  },
+  {
+    id: "ligonier-legend-highway",
+    name: "The two-highway town",
+    lat: 41.4659,
+    lng: -85.5875,
+    radius: 1400,
+    short: "The local legend is that Ligonier is only an intersection. It started as a river mill village.",
+    long: "",
+    names: ["Ligonier"]
+  },
+
+
+
+
+
   ];
 

@@ -35442,6 +35442,87 @@ const STORIES = [
     long: "",
     names: ["Mark Center"]
   },
-
+  {
+    id: "approach-cecil",
+    name: "Cecil",
+    lat: 41.2192,
+    lng: -84.6017,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Cecil, Ohio. The post office opened in 1866 as Crane and took a railroad man's name in 1868. The Wabash already ran here. In 1880 a second line was built south to Paulding. If you drop into town, I'll start at the crossing.",
+    long: "",
+    names: ["Cecil"]
+  },
+  {
+    id: "cecil-name",
+    name: "From Crane to Cecil",
+    lat: 41.2192,
+    lng: -84.6017,
+    radius: 300,
+    short: "A post office called Crane opened here on December 31, 1866. On June 8, 1868, the name became Cecil. The village was named for a railroad official. Crane Township kept the old name. The town did not.",
+    long: "",
+    names: ["Cecil", "Crane"]
+  },
+  {
+    id: "cecil-wabash",
+    name: "Wabash Railroad",
+    lat: 41.2192,
+    lng: -84.6017,
+    radius: 400,
+    short: "The Wabash ran east and west through Cecil, on the line between New Haven and Toledo. That track is why a town grew in the Black Swamp. Emerald, to the west, lived off the same railroad until Cecil took its traffic.",
+    long: "",
+    names: ["Wabash Railroad", "Emerald"]
+  },
+  {
+    id: "cecil-paulding-line",
+    name: "Paulding and Cecil",
+    lat: 41.2100,
+    lng: -84.6017,
+    radius: 700,
+    short: "The first track south of Cecil was strap iron, built to haul wood to the Paulding Furnace kilns. The furnace was opened in 1865 by Evans, Rodgers and Company, on the north bank of the Wabash and Erie Canal. In 1879 John Evans and the people of Paulding and Cecil built a real railroad from the Wabash down to Paulding. The first train reached Paulding on September 1, 1880. S. Frank Eagle was president of the Paulding and Cecil Railway. In 1884 the line was sold to the Cincinnati, Van Wert and Michigan.",
+    long: "",
+    names: ["John Evans", "S. Frank Eagle", "Paulding Furnace", "Wabash and Erie Canal", "Paulding and Cecil Railway"]
+  },
+  {
+    id: "cecil-church",
+    name: "Immaculate Conception",
+    lat: 41.2192,
+    lng: -84.6017,
+    radius: 220,
+    short: "Immaculate Conception Catholic Church has kept Cecil's baptisms, marriages, and burials since 1881. Earlier entries, from 1874, were written into the book at St. Mary in Antwerp. The church and its cemetery are the old public ground. The village never built a square.",
+    long: "",
+    names: ["Immaculate Conception Catholic Church", "St. Mary Catholic Church"]
+  },
+  {
+    id: "cecil-emerald",
+    name: "The town that lost the telegraph",
+    lat: 41.2192,
+    lng: -84.6200,
+    radius: 500,
+    short: "Emerald, also called Emmett, sat west of here on the Wabash. When the Paulding and Cecil line opened in 1880, the telegraph and the express office moved to Cecil. The hack line into Paulding stopped. By 1892 Emerald had one grocery and a post office. That office closed in 1905. Rural mail then came out of Cecil.",
+    long: "",
+    names: ["Emerald", "Emmett", "Cecil"]
+  },
+  {
+    id: "cecil-swamp",
+    name: "Black Swamp",
+    lat: 41.2192,
+    lng: -84.6017,
+    radius: 500,
+    short: "The old histories do not name a native village on this crossing. Cecil sits in the Great Black Swamp, drained for farms after the canal and the Wabash. The named ground is the railroad's.",
+    long: "",
+    names: ["Great Black Swamp", "Wabash Railroad"]
+  },
+  {
+    id: "cecil-war",
+    name: "No battlefield",
+    lat: 41.2192,
+    lng: -84.6017,
+    radius: 300,
+    short: "No battle was fought at Cecil, and the records do not name a soldiers' monument in the village. The war story here is the men who left the swamp farms after the trains came.",
+    long: "",
+    names: ["Cecil"]
+  },
+  
   ];
 

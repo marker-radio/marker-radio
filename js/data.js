@@ -35168,7 +35168,99 @@ const STORIES = [
     short: "West of Hicksville the St. Joseph of the Maumee runs toward Fort Wayne. Miami and later settlers used this water when the Black Swamp still owned the roads. The town sits on the drain, not on a canal.",
     long: "",
     names: ["St. Joseph River", "Sixmile Creek", "Great Black Swamp"]
-  }
+  },
+  {
+    id: "approach-newville",
+    name: "Newville",
+    lat: 41.3486,
+    lng: -84.8450,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Newville, Indiana. Platted in 1837 on the St. Joseph River, before Hicksville had a depot. The railroad went to Hicksville instead. The post office closed in 1907. If you drop into the village, I'll start at the riverbank.",
+    long: "",
+    names: ["Newville"]
+  },
+  {
+    id: "newville-founding",
+    name: "Vienna plat",
+    lat: 41.3486,
+    lng: -84.8450,
+    radius: 400,
+    short: "Newville was platted in March 1837 as Vienna. George W. Weeks surveyed twenty-six and a half acres for Washington Robinson, on the northwest bank of the St. Joseph. Robinson was the first justice of the peace in DeKalb County. The first election in the county was held at his house.",
+    long: "",
+    names: ["Washington Robinson", "George W. Weeks", "Vienna"]
+  },
+  {
+    id: "newville-river",
+    name: "St. Joseph at Newville",
+    lat: 41.3510,
+    lng: -84.8480,
+    radius: 500,
+    short: "The village sits on the St. Joseph of the Maumee. That river was the road before the railroad. John Platter and Solomon De Long came through these woods in the summer of 1834, got lost, and camped at a prickly-ash swamp. They were the first settlers of the township.",
+    long: "",
+    names: ["St. Joseph River", "John Platter", "Solomon De Long"]
+  },
+  {
+    id: "newville-railroad",
+    name: "The railroad that missed",
+    lat: 41.3400,
+    lng: -84.8450,
+    radius: 800,
+    short: "The Baltimore and Ohio crossed Newville Township, but it did not come through the village. Hicksville got the depot. Newville kept the river and lost the trains. A post office opened here in 1839 and closed in 1907.",
+    long: "",
+    names: ["Baltimore and Ohio Railroad", "Newville post office"]
+  },
+  {
+    id: "newville-church",
+    name: "Newville Christian Church",
+    lat: 41.3475,
+    lng: -84.8420,
+    radius: 250,
+    short: "The Newville Christian Church was organized in the fall of 1851 by James Hadsell, in a schoolhouse across the river. Three of the first twenty-seven members were still living when the county history was written, including Sarah Coburn of Hicksville.",
+    long: "",
+    names: ["James Hadsell", "Newville Christian Church", "Sarah Coburn"]
+  },
+  {
+    id: "newville-burial",
+    name: "River burial ground",
+    lat: 41.3460,
+    lng: -84.8440,
+    radius: 250,
+    short: "The old burial ground for this bend of the river is the public memory of Newville. No courthouse square was ever built. The riverbank, the schoolhouse lot, and the cemetery were the places people gathered.",
+    long: "",
+    names: ["Newville Cemetery"]
+  },
+  {
+    id: "newville-mounds",
+    name: "Mound and earthwork",
+    lat: 41.3550,
+    lng: -84.8600,
+    radius: 600,
+    short: "The 1885 county history says a mound in this township was a sepulcher of the mound builders, and that rude earthworks nearby show an old fortification. The St. Joseph was the travel route. The village came much later.",
+    long: "",
+    names: ["mound builders", "St. Joseph River"]
+  },
+  {
+    id: "newville-war",
+    name: "No battlefield",
+    lat: 41.3486,
+    lng: -84.8450,
+    radius: 300,
+    short: "No battle was fought at Newville, and the old histories do not name a soldiers' monument in the village. The war story here is the men who left the river farms. The earthwork in the township is older than the Civil War.",
+    long: "",
+    names: ["Newville"]
+  },
+  {
+    id: "newville-legend",
+    name: "The town the railroad skipped",
+    lat: 41.3486,
+    lng: -84.8450,
+    radius: 400,
+    short: "The story Newville still tells is that it was platted first, on the water, and Hicksville got the railroad. A. P. Edgerton steered the Baltimore and Ohio through Hicksville. Newville stayed a river village. The post office died in 1907.",
+    long: "",
+    names: ["Newville", "A. P. Edgerton", "Hicksville"]
+  },
+
 
 
   ];

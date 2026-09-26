@@ -35119,6 +35119,57 @@ const STORIES = [
     long: "",
     names: ["St. Joseph River", "Sixmile Creek", "Great Black Swamp"]
   },
+ {
+    id: "hicksville-fairgrounds",
+    name: "Defiance County Fair",
+    lat: 41.2889,
+    lng: -84.7540,
+    radius: 400,
+    short: "Hicksville hosted the first Defiance County Fair in 1878. A.P. Edgerton later gave land for the grounds. A farm town that drained the swamp also kept a week each year for stock, pie, and the midway.",
+    long: "",
+    names: ["Defiance County Fair", "A.P. Edgerton"]
+  },
+  {
+    id: "hicksville-forest-home",
+    name: "Forest Home Cemetery",
+    lat: 41.3028,
+    lng: -84.7619,
+    radius: 250,
+    short: "Forest Home holds the Grand Army of the Republic statue. Town argued whether the Civil War stone should stand downtown or here. The cemetery won. Early graves from the old High Street ground were moved when the railroad cut the corner.",
+    long: "",
+    names: ["Forest Home Cemetery", "Grand Army of the Republic"]
+  },
+  {
+    id: "hicksville-hart-bands",
+    name: "Hart's Bands",
+    lat: 41.2950,
+    lng: -84.7610,
+    radius: 200,
+    short: "Jeweler O.V. Hart built a boy band that filled the Huber Opera House. When those boys left for the First World War, he built a girl band that traveled even farther. Hicksville heard itself on that stage before it heard a radio.",
+    long: "",
+    names: ["O.V. Hart", "Hart's Bands", "Huber Opera House"]
+  },
+  {
+    id: "hicksville-curly-fry",
+    name: "Curly Fry Machine",
+    lat: 41.2934,
+    lng: -84.7600,
+    radius: 220,
+    short: "Locals still tell it this way. A Hicksville shop built a machine that cut a potato into a curl. Handle factories were the real payroll. The curly-fry story is the one people repeat.",
+    long: "",
+    names: ["curly fry machine", "Hicksville"]
+  },
+  {
+    id: "hicksville-st-joseph-river",
+    name: "St. Joseph River",
+    lat: 41.2965,
+    lng: -84.7900,
+    radius: 700,
+    short: "West of Hicksville the St. Joseph of the Maumee runs toward Fort Wayne. Miami and later settlers used this water when the Black Swamp still owned the roads. The town sits on the drain, not on a canal.",
+    long: "",
+    names: ["St. Joseph River", "Sixmile Creek", "Great Black Swamp"]
+  }
+
 
   ];
 

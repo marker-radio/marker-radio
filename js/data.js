@@ -35523,6 +35523,97 @@ const STORIES = [
     long: "",
     names: ["Cecil"]
   },
-  
+    {
+    id: "approach-scipio",
+    name: "Scipio",
+    lat: 41.2506,
+    lng: -84.8380,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Scipio, Indiana, on the ridge road between Fort Wayne and Hicksville. The township was cut out of Springfield in 1843. There was never a depot here. The church and the cemetery are the town. If you pass the Methodist church, I'll start there.",
+    long: "",
+    names: ["Scipio"]
+  },
+  {
+    id: "scipio-ridge",
+    name: "Ridge Road",
+    lat: 41.2506,
+    lng: -84.8380,
+    radius: 700,
+    short: "The first road through Scipio was surveyed in 1839, from Fort Wayne to Hicksville, and called the Ridge Road. It is State Road 37 now. Scipio Township was set off from Springfield in 1843. It is the smallest township in Allen County. No railroad was built through it.",
+    long: "",
+    names: ["Ridge Road", "Scipio Township", "Springfield Township"]
+  },
+  {
+    id: "scipio-church",
+    name: "Scipio Methodist",
+    lat: 41.2506,
+    lng: -84.8380,
+    radius: 250,
+    short: "The first preaching here was in 1840, at the house of Jehial Parks. Benjamin Dorsey, a Methodist, led it. The church was organized that year as Scipio Methodist Episcopal. The first building was a log church at State Road 37 and Campbell Road. The church that stands at 23628 State Road 37 was built in 1898. South of here, on Antwerp Road, a United Brethren church was organized in 1881 and built in 1899.",
+    long: "",
+    names: ["Jehial Parks", "Benjamin Dorsey", "Scipio Methodist Episcopal Church", "North Scipio United Methodist Church"]
+  },
+  {
+    id: "scipio-cemetery",
+    name: "Scipio Cemetery",
+    lat: 41.2506,
+    lng: -84.8380,
+    radius: 200,
+    short: "The first death in the township was Laura Squier, in April 1840. She was buried on her father's farm. In 1842 Jehial Parks gave two acres for a cemetery. The first person buried in it was Mrs. Carvin, of DeKalb County. The ground is still used. It sits behind the Methodist church, on the south side of State Road 37. There was no square. This lot is the public ground.",
+    long: "",
+    names: ["Laura Squier", "Jehial Parks", "Scipio Cemetery"]
+  },
+  {
+    id: "scipio-school",
+    name: "Nancy Palmer's school",
+    lat: 41.2506,
+    lng: -84.8380,
+    radius: 300,
+    short: "Nancy Palmer taught the first school in 1841, in a log building. Parents paid by subscription. By 1880 the township had three free schools and about one hundred eighty scholars.",
+    long: "",
+    names: ["Nancy Palmer"]
+  },
+  {
+    id: "scipio-trades",
+    name: "Potash and the sawmill",
+    lat: 41.2506,
+    lng: -84.8500,
+    radius: 500,
+    short: "The first industry was potash, made by Letch and Company. Oliver Guston put a blacksmith forge on that same ground in 1849. The first sawmill was built in 1856 by More and Bolton, on the line between Scipio and Springfield.",
+    long: "",
+    names: ["Oliver Guston", "Letch and Company", "More and Bolton"]
+  },
+  {
+    id: "scipio-post-office",
+    name: "The post office that left",
+    lat: 41.2506,
+    lng: -84.8380,
+    radius: 300,
+    short: "A post office opened in 1862 at the house of John Murphy. He kept it about two years. Then it was moved to the house of John Shafer, over in Springfield Township. The old county history says Scipio has had no post office since.",
+    long: "",
+    names: ["John Murphy", "John Shafer"]
+  },
+  {
+    id: "scipio-native",
+    name: "No named village",
+    lat: 41.2506,
+    lng: -84.8380,
+    radius: 400,
+    short: "The township history does not name a native village on this ridge. The road was surveyed in 1839 because the ridge was the dry way from Fort Wayne to Hicksville. The named ground is the settlers'.",
+    long: "",
+    names: ["Ridge Road"]
+  },
+  {
+    id: "scipio-war",
+    name: "No battlefield",
+    lat: 41.2506,
+    lng: -84.8380,
+    radius: 300,
+    short: "No battle was fought at Scipio, and the township history does not name a soldiers' monument. The war story here is the men who left the ridge farms.",
+    long: "",
+    names: ["Scipio"]
+  },
+
   ];
 

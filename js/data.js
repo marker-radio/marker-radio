@@ -35351,7 +35351,7 @@ const STORIES = [
     long: "",
     names: ["Hoffman", "Lost Creek"]
   },
-{
+    {
     id: "approach-mark-center",
     name: "Mark Center",
     lat: 41.2889,
@@ -35425,8 +35425,23 @@ const STORIES = [
   {
     id: "mark-center-native",
     name: "No named village",
-    lat: 41
-
+    lat: 41.2889,
+    lng: -84.6311,
+    radius: 400,
+    short: "The 1883 county history does not name a native village on this crossroads. Mark Kenton came here to hunt and trap. The named ground is the settler's, not a trail.",
+    long: "",
+    names: ["Mark Kenton"]
+  },
+  {
+    id: "mark-center-war",
+    name: "No battlefield",
+    lat: 41.2889,
+    lng: -84.6311,
+    radius: 300,
+    short: "No battle was fought at Mark Center, and the county history does not name a soldiers' monument in the village. The war story here is the men who left the farms along the Baltimore and Ohio.",
+    long: "",
+    names: ["Mark Center"]
+  },
 
   ];
 

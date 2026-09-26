@@ -35705,7 +35705,97 @@ const STORIES = [
     long: "",
     names: ["Isaac R. Sherwood", "Johnson Miller"]
   },
-
+  {
+    id: "approach-junction",
+    name: "Junction",
+    lat: 41.1944,
+    lng: -84.4570,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Junction, Ohio. The Wabash and Erie Canal and the Miami and Erie Canal met here, then ran as one ditch north to Defiance and Lake Erie. For a few years people thought the town might outgrow Fort Wayne. The railroads ended that. If you reach the marker at County Road 111 and County Road 163, I'll start there.",
+    long: "",
+    names: ["Junction"]
+  },
+  {
+    id: "junction-meeting",
+    name: "Where the canals met",
+    lat: 41.1944,
+    lng: -84.4570,
+    radius: 400,
+    short: "The Wabash and Erie came from Fort Wayne. The Miami and Erie came up from Cincinnati and reached Junction in 1845. From this point the two canals were one, bound for Defiance, Toledo, and Lake Erie. A post office opened in 1842. In 1854 Junction led Ohio in canal tolls. As many as fifty boats could be tied up here at once. Lock 21, south of town, is on the Buckeye Trail. The North Country Trail follows the old towpath.",
+    long: "",
+    names: ["Wabash and Erie Canal", "Miami and Erie Canal", "Buckeye Trail"]
+  },
+  {
+    id: "junction-port",
+    name: "Haley's toll office",
+    lat: 41.1944,
+    lng: -84.4570,
+    radius: 350,
+    short: "Daily packet boats met here and passengers changed lines. There were two or three hotels, three or four stores, half a dozen saloons, a brewery, and a distillery. James G. Haley collected the tolls near the port. Three grain warehouses and a gristmill handled the freight. A mile north, William K. Daggett ran a sawmill on water from the canal.",
+    long: "",
+    names: ["James G. Haley", "William K. Daggett"]
+  },
+  {
+    id: "junction-carey",
+    name: "Daniel Clark Carey",
+    lat: 41.1944,
+    lng: -84.4570,
+    radius: 400,
+    short: "The first settlement of newcomers in Paulding County was near this junction, in 1819, before either canal was dug. Daniel Clark Carey was born here on January 21, 1826. The county engineer calls him the first white child born in the county.",
+    long: "",
+    names: ["Daniel Clark Carey"]
+  },
+  {
+    id: "junction-church",
+    name: "St. Mary Catholic Church",
+    lat: 41.1944,
+    lng: -84.4570,
+    radius: 300,
+    short: "St. Mary began about 1846 as a station of St. Francis de Sales in Toledo. The first church was built about 1858. A new one went up in 1911. East of State Route 637, on County Road 168, the Apostolic Christian Church grew from the family of Christopher Dotterer, who came from Germany in 1851. They met in houses through the Civil War. The first frame church on that ground was built in 1892.",
+    long: "",
+    names: ["St. Mary Catholic Church", "Christopher Dotterer", "Apostolic Christian Church"]
+  },
+  {
+    id: "junction-cemetery",
+    name: "Junction Cemetery",
+    lat: 41.1876,
+    lng: -84.4584,
+    radius: 250,
+    short: "Junction Cemetery is on the north side of Cemetery Road, just west of Township Road 163. There was no square. The burial ground and the church lots were the public places. St. Mary has its own cemetery beside the Catholic church.",
+    long: "",
+    names: ["Junction Cemetery", "St. Mary Catholic Church"]
+  },
+  {
+    id: "junction-freedom",
+    name: "A landmark on the way to Canada",
+    lat: 41.1944,
+    lng: -84.4570,
+    radius: 300,
+    short: "No battle was fought at Junction. The 2008 state marker says the canal town was a landmark for people escaping slavery on the way to Canada. The canals were the road. The railroads later took the traffic, and the village shrank.",
+    long: "",
+    names: ["Junction"]
+  },
+  {
+    id: "junction-swamp",
+    name: "Black Swamp",
+    lat: 41.1944,
+    lng: -84.4570,
+    radius: 400,
+    short: "The histories do not name a native village on this meeting of the canals. The ground was the Great Black Swamp. The last miles of the Miami and Erie, from St. Marys to Junction, were cut through woods where the builders said there was no trace of a town.",
+    long: "",
+    names: ["Great Black Swamp"]
+  },
+  {
+    id: "junction-horses",
+    name: "The stolen tow horses",
+    lat: 41.1944,
+    lng: -84.4570,
+    radius: 300,
+    short: "People here once said Junction would outrank Fort Wayne. It did not. The local story that lasted is smaller. A Wabash packet waited for the boat from the south. The driver went into a restaurant. Someone stole the tow horses.",
+    long: "",
+    names: ["Junction"]
+  },
   
   ];
 

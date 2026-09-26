@@ -35351,7 +35351,81 @@ const STORIES = [
     long: "",
     names: ["Hoffman", "Lost Creek"]
   },
-
+{
+    id: "approach-mark-center",
+    name: "Mark Center",
+    lat: 41.2889,
+    lng: -84.6311,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Mark Center, Ohio. The township was named for Mark Kenton, a hunter. The village was laid out in May 1875, the month the Baltimore and Ohio came through. A stave mill hired fifty hands. If you drop into town, I'll start at the tracks.",
+    long: "",
+    names: ["Mark Center", "Mark Kenton"]
+  },
+  {
+    id: "mark-center-kenton",
+    name: "Mark Kenton",
+    lat: 41.3000,
+    lng: -84.6500,
+    radius: 600,
+    short: "Mark Township was set off in 1850. The commissioners wanted to call it Kenton, for Mark Kenton, who made the first improvement here and lived by hunting and trapping. Ohio already had a Kenton. They used his first name instead. The village is Mark Center because it sits near the middle of the township.",
+    long: "",
+    names: ["Mark Kenton", "Mark Township"]
+  },
+  {
+    id: "mark-center-rail",
+    name: "Baltimore and Ohio",
+    lat: 41.2875,
+    lng: -84.6311,
+    radius: 400,
+    short: "The Baltimore and Ohio was built through this township in 1875. In May of that year Frederick Harmening, Josiah Kyle, and A. M. Anderson laid the village out just north of the tracks. A post office opened the same year. The depot, not a river, is why the town is here.",
+    long: "",
+    names: ["Baltimore and Ohio Railroad", "Frederick Harmening", "Josiah Kyle", "A. M. Anderson"]
+  },
+  {
+    id: "mark-center-staves",
+    name: "Van Wert Stave Company",
+    lat: 41.2889,
+    lng: -84.6311,
+    radius: 300,
+    short: "The big mill was the Van Wert Stave Company, run by George Holton. The first year it turned out seven thousand hoops and twenty thousand staves a day. Later it more than doubled that. Fifty hands worked in the factory. Z. T. Hilligas was the foreman. G. W. Spealman ran the steam sawmill.",
+    long: "",
+    names: ["Van Wert Stave Company", "George Holton", "Z. T. Hilligas", "G. W. Spealman"]
+  },
+  {
+    id: "mark-center-church",
+    name: "Methodist Church",
+    lat: 41.2895,
+    lng: -84.6305,
+    radius: 200,
+    short: "By 1883 Mark Center had a neat frame church, owned by a small Methodist society. Other denominations used it when they could. The only other church building in the township was a United Brethren church on section 25, built in 1878 for about five hundred fifty dollars.",
+    long: "",
+    names: ["Mark Center Methodist Church", "United Brethren Church"]
+  },
+  {
+    id: "mark-center-school",
+    name: "Brick school",
+    lat: 41.2900,
+    lng: -84.6320,
+    radius: 220,
+    short: "The 1883 history lists a two-story brick schoolhouse in the village, and nine schoolhouses in the township. There was no square. The school lot and the ground by the depot were the public places.",
+    long: "",
+    names: ["Mark Center school"]
+  },
+  {
+    id: "mark-center-old-town",
+    name: "The town half a mile north",
+    lat: 41.2961,
+    lng: -84.6311,
+    radius: 400,
+    short: "Half a mile north of this village, at the exact center of the township, a town was already standing in 1874. It had a store, a grocery, a saloon, a schoolhouse, and a blacksmith. Then the railroad was built half a mile south. The new plat got the depot. The old corner died.",
+    long: "",
+    names: ["Mark Center"]
+  },
+  {
+    id: "mark-center-native",
+    name: "No named village",
+    lat: 41
 
 
   ];

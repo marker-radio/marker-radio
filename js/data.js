@@ -35614,6 +35614,97 @@ const STORIES = [
     long: "",
     names: ["Scipio"]
   },
+  {
+    id: "approach-sherwood",
+    name: "Sherwood",
+    lat: 41.2889,
+    lng: -84.5531,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Sherwood, Ohio. Before the name, the post office was Snook's Run. The Baltimore and Ohio came through in 1874 and refused a station. The people named the town for General Isaac R. Sherwood to get the mail. If you drop into town, I'll start at the tracks.",
+    long: "",
+    names: ["Sherwood", "Isaac R. Sherwood"]
+  },
+  {
+    id: "sherwood-snooks",
+    name: "Snook's Run",
+    lat: 41.2889,
+    lng: -84.5531,
+    radius: 400,
+    short: "In 1873 this was a neighborhood of clearings in the woods. Gilbert Coffin kept a post office in his house under the name Snooksville. Johnson Miller later kept it in a log house on the pike, and it was called Snook's Run. Elias Miller, William Rock, and William Taylor platted the town. The original plat, on both sides of Harrison Street, is dated 1876.",
+    long: "",
+    names: ["Gilbert Coffin", "Johnson Miller", "Elias Miller", "William Rock", "William Taylor"]
+  },
+  {
+    id: "sherwood-rail",
+    name: "Baltimore and Ohio",
+    lat: 41.2889,
+    lng: -84.5531,
+    radius: 400,
+    short: "The Baltimore and Ohio was built through here in 1874. Stations went in at Delaware Bend and Mark Center. Sherwood got none. The company and the landowners were fighting over the right of way. A grist mill still had to be unloaded, so the town built a platform out of railroad ties. The freight house was the first grain house. Later they built an elevator.",
+    long: "",
+    names: ["Baltimore and Ohio Railroad"]
+  },
+  {
+    id: "sherwood-grain",
+    name: "The grain market",
+    lat: 41.2889,
+    lng: -84.5531,
+    radius: 300,
+    short: "The Miller brothers, later Miller, Rock and Company, bought grain, and Sherwood became a grain market. There were two lumber yards. The Neiderwur Wagon Company had a planing mill. Miller and Good ran a sawmill. Peter Crookton kept the saloon. The grist mill stood where the Church of Christ stands now.",
+    long: "",
+    names: ["Miller, Rock and Company", "Neiderwur Wagon Company", "Miller and Good", "Peter Crookton"]
+  },
+  {
+    id: "sherwood-church",
+    name: "United Brethren Church",
+    lat: 41.2889,
+    lng: -84.5531,
+    radius: 250,
+    short: "Camp meetings were held on this ground before there was a village. In 1874 Jonas Lower organized a United Brethren society. They built a church in 1879 for one thousand three hundred fifty dollars. Eli Kaser was class leader. That first building burned about 1896. The Methodist church was built in 1880, the German Reformed church in 1881, and the Disciple church in 1900.",
+    long: "",
+    names: ["Jonas Lower", "Eli Kaser", "United Brethren Church"]
+  },
+  {
+    id: "sherwood-school",
+    name: "Collins School",
+    lat: 41.2895,
+    lng: -84.5600,
+    radius: 400,
+    short: "Before the village, the Collins School stood at the pike, now the corner of State Route 18 and State Route 127. It was used for spelling bees, debates, revivals, and funerals. After the town was platted, the township built a three-room school. W. W. Huff was the principal. There was no square. The school lot and the cemetery were the public ground.",
+    long: "",
+    names: ["Collins School", "W. W. Huff"]
+  },
+  {
+    id: "sherwood-cemetery",
+    name: "Sherwood Cemetery",
+    lat: 41.2860,
+    lng: -84.5531,
+    radius: 250,
+    short: "The Sherwood cemetery was already started while the town was still fighting the railroad for a station. It is the old burial ground of the village.",
+    long: "",
+    names: ["Sherwood Cemetery"]
+  },
+  {
+    id: "sherwood-native",
+    name: "No named village",
+    lat: 41.2889,
+    lng: -84.5531,
+    radius: 400,
+    short: "The 1883 county history does not name a native village on this plat. Delaware Township touches the Maumee to the south. Sherwood itself is a railroad town in the old woods, not a river landing.",
+    long: "",
+    names: ["Maumee River"]
+  },
+  {
+    id: "sherwood-war",
+    name: "General Sherwood",
+    lat: 41.2889,
+    lng: -84.5531,
+    radius: 300,
+    short: "No battle was fought at Sherwood. The war in the name is General Isaac R. Sherwood, a Civil War officer and the congressman who carried the petition for the post office. Johnson Miller said if the general would help them get the mail, the town would take his name.",
+    long: "",
+    names: ["Isaac R. Sherwood", "Johnson Miller"]
+  },
 
   
   ];

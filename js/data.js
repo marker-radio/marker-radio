@@ -35260,6 +35260,97 @@ const STORIES = [
     long: "",
     names: ["Newville", "A. P. Edgerton", "Hicksville"]
   },
+  {
+    id: "approach-farmer",
+    name: "Farmer",
+    lat: 41.3831,
+    lng: -84.6305,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Farmer, Ohio. The township was Lost Creek until 1836, then named for Nathan Farmer, who walked in here in 1833. No railroad built this crossroads. Cheese and a brick school did. If you drop into the village, I'll start at the creek.",
+    long: "",
+    names: ["Farmer", "Nathan Farmer"]
+  },
+  {
+    id: "farmer-founding",
+    name: "Lost Creek Township",
+    lat: 41.3831,
+    lng: -84.6305,
+    radius: 400,
+    short: "Farmer Township was organized in the fall of 1836. It was called Lost Creek first, then renamed for Nathan Farmer, who came in 1833. John Norway platted the village of Farmer Center from four forty-acre lots. In 1883 it had about one hundred twenty people, a hotel, two blacksmiths, and a brick school.",
+    long: "",
+    names: ["Nathan Farmer", "John Norway", "Farmer Center", "Lost Creek"]
+  },
+  {
+    id: "farmer-creek",
+    name: "Lost Creek",
+    lat: 41.3700,
+    lng: -84.6500,
+    radius: 700,
+    short: "The creek through this township was called Buckquokuh, Marsh Creek. Beaver dams made the headwaters. The 1883 history says the beavers picked dam sites a modern engineer would not improve on. Settlers drained the marsh, cut the timber, and the wheat land showed up.",
+    long: "",
+    names: ["Lost Creek", "Buckquokuh"]
+  },
+  {
+    id: "farmer-cheese",
+    name: "Cheese factories",
+    lat: 41.3831,
+    lng: -84.6305,
+    radius: 350,
+    short: "By the 1870s Farmer Township had two cheese factories. One was a private plant opened in 1873. The other was a stock company organized in 1875, forty shares at fifty dollars, with John Norway as treasurer. That was the industry. There was no depot.",
+    long: "",
+    names: ["John Norway", "Farmer cheese factory"]
+  },
+  {
+    id: "farmer-church",
+    name: "Presbyterian Church",
+    lat: 41.3840,
+    lng: -84.6290,
+    radius: 220,
+    short: "The Presbyterian church in Farmer was built in 1855 and cost about a thousand dollars. The 1883 history puts the membership near seventy. The preacher was the Reverend James Quick, of Hicksville.",
+    long: "",
+    names: ["James Quick", "Farmer Presbyterian Church"]
+  },
+  {
+    id: "farmer-school",
+    name: "Brick school",
+    lat: 41.3828,
+    lng: -84.6286,
+    radius: 220,
+    short: "Farmer Center had a brick schoolhouse and about eighty scholars. On March 5, 1852, the county held a teachers' examination here. Twenty-five teachers sat for it. By 1882 the township had nine frame schoolhouses and one brick.",
+    long: "",
+    names: ["Farmer Center school"]
+  },
+  {
+    id: "farmer-cemetery",
+    name: "Farmer Cemetery",
+    lat: 41.3903,
+    lng: -84.6411,
+    radius: 250,
+    short: "Farmer never built a square. The public ground is the cemetery on the west side of Cemetery Road, about half a mile north of State Route 2, and the school lot in the village. Lost Creek Cemetery, southwest on Route 2, holds the older burials, including the Arrowsmiths.",
+    long: "",
+    names: ["Farmer Cemetery", "Lost Creek Cemetery", "Miller Arrowsmith"]
+  },
+  {
+    id: "farmer-war",
+    name: "No battlefield",
+    lat: 41.3831,
+    lng: -84.6305,
+    radius: 300,
+    short: "No battle was fought at Farmer, and the old county history does not name a soldiers' monument in the village. The war story here is the men who left the creek farms.",
+    long: "",
+    names: ["Farmer"]
+  },
+  {
+    id: "farmer-legend",
+    name: "The lost boy",
+    lat: 41.4000,
+    lng: -84.6700,
+    radius: 600,
+    short: "The county history tells of a Mr. Hoffman who settled near the northwest corner of the township in 1811. His little boy wandered into the woods. Every man who could leave a cabin searched. They found the child dead. He had tried to take his pants off, as if he were getting ready for bed.",
+    long: "",
+    names: ["Hoffman", "Lost Creek"]
+  },
 
 
 

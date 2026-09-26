@@ -34916,7 +34916,6 @@ const STORIES = [
     long: "",
     names: ["Ligonier"]
   },
-const STORIES = [
   {
     id: "hicksville-founding",
     name: "Hicksville",

@@ -35878,6 +35878,87 @@ const STORIES = [
     long: "",
     names: ["Latty"]
   },
+{
+    id: "approach-broughton",
+    name: "Broughton",
+    lat: 41.0881,
+    lng: -84.5350,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Broughton, Ohio, on the Nickel Plate between Latty and Paulding. The Washington Stave and Lumber Company laid it out in 1881 and put a factory here. The village incorporated in 1890. In 2020 it had 116 people. If you reach Broughton Pike, I'll start at the old depot site.",
+    long: "",
+    names: ["Broughton"]
+  },
+  {
+    id: "broughton-stave",
+    name: "Washington Stave Company",
+    lat: 41.0881,
+    lng: -84.5350,
+    radius: 350,
+    short: "Broughton was laid out in 1881 by the Washington Stave and Lumber Company, later the Vanderbilt Stave and Lumber Company, of Washington, D.C. They built a large factory. In 1888 they sold it to Edwin Bell and Sons, who still ran it when the 1892 atlas was written. The county had stave works at Latty, Cecil, Hedges, Broughton, Payne, Briceton, and Melrose. This town was one of them.",
+    long: "",
+    names: ["Washington Stave and Lumber Company", "Vanderbilt Stave and Lumber Company", "Edwin Bell and Sons"]
+  },
+  {
+    id: "broughton-depot",
+    name: "Nickel Plate depot",
+    lat: 41.0878,
+    lng: -84.5347,
+    radius: 250,
+    short: "Broughton and Hedges were the two villages in the south of Jackson Township, both on the Nickel Plate. The depot stood on the south side of the tracks, on the west side of Broughton Pike. The 1892 atlas called it a fine depot. It was torn down in the late 1950s. Before 1881 there was no post office in the township. Mail went to Paulding, Junction, or Charloe. Then offices opened at Hedges and Broughton.",
+    long: "",
+    names: ["Nickel Plate", "Broughton Pike"]
+  },
+  {
+    id: "broughton-store",
+    name: "Heller's store",
+    lat: 41.0881,
+    lng: -84.5350,
+    radius: 250,
+    short: "The factory ran a large general store. In 1892 M. E. Heller was in charge of it, and the atlas called it the main store in town. Axel White kept the only drugstore. Dr. F. B. Ladd settled here in 1888. White later helped start the town of Goodwin, east of here, and said he would build an elevator there.",
+    long: "",
+    names: ["M. E. Heller", "Axel White", "F. B. Ladd"]
+  },
+  {
+    id: "broughton-school",
+    name: "Broughton and Hedges school",
+    lat: 41.0881,
+    lng: -84.5350,
+    radius: 300,
+    short: "Broughton and Hedges shared a special school district. The 1892 atlas said most schoolhouses in the township were frame. This one was a two-story brick. The district counted 236 children. There was no square. The school and the depot were the public places. The village incorporated in 1890, and its first mayor was elected that year. The atlas does not print his name.",
+    long: "",
+    names: ["Broughton and Hedges"]
+  },
+  {
+    id: "broughton-name",
+    name: "Who was Broughton",
+    lat: 41.0881,
+    lng: -84.5350,
+    radius: 250,
+    short: "The 1892 book does not say who the town was named for. A 1968 newspaper said a Mr. Broughton started the lumber factory. The county place-name list still marks that as a maybe, and adds that it might have been Baron Broughton, a British statesman. The company that actually laid out the plat was from Washington, D.C.",
+    long: "",
+    names: ["Broughton"]
+  },
+  {
+    id: "broughton-gar",
+    name: "Broughton GAR post",
+    lat: 41.0881,
+    lng: -84.5350,
+    radius: 250,
+    short: "No battle was fought at Broughton. The war ground here was the Grand Army of the Republic. The 1892 atlas names a Broughton post of the G.A.R. Those were the local Civil War veterans.",
+    long: "",
+    names: ["Grand Army of the Republic"]
+  },
+  {
+    id: "broughton-swamp",
+    name: "No named village",
+    lat: 41.0881,
+    lng: -84.5350,
+    radius: 400,
+    short: "The 1892 atlas does not name a native village on this plat. The factory was here for the timber. Staves were cut from the swamp woods, and when the big timber was gone the reason for the town was gone with it.",
+    long: "",
+    names: ["Broughton"]
+  },
 
 
   ];

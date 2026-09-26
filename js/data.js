@@ -35797,5 +35797,88 @@ const STORIES = [
     names: ["Junction"]
   },
   
+  {
+    id: "approach-latty",
+    name: "Latty",
+    lat: 41.0878,
+    lng: -84.5831,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Latty, Ohio, south of Paulding on the road to Van Wert. Judge Alexander Sankey Latty platted it in 1882 where the Mackinaw crossed the Nickel Plate. A post office opened the same year. In 1890 the village had 594 people. It has 165 now. If you reach Lewis Street, I'll start at the church.",
+    long: "",
+    names: ["Latty", "Alexander Sankey Latty"]
+  },
+  {
+    id: "latty-rails",
+    name: "Mackinaw and Nickel Plate",
+    lat: 41.0878,
+    lng: -84.5831,
+    radius: 400,
+    short: "The village was laid out in 1882 at the crossing of the Mackinaw and the Nickel Plate, on land the judge owned. The post office has been Latty since that year. This is a railroad town, not a canal town. The township to the south was organized earlier, in 1855, and was also named for him.",
+    long: "",
+    names: ["Mackinaw Railroad", "Nickel Plate", "Alexander Sankey Latty"]
+  },
+  {
+    id: "latty-judge",
+    name: "Judge Latty",
+    lat: 41.0878,
+    lng: -84.5831,
+    radius: 300,
+    short: "Alexander Sankey Latty was county auditor when the township took his name, and later a judge in Defiance. He was secretary of the Paulding and Cecil Railroad from 1881 until it was sold in 1884. He died at his house in Defiance on May 30, 1895, and he is buried in Riverside Cemetery there, not in this village.",
+    long: "",
+    names: ["Alexander Sankey Latty", "Riverside Cemetery"]
+  },
+  {
+    id: "latty-church",
+    name: "Friends United Methodist",
+    lat: 41.0903,
+    lng: -84.5867,
+    radius: 250,
+    short: "Friends United Methodist Church stands at 331 North Lewis Street. Beginning in 1911, Apostolic Christian families came by train from Illinois and Indiana for the cheap swamp land. On August 12, 1913 they bought thirty-four pews and met in a vacant house on the John A. Stoller farm. On October 15, 1914 they bought Lot 64, an old church in the village. They dedicated it on February 21, 1915. The church they use now was dedicated on September 20, 1951.",
+    long: "",
+    names: ["Friends United Methodist Church", "John A. Stoller", "Apostolic Christian Church"]
+  },
+  {
+    id: "latty-ropp",
+    name: "Ralph L. Ropp",
+    lat: 41.0878,
+    lng: -84.5831,
+    radius: 300,
+    short: "Ralph L. Ropp graduated from Latty High School in 1913. He was president of Louisiana Tech University, in Ruston, Louisiana, from 1949 to 1962. The school lot was the public ground. There was no square.",
+    long: "",
+    names: ["Ralph L. Ropp", "Latty High School"]
+  },
+  {
+    id: "latty-swamp",
+    name: "Black Swamp farms",
+    lat: 41.0878,
+    lng: -84.5831,
+    radius: 400,
+    short: "The histories do not name a native village on this crossing. The ground was the Black Swamp. The families who came after 1911 had to clear the timber and ditch the farms before they could plant. Most of them arrived on the train with everything they owned.",
+    long: "",
+    names: ["Black Swamp"]
+  },
+  {
+    id: "latty-war",
+    name: "No battlefield",
+    lat: 41.0878,
+    lng: -84.5831,
+    radius: 300,
+    short: "No battle was fought at Latty. During the Civil War a rendezvous camp for the 68th Ohio, at Napoleon, was named Camp Latty for the judge. That camp is not here.",
+    long: "",
+    names: ["Alexander Sankey Latty", "Camp Latty"]
+  },
+  {
+    id: "latty-shrink",
+    name: "Five hundred ninety-four",
+    lat: 41.0878,
+    lng: -84.5831,
+    radius: 300,
+    short: "The first census after the plat, in 1890, counted 594 people. By 1920 it was 294. In 2020 it was 165. The crossing made the town. It did not keep it.",
+    long: "",
+    names: ["Latty"]
+  },
+
+
   ];
 

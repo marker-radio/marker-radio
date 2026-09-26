@@ -34915,16 +34915,7 @@ const STORIES = [
     short: "The local legend is that Ligonier is only an intersection. It started as a river mill village.",
     long: "",
     names: ["Ligonier"]
-  },
-  {
-    id: "hicksville-founding",
-    name: "Hicksville",
-    lat: 41.2958,
-    lng: -84.7592,
-    radius: 1200,
-    short: "You are in Hicksville. In 1835 the Hicks Land Company of New York, led by Henry W. Hicks, platted this town on the edge of the Great Black Swamp. The first settler, a man named Burwell, built a cabin where High Street meets Main. The timber here was meant for ships. The swamp had to be drained before farms could live.",
-    long: "",
-    names: ["Henry W. Hicks", "Hicks Land Company", "Burwell", "Great Black Swamp"]
+ 
   },
   {
     id: "hicksville-st-pauls",

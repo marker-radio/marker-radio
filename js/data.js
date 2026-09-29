@@ -36040,7 +36040,97 @@ const STORIES = [
     long: "",
     names: ["Briceton"]
   },
-
+  {
+    id: "approach-worstville",
+    name: "Worstville",
+    lat: 41.0817,
+    lng: -84.6706,
+    radius: 1600,
+    layer: "approach",
+    short: "You are coming up on Worstville. The name is a man, not a verdict. John Worst owned the sawmill here on the Nickel Plate. The post office lasted from 1882 to 1904. If you pass the crossing on County Road 71, I'll start with him.",
+    long: "",
+    names: ["Worstville", "John Worst"]
+  },
+  {
+    id: "worstville-name",
+    name: "John Worst",
+    lat: 41.0817,
+    lng: -84.6706,
+    radius: 400,
+    short: "Worstville is named for John Worst. He owned the sawmill in this railroad town in the late 1800s. In 1883 he sold that mill to Joseph Tarault. Worst was the founder. He is the reason for the name.",
+    long: "",
+    names: ["John Worst"]
+  },
+  {
+    id: "worstville-mill",
+    name: "Tarault stave mill",
+    lat: 41.0817,
+    lng: -84.6706,
+    radius: 400,
+    short: "Joseph Tarault was born in Peterborough, Canada, in 1844. He came to Paulding County in 1883 and bought John Worst's sawmill. The 1892 atlas called it an extensive stave and lumber works. The factory burned twice. The last fire was in May 1891. It was rebuilt. About 200 people lived here then, with stores, groceries, and hotels.",
+    long: "",
+    names: ["Joseph Tarault", "Joseph Tauralt"]
+  },
+  {
+    id: "worstville-rail",
+    name: "Nickel Plate",
+    lat: 41.0817,
+    lng: -84.6706,
+    radius: 400,
+    short: "Worstville was a Nickel Plate stop on County Road 71, between Briceton and Payne. The station stood by the tracks. Most of what is left of the town sits south of those tracks.",
+    long: "",
+    names: ["Nickel Plate"]
+  },
+  {
+    id: "worstville-post-office",
+    name: "Worstville post office",
+    lat: 41.0817,
+    lng: -84.6706,
+    radius: 300,
+    short: "The Worstville post office opened in 1882 and closed in 1904. Twenty-two years, then the mail went somewhere else.",
+    long: "",
+    names: ["Worstville post office"]
+  },
+  {
+    id: "worstville-church-school",
+    name: "Church and school",
+    lat: 41.0817,
+    lng: -84.6706,
+    radius: 350,
+    short: "Worstville had a church, a school, and a general store beside the station. The town stretched north across the railroad on the east side of County Road 71. The buildings are gone.",
+    long: "",
+    names: ["Worstville"]
+  },
+  {
+    id: "worstville-swamp",
+    name: "Black Swamp",
+    lat: 41.0817,
+    lng: -84.6706,
+    radius: 400,
+    short: "No native village is named on the Worstville plat. This was Black Swamp timber. The sawmill was here because the trees were here.",
+    long: "",
+    names: ["Black Swamp"]
+  },
+  {
+    id: "worstville-war",
+    name: "No battlefield",
+    lat: 41.0817,
+    lng: -84.6706,
+    radius: 300,
+    short: "There is no battlefield, fort, or war marker at Worstville. Nothing here to invent.",
+    long: "",
+    names: ["Worstville"]
+  },
+  {
+    id: "worstville-legend",
+    name: "The name",
+    lat: 41.0817,
+    lng: -84.6706,
+    radius: 400,
+    short: "People hear Worstville and think the town was the worst place in the county. It was not. The name is John Worst. The joke survived. The mill did not.",
+    long: "",
+    names: ["Worstville", "John Worst"]
+  },
 
 
   ];

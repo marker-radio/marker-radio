@@ -36414,6 +36414,118 @@ const STORIES = [
     long: "",
     names: ["Goodwin"]
   },
+  {
+    id: "approach-melrose",
+    name: "Melrose",
+    lat: 41.0886,
+    lng: -84.4200,
+    radius: 1200,
+    layer: "approach",
+    short: "You are coming up on Melrose, about two miles west of Oakwood. Gibson and Pennington laid it out around 1854 as a place to bank ship timber on the Miami and Erie Canal. The Nickel Plate came through in 1881. The 1890 census counted 430 people. If you turn in, I'll start at the canal.",
+    long: "",
+    names: ["Melrose"]
+  },
+  {
+    id: "melrose-name",
+    name: "Melrose",
+    lat: 41.0886,
+    lng: -84.4200,
+    radius: 400,
+    short: "Melrose was laid out about 1854 by Gibson and Pennington. The name is believed to come from Melrose Abbey in Scotland. That is the story the county tells. It is not proven on a stone. A post office opened here in 1882. The village was incorporated, and in 1890 it counted 430 people.",
+    long: "",
+    names: ["Melrose", "Gibson", "Pennington"]
+  },
+  {
+    id: "melrose-canal",
+    name: "Miami and Erie Canal",
+    lat: 41.0886,
+    lng: -84.4200,
+    radius: 450,
+    short: "Before it was a town, this was a canal dock. Builders took supplies here, and ship timbers were banked on the bank to float toward Toledo. It stayed a small packet landing until 1872, when Amos Rathburn put up a store. The packet Willie ran to Defiance on Monday, Wednesday, and Friday, and to Delphos on Tuesday, Thursday, and Saturday. St. Andrews, an older canal town to the north, was gone by 1881. It could not compete with this landing.",
+    long: "",
+    names: ["Miami and Erie Canal", "Amos Rathburn", "Willie"]
+  },
+  {
+    id: "melrose-timber",
+    name: "The seventy-five-foot stick",
+    lat: 41.0886,
+    lng: -84.4200,
+    radius: 400,
+    short: "The biggest stick of ship timber the 1892 atlas records in this county was cut in the winter of 1865 and 1866 by Johnson and Snook. It was cut in Jackson Township, two miles west of Melrose, and banked here. Three feet square. Seventy-five feet long. Six hundred seventy-five cubic feet. They hauled it to the canal with a block and tackle.",
+    long: "",
+    names: ["Johnson and Snook"]
+  },
+  {
+    id: "melrose-rail",
+    name: "Nickel Plate",
+    lat: 41.0886,
+    lng: -84.4200,
+    radius: 400,
+    short: "The Nickel Plate opened through Melrose in 1881. The atlas says several business buildings went up at once. Alex Brown had a general store and a hotel. George W. Bentley sold dry goods and groceries. J.G. Patterson and Company had a general store. Grant and Edwards sold hardware. J.H. Myres kept a hotel. J.H. Shirley had the grocery. The canal and the railroad were both here. That was the best transportation in the county.",
+    long: "",
+    names: ["Nickel Plate", "Alex Brown", "J.H. Shirley"]
+  },
+  {
+    id: "melrose-mills",
+    name: "Staves and southern lumber",
+    lat: 41.0886,
+    lng: -84.4200,
+    radius: 400,
+    short: "The big factory was the stave works of Wheeler, Fuller and Company. Boyd and Freede kept an office and a lumber yard here and ran the largest lumber business in the county. Their pine and poplar did not all come out of the swamp. It came from mills they owned in Mississippi.",
+    long: "",
+    names: ["Wheeler, Fuller and Company", "Boyd and Freede"]
+  },
+  {
+    id: "melrose-school",
+    name: "Melrose school",
+    lat: 41.0886,
+    lng: -84.4200,
+    radius: 350,
+    short: "The 1892 atlas said the Melrose schoolhouse had two rooms and two teachers. The special district that year counted 185 children, 93 boys and 92 girls.",
+    long: "",
+    names: ["Melrose school"]
+  },
+  {
+    id: "melrose-church",
+    name: "United Methodist Church",
+    lat: 41.0886,
+    lng: -84.4200,
+    radius: 300,
+    short: "The 1892 atlas said Melrose had good churches. A United Methodist church still stands in the village.",
+    long: "",
+    names: ["United Methodist Church"]
+  },
+  {
+    id: "melrose-cemetery",
+    name: "Little Auglaize Cemetery",
+    lat: 41.0781,
+    lng: -84.4196,
+    radius: 300,
+    short: "Little Auglaize Cemetery sits south of the village. It is Melrose's burial ground. I will not invent a famous grave that is not marked.",
+    long: "",
+    names: ["Little Auglaize Cemetery"]
+  },
+  {
+    id: "melrose-swamp",
+    name: "Black Swamp",
+    lat: 41.0886,
+    lng: -84.4200,
+    radius: 400,
+    short: "No native village is named on the Melrose plat. The dock was here because the swamp grew ship timber, and the canal could carry it out.",
+    long: "",
+    names: ["Black Swamp"]
+  },
+  {
+    id: "melrose-war",
+    name: "No battlefield",
+    lat: 41.0886,
+    lng: -84.4200,
+    radius: 300,
+    short: "There is no battlefield or fort at Melrose. The timber that left this dock was ship timber. I will not turn that into a war story.",
+    long: "",
+    names: ["Melrose"]
+  },
+
 
 
   ];

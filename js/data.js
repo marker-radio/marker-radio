@@ -35959,6 +35959,88 @@ const STORIES = [
     long: "",
     names: ["Broughton"]
   },
+  {
+    id: "approach-briceton",
+    name: "Briceton",
+    lat: 41.0845,
+    lng: -84.6311,
+    radius: 4000,
+    layer: "approach",
+    short: "You are coming up on Briceton. A Nickel Plate stop in Paulding County, named for Senator Calvin Brice, who helped build that railroad. A stave mill stood here. The post office closed in 1933. If you pass through, I'll start with the name.",
+    long: "",
+    names: ["Briceton", "Calvin S. Brice"]
+  },
+  {
+    id: "briceton-name",
+    name: "Calvin S. Brice",
+    lat: 41.0845,
+    lng: -84.6311,
+    radius: 450,
+    short: "Briceton is named for Calvin S. Brice, a United States senator from Ohio. He lived in Lima, not here. He helped build the New York, Chicago and St. Louis Railroad, the line people called the Nickel Plate. The town took his name. He is not buried here.",
+    long: "",
+    names: ["Calvin S. Brice"]
+  },
+  {
+    id: "briceton-rail",
+    name: "Nickel Plate",
+    lat: 41.0845,
+    lng: -84.6311,
+    radius: 450,
+    short: "Briceton was a stop on the Nickel Plate. The line was finished through Paulding County in 1881, and the first train ran on October 23, 1882. This stop sat between Latty and Payne. No depot stands here now.",
+    long: "",
+    names: ["Nickel Plate", "New York, Chicago and St. Louis Railroad"]
+  },
+  {
+    id: "briceton-stave",
+    name: "Briceton stave mill",
+    lat: 41.0845,
+    lng: -84.6311,
+    radius: 400,
+    short: "By 1892 a stave mill stood at Briceton, on the railroad. Elm and oak came out of the Black Swamp and left as barrel staves. When the big timber was gone, the mill's reason was gone with it.",
+    long: "",
+    names: ["Briceton stave mill"]
+  },
+  {
+    id: "briceton-post-office",
+    name: "Briceton post office",
+    lat: 41.0848,
+    lng: -84.6305,
+    radius: 300,
+    short: "The Briceton post office opened in 1887 and closed in 1933. Forty-six years, then the mail went somewhere else.",
+    long: "",
+    names: ["Briceton post office"]
+  },
+  {
+    id: "briceton-school",
+    name: "Briceton School",
+    lat: 41.0920,
+    lng: -84.6313,
+    radius: 350,
+    short: "The old Briceton School stood about a half mile north of the post office, on the same road. It is gone. The map still marks the spot.",
+    long: "",
+    names: ["Briceton School"]
+  },
+  {
+    id: "briceton-swamp",
+    name: "Black Swamp",
+    lat: 41.0845,
+    lng: -84.6311,
+    radius: 400,
+    short: "No native village is named on the Briceton plat. This was Black Swamp ground. The timber was why the railroad stopped here.",
+    long: "",
+    names: ["Black Swamp"]
+  },
+  {
+    id: "briceton-war",
+    name: "No battlefield",
+    lat: 41.0845,
+    lng: -84.6311,
+    radius: 300,
+    short: "There is no battlefield, fort, or war marker at Briceton. Nothing here to invent.",
+    long: "",
+    names: ["Briceton"]
+  },
+
 
 
   ];

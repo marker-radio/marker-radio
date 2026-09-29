@@ -36242,6 +36242,87 @@ const STORIES = [
     long: "",
     names: ["Smiley"]
   },
+  {
+    id: "approach-hedges",
+    name: "Hedges",
+    lat: 41.0920,
+    lng: -84.5150,
+    radius: 800,
+    layer: "approach",
+    short: "You are coming up on Hedges, on Ohio 613 between Goodwin and Broughton. W.C. Hedges laid it out in 1872. A stave mill and a hoop mill stood here. If you pass through, I'll start with him.",
+    long: "",
+    names: ["Hedges", "W.C. Hedges"]
+  },
+  {
+    id: "hedges-name",
+    name: "W.C. Hedges",
+    lat: 41.0920,
+    lng: -84.5150,
+    radius: 400,
+    short: "Hedges is named for W.C. Hedges of Tiffin. In 1872, while the Continental railroad was being graded, he laid out Oakwood, Hedges, and Payne. The Continental failed. The towns stayed. He is not buried on this corner.",
+    long: "",
+    names: ["W.C. Hedges"]
+  },
+  {
+    id: "hedges-rail",
+    name: "Nickel Plate",
+    lat: 41.0920,
+    lng: -84.5150,
+    radius: 400,
+    short: "Hedges was laid out for a railroad that did not get finished. The Nickel Plate came through later and made this a stop between Goodwin and Broughton. The depot is gone.",
+    long: "",
+    names: ["Nickel Plate", "Continental railroad"]
+  },
+  {
+    id: "hedges-mill",
+    name: "Hedges mills",
+    lat: 41.0920,
+    lng: -84.5150,
+    radius: 400,
+    short: "By the late 1880s Hedges had a stave mill and a hoop mill, both on the railroad. The timber left the Black Swamp as barrel staves and hoops. When the big trees were gone, the mills' reason was gone with them.",
+    long: "",
+    names: ["Hedges"]
+  },
+  {
+    id: "hedges-village",
+    name: "Store and hotel",
+    lat: 41.0920,
+    lng: -84.5150,
+    radius: 350,
+    short: "The post office opened in 1883. In 1886 C.H. Hood bought Jerome McMahon's general store. The 1892 atlas names him postmaster. On June 25, 1885, J.S. Parrish built the only hotel and ran a blacksmith shop beside it. Dr. A.H. Mouser was the doctor.",
+    long: "",
+    names: ["C.H. Hood", "J.S. Parrish", "A.H. Mouser"]
+  },
+  {
+    id: "hedges-cemetery",
+    name: "Hedges Cemetery",
+    lat: 41.0925,
+    lng: -84.5194,
+    radius: 250,
+    short: "Hedges Cemetery sits about a fifth of a mile west of the old town, at Ohio 613 and County Road 125. It is still a burial ground. No famous grave is marked here that I can name.",
+    long: "",
+    names: ["Hedges Cemetery"]
+  },
+  {
+    id: "hedges-swamp",
+    name: "Black Swamp",
+    lat: 41.0920,
+    lng: -84.5150,
+    radius: 400,
+    short: "No native village is named on the Hedges plat. This was Black Swamp timber. The mills were here because the trees were here.",
+    long: "",
+    names: ["Black Swamp"]
+  },
+  {
+    id: "hedges-war",
+    name: "No battlefield",
+    lat: 41.0920,
+    lng: -84.5150,
+    radius: 300,
+    short: "There is no battlefield, fort, or war marker at Hedges. Nothing here to invent.",
+    long: "",
+    names: ["Hedges"]
+  },
 
 
   ];

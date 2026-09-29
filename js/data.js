@@ -36131,6 +36131,117 @@ const STORIES = [
     long: "",
     names: ["Worstville", "John Worst"]
   },
+  {
+    id: "approach-smiley",
+    name: "Smiley",
+    lat: 41.0775,
+    lng: -84.7941,
+    radius: 2000,
+    layer: "approach",
+    short: "You are coming up on Smiley, about four miles west of Payne, just before the Indiana line. Josiah Smiley ran a sawmill here on the Nickel Plate. The town never had more than about ten houses. Nothing is left. If you stay on Ohio 613, I'll start with him.",
+    long: "",
+    names: ["Smiley", "Josiah E. Smiley"]
+  },
+  {
+    id: "smiley-name",
+    name: "Josiah E. Smiley",
+    lat: 41.0775,
+    lng: -84.7941,
+    radius: 400,
+    short: "Smiley is named for Josiah E. Smiley. He came from Pennsylvania. He was the postmaster, and he ran a general store out of his house. He also ran the mill.",
+    long: "",
+    names: ["Josiah E. Smiley", "J.E. Smiley"]
+  },
+  {
+    id: "smiley-mill",
+    name: "Smiley mill",
+    lat: 41.0775,
+    lng: -84.7941,
+    radius: 400,
+    short: "This was a timber town. Josiah Smiley operated a sawmill and a shingle and basket-bottom factory. There was also a tile mill. In its best days the place never had more than about ten houses.",
+    long: "",
+    names: ["Josiah E. Smiley"]
+  },
+  {
+    id: "smiley-rail",
+    name: "Nickel Plate",
+    lat: 41.0775,
+    lng: -84.7941,
+    radius: 400,
+    short: "A small Nickel Plate station stood at Smiley. The road came in from Edgerton, Indiana, and stopped here. Between Smiley and Payne it was all woods.",
+    long: "",
+    names: ["Nickel Plate"]
+  },
+  {
+    id: "smiley-pike",
+    name: "Smiley Pike",
+    lat: 41.0775,
+    lng: -84.7941,
+    radius: 500,
+    short: "In 1901 a road was built from Payne to Smiley and called the Smiley Pike. You know it now as Ohio 613.",
+    long: "",
+    names: ["Smiley Pike", "Ohio 613"]
+  },
+  {
+    id: "smiley-post-office",
+    name: "Smiley post office",
+    lat: 41.0775,
+    lng: -84.7941,
+    radius: 300,
+    short: "The post office opened on January 16, 1883, in Josiah Smiley's house, south of Ohio 613 and west of Road 5. He was the postmaster. It closed on August 30, 1902. After that the mail came through Payne.",
+    long: "",
+    names: ["Smiley post office"]
+  },
+  {
+    id: "smiley-church",
+    name: "Wesleyan Methodist Church",
+    lat: 41.0775,
+    lng: -84.7941,
+    radius: 350,
+    short: "Smiley had a Wesleyan Methodist church. It was later moved to Edgerton, Indiana. The tornado of March 29, 1920, destroyed it there.",
+    long: "",
+    names: ["Wesleyan Methodist Church"]
+  },
+  {
+    id: "smiley-legend",
+    name: "The plank walk",
+    lat: 41.0775,
+    lng: -84.7941,
+    radius: 400,
+    short: "The school sat southeast of town. The path was mud. Josiah Smiley took planks from his sawmill and laid them end to end so the teacher and the children could walk to school.",
+    long: "",
+    names: ["Josiah E. Smiley"]
+  },
+  {
+    id: "smiley-tornado",
+    name: "1920 tornado",
+    lat: 41.0775,
+    lng: -84.7941,
+    radius: 400,
+    short: "On March 29, 1920, a tornado wiped out Renollet and hit Edgerton. Smiley was heavily damaged too. No one here was killed. By the 1930s the newspapers had stopped mentioning the town.",
+    long: "",
+    names: ["Smiley"]
+  },
+  {
+    id: "smiley-swamp",
+    name: "Black Swamp",
+    lat: 41.0775,
+    lng: -84.7941,
+    radius: 400,
+    short: "No native village is named at Smiley. It was woods, Black Swamp timber, and that is why the mill was here.",
+    long: "",
+    names: ["Black Swamp"]
+  },
+  {
+    id: "smiley-war",
+    name: "No battlefield",
+    lat: 41.0775,
+    lng: -84.7941,
+    radius: 300,
+    short: "There is no battlefield, fort, or war marker at Smiley. Nothing here to invent.",
+    long: "",
+    names: ["Smiley"]
+  },
 
 
   ];

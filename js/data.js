@@ -36323,6 +36323,97 @@ const STORIES = [
     long: "",
     names: ["Hedges"]
   },
+  {
+    id: "approach-goodwin",
+    name: "Goodwin",
+    lat: 41.0920,
+    lng: -84.4577,
+    radius: 1200,
+    layer: "approach",
+    short: "You are coming up on Goodwin, between Melrose and Hedges, south of Ohio 613 at Road 151. It was also called Goodwin Station and Goodwin City. An elevator stood on the Nickel Plate. Nothing is left. If you pass the crossing, I'll start with the men who started it.",
+    long: "",
+    names: ["Goodwin", "Goodwin City"]
+  },
+  {
+    id: "goodwin-founders",
+    name: "Goodwin's founders",
+    lat: 41.0920,
+    lng: -84.4577,
+    radius: 400,
+    short: "The Paulding Democrat of October 30, 1902, named the founders of Goodwin City. Daniel Hudgett of Fort Wayne. Professor W.F. Griswold. Axel White of Broughton. Rand McNally had already listed a station here in 1895, and it had no post office.",
+    long: "",
+    names: ["Daniel Hudgett", "W.F. Griswold", "Axel White"]
+  },
+  {
+    id: "goodwin-rail",
+    name: "Nickel Plate",
+    lat: 41.0920,
+    lng: -84.4577,
+    radius: 400,
+    short: "Goodwin Station sat on the western edge of Brown Township, on the Nickel Plate, between Melrose and Hedges. The paper called the column Goodwin Switch. The station is gone.",
+    long: "",
+    names: ["Nickel Plate", "Goodwin Station"]
+  },
+  {
+    id: "goodwin-elevator",
+    name: "Goodwin elevator",
+    lat: 41.0920,
+    lng: -84.4577,
+    radius: 400,
+    short: "On March 7, 1901, the Democrat said Axel White had bought two acres at the station for a large elevator, and that Mr. Shupp would put a store there. The elevator ran from about 1902 into the 1940s. On August 19, 1923, about 4 in the morning, it burned. A locomotive spark is the cause they named. Inside were 3,500 bushels of oats, about 1,600 bushels of wheat, some corn, and carloads of coal. The Wickenheiser Grain Company of Toledo owned it. The fire also took a barn, a beet shanty, and the beet scales. J.C. Harmon and Sons bought the ruins that November. By June 1924 a new elevator was almost done. In 1929 J.E. Wistner was running it. News from Goodwin lasted until about 1948.",
+    long: "",
+    names: ["Axel White", "Wickenheiser Grain Company", "J.C. Harmon", "J.E. Wistner"]
+  },
+  {
+    id: "goodwin-village",
+    name: "Kiln and store",
+    lat: 41.0920,
+    lng: -84.4577,
+    radius: 350,
+    short: "Goodwin had a charcoal kiln, a country store, a blacksmith shop, and a few houses. There was no church. People went to church in Melrose. In December 1936 the paper said Shaffer Brothers would open a new store.",
+    long: "",
+    names: ["Shaffer Brothers"]
+  },
+  {
+    id: "goodwin-joke",
+    name: "Giauque",
+    lat: 41.0920,
+    lng: -84.4577,
+    radius: 400,
+    short: "A post office opened here on February 25, 1903. James M. Price was the only postmaster anyone recorded. They did not call the office Goodwin. They named it Giauque, for Florien Giauque, a Cincinnati lawyer who owned six or seven hundred acres nearby. The Democrat headlined it This Is No Joke, and told readers to pronounce the name Joke. The office closed on September 30, 1904. In 1936 the paper said Giauque was in town again, and that his oil well was a boomer.",
+    long: "",
+    names: ["Florien Giauque", "Giauque", "James M. Price"]
+  },
+  {
+    id: "goodwin-school",
+    name: "McCartney school",
+    lat: 41.0920,
+    lng: -84.4577,
+    radius: 350,
+    short: "Goodwin had no school of its own. The children walked about a mile to a one-room school called McCartney. Later they rode the bus to the new school in Melrose.",
+    long: "",
+    names: ["McCartney school"]
+  },
+  {
+    id: "goodwin-swamp",
+    name: "Black Swamp",
+    lat: 41.0920,
+    lng: -84.4577,
+    radius: 400,
+    short: "No native village is named at Goodwin. The charcoal kiln was here because the swamp timber was here. That is the native story this stop can honestly tell.",
+    long: "",
+    names: ["Black Swamp"]
+  },
+  {
+    id: "goodwin-war",
+    name: "No battlefield",
+    lat: 41.0920,
+    lng: -84.4577,
+    radius: 300,
+    short: "There is no battlefield, fort, or war marker at Goodwin. Nothing here to invent.",
+    long: "",
+    names: ["Goodwin"]
+  },
 
 
   ];

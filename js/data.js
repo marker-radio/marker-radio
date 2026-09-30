@@ -39219,5 +39219,47 @@ const STORIES = [
     names: ["Sophia Doolittle", "Charles F. Boynton"]
   },
   
+  {
+    id: "approach-fuddletown",
+    name: "Fuddletown",
+    lat: 41.6214,
+    lng: -84.6598,
+    radius: 500,
+    layer: "approach",
+    short: "You are coming up on Fuddletown, in Bridgewater Township, at County Road 8-50 and County Road N-30, along Nettle Creek. Heritage Cemetery is at this corner. Babcock and Strong started a steam sawmill here in 1870. The listing does not give them first names. No post office is named. Nettle Lake already has the lake. Bridgewater Center already has the township.",
+    long: "",
+    names: ["Fuddletown", "Nettle Creek", "Heritage Cemetery"]
+  },
+  {
+    id: "fuddletown-browns",
+    name: "Abner Brown",
+    lat: 41.6214,
+    lng: -84.6598,
+    radius: 280,
+    short: "Babcock and Strong sold the mill to Abner K. Brown and Amanda Bollinger. Abner was born in 1838 and died in 1897, from Stark County. Amanda was born in 1842 and died in 1920, from Seneca County. They married in 1862, had eight children, and owned a 150-acre farm on the northeast corner. They are buried here at Heritage Cemetery, with relatives and many people from Fuddletown.",
+    long: "",
+    names: ["Abner K. Brown", "Amanda Bollinger"]
+  },
+  {
+    id: "fuddletown-school",
+    name: "Township school 9",
+    lat: 41.6214,
+    lng: -84.6695,
+    radius: 220,
+    short: "Bridgewater Township School Number 9 stood about half a mile west, on the south side of County Road N-30. The listing does not say it is still there.",
+    long: "",
+    names: ["Bridgewater Township"]
+  },
+  {
+    id: "fuddletown-gaps",
+    name: "What is not here",
+    lat: 41.6214,
+    lng: -84.6598,
+    radius: 250,
+    short: "No church, no railroad, and no native village are named at this crossroads. Nettle Creek is the water. The mill is gone. The cemetery is what stayed.",
+    long: "",
+    names: ["Nettle Creek", "Heritage Cemetery"]
+  },
+
   ];
 

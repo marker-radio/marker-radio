@@ -38460,6 +38460,47 @@ const STORIES = [
     long: "",
     names: ["Gordon Creek"]
   },
+  {
+    id: "approach-wilseyville",
+    name: "Wilseyville",
+    lat: 41.3510,
+    lng: -84.6787,
+    radius: 800,
+    layer: "approach",
+    short: "You are coming up on Wilseyville, in Farmer Township, on Ensign Road between State Route 2 and Rosedale Road, along Lost Creek. John Wilsey built a boat-oar factory here in the mid-1860s, on the east edge of the Arrowsmith farm. The post office ran from 1865 to 1883 and replaced Arrowsmiths. Lost Creek Cemetery is about three quarters of a mile northeast.",
+    long: "",
+    names: ["Wilseyville", "Lost Creek"]
+  },
+  {
+    id: "wilseyville-oars",
+    name: "Wilsey oar factory",
+    lat: 41.3510,
+    lng: -84.6787,
+    radius: 320,
+    short: "John Derrick Wilsey was born in 1828 and died in 1920. Calphurnia Otis was born in 1835 and died in 1914. They married in Pennsylvania in 1853 and later moved to Defiance County. They had a few children. The oar factory stood just north of here, next to Lost Creek. Workers lived in a boarding house beside Ensign Road, on the Arrowsmith farm. The known postmasters were Gideon D. Ensign, born in 1827 and died in 1887, from Berkshire County, Massachusetts, and Civil War veteran William M. Haller, born in 1832 and died in 1893, from Champaign County. John and Calphurnia are buried in Woodlawn Cemetery at Bloomville, in Seneca County. The town was gone before 1900.",
+    long: "",
+    names: ["John Derrick Wilsey", "Calphurnia Otis", "Gideon D. Ensign", "William M. Haller"]
+  },
+  {
+    id: "wilseyville-cemetery",
+    name: "Lost Creek Cemetery",
+    lat: 41.3587,
+    lng: -84.6685,
+    radius: 280,
+    short: "Lost Creek Cemetery is on the east side of State Route 2, at Dalrymple Road and Blosser Road. A Lutheran church stood at the cemetery. Across the road, in the northwest corner, Farmer Township Number 9, also called the Lost Creek School, is a private house now. Gideon Ensign and William Haller are buried here with other residents. The Arrowsmiths are here too.",
+    long: "",
+    names: ["Lost Creek Cemetery", "Lost Creek School", "Gideon D. Ensign", "William M. Haller"]
+  },
+  {
+    id: "wilseyville-gaps",
+    name: "What is not here",
+    lat: 41.3510,
+    lng: -84.6787,
+    radius: 280,
+    short: "No railroad, no park, no battlefield, and no native village are named on this stretch of Lost Creek. The war here is William Haller's service. The oar factory and the boarding house are gone.",
+    long: "",
+    names: ["Lost Creek"]
+  },
   
   ];
 

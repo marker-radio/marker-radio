@@ -40148,6 +40148,37 @@ const STORIES = [
     names: ["Convoy Opera House"]
   },
 
+  {
+    id: "ridgeville-palmer",
+    name: "Barton Palmer",
+    lat: 41.4397,
+    lng: -84.2514,
+    radius: 300,
+    short: "Until 1841 people here just said they lived in Ridgeville. That year the post office opened in Barton Palmer's house, and the place became Ridgeville Corners. Palmer kept the tavern, the only lodging for miles, and he laid the roads so they met at his door. John Scofield filed the plat in August 1867, the original plat in 1869, and two additions in 1877 and 1879.",
+    long: "",
+    names: ["Barton Palmer", "John Scofield"]
+  },
+  {
+    id: "ridgeville-mill",
+    name: "The sawmill",
+    lat: 41.4397,
+    lng: -84.2514,
+    radius: 250,
+    short: "An 1867 description of Ridgeville Corners names a sawmill and a cheese factory. By 1882 the town had a steam sawmill, a feed mill, and a brick and tile yard. This record does not name the owner.",
+    long: "",
+    names: ["Ridgeville Corners"]
+  },
+  {
+    id: "ridgeville-trail",
+    name: "The Belmore Ridge",
+    lat: 41.4397,
+    lng: -84.2514,
+    radius: 400,
+    short: "The main road through this township in 1841 was the Independence, Ridgeville and Adrian Free Turnpike. It followed an old Indian trail along the Belmore Ridge, from Adrian, Michigan, to Independence on the Maumee. The corners here are surveyed from two stones in that road. This record does not name the nation.",
+    long: "",
+    names: ["Belmore Ridge", "Independence, Ridgeville and Adrian Free Turnpike"]
+  },
+
 
   
 ];

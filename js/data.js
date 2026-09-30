@@ -38726,6 +38726,68 @@ const STORIES = [
     long: "",
     names: ["Columbus, Lima and Milwaukee Railroad", "Tiffin River"]
   },
+ {
+    id: "approach-domerville",
+    name: "Domerville",
+    lat: 41.3842,
+    lng: -84.3240,
+    radius: 700,
+    layer: "approach",
+    short: "You are coming up on Domerville, also called Domersville, in Adams Township, at Domersville Road and Coressel Road. Joshua Domer opened the post office. It ran from 1892 to 1899. A blacksmith shop stood in the southwest corner. Old houses and farm buildings are still around. The school and Domersville Cemetery, also called Chase Cemetery, are just south, and both are older than the town.",
+    long: "",
+    names: ["Domerville"]
+  },
+  {
+    id: "domerville-people",
+    name: "Joshua Domer",
+    lat: 41.3842,
+    lng: -84.3240,
+    radius: 300,
+    short: "Joshua Domer was born in 1842 in Pickaway County and died in 1915. Mary Sullivan was born in 1848 and died in 1918. They had a few children. Joshua was the first known postmaster. Henry J. Cupp, born in 1866 in Marion County and died in 1945, was the last. Charles M. Seibert, born in 1857 and died in 1910, and Mary Weaver, born in 1859 and died in 1923, kept the blacksmith shop in the southwest corner. They married in 1882 and had eleven children.",
+    long: "",
+    names: ["Joshua Domer", "Mary Sullivan", "Henry J. Cupp", "Charles M. Seibert", "Mary Weaver"]
+  },
+  {
+    id: "domerville-cemetery",
+    name: "Chase Cemetery",
+    lat: 41.3842,
+    lng: -84.3240,
+    radius: 250,
+    short: "Domersville Cemetery, also called Chase Cemetery, is on the west side of Domersville Road, just south of the corner. Adams Township Number 4, the old one-room school, stands next to it. Both predate the town. The ground was the farm of Charles G. Chase, born in 1815 on Nantucket, and Charlotte Felton, born in 1822. Charles worked on whaling ships for about twelve years, married Charlotte in 1841, and then moved here. She died in 1860. He died in 1862. They are buried here.",
+    long: "",
+    names: ["Charles G. Chase", "Charlotte Felton", "Domersville Cemetery"]
+  },
+  {
+    id: "domerville-stmichaels",
+    name: "Saint Michaels Cemetery",
+    lat: 41.3586,
+    lng: -84.2900,
+    radius: 250,
+    short: "Saint Michaels Catholic Cemetery is about two and a half miles southeast, on the west side of Moser Road. Henry Cupp is buried here, and so are Charles and Mary Seibert.",
+    long: "",
+    names: ["Saint Michaels Catholic Cemetery", "Henry J. Cupp", "Charles M. Seibert"]
+  },
+  {
+    id: "domerville-poplar",
+    name: "Poplar Ridge Cemetery",
+    lat: 41.3501,
+    lng: -84.2786,
+    radius: 250,
+    short: "Poplar Ridge Cemetery is about three and a third miles southeast, on the east side of Adams Ridge Road. Joshua and Mary Domer are buried here.",
+    long: "",
+    names: ["Poplar Ridge Cemetery", "Joshua Domer", "Mary Sullivan"]
+  },
+  {
+    id: "domerville-gaps",
+    name: "What is not here",
+    lat: 41.3842,
+    lng: -84.3240,
+    radius: 280,
+    short: "No railroad, no park, no battlefield, and no native village are named at this corner. The post office is gone. The cemetery, the school, and the farms are what is left.",
+    long: "",
+    names: []
+  },
+
 
   ];
 

@@ -40208,6 +40208,27 @@ const STORIES = [
     long: "",
     names: ["Chester A. Arthur", "John Moore", "A. J. Kinnear"]
   },
+    {
+    id: "laotto-wesleyan",
+    name: "Lee's Chapel",
+    lat: 41.2911,
+    lng: -85.1989,
+    radius: 250,
+    short: "The LaOtto Wesleyan Church was founded in 1850, on the south side of town along Old State Road 3. It was an Underground Railroad stop in the 1850s and 1860s. Pastor Aaron Worth was a conductor. In 1861 Luther Lee preached there, and for a while the church was called Lee's Chapel. His pulpit is still in the foyer. In the 1950s pastor George Ott started the LaOtto Community Association. It helped keep the post office from closing, and it helped start a community center and a park just west of the church. This account does not name the park.",
+    long: "",
+    names: ["Aaron Worth", "Luther Lee", "George Ott", "LaOtto Wesleyan Church"]
+  },
+  {
+    id: "laotto-depot",
+    name: "Union Depot",
+    lat: 41.2911,
+    lng: -85.1989,
+    radius: 250,
+    short: "LaOtto's Union Depot stood where the Grand Rapids and Indiana crossed the Vandalia, also called the Butler Branch or the Eel River line. A photograph from about 1910 shows the depot and the switch tower. The signs read Adams Express, Richmond 108 miles, and Mackinaw City 361 miles.",
+    long: "",
+    names: ["Union Depot", "Grand Rapids and Indiana Railroad", "Vandalia Railroad"]
+  },
+
   
 ];
 

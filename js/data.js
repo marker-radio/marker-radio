@@ -39054,6 +39054,48 @@ const STORIES = [
     long: "",
     names: []
   },
+  {
+    id: "approach-west-buffalo",
+    name: "West Buffalo",
+    lat: 41.5157,
+    lng: -84.6939,
+    radius: 700,
+    layer: "approach",
+    short: "You are coming up on West Buffalo, in Florence Township, at State Route 34, County Road 5G, and Township Road 7G, along the St. Joseph River. John D. Martin platted 157 lots here in 1836. Only four lots sold, and the buyer never moved in. The listing does not name that buyer. The post office ran from 1854 to 1874. The town was gone before the 1882 county history.",
+    long: "",
+    names: ["West Buffalo", "St. Joseph River"]
+  },
+  {
+    id: "west-buffalo-mills",
+    name: "Martin and the Depews",
+    lat: 41.5157,
+    lng: -84.6939,
+    radius: 300,
+    short: "John D. Martin and Elias Depew built a dam and a sawmill here in 1835, next to the St. Joseph. They built their houses from that lumber and added a grist mill in 1838. Later that year John sold the plat to Elias and his brother, John Depew. In 1840 he sold his share of the mills to John Depew. The mills did business. The lots did not. The Depew brothers sold the plat in 1847.",
+    long: "",
+    names: ["John D. Martin", "Elias Depew", "John Depew"]
+  },
+  {
+    id: "west-buffalo-later",
+    name: "The second try",
+    lat: 41.5157,
+    lng: -84.6939,
+    radius: 280,
+    short: "More people came later. A school stood in the southeast corner. There was a blacksmith and a general store. The known postmasters were Daniel W. Wright, John J. Webb, S. J. Adams, P. D. Pelton, and David Maze. The listing does not say how David Maze was related to Robert Maze. It still faded before 1882.",
+    long: "",
+    names: ["David Maze", "Daniel W. Wright", "John J. Webb"]
+  },
+  {
+    id: "west-buffalo-gaps",
+    name: "What is not here",
+    lat: 41.5157,
+    lng: -84.6939,
+    radius: 250,
+    short: "West Buffalo Cemetery is just southwest of this corner, on the southeast side of County Road 5G. Robert Maze's burial is already on that stop. William Stenger, born in 1849 and died in 1900, has a gravestone there cut in the shape of a log cabin. He owned a farm on County Road F in Center Township. The dam, the mills, the school, and the store are gone. No battlefield and no native village are named at this plat. The St. Joseph is the water.",
+    long: "",
+    names: ["William Stenger", "West Buffalo Cemetery", "St. Joseph River"]
+  },
+
 
   ];
 

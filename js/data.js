@@ -37309,6 +37309,77 @@ const STORIES = [
     long: "",
     names: ["Samuel Doyle"]
   },
+ {
+    id: "approach-royal-oak",
+    name: "Royal Oak",
+    lat: 41.0836,
+    lng: -84.4088,
+    radius: 500,
+    layer: "approach",
+    short: "You are coming up on Royal Oak, also called Newburgh, in Brown Township. In 1850 Albert Darling hung a grocery sign on an oak tree in front of his cabin. The plat went in the next year, beside the Miami and Erie. Melrose, a short way west, took the trade. If you are between State Route 613 and Road 82, I'll start with that sign.",
+    long: "",
+    names: ["Royal Oak", "Newburgh"]
+  },
+  {
+    id: "royal-oak-sign",
+    name: "The oak sign",
+    lat: 41.0836,
+    lng: -84.4088,
+    radius: 350,
+    short: "Albert L. Darling was born in 1819. In 1850 he put a sign on an oak that read Royal Oak Grocery. The store was the front of his cabin, on the east bank of the Little Auglaize. He married Sarah Hoover in 1860. The spoken name of the place is the sign. The plat name is Newburgh, which just means new town.",
+    long: "",
+    names: ["Albert L. Darling", "Sarah Hoover"]
+  },
+  {
+    id: "royal-oak-plat",
+    name: "Newburgh",
+    lat: 41.0836,
+    lng: -84.4088,
+    radius: 350,
+    short: "David Shriver and Leonard Kimmel platted Newburgh in 1851, next to the canal. There was no railroad. Melrose got the Nickel Plate in 1881 and took the people and the businesses. Newburgh missed the 1892 atlas and the 1905 atlas. It was printed again as Newberg in 1917 and 1922, as a memory.",
+    long: "",
+    names: ["David Shriver", "Leonard Kimmel", "Newburgh"]
+  },
+  {
+    id: "royal-oak-post",
+    name: "The Royal Oak post office",
+    lat: 41.0836,
+    lng: -84.4088,
+    radius: 300,
+    short: "The post office was called Royal Oak. It ran from 1864 to 1882. The known postmasters were Joseph H. Shirley and C. J. Staley. A school is marked near here on the 1878 county map. No church and no park are recorded. I will not invent them.",
+    long: "",
+    names: ["Joseph H. Shirley", "C. J. Staley"]
+  },
+  {
+    id: "royal-oak-war",
+    name: "Albert Darling",
+    lat: 41.0836,
+    lng: -84.4088,
+    radius: 300,
+    short: "There is no battlefield here. Darling died in the Civil War in 1862, two years after he married. He is buried in Little Auglaize Cemetery, about a mile from the cabin, with relatives and other people from this stop.",
+    long: "",
+    names: ["Albert L. Darling", "Little Auglaize Cemetery"]
+  },
+  {
+    id: "royal-oak-native",
+    name: "Little Auglaize",
+    lat: 41.0836,
+    lng: -84.4088,
+    radius: 300,
+    short: "No native village is named on the Newburgh plat. The cabin sat on the east bank of the Little Auglaize, and the canal was cut through the same timber.",
+    long: "",
+    names: ["Little Auglaize River"]
+  },
+  {
+    id: "royal-oak-ground",
+    name: "Private ground",
+    lat: 41.0836,
+    lng: -84.4088,
+    radius: 300,
+    short: "The site is private ground now. No remnant of the grocery is known. The oak was the landmark, and the oak is gone.",
+    long: "",
+    names: ["Royal Oak"]
+  },
 
   
   ];

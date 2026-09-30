@@ -37501,6 +37501,57 @@ const STORIES = [
     long: "",
     names: ["Renollet"]
   },
-  
+    {
+    id: "approach-sophia",
+    name: "Sophia",
+    lat: 41.0188,
+    lng: -84.7073,
+    radius: 900,
+    layer: "approach",
+    short: "You are coming up on Sophia, in Benton Township, where Township Road 49 crosses State Route 114. The post office lasted two years, 1893 to 1895. The road under you is the old Tangent. No one in the record has a name. If you are at the crossing, I'll start with the office.",
+    long: "",
+    names: ["Sophia"]
+  },
+  {
+    id: "sophia-office",
+    name: "A two-year office",
+    lat: 41.0188,
+    lng: -84.7073,
+    radius: 350,
+    short: "Sophia was a farming stop and a post office. The office opened in 1893 and closed in 1895. No postmaster is named. No founder is named. I will not invent one.",
+    long: "",
+    names: ["Sophia"]
+  },
+  {
+    id: "sophia-rail",
+    name: "The Tangent",
+    lat: 41.0188,
+    lng: -84.7073,
+    radius: 400,
+    short: "The town sat on the Findlay, Fort Wayne and Western, the railroad people called the Tangent. State Route 114 still follows that grade. There was no canal and no river at this crossing. The trains are why a post office was put here at all.",
+    long: "",
+    names: ["Findlay, Fort Wayne and Western", "Tangent"]
+  },
+  {
+    id: "sophia-school",
+    name: "The school a mile south",
+    lat: 41.0188,
+    lng: -84.7073,
+    radius: 300,
+    short: "A school stood about a mile south, at the southwest corner of Township Road 49 and County Road 24. Nothing of the town itself is left at the crossing.",
+    long: "",
+    names: ["Sophia"]
+  },
+  {
+    id: "sophia-gaps",
+    name: "What is not here",
+    lat: 41.0188,
+    lng: -84.7073,
+    radius: 300,
+    short: "No church, no park, no cemetery, no native village, and no battlefield are recorded at Sophia. The story is how short it was.",
+    long: "",
+    names: ["Sophia"]
+  },
+
   ];
 

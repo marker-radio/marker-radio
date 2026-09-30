@@ -39706,6 +39706,121 @@ const STORIES = [
     long: "",
     names: ["Helmer", "Salem Center"]
   },
-  
+    {
+    id: "approach-angola",
+    name: "Angola",
+    lat: 41.6369,
+    lng: -85.0014,
+    radius: 1800,
+    layer: "approach",
+    short: "You are coming up on Angola, the county seat of Steuben County. Thomas Gale and Cornelius Gilmore founded it on June 28, 1838. Settlers from Angola, New York, named it for their old home. The post office has been open since that same year. The 2020 count was 9,340.",
+    long: "",
+    names: ["Angola", "Thomas Gale", "Cornelius Gilmore"]
+  },
+  {
+    id: "angola-people",
+    name: "Angola people",
+    lat: 41.6369,
+    lng: -85.0014,
+    radius: 800,
+    short: "The Steuben County Courthouse is here. Edward Ralph May practiced law in Angola from 1843 to 1852. He was the only member of the 1850 Indiana Constitutional Convention to vote for African American suffrage. Lewis Blaine Hershey, 1893 to 1977, was a four-star general and director of Selective Service. Lois Irene Marshall, wife of Vice President Thomas R. Marshall, is listed from here.",
+    long: "",
+    names: ["Edward Ralph May", "Lewis Blaine Hershey", "Lois Irene Marshall"]
+  },
+  {
+    id: "angola-rail",
+    name: "Angola railroad",
+    lat: 41.6369,
+    lng: -85.0014,
+    radius: 800,
+    short: "The St. Joseph Valley Railway came through Angola on the way to Columbia. Tracks reached Columbia in 1915. It was steam, never electric, and it was dead by 1918. These pages do not name a native village or a mill in the city. Those stay off this card until a source names them.",
+    long: "",
+    names: ["St. Joseph Valley Railway"]
+  },
+  {
+    id: "approach-salem-center",
+    name: "Salem Center",
+    lat: 41.5850,
+    lng: -85.1397,
+    radius: 350,
+    layer: "approach",
+    short: "You are coming up on Salem Center, in Salem Township, Steuben County. A post office opened in 1852 and closed in 1903. Helmer's fire department later merged with the one here.",
+    long: "",
+    names: ["Salem Center"]
+  },
+  {
+    id: "salem-center-gaps",
+    name: "What is not at Salem Center",
+    lat: 41.5850,
+    lng: -85.1397,
+    radius: 250,
+    short: "These pages do not name a founder, a railroad, a church, a native village, or a war site at Salem Center. Those stay off this card until a source names them.",
+    long: "",
+    names: ["Salem Center"]
+  },
+  {
+    id: "approach-okolona",
+    name: "Okolona",
+    lat: 41.3553,
+    lng: -84.2178,
+    radius: 400,
+    layer: "approach",
+    short: "You are coming up on Okolona, in Napoleon Township, Henry County. It started in the 1860s as Oakland Station on the Wabash Railroad. Another Oakland already existed in Ohio, so Nathaniel Norden invented the name Okolona. A post office opened in 1866 and closed in 2016. It sits on County Road 17-D, just southeast of U.S. 24. Napoleon already has the city.",
+    long: "",
+    names: ["Okolona", "Nathaniel Norden", "Wabash Railroad"]
+  },
+  {
+    id: "okolona-mill",
+    name: "Republic Mills",
+    lat: 41.3553,
+    lng: -84.2178,
+    radius: 300,
+    short: "The old elevator here was Republic Mills. These pages do not name a church, a native village, or a war site at Okolona. Those stay off this card until a source names them.",
+    long: "",
+    names: ["Republic Mills"]
+  },
+  {
+    id: "approach-stroh",
+    name: "Stroh",
+    lat: 41.5825,
+    lng: -85.1992,
+    radius: 400,
+    layer: "approach",
+    short: "You are coming up on Stroh, in Milford Township, LaGrange County. It sits on the southwest shore of Big Turkey Lake. The post office was established in 1900. This is not South Milford. That is a different place.",
+    long: "",
+    names: ["Stroh", "Big Turkey Lake"]
+  },
+  {
+    id: "stroh-gaps",
+    name: "What is not at Stroh",
+    lat: 41.5825,
+    lng: -85.1992,
+    radius: 250,
+    short: "The pages name several churches in Stroh, but they do not date them or name a founder. They also do not name a railroad, a native village, or a war site. Those stay off this card until a source names them.",
+    long: "",
+    names: ["Stroh"]
+  },
+  {
+    id: "approach-flint-in",
+    name: "Flint",
+    lat: 41.6500,
+    lng: -85.1250,
+    radius: 350,
+    layer: "approach",
+    short: "You are coming up on Flint, in Jackson Township, west of Angola. A post office opened in 1850 and closed in 1907. Angola already has the city to the east.",
+    long: "",
+    names: ["Flint"]
+  },
+  {
+    id: "flint-clark",
+    name: "Alonzo M. Clark",
+    lat: 41.6500,
+    lng: -85.1250,
+    radius: 250,
+    short: "The record lists Alonzo M. Clark among people from Flint. He was governor of Wyoming from 1931 to 1933. These pages do not name a railroad, a church, a native village, or a war site here.",
+    long: "",
+    names: ["Alonzo M. Clark"]
+  },
+
   ];
 

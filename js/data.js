@@ -37725,6 +37725,67 @@ const STORIES = [
     long: "",
     names: ["Tate's Landing"]
   },
+  {
+    id: "approach-plumbs",
+    name: "Plumb's Cross Roads",
+    lat: 41.0087,
+    lng: -84.3996,
+    radius: 700,
+    layer: "approach",
+    short: "You are coming up on Plumb's Cross Roads, in Washington Township, where Road 187 meets Road 32. Caleb Plumb's store sign was a large X, and the corner took that mark. The post office opened here in 1878 and was renamed Roselms in 1892. Roselms itself is the later stop on State Route 114. If you are at this crossing, I'll start with the sign.",
+    long: "",
+    names: ["Plumb's Cross Roads"]
+  },
+  {
+    id: "plumbs-x",
+    name: "The X",
+    lat: 41.0087,
+    lng: -84.3996,
+    radius: 350,
+    short: "Caleb J. Plumb was born in 1808 and died in 1890. Eliza West Plumb was born in 1811 and died in 1871. They came from New York in 1861 and had at least four children. The grocery sign was not a word. It was a large X. The office opened January 28, 1878, under this name, was renamed Roselms on June 13, 1892, and closed June 14, 1906. After that the mail went to Grover Hill. There was no canal and no railroad on this corner.",
+    long: "",
+    names: ["Caleb J. Plumb", "Eliza West Plumb"]
+  },
+  {
+    id: "plumbs-sons",
+    name: "Three sons",
+    lat: 41.0087,
+    lng: -84.3996,
+    radius: 350,
+    short: "There is no battlefield on this corner. The war is the family. Henry L. Plumb, born in 1834, was a Civil War veteran and the first postmaster on record. He died in 1883. His brother Eugene was shot in battle. His brother Francis starved to death in Libby Prison in Richmond. Their sister Elanor Plumb Mellinger, born in 1837, died in 1892, and is buried in Mellinger Cemetery, about two and a half miles northeast, at the north end of Road 193.",
+    long: "",
+    names: ["Henry L. Plumb", "Eugene Plumb", "Francis Plumb", "Elanor Plumb Mellinger"]
+  },
+  {
+    id: "plumbs-corner",
+    name: "Church and school",
+    lat: 41.0087,
+    lng: -84.3996,
+    radius: 300,
+    short: "A church and a school stood on a forty-acre farm the Plumbs owned, in the southwest corner of this crossing. No denomination is recorded. Henry married Sarah Hoopengarner, born in 1845, died in 1920, and they had at least ten children. The other known postmasters were E. Kohn and David P. Oliver. Nothing of the store or the school is left.",
+    long: "",
+    names: ["Sarah Hoopengarner", "E. Kohn", "David P. Oliver"]
+  },
+  {
+    id: "plumbs-fought",
+    name: "Fought Cemetery",
+    lat: 41.0087,
+    lng: -84.3996,
+    radius: 300,
+    short: "Caleb, Eliza, Henry, and Sarah are buried in Fought Cemetery, on private ground about a mile northeast, between Road 193 and Dog Creek.",
+    long: "",
+    names: ["Fought Cemetery"]
+  },
+  {
+    id: "plumbs-gaps",
+    name: "What is not here",
+    lat: 41.0087,
+    lng: -84.3996,
+    radius: 300,
+    short: "No park is named. No native village is named. The railroad and the 2002 tornado belong to Roselms, on State Route 114, not to this corner. The story here is the X, the family, and the office that changed its name.",
+    long: "",
+    names: ["Plumb's Cross Roads"]
+  },
 
   ];
 

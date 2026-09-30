@@ -39260,6 +39260,48 @@ const STORIES = [
     long: "",
     names: ["Nettle Creek", "Heritage Cemetery"]
   },
+ {
+    id: "approach-baldwin-jeff",
+    name: "Baldwin",
+    lat: 41.5831,
+    lng: -84.4971,
+    radius: 700,
+    layer: "approach",
+    short: "You are coming up on Baldwin, in Jefferson Township, on County Road 17 at the old Wabash crossing, between US 20A and County Road K, along Beaver Creek. It was on the Wabash in the early 1900s and it did not have a station. Nothing is left at the crossing. The listing says the old grade is now the Wabash Cannonball Trail, sixty-three miles, paved. It spells the name Connonball. The trail's own site spells it Cannonball. The other Baldwin in this file is a different town, on the Indiana line.",
+    long: "",
+    names: ["Baldwin", "Wabash Railroad", "Beaver Creek", "Wabash Cannonball Trail"]
+  },
+  {
+    id: "baldwin-jeff-school1",
+    name: "Jefferson school 1",
+    lat: 41.5959,
+    lng: -84.4800,
+    radius: 250,
+    short: "Jefferson Township School Number 1 stood about a mile and a quarter northeast, on the north side of US 20A. It sat on a 160-acre farm, first the Lantz family, later the Denman family. The listing does not give them first names, and it does not say the school is still there.",
+    long: "",
+    names: ["Lantz family", "Denman family"]
+  },
+  {
+    id: "baldwin-jeff-ridge",
+    name: "Pleasant Ridge",
+    lat: 41.5968,
+    lng: -84.5153,
+    radius: 250,
+    short: "About a mile and a third northwest, at US 20A and County Road 16, Jefferson Township School Number 2 stood on the northwest corner, on a 160-acre farm owned by the Welch family. No first names. Pleasant Ridge United Brethren Church started on the southwest corner of that same intersection. Between the 1904 and 1918 atlases it moved just to the north. Holiday City already has its own stop, so this pin stays on the corner.",
+    long: "",
+    names: ["Pleasant Ridge United Brethren Church", "Welch family"]
+  },
+  {
+    id: "baldwin-jeff-gaps",
+    name: "What is not here",
+    lat: 41.5831,
+    lng: -84.4971,
+    radius: 250,
+    short: "No post office, no depot, no mill, no cemetery, and no native village are named at this crossing. Beaver Creek is the water. The schools and the church are the other stops. The crossing itself is empty.",
+    long: "",
+    names: ["Beaver Creek"]
+  },
 
+  
   ];
 

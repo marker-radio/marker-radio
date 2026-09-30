@@ -38562,7 +38562,47 @@ const STORIES = [
     long: "",
     names: ["Crooked Creek"]
   },
-
+  {
+    id: "approach-clarksville",
+    name: "Clarksville",
+    lat: 41.4222,
+    lng: -84.7700,
+    radius: 700,
+    layer: "approach",
+    short: "You are coming up on Clarksville, in Milford Township, on the Defiance and Williams county line, at County Line Road and Hicksville Edgerton Road, along the St. Joseph River. Elisha Clark platted 36 lots here in 1836. In its best years it had two stores, two taverns, two doctors, a grist mill, a small Lutheran church, and about 20 houses. The plat is farmland now.",
+    long: "",
+    names: ["Clarksville", "St. Joseph River", "Elisha Clark"]
+  },
+  {
+    id: "clarksville-town",
+    name: "Elisha Clark's plat",
+    lat: 41.4222,
+    lng: -84.7700,
+    radius: 300,
+    short: "Elisha Clark was the first justice of the peace in the township. He platted Clarksville in 1836. The plat is drawn on the Milford Township map in the 1866 county atlas, and again on page 55 of the 1890 atlas. The first school was built on lot 10 in 1840. Clarksville was still on the county map in 1931, but most of the lots had gone back to fields.",
+    long: "",
+    names: ["Elisha Clark"]
+  },
+  {
+    id: "clarksville-school",
+    name: "Milford School No. 2",
+    lat: 41.4114,
+    lng: -84.7700,
+    radius: 250,
+    short: "The newer school, Milford Township Number 2, stood about three quarters of a mile south, in the northwest corner of Hicksville Edgerton Road and Kramer Road. It sat on a 39-acre farm owned by the Green family. Nothing of it is standing.",
+    long: "",
+    names: ["Green family"]
+  },
+  {
+    id: "clarksville-gaps",
+    name: "What is not here",
+    lat: 41.4222,
+    lng: -84.7700,
+    radius: 280,
+    short: "No post office, no railroad, no park, no battlefield, and no native village are named on this plat. The St. Joseph is the water. The mill, the church, the stores, and the taverns are gone.",
+    long: "",
+    names: ["St. Joseph River"]
+  },
 
 
   ];

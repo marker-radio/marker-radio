@@ -39486,6 +39486,37 @@ const STORIES = [
     long: "",
     names: ["Metz School"]
   },
+  {
+    id: "approach-pleasant-lake",
+    name: "Pleasant Lake",
+    lat: 41.5753,
+    lng: -85.0161,
+    radius: 450,
+    layer: "approach",
+    short: "You are coming up on Pleasant Lake, in Steuben Township, Steuben County. The recorded name before this one was Nipcondish, said to mean pleasant waters. The town is named for the lake. Ashley and Hudson already have their towns.",
+    long: "",
+    names: ["Pleasant Lake", "Nipcondish"]
+  },
+  {
+    id: "pleasant-lake-plat",
+    name: "Pleasant Lake plat",
+    lat: 41.5753,
+    lng: -85.0161,
+    radius: 280,
+    short: "Payne C. Parker laid out a plat in February 1846. He sold to Luther Cleland. That plat was ignored, and the lots were sold by measurements instead. On November 1, 1870, William Thompson and Sheldon Ball platted the town again, farther west, beside the Fort Wayne, Jackson and Saginaw Railroad. That line was built through the county in 1870. The Lake Shore and Michigan Southern leased it in September 1882. In December 1914 it became part of the New York Central. The older stores sat about half a mile east, near the end of the lake.",
+    long: "",
+    names: ["Payne C. Parker", "William Thompson", "Sheldon Ball"]
+  },
+  {
+    id: "pleasant-lake-depot",
+    name: "Pleasant Lake Depot",
+    lat: 41.5753,
+    lng: -85.0161,
+    radius: 280,
+    short: "The post office opened June 2, 1851. Simeon C. Aldrich was postmaster. It is still on West Main. The depot at 1469 West Main was built in 1882, south of Main on the east side of the tracks. It is also called the New York Central Railroad Depot. It went on the National Register in 2001 and is no longer in use. The ground across the tracks once held more rails, a water tower, and stockyard pens. These pages do not name a native village or a war site here.",
+    long: "",
+    names: ["Simeon C. Aldrich", "Pleasant Lake Depot"]
+  },
 
   
   ];

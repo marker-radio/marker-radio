@@ -38174,6 +38174,77 @@ const STORIES = [
     names: ["Ettiesburg"]
   },
 
+  {
+    id: "approach-cranesville",
+    name: "Cranesville",
+    lat: 41.2376,
+    lng: -84.6180,
+    radius: 400,
+    layer: "approach",
+    short: "You are coming up on Cranesville, in Crane Township, on Road 192 along the Maumee River, between Road 89 and Road 105. Horatio Nelson Curtis built a trading post and a brick house on the north bank in 1825. The post office ran from 1829 to 1865. If you are on the river road, I'll start with him.",
+    long: "",
+    names: ["Cranesville"]
+  },
+  {
+    id: "cranesville-curtis",
+    name: "Horatio Curtis",
+    lat: 41.2376,
+    lng: -84.6180,
+    radius: 300,
+    short: "Horatio Nelson Curtis was born in 1803 and died in 1874, from New York. He named the town for Oliver Crane, another early settler. The township took Crane's name too. Horatio was the first county clerk and recorder, a surveyor, a Freemason, and a justice of the peace. Census records from 1840 to 1870 list his wife as Susan Curtis, born about 1812, from Pennsylvania. They had at least three children. People called him General. This record says that title was honorary and not a military rank.",
+    long: "",
+    names: ["Horatio Nelson Curtis", "Oliver Crane", "Susan Curtis"]
+  },
+  {
+    id: "cranesville-house",
+    name: "The 1825 house",
+    lat: 41.2304,
+    lng: -84.6180,
+    radius: 250,
+    short: "The Horatio Nelson Curtis House is on private property about half a mile south. He built the brick house and a trading post near the north bank of the Maumee in 1825. A wood addition went on in 1826. The brick house is likely the oldest building still standing in Paulding County.",
+    long: "",
+    names: ["Horatio Nelson Curtis House"]
+  },
+  {
+    id: "cranesville-legend",
+    name: "The demolished wing",
+    lat: 41.2304,
+    lng: -84.6180,
+    radius: 250,
+    short: "People said the 1826 wood addition was haunted by former residents. That wing has been torn down. The brick house is what remains.",
+    long: "",
+    names: ["Horatio Nelson Curtis House"]
+  },
+  {
+    id: "cranesville-school",
+    name: "The school lot",
+    lat: 41.2453,
+    lng: -84.6282,
+    radius: 280,
+    short: "Horatio donated the school lot, about three quarters of a mile northwest, in the northwest corner of Road 192 and Road 89.",
+    long: "",
+    names: ["Cranesville"]
+  },
+  {
+    id: "cranesville-mail",
+    name: "The office",
+    lat: 41.2376,
+    lng: -84.6180,
+    radius: 280,
+    short: "The post office ran from 1829 to 1865. The known postmasters were Abraham Davis, N. L. Thomas, N. G. Sales, Ephraim Burwell, and Horatio N. Curtis. He also platted Antwerp in 1841. He is buried with relatives in Riverside Cemetery, on Island Street in Antwerp.",
+    long: "",
+    names: ["Abraham Davis", "Ephraim Burwell", "Riverside Cemetery"]
+  },
+  {
+    id: "cranesville-gaps",
+    name: "What is not here",
+    lat: 41.2376,
+    lng: -84.6180,
+    radius: 280,
+    short: "No battlefield, no park, and no native village are named at this bend of the Maumee. The river and the trading post made the town. The war title was not a war fought here.",
+    long: "",
+    names: ["Maumee River"]
+  },
 
   ];
 

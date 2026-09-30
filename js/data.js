@@ -39383,7 +39383,37 @@ const STORIES = [
     long: "",
     names: ["Smith Settlement"]
   },
-
+  {
+    id: "approach-ayersville",
+    name: "Ayersville",
+    lat: 41.2387,
+    lng: -84.2855,
+    radius: 220,
+    layer: "approach",
+    short: "You are coming up on Ayersville, in Highland Township. The 1883 county history says it was never laid out as a town. It was named for Joseph Ayers. A post office is listed from 1850 to 1905. That same book says one was here as early as 1849. Defiance already has the city, about 5 miles west.",
+    long: "",
+    names: ["Ayersville", "Joseph Ayers"]
+  },
+  {
+    id: "ayersville-1883",
+    name: "Ayersville in 1883",
+    lat: 41.2387,
+    lng: -84.2855,
+    radius: 200,
+    short: "The mail route ran from Defiance through Ayersville, New Bavaria, Ridgeland, Madrid, Leipsic, and McComb, and on to Findlay. By 1883 the book only describes the run from Defiance to Ayersville. Nathan A. Boutell had the mail contract. Mrs. Boutell was postmistress. The book does not give her first name. They kept the store and the post office. Also here then: Dr. H. H. Ziegler, a Methodist church, a schoolhouse, a blacksmith shop, and a sawmill. No mill owner's name.",
+    long: "",
+    names: ["Nathan A. Boutell", "H. H. Ziegler"]
+  },
+  {
+    id: "ayersville-gaps",
+    name: "What is not here",
+    lat: 41.2387,
+    lng: -84.2855,
+    radius: 200,
+    short: "Dr. B. D. Ashton is the first doctor named, about 1856. Dr. Boutell came in 1860. The book does not say that was Nathan. Dr. I. N. Thacker came in 1878, stayed about two years, and went back to Defiance. The Methodist church was built in 1860 for about 700 dollars. About 75 members. Rev. Henry Boyer was the pastor in 1883. The map still marks Ayersville United Methodist Church on this corner. The school district built a new school in 2017. That is not the old schoolhouse. No railroad, no native village, and no war site are named here.",
+    long: "",
+    names: ["Henry Boyer", "I. N. Thacker", "B. D. Ashton"]
+  },
 
   ];
 

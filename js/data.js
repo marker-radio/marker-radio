@@ -38409,5 +38409,57 @@ const STORIES = [
     names: ["North Fork Gordon Creek"]
   },
 
+  {
+    id: "approach-nebo",
+    name: "Nebo",
+    lat: 41.2670,
+    lng: -84.6692,
+    radius: 700,
+    layer: "approach",
+    short: "You are coming up on Nebo, in Mark Township, at Jericho Road and Breininger Road, along Gordon Creek. George Spealman moved a steam sawmill to the northeast corner. The old one-room school is still in the northwest corner, and it is a house now. The post office ran from 1890 to 1904.",
+    long: "",
+    names: ["Nebo", "Gordon Creek"]
+  },
+  {
+    id: "nebo-spealman",
+    name: "George Spealman",
+    lat: 41.2670,
+    lng: -84.6692,
+    radius: 300,
+    short: "George Spealman was born in 1834 and died in 1915. He was a Civil War veteran. He married Blanche Kirk in 1857. She was born in 1840 and died in 1932. They moved to LaSalle County, Illinois, the next year, had three children there, and came back to Ohio in the mid-1860s. They had two more children here. Their steam sawmill started in Stark County, was moved to Henry County, then to about a mile north of Mark Center, then into Mark Center, and last to the northeast corner of this intersection. A cider mill stood beside it. George was the postmaster.",
+    long: "",
+    names: ["George Spealman", "Blanche Kirk"]
+  },
+  {
+    id: "nebo-school",
+    name: "Spindler School",
+    lat: 41.2670,
+    lng: -84.6692,
+    radius: 220,
+    short: "Mark Township Number 9, also called the Spindler School, stands in the northwest corner of the intersection. It sat on a 78-acre farm owned by the Spindler family. The schoolhouse is a private house now.",
+    long: "",
+    names: ["Spindler School", "Spindler family"]
+  },
+  {
+    id: "nebo-cemetery",
+    name: "Spindler Cemetery",
+    lat: 41.2622,
+    lng: -84.6692,
+    radius: 250,
+    short: "Spindler Cemetery is a third of a mile south, on the west side of Breininger Road. It was laid out on the 160-acre farm of John Spinder, born in 1807 and died in 1906, and Elizabeth Spindler, born in 1810 and died in 1864, from Pennsylvania. The old listing spells his name Spinder and hers Spindler. George, Blanche, and the Spindlers are buried here.",
+    long: "",
+    names: ["Spindler Cemetery", "John Spinder", "Elizabeth Spindler"]
+  },
+  {
+    id: "nebo-gaps",
+    name: "What is not here",
+    lat: 41.2670,
+    lng: -84.6692,
+    radius: 250,
+    short: "No railroad, no park, no battlefield, and no native village are named at this corner. The war here is George's service. Gordon Creek is the water.",
+    long: "",
+    names: ["Gordon Creek"]
+  },
+  
   ];
 

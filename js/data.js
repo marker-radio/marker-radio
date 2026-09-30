@@ -40178,8 +40178,36 @@ const STORIES = [
     long: "",
     names: ["Belmore Ridge", "Independence, Ridgeville and Adrian Free Turnpike"]
   },
-
-
+  {
+    id: "otsego-center-carpenter",
+    name: "Carpenter's Chapel",
+    lat: 41.5725,
+    lng: -84.9089,
+    radius: 250,
+    short: "Harlow J. Carpenter was born in Chittenden County, Vermont, on June 27, 1813. In 1849 he bought 120 acres on section 22 in Otsego Township. He was a Methodist preacher, and people called him Elder Carpenter. The county history says he officiated at 612 funerals. He died on April 30, 1883. Soon after, the Methodist church at Otsego Center was rededicated and named Carpenter's Chapel.",
+    long: "",
+    names: ["Harlow J. Carpenter", "Carpenter's Chapel"]
+  },
+  {
+    id: "otsego-center-store",
+    name: "The Otsego Center store",
+    lat: 41.5725,
+    lng: -84.9089,
+    radius: 200,
+    short: "In 1881 George H. Carpenter, son of Elder Carpenter, opened a general store at Otsego Center. That same year he was appointed postmaster. This record does not say when the post office closed.",
+    long: "",
+    names: ["George H. Carpenter"]
+  },
+  {
+    id: "arthur-oh-post",
+    name: "The Arthur post office",
+    lat: 41.1947,
+    lng: -84.3608,
+    radius: 250,
+    short: "The 1892 Paulding County history says a post office opened here in 1882, in the eastern part of Auglaize Township, and was named for Chester A. Arthur, then president. John Moore was the first postmaster. By 1892 it was A. J. Kinnear. Arthur sat about five miles east of Junction. A later postal list says the office closed in 1902.",
+    long: "",
+    names: ["Chester A. Arthur", "John Moore", "A. J. Kinnear"]
+  },
   
 ];
 

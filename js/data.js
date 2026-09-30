@@ -40097,6 +40097,57 @@ const STORIES = [
     long: "",
     names: ["Tate's Landing"]
   },
+  {
+    id: "convoy-nesbit",
+    name: "Robert Nesbitt",
+    lat: 40.9387,
+    lng: -84.6991,
+    radius: 250,
+    short: "Robert Nesbitt was born in Convoy, Donegal, Ireland, in December 1810. He came to Van Wert County in the late 1830s and bought 120 acres in Tully Township. On June 16, 1854, he and James Pettit platted this village, and he named it for his home town. He married Catherine Byers, served nine years as justice of the peace, and died of typhoid pneumonia on May 1, 1879. His grave and marker are in Sugar Ridge Cemetery, at Lincoln Highway and Pollock Road. The marker also spells him Nesbit.",
+    long: "",
+    names: ["Robert Nesbitt", "James Pettit", "Catherine Byers", "Sugar Ridge Cemetery"]
+  },
+  {
+    id: "convoy-lincoln",
+    name: "Lincoln Highway",
+    lat: 40.9387,
+    lng: -84.6991,
+    radius: 250,
+    short: "The other side of Nesbitt's marker says this is the western end of the Lincoln Highway in Ohio. In this state the road ran from here to East Liverpool. The association was founded on July 1, 1913. In 1928 the Boy Scouts set concrete markers, about one a mile, that read, this highway dedicated to Abraham Lincoln.",
+    long: "",
+    names: ["Lincoln Highway", "Carl Fisher", "Henry Joy"]
+  },
+  {
+    id: "convoy-mill",
+    name: "The stave mill",
+    lat: 40.9175,
+    lng: -84.7050,
+    radius: 250,
+    short: "In 1872 a stave mill here was turning out 20,000 staves a day. A hoop mill stood just south of it, making the hoops for wooden barrels. This record does not name the owner.",
+    long: "",
+    names: ["Convoy"]
+  },
+  {
+    id: "convoy-interurban",
+    name: "The Convoy Horror",
+    lat: 40.9175,
+    lng: -84.7050,
+    radius: 300,
+    short: "The Fort Wayne, Van Wert and Lima electric line opened through here in 1905 and stopped running in 1932. At sunrise on Easter, March 27, 1910, people in Convoy heard a wreck on that line. The papers called it the Convoy Horror. This account does not give the number of dead.",
+    long: "",
+    names: ["Fort Wayne, Van Wert and Lima Traction Company"]
+  },
+  {
+    id: "convoy-opera",
+    name: "Convoy Opera House",
+    lat: 40.9175,
+    lng: -84.7050,
+    radius: 180,
+    short: "The Convoy Opera House was built in 1901 at 111 South Main Street. It was the town's theater, and it also served as the firehouse and the city hall. It was named to the National Register of Historic Places in March 2021.",
+    long: "",
+    names: ["Convoy Opera House"]
+  },
+
 
   
 ];

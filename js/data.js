@@ -36607,6 +36607,117 @@ const STORIES = [
     long: "",
     names: ["Canalport"]
   },
+  {
+    id: "approach-grover-hill",
+    name: "Grover Hill",
+    lat: 41.0192,
+    lng: -84.4766,
+    radius: 1600,
+    layer: "approach",
+    short: "You are coming up on Grover Hill, on State Route 114 in Latty Township. It was laid out in 1887 on a railroad they nicknamed the Tangent. The name honors President Grover Cleveland and Congressman W.D. Hill. If you turn in, I'll start with that name.",
+    long: "",
+    names: ["Grover Hill"]
+  },
+  {
+    id: "grover-hill-name",
+    name: "Grover Hill",
+    lat: 41.0192,
+    lng: -84.4766,
+    radius: 400,
+    short: "Grover Hill was laid out in 1887 and incorporated in 1891. It was named for former President Grover Cleveland and former Congressman W.D. Hill. From 1895 to 1905 the post office wrote it as one word, Groverhill, then changed it back. The 1900 census counted 655 people. In 1910 it was 676. In 2020 it was 382.",
+    long: "",
+    names: ["Grover Cleveland", "W.D. Hill", "Grover Hill"]
+  },
+  {
+    id: "grover-hill-gilbert",
+    name: "Gilbert's Mills",
+    lat: 41.0192,
+    lng: -84.4766,
+    radius: 400,
+    short: "The older place was Gilbert's Mills, a mile and a half south of here. Philander Gilbert built a sawmill and a gristmill there, starting about 1866. A post office opened in 1873, and he was the first postmaster. The railroad pulled people north. The office was moved to Grover Hill and took this village's name.",
+    long: "",
+    names: ["Philander Gilbert", "Gilbert's Mills"]
+  },
+  {
+    id: "grover-hill-rail",
+    name: "The Tangent",
+    lat: 41.0192,
+    lng: -84.4766,
+    radius: 450,
+    short: "The town was platted on the line of the American Midland, while the grade was still being built. The papers then called it the New York, Mahoning and Western. Later it was the Findlay, Fort Wayne and Western, the Tangent. Trains ran through the county from 1892 until the First World War. The track between here and Haviland lasted until about June 1920. The line was gone that year. State Route 114 still follows it.",
+    long: "",
+    names: ["Findlay, Fort Wayne and Western", "Tangent", "New York, Mahoning and Western"]
+  },
+  {
+    id: "grover-hill-stave",
+    name: "Leuhart's stave factory",
+    lat: 41.0192,
+    lng: -84.4766,
+    radius: 350,
+    short: "The 1892 atlas called Grover Hill a busy little place because of Leuhart's stave factory, plus the stores and houses around it. This was one of the stave-mill towns in the last years of the big timber.",
+    long: "",
+    names: ["Leuhart"]
+  },
+  {
+    id: "grover-hill-church",
+    name: "Methodist chapel",
+    lat: 41.0192,
+    lng: -84.4766,
+    radius: 300,
+    short: "The 1892 atlas recorded a Methodist Episcopal chapel here, a frame building 32 by 50 feet. The first Sunday school was organized by a Methodist minister named Miller. A Bible Baptist church stands in the village now.",
+    long: "",
+    names: ["Methodist Episcopal", "Bible Baptist Church"]
+  },
+  {
+    id: "grover-hill-school",
+    name: "Grover Hill school",
+    lat: 41.0203,
+    lng: -84.4794,
+    radius: 250,
+    short: "Grover Hill Elementary stands on South Monroe Street, in the Wayne Trace district. The town also had a high school. The library holds its yearbooks from 1945 through 1969.",
+    long: "",
+    names: ["Grover Hill Elementary", "Wayne Trace"]
+  },
+  {
+    id: "grover-hill-cemetery",
+    name: "Middle Creek Cemetery",
+    lat: 41.0051,
+    lng: -84.4514,
+    radius: 400,
+    short: "Middle Creek Cemetery is a mile south and a mile and a half east of the village, on County Highway 24. A United Brethren log church was built here in 1858, and burials started then. Eli Rop deeded an acre to the township on January 8, 1874. The church deeded more ground on April 20, 1887. The church beside the stones is now Middle Creek United Methodist. Northeast of the cemetery is what is left of the Jaquette stone quarry.",
+    long: "",
+    names: ["Middle Creek Cemetery", "Eli Rop", "Middle Creek United Methodist"]
+  },
+  {
+    id: "grover-hill-wayne",
+    name: "Wayne's road",
+    lat: 41.0051,
+    lng: -84.4514,
+    radius: 350,
+    short: "There is no fort or battlefield in Grover Hill. Northeast of Middle Creek Cemetery, a road is said to follow the trail Anthony Wayne used when he crossed Washington Township. That is the war trace this stop can honestly claim.",
+    long: "",
+    names: ["Anthony Wayne"]
+  },
+  {
+    id: "grover-hill-native",
+    name: "No village on the plat",
+    lat: 41.0192,
+    lng: -84.4766,
+    radius: 350,
+    short: "No native village is named on the Grover Hill plat. The timber the stave mill cut was Black Swamp wood. That is the older ground under the town.",
+    long: "",
+    names: ["Black Swamp"]
+  },
+  {
+    id: "grover-hill-parks",
+    name: "No park",
+    lat: 41.0192,
+    lng: -84.4766,
+    radius: 300,
+    short: "No village park turned up in the Grover Hill record. I will not invent one. The public ground people still use is Middle Creek Cemetery, southeast of town.",
+    long: "",
+    names: ["Grover Hill"]
+  },
 
 
   ];

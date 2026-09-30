@@ -38501,6 +38501,69 @@ const STORIES = [
     long: "",
     names: ["Lost Creek"]
   },
-  
+    {
+    id: "approach-milo",
+    name: "Milo",
+    lat: 41.3827,
+    lng: -84.7291,
+    radius: 700,
+    layer: "approach",
+    short: "You are coming up on Milo, in Milford Township, at State Route 249 and Lake Road, along Crooked Creek. It was a farming stop. The post office ran from 1851 to 1884 and moved from house to house with the postmaster. Nothing of the town is left.",
+    long: "",
+    names: ["Milo", "Crooked Creek"]
+  },
+  {
+    id: "milo-office",
+    name: "Milo post office",
+    lat: 41.3827,
+    lng: -84.7291,
+    radius: 300,
+    short: "The post office served a wide stretch of the township, and it sat in the postmaster's house, not in a store. The known postmasters were James Marshall, Jacob Serrill, John Serrill, E. H. Chapman, George W. Chapman, and A. Pearson.",
+    long: "",
+    names: ["James Marshall", "Jacob Serrill", "John Serrill", "E. H. Chapman", "George W. Chapman", "A. Pearson"]
+  },
+  {
+    id: "milo-school-casebeer",
+    name: "Milford School No. 6",
+    lat: 41.3827,
+    lng: -84.7869,
+    radius: 250,
+    short: "Milford Township Number 6 stood three miles west of Milo, in the southwest corner of State Route 249 and Casebeer Miller Road. Nothing of it is standing.",
+    long: "",
+    names: ["Milford Township"]
+  },
+  {
+    id: "milo-school-49",
+    name: "Milford School No. 7",
+    lat: 41.3827,
+    lng: -84.7483,
+    radius: 250,
+    short: "Milford Township Number 7 stood a mile west of Milo, in the southwest corner of State Route 249 and State Route 49. Nothing of it is standing.",
+    long: "",
+    names: ["Milford Township"]
+  },
+  {
+    id: "milo-school-cicero",
+    name: "Milford School No. 8",
+    lat: 41.3827,
+    lng: -84.7098,
+    radius: 250,
+    short: "Milford Township Number 8 stood a mile east of Milo, in the northwest corner of State Route 249 and Cicero Road. Nothing of it is standing.",
+    long: "",
+    names: ["Milford Township"]
+  },
+  {
+    id: "milo-gaps",
+    name: "What is not here",
+    lat: 41.3827,
+    lng: -84.7291,
+    radius: 280,
+    short: "No railroad, no church, no park, no battlefield, and no native village are named at Milo. Crooked Creek is the water. The schools and the post office are gone.",
+    long: "",
+    names: ["Crooked Creek"]
+  },
+
+
+
   ];
 

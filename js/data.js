@@ -38603,6 +38603,47 @@ const STORIES = [
     long: "",
     names: ["St. Joseph River"]
   },
+  {
+    id: "approach-ashwood",
+    name: "Ashwood",
+    lat: 41.2559,
+    lng: -84.4572,
+    radius: 800,
+    layer: "approach",
+    short: "You are coming up on Ashwood, also called Ashwood Station, on the line of Defiance and Delaware townships. Ashwood Road crosses the Wabash here, between the Defiance-Paulding county line and US 24. It was a farming stop with a train station. The post office ran only from 1879 to 1880. Nothing of the station is left.",
+    long: "",
+    names: ["Ashwood", "Wabash Railroad"]
+  },
+  {
+    id: "ashwood-harmening",
+    name: "Frederick Harmening",
+    lat: 41.2559,
+    lng: -84.4572,
+    radius: 320,
+    short: "Frederick J. Harmening was born in 1840 in Prussia and died in 1883. He married Anna Hecht, born in 1844 in Germany. She died in 1871. In 1873 he married her sister, Amelia Hecht, born in 1853 in Pennsylvania. She died in 1937. He owned all of section 36, west of this crossing, in Delaware Township, and a 153-acre farm on the east side, in Defiance Township, where the station stood. He had at least six children. In 1875 he also helped plat the north half of Mark Center when the Baltimore and Ohio came through. He is buried with Anna and Amelia at Riverside Cemetery in Defiance.",
+    long: "",
+    names: ["Frederick J. Harmening", "Anna Hecht", "Amelia Hecht"]
+  },
+  {
+    id: "ashwood-school",
+    name: "Defiance School No. 1",
+    lat: 41.2380,
+    lng: -84.4334,
+    radius: 250,
+    short: "Defiance Township Number 1 stood about a mile and three quarters southeast, on the west side of Krouse Road. It sat on a 120-acre farm owned by the Sherry family. Nothing of it is standing.",
+    long: "",
+    names: ["Sherry family"]
+  },
+  {
+    id: "ashwood-gaps",
+    name: "What is not here",
+    lat: 41.2559,
+    lng: -84.4572,
+    radius: 280,
+    short: "No church, no park, no battlefield, and no native village are named at this crossing. The Wabash is why the station was here. The station and the school are gone.",
+    long: "",
+    names: ["Wabash Railroad"]
+  },
 
 
   ];

@@ -37552,6 +37552,58 @@ const STORIES = [
     long: "",
     names: ["Sophia"]
   },
+ {
+    id: "approach-st-andrews",
+    name: "St. Andrews",
+    lat: 41.1040,
+    lng: -84.4271,
+    radius: 500,
+    layer: "approach",
+    short: "You are coming up on St. Andrews, in Brown Township, where Road 108 meets Road 181 on the old Miami and Erie. Scottish brothers James and Alexander Mather platted it in 1850. Melrose took the trade, and this stop was gone by 1881. If you are on the canal path, I'll start with the brothers.",
+    long: "",
+    names: ["St. Andrews"]
+  },
+  {
+    id: "st-andrews-plat",
+    name: "The Mather plat",
+    lat: 41.1040,
+    lng: -84.4271,
+    radius: 350,
+    short: "James Mather was born in 1801 and died in 1860. Alexander Mather was born in 1806 and died in 1876. They were Scottish, and they were brothers. They platted St. Andrews in 1850. No postmaster is named, because no post office is recorded here.",
+    long: "",
+    names: ["James Mather", "Alexander Mather"]
+  },
+  {
+    id: "st-andrews-canal",
+    name: "Lost to Melrose",
+    lat: 41.1040,
+    lng: -84.4271,
+    radius: 350,
+    short: "The plat sat on the Miami and Erie. There was no railroad. Melrose, a short way south, got the timber dock and later the Nickel Plate. St. Andrews could not keep the people. It was abandoned in 1881. Nothing of the town is left on the ground.",
+    long: "",
+    names: ["Miami and Erie Canal", "Melrose"]
+  },
+  {
+    id: "st-andrews-graves",
+    name: "Schuyler County",
+    lat: 41.1040,
+    lng: -84.4271,
+    radius: 300,
+    short: "The brothers left the state. They are buried with relatives in Schuyler County, Missouri. No cemetery for this town is recorded in Paulding County.",
+    long: "",
+    names: ["James Mather", "Alexander Mather"]
+  },
+  {
+    id: "st-andrews-gaps",
+    name: "What is not here",
+    lat: 41.1040,
+    lng: -84.4271,
+    radius: 300,
+    short: "No church, no school, no park, no native village, and no battlefield are recorded at St. Andrews. The story is the canal plat, and the town that lost.",
+    long: "",
+    names: ["St. Andrews"]
+  },
+
 
   ];
 

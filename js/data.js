@@ -39926,6 +39926,46 @@ const STORIES = [
     long: "",
     names: ["Middle Point"]
   },
-
+  {
+    id: "pleasant-lake-baptist",
+    name: "Pleasant Lake Baptist Church",
+    lat: 41.5763,
+    lng: -85.0158,
+    radius: 160,
+    short: "Pleasant Lake Baptist Church is at 1380 West State Street, on the same street as the depot. It was built in 1880. The brick building is still the main part of the church. It has always been a Baptist church.",
+    long: "",
+    names: ["Pleasant Lake Baptist Church"]
+  },
+  {
+    id: "pleasant-lake-mount-zion",
+    name: "Mount Zion Church",
+    lat: 41.5946,
+    lng: -85.0655,
+    radius: 250,
+    short: "Mount Zion United Methodist Church is at 3365 South Golden Lake Road, about 3 miles from the town. It started as a United Brethren church. The land was bought in 1865 and the church was built soon after. In 1903 the building was moved across the road, where it still stands.",
+    long: "",
+    names: ["Mount Zion United Methodist Church"]
+  },
+  {
+    id: "pleasant-lake-ice",
+    name: "Pleasant Lake ice",
+    lat: 41.5753,
+    lng: -85.0161,
+    radius: 200,
+    short: "Pleasant Lake had an ice business. Eugene Aldrich kept a small ice house on the southwest corner of the lake. A Fort Wayne company built several large ice houses here and shipped ice to Fort Wayne for years. The business ended after artificial ice and electric refrigerators. The Ransburg ice house was on Long Lake, about a mile away, not in this town.",
+    long: "",
+    names: ["Eugene Aldrich"]
+  },
+  {
+    id: "pleasant-lake-potawatomi",
+    name: "Pleasant Lake Potawatomi",
+    lat: 41.5753,
+    lng: -85.0161,
+    radius: 200,
+    short: "The 1880 Steuben County atlas says Pleasant Lake was originally inhabited by Potawatomi. It does not name a village. No war site here is named either.",
+    long: "",
+    names: ["Potawatomi"]
+  },
+  
   ];
 

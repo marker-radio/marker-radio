@@ -37035,9 +37035,77 @@ const STORIES = [
     long: "",
     names: ["Rharig School"]
   },
-
-
-
+  {
+    id: "approach-timberville",
+    name: "Timberville",
+    lat: 41.0484,
+    lng: -84.3808,
+    radius: 1200,
+    layer: "approach",
+    short: "You are coming up on Timberville, in Washington Township, on the old Miami and Erie. People called it Hipp's Lock. John Hipp put a store and a gristmill here in 1863. If you are on the canal road, I'll start with him.",
+    long: "",
+    names: ["Timberville"]
+  },
+  {
+    id: "timberville-lock",
+    name: "Hipp's Lock",
+    lat: 41.0484,
+    lng: -84.3808,
+    radius: 400,
+    short: "Timberville was a canal town at Lock 31. The name people used was Hipp's Lock. A post office opened in 1868. The place had two stores, a hotel, a blacksmith shop, a tavern, and that post office. There was no railroad town here. The canal was the road.",
+    long: "",
+    names: ["Hipp's Lock", "Lock 31"]
+  },
+  {
+    id: "timberville-mill",
+    name: "Hipp's Mill",
+    lat: 41.0484,
+    lng: -84.3808,
+    radius: 400,
+    short: "In 1863 John Hipp opened a store and a gristmill. Settlers who lived for miles around brought corn here to be ground. About a mile east, on the canal, was another mill, believed to be Bob Harvester's.",
+    long: "",
+    names: ["John Hipp", "Bob Harvester"]
+  },
+  {
+    id: "timberville-timber",
+    name: "Ship timber",
+    lat: 41.0484,
+    lng: -84.3808,
+    radius: 400,
+    short: "The name means the cargo. Stave timber, cordwood, and bolt wood left this port. French Canadian woodsmen cut the big ship timber. It went out for boat masts in Europe, and for ships built for the North in the Civil War.",
+    long: "",
+    names: ["Timberville"]
+  },
+  {
+    id: "timberville-war",
+    name: "No battlefield",
+    lat: 41.0484,
+    lng: -84.3808,
+    radius: 300,
+    short: "There is no battlefield or fort at Timberville. The war connection is the timber. Masts and ship wood for the Union left this lock. I will not turn the lock into a battle.",
+    long: "",
+    names: ["Timberville"]
+  },
+  {
+    id: "timberville-native",
+    name: "No village on the plat",
+    lat: 41.0484,
+    lng: -84.3808,
+    radius: 300,
+    short: "No native village is named at Timberville. The lock was cut through Black Swamp timber, and the canal hauled that timber out.",
+    long: "",
+    names: ["Black Swamp"]
+  },
+  {
+    id: "timberville-parks",
+    name: "No park",
+    lat: 41.0484,
+    lng: -84.3808,
+    radius: 300,
+    short: "No school, church, or park is recorded at Timberville. The public place was the lock, the mill, and the tavern. I will not invent the rest.",
+    long: "",
+    names: ["Timberville"]
+  },
 
   ];
 

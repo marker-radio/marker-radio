@@ -39789,7 +39789,58 @@ const STORIES = [
     short: "You are coming up on Stroh, in Milford Township, LaGrange County. It sits on the southwest shore of Big Turkey Lake. The post office was established in 1900. This is not South Milford. That is a different place.",
     long: "",
     names: ["Stroh", "Big Turkey Lake"]
+ },
+ {
+    id: "salem-center-wisel",
+    name: "Wiselberg",
+    lat: 41.5850,
+    lng: -85.1397,
+    radius: 300,
+    short: "The Wisels settled here in 1836, and the place was called Wiselberg. The name Salem was chosen in 1837. People still called it the Burg. Of Hudson, Helmer, and Salem, this is the oldest and the smallest. In 1954 it had twenty-two families, about sixty-five people.",
+    long: "",
+    names: ["Wisel"]
   },
+  {
+    id: "salem-center-post",
+    name: "The Salem Center post office",
+    lat: 41.5850,
+    lng: -85.1397,
+    radius: 250,
+    short: "In the winter of 1848 to 1849 a mail route opened between Auburn and Orland, and Salem Center got a post office on it. David Wisel was the first postmaster. He served until 1853, then moved to Fillmore County, Minnesota. Walter Braden was next, and three years later Orson Woodford. The office was in the Woodford house, later lived in by his great-granddaughter Josephine Parsell. William E. Kimsey became postmaster on January 1, 1880. A later postal list says the office was established in 1852 and closed in 1903.",
+    long: "",
+    names: ["David Wisel", "Walter Braden", "Orson Woodford", "William E. Kimsey"]
+  },
+  {
+    id: "salem-center-church",
+    name: "Salem Center Presbyterian",
+    lat: 41.5850,
+    lng: -85.1397,
+    radius: 300,
+    short: "The Presbyterian Church of Salem Center was organized on August 10, 1839, by the Rev. A. Littlefield, in the house of John Wilson. The county history also writes his name O. Littlefield. Wilson had held meetings in that cabin for three years, and he had the first Sunday school in the township. Moses S. Parsell and John Wilson were the first elders. They met in the schoolhouse with the Methodists, who organized the same year. The first church building stood on the lot where the cemetery is now, a mile and a half north of town. This book does not name the cemetery.",
+    long: "",
+    names: ["John Wilson", "A. Littlefield", "Moses S. Parsell"]
+  },
+  {
+    id: "salem-center-school",
+    name: "The Center school",
+    lat: 41.5850,
+    lng: -85.1397,
+    radius: 250,
+    short: "Eliza Smith taught the first school at the Center in the winter of 1841 to 1842. The schoolhouse was built the autumn before. It was the second in the township. Jesse Miller was the first blacksmith. A pottery flourished here for a time. This account does not name the potter.",
+    long: "",
+    names: ["Eliza Smith", "Jesse Miller"]
+  },
+  {
+    id: "salem-center-gar",
+    name: "McLane Post",
+    lat: 41.5850,
+    lng: -85.1397,
+    radius: 250,
+    short: "McLane Post Number 342 of the Grand Army of the Republic was mustered here on May 3, 1884. Sixteen men were the charter members. Samuel Parker was the first commander. No battlefield is named at Salem Center.",
+    long: "",
+    names: ["Samuel Parker", "McLane Post"]
+  },
+ 
   {
     id: "stroh-gaps",
     name: "What is not at Stroh",

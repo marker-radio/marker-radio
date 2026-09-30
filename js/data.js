@@ -39966,6 +39966,26 @@ const STORIES = [
     long: "",
     names: ["Potawatomi"]
   },
-  
-  ];
+   {
+    id: "sedan-railroad",
+    name: "Lake Shore line",
+    lat: 41.4364,
+    lng: -85.0994,
+    radius: 300,
+    short: "The DeKalb County history places Sedan on the Lake Shore and Michigan Southern, east of Corunna. The village sat on that line. This record does not name a depot building.",
+    long: "",
+    names: ["Lake Shore and Michigan Southern"]
+  },
+  {
+    id: "sedan-lyman",
+    name: "Lyman Green",
+    lat: 41.4364,
+    lng: -85.0994,
+    radius: 300,
+    short: "Lyman Green settled in this neighborhood. The corners south of Sedan were named for him. The same history names Daniel Webber, William Beck, and the Showers family there with him.",
+    long: "",
+    names: ["Lyman Green", "Daniel Webber", "William Beck"]
+  },
+
+];
 

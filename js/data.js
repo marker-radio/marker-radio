@@ -37603,6 +37603,47 @@ const STORIES = [
     long: "",
     names: ["St. Andrews"]
   },
+{
+    id: "approach-sunnyside",
+    name: "Sunnyside",
+    lat: 41.1499,
+    lng: -84.6316,
+    radius: 1000,
+    layer: "approach",
+    short: "You are coming up on Sunnyside, in Paulding Township, where Gasser Road meets Road 87. The post office lasted one year, 1881 to 1882. A school with the same name came later, after the office was gone. No person in the record has a name. If you are at the crossing, I'll start with the office.",
+    long: "",
+    names: ["Sunnyside"]
+  },
+  {
+    id: "sunnyside-office",
+    name: "A one-year office",
+    lat: 41.1499,
+    lng: -84.6316,
+    radius: 350,
+    short: "Sunnyside was a small farming stop. The post office opened in 1881 and closed in 1882. No postmaster is named. No founder is named. There was no railroad and no canal at this corner.",
+    long: "",
+    names: ["Sunnyside"]
+  },
+  {
+    id: "sunnyside-school",
+    name: "The later school",
+    lat: 41.1499,
+    lng: -84.6316,
+    radius: 300,
+    short: "A school called Sunnyside stood in the northeast corner of the intersection. It was built sometime between the 1892 atlas and the 1905 atlas, years after the post office closed. The name outlived the mail. Nothing of the town is left.",
+    long: "",
+    names: ["Sunnyside"]
+  },
+  {
+    id: "sunnyside-gaps",
+    name: "What is not here",
+    lat: 41.1499,
+    lng: -84.6316,
+    radius: 300,
+    short: "No church, no park, no cemetery, no native village, and no battlefield are recorded at Sunnyside. The story is a one-year office, and a school that kept the name.",
+    long: "",
+    names: ["Sunnyside"]
+  },
 
 
   ];

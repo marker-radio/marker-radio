@@ -37177,6 +37177,78 @@ const STORIES = [
     long: "",
     names: ["Joachim Murat"]
   },
+  {
+    id: "approach-hamer",
+    name: "Hamer",
+    lat: 41.0035,
+    lng: -84.3461,
+    radius: 800,
+    layer: "approach",
+    short: "You are coming up on Hamer, in Washington Township, less than a mile from the Putnam County line. It was Paulding County's southernmost canal town, platted in 1848. It was named for General Thomas Hamer, a congressman who died in the Mexican War. If you are on the canal road, I'll start with him.",
+    long: "",
+    names: ["Hamer"]
+  },
+  {
+    id: "hamer-name",
+    name: "Thomas Hamer",
+    lat: 41.0035,
+    lng: -84.3461,
+    radius: 400,
+    short: "The town was platted in 1848, thirty-seven lots on three streets, beside the Miami and Erie. It was named for Thomas Hamer, born in 1800, a United States congressman and a general in the Mexican War. He died in 1846. He never lived on this plat. The post office ran from 1857 to 1893. The known postmasters were Warring G. Lee, David Richardson, and William Bell.",
+    long: "",
+    names: ["Thomas Hamer", "Warring G. Lee", "David Richardson", "William Bell"]
+  },
+  {
+    id: "hamer-canal",
+    name: "The canal town",
+    lat: 41.0035,
+    lng: -84.3461,
+    radius: 400,
+    short: "Hamer had a sawmill, a general store, a freight warehouse, and a blacksmith shop. The canal was the road. There was no railroad here. When the Tangent was built farther north, at Mandale, trade left this dock. The post office died with the canal. The name was still printed on the 1922 county atlas. Nothing of the town is left.",
+    long: "",
+    names: ["Miami and Erie Canal"]
+  },
+  {
+    id: "hamer-school",
+    name: "School and church",
+    lat: 41.0035,
+    lng: -84.3461,
+    radius: 300,
+    short: "Hamer had a school and a church. The record does not give the church a denomination, and it does not name the school. No park is recorded. I will not invent them.",
+    long: "",
+    names: ["Hamer"]
+  },
+  {
+    id: "hamer-war",
+    name: "No battlefield",
+    lat: 41.0035,
+    lng: -84.3461,
+    radius: 300,
+    short: "There is no battlefield at Hamer. The war on this map is the man the town was named for. Thomas Hamer died in the Mexican War, two years before the plat was drawn.",
+    long: "",
+    names: ["Thomas Hamer"]
+  },
+  {
+    id: "hamer-native",
+    name: "No village on the plat",
+    lat: 41.0035,
+    lng: -84.3461,
+    radius: 300,
+    short: "No native village is named at Hamer. The dock was cut through Black Swamp timber at the south edge of the county.",
+    long: "",
+    names: ["Black Swamp"]
+  },
+  {
+    id: "hamer-parks",
+    name: "No remnant",
+    lat: 41.0035,
+    lng: -84.3461,
+    radius: 300,
+    short: "No remnant of Hamer is known. The lots went back to a field. The canal path is the landmark.",
+    long: "",
+    names: ["Hamer"]
+  },
 
+  
   ];
 

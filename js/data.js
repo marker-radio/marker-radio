@@ -36718,6 +36718,325 @@ const STORIES = [
     long: "",
     names: ["Grover Hill"]
   },
+  {
+    id: "approach-mandale",
+    name: "Mandale",
+    lat: 41.0181,
+    lng: -84.3599,
+    radius: 1100,
+    layer: "approach",
+    short: "You are coming up on Mandale, where State Route 66 crosses State Route 114. The Tangent railroad crossed the Miami and Erie Canal here. The town was named for Dale Mann. If you stop, I'll start at that crossing.",
+    long: "",
+    names: ["Mandale"]
+  },
+  {
+    id: "mandale-name",
+    name: "Mandale",
+    lat: 41.0181,
+    lng: -84.3599,
+    radius: 400,
+    short: "Mandale was named for Dale Mann. It sits in Washington Township at the crossing of State Routes 66 and 114. A post office opened here in 1892. There was no railroad station building. Passengers waited in Murphy's Store, on the southeast corner of the track and Route 66, just south of Route 114.",
+    long: "",
+    names: ["Dale Mann", "Murphy's Store"]
+  },
+  {
+    id: "mandale-canal",
+    name: "Canal and Tangent",
+    lat: 41.0181,
+    lng: -84.3599,
+    radius: 400,
+    short: "This is where the Findlay, Fort Wayne and Western, the Tangent, crossed the Miami and Erie Canal. The railroad pulled people off the older canal towns. Trains ran through the county from 1892 until the First World War. The line was gone by 1920. Route 114 still follows the grade.",
+    long: "",
+    names: ["Miami and Erie Canal", "Tangent"]
+  },
+  {
+    id: "mandale-church",
+    name: "Mandale church",
+    lat: 41.0170,
+    lng: -84.3588,
+    radius: 250,
+    short: "A Church of Christ in Christian Union stands at Mandale. No school and no park turned up in the record. I will not invent them.",
+    long: "",
+    names: ["Church of Christ in Christian Union"]
+  },
+  {
+    id: "mandale-native",
+    name: "No village on the plat",
+    lat: 41.0181,
+    lng: -84.3599,
+    radius: 300,
+    short: "No native village is named at Mandale. The canal and the railroad were cut through Black Swamp ground. There is no battlefield here.",
+    long: "",
+    names: ["Black Swamp"]
+  },
+  {
+    id: "approach-roselms",
+    name: "Roselms",
+    lat: 41.0195,
+    lng: -84.4192,
+    radius: 1100,
+    layer: "approach",
+    short: "You are coming up on Roselms, on State Route 114 between Mandale and Grover Hill. The name is the Rose family and the elm trees. An older name was Plumb's Crossroads. If you turn in, I'll start with that name.",
+    long: "",
+    names: ["Roselms"]
+  },
+  {
+    id: "roselms-name",
+    name: "Plumb's Crossroads",
+    lat: 41.0195,
+    lng: -84.4192,
+    radius: 400,
+    short: "Caleb Plumb kept a store at this crossroads, and the place was called Plumb's Crossroads. The name Roselms comes from the Rose family and the elm trees. A post office opened on January 28, 1878, under the old name. It was renamed Roselms on June 13, 1892, and it closed on June 14, 1906. After that the mail went to Grover Hill.",
+    long: "",
+    names: ["Caleb Plumb", "Rose family", "Roselms"]
+  },
+  {
+    id: "roselms-rail",
+    name: "Tangent at Roselms",
+    lat: 41.0195,
+    lng: -84.4192,
+    radius: 350,
+    short: "The Tangent passed through Roselms on its way from Mandale to Grover Hill. No station story survived here beyond the stop on that line. Route 114 is the old grade.",
+    long: "",
+    names: ["Tangent"]
+  },
+  {
+    id: "roselms-tornado",
+    name: "The 2002 tornado",
+    lat: 41.0195,
+    lng: -84.4192,
+    radius: 400,
+    short: "On November 10, 2002, an F4 tornado came through Roselms. Two people were killed. One structure in town was left standing. That is the story people here still tell.",
+    long: "",
+    names: ["Roselms"]
+  },
+  {
+    id: "roselms-church",
+    name: "Roselms church",
+    lat: 41.0173,
+    lng: -84.4194,
+    radius: 250,
+    short: "A church stands at Roselms. No park, no battlefield, and no native village are recorded on this plat.",
+    long: "",
+    names: ["Roselms Church"]
+  },
+  {
+    id: "approach-haviland",
+    name: "Haviland",
+    lat: 41.0178,
+    lng: -84.5853,
+    radius: 1200,
+    layer: "approach",
+    short: "You are coming up on Haviland, on State Route 114 in Blue Creek Township. It was named for John F. Haviland, who owned land here. The village was incorporated in 1892. If you turn in, I'll start with that name.",
+    long: "",
+    names: ["Haviland"]
+  },
+  {
+    id: "haviland-name",
+    name: "Haviland",
+    lat: 41.0178,
+    lng: -84.5853,
+    radius: 400,
+    short: "Haviland was named for John F. Haviland, a landowner. The post office opened in 1892, the same year the village was incorporated. The 2020 census counted 160 people. Zip code 45851.",
+    long: "",
+    names: ["John F. Haviland"]
+  },
+  {
+    id: "haviland-rail",
+    name: "Last of the Tangent",
+    lat: 41.0178,
+    lng: -84.5853,
+    radius: 400,
+    short: "The Tangent ran through Haviland. After the rest of the line died in the First World War, the track between here and Grover Hill was the piece still used, until about June 1920. Then that was taken up too.",
+    long: "",
+    names: ["Tangent"]
+  },
+  {
+    id: "haviland-school",
+    name: "Blue Creek High School",
+    lat: 41.0178,
+    lng: -84.5853,
+    radius: 350,
+    short: "Blue Creek High School served this town. The library holds its yearbooks from 1953 through 1971. Blue Creek Cemetery is the township burial ground. No battlefield and no village park turned up in the record.",
+    long: "",
+    names: ["Blue Creek High School", "Blue Creek Cemetery"]
+  },
+  {
+    id: "haviland-native",
+    name: "No village on the plat",
+    lat: 41.0178,
+    lng: -84.5853,
+    radius: 300,
+    short: "No native village is named on the Haviland plat. This was drained swamp, then a railroad village.",
+    long: "",
+    names: ["Black Swamp"]
+  },
+  {
+    id: "approach-tipton",
+    name: "Tipton",
+    lat: 41.0192,
+    lng: -84.6697,
+    radius: 1000,
+    layer: "approach",
+    short: "You are coming up on Tipton, about four miles west of Haviland on State Route 114. It was platted on January 27, 1893, but a store was already here in 1865. A few houses are all that is left. If you are on 114, I'll start with that store.",
+    long: "",
+    names: ["Tipton"]
+  },
+  {
+    id: "tipton-store",
+    name: "The long store",
+    lat: 41.0192,
+    lng: -84.6697,
+    radius: 350,
+    short: "Tipton was platted on January 27, 1893, forty-four lots on both sides of the road. Nobody has pinned down who the name is for. A general store was open by 1865 and did not close until 2001. The post office ran from January 3, 1889, to August 31, 1916, and then the mail came from Haviland. No railroad station building has been found.",
+    long: "",
+    names: ["Tipton"]
+  },
+  {
+    id: "tipton-mills",
+    name: "Tipton mills",
+    lat: 41.0192,
+    lng: -84.6697,
+    radius: 350,
+    short: "In its best days Tipton had a grain elevator, a tile mill, a sawmill, a grist mill, a blacksmith, three saloons, a barbershop, and two general stores. It had a school. The church was later moved to McGill. A few homes are left. The railroad grade is gone.",
+    long: "",
+    names: ["Tipton"]
+  },
+  {
+    id: "tipton-gaps",
+    name: "No battlefield",
+    lat: 41.0192,
+    lng: -84.6697,
+    radius: 300,
+    short: "No native village, battlefield, or park is recorded at Tipton. It was a Tangent stop that never became the boom the 1892 paper promised.",
+    long: "",
+    names: ["Tipton"]
+  },
+  {
+    id: "approach-batson",
+    name: "Batson",
+    lat: 41.0184,
+    lng: -84.7450,
+    radius: 800,
+    layer: "approach",
+    short: "You are coming up on Batson, at Road 33 and State Route 114. Andrew Batson was the first postmaster, and the town took his name. It lasted about thirty years. One farmhouse is left. If you pass the crossing, I'll start with him.",
+    long: "",
+    names: ["Batson"]
+  },
+  {
+    id: "batson-name",
+    name: "Andrew Batson",
+    lat: 41.0184,
+    lng: -84.7450,
+    radius: 350,
+    short: "Batson was named for Andrew Batson, its first postmaster. It was platted in 1893. The post office opened June 1, 1891, and closed April 25, 1911. After that the mail came from Payne. The place lived from about 1891 to about 1920. No station building has been found, though the trains did stop.",
+    long: "",
+    names: ["Andrew Batson"]
+  },
+  {
+    id: "batson-mills",
+    name: "Batson mills",
+    lat: 41.0184,
+    lng: -84.7450,
+    radius: 350,
+    short: "At its best Batson had a general store, a barber, a blacksmith, a grain elevator, and a stave mill and sawmill that employed about fifty people. More than a dozen houses stood here. The children walked to Benton Center, a mile north, or to Logtown, a mile south. It is farmland again.",
+    long: "",
+    names: ["Benton Center", "Logtown"]
+  },
+  {
+    id: "batson-gaps",
+    name: "No battlefield",
+    lat: 41.0184,
+    lng: -84.7450,
+    radius: 300,
+    short: "No native village, battlefield, church, or park is recorded at Batson. The mill town went back to a field.",
+    long: "",
+    names: ["Batson"]
+  },
+  {
+    id: "approach-mcgill",
+    name: "McGill",
+    lat: 41.0189,
+    lng: -84.7741,
+    radius: 800,
+    layer: "approach",
+    short: "You are coming up on McGill, a mile and a half west of Batson on State Route 114. It was named for John McGill, a founder of Benton Township, called an old wolf hunter and a veteran of the War of 1812. The church moved here from Tipton is still standing. If you pass it, I'll start with his name.",
+    long: "",
+    names: ["McGill"]
+  },
+  {
+    id: "mcgill-name",
+    name: "John McGill",
+    lat: 41.0189,
+    lng: -84.7741,
+    radius: 350,
+    short: "John McGill helped organize Benton Township. The county remembers him as that old wolf hunter and a veteran of the War of 1812. The settlement was here before the railroad. A Star Route mail path, set up under President James Buchanan, ran from Paulding to Monroeville, Indiana, by way of McGill. There is no battlefield on this plat. The war story is the man the town was named for.",
+    long: "",
+    names: ["John McGill", "James Buchanan"]
+  },
+  {
+    id: "mcgill-post",
+    name: "McGill post office",
+    lat: 41.0189,
+    lng: -84.7741,
+    radius: 300,
+    short: "The post office opened September 3, 1858. Isaac Snyder Senior was postmaster. It closed in 1872, opened again on August 19, 1878, and closed on November 11, 1886. The railroad brought it back on March 3, 1893. It closed for good on March 31, 1913. After that the mail came from Payne.",
+    long: "",
+    names: ["Isaac Snyder"]
+  },
+  {
+    id: "mcgill-church",
+    name: "The moved church",
+    lat: 41.0189,
+    lng: -84.7741,
+    radius: 300,
+    short: "McGill had a tile mill, a grain elevator, and a ball team. The church was moved here from Tipton, and it is still standing. Several houses are left. No park and no native village are recorded.",
+    long: "",
+    names: ["McGill"]
+  },
+  {
+    id: "approach-baldwin",
+    name: "Baldwin",
+    lat: 41.0189,
+    lng: -84.8019,
+    radius: 800,
+    layer: "approach",
+    short: "You are coming up on Baldwin, the last stop on the Tangent, on the Indiana line. Timothy Baldwin laid out twenty-four lots and two streets on May 19, 1890. The town lasted about twenty years. A few houses are left. If you are on 114, I'll start with him.",
+    long: "",
+    names: ["Baldwin"]
+  },
+  {
+    id: "baldwin-name",
+    name: "Timothy Baldwin",
+    lat: 41.0189,
+    lng: -84.8019,
+    radius: 350,
+    short: "Timothy Baldwin platted this town in Benton Township on May 19, 1890, on the Findlay and Fort Wayne railroad. Twenty-four lots and two streets. The village sat on the state line. The depot was on the Ohio side. It burned in May 1896. They replaced it with the depot from Townley, Indiana, which was no longer used, and moved that building here.",
+    long: "",
+    names: ["Timothy Baldwin", "Townley"]
+  },
+  {
+    id: "baldwin-mills",
+    name: "Hoop mill and charcoal",
+    lat: 41.0189,
+    lng: -84.8019,
+    radius: 350,
+    short: "Baldwin had a hoop mill and a furnace that made charcoal. It had a general store that ran two huckster wagons, a grocery, a hardware store, a hotel, a grain elevator, and a church. The Red Men's Lodge met above the general store. After the railroad quit, the elevator and the hay barn burned. The hardware and grocery hung on, then closed.",
+    long: "",
+    names: ["Red Men's Lodge"]
+  },
+  {
+    id: "baldwin-school",
+    name: "Rharig School",
+    lat: 41.0189,
+    lng: -84.8019,
+    radius: 300,
+    short: "The school was the Rharig School. It closed in 1936. A few homes are left on the line. No native village, battlefield, or park is recorded at Baldwin.",
+    long: "",
+    names: ["Rharig School"]
+  },
+
+
 
 
   ];

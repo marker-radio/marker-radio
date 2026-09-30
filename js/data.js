@@ -37380,7 +37380,46 @@ const STORIES = [
     long: "",
     names: ["Royal Oak"]
   },
-
+  {
+    id: "roselms-x",
+    name: "The X on the sign",
+    lat: 41.0195,
+    lng: -84.4192,
+    radius: 350,
+    short: "Caleb J. Plumb and Eliza West came from New York in 1861. They had at least four children. The grocery sign was not a word. It was a large X, and the crossroads took that mark. This stop is not on the canal. The later name, Roselms, is the Rose family and the elm trees.",
+    long: "",
+    names: ["Caleb J. Plumb", "Eliza West"]
+  },
+  {
+    id: "roselms-sons",
+    name: "Three sons",
+    lat: 41.0195,
+    lng: -84.4192,
+    radius: 350,
+    short: "There is no battlefield on this corner. The war is the family. Henry L. Plumb, born in 1834, was a Civil War veteran and the first postmaster anyone recorded. He died in 1883. His brother Eugene was shot in battle. His brother Francis starved to death in Libby Prison in Richmond. Their sister Elanor Plumb Mellinger, born in 1837, is buried in Mellinger Cemetery, about two and a half miles northeast.",
+    long: "",
+    names: ["Henry L. Plumb", "Eugene Plumb", "Francis Plumb", "Elanor Plumb Mellinger", "Libby Prison"]
+  },
+  {
+    id: "roselms-school",
+    name: "The forty acres",
+    lat: 41.0195,
+    lng: -84.4192,
+    radius: 300,
+    short: "A church and a school stood on a forty-acre farm the Plumbs owned, in the southwest corner of the crossing. Henry married Sarah Hoopengarner, born in 1845, and they had at least ten children. The other known postmasters were E. Kohn and David P. Oliver. No park is recorded.",
+    long: "",
+    names: ["Sarah Hoopengarner", "E. Kohn", "David P. Oliver"]
+  },
+  {
+    id: "roselms-fought",
+    name: "Fought Cemetery",
+    lat: 41.0195,
+    lng: -84.4192,
+    radius: 300,
+    short: "Caleb, Eliza, Henry, and Sarah are buried in Fought Cemetery, on private ground about a mile northeast, between Road 193 and Dog Creek. No native village is named on this plat.",
+    long: "",
+    names: ["Fought Cemetery"]
+  },
   
   ];
 

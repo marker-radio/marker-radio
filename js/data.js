@@ -37837,6 +37837,57 @@ const STORIES = [
     long: "",
     names: ["New Harrison"]
   },
-  
+    {
+    id: "approach-link",
+    name: "Link",
+    lat: 41.2372,
+    lng: -84.7855,
+    radius: 1100,
+    layer: "approach",
+    short: "You are coming up on Link, in Carryall Township, where County Road 230 meets Township Road 15. It was a small farming town. The post office ran from 1890 to 1902. A school stood in the southeast corner, on Adam Waltenberger's farm. Nothing is left. If you are at the crossing, I'll start with the school.",
+    long: "",
+    names: ["Link"]
+  },
+  {
+    id: "link-school",
+    name: "The southeast corner",
+    lat: 41.2372,
+    lng: -84.7855,
+    radius: 350,
+    short: "The school stood on an eighty-acre farm owned by Adam Waltenberger, born in 1842, died in 1916, and Catharin Lybarger Waltenberger, born in 1849, died in 1910. They married in 1867 and had at least four children. No church is recorded on this corner. There was no railroad and no canal.",
+    long: "",
+    names: ["Adam Waltenberger", "Catharin Lybarger Waltenberger"]
+  },
+  {
+    id: "link-roedde",
+    name: "William Roedde",
+    lat: 41.2372,
+    lng: -84.7855,
+    radius: 350,
+    short: "The postmaster was William Roedde, a German immigrant, born about 1829. He married Caroline Roedde, born in 1831, died in 1903, also from Germany. The census says they married later in life, and that William was not her first husband. His grave is not recorded.",
+    long: "",
+    names: ["William Roedde", "Caroline Roedde"]
+  },
+  {
+    id: "link-graves",
+    name: "Two cemeteries",
+    lat: 41.2372,
+    lng: -84.7855,
+    radius: 300,
+    short: "Adam and Catharin are buried in Scipio Cemetery, about four and a half miles northwest, on the east side of State Road 37, in Scipio Township, Allen County, Indiana. Caroline is buried with relatives of the name Dreher in Maumee Cemetery, about six and three quarter miles southeast, on Road 43 in Antwerp.",
+    long: "",
+    names: ["Scipio Cemetery", "Maumee Cemetery", "Dreher"]
+  },
+  {
+    id: "link-gaps",
+    name: "What is not here",
+    lat: 41.2372,
+    lng: -84.7855,
+    radius: 300,
+    short: "No park, no battlefield, and no native village are named at Link. The story is a twelve-year office, a school on an eighty-acre farm, and a postmaster whose grave was never written down.",
+    long: "",
+    names: ["Link"]
+  },
+
   ];
 

@@ -39342,6 +39342,48 @@ const STORIES = [
     long: "",
     names: ["Madison Church of God", "Wallace family"]
   },
-  
+    {
+    id: "approach-smith-settlement",
+    name: "Smith Settlement",
+    lat: 41.6436,
+    lng: -84.6116,
+    radius: 450,
+    layer: "approach",
+    short: "You are coming up on Smith Settlement, in Bridgewater Township, on US 20 at State Route 576 and County Road 11. Asa Smith founded it in 1836. He was the first permanent settler here, with his brother and his father. No post office is named. Bridgewater Center already has the township.",
+    long: "",
+    names: ["Smith Settlement"]
+  },
+  {
+    id: "smith-settlement-asa",
+    name: "Asa Smith",
+    lat: 41.6436,
+    lng: -84.6116,
+    radius: 280,
+    short: "Asa Smith was born in 1810 and died in 1892, from Cattaraugus County, New York. He bought three tracts, one for himself, one for his brother Anson, and one for their father Daniel. The listing gives Anson and Daniel no dates. They spent a year improving the farms and moved onto them in 1837. Asa was superintendent of roads, treasurer, and a constable. His wife was Rebecca Bird, born in 1808 and died in 1885, from Massachusetts.",
+    long: "",
+    names: ["Asa Smith", "Anson Smith", "Daniel Smith", "Rebecca Bird"]
+  },
+  {
+    id: "smith-settlement-cemetery",
+    name: "Cogswell Cemetery",
+    lat: 41.6385,
+    lng: -84.6185,
+    radius: 220,
+    short: "Cogswell Cemetery is about half a mile southwest, on the west side of County Road 11-50. The listing also writes that road as 1150. Asa is buried here with Rebecca, a few other relatives, and many people from the settlement.",
+    long: "",
+    names: ["Cogswell Cemetery"]
+  },
+  {
+    id: "smith-settlement-gaps",
+    name: "What is not here",
+    lat: 41.6436,
+    lng: -84.6019,
+    radius: 220,
+    short: "A one-room school stood about half a mile east, on the northwest corner of US 20 and County Road 11-50. The listing says it looks like a private house now. It does not say who lives there. No mill, no railroad, no church, and no native village are named at this corner.",
+    long: "",
+    names: ["Smith Settlement"]
+  },
+
+
   ];
 

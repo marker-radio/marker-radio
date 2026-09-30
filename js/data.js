@@ -37888,6 +37888,67 @@ const STORIES = [
     long: "",
     names: ["Link"]
   },
+ {
+    id: "approach-holcombe",
+    name: "Holcombe",
+    lat: 41.1499,
+    lng: -84.6028,
+    radius: 800,
+    layer: "approach",
+    short: "You are coming up on Holcombe, also called Holcombeville, where Gasser Road meets Road 103. Major Alonzo Holcombe and Demetrius Trowbridge bought a thousand acres of timber here in 1886 and put up a lumber mill. The post office was named Morrison, and it lasted from 1891 to 1894. If you are at the crossing, I'll start with the mill.",
+    long: "",
+    names: ["Holcombe"]
+  },
+  {
+    id: "holcombe-mill",
+    name: "A. B. Holcombe and Company",
+    lat: 41.1499,
+    lng: -84.6028,
+    radius: 350,
+    short: "Alonzo B. Holcombe was born in 1845 and died in 1898. He was a Civil War major from Monroe County, New York. Demetrius N. Trowbridge was born in 1825 and died in 1912, from Toledo. Their factory cut timber and, by the company account, about sixteen million barrel staves a year. Henry Howe passed through in 1886, the year they bought the land, and wrote the town into Historical Collections of Ohio.",
+    long: "",
+    names: ["Alonzo B. Holcombe", "Demetrius N. Trowbridge", "Henry Howe"]
+  },
+  {
+    id: "holcombe-rail",
+    name: "The station",
+    lat: 41.1499,
+    lng: -84.6028,
+    radius: 350,
+    short: "Holcombe had a station on the Cincinnati, Jackson and Mackinaw Railroad, later the Cincinnati Northern. There was a large general store, a boarding house for the mill hands, and several houses. The 1892 atlas puts some of them just north of this crossing. The buildings are gone. The track is gone. The rail bed can still be seen from the air.",
+    long: "",
+    names: ["Cincinnati, Jackson and Mackinaw Railroad", "Cincinnati Northern Railroad"]
+  },
+  {
+    id: "holcombe-morrison",
+    name: "The Morrison office",
+    lat: 41.1499,
+    lng: -84.6028,
+    radius: 300,
+    short: "Alonzo was the postmaster. He named the office Morrison, after Morrison R. Waite, Chief Justice of the United States, who was born in 1816 and died in 1888. The office opened in 1891, three years after Waite died, and it closed in 1894.",
+    long: "",
+    names: ["Morrison R. Waite"]
+  },
+  {
+    id: "holcombe-graves",
+    name: "Two far cemeteries",
+    lat: 41.1499,
+    lng: -84.6028,
+    radius: 300,
+    short: "Demetrius Trowbridge is buried with relatives in Woodlawn Cemetery, on State Route 120, Central Avenue, in Toledo. Alonzo Holcombe is buried with relatives in Mount Hope Cemetery, on Mount Hope Avenue, in Rochester, New York.",
+    long: "",
+    names: ["Woodlawn Cemetery", "Mount Hope Cemetery"]
+  },
+  {
+    id: "holcombe-gaps",
+    name: "What is not here",
+    lat: 41.1499,
+    lng: -84.6028,
+    radius: 300,
+    short: "No church, no park, and no native village are named. There is no battlefield on this corner. The war story is the major who bought the timber, not a fight fought here.",
+    long: "",
+    names: ["Holcombe"]
+  },
 
   ];
 

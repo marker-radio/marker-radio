@@ -36526,6 +36526,87 @@ const STORIES = [
     names: ["Melrose"]
   },
 
+  {
+    id: "approach-canalport",
+    name: "Canalport",
+    lat: 41.1173,
+    lng: -84.4277,
+    radius: 800,
+    layer: "approach",
+    short: "You are coming up on Canalport, about a mile south of Charloe on the old Miami and Erie. It was a paper town, and a place to load timber and stone. The mules changed sides of the canal here. If you are on the river road, I'll start with that bridge.",
+    long: "",
+    names: ["Canalport"]
+  },
+  {
+    id: "canalport-name",
+    name: "A paper town",
+    lat: 41.1173,
+    lng: -84.4277,
+    radius: 400,
+    short: "Canalport was plotted for houses that mostly never came. The 1892 atlas called it little more than a paper town. J.A. Boyd, a timber dealer, kept a store here for years and lived in the seven-gabled house. No school, church, or post office is recorded on this plat.",
+    long: "",
+    names: ["Canalport", "J.A. Boyd"]
+  },
+  {
+    id: "canalport-bridge",
+    name: "Change Bridge",
+    lat: 41.1173,
+    lng: -84.4277,
+    radius: 350,
+    short: "People called this place Exchange Bridge, or Change Bridge. South of here the towpath was on the right. At Canalport the mules crossed the canal on a bridge, and the towpath was on the left the rest of the way. A barn by the canal held the rested teams, ready to take the next turn.",
+    long: "",
+    names: ["Change Bridge", "Exchange Bridge"]
+  },
+  {
+    id: "canalport-quarry",
+    name: "Noble stone mill",
+    lat: 41.1173,
+    lng: -84.4277,
+    radius: 400,
+    short: "C.L. Noble worked a stone quarry near here. Between 1858 and 1868 a mill at Canalport sawed the rock into building blocks. A tramway about half a mile long brought the stone from the quarry. It was magnesian limestone, a buff color, with nodules of chert, in layers about four feet thick. By 1892 the mill and the tramway had gone to decay, and the quarry was no longer worked.",
+    long: "",
+    names: ["C.L. Noble", "Noble Stone Quarry"]
+  },
+  {
+    id: "canalport-timber",
+    name: "Timber port",
+    lat: 41.1173,
+    lng: -84.4277,
+    radius: 400,
+    short: "The name means what it says. This was a port on the Miami and Erie for timber leaving the Black Swamp, and later for the cut stone. The canal was the road. There was no railroad town here.",
+    long: "",
+    names: ["Miami and Erie Canal"]
+  },
+  {
+    id: "canalport-native",
+    name: "No village on this plat",
+    lat: 41.1173,
+    lng: -84.4277,
+    radius: 350,
+    short: "No native village is named on the Canalport plat. The Ottawa town, and the old county seat, sat about a mile north at Charloe.",
+    long: "",
+    names: ["Canalport"]
+  },
+  {
+    id: "canalport-war",
+    name: "No battlefield",
+    lat: 41.1173,
+    lng: -84.4277,
+    radius: 300,
+    short: "There is no battlefield, fort, or war marker at Canalport. The stone that left here was building stone. I will not turn it into a war story.",
+    long: "",
+    names: ["Canalport"]
+  },
+  {
+    id: "canalport-parks",
+    name: "No park",
+    lat: 41.1173,
+    lng: -84.4277,
+    radius: 300,
+    short: "There is no park or public ground at Canalport. The paper town never filled in.",
+    long: "",
+    names: ["Canalport"]
+  },
 
 
   ];

@@ -40228,7 +40228,16 @@ const STORIES = [
     long: "",
     names: ["Union Depot", "Grand Rapids and Indiana Railroad", "Vandalia Railroad"]
   },
-
+ {
+    id: "moonlight-bay",
+    name: "Moonlight Bay",
+    lat: 41.5844,
+    lng: -85.0311,
+    radius: 300,
+    short: "About 1893 a man named Hoffman laid out cottage lots on the north shore of Long Lake, just west of Pleasant Lake. He arranged with L. I. Matson to pay for the lots as they sold. Few sold at first. By 1954 about 100 cottages stood along that shore. The county history calls it Moonlight Bay. This account does not give Hoffman's first name.",
+    long: "",
+    names: ["Hoffman", "L. I. Matson", "Long Lake"]
+  },
   
 ];
 

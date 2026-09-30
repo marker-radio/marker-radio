@@ -39177,6 +39177,47 @@ const STORIES = [
     long: "",
     names: ["Matthews Creek"]
   },
-
+  {
+    id: "approach-phalanx",
+    name: "Phalanx",
+    lat: 41.4767,
+    lng: -84.4137,
+    radius: 650,
+    layer: "approach",
+    short: "You are coming up on Phalanx, in Springfield Township, at State Route 191, State Route 2, and State Route 34, along the Tiffin River. Harmon Doolittle, from Connecticut, and Martha Stubbs platted it. The post office ran from 1844 to 1849. Stryker, north of here, already has the river and the township. This corner is the Doolittles.",
+    long: "",
+    names: ["Phalanx", "Tiffin River"]
+  },
+  {
+    id: "phalanx-doolittle",
+    name: "Harmon Doolittle",
+    lat: 41.4767,
+    lng: -84.4137,
+    radius: 300,
+    short: "Harmon Doolittle was born in 1810 and died in 1849. He came into the township in 1833 with the Doolittle and Stubbs families. He married Martha Stubbs in 1834. They had four children. He was a justice of the peace from 1837 to 1838, a county commissioner from 1847 to 1848, and the first postmaster. T. Doolittle took the office shortly before Harmon died. The listing does not give that T a first name. Martha's parents, John Stubbs and Phebe Miller, bought nearly a thousand acres here. John was a War of 1812 veteran, born in 1784 and died in 1884, from Orange County, New York. Phebe was born in 1794 and died in 1869, from Broome County, New York.",
+    long: "",
+    names: ["Harmon Doolittle", "Martha Stubbs", "John Stubbs", "Phebe Miller"]
+  },
+  {
+    id: "phalanx-mill",
+    name: "Eagle Mills",
+    lat: 41.4767,
+    lng: -84.4378,
+    radius: 250,
+    short: "About a mile and a quarter west, along the Tiffin, Harmon and Martha built a sawmill. The listing does not say how long it ran. That ground later became Eagle Mills. Boynton Cemetery is about the same distance west, on the south side of State Route 2 and State Route 34. Harmon is buried there, and so are Martha's parents.",
+    long: "",
+    names: ["Eagle Mills", "Boynton Cemetery", "Tiffin River"]
+  },
+  {
+    id: "phalanx-gaps",
+    name: "What is not here",
+    lat: 41.4767,
+    lng: -84.4137,
+    radius: 250,
+    short: "Sophia Doolittle, a daughter, was born in 1834 and died in 1857, giving birth to her first child. She married Charles F. Boynton, born in 1824 and died in 1900. The families were already related by marriage. Sophia and Charles are buried at Boynton Cemetery. The listing does not say the child is buried there. Martha likely remarried after Harmon died. It does not name that husband, and it does not know where she is buried. No railroad and no native village are named at this corner. The Tiffin is the water.",
+    long: "",
+    names: ["Sophia Doolittle", "Charles F. Boynton"]
+  },
+  
   ];
 

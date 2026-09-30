@@ -38685,7 +38685,47 @@ const STORIES = [
     long: "",
     names: []
   },
-
+  {
+    id: "approach-mccauleys",
+    name: "McCauleys",
+    lat: 41.3697,
+    lng: -84.4190,
+    radius: 600,
+    layer: "approach",
+    short: "You are coming up on McCauleys, in Tiffin Township, at Evansport Road and Kammeyer Road, along the Tiffin River. Philip and Mary McCauley farmed here. The post office ran from 1860 to 1864. McCauley Cemetery is on the west side of the corner.",
+    long: "",
+    names: ["McCauleys", "Tiffin River"]
+  },
+  {
+    id: "mccauleys-farm",
+    name: "Philip McCauley",
+    lat: 41.3697,
+    lng: -84.4190,
+    radius: 300,
+    short: "Philip McCauley was born in 1823 in Cumberland County, Pennsylvania, and died in 1892. Mary Wissler was born in 1819 in Pickaway County and died in 1899. They married in 1846, owned a 160-acre farm, and had six children. Philip was a school director, a justice of the peace, and a township trustee. Nelson Slater, born in 1818 and died in 1887, was the only known postmaster. He left the state and is buried at Greenwood Cemetery on State Route 9 in Lagrange County, Indiana.",
+    long: "",
+    names: ["Philip McCauley", "Mary Wissler", "Nelson Slater"]
+  },
+  {
+    id: "mccauleys-cemetery",
+    name: "McCauley Cemetery",
+    lat: 41.3697,
+    lng: -84.4190,
+    radius: 250,
+    short: "McCauley Cemetery is on the west side of the intersection. A school stood on this ground in the mid-1800s. The first known burial was Philip's grandmother, Mary McCauley, born in 1769 in Pennsylvania and died in 1855. Philip and Mary are buried here with relatives and other residents.",
+    long: "",
+    names: ["McCauley Cemetery", "Mary McCauley"]
+  },
+  {
+    id: "mccauleys-gaps",
+    name: "What is not here",
+    lat: 41.3697,
+    lng: -84.4190,
+    radius: 280,
+    short: "The Columbus, Lima and Milwaukee Railroad came through this country in the late 1800s, after McCauleys had already faded, and it did not bring the town back. No park, no battlefield, and no native village are named at this corner. The Tiffin is the water.",
+    long: "",
+    names: ["Columbus, Lima and Milwaukee Railroad", "Tiffin River"]
+  },
 
   ];
 

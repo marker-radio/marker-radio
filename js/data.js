@@ -39301,7 +39301,47 @@ const STORIES = [
     long: "",
     names: ["Beaver Creek"]
   },
-
+  {
+    id: "approach-deer-lick",
+    name: "Deer Lick",
+    lat: 41.6177,
+    lng: -84.5743,
+    radius: 600,
+    layer: "approach",
+    short: "You are coming up on Deer Lick, where the listing puts Madison, Jefferson, and Superior townships together, at County Road 13 and County Road N, along the St. Joseph River. The name is a spring. The water was a little salty, and deer used it. The post office ran from 1847 to 1889. Montpelier already has this ground. The river already has its own stops.",
+    long: "",
+    names: ["Deer Lick", "St. Joseph River"]
+  },
+  {
+    id: "deer-lick-barrett",
+    name: "Elias Barrett",
+    lat: 41.6177,
+    lng: -84.5743,
+    radius: 280,
+    short: "Elias Barrett was the first postmaster. He was born about 1796 and died in 1870. Elizabeth Herbst was born in 1796 and died in 1852. They came from Pennsylvania and had a large family. The listing does not say how many, and it does not know where they are buried. After Elias, the known postmasters were Hiram L. Gifford, James Porter, Daniel Brown, Huldah Porter, Daniel Brown again, William B. Anderson, and M. Anderson. It does not give M. Anderson a first name.",
+    long: "",
+    names: ["Elias Barrett", "Elizabeth Herbst", "Huldah Porter"]
+  },
+  {
+    id: "deer-lick-school",
+    name: "Deer Lick school",
+    lat: 41.6069,
+    lng: -84.5743,
+    radius: 250,
+    short: "The closest school was about three quarters of a mile south, on the southwest corner of County Road 13 and County Road M-50. The listing does not say it is still there.",
+    long: "",
+    names: ["Deer Lick"]
+  },
+  {
+    id: "deer-lick-gaps",
+    name: "What is not here",
+    lat: 41.6177,
+    lng: -84.5743,
+    radius: 250,
+    short: "Another school stood about a mile and a half northeast, on the north side of County Road N-65, on land owned by the Wallace family. No first names. Across that road, on the south side, is Madison Church, now the Madison Church of God. That corner sits against Holiday City, which already has a stop, so it is not a new pin. No mill, no railroad, and no native village are named at Deer Lick. The spring and the post office are the town.",
+    long: "",
+    names: ["Madison Church of God", "Wallace family"]
+  },
   
   ];
 

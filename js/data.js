@@ -39414,6 +39414,47 @@ const STORIES = [
     long: "",
     names: ["Henry Boyer", "I. N. Thacker", "B. D. Ashton"]
   },
+  {
+    id: "approach-corunna",
+    name: "Corunna",
+    lat: 41.4358,
+    lng: -85.1442,
+    radius: 600,
+    layer: "approach",
+    short: "You are coming up on Corunna, in Richland Township, DeKalb County. A post office opened here in 1858. The usual account says the name came from Corunna, Michigan. The 2020 count was 236 people. In 1870 it was 242. Kendallville, Auburn, and Waterloo already have their towns.",
+    long: "",
+    names: ["Corunna"]
+  },
+  {
+    id: "corunna-1914",
+    name: "Corunna in 1914",
+    lat: 41.4358,
+    lng: -85.1442,
+    radius: 350,
+    short: "In 1914 Corunna had three schools, a bank, two mills, and a hotel. The record does not name the mill owners or the hotel. The post office is still on North Bridge Street.",
+    long: "",
+    names: ["Corunna"]
+  },
+  {
+    id: "corunna-cemetery",
+    name: "Corunna Cemetery",
+    lat: 41.4358,
+    lng: -85.1442,
+    radius: 350,
+    short: "Corunna Cemetery is south of town on State Road 327, between county roads 28 and 30. In 1908 the lot owners formed the Corunna Cemetery Association. The trustees named that night were C. W. Griffith, V. E. Harding, and P. D. Graham. The earliest stone in the transcription is D. Stonebraker, died in 1851. His wife Eliza Jane died in 1853.",
+    long: "",
+    names: ["Corunna Cemetery", "D. Stonebraker", "Eliza Jane Stonebraker"]
+  },
+  {
+    id: "corunna-gaps",
+    name: "What is not here",
+    lat: 41.4358,
+    lng: -85.1442,
+    radius: 300,
+    short: "These pages do not name who platted the town, a railroad, a creek, a native village, or a war site. Those stay off this card until a source names them.",
+    long: "",
+    names: ["Corunna"]
+  },
 
   ];
 

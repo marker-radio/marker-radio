@@ -37248,6 +37248,67 @@ const STORIES = [
     long: "",
     names: ["Hamer"]
   },
+{
+    id: "approach-doylestown",
+    name: "Doylestown",
+    lat: 41.0269,
+    lng: -84.3614,
+    radius: 900,
+    layer: "approach",
+    short: "You are coming up on Doylestown, between Timberville and Hamer, on the old Miami and Erie. It had the first post office in Washington Township, in 1851. The office lasted one year. The man who kept it was a canal captain named Samuel Doyle. If you are on State Route 66, I'll start with him.",
+    long: "",
+    names: ["Doylestown"]
+  },
+  {
+    id: "doylestown-name",
+    name: "Samuel Doyle",
+    lat: 41.0269,
+    lng: -84.3614,
+    radius: 400,
+    short: "Doylestown sat on the west side of State Route 66, on the canal, between Road 48 and State Route 114. Samuel Doyle Senior was the proprietor. He was a canal-boat captain. He owned a two-hundred-forty-acre farm on the west side of this spot. The town took his name. He did not stay a town.",
+    long: "",
+    names: ["Samuel Doyle"]
+  },
+  {
+    id: "doylestown-mail",
+    name: "Mail on the packet",
+    lat: 41.0269,
+    lng: -84.3614,
+    radius: 400,
+    short: "Doyle carried the mail between Cincinnati and Toledo on the packet boats. The post office opened here in 1851, the first in Washington Township, and it closed the same year. There was no railroad. The canal was the road, and then it wasn't.",
+    long: "",
+    names: ["Samuel Doyle", "Miami and Erie Canal"]
+  },
+  {
+    id: "doylestown-gone",
+    name: "Gone by 1878",
+    lat: 41.0269,
+    lng: -84.3614,
+    radius: 350,
+    short: "The village was already gone by 1878. It is not on that year's county map. No school, church, or park is recorded. No remnant is known. The canal path is still the line on the ground.",
+    long: "",
+    names: ["Doylestown"]
+  },
+  {
+    id: "doylestown-native",
+    name: "No village on the plat",
+    lat: 41.0269,
+    lng: -84.3614,
+    radius: 300,
+    short: "No native village is named at Doylestown. The stop was a dock and a farm in the Black Swamp, and the mail boat was the reason for the name.",
+    long: "",
+    names: ["Black Swamp"]
+  },
+  {
+    id: "doylestown-war",
+    name: "No battlefield",
+    lat: 41.0269,
+    lng: -84.3614,
+    radius: 300,
+    short: "There is no battlefield or fort at Doylestown. Doyle carried mail. I will not turn a packet route into a war story.",
+    long: "",
+    names: ["Samuel Doyle"]
+  },
 
   
   ];

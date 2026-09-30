@@ -40238,7 +40238,56 @@ const STORIES = [
     long: "",
     names: ["Hoffman", "L. I. Matson", "Long Lake"]
   },
-  
+    {
+    id: "helmer-plat",
+    name: "Cyrus Helmer",
+    lat: 41.5328,
+    lng: -85.1711,
+    radius: 300,
+    short: "Cyrus J. Helmer and his wife Lucy Speers Helmer platted this village on May 4, 1892. It sits on the southwest corner of section 32, where the Wabash Railroad meets Highway 327. The town is named for them. Cyrus was born in Onondaga County, New York, and died here in 1918. Lucy lived from 1848 to 1922. A postal list says the post office opened in 1892. In 1955 it was still in Ray and Margaret Hoyer's grocery. It has since closed.",
+    long: "",
+    names: ["Cyrus J. Helmer", "Lucy Speers Helmer"]
+  },
+  {
+    id: "helmer-wabash",
+    name: "The Wabash at Helmer",
+    lat: 41.5328,
+    lng: -85.1711,
+    radius: 350,
+    short: "In 1892 the Wabash Railroad reached Helmer from the east. Mamie Hayward, daughter of William Hayward, was the first telegraph operator and station agent. The call letters were her initials, M. H. In the summer of 1893 an excursion train took a coach full of people from here to the World's Fair in Chicago. That was the first passenger train on this line to run through to Chicago. She kept the job until she married Jada Perkins in the autumn of 1897. John Keel became the agent in 1904 and stayed forty-nine years. Passenger trains stopped about 1928. In the busy years there were as many as six a day.",
+    long: "",
+    names: ["Mamie Hayward", "John Keel", "Wabash Railroad"]
+  },
+  {
+    id: "helmer-stroh",
+    name: "The spur to Stroh",
+    lat: 41.5328,
+    lng: -85.1711,
+    radius: 300,
+    short: "A spur was built from the Wabash at Helmer to a cement plant at Stroh, on the west side of Big Turkey Lake. The plant used local marl and clay. It began work in 1900. This account does not say what year the spur came out.",
+    long: "",
+    names: ["Stroh", "Wabash Railroad"]
+  },
+  {
+    id: "helmer-church",
+    name: "Pleasant Ridge Church",
+    lat: 41.5328,
+    lng: -85.1711,
+    radius: 250,
+    short: "The Pleasant Ridge Church of God first met in a building on the east side of Highway 327, just north of Helmer. In 1894 Cyrus Helmer, also written Syrus, gave land in town for a church for as long as it was used as a church. They built there that year. The congregation stopped using the building in 1945. In 1948 the Church of the Nazarene rented it, and in the fall of 1952 they bought it.",
+    long: "",
+    names: ["Cyrus J. Helmer", "Pleasant Ridge Church of God"]
+  },
+  {
+    id: "helmer-mill",
+    name: "The Helmer mill",
+    lat: 41.5328,
+    lng: -85.1711,
+    radius: 250,
+    short: "William Hayward built the grain elevator in 1893 and soon sold it to Dan Pray. The first sawmill here was William Douglas's. He had been at Turkey Creek first. Levi Shaffer bought that mill in 1901, when he moved to Helmer. He sold it to D. Weimer in 1949. In 1929 a fire burned the Stroman hardware and other buildings and threatened to wipe out the town.",
+    long: "",
+    names: ["William Hayward", "Levi Shaffer", "William Douglas"]
+  },
 ];
 
 

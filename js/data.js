@@ -39455,6 +39455,38 @@ const STORIES = [
     long: "",
     names: ["Corunna"]
   },
+ {
+    id: "approach-metz",
+    name: "Metz",
+    lat: 41.6164,
+    lng: -84.8375,
+    radius: 400,
+    layer: "approach",
+    short: "You are coming up on Metz, in York Township, Steuben County. Fayette Barron was the first settler at this crossroads in 1836. A post office opened in 1849 and closed in 1959. Edon already has its town, about 5 miles away.",
+    long: "",
+    names: ["Metz", "Fayette Barron"]
+  },
+  {
+    id: "metz-1885",
+    name: "Metz in 1885",
+    lat: 41.6164,
+    lng: -84.8375,
+    radius: 250,
+    short: "By 1885 Metz had two dry goods stores, other shops, a sawmill, a flour mill, a hotel, craftsmen, and four physicians. The record does not name the mill owners, the hotel, or the doctors. From the main intersection, the view north is the Metz Christian Church.",
+    long: "",
+    names: ["Metz Christian Church"]
+  },
+  {
+    id: "metz-school",
+    name: "Metz School",
+    lat: 41.6164,
+    lng: -84.8375,
+    radius: 250,
+    short: "In 1919 the York Township schools joined Richland Township in the Metz school. It taught kindergarten through high school for 40 years and closed in 1959. The teams were the Mohawks. These pages do not name a railroad, a native village, or a war site here.",
+    long: "",
+    names: ["Metz School"]
+  },
 
+  
   ];
 

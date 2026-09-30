@@ -40647,6 +40647,89 @@ const STORIES = [
     long: "",
     names: ["William Hayward", "Levi Shaffer", "William Douglas"]
   },
+ {
+    id: "approach-sherwood",
+    name: "Sherwood",
+    lat: 41.2889,
+    lng: -84.5531,
+    radius: 2000,
+    layer: "approach",
+    short: "You are coming up on Sherwood. A railroad village in Defiance County. The Baltimore and Ohio did not want a station here. The people built the platform, the depot, and the freight house themselves.",
+    long: "",
+    names: ["Sherwood", "Baltimore and Ohio"]
+  },
+  {
+    id: "sherwood-founding",
+    name: "Snook's Run",
+    lat: 41.2889,
+    lng: -84.5531,
+    radius: 250,
+    short: "In 1873 this was a clearing in the big woods. The Collins School stood at the pike, now the junction of Route 18 and Route 127. Gilbert Coffin kept a post office called Snooksville. Johnson Miller kept the next one, in a log house, under the name Snook's Run. A cemetery and a sawmill were already here.",
+    long: "",
+    names: ["Snooksville", "Snook's Run", "Collins School", "Gilbert Coffin", "Johnson Miller"]
+  },
+  {
+    id: "sherwood-railroad",
+    name: "The Baltimore and Ohio",
+    lat: 41.2889,
+    lng: -84.5531,
+    radius: 250,
+    short: "In 1874 the Baltimore and Ohio came through and put stations at Mark Center and Delaware Bend, not here. Elias Miller, William Rock, and William Taylor platted a town anyway. The railroad refused a stop over the right-of-way. The town paper later said the railroad had it in for Sherwood. Citizens built a platform of ties so trains would unload. Then they built the depot and freight house. Johnson Miller was the agent and took no pay. For years the town also paid the telegraph operator. A grain elevator made Sherwood a grain market. In 1887 a second railroad, the C. and N., arrived, and the Baltimore and Ohio finally had to treat the town like a real stop.",
+    long: "",
+    names: ["Baltimore and Ohio", "Elias Miller", "William Rock", "William Taylor", "Johnson Miller"]
+  },
+  {
+    id: "sherwood-sherwood",
+    name: "Isaac R. Sherwood",
+    lat: 41.2889,
+    lng: -84.5531,
+    radius: 250,
+    short: "The town took its name from General Isaac R. Sherwood, the congressman who carried the post office petition. Johnson Miller suggested the name. Sherwood was a Civil War general. He did not live here. In 1906 he was living in Toledo. There was no battle in this village. The war is in the name on the sign.",
+    long: "",
+    names: ["Isaac R. Sherwood", "Johnson Miller"]
+  },
+  {
+    id: "sherwood-church",
+    name: "United Brethren Church",
+    lat: 41.2889,
+    lng: -84.5531,
+    radius: 250,
+    short: "Before the plat, camp meetings were held on the ground where the village stands. A preacher named Thomas had worked along the Maumee. In 1874 the United Brethren organized a society under the Reverend Jonas Lower. In 1879 they built a church for thirteen hundred and fifty dollars. By the early 1880s the class had thirty-eight members and a Sabbath school of about one hundred and ten. That first church later burned, about 1896. A Methodist church came in 1880, a German Reformed church in 1881, and a Disciple church in 1900.",
+    long: "",
+    names: ["United Brethren", "Jonas Lower"]
+  },
+  {
+    id: "sherwood-school",
+    name: "Sherwood",
+    lat: 41.2889,
+    lng: -84.5531,
+    radius: 250,
+    short: "The village incorporated in 1891. The first mayor was Z. H. Miller. The census had counted 195 people in 1880, and 802 in 2020. After the township went graded, it built a three-room school with W. W. Huff as principal. In 1897 the town voted bonds for a town hall. Sherwood still has a branch of the Defiance Public Library.",
+    long: "",
+    names: ["Z. H. Miller", "W. W. Huff"]
+  },
+  {
+    id: "sherwood-memory",
+    name: "Sherwood",
+    lat: 41.2889,
+    lng: -84.5531,
+    radius: 250,
+    short: "The town paper remembered a typhoid outbreak that killed seven of the Taylor family, about a quarter of the people then living here. In 1886 the township voted dry and closed three saloons. The early stores were small. Frank Bernard had the first hardware, Jerry Bloom the first undertaking shop, and Dr. Comfort the first drugstore.",
+    long: "",
+    names: ["Taylor family", "Frank Bernard", "Jerry Bloom"]
+  },
+  {
+    id: "sherwood-gaps",
+    name: "Sherwood",
+    lat: 41.2889,
+    lng: -84.5531,
+    radius: 250,
+    short: "No battlefield, no canal, and no named Native village sit in the village itself. The Maumee runs through the south of Delaware Township, not through this plat. The public place here was the railroad the town had to build for itself.",
+    long: "",
+    names: ["Maumee River"]
+  },
+
+  
 ];
 
 

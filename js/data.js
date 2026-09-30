@@ -39790,15 +39790,46 @@ const STORIES = [
     long: "",
     names: ["Stroh", "Big Turkey Lake"]
  },
- {
-    id: "salem-center-wisel",
+    {
+    id: "approach-salem-center",
+    name: "Salem Center",
+    lat: 41.5850,
+    lng: -85.1397,
+    radius: 400,
+    layer: "approach",
+    short: "You are coming up on Salem Center, in Salem Township, Steuben County. The old name was Wiselberg. The church, the brick store, and Thomas Marshall are on their own cards. This is not Hudson and it is not Helmer.",
+    long: "",
+    names: ["Salem Center", "Wiselberg"]
+  },
+  {
+    id: "salem-center-name",
     name: "Wiselberg",
     lat: 41.5850,
     lng: -85.1397,
-    radius: 300,
-    short: "The Wisels settled here in 1836, and the place was called Wiselberg. The name Salem was chosen in 1837. People still called it the Burg. Of Hudson, Helmer, and Salem, this is the oldest and the smallest. In 1954 it had twenty-two families, about sixty-five people.",
+    radius: 250,
+    short: "The Wisels settled here in 1836, and the place was called Wiselberg. The name Salem was chosen in 1837. People still called it the Burg. Of the three villages in the township, Hudson, Helmer, and Salem, this one is the oldest and the smallest. In 1954 twenty-two families lived here, about sixty-five people. The history says Salem never had a saloon.",
     long: "",
-    names: ["Wisel"]
+    names: ["Salem Center"]
+  },
+  {
+    id: "salem-center-store",
+    name: "The brick block",
+    lat: 41.5850,
+    lng: -85.1397,
+    radius: 250,
+    short: "In 1843 William Austin built a big log store and opened it with Edward Wright. The building later burned. John Carey's store burned in 1871 and he rebuilt. In 1896 Frank Dole's store burned, and the same fire took Dr. J. C. Kimsey's house and Dr. M. T. Clay's house and drugstore. Farmers had been trading wheat for flour in the back of Dole's store. After that fire the Odd Fellows built the north half of the brick block. The Knights of Pythias built the upper part of the south half. William Kimsey and Thomas R. Marshall were in the store. George Mills kept the brick store until 1948.",
+    long: "",
+    names: ["William Austin", "John Carey", "George Mills"]
+  },
+  {
+    id: "salem-center-marshall",
+    name: "Thomas R. Marshall",
+    lat: 41.5850,
+    lng: -85.1397,
+    radius: 250,
+    short: "Thomas R. Marshall had his name on the Kimsey store, but he did not run it. He practiced law. He became governor of Indiana, and he was vice president under Woodrow Wilson. He married Lois Kimsey, daughter of W. E. Kimsey, in the Kimsey house. They never lived in Salem.",
+    long: "",
+    names: ["Thomas R. Marshall", "Lois Kimsey"]
   },
   {
     id: "salem-center-post",
@@ -39806,61 +39837,181 @@ const STORIES = [
     lat: 41.5850,
     lng: -85.1397,
     radius: 250,
-    short: "In the winter of 1848 to 1849 a mail route opened between Auburn and Orland, and Salem Center got a post office on it. David Wisel was the first postmaster. He served until 1853, then moved to Fillmore County, Minnesota. Walter Braden was next, and three years later Orson Woodford. The office was in the Woodford house, later lived in by his great-granddaughter Josephine Parsell. William E. Kimsey became postmaster on January 1, 1880. A later postal list says the office was established in 1852 and closed in 1903.",
+    short: "In the winter of 1848 to 1849 a mail route was set up from Auburn to Orland, and Salem Center was an office on it. David Wisel was the first postmaster. He served until 1853, then moved to Fillmore County, Minnesota. Walter Braden took the office, and three years later Orson Woodford. A later list says the office was established in 1852 and discontinued in 1903.",
     long: "",
-    names: ["David Wisel", "Walter Braden", "Orson Woodford", "William E. Kimsey"]
+    names: ["David Wisel", "Orson Woodford"]
   },
   {
-    id: "salem-center-church",
+    id: "salem-center-presbyterian",
     name: "Salem Center Presbyterian",
+    lat: 41.6070,
+    lng: -85.1397,
+    radius: 400,
+    short: "On August 10, 1839, the Rev. A. Littlefield organized the Presbyterian church in the house of John Wilson. Nine people started it: Moses and Hannah Parsell, John and Dina Wilson, Andrew Harvey Wilson, Maria Moore, Fannie Butler, Matilda Butler, and Betsy Brown. They met in the schoolhouse with the Methodists. The first building stood where the cemetery is now, a mile and a half north of the village. A singing hall southeast of the cemetery burned. The frame church across the road to the west was built with the United Brethren, on land deeded by Avery Emerson and his wife. When the Brethren split, the building went to the Presbyterians. In 1928 they left it and bought the Methodist church in the village. It is the oldest church congregation in the county.",
+    long: "",
+    names: ["John Wilson", "A. Littlefield"]
+  },
+  {
+    id: "salem-center-methodist",
+    name: "The Block Church",
     lat: 41.5850,
     lng: -85.1397,
-    radius: 300,
-    short: "The Presbyterian Church of Salem Center was organized on August 10, 1839, by the Rev. A. Littlefield, in the house of John Wilson. The county history also writes his name O. Littlefield. Wilson had held meetings in that cabin for three years, and he had the first Sunday school in the township. Moses S. Parsell and John Wilson were the first elders. They met in the schoolhouse with the Methodists, who organized the same year. The first church building stood on the lot where the cemetery is now, a mile and a half north of town. This book does not name the cemetery.",
+    radius: 250,
+    short: "The Methodists organized the same year as the Presbyterians, 1839. Their first building, called the Block Church, went up in 1841, of black walnut and poplar. In 1867 they built in the village, a mile and a half south of the cemetery. The history puts that church in the north part of the village, built about 1868, at a cost of three thousand dollars, on a lot given by Dr. J. C. Kimsey.",
     long: "",
-    names: ["John Wilson", "A. Littlefield", "Moses S. Parsell"]
+    names: ["J. C. Kimsey"]
+  },
+  {
+    id: "salem-center-underground",
+    name: "The Butler station",
+    lat: 41.5850,
+    lng: -85.1397,
+    radius: 400,
+    short: "Before the Civil War an Underground Railroad station stood in section 8, at the home of Henry and Marvin Butler, sons of Daniel Butler. That house is not on the village square. Frank LaDow of this township served two years in the Civil War. No battlefield is named here.",
+    long: "",
+    names: ["Henry Butler", "Marvin Butler", "Frank LaDow"]
   },
   {
     id: "salem-center-school",
-    name: "The Center school",
-    lat: 41.5850,
+    name: "The Salem Center school",
+    lat: 41.5705,
     lng: -85.1397,
-    radius: 250,
-    short: "Eliza Smith taught the first school at the Center in the winter of 1841 to 1842. The schoolhouse was built the autumn before. It was the second in the township. Jesse Miller was the first blacksmith. A pottery flourished here for a time. This account does not name the potter.",
+    radius: 400,
+    short: "The records say the new school building was put up in 1926. Classes started in 1928. Oakley Amerman was the trustee. A mile south of the village, at the middle of the township, the 1955 history describes Salem Center High School as a one-story building with a gym, an auditorium, and ten classrooms. Seven buses brought the children in.",
     long: "",
-    names: ["Eliza Smith", "Jesse Miller"]
+    names: ["Salem Center"]
   },
   {
-    id: "salem-center-gar",
-    name: "McLane Post",
+    id: "salem-center-gaps",
+    name: "What is not at Salem Center",
     lat: 41.5850,
     lng: -85.1397,
-    radius: 250,
-    short: "McLane Post Number 342 of the Grand Army of the Republic was mustered here on May 3, 1884. Sixteen men were the charter members. Samuel Parker was the first commander. No battlefield is named at Salem Center.",
+    radius: 200,
+    short: "These pages do not name a railroad, a mill, a native village, or a park in the village. The Wabash station is at Hudson, not here. The mail came by star route.",
     long: "",
-    names: ["Samuel Parker", "McLane Post"]
+    names: ["Salem Center"]
   },
- 
+   {
+    id: "approach-stroh",
+    name: "Stroh",
+    lat: 41.5825,
+    lng: -85.1992,
+    radius: 400,
+    layer: "approach",
+    short: "You are coming up on Stroh, in Milford Township, LaGrange County. It sits on the southwest shore of Big Turkey Lake. The marl, the cement plant, and the spur to Helmer are on their own cards. This is not South Milford.",
+    long: "",
+    names: ["Stroh", "Big Turkey Lake"]
+  },
+  {
+    id: "stroh-hayward",
+    name: "Hayward",
+    lat: 41.5825,
+    lng: -85.1992,
+    radius: 300,
+    short: "William Hayward platted this place on September 1, 1899, and called it Hayward. The name was changed to Stroh on February 15, 1900, for Emil Stroh of Detroit. It was the youngest town in the county. In 1910 about three hundred fifty people lived here. Two sides could not agree where the town should sit, so Elmira grew up about a mile away.",
+    long: "",
+    names: ["William Hayward", "Emil Stroh", "Elmira"]
+  },
+  {
+    id: "stroh-marl",
+    name: "Wabash Portland Cement",
+    lat: 41.5825,
+    lng: -85.1992,
+    radius: 350,
+    short: "The town exists because of the mud in Big Turkey Lake. The story is that S. T. Vesey, William Hayward, and Emil Stroh, of the Detroit brewing family, were fishing. Stroh scraped an odd mud off his shoes, took it to Detroit, and it tested as high-grade marl. Clay for cement was in the ground beside the lake. He bought the land and organized the Wabash Portland Cement Company in 1899. The plant stood on the west side of the lake. It opened with four kilns, about six hundred barrels a day. Six more kilns went in during 1902. In 1916 those were replaced by three larger furnaces, up to twenty-four hundred barrels a day. The plant ran from 1900 to 1941.",
+    long: "",
+    names: ["Emil Stroh", "Wabash Portland Cement Company", "S. T. Vesey"]
+  },
+  {
+    id: "stroh-rail",
+    name: "The Helmer spur",
+    lat: 41.5825,
+    lng: -85.1992,
+    radius: 300,
+    short: "The cement went out on a spur that met the Wabash Railroad at Helmer, about four miles south. On the lake, floating dredges scooped the marl into tub-like dinky cars. A steam locomotive pulled them to the mill on a narrow-gauge track.",
+    long: "",
+    names: ["Wabash Railroad", "Helmer"]
+  },
+  {
+    id: "stroh-town",
+    name: "The Stroh mill",
+    lat: 41.5825,
+    lng: -85.1992,
+    radius: 250,
+    short: "The post office opened in 1900. A general store opened about 1901. Henry Rinkle ran a grain elevator and a flour mill. At the height of the plant there were some five saloons. The town had a four-story brick consolidated school and a Masonic lodge.",
+    long: "",
+    names: ["Henry Rinkle"]
+  },
+  {
+    id: "stroh-church",
+    name: "The Stroh churches",
+    lat: 41.5825,
+    lng: -85.1992,
+    radius: 250,
+    short: "A Methodist church was already here when the county history was written, with about one hundred fifty members. The Christian Church of Stroh was organized in 1901. The frame building cost about four thousand dollars. Later pages name five church buildings in town and do not date them.",
+    long: "",
+    names: ["Stroh"]
+  },
   {
     id: "stroh-gaps",
     name: "What is not at Stroh",
     lat: 41.5825,
     lng: -85.1992,
-    radius: 250,
-    short: "The pages name several churches in Stroh, but they do not date them or name a founder. They also do not name a railroad, a native village, or a war site. Those stay off this card until a source names them.",
+    radius: 200,
+    short: "These pages do not name a native village, a battlefield, or a park at Stroh. Big Turkey Lake is the water, not a park. The railroad is the spur to Helmer.",
     long: "",
     names: ["Stroh"]
   },
   {
-    id: "approach-flint-in",
+    id: "approach-flint",
     name: "Flint",
     lat: 41.6500,
     lng: -85.1250,
-    radius: 350,
+    radius: 400,
     layer: "approach",
-    short: "You are coming up on Flint, in Jackson Township, west of Angola. A post office opened in 1850 and closed in 1907. Angola already has the city to the east.",
+    short: "You are coming up on Flint, in Jackson Township, Steuben County, west of Angola. The mill on the Pigeon, the post office, and the church beside the school are on their own cards.",
     long: "",
     names: ["Flint"]
+  },
+  {
+    id: "flint-mill",
+    name: "Griswold's mill",
+    lat: 41.6500,
+    lng: -85.1250,
+    radius: 300,
+    short: "Edward Griswold built a sawmill here in 1834. It was the first mill of any kind in Steuben County. He ran it about four years, sold to Dr. Alonzo Clark, and moved to Iowa. Clark owned it two years and sold to John Thompson, who came from Canada in 1838. Thompson built a race, took out the old mill, and put in a gristmill. Spencer I. Cleveland later owned it. In December 1858 it burned. The loss was not less than six thousand dollars. Wallace Clark and Philo Clark rebuilt it in 1861. It passed through the Smiths, then Murray Marklie, J. Dover, O. Cleveland, and George Cleveland. Wallace Clark owned it alone from 1878 until he sold to Lewis Corwin. In 1902 it went to Allison S. Smith. He ground buckwheat in season, and meal and feed the rest of the year, no wheat flour. The mill first ran on the Pigeon River. Drainage killed the water power, and steam took over.",
+    long: "",
+    names: ["Edward Griswold", "Alonzo Clark", "John Thompson", "Wallace Clark", "Allison S. Smith"]
+  },
+  {
+    id: "flint-plat",
+    name: "The Flint plat",
+    lat: 41.6500,
+    lng: -85.1250,
+    radius: 250,
+    short: "The mill stood for fifty years before anyone platted a town. Elisha Merritt platted Flint on December 5, 1887, in section 22. It was the only hamlet in Jackson Township. In 1919 Arnold Brothers kept the general store. John Cobert was the blacksmith. Denman and Son ran a bakery, a barber shop, and a pool hall. There was a steam sawmill, a Masonic lodge, and an Odd Fellows lodge.",
+    long: "",
+    names: ["Elisha Merritt"]
+  },
+  {
+    id: "flint-post",
+    name: "The Flint post office",
+    lat: 41.6500,
+    lng: -85.1250,
+    radius: 250,
+    short: "The office opened as Jackson Prairie in 1839. Adolphus Town was postmaster. The name was changed to Flint. Samuel B. Jackson was postmaster on October 9, 1846. Benajah B. Long took it on January 14, 1850. A later list says the Flint office was established in 1850 and discontinued in 1907. By 1919 the mail was two rural routes out of Angola.",
+    long: "",
+    names: ["Adolphus Town", "Benajah B. Long"]
+  },
+  {
+    id: "flint-church",
+    name: "The Flint churches",
+    lat: 41.6500,
+    lng: -85.1250,
+    radius: 250,
+    short: "The Methodist church was built in 1869 by popular subscription. It was meant to be a union church. In 1955 it was the only church left, and it stood beside the school. A Christian church is named here in 1919. These pages do not date it. The United Brethren organized in May 1855 at the house of Levi Doudt, on section 11, not in the plat. The Rev. Fletcher Thomas started it with five members, Levi and Ann Doudt, Levi Bolin and his wife, and John Beigh. They built Pleasant View church in 1877. Bishop Milton Wright of Dayton dedicated it on December 2, 1877. He was the father of Wilbur and Orville. He did not live here. A later history says that church was sold.",
+    long: "",
+    names: ["Levi Doudt", "Fletcher Thomas", "Milton Wright"]
   },
   {
     id: "flint-clark",
@@ -39868,10 +40019,24 @@ const STORIES = [
     lat: 41.6500,
     lng: -85.1250,
     radius: 250,
-    short: "The record lists Alonzo M. Clark among people from Flint. He was governor of Wyoming from 1931 to 1933. These pages do not name a railroad, a church, a native village, or a war site here.",
+    short: "The man these pages name from Flint is Alonzo M. Clark. He was governor of Wyoming from 1931 to 1933. He is not the Dr. Alonzo Clark who owned the mill in the 1830s.",
     long: "",
     names: ["Alonzo M. Clark"]
   },
+  {
+    id: "flint-gaps",
+    name: "What is not at Flint",
+    lat: 41.6500,
+    lng: -85.1250,
+    radius: 200,
+    short: "These pages do not name a railroad, a native village, a battlefield, or a park at Flint. The water is the Pigeon, and the drainage that killed the mill race.",
+    long: "",
+    names: ["Flint"]
+  },
+
+
+  
+ 
   {
     id: "approach-cloverdale",
     name: "Cloverdale",
@@ -39893,27 +40058,190 @@ const STORIES = [
     long: "",
     names: ["Cloverdale"]
   },
-  {
+{
     id: "approach-south-milford",
     name: "South Milford",
-    lat: 41.5319,
-    lng: -85.2664,
-    radius: 350,
+    lat: 41.5322,
+    lng: -85.2672,
+    radius: 400,
     layer: "approach",
-    short: "You are coming up on South Milford, in the southern part of Milford Township, LaGrange County. That is where the name comes from. It was laid out in 1856. This is not Stroh. Stroh is a different place.",
+    short: "You are coming up on South Milford, in Milford Township, LaGrange County. Mud Corners was the older place. The Wabash station, the mill, and the bell at the corner are on their own cards. This is not Stroh.",
+    long: "",
+    names: ["South Milford"]
+  },
+  {
+    id: "south-milford-plat",
+    name: "The South Milford plat",
+    lat: 41.5322,
+    lng: -85.2672,
+    radius: 300,
+    short: "John A. Bartlett and Francis Henry laid out forty-seven lots on section 32 in 1856 and named it South Milford. Four or five families were already here. About 1852, before the plat, Wildman and Taylor opened a country store. Lambert and Rowe came in with goods before the Civil War. Dr. John Dancer arrived in August 1855 and stayed. He was the first physician who remained. In 1882 about two hundred people lived here. The Bartlett brothers built the first hotel.",
+    long: "",
+    names: ["John A. Bartlett", "Francis Henry", "John Dancer"]
+  },
+  {
+    id: "south-milford-mud",
+    name: "Mud Corners",
+    lat: 41.5322,
+    lng: -85.2672,
+    radius: 300,
+    short: "The older corner was Mud Corners, named for the mud at the crossing. The first schoolhouse in the township went up there in the autumn of 1836. Orris Danks taught that winter, about twelve scholars. F. B. Macy built a store about 1845, with about three thousand dollars in goods. Wright and Barry followed him and made more than twenty tons of pearl ash a year. James Knight started a brewery and quit before it was finished. George W. Hatch built a tannery and quit before any leather was done. William Knight and Judge Seeley were the blacksmiths. William Dunn was postmaster. The office was called Macy. When the railroad station opened, Mud Corners left the map.",
+    long: "",
+    names: ["Mud Corners", "William Dunn", "Orris Danks"]
+  },
+  {
+    id: "south-milford-mill",
+    name: "The plank-road mill",
+    lat: 41.5322,
+    lng: -85.2672,
+    radius: 250,
+    short: "In 1848 the Plank Road Company built a steam sawmill at South Milford. In 1882 it was still running, under later owners, and the history says it had done a vast amount of sawing. The first schoolhouse in the village was a frame building the people put up themselves, with no tax money.",
+    long: "",
+    names: ["South Milford"]
+  },
+  {
+    id: "south-milford-rail",
+    name: "The Wabash at South Milford",
+    lat: 41.5322,
+    lng: -85.2672,
+    radius: 300,
+    short: "The Wabash Railroad was built through the south of the township about 1893, with a station at South Milford. A later account says a paved road runs from here to Fort Wayne, and the village had a bank and a graded school. The other graded school in the township was at Stroh.",
+    long: "",
+    names: ["Wabash Railroad"]
+  },
+  {
+    id: "south-milford-church",
+    name: "The South Milford churches",
+    lat: 41.5322,
+    lng: -85.2672,
+    radius: 250,
+    short: "A Methodist society was organized at Mud Corners in 1838 by the Rev. Thomas Conley. Early members included B. B. Waterhouse, the Searls, the Barrys, the Butts, the Trowbridges, and Hiram Hunt. The society split. One side went northwest and built Brushy Chapel. The other stayed at the old schoolhouse. By 1919 the village churches were the Methodist Episcopal and the Christian, both with buildings. The Christian church had about thirty-five members. Its building was the old schoolhouse, bought and rebuilt. For a time the pastor at Stroh preached there. That history says the services had stopped.",
+    long: "",
+    names: ["Thomas Conley", "B. B. Waterhouse"]
+  },
+  {
+    id: "south-milford-waterhouse",
+    name: "Benjamin B. Waterhouse",
+    lat: 41.5322,
+    lng: -85.2672,
+    radius: 300,
+    short: "Benjamin B. Waterhouse lived in this township. His house was a station on the Underground Railroad, the one between the Whitfords in Noble County and Orland. He helped one hundred people get to Canada. After the fugitive slave law of 1852 he worked harder. In the autumn of 1853 Augustus Whitford brought five or six people to the house in a wagon, and they were taken on. In the fall of 1854 Waterhouse was tried in the United States Circuit Court at Indianapolis. Cyrus Fillmore, brother of former president Millard Fillmore, was a witness against him. He was fined fifty dollars and sentenced to twenty-four hours. The jail time was dropped. The fine was probably paid. He kept going.",
+    long: "",
+    names: ["Benjamin B. Waterhouse", "Cyrus Fillmore"]
+  },
+  {
+    id: "south-milford-monument",
+    name: "The armistice bell",
+    lat: 41.5335,
+    lng: -85.2715,
+    radius: 200,
+    short: "At the corner of State Road 3 and County Road 750 South is the monument to the South Milford High School students who served in the World War. It was put up in 1923. The bell dedicated with it cracked while it was ringing the news of the armistice. The stone also carries 1776, 1861, and 1898. No battlefield is named in the village.",
     long: "",
     names: ["South Milford"]
   },
   {
     id: "south-milford-gaps",
     name: "What is not at South Milford",
-    lat: 41.5319,
-    lng: -85.2664,
-    radius: 250,
-    short: "These pages do not name a founder, a post office date, a railroad, a church, a native village, or a war site at South Milford. Those stay off this card until a source names them.",
+    lat: 41.5322,
+    lng: -85.2672,
+    radius: 200,
+    short: "These pages do not name a native village or a park at South Milford. The railroad is the Wabash. The war site is the monument, not a battlefield.",
     long: "",
     names: ["South Milford"]
   },
+  {
+    id: "approach-nevada-mills",
+    name: "Nevada Mills",
+    lat: 41.7269,
+    lng: -85.0822,
+    radius: 400,
+    layer: "approach",
+    short: "You are coming up on Nevada Mills, in Jamestown Township, Steuben County, on Bachelor Road. The mill pond, the name on the wall, and the church are on their own cards. An older name for this place was Millville.",
+    long: "",
+    names: ["Nevada Mills", "Millville"]
+  },
+  {
+    id: "nevada-mills-dam",
+    name: "Farnham's dam",
+    lat: 41.7269,
+    lng: -85.0822,
+    radius: 300,
+    short: "Avery Farnham took up this land in 1837. He was a speculator. His house still stands in Fremont, just south of the tracks. He built the dam for the water power before there was a town. In 1854 he deeded the mill property to Jacob Overdeer for thirteen hundred dollars. That is the first land transfer the local history records here.",
+    long: "",
+    names: ["Avery Farnham", "Jacob Overdeer"]
+  },
+  {
+    id: "nevada-mills-woolen",
+    name: "The Wickman mill",
+    lat: 41.7269,
+    lng: -85.0822,
+    radius: 300,
+    short: "Joseph Wickman, a German immigrant, ran a sawmill and a woolen mill here. Logs were rafted down the stream. The woolen mill had forty looms and two spinning jennies, one hundred forty-four spindles each. Wickman died in 1846. Soon after, both buildings burned. Overdeer and a man named Deam, a forty-niner, built the gristmill on the north flume and a distillery just west of it.",
+    long: "",
+    names: ["Joseph Wickman", "Jacob Overdeer"]
+  },
+  {
+    id: "nevada-mills-name",
+    name: "Buchananville",
+    lat: 41.7269,
+    lng: -85.0822,
+    radius: 250,
+    short: "Jacob Overdeer was a Democrat. He wanted to name the place Buchananville, for President Buchanan, and he painted the name on the mill wall. A later owner, a Republican, tried to scrape it off an outside window and could not reach all of it. The picture still showed the start of the name. Deam, who had made his money in California, said call it Nevada Mills. The name stuck. The post office opened in 1867 and closed in 1905.",
+    long: "",
+    names: ["Jacob Overdeer", "Buchananville"]
+  },
+  {
+    id: "nevada-mills-school",
+    name: "The brick school",
+    lat: 41.7269,
+    lng: -85.0822,
+    radius: 250,
+    short: "The first school was a small frame house about a quarter mile west on Bachelor Road. A second wooden school stood beside the one that is still here. The brick school went up in 1879. The bricks came from a yard on the north side of the mill pond. School was held in it until 1945.",
+    long: "",
+    names: ["Nevada Mills"]
+  },
+  {
+    id: "nevada-mills-church",
+    name: "Nevada Mills church",
+    lat: 41.7269,
+    lng: -85.0822,
+    radius: 200,
+    short: "The Methodist society dates from 1872. Early services were in the schoolhouses. The land for this building was bought in 1891. The church was finished in 1892. The bell was hung in December 1894. It stands at 4710 West Bachelor Road, on the old Cooper blacksmith shop, where barrel staves were made. Of the mills and shops, the church is the one organization still working.",
+    long: "",
+    names: ["Nevada Mills"]
+  },
+  {
+    id: "nevada-mills-willow",
+    name: "Lucas's willows",
+    lat: 41.7269,
+    lng: -85.0822,
+    radius: 200,
+    short: "The story here is that Israel Lucas planted five willow trees along the mill pond soon after the dam went in. One of them, by the church, was called the biggest willow in Indiana.",
+    long: "",
+    names: ["Israel Lucas"]
+  },
+  {
+    id: "nevada-mills-store",
+    name: "The red store",
+    lat: 41.7269,
+    lng: -85.0822,
+    radius: 200,
+    short: "The first store was the red store, on the mill property. A man named Penny kept it. Thompson Terry and his son Jim later ran a store there, then built their own.",
+    long: "",
+    names: ["Thompson Terry"]
+  },
+  {
+    id: "nevada-mills-gaps",
+    name: "What is not at Nevada Mills",
+    lat: 41.7269,
+    lng: -85.0822,
+    radius: 200,
+    short: "These pages do not name a railroad, a battlefield, or a park at Nevada Mills. The water is the mill pond. A local history says a Clovis point was found in this country, and that Jimmerson Lake was a meeting place for the tribes, mostly Potawatomi. It does not name a village on this spot.",
+    long: "",
+    names: ["Jimmerson Lake"]
+  },
+
+
   {
     id: "approach-ottoville",
     name: "Ottoville",
@@ -39935,27 +40263,7 @@ const STORIES = [
     long: "",
     names: ["Miami and Erie Canal", "Odenweller's Mill"]
   },
-  {
-    id: "approach-nevada-mills",
-    name: "Nevada Mills",
-    lat: 41.7269,
-    lng: -85.0822,
-    radius: 350,
-    layer: "approach",
-    short: "You are coming up on Nevada Mills, in Jamestown Township, Steuben County. An older name was Millville. A post office opened in 1867 and closed in 1905. These pages do not say who chose the name Nevada.",
-    long: "",
-    names: ["Nevada Mills", "Millville"]
-  },
-  {
-    id: "nevada-mills-gaps",
-    name: "What is not at Nevada Mills",
-    lat: 41.7269,
-    lng: -85.0822,
-    radius: 250,
-    short: "These pages do not name the mill owner, a railroad, a church, a native village, or a war site at Nevada Mills. Those stay off this card until a source names them.",
-    long: "",
-    names: ["Nevada Mills"]
-  },
+  
   {
     id: "approach-middle-point",
     name: "Middle Point",

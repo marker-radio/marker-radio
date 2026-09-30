@@ -38245,6 +38245,48 @@ const STORIES = [
     long: "",
     names: ["Maumee River"]
   },
+  {
+    id: "approach-carryall",
+    name: "Carryall",
+    lat: 41.2372,
+    lng: -84.7551,
+    radius: 800,
+    layer: "approach",
+    short: "You are coming up on Carryall, in Carryall Township, at State Route 49 and County Road 230, also called Johnson Road. Josiah McCormick kept the farm and the post office here from 1863 to 1874. Clark Cemetery is a third of a mile northeast, on private ground. If you are at the intersection, I'll start with him.",
+    long: "",
+    names: ["Carryall"]
+  },
+  {
+    id: "carryall-mccormick",
+    name: "Josiah McCormick",
+    lat: 41.2372,
+    lng: -84.7551,
+    radius: 350,
+    short: "Josiah McCormick was born in 1829 and died in 1916. He was the proprietor and the postmaster. The office ran from 1863 to 1874. He owned a 182-acre farm on the south side of this intersection. In 1851 he married Harriet Cooper, from Hancock County. She was born in 1834 and died in 1859. After she died he married Percy Munger, born in 1839 and died in 1915. They had at least four children. Josiah and Percy are buried with relatives in Forest Home Cemetery, five miles north on Route 18 in Hicksville.",
+    long: "",
+    names: ["Josiah McCormick", "Harriet Cooper", "Percy Munger", "Forest Home Cemetery"]
+  },
+  {
+    id: "carryall-cemetery",
+    name: "Clark Cemetery",
+    lat: 41.2407,
+    lng: -84.7505,
+    radius: 280,
+    short: "Clark Cemetery is on private property, about a third of a mile northeast, on the east side of State Route 49, just south of the North Branch of Marie DeLarme Creek. Joseph Clark, born in 1817 and died in 1873, from Pennsylvania, and Nancy E. Clark, born in 1820 and died in 1905, from Vermont, owned the 148-acre farm where the cemetery was laid out. Harriet is buried here with their son William F. McCormick, born in 1854 and died in 1857, a later infant son of Josiah, and other early residents.",
+    long: "",
+    names: ["Clark Cemetery", "Joseph Clark", "Nancy E. Clark", "William F. McCormick"]
+  },
+  {
+    id: "carryall-gaps",
+    name: "What is not here",
+    lat: 41.2372,
+    lng: -84.7551,
+    radius: 300,
+    short: "No railroad, no park, no battlefield, and no native village are named at this intersection. The creek is the landmark. The town was the farm and the post office.",
+    long: "",
+    names: ["Marie DeLarme Creek"]
+  },
+
 
   ];
 

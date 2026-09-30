@@ -37420,6 +37420,87 @@ const STORIES = [
     long: "",
     names: ["Fought Cemetery"]
   },
+    {
+    id: "approach-renollet",
+    name: "Renollet",
+    lat: 41.2454,
+    lng: -84.4959,
+    radius: 1800,
+    layer: "approach",
+    short: "You are coming up on Renollet, in Emerald Township, on the south side of US 24. Samuel Renollet and Lyda Grimes kept a farm and a stop on the Wabash here. The record says they owned the first automobile in Paulding County. A tornado in 1920 is what people remember wiping the place out. If you turn onto Road 139, I'll start with the family.",
+    long: "",
+    names: ["Renollet"]
+  },
+  {
+    id: "renollet-name",
+    name: "Samuel and Lyda",
+    lat: 41.2454,
+    lng: -84.4959,
+    radius: 400,
+    short: "Samuel A. Renollet was born in Paulding County in 1875. He died in 1956. Lyda Grimes was born in 1880 and died in 1948. They came from Boone County, Nebraska, married in 1901, and had nine children. They owned a hundred-sixty-acre farm on the southeast side of this crossing. Samuel was a descendant of Paul Renollet Senior, a German immigrant born in 1801, and Mary Odon, born in 1805.",
+    long: "",
+    names: ["Samuel A. Renollet", "Lyda Grimes", "Paul Renollet", "Mary Odon"]
+  },
+  {
+    id: "renollet-wabash",
+    name: "Wabash station",
+    lat: 41.2454,
+    lng: -84.4959,
+    radius: 400,
+    short: "Road 139 meets Road 236 at the Wabash tracks. The town had a station, a grain elevator, a general store, and at least one other shop. They lined the north side of Road 236, just west of here. This is not a canal town. The railroad is why the stop existed. No remnant is known.",
+    long: "",
+    names: ["Wabash Railroad"]
+  },
+  {
+    id: "renollet-school",
+    name: "The Hoeffel school",
+    lat: 41.2454,
+    lng: -84.4959,
+    radius: 350,
+    short: "A school stood about a mile and a half southeast, at the northwest corner of County Road 232 and County Road 143, on a hundred-sixty-acre farm owned by the Hoeffel family. Samuel was a building contractor, a Freemason, and a member of the Emerald Township school board. No church and no park are recorded.",
+    long: "",
+    names: ["Hoeffel family", "Samuel A. Renollet"]
+  },
+  {
+    id: "renollet-auto",
+    name: "The Brush Runabout",
+    lat: 41.2454,
+    lng: -84.4959,
+    radius: 350,
+    short: "The Renollets are recorded as the first people in Paulding County to own an automobile. It was a Brush Runabout, bought in 1909. That is the story this stop still has, even though the buildings are gone.",
+    long: "",
+    names: ["Brush Runabout", "Samuel A. Renollet"]
+  },
+  {
+    id: "renollet-cemetery",
+    name: "Renollet Cemetery",
+    lat: 41.2454,
+    lng: -84.4959,
+    radius: 300,
+    short: "The older Renollets are buried about two and a third miles south, in Renollet Cemetery, on private ground on the west side of Township Road 135, north of Six Mile Creek. Samuel and Lyda later moved to Franklin County. They are buried in Union Cemetery on Olentangy River Road in Columbus.",
+    long: "",
+    names: ["Renollet Cemetery", "Union Cemetery"]
+  },
+  {
+    id: "renollet-tornado",
+    name: "The 1920 tornado",
+    lat: 41.2454,
+    lng: -84.4959,
+    radius: 400,
+    short: "On March 28, 1920, a tornado wiped out Renollet. The same storm hit Edgerton and damaged Smiley. No battlefield and no fort are recorded here. The storm is the disaster this corner is known for.",
+    long: "",
+    names: ["Renollet"]
+  },
+  {
+    id: "renollet-native",
+    name: "No village on the plat",
+    lat: 41.2454,
+    lng: -84.4959,
+    radius: 300,
+    short: "No native village is named on the Renollet plat. The stop is a railroad crossing and a farm south of US 24.",
+    long: "",
+    names: ["Renollet"]
+  },
   
   ];
 

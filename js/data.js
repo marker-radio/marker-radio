@@ -38357,7 +38357,57 @@ const STORIES = [
     long: "",
     names: ["Big Run"]
   },
-
+  {
+    id: "approach-cicero",
+    name: "Cicero",
+    lat: 41.3394,
+    lng: -84.7092,
+    radius: 700,
+    layer: "approach",
+    short: "You are coming up on Cicero, also called Cicero Corners, on the line of Milford and Hicksville townships. It is at Cicero Road and Huber Road, along the North Fork of Gordon Creek. A grist mill, a steam sawmill, and a Methodist Episcopal church stood just north of this corner. The post office ran from 1852 to 1901. Nothing of the town is left.",
+    long: "",
+    names: ["Cicero", "North Fork Gordon Creek"]
+  },
+  {
+    id: "cicero-town",
+    name: "Cicero Corners",
+    lat: 41.3394,
+    lng: -84.7092,
+    radius: 300,
+    short: "The mills and the Methodist Episcopal church stood along Cicero Road, just north of Huber Road. The post office ran from 1852 to 1901. The known postmasters were David M. Grier, E. M. Hattery, John F. Haller, Rosa Miller, William Battershell, and P. L. Battershell. Cicero was still on the county map in 1931. No building from the town is known to be standing.",
+    long: "",
+    names: ["David M. Grier", "E. M. Hattery", "John F. Haller", "Rosa Miller", "William Battershell", "P. L. Battershell"]
+  },
+  {
+    id: "cicero-school",
+    name: "Milford Township School No. 4",
+    lat: 41.3539,
+    lng: -84.7092,
+    radius: 250,
+    short: "The school was a mile north of Cicero Corners, in the northeast corner of Cicero Road and Arrowsmith Road. It was Milford Township Number 4.",
+    long: "",
+    names: ["Milford Township"]
+  },
+  {
+    id: "cicero-cemetery",
+    name: "Six Corners Cemetery",
+    lat: 41.3241,
+    lng: -84.7296,
+    radius: 250,
+    short: "Many of Cicero's residents were buried at Six Corners Cemetery, about a mile and a half southwest, on the south side of State Route 2 between Cicero Road and Lake Road.",
+    long: "",
+    names: ["Six Corners Cemetery"]
+  },
+  {
+    id: "cicero-gaps",
+    name: "What is not here",
+    lat: 41.3394,
+    lng: -84.7092,
+    radius: 280,
+    short: "No railroad, no park, no battlefield, and no native village are named at this corner. The creek is the water. The mills and the church are gone.",
+    long: "",
+    names: ["North Fork Gordon Creek"]
+  },
 
   ];
 

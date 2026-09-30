@@ -37949,6 +37949,68 @@ const STORIES = [
     long: "",
     names: ["Holcombe"]
   },
+{
+    id: "approach-gilberts-mills",
+    name: "Gilberts Mills",
+    lat: 40.9974,
+    lng: -84.4765,
+    radius: 550,
+    layer: "approach",
+    short: "You are coming up on Gilberts Mills, in Latty Township, where State Route 637 meets Road 18, along Maddox Creek. Philander Gilbert rebuilt a sawmill here in 1865, on an eighty-acre farm in the northwest corner. The post office ran from 1871 to 1889, then moved north to Grover Hill. If you are at the crossing, I'll start with the mill.",
+    long: "",
+    names: ["Gilberts Mills"]
+  },
+  {
+    id: "gilberts-sawmill",
+    name: "Philander Gilbert",
+    lat: 40.9974,
+    lng: -84.4765,
+    radius: 350,
+    short: "Philander Gilbert was born in 1813 and died in 1887. He came from Livingston County, New York, to Ohio in 1832. Until 1861 he ran a grist mill and a sawmill with his uncle, David Hawley, in Licking County. Then he bought a steam sawmill in Franklin County. In 1865 he set that mill up again on this farm. It burned in 1870 and was rebuilt. He was justice of the peace, township school director, and the first postmaster. He was married three times and had eight children.",
+    long: "",
+    names: ["Philander Gilbert", "David Hawley"]
+  },
+  {
+    id: "gilberts-byron",
+    name: "Byron's planing mill",
+    lat: 40.9974,
+    lng: -84.4765,
+    radius: 350,
+    short: "Philander's son Byron J. Gilbert was born in 1849 and died in 1919. He married Mary Pease Gilbert in 1870. She was born in 1851 and died in 1941. They had six children. Byron rented the sawmill in 1880 and bought it from his father in 1886. He grew the farm to ninety acres and added a planing mill. It employed four local people and could cut five thousand feet of lumber a day. He was also school director.",
+    long: "",
+    names: ["Byron J. Gilbert", "Mary Pease Gilbert"]
+  },
+  {
+    id: "gilberts-office",
+    name: "The office left",
+    lat: 40.9974,
+    lng: -84.4765,
+    radius: 300,
+    short: "The only other postmaster on record is J. Fritz. In the late 1800s the office moved to Grover Hill, which had become the commercial town. Dr. Charles A. Bray practiced medicine here until that same year, then he moved to Grover Hill too. There was no railroad station on this corner.",
+    long: "",
+    names: ["J. Fritz", "Charles A. Bray"]
+  },
+  {
+    id: "gilberts-cemetery",
+    name: "Middle Creek",
+    lat: 40.9974,
+    lng: -84.4765,
+    radius: 300,
+    short: "The Gilberts are buried with relatives and neighbors in Middle Creek Cemetery, about a mile and three quarters northeast, on Road 24 between Road 151 and Middle Creek. Middle Creek Church stands beside those stones.",
+    long: "",
+    names: ["Middle Creek Cemetery", "Middle Creek Church"]
+  },
+  {
+    id: "gilberts-gaps",
+    name: "What is not here",
+    lat: 40.9974,
+    lng: -84.4765,
+    radius: 300,
+    short: "No park, no battlefield, and no native village are named at Gilberts Mills. The mill is gone. The story is the fire, the rebuild, and an office that followed the trade north.",
+    long: "",
+    names: ["Gilberts Mills"]
+  },
+
 
   ];
 

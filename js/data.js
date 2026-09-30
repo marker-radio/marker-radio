@@ -39095,6 +39095,47 @@ const STORIES = [
     long: "",
     names: ["William Stenger", "West Buffalo Cemetery", "St. Joseph River"]
   },
+  {
+    id: "approach-singers",
+    name: "Singers Corners",
+    lat: 41.5709,
+    lng: -84.7691,
+    radius: 500,
+    layer: "approach",
+    short: "You are coming up on Singers Corners, in Florence Township, at State Route 49 and County Road K. German immigrants David Singer and Margaret Singer were the first settlers in the township. He was born in 1808 and died in 1871. She was born in 1810 and died in 1888. Her family name is given as Kragore or Creger. The listing does not choose. Nothing is left at this corner. Edon, south of here, already has its own stop.",
+    long: "",
+    names: ["Singers Corners", "David Singer"]
+  },
+  {
+    id: "singers-cabin",
+    name: "David Singer",
+    lat: 41.5709,
+    lng: -84.7691,
+    radius: 280,
+    short: "David left his family at the village of Denmark, not the country, while he looked for land. Denmark already has that stop. He built their cabin on section 9 in 1836 and 1837. They had eight children. Edon's card says a David Singer was the first white child born in this township. This listing does not say that child and the man born in 1808 are the same person.",
+    long: "",
+    names: ["David Singer", "Margaret Singer", "Denmark Ohio"]
+  },
+  {
+    id: "singers-church",
+    name: "Allomong church",
+    lat: 41.5709,
+    lng: -84.7691,
+    radius: 250,
+    short: "A Methodist Episcopal church stood in the southwest corner, on land owned by the Allomong family. The listing does not date it. It is gone.",
+    long: "",
+    names: ["Allomong family"]
+  },
+  {
+    id: "singers-gaps",
+    name: "What is not here",
+    lat: 41.5709,
+    lng: -84.7691,
+    radius: 250,
+    short: "No post office, no mill, no railroad, and no native village are named at this corner. David and Margaret are buried at Edon Union Cemetery, about a mile and a third south, on the east side of State Route 49. That ground is inside Edon, so it is not a new pin. Luke's Corners, a mile east, faded the same way. Edon took the people and the businesses.",
+    long: "",
+    names: ["Edon Union Cemetery", "Luke's Corners"]
+  },
 
 
   ];

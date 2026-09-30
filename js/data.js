@@ -38061,7 +38061,57 @@ const STORIES = [
     long: "",
     names: ["Follmer"]
   },
-
+  {
+    id: "approach-flat-rock",
+    name: "Flat Rock Settlement",
+    lat: 41.0888,
+    lng: -84.7020,
+    radius: 500,
+    layer: "approach",
+    short: "You are coming up on Flat Rock Settlement, also called Flat Rock City, in Harrison Township. It is on State Route 613, along Flatrock Creek, between Road 51 and Township Road 59. Thomas and Rachel Wentworth settled here in 1837, the first family in the township. It was never platted. If you are on the creek road, I'll start with them.",
+    long: "",
+    names: ["Flat Rock Settlement"]
+  },
+  {
+    id: "flat-rock-wentworth",
+    name: "The Wentworths",
+    lat: 41.0888,
+    lng: -84.7020,
+    radius: 300,
+    short: "Thomas Wentworth was born in 1791 and died in 1880. Rachel Townsend Wentworth was born in 1791 and died in 1858. They came from York County, Maine, married in 1814, and had at least eight children. Thomas was a veteran of the War of 1812. Here he was a justice of the peace, a judge, and a county commissioner. No regiment is named in this record.",
+    long: "",
+    names: ["Thomas Wentworth", "Rachel Townsend Wentworth"]
+  },
+  {
+    id: "flat-rock-name",
+    name: "A name that moved",
+    lat: 41.0888,
+    lng: -84.7020,
+    radius: 300,
+    short: "After more families came, people called this Flat Rock City. It was never given a plat, and the settlement on the creek faded in the middle of the 1800s. The same name was later used for the village that became Payne, about a mile and a half southwest. There was no post office, no railroad, and no canal at this point.",
+    long: "",
+    names: ["Flat Rock City"]
+  },
+  {
+    id: "flat-rock-graves",
+    name: "Clark Cemetery",
+    lat: 41.0888,
+    lng: -84.7020,
+    radius: 280,
+    short: "Thomas and Rachel are buried with relatives and other early settlers in Clark Cemetery. It is on private property, on the east side of State Route 49, in Carryall Township.",
+    long: "",
+    names: ["Clark Cemetery"]
+  },
+  {
+    id: "flat-rock-gaps",
+    name: "What is not here",
+    lat: 41.0888,
+    lng: -84.7020,
+    radius: 280,
+    short: "No church, no park, no battlefield, and no native village are named on this stretch of Flatrock Creek. The story is the first family in Harrison Township, and a name that the later village kept.",
+    long: "",
+    names: ["Flatrock Creek"]
+  },
 
 
   ];

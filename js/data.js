@@ -38941,5 +38941,47 @@ const STORIES = [
     names: ["Maumee River"]
   },
 
+  {
+    id: "approach-midway",
+    name: "Midway",
+    lat: 41.2750,
+    lng: -84.2660,
+    radius: 700,
+    layer: "approach",
+    short: "You are coming up on Midway, in Richland Township, on Harris Road at the Baltimore and Ohio crossing, between State Route 281 and Standley Road. It was a railroad stop in the late 1800s and early 1900s. There is no record of a station. It did have an express post office. Old houses and farm buildings are still around.",
+    long: "",
+    names: ["Midway", "Baltimore and Ohio Railroad"]
+  },
+  {
+    id: "midway-wirth",
+    name: "George Wirth",
+    lat: 41.2678,
+    lng: -84.2660,
+    radius: 250,
+    short: "A school stood about half a mile south, in the northwest corner of Harris Road and Standley Road. It sat on a 78-acre farm owned by George C. Wirth and Elizabeth Dietsch. George was born in 1853 in Henry County and died in 1931. Elizabeth was born in 1858 and died in 1939. They lived their married years in Richland Township. He died a few months short of their 50th anniversary. The listing does not give the wedding year.",
+    long: "",
+    names: ["George C. Wirth", "Elizabeth Dietsch"]
+  },
+  {
+    id: "midway-cemetery",
+    name: "Saint Stephen's Cemetery",
+    lat: 41.2409,
+    lng: -84.2207,
+    radius: 250,
+    short: "Saint Stephen's Lutheran Cemetery is about three and a third miles southeast, on the west side of New Bavaria Road in Highland Township. George and Elizabeth Wirth are buried here. New Bavaria, farther along that road, already has its own stop.",
+    long: "",
+    names: ["Saint Stephen's Lutheran Cemetery", "George C. Wirth", "Elizabeth Dietsch"]
+  },
+  {
+    id: "midway-gaps",
+    name: "What is not here",
+    lat: 41.2750,
+    lng: -84.2660,
+    radius: 280,
+    short: "No church, no park, no battlefield, and no native village are named at this crossing. No station is on record. The express office is gone. The Baltimore and Ohio is the railroad. The houses and the farms are what is left.",
+    long: "",
+    names: ["Baltimore and Ohio Railroad"]
+  },
+
   ];
 

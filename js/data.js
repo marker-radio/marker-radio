@@ -39517,7 +39517,90 @@ const STORIES = [
     long: "",
     names: ["Simeon C. Aldrich", "Pleasant Lake Depot"]
   },
-
+  {
+    id: "approach-sedan",
+    name: "Sedan",
+    lat: 41.4364,
+    lng: -85.0994,
+    radius: 300,
+    layer: "approach",
+    short: "You are coming up on Sedan, in Richland Township, DeKalb County. It was first called Lawrence. A post office opened in 1854 under the name Iba, also written Ida. It was renamed Sedan in 1861 and closed in 1908. The name most likely came from Sedan, France. The 1870 count was 176. Corunna already has its town, about 2 miles west.",
+    long: "",
+    names: ["Sedan", "Lawrence"]
+  },
+  {
+    id: "sedan-gaps",
+    name: "What is not at Sedan",
+    lat: 41.4364,
+    lng: -85.0994,
+    radius: 250,
+    short: "These pages do not name a railroad, a mill, a church, a native village, or a war site at Sedan. Those stay off this card until a source names them.",
+    long: "",
+    names: ["Sedan"]
+  },
+  {
+    id: "approach-altona",
+    name: "Altona",
+    lat: 41.3522,
+    lng: -85.1525,
+    radius: 250,
+    layer: "approach",
+    short: "You are coming up on Altona, in Keyser Township. It borders Garrett. A post office opened in 1874 and closed in 1913. The town incorporated in 1906. The 2020 count was 213. Garrett already has the city on this border.",
+    long: "",
+    names: ["Altona"]
+  },
+  {
+    id: "altona-gaps",
+    name: "What is not at Altona",
+    lat: 41.3522,
+    lng: -85.1525,
+    radius: 200,
+    short: "These pages do not name who founded Altona, a railroad, a mill, a native village, or a war site. Those stay off this card until a source names them.",
+    long: "",
+    names: ["Altona"]
+  },
+  {
+    id: "approach-convoy",
+    name: "Convoy",
+    lat: 40.9175,
+    lng: -84.7050,
+    radius: 400,
+    layer: "approach",
+    short: "You are coming up on Convoy, in Tully Township, Van Wert County. It was platted in 1854 and named for Convoy, Ireland, the home of a first settler. The record does not name that settler. A post office has been here since 1872. The village incorporated in 1874. The 2020 count was 1,012.",
+    long: "",
+    names: ["Convoy"]
+  },
+  {
+    id: "convoy-railroad",
+    name: "Convoy and the railroad",
+    lat: 40.9175,
+    lng: -84.7050,
+    radius: 300,
+    short: "The Pittsburgh, Fort Wayne and Chicago Railroad was finished through this county in 1855. The village history says the settlement moved off an old native trail and onto the railroad. It does not name the nation. This was the edge of the Black Swamp. These pages do not name a church, a mill owner, or a war site here.",
+    long: "",
+    names: ["Pittsburgh, Fort Wayne and Chicago Railroad"]
+  },
+  {
+    id: "approach-ridgeville-corners",
+    name: "Ridgeville Corners",
+    lat: 41.4397,
+    lng: -84.2514,
+    radius: 500,
+    layer: "approach",
+    short: "You are coming up on Ridgeville Corners, in Ridgeville Township, Henry County. It was an early trading point. The date of the plat was not recorded. It was also called Hanover Settlement. A post office has been here since 1841. The 2020 count was 416. Napoleon already has the city, about 7 miles southeast.",
+    long: "",
+    names: ["Ridgeville Corners", "Hanover Settlement"]
+  },
+  {
+    id: "ridgeville-corners-church",
+    name: "Ridgeville Corners church",
+    lat: 41.4397,
+    lng: -84.2514,
+    radius: 300,
+    short: "The First Congregational Church here was a stop on the Underground Railroad in the mid-1800s. The record does not name the people who ran that stop. The town sits on high ground. The northwest side drains to the Tiffin River. The southeast side drains to the Maumee. These pages do not name a railroad, a mill, or a native village here.",
+    long: "",
+    names: ["First Congregational Church", "Tiffin River", "Maumee River"]
+  },
   
   ];
 

@@ -39136,7 +39136,47 @@ const STORIES = [
     long: "",
     names: ["Edon Union Cemetery", "Luke's Corners"]
   },
-
+ {
+    id: "approach-lukes",
+    name: "Luke's Corners",
+    lat: 41.5709,
+    lng: -84.7497,
+    radius: 550,
+    layer: "approach",
+    short: "You are coming up on Luke's Corners, in Florence Township, at County Road K and County Road 4, along Matthews Creek. Judge John Luke II kept the post office from 1854 to 1867. The listing says the town faded after that office closed, partly because Edon was platted in 1867. Edon's card already says that office moved into Weston and forced the Edon spelling. Nothing is left at this corner.",
+    long: "",
+    names: ["Luke's Corners", "Matthews Creek"]
+  },
+  {
+    id: "lukes-john",
+    name: "John Luke",
+    lat: 41.5709,
+    lng: -84.7497,
+    radius: 300,
+    short: "John Luke II was born in 1801 and died in 1875. Mary Micum was born in 1802 and died in 1880. They came from Northumberland County, Pennsylvania. They had a large farm here and nine children. The listing calls him a judge and does not say of what court.",
+    long: "",
+    names: ["John Luke II", "Mary Micum"]
+  },
+  {
+    id: "lukes-cemetery",
+    name: "Leggett Cemetery",
+    lat: 41.6169,
+    lng: -84.8112,
+    radius: 250,
+    short: "John and Mary Luke are buried about four and a half miles northwest, at Leggett Cemetery, also spelled Ligett, on the north side of County Road M-50.",
+    long: "",
+    names: ["Leggett Cemetery", "John Luke II", "Mary Micum"]
+  },
+  {
+    id: "lukes-gaps",
+    name: "What is not here",
+    lat: 41.5709,
+    lng: -84.7497,
+    radius: 250,
+    short: "No church, no mill, no school, no railroad, and no native village are named at this corner. Matthews Creek is the water. The farm and the post office are gone.",
+    long: "",
+    names: ["Matthews Creek"]
+  },
 
   ];
 

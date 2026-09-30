@@ -38818,7 +38818,67 @@ const STORIES = [
     long: "",
     names: ["Hilbert family", "Lost Creek"]
   },
-
+  {
+    id: "approach-snooksville",
+    name: "Snooksville",
+    lat: 41.2673,
+    lng: -84.5536,
+    radius: 600,
+    layer: "approach",
+    short: "You are coming up on Snooksville, in Delaware Township, at US 127 and Jericho Road. It was first called Westburg, then Westburgh. The post office ran from 1836 to 1847, and again from 1851 to 1861. Sherwood, north of here, already has the later name Snook's Run.",
+    long: "",
+    names: ["Snooksville", "Westburg"]
+  },
+  {
+    id: "snooksville-name",
+    name: "Peter Snook",
+    lat: 41.2673,
+    lng: -84.5536,
+    radius: 300,
+    short: "The first known postmaster, while this was still Williams County, was M. Evans. The full name is not recorded. Between 1843 and 1846 an h was added, and Westburg became Westburgh. Peter Snook, born about 1818, was the last postmaster of that office and the first of the Snooksville office. He changed the name. He married Caroline Whetstone in 1849. After the 1850 census the Snook family drops out of the county records, and where they went is not known.",
+    long: "",
+    names: ["Peter Snook", "Caroline Whetstone", "M. Evans"]
+  },
+  {
+    id: "snooksville-coffin",
+    name: "Coffin School",
+    lat: 41.2673,
+    lng: -84.5536,
+    radius: 280,
+    short: "Gilbert Coffin took the post office after Peter Snook. He was born in 1808 and died in 1875. Delaware Township Number 10 stood in the northwest corner of this intersection. It was also called the Coffin School. Orlando Coffin, born in 1848 and died in 1907, had a sawmill on the west side of US 127, just south of the corner. The old listing does not say how Gilbert and Orlando were related.",
+    long: "",
+    names: ["Gilbert Coffin", "Orlando Coffin"]
+  },
+  {
+    id: "snooksville-blair",
+    name: "Blair Cemetery",
+    lat: 41.2673,
+    lng: -84.5600,
+    radius: 220,
+    short: "Blair Cemetery is about a third of a mile west, in the woods south of Blair Road, on private property. The Blairs were a large family here. Twenty-nine burials are known, most of them from the years Snooksville existed.",
+    long: "",
+    names: ["Blair Cemetery"]
+  },
+  {
+    id: "snooksville-colby",
+    name: "Colby Cemetery",
+    lat: 41.2366,
+    lng: -84.5944,
+    radius: 220,
+    short: "Colby Cemetery is about three miles southwest, on private property, on the north side of the Defiance-Paulding county line road in Mark Township. Gilbert Coffin and Orlando Coffin are buried here.",
+    long: "",
+    names: ["Colby Cemetery", "Gilbert Coffin", "Orlando Coffin"]
+  },
+  {
+    id: "snooksville-gaps",
+    name: "What is not here",
+    lat: 41.2673,
+    lng: -84.5536,
+    radius: 250,
+    short: "Jacob Kintner was the last known postmaster. The old listing does not say whether that was Jacob Senior, born in 1798 and died in 1869, or Jacob Junior, born in 1835 and died in 1905. He is buried at Sherwood Cemetery, which already has a stop. No railroad, no park, no battlefield, and no native village are named at this corner. The school and the sawmill are gone.",
+    long: "",
+    names: ["Jacob Kintner"]
+  },
 
   ];
 

@@ -39013,6 +39013,47 @@ const STORIES = [
     long: "",
     names: []
   },
+  {
+    id: "approach-mazes",
+    name: "Mazes Corners",
+    lat: 41.4997,
+    lng: -84.6711,
+    radius: 600,
+    layer: "approach",
+    short: "You are coming up on Mazes Corners, in Center Township, at County Road F and County Road 8. Robert Maze kept the post office from 1842 to 1849. He was also an Evangelical Lutheran minister. Nothing from the town is left at this corner.",
+    long: "",
+    names: ["Mazes Corners"]
+  },
+  {
+    id: "mazes-robert",
+    name: "Robert Maze",
+    lat: 41.4997,
+    lng: -84.6711,
+    radius: 300,
+    short: "Robert Maze was born in 1798 and died in 1851. Sarah Mitchell was born in 1802 and died in 1887. They married in Union County in 1823, after his first wife died. The listing does not name that first wife. They moved to Williams County around 1841 and had eight children. Robert is buried at West Buffalo Cemetery. Sarah is not.",
+    long: "",
+    names: ["Robert Maze", "Sarah Mitchell"]
+  },
+  {
+    id: "mazes-cemetery",
+    name: "West Buffalo Cemetery",
+    lat: 41.5235,
+    lng: -84.7030,
+    radius: 250,
+    short: "West Buffalo Cemetery is about two and a third miles northwest, on the southeast side of County Road 5G. Robert Maze is buried here. The Bryan Press said Sarah could not be buried next to him because of unfavorable circumstances. The listing does not say what that means. She is at Pease Cemetery, at County Road S and County Road 11-50 in Bridgewater Township. No distance is given, so that ground is not pinned.",
+    long: "",
+    names: ["West Buffalo Cemetery", "Robert Maze", "Pease Cemetery"]
+  },
+  {
+    id: "mazes-gaps",
+    name: "What is not here",
+    lat: 41.4997,
+    lng: -84.6711,
+    radius: 250,
+    short: "No school, no mill, no church building, no railroad, and no native village are named at this corner. The post office is gone. The corner is empty.",
+    long: "",
+    names: []
+  },
 
   ];
 

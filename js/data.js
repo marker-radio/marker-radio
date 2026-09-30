@@ -38010,6 +38010,58 @@ const STORIES = [
     long: "",
     names: ["Gilberts Mills"]
   },
+  {
+    id: "approach-follmer",
+    name: "Follmer",
+    lat: 41.0337,
+    lng: -84.5826,
+    radius: 400,
+    layer: "approach",
+    short: "You are coming up on Follmer, also spelled Folmer and Fulmer, in Blue Creek Township. It is on Road 48, between the road called McDonald Park and U.S. 127. Andrew Fulmer's farm sat on the Cincinnati Northern. The post office ran from 1882 to 1896. Nothing is left. If you are on Road 48, I'll start with the farm.",
+    long: "",
+    names: ["Follmer"]
+  },
+  {
+    id: "follmer-fulmer",
+    name: "Andrew Fulmer",
+    lat: 41.0337,
+    lng: -84.5826,
+    radius: 300,
+    short: "The town was founded by Andrew Fulmer, a German immigrant, born about 1827, and Sarah L. Fulmer, born about 1830, from Pennsylvania. They owned an eighty-acre farm on the northwest side of this point and had at least four children. The 1880 census is the last time they are recorded in Paulding County. Andrew still owned the farm when the 1892 atlas was published. Their graves are not recorded.",
+    long: "",
+    names: ["Andrew Fulmer", "Sarah L. Fulmer"]
+  },
+  {
+    id: "follmer-rail",
+    name: "The Cincinnati Northern",
+    lat: 41.0337,
+    lng: -84.5826,
+    radius: 300,
+    short: "Follmer was on the Cincinnati, Jackson and Mackinaw Railroad, later the Cincinnati Northern. People also called that line the Tangent. The tracks through here are gone.",
+    long: "",
+    names: ["Cincinnati, Jackson and Mackinaw Railroad", "Cincinnati Northern Railroad"]
+  },
+  {
+    id: "follmer-school",
+    name: "McDonald School",
+    lat: 41.0337,
+    lng: -84.5921,
+    radius: 280,
+    short: "A school called McDonald stood half a mile west, in the northeast corner of Road 48 and McDonald Park. The known postmasters were S. G. Bowyer and L. A. Fast. No church is recorded.",
+    long: "",
+    names: ["McDonald School", "S. G. Bowyer", "L. A. Fast"]
+  },
+  {
+    id: "follmer-gaps",
+    name: "What is not here",
+    lat: 41.0337,
+    lng: -84.5826,
+    radius: 280,
+    short: "McDonald Park is the name of the county road, not a public park. No battlefield and no native village are named. The story is an eighty-acre farm, a railroad, and a fourteen-year office.",
+    long: "",
+    names: ["Follmer"]
+  },
+
 
 
   ];

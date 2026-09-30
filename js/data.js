@@ -38286,6 +38286,77 @@ const STORIES = [
     long: "",
     names: ["Marie DeLarme Creek"]
   },
+  {
+    id: "approach-arena",
+    name: "Arena",
+    lat: 41.1353,
+    lng: -84.6314,
+    radius: 450,
+    layer: "approach",
+    short: "You are coming up on Arena, in Paulding Township, at State Route 111 and Road 87, along Big Run. The post office ran from 1892 to 1902. Two miles southeast, the old grange hall is still standing. It was a store downstairs and a meeting room upstairs, and it was given to the county historical society in 2017. If you go south on Road 87, I'll start with the church and the school.",
+    long: "",
+    names: ["Arena", "Big Run"]
+  },
+  {
+    id: "arena-office",
+    name: "Arena post office",
+    lat: 41.1353,
+    lng: -84.6314,
+    radius: 280,
+    short: "The post office ran from 1892 to 1902. The known postmasters were J. P. Poorman, Gertie H. Musgrave, Calvin Fultz, and L. E. Babcoke. Rural free delivery replaced the office.",
+    long: "",
+    names: ["J. P. Poorman", "Gertie H. Musgrave", "Calvin Fultz", "L. E. Babcoke"]
+  },
+  {
+    id: "arena-grange",
+    name: "Paulding Grange",
+    lat: 41.1149,
+    lng: -84.6043,
+    radius: 250,
+    short: "Paulding Grange Number 33 was organized on January 2, 1874. The hall went up about 1894 at State Route 500 and County Road 95, on the 240-acre farm of John B. Mossoney Jr. and Martha Smith. John was born in Belgium in 1826 and died in 1908. Martha was born in 1836 and died in 1921. The store was on the first floor. Meetings were upstairs. In 2017 Terry and Marlene Buehler gave the building to the John Paulding Historical Society. It is one of the last grange halls still standing in the county.",
+    long: "",
+    names: ["Paulding Grange", "John B. Mossoney Jr.", "Martha Smith", "Terry Buehler", "Marlene Buehler", "John Paulding Historical Society"]
+  },
+  {
+    id: "arena-church",
+    name: "St. Paul's Church",
+    lat: 41.1136,
+    lng: -84.6314,
+    radius: 160,
+    short: "St. Paul's Church and Cemetery are a mile and a half south of Arena, at Road 87 and Town Highway 114. The church standing now was finished in 1882 and is still in use. John and Martha Mossoney are buried here with relatives and other residents.",
+    long: "",
+    names: ["St. Paul's Church", "John B. Mossoney Jr.", "Martha Smith"]
+  },
+  {
+    id: "arena-school",
+    name: "Township School No. 1",
+    lat: 41.1173,
+    lng: -84.6314,
+    radius: 160,
+    short: "The school still standing is a mile and a quarter south of Arena, in the southeast corner of Road 87 and State Route 500. It was Paulding Township Number 1, built in 1900 on an 80-acre farm owned by the Overturf family, and later used as a township house. Another school stood three quarters of a mile northeast of Arena, on the east side of Road 93. A third stood a mile north, at Road 87 and Road 144. That corner is Sunnyside.",
+    long: "",
+    names: ["Overturf family", "Sunnyside"]
+  },
+  {
+    id: "arena-cooper",
+    name: "Cooper-Haines Cemetery",
+    lat: 41.1217,
+    lng: -84.6133,
+    radius: 220,
+    short: "Cooper-Haines Cemetery is about a mile and a third southeast of Arena, at State Route 500 and Road 93. Civil War veteran John Cooper, born in 1838 and died in 1888, from Marion County, and Catherine Reidel, born in 1842 and died in 1923, from Germany, married in 1865 and moved here in 1873. They owned 80 acres, had three children, and gave the west half of the cemetery. John died of typhoid the week after their daughter Emma Caroline Cooper died of the same illness. She was born in 1872 and died in 1888. The east half came from the 80-acre farm of Augustus E. Haines, born in 1831 and died in 1915, from Logan County, and Emeline Crowder, born in 1829 and died in 1912, from Belmont County. They married in 1852 and had at least two children. All of them are buried here.",
+    long: "",
+    names: ["John Cooper", "Catherine Reidel", "Emma Caroline Cooper", "Augustus E. Haines", "Emeline Crowder", "Cooper-Haines Cemetery"]
+  },
+  {
+    id: "arena-gaps",
+    name: "What is not here",
+    lat: 41.1353,
+    lng: -84.6314,
+    radius: 250,
+    short: "No railroad, no park, no battlefield, and no native village are named at this corner. Big Run is the creek. The grange, the church, the school, and the cemetery are the pins, and they sit south and southeast of here.",
+    long: "",
+    names: ["Big Run"]
+  },
 
 
   ];

@@ -38644,6 +38644,47 @@ const STORIES = [
     long: "",
     names: ["Wabash Railroad"]
   },
+  {
+    id: "approach-glenburg",
+    name: "Glenburg",
+    lat: 41.4272,
+    lng: -84.4590,
+    radius: 700,
+    layer: "approach",
+    short: "You are coming up on Glenburg, on the Defiance and Williams county line, at County Line Road and Glenburg Road. It sits in Washington and Tiffin townships on the Defiance side, and Springfield Township on the Williams side. It was a small farming stop. The post office ran from 1893 to 1905. Old houses and farm buildings are still in the area.",
+    long: "",
+    names: ["Glenburg"]
+  },
+  {
+    id: "glenburg-churchman",
+    name: "Urias Churchman",
+    lat: 41.4272,
+    lng: -84.4590,
+    radius: 300,
+    short: "Urias L. Churchman was the proprietor and the postmaster. He was born in 1851 and died in 1922. The old listing spells his name Chruchman. He owned a 79-acre farm on the west side of Glenburg Road, just south of this corner. He is buried with relatives at Fountain Grove Cemetery in Bryan, about seven miles northwest, at US 127 and County Road C.",
+    long: "",
+    names: ["Urias L. Churchman"]
+  },
+  {
+    id: "glenburg-school",
+    name: "Tiffin School No. 3",
+    lat: 41.4067,
+    lng: -84.4317,
+    radius: 250,
+    short: "Tiffin Township Number 3 stood about two miles southeast, in the southeast corner of Scott Road and Trinity Road. It sat on a 159-acre farm owned by the Russell family.",
+    long: "",
+    names: ["Russell family"]
+  },
+  {
+    id: "glenburg-gaps",
+    name: "What is not here",
+    lat: 41.4272,
+    lng: -84.4590,
+    radius: 280,
+    short: "No railroad, no church, no park, no battlefield, and no native village are named at this corner. The post office and the school are gone. The farms are what is left.",
+    long: "",
+    names: []
+  },
 
 
   ];

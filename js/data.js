@@ -38787,6 +38787,37 @@ const STORIES = [
     long: "",
     names: []
   },
+  {
+    id: "approach-arrowsmiths",
+    name: "Arrowsmiths",
+    lat: 41.3501,
+    lng: -84.6711,
+    radius: 450,
+    layer: "approach",
+    short: "You are coming up on Arrowsmiths, in Farmer Township, at State Route 2, Ensign Road, and Breininger Road, along Lost Creek. Miller Arrowsmith bought this farm in 1833. The post office ran from 1843 to 1866, and Wilseyville replaced it. Lost Creek Cemetery, a third of a mile north, already has its own stop.",
+    long: "",
+    names: ["Arrowsmiths", "Lost Creek"]
+  },
+  {
+    id: "arrowsmiths-miller",
+    name: "Miller Arrowsmith",
+    lat: 41.3501,
+    lng: -84.6711,
+    radius: 300,
+    short: "Miller Arrowsmith was born in 1808 and died in 1893. Celinda Caraway was born in 1813 and died in 1849. They were from Champaign County, married in 1832, and had a couple of children. The farm was 275 acres. Miller built a grist mill here, ran the post office, and served as county auditor and county surveyor. He then went back to farming. He and Celinda are buried at Lost Creek Cemetery.",
+    long: "",
+    names: ["Miller Arrowsmith", "Celinda Caraway"]
+  },
+  {
+    id: "arrowsmiths-gaps",
+    name: "What is not here",
+    lat: 41.3501,
+    lng: -84.6711,
+    radius: 250,
+    short: "The grist mill is gone. The school across from the cemetery sat on a 100-acre farm owned by the Hilbert family. That house is already on the cemetery stop. No railroad, no park, no battlefield, and no native village are named at this corner. Lost Creek is the water.",
+    long: "",
+    names: ["Hilbert family", "Lost Creek"]
+  },
 
 
   ];

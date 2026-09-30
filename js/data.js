@@ -37106,6 +37106,77 @@ const STORIES = [
     long: "",
     names: ["Timberville"]
   },
+  {
+    id: "approach-murat",
+    name: "Murat",
+    lat: 41.0626,
+    lng: -84.3758,
+    radius: 900,
+    layer: "approach",
+    short: "You are coming up on Murat, a mile north of Timberville, on the old Miami and Erie. It was platted in 1853 with forty-four lots on each side of the canal. The county named it for Joachim Murat, a French marshal. If you are on the canal road, I'll start with that name.",
+    long: "",
+    names: ["Murat"]
+  },
+  {
+    id: "murat-name",
+    name: "Murat",
+    lat: 41.0626,
+    lng: -84.3758,
+    radius: 400,
+    short: "Murat is a canal town in Washington Township, just after the canal leaves Brown Township. A post office opened in 1852. The town was platted in 1853, forty-four lots on each side of the canal. It was named for Joachim Murat, the French marshal. He never lived here. The name is the only trace.",
+    long: "",
+    names: ["Joachim Murat"]
+  },
+  {
+    id: "murat-bridge",
+    name: "The high bridge",
+    lat: 41.0626,
+    lng: -84.3758,
+    radius: 400,
+    short: "The bridge at Murat was high enough that canal boats went under it. It did not have to open. The waterway was wider here, and boats used it as a turnaround. There was no railroad. The canal was the road.",
+    long: "",
+    names: ["Miami and Erie Canal"]
+  },
+  {
+    id: "murat-timber",
+    name: "Timber and the sawmill",
+    lat: 41.0626,
+    lng: -84.3758,
+    radius: 350,
+    short: "Murat had a store and a sawmill. A lot of timber left these banks. The mill and the turnaround are why the town sat here.",
+    long: "",
+    names: ["Murat"]
+  },
+  {
+    id: "murat-school",
+    name: "Knox School",
+    lat: 41.0626,
+    lng: -84.3758,
+    radius: 300,
+    short: "The school in Murat was called the Knox School. No church and no park are recorded on the plat. I will not invent them.",
+    long: "",
+    names: ["Knox School"]
+  },
+  {
+    id: "murat-native",
+    name: "No village on the plat",
+    lat: 41.0626,
+    lng: -84.3758,
+    radius: 300,
+    short: "No native village is named at Murat. The canal was cut through Black Swamp timber, and the sawmill shipped that timber out.",
+    long: "",
+    names: ["Black Swamp"]
+  },
+  {
+    id: "murat-war",
+    name: "No battlefield",
+    lat: 41.0626,
+    lng: -84.3758,
+    radius: 300,
+    short: "There is no battlefield or fort at Murat. The military name on the map is a French marshal, not a fight that happened here.",
+    long: "",
+    names: ["Joachim Murat"]
+  },
 
   ];
 

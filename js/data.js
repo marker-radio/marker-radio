@@ -38982,6 +38982,37 @@ const STORIES = [
     long: "",
     names: ["Baltimore and Ohio Railroad"]
   },
+  {
+    id: "approach-freedom-oh",
+    name: "Freedom",
+    lat: 41.4269,
+    lng: -84.5983,
+    radius: 450,
+    layer: "approach",
+    short: "You are coming up on Freedom, in Center Township, on the north side of the Williams-Defiance county line road, between State Route 2 and County Road 12. Montgomery Evans, Nathan Shirley, and Thomas Warren platted it in February 1836. They wanted a future county seat. Nothing is left on the ground. Williams Center, just west, already has the rest of that fight.",
+    long: "",
+    names: ["Freedom"]
+  },
+  {
+    id: "freedom-plat",
+    name: "The plat that lost",
+    lat: 41.4269,
+    lng: -84.5983,
+    radius: 300,
+    short: "Freedom was laid out in the southeast quarter of section 35. Centre, now Williams Center, was laid out a few weeks earlier, in January 1836, in the southwest quarter of the same section. Dr. John Evans surveyed that one. The listing does not say Montgomery Evans was the same man. Freedom could not compete. It was abandoned in 1842. In 1845 Defiance County was cut off, and the Williams County seat went to Bryan.",
+    long: "",
+    names: ["Montgomery Evans", "Nathan Shirley", "Thomas Warren", "Williams Center"]
+  },
+  {
+    id: "freedom-gaps",
+    name: "What is not here",
+    lat: 41.4269,
+    lng: -84.5983,
+    radius: 250,
+    short: "No post office, no school, no cemetery, no mill, no railroad, and no native village are named at this corner. The plat is gone. The county line is what is left.",
+    long: "",
+    names: []
+  },
 
   ];
 

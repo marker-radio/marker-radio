@@ -38112,6 +38112,67 @@ const STORIES = [
     long: "",
     names: ["Flatrock Creek"]
   },
+  {
+    id: "approach-ettiesburg",
+    name: "Ettiesburg",
+    lat: 41.0940,
+    lng: -84.3613,
+    radius: 700,
+    layer: "approach",
+    short: "You are coming up on Ettiesburg, also spelled Etties-Burg, in Brown Township. It is on Road 209, at the railroad crossing between Road 104 and State Route 613. Samuel and Mary Shisler platted it in 1860 and named it for their daughter Arettie. Oakwood, about a mile west, took the growth. If you are at the crossing, I'll start with the plat.",
+    long: "",
+    names: ["Ettiesburg"]
+  },
+  {
+    id: "ettiesburg-shisler",
+    name: "The Shislers",
+    lat: 41.0940,
+    lng: -84.3613,
+    radius: 350,
+    short: "Samuel Shisler was born in 1793 and died in 1870. He came from Orange County, Virginia, and was a veteran of the War of 1812. Mary Bollinger Shisler was born in 1794 and died in 1874, from Maryland. They married in 1816 and had at least seven children. No regiment is named in this record.",
+    long: "",
+    names: ["Samuel Shisler", "Mary Bollinger Shisler", "Arettie Shisler"]
+  },
+  {
+    id: "ettiesburg-rail",
+    name: "The crossing",
+    lat: 41.0940,
+    lng: -84.3613,
+    radius: 350,
+    short: "The railroad crossed Road 209 here. Ettiesburg did not keep a station. Oakwood grew faster and had the station on the New York, Chicago and St. Louis Railroad, the Nickel Plate. This town was platted, and then it lost the trade.",
+    long: "",
+    names: ["Nickel Plate Road"]
+  },
+  {
+    id: "ettiesburg-school",
+    name: "The school",
+    lat: 41.0940,
+    lng: -84.3613,
+    radius: 300,
+    short: "A school stood just south of the crossing, in the southeast corner of State Route 613 and Road 209, from the late 1800s into the early 1900s. No post office is recorded.",
+    long: "",
+    names: ["Ettiesburg"]
+  },
+  {
+    id: "ettiesburg-chapel",
+    name: "Prairie Chapel",
+    lat: 41.1013,
+    lng: -84.3613,
+    radius: 280,
+    short: "Prairie Chapel and Cemetery are about half a mile north, where Road 209 meets Road 104. The Shislers are buried there with relatives and other residents.",
+    long: "",
+    names: ["Prairie Chapel", "Prairie Chapel Cemetery"]
+  },
+  {
+    id: "ettiesburg-gaps",
+    name: "What is not here",
+    lat: 41.0940,
+    lng: -84.3613,
+    radius: 280,
+    short: "No park, no battlefield, and no native village are named. The war story is Samuel's service, not a fight on this road. What is left is the chapel north of the crossing.",
+    long: "",
+    names: ["Ettiesburg"]
+  },
 
 
   ];

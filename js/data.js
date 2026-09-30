@@ -39601,6 +39601,111 @@ const STORIES = [
     long: "",
     names: ["First Congregational Church", "Tiffin River", "Maumee River"]
   },
+    {
+    id: "approach-otsego-center",
+    name: "Otsego Center",
+    lat: 41.5725,
+    lng: -84.9089,
+    radius: 300,
+    layer: "approach",
+    short: "You are coming up on Otsego Center, in Otsego Township, Steuben County. It is a named crossroads. Hamilton already has the town to the east, so this pin stays small.",
+    long: "",
+    names: ["Otsego Center"]
+  },
+  {
+    id: "otsego-center-gaps",
+    name: "What is not at Otsego Center",
+    lat: 41.5725,
+    lng: -84.9089,
+    radius: 250,
+    short: "These pages do not name a founder, a post office, a railroad, a church, a native village, or a war site at Otsego Center. Those stay off this card until a source names them.",
+    long: "",
+    names: ["Otsego Center"]
+  },
+  {
+    id: "approach-arthur-oh",
+    name: "Arthur",
+    lat: 41.1947,
+    lng: -84.3608,
+    radius: 350,
+    layer: "approach",
+    short: "You are coming up on Arthur, an unincorporated place in Paulding County. It sits on State Route 66, 6 miles south of Defiance. Defiance already has the city.",
+    long: "",
+    names: ["Arthur"]
+  },
+  {
+    id: "arthur-oh-gaps",
+    name: "What is not at Arthur",
+    lat: 41.1947,
+    lng: -84.3608,
+    radius: 250,
+    short: "These pages do not name who founded Arthur, a post office, a railroad, a church, a native village, or a war site. Those stay off this card until a source names them.",
+    long: "",
+    names: ["Arthur"]
+  },
+  {
+    id: "approach-laotto",
+    name: "LaOtto",
+    lat: 41.2911,
+    lng: -85.1989,
+    radius: 500,
+    layer: "approach",
+    short: "You are coming up on LaOtto, in Swan Township, Noble County. Settlers came north from Fort Wayne in the 1830s on the Mongoquinong Trail. That trail was surveyed in 1833 and opened about 1837 as the Lima Plank Road, from Fort Wayne to Lima, now Howe. From 1856 to 1861 this place was Simon's Corners. Cabinet maker John Miller was the first postmaster. He got the job on August 19, 1856. His shop was about half a mile south.",
+    long: "",
+    names: ["LaOtto", "John Miller", "Mongoquinong Trail"]
+  },
+  {
+    id: "laotto-railroad",
+    name: "LaOtto crossing",
+    lat: 41.2911,
+    lng: -85.1989,
+    radius: 350,
+    short: "In October 1871 David Voorhees, David Simon, Solomon Simon, Jonathan Simon, and Martin Bilger platted Simonsville. David Simon built a steam sawmill that winter. Two railroads crossed here, the Grand Rapids and Indiana running north and south, and the Eel River line running east and west. The railroad would not use the name Simonsville. From 1872 to 1875 the stop was Grand Rapids Crossing.",
+    long: "",
+    names: ["David Simon", "Grand Rapids and Indiana Railroad", "Eel River Railroad"]
+  },
+  {
+    id: "laotto-church",
+    name: "LaOtto churches",
+    lat: 41.2911,
+    lng: -85.1989,
+    radius: 300,
+    short: "In 1875 Lutheran minister Rev. B. F. Stultz, also recorded as Shultz, asked the county to rename the town LaOtto. Eighteen landowners signed. The order was recorded on July 20, 1875. His Imanuel Lutheran congregation met in the Preston wagon shop. The LaOtto Wesleyan Church was an Underground Railroad stop in the 1850s and 1860s. The record does not name the people who ran that stop.",
+    long: "",
+    names: ["B. F. Stultz", "LaOtto Wesleyan Church"]
+  },
+  {
+    id: "approach-moonlight",
+    name: "Moonlight",
+    lat: 41.5844,
+    lng: -85.0311,
+    radius: 250,
+    layer: "approach",
+    short: "You are coming up on Moonlight, a named place in Steuben Township. It uses the Pleasant Lake mail route. Pleasant Lake already has the town, about a mile from here.",
+    long: "",
+    names: ["Moonlight"]
+  },
+  {
+    id: "moonlight-gaps",
+    name: "What is not at Moonlight",
+    lat: 41.5844,
+    lng: -85.0311,
+    radius: 200,
+    short: "These pages do not name a founder, a post office of its own, a railroad, a church, a native village, or a war site at Moonlight. Those stay off this card until a source names them.",
+    long: "",
+    names: ["Moonlight"]
+  },
+  {
+    id: "approach-helmer",
+    name: "Helmer",
+    lat: 41.5328,
+    lng: -85.1711,
+    radius: 400,
+    layer: "approach",
+    short: "You are coming up on Helmer, in Salem Township, Steuben County. The town started and grew because of the railroad it sits on. These pages do not name that railroad. Helmer no longer has a post office. Its fire department merged with Salem Center.",
+    long: "",
+    names: ["Helmer", "Salem Center"]
+  },
   
   ];
 

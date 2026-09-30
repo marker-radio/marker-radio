@@ -39986,6 +39986,119 @@ const STORIES = [
     long: "",
     names: ["Lyman Green", "Daniel Webber", "William Beck"]
   },
+  {
+    id: "altona-plat",
+    name: "The west side of Garrett",
+    lat: 41.3522,
+    lng: -85.1525,
+    radius: 250,
+    short: "Altona was laid out as the west side of Garrett by Beverly L. Randolph, son of the Baltimore and Ohio's chief engineer. The railroad put its division point in Garrett, next door, and trains were running to Chicago in 1874. This record does not name a depot in Altona itself.",
+    long: "",
+    names: ["Beverly L. Randolph", "Baltimore and Ohio Railroad", "Garrett"]
+  },
+  {
+    id: "altona-church",
+    name: "The cement-block church",
+    lat: 41.3522,
+    lng: -85.1525,
+    radius: 200,
+    short: "Hopewell Methodist Protestant Church stood a mile and a half south of Altona. People said it was the second church in the county. On July 27, 1894, the members moved into town. The building burned on February 26, 1907. Pastor P. F. Boxell made the first cement block on May 10, and the new church was dedicated on May 31, 1908.",
+    long: "",
+    names: ["Hopewell Methodist Protestant Church", "E. J. Scott", "P. F. Boxell"]
+  },
+  {
+    id: "altona-park",
+    name: "Mary Comesky Park",
+    lat: 41.3522,
+    lng: -85.1525,
+    radius: 180,
+    short: "Altona's park is Mary Comesky Park, beside the town hall on West Quincy Street. This record does not say who Mary Comesky was.",
+    long: "",
+    names: ["Mary Comesky Park"]
+  },
+ {
+    id: "approach-tates-landing",
+    name: "Tate's Landing",
+    lat: 41.1942,
+    lng: -84.5535,
+    radius: 1500,
+    layer: "approach",
+    short: "You are coming up on Tate's Landing, in Emerald Township, where State Route 111 meets Road 115 and Road 119. Lyle Tate, from Ireland, took land at a lock on the Wabash and Erie. People also called it Reids, and Sharp's Lock. On April 25, 1887, the Dynamiters burned the lockmaster's house here. If you are at the crossing, I'll start with Tate.",
+    long: "",
+    names: ["Tate's Landing"]
+  },
+  {
+    id: "tates-name",
+    name: "Lyle Tate",
+    lat: 41.1942,
+    lng: -84.5535,
+    radius: 400,
+    short: "Lyle Tate was born in 1820 and died in 1890. He came from Ireland, worked the canal, and bought land around one of the locks. The landing took his name. The third name, Sharp's Lock, is in the record. The record does not say who Sharp was.",
+    long: "",
+    names: ["Lyle Tate"]
+  },
+  {
+    id: "tates-reids",
+    name: "The Reids office",
+    lat: 41.1942,
+    lng: -84.5535,
+    radius: 350,
+    short: "The post office was called Reids. It ran from 1857 to 1903, and it was named for Captain Robert Reid, born in 1827, died in 1875, from Columbiana County. The known postmasters were Francis Didier, Lyle Tate, Francis Reiniche, Samuel Hidy, Alexander Scott, and Charles E. Layman.",
+    long: "",
+    names: ["Robert Reid", "Francis Didier", "Francis Reiniche", "Samuel Hidy", "Alexander Scott", "Charles E. Layman"]
+  },
+  {
+    id: "tates-town",
+    name: "Store, taverns, and a church",
+    lat: 41.1942,
+    lng: -84.5535,
+    radius: 350,
+    short: "The landing had a grocery, several taverns, and a church congregation. No denomination is recorded, and no church building is named. Nothing of the town is left on the ground.",
+    long: "",
+    names: ["Tate's Landing"]
+  },
+  {
+    id: "tates-dynamiters",
+    name: "The Reservoir War",
+    lat: 41.1942,
+    lng: -84.5535,
+    radius: 450,
+    short: "After the canal closed, Six Mile Reservoir kept flooding the farms. The ground went to swamp. Mosquitoes spread malaria. A bill to fix it failed in the legislature. On April 25, 1887, about two hundred farmers, called the Dynamiters, blew the reservoir bulkhead and three locks. They also burned the old lockmaster's house at this landing. The law arrived after they were gone.",
+    long: "",
+    names: ["Six Mile Reservoir", "Reservoir War"]
+  },
+  {
+    id: "tates-saloon",
+    name: "The last saloon",
+    lat: 41.1942,
+    lng: -84.5535,
+    radius: 350,
+    short: "In 1900 the Dynamiters blew up the last saloon in town. Nobody was captured. Nobody's name was ever given. Their banners said No Compromise. That line went onto the Paulding County seal. This is not an army battlefield. It is the night the neighbors decided the ditch had to die.",
+    long: "",
+    names: ["Reservoir War"]
+  },
+  {
+    id: "tates-grave",
+    name: "Live Oak Cemetery",
+    lat: 41.1942,
+    lng: -84.5535,
+    radius: 300,
+    short: "Lyle Tate is buried with relatives in Live Oak Cemetery, about four miles south of here on Emerald Road, in the town of Paulding.",
+    long: "",
+    names: ["Lyle Tate", "Live Oak Cemetery"]
+  },
+  {
+    id: "tates-gaps",
+    name: "What is not here",
+    lat: 41.1942,
+    lng: -84.5535,
+    radius: 300,
+    short: "No school is named. No park is named. No native village is named on this plat. The story is the lock, the office, and the Dynamiters.",
+    long: "",
+    names: ["Tate's Landing"]
+  },
 
+  
 ];
+
 

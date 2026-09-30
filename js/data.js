@@ -38879,6 +38879,67 @@ const STORIES = [
     long: "",
     names: ["Jacob Kintner"]
   },
+  {
+    id: "approach-whites-mills",
+    name: "Whites Mills",
+    lat: 41.2754,
+    lng: -84.4575,
+    radius: 700,
+    layer: "approach",
+    short: "You are coming up on Whites Mills, also called White City, on the line of Defiance and Delaware townships, at County Road 424 and Ashwood Road, along the Maumee River. It was a mill and merchant stop on the Baltimore and Ohio in the late 1800s and early 1900s. There was a station, a hotel, and two sawmills. The post office ran only from 1875 to 1876. The listing does not name the mill owner. Old houses and farm buildings are still around. Ashwood, south on this road, is a different stop.",
+    long: "",
+    names: ["Whites Mills", "Baltimore and Ohio Railroad", "Maumee River"]
+  },
+  {
+    id: "whites-mills-shoemaker",
+    name: "Shoemaker Cemetery",
+    lat: 41.2754,
+    lng: -84.4671,
+    radius: 250,
+    short: "Shoemaker Cemetery, also called Tuttle Cemetery, is about half a mile west, on the north side of County Road 424. Deitrich Bohlke and Elizabeth Gonzales are buried here. He was born in 1818 and died in 1899. She was born in 1821 and died in 1890. They were German immigrants, married in 1845, and had a few children.",
+    long: "",
+    names: ["Shoemaker Cemetery", "Deitrich Bohlke", "Elizabeth Gonzales"]
+  },
+  {
+    id: "whites-mills-jacobs",
+    name: "Delaware School No. 4",
+    lat: 41.2754,
+    lng: -84.4767,
+    radius: 250,
+    short: "Delaware Township Number 4 stood about a mile west, in the southwest corner of County Road 424 and Whetstone Road. It sat on a 79-acre farm owned by the Jacobs family.",
+    long: "",
+    names: ["Jacobs family"]
+  },
+  {
+    id: "whites-mills-bohlke",
+    name: "Defiance School No. 4",
+    lat: 41.2754,
+    lng: -84.4286,
+    radius: 250,
+    short: "Defiance Township Number 4 stood about a mile and a half east, in the northeast corner of County Road 24 and May Road. It sat on a 70-acre farm owned by Deitrich and Elizabeth Bohlke.",
+    long: "",
+    names: ["Deitrich Bohlke", "Elizabeth Gonzales"]
+  },
+  {
+    id: "whites-mills-hill",
+    name: "Hill Cemetery",
+    lat: 41.2856,
+    lng: -84.4711,
+    radius: 220,
+    short: "Hill Cemetery is about a mile northwest, on private property, between Tittle Road and the Maumee River.",
+    long: "",
+    names: ["Hill Cemetery", "Maumee River"]
+  },
+  {
+    id: "whites-mills-gaps",
+    name: "What is not here",
+    lat: 41.2754,
+    lng: -84.4575,
+    radius: 280,
+    short: "No church, no park, no battlefield, and no native village are named at this corner. The station, the hotel, and the sawmills are gone. The Maumee is the water. The houses and the farms are what is left.",
+    long: "",
+    names: ["Maumee River"]
+  },
 
   ];
 

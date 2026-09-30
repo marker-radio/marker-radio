@@ -39821,6 +39821,111 @@ const STORIES = [
     long: "",
     names: ["Alonzo M. Clark"]
   },
+  {
+    id: "approach-cloverdale",
+    name: "Cloverdale",
+    lat: 41.0192,
+    lng: -84.3033,
+    radius: 350,
+    layer: "approach",
+    short: "You are coming up on Cloverdale, in Perry Township, Putnam County. It was first called Evansville. It was platted in 1877 when the railroad reached this point. The name most likely came from the Clover Leaf Railroad, which passed a junction nearby. The village incorporated in 1902. The 2020 count was 170.",
+    long: "",
+    names: ["Cloverdale", "Evansville"]
+  },
+  {
+    id: "cloverdale-gaps",
+    name: "What is not at Cloverdale",
+    lat: 41.0192,
+    lng: -84.3033,
+    radius: 250,
+    short: "These pages do not name who platted Evansville, a church, a mill, a native village, or a war site. Those stay off this card until a source names them.",
+    long: "",
+    names: ["Cloverdale"]
+  },
+  {
+    id: "approach-south-milford",
+    name: "South Milford",
+    lat: 41.5319,
+    lng: -85.2664,
+    radius: 350,
+    layer: "approach",
+    short: "You are coming up on South Milford, in the southern part of Milford Township, LaGrange County. That is where the name comes from. It was laid out in 1856. This is not Stroh. Stroh is a different place.",
+    long: "",
+    names: ["South Milford"]
+  },
+  {
+    id: "south-milford-gaps",
+    name: "What is not at South Milford",
+    lat: 41.5319,
+    lng: -85.2664,
+    radius: 250,
+    short: "These pages do not name a founder, a post office date, a railroad, a church, a native village, or a war site at South Milford. Those stay off this card until a source names them.",
+    long: "",
+    names: ["South Milford"]
+  },
+  {
+    id: "approach-ottoville",
+    name: "Ottoville",
+    lat: 40.9342,
+    lng: -84.3383,
+    radius: 500,
+    layer: "approach",
+    short: "You are coming up on Ottoville, in Monterey Township, Putnam County. The first plat was made in 1845 for Rev. John Otto Bredeick, also spelled Bredeich. That plat failed. The town was platted again in 1873. A post office called Otto opened in 1880 and was renamed Ottoville in 1881. The village incorporated in 1890. The 2020 count was 966. It was first known as Sixteen.",
+    long: "",
+    names: ["Ottoville", "John Otto Bredeick"]
+  },
+  {
+    id: "ottoville-canal",
+    name: "Ottoville canal",
+    lat: 40.9342,
+    lng: -84.3383,
+    radius: 350,
+    short: "Sixteen was a section number on the Miami and Erie Canal survey. Section One was Spencerville. Section Ten became Delphos. The first boat ran the extension in June 1845. Ottoville grew between wood locks 27 and 28. Lock 27 was just north of Fifth Street. Lock 28 was just north of Odenweller's Mill. Bredeick entered this land in October 1844. The village history says he put sawmills, a boat dry dock, and a grist mill here.",
+    long: "",
+    names: ["Miami and Erie Canal", "Odenweller's Mill"]
+  },
+  {
+    id: "approach-nevada-mills",
+    name: "Nevada Mills",
+    lat: 41.7269,
+    lng: -85.0822,
+    radius: 350,
+    layer: "approach",
+    short: "You are coming up on Nevada Mills, in Jamestown Township, Steuben County. An older name was Millville. A post office opened in 1867 and closed in 1905. These pages do not say who chose the name Nevada.",
+    long: "",
+    names: ["Nevada Mills", "Millville"]
+  },
+  {
+    id: "nevada-mills-gaps",
+    name: "What is not at Nevada Mills",
+    lat: 41.7269,
+    lng: -85.0822,
+    radius: 250,
+    short: "These pages do not name the mill owner, a railroad, a church, a native village, or a war site at Nevada Mills. Those stay off this card until a source names them.",
+    long: "",
+    names: ["Nevada Mills"]
+  },
+  {
+    id: "approach-middle-point",
+    name: "Middle Point",
+    lat: 40.8556,
+    lng: -84.4461,
+    radius: 400,
+    layer: "approach",
+    short: "You are coming up on Middle Point, in Washington Township, Van Wert County. It was laid out in 1851. The first name was Sykestown, for the Sykes family that owned the land. It was renamed Middle Point because it sits between Delphos and Van Wert. A post office has been here since 1854. The village incorporated in 1874. The 2020 count was 566.",
+    long: "",
+    names: ["Middle Point", "Sykestown"]
+  },
+  {
+    id: "middle-point-gaps",
+    name: "What is not at Middle Point",
+    lat: 40.8556,
+    lng: -84.4461,
+    radius: 250,
+    short: "These pages do not name a railroad, a church, a mill, a native village, or a war site at Middle Point. Those stay off this card until a source names them.",
+    long: "",
+    names: ["Middle Point"]
+  },
 
   ];
 

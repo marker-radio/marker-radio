@@ -37786,6 +37786,57 @@ const STORIES = [
     long: "",
     names: ["Plumb's Cross Roads"]
   },
-
+ {
+    id: "approach-new-harrison",
+    name: "New Harrison",
+    lat: 41.1659,
+    lng: -84.8006,
+    radius: 1400,
+    layer: "approach",
+    short: "You are coming up on New Harrison, in Carryall Township, on Road 250 along the Maumee, between Old U.S. 24 and Road 11. It sat against the Indiana line and waited for the Wabash and Erie Canal. The canal went around it. The post office lasted from 1837 to 1841. If you are on the river road, I'll start with the man who kept the office.",
+    long: "",
+    names: ["New Harrison"]
+  },
+  {
+    id: "new-harrison-saylor",
+    name: "Ulerick Saylor",
+    lat: 41.1659,
+    lng: -84.8006,
+    radius: 350,
+    short: "The record spells him Ulerick, and also Ulrich. Ulerick Saylor Sr. was born in 1788 and died in 1860. He was the proprietor and the postmaster. He married Margaret Early Saylor, born in 1789, died in 1851, and they had a few children. The same man is named among the petitioners when Maumee Township organized in 1836.",
+    long: "",
+    names: ["Ulerick Saylor", "Margaret Early Saylor"]
+  },
+  {
+    id: "new-harrison-canal",
+    name: "The canal went around it",
+    lat: 41.1659,
+    lng: -84.8006,
+    radius: 350,
+    short: "The settlement hoped the Wabash and Erie would come down this bank of the Maumee. The canal bypassed the town. The office closed in 1841, and the town disappeared. Nothing is left on the ground. There was no railroad here.",
+    long: "",
+    names: ["Wabash and Erie Canal", "Maumee River"]
+  },
+  {
+    id: "new-harrison-grave",
+    name: "Diehl Cemetery",
+    lat: 41.1659,
+    lng: -84.8006,
+    radius: 300,
+    short: "Ulerick Saylor is buried with relatives in Diehl Cemetery, just north of here, between River Road and the Maumee, in Maumee Township, Allen County, Indiana.",
+    long: "",
+    names: ["Ulerick Saylor", "Diehl Cemetery"]
+  },
+  {
+    id: "new-harrison-gaps",
+    name: "What is not here",
+    lat: 41.1659,
+    lng: -84.8006,
+    radius: 300,
+    short: "No church, no school, no park, and no battlefield are recorded. No native village is named on this plat. The story is a four-year office, and a canal that chose another path.",
+    long: "",
+    names: ["New Harrison"]
+  },
+  
   ];
 

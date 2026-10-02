@@ -42479,8 +42479,58 @@ const STORIES = [
     long: "",
     names: ["Topeka", "Hawpatch", "Wabash Railroad"]
   },
-
-
+  {
+    id: "approach-mendon",
+    name: "Mendon",
+    lat: 40.6733,
+    lng: -84.5175,
+    radius: 3000,
+    layer: "approach",
+    short: "You are coming up on Mendon, Ohio, in Union Township, Mercer County. It was platted in 1834 as Guilford. The 2020 count was 628.",
+    long: "",
+    names: ["Mendon", "Guilford"]
+  },
+  {
+    id: "mendon-guilford",
+    name: "Guilford",
+    lat: 40.6733,
+    lng: -84.5175,
+    radius: 500,
+    short: "A federal place record dates Mendon to 1822. Under the name Guilford it was platted in 1834. Coiltown is another old name for the same ground. A post office called Mendon has been open since 1839. The sources do not say why the Guilford name was dropped.",
+    long: "",
+    names: ["Guilford", "Coiltown", "Mendon"]
+  },
+  {
+    id: "mendon-hall",
+    name: "Mendon Town Hall",
+    lat: 40.6733,
+    lng: -84.5175,
+    radius: 400,
+    short: "The village hall is officially the Mendon Town Hall, on South Main Street. It is listed on the National Register of Historic Places for its architecture and for local government and social history. In a village this small, the hall is the public building.",
+    long: "",
+    names: ["Mendon Town Hall"]
+  },
+  {
+    id: "mendon-size",
+    name: "Mendon",
+    lat: 40.6733,
+    lng: -84.5175,
+    radius: 500,
+    short: "In 1870 Mendon counted 164 people. By 1900 it counted 599. The 2020 count was 628. It grew into a village and then stayed one. Rockford is the larger town on the river to the northwest.",
+    long: "",
+    names: ["Mendon"]
+  },
+  {
+    id: "mendon-gaps",
+    name: "Mendon",
+    lat: 40.6733,
+    lng: -84.5175,
+    radius: 600,
+    short: "No railroad, no canal, and no battlefield are named in these sources. The pins are three names, an 1834 plat, an 1839 post office, and a town hall on the National Register. Mendon is Guilford after the name changed.",
+    long: "",
+    names: ["Mendon", "Guilford"]
+  },
+  
 
 ];
 

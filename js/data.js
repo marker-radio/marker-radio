@@ -41878,6 +41878,67 @@ const STORIES = [
     long: "",
     names: ["Venedocia", "Anthony Wayne"]
   },
+  {
+    id: "approach-wawaka",
+    name: "Wawaka",
+    lat: 41.4600,
+    lng: -85.4833,
+    radius: 2800,
+    layer: "approach",
+    short: "You are coming up on Wawaka, Indiana, in Elkhart Township, Noble County. It was founded in 1857 on the railroad between Kendallville and Ligonier. The name is said to mean big heron. The 2023 estimate was 102 people.",
+    long: "",
+    names: ["Wawaka"]
+  },
+  {
+    id: "wawaka-founding",
+    name: "Wawaka",
+    lat: 41.4600,
+    lng: -85.4833,
+    radius: 500,
+    short: "Wawaka was founded in 1857. A post office has been open here since that same year. The name is said to be Native, meaning big heron. This is Elkhart Township in Noble County. The pin is a railroad stop that kept a post office.",
+    long: "",
+    names: ["Wawaka"]
+  },
+  {
+    id: "wawaka-rail",
+    name: "Michigan Southern and Northern Indiana Railroad",
+    lat: 41.4600,
+    lng: -85.4833,
+    radius: 600,
+    short: "The Michigan Southern and Northern Indiana Railroad stopped at Wawaka on the line through Kendallville, Brimfield, and Ligonier. The Toledo-to-Elkhart section was finished in 1858. Later the same road was the Lake Shore, the New York Central, and Norfolk Southern. The stop is why a mill town could stand here.",
+    long: "",
+    names: ["Michigan Southern and Northern Indiana Railroad", "Norfolk Southern"]
+  },
+  {
+    id: "wawaka-mill",
+    name: "Ellis and Mummert Mill",
+    lat: 41.4600,
+    lng: -85.4833,
+    radius: 500,
+    short: "George W. Mummert came from Canton, Ohio. In 1868 he partnered with Dr. E. W. H. Ellis of Goshen and built a three-story steam grist mill with four grindstones. The mill cost fifteen thousand dollars and could make a hundred barrels of flour a day, much of it shipped east. It stood near the present Frick Farm Services complex. Grain and lumber followed the railroad into town.",
+    long: "",
+    names: ["George W. Mummert", "E. W. H. Ellis"]
+  },
+  {
+    id: "wawaka-frick",
+    name: "Ford Frick",
+    lat: 41.4600,
+    lng: -85.4833,
+    radius: 500,
+    short: "Ford Frick came from Wawaka. He was a sportswriter, and he became the third commissioner of Major League Baseball. A town of about a hundred people put a baseball commissioner on the map. The mill shipped flour. Frick shipped box scores.",
+    long: "",
+    names: ["Ford Frick"]
+  },
+  {
+    id: "wawaka-gaps",
+    name: "Wawaka",
+    lat: 41.4600,
+    lng: -85.4833,
+    radius: 600,
+    short: "No canal and no battlefield are documented in this 1857 plat. The name is said to mean big heron, and that is the Native trace these sources give. Wawaka is a railroad stop, a flour mill, a post office, and Ford Frick.",
+    long: "",
+    names: ["Wawaka", "Ford Frick"]
+  },
 
 ];
 

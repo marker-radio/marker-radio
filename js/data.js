@@ -43106,7 +43106,140 @@ const STORIES = [
     long: "",
     names: ["Elkhart River", "Cromwell"]
   },
-
+ {
+    id: "approach-custar",
+    name: "Custar",
+    lat: 41.2846,
+    lng: -83.8438,
+    radius: 5000,
+    layer: "approach",
+    short: "You are coming up on Custar, in Milton Township, Wood County. It was platted in 1865 as Lewisburg, for the proprietor Frederick Lewis. The post office was already called Custar, and that name won. The 2020 count was 178.",
+    long: "",
+    names: ["Custar", "Lewisburg", "Frederick Lewis"]
+  },
+  {
+    id: "custar-founding",
+    name: "Lewisburg",
+    lat: 41.2846,
+    lng: -83.8438,
+    radius: 700,
+    short: "Custar was platted in 1865 as Lewisburg and named for Frederick Lewis. A post office called Custar opened in 1866. The village incorporated in 1881, taking the post office name. The Cincinnati, Hamilton and Dayton Railroad kept a depot here. In 1900 the Custar House hotel advertised first-class rooms for a dollar a day.",
+    long: "",
+    names: ["Frederick Lewis", "Custar", "Cincinnati, Hamilton and Dayton"]
+  },
+  {
+    id: "custar-silos",
+    name: "Custar grain silos",
+    lat: 41.2846,
+    lng: -83.8438,
+    radius: 600,
+    short: "In late 2019 three grain silos in Custar caught fire and exploded. No battlefield, canal, or state park is documented on this plat. The pins are a proprietor's name, a railroad depot, and a grain town that is still here.",
+    long: "",
+    names: ["Custar"]
+  },
+  {
+    id: "approach-elida",
+    name: "Elida",
+    lat: 40.7867,
+    lng: -84.1989,
+    radius: 6000,
+    layer: "approach",
+    short: "You are coming up on Elida, in American Township, Allen County, just west of Lima. Griffith John platted it in 1852 and named it for his brother, an abolitionist who never saw the town. The Pittsburgh, Fort Wayne and Chicago Railroad is why the plat exists. The 2020 count was 1,923.",
+    long: "",
+    names: ["Elida", "Griffith John"]
+  },
+  {
+    id: "elida-founding",
+    name: "Griffith John",
+    lat: 40.7867,
+    lng: -84.1989,
+    radius: 800,
+    short: "Griffith John was born March 6, 1795, in Northumberland County, Pennsylvania. He married Rachael Miller on February 20, 1817. In 1831 they came into the woods of what was then German Township, later American Township, along Hog Creek. A Native guide named Jacob Turkeyfoot brought them in. Griffith started with a sugar camp on 160 acres. In time he held much more land.",
+    long: "",
+    names: ["Griffith John", "Jacob Turkeyfoot", "Hog Creek"]
+  },
+  {
+    id: "elida-railroad",
+    name: "Pittsburgh Fort Wayne and Chicago",
+    lat: 40.7867,
+    lng: -84.1989,
+    radius: 800,
+    short: "In 1852 the Pittsburgh, Fort Wayne and Chicago Railroad was laid through Griffith John's farm. Between Lima and Delphos he was the only owner who gave the company a right of way. He also took the contract to build a mile of roadbed himself. That fall he platted Elida and gave lots for the Evangelical Lutheran church and the Methodist church. A post office opened in 1854 and closed in 1959. The village incorporated in 1878.",
+    long: "",
+    names: ["Pittsburgh, Fort Wayne and Chicago Railroad", "Griffith John"]
+  },
+  {
+    id: "elida-namesake",
+    name: "Elida John",
+    lat: 40.7867,
+    lng: -84.1989,
+    radius: 700,
+    short: "The town is named for Elida John, Griffith's brother, born August 29, 1805. He was a surveyor, a temperance man, an abolitionist, and a conductor on the Underground Railroad. He moved to Illinois and died there. He never saw the village that carries his name.",
+    long: "",
+    names: ["Elida John", "Underground Railroad"]
+  },
+  {
+    id: "elida-people",
+    name: "Elida people",
+    lat: 40.7867,
+    lng: -84.1989,
+    radius: 800,
+    short: "Floyd Gahman, a landscape painter, was from Elida. So was Dakota Mathias, who played in the NBA, and Zachary Green, who wrestled as Nash Carter. The village has the Elida Local Schools and a branch of the Lima Public Library. No battlefield is documented on the 1852 plat. The freedom story here is the man the town was named for.",
+    long: "",
+    names: ["Floyd Gahman", "Dakota Mathias", "Nash Carter"]
+  },
+  {
+    id: "approach-gilboa",
+    name: "Gilboa",
+    lat: 41.0188,
+    lng: -83.9217,
+    radius: 5000,
+    layer: "approach",
+    short: "You are coming up on Gilboa, on the Blanchard River in Putnam County. Elisha Stout laid it out in 1837. For a few years it was the busiest town in the county, until the big railroad went somewhere else. A sixteen-foot fiberglass bull stands at U.S. 224 and Pearl Street. The 2020 count was 168.",
+    long: "",
+    names: ["Gilboa", "Elisha Stout"]
+  },
+  {
+    id: "gilboa-founding",
+    name: "Elisha Stout",
+    lat: 41.0188,
+    lng: -83.9217,
+    radius: 700,
+    short: "Gilboa was laid out in 1837 by Elisha Stout, who also built the first grist mill in Blanchard Township. The name is Mount Gilboa, from the Bible. A post office opened in 1843 and closed in 1985. The village incorporated in 1848. Around 1839 Benjamin Stewart opened a tavern and Edward Mercer a store. From 1840 into the early 1850s, county histories called it the fastest-growing town in Putnam County.",
+    long: "",
+    names: ["Elisha Stout", "Mount Gilboa", "Blanchard River"]
+  },
+  {
+    id: "gilboa-railroad",
+    name: "The railroad that missed Gilboa",
+    lat: 41.0188,
+    lng: -83.9217,
+    radius: 800,
+    short: "In 1852 Gilboa fought Findlay and Ottawa for the Dayton and Michigan Railroad and lost. That was the first blow. The Findlay, Fort Wayne and Western finally came through in 1888, late. The town never got back the lead it had in the 1840s.",
+    long: "",
+    names: ["Dayton and Michigan Railroad", "Findlay, Fort Wayne and Western"]
+  },
+  {
+    id: "gilboa-cholera",
+    name: "Cholera Cemetery",
+    lat: 41.0231,
+    lng: -83.9236,
+    radius: 500,
+    short: "On August 6, 1852, cholera hit Gilboa. It was traced to a large damp cellar used to store trash and rotting waste. It ran until August 21 and killed 13 people, including one of the two doctors who stayed. The Cholera Cemetery is still here.",
+    long: "",
+    names: ["Cholera Cemetery", "Gilboa"]
+  },
+  {
+    id: "gilboa-bull",
+    name: "The Gilboa bull",
+    lat: 41.0188,
+    lng: -83.9217,
+    radius: 600,
+    short: "In the 1970s Peter Diller put a sixteen-foot fiberglass bull at U.S. 224 and Pearl Street. His father had seen it outside a bar in Toledo and bought it. The head was so tall they hit the first stoplight on the way home. The town wanted a reason for people to stop. The bull is still the landmark. Oscar Velasquez, a muralist who lived here from 1944 until 2021, is the other name the village claims.",
+    long: "",
+    names: ["Peter Diller", "Oscar Velasquez"]
+  },
+  
 
 
 ];

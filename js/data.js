@@ -41043,8 +41043,77 @@ const STORIES = [
     long: "",
     names: ["Miami and Erie Canal", "Ottoville", "Cloverdale"]
   },
-
-
+  {
+    id: "approach-continental",
+    name: "Continental",
+    lat: 41.0980,
+    lng: -84.2664,
+    radius: 4000,
+    layer: "approach",
+    short: "You are coming up on Continental, Ohio, in Putnam County. Dupont is the railroad village a few miles southwest, and that is a different stop. This town was platted in 1888 as Marice City. The sign says Continental now.",
+    long: "",
+    names: ["Continental", "Marice City"]
+  },
+  {
+    id: "continental-marice",
+    name: "Marice City",
+    lat: 41.0980,
+    lng: -84.2664,
+    radius: 900,
+    short: "On March 23, 1888, George Skinner platted this ground for Gen. A. V. Rice. The first name was Marice City, for his daughter Mary Rice. The county history says the land was still wilderness and swamp when the Nickel Plate came through Putnam County. A road built in 1865 had already started to make it farmable.",
+    long: "",
+    names: ["Mary Rice", "A. V. Rice", "George Skinner", "Marice City"]
+  },
+  {
+    id: "continental-rail",
+    name: "Continental railroads",
+    lat: 41.0980,
+    lng: -84.2664,
+    radius: 800,
+    short: "Two railroads crossed at this plat, and that is why a town was worth laying out. One of them was the Nickel Plate. An 1893 timetable already lists a stop called Continental. The tracks did the work the swamp would not.",
+    long: "",
+    names: ["Nickel Plate", "New York, Chicago and St. Louis Railroad"]
+  },
+  {
+    id: "continental-stave",
+    name: "Buckeye Stave Company",
+    lat: 41.0980,
+    lng: -84.2664,
+    radius: 700,
+    short: "In 1888, the same year as the plat, the Buckeye Stave Company built a stave factory on an addition surveyed by James Belford. The first industry was timber, cut into barrel staves. The farms came after the swamp. The factory came with the railroad.",
+    long: "",
+    names: ["Buckeye Stave Company", "James Belford"]
+  },
+  {
+    id: "continental-name",
+    name: "Continental",
+    lat: 41.0980,
+    lng: -84.2664,
+    radius: 800,
+    short: "Citizens wanted the name changed from Marice City to Continental. They were using Continental before the paperwork was finished. The court made it official in 1899. Mary Rice is still the first name. Continental is the one on the sign.",
+    long: "",
+    names: ["Continental", "Marice City", "Mary Rice"]
+  },
+  {
+    id: "continental-festival",
+    name: "Continental Fall Festival",
+    lat: 41.0980,
+    lng: -84.2664,
+    radius: 700,
+    short: "Since 1988 the town has held the Continental Fall Festival on Main Street. That is the living local tradition. The 2010 census counted 1,153 people. It is still a village, not a city, built on a swamp crossing.",
+    long: "",
+    names: ["Continental Fall Festival"]
+  },
+  {
+    id: "continental-gaps",
+    name: "Continental",
+    lat: 41.0980,
+    lng: -84.2664,
+    radius: 900,
+    short: "No fort and no battlefield sit in this 1888 plat. There is no state historical marker here. No documented Native village is on the town site. This was Ottawa country before the removal, and the canals are the story of the older towns west and south of you. Continental is Mary Rice, the Nickel Plate, and the stave factory.",
+    long: "",
+    names: ["Ottawa", "Nickel Plate", "Mary Rice"]
+  },
 
 
 

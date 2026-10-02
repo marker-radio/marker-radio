@@ -43465,6 +43465,109 @@ const STORIES = [
     long: "",
     names: ["Cyrus Locher", "Benjamin F. Welty", "Arthur H. Day"]
   },
+  {
+    id: "approach-pierceton",
+    name: "Pierceton",
+    lat: 41.1992,
+    lng: -85.7033,
+    radius: 5000,
+    layer: "approach",
+    short: "You are coming up on Pierceton, in Washington Township, Kosciusko County. John Butler Chapman and Lewis Keith laid it out for the Pittsburgh, Fort Wayne and Chicago Railroad and named it for President Franklin Pierce. The downtown is on the National Register. The 2020 count was 928.",
+    long: "",
+    names: ["Pierceton", "Franklin Pierce"]
+  },
+  {
+    id: "pierceton-founding",
+    name: "Pierceton",
+    lat: 41.1992,
+    lng: -85.7033,
+    radius: 700,
+    short: "Chapman and his father-in-law, Lewis Keith, first platted Pierceton in 1852 on a proposed railroad line west of where the town stands. When the tracks were set, surveyor Otho Means laid the town out again in 1853 and they named it for Franklin Pierce. The post office opened that year. The town incorporated in 1866.",
+    long: "",
+    names: ["John Butler Chapman", "Lewis Keith", "Otho Means"]
+  },
+  {
+    id: "pierceton-railroad",
+    name: "Pierceton depot",
+    lat: 41.1992,
+    lng: -85.7033,
+    radius: 600,
+    short: "The railroad became the Pennsylvania. The Italianate depot, built in 1867, still stands by the tracks at the north end of the historic district, with a Carnegie library at the south end. The district runs along First Street from the tracks to Catholic Street and was listed on the National Register in 1992. No battlefield is documented on the plat. The pin is the railroad that made the town move once before it was even built.",
+    long: "",
+    names: ["Pennsylvania Railroad", "Pierceton Historic District"]
+  },
+  {
+    id: "approach-shipshewana",
+    name: "Shipshewana",
+    lat: 41.6850,
+    lng: -85.6064,
+    radius: 6000,
+    layer: "approach",
+    short: "You are coming up on Shipshewana, in Newbury Township, LaGrange County. The name is a Potawatomi chief. The town says he was marched west on the Trail of Death and allowed to come home to die. The auction started in 1922 with six pigs and seven cows. The 2020 count was 839.",
+    long: "",
+    names: ["Shipshewana"]
+  },
+  {
+    id: "shipshewana-chief",
+    name: "Chief Shipshewana",
+    lat: 41.6850,
+    lng: -85.6064,
+    radius: 800,
+    short: "Chief Shipshewana was Potawatomi, one of the Council of Three Fires. He befriended Hezekiah and Sarah Davis. After the Chicago Treaty of 1833, a militia rounded up Potawatomi on September 4, 1838, and marched them to the Osage River in Kansas. They arrived November 4. More than forty people died on the way. The town's account is that the chief was on that march, was allowed back in 1839, and died here in 1841. Sarah Davis later asked that Davistown be renamed for him. The post office opened in 1889.",
+    long: "",
+    names: ["Chief Shipshewana", "Trail of Death", "Sarah Davis"]
+  },
+  {
+    id: "shipshewana-auction",
+    name: "Shipshewana Auction",
+    lat: 41.6850,
+    lng: -85.6064,
+    radius: 800,
+    short: "Amish families settled this part of LaGrange County in the 1840s. Shipshewana became their market town. In 1922 George Curtis sold six pigs, seven cows, and some young cattle at his house. That was the first auction. In 1930 the Methodist women ran a restaurant in his garage. The livestock barn burned in 1979 and volunteers rebuilt it in three months. Menno-Hof, in town, tells the Amish and Mennonite story.",
+    long: "",
+    names: ["George Curtis", "Menno-Hof", "Shipshewana Auction"]
+  },
+  {
+    id: "approach-south-whitley",
+    name: "South Whitley",
+    lat: 41.0808,
+    lng: -85.6239,
+    radius: 5000,
+    layer: "approach",
+    short: "You are coming up on South Whitley, on the Eel River in Cleveland Township, Whitley County. It was laid out in 1837 as Springfield. A Union captain wounded at Fort Donelson died here in 1862. The humorist Will Cuppy spent his summers on that river. The 2020 count was 1,818.",
+    long: "",
+    names: ["South Whitley", "Springfield"]
+  },
+  {
+    id: "south-whitley-founding",
+    name: "Springfield",
+    lat: 41.0808,
+    lng: -85.6239,
+    radius: 700,
+    short: "South Whitley was laid out in 1837 as Springfield. A post office opened that year as Whitley and was renamed South Whitley in 1842. It is still open. The Eel River was a Miami road before the plat. The Eel River Railroad, later a branch of the Wabash, stopped here while the town was still called Springfield.",
+    long: "",
+    names: ["Springfield", "Eel River"]
+  },
+  {
+    id: "south-whitley-cuppy",
+    name: "Will Cuppy",
+    lat: 41.0808,
+    lng: -85.6239,
+    radius: 700,
+    short: "Captain William H. Cuppy of the 44th Indiana was wounded at Fort Donelson and sent home to South Whitley. He died here on July 15, 1862. He was 26. His nephew, Will Cuppy, was named for him. Will was born in Auburn in 1884 and spent summers on his grandmother's farm on the Eel. He became a New York humorist. The Decline and Fall of Practically Everybody is his book. He died in 1949.",
+    long: "",
+    names: ["William H. Cuppy", "Will Cuppy"]
+  },
+  {
+    id: "south-whitley-people",
+    name: "South Whitley people",
+    lat: 41.0808,
+    lng: -85.6239,
+    radius: 700,
+    short: "Other names from this town: Hugo Fox, principal bassoon of the Chicago Symphony. Janie Fricke, the country singer. Jennie Bain Wilson, who wrote hymns. Albert Germann, a scientist. No state park is documented in the plat. The pins are the river, the railroad, a captain's death, and the writers who left.",
+    long: "",
+    names: ["Hugo Fox", "Janie Fricke", "Jennie Bain Wilson"]
+  },
 
 
 

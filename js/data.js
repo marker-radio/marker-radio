@@ -42530,7 +42530,58 @@ const STORIES = [
     long: "",
     names: ["Mendon", "Guilford"]
   },
-  
+    {
+    id: "approach-columbus-grove",
+    name: "Columbus Grove",
+    lat: 40.9206,
+    lng: -84.0597,
+    radius: 4000,
+    layer: "approach",
+    short: "You are coming up on Columbus Grove, Ohio, in Pleasant Township, Putnam County. It was founded in 1842 by people from Columbus. Locals call it The Grove and Axe-Handle Junction. The 2020 count was 2,160.",
+    long: "",
+    names: ["Columbus Grove"]
+  },
+  {
+    id: "columbus-grove-founding",
+    name: "Columbus Grove",
+    lat: 40.9206,
+    lng: -84.0597,
+    radius: 700,
+    short: "Columbus Grove was founded in 1842. Enough of the first settlers had come from Columbus that the village took that city's name, and then added Grove. A post office has been open since 1862. The village was incorporated in 1864.",
+    long: "",
+    names: ["Columbus"]
+  },
+  {
+    id: "columbus-grove-cleveland",
+    name: "Columbus Grove",
+    lat: 40.9206,
+    lng: -84.0597,
+    radius: 600,
+    short: "In 1887 President Grover Cleveland came through on his Goodwill Tour. He gave an unplanned speech from a train caboose in Columbus Grove. The railroad is the pin. The sources do not name the line.",
+    long: "",
+    names: ["Grover Cleveland"]
+  },
+  {
+    id: "columbus-grove-names",
+    name: "Axe-Handle Junction",
+    lat: 40.9206,
+    lng: -84.0597,
+    radius: 500,
+    short: "The Grove is the short name. Axe-Handle Junction is the other one. These sources record the nickname and do not explain it. Whatever the handles were, the town still answers to both.",
+    long: "",
+    names: ["Axe-Handle Junction"]
+  },
+  {
+    id: "columbus-grove-gaps",
+    name: "Columbus Grove",
+    lat: 40.9206,
+    lng: -84.0597,
+    radius: 800,
+    short: "No canal and no battlefield are documented in this 1842 plat. The pins are a name borrowed from Columbus, an 1864 incorporation, and a president speaking from a caboose. Columbus Grove is a county village that kept two nicknames.",
+    long: "",
+    names: ["Columbus Grove", "Grover Cleveland"]
+  },
+
 
 ];
 

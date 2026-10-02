@@ -41236,8 +41236,57 @@ const STORIES = [
     long: "",
     names: ["German Township", "Archbold", "Miami and Erie Canal"]
   },
-
-
+ {
+    id: "approach-wren",
+    name: "Wren",
+    lat: 40.8008,
+    lng: -84.7747,
+    radius: 3500,
+    layer: "approach",
+    short: "You are coming up on Wren, Ohio, in Willshire Township, Van Wert County. Indiana starts about a mile west. Willshire, the older town on the St. Marys River, is a few miles south and is a different stop. Wren began in 1883 with a store and a post office. The 2020 count was 165.",
+    long: "",
+    names: ["Wren", "Willshire"]
+  },
+  {
+    id: "wren-founding",
+    name: "Wren",
+    lat: 40.8008,
+    lng: -84.7747,
+    radius: 700,
+    short: "Wren had its start in 1883, when a store was built. The post office opened the same year. Adam C. Sheets was the first postmaster, in June 1883. Jason L. Moser followed him in 1884. On the 1886 map of Willshire Township the hamlet is called Greenwood, and the post office is Wren. The name is the bird.",
+    long: "",
+    names: ["Adam C. Sheets", "Jason L. Moser", "Greenwood"]
+  },
+  {
+    id: "wren-rail",
+    name: "Erie Railroad",
+    lat: 40.8008,
+    lng: -84.7747,
+    radius: 700,
+    short: "The Chicago and Atlantic Railway built west from Marion and Lima in the late 1870s and reached Chicago in the early 1880s. From 1895 that line was the Erie Railroad's main track to Chicago, and it ran through Wren. In 1960 the Erie became the Erie Lackawanna. Conrail took the bankrupt line in 1976 and had no use for the Marion-to-Chicago track through this village. The railroad made the store. Then the railroad left.",
+    long: "",
+    names: ["Chicago and Atlantic Railway", "Erie Railroad", "Erie Lackawanna", "Conrail"]
+  },
+  {
+    id: "wren-size",
+    name: "Wren",
+    lat: 40.8008,
+    lng: -84.7747,
+    radius: 600,
+    short: "Wren stayed a small farm town. The 1900 census counted 242 people. The peak was 314 in 1920. By 2020 the count was 165. Jackson Street is still the village. The lots did not grow into a city.",
+    long: "",
+    names: ["Wren"]
+  },
+  {
+    id: "wren-gaps",
+    name: "Wren",
+    lat: 40.8008,
+    lng: -84.7747,
+    radius: 700,
+    short: "No fort and no battlefield sit in this 1883 plat. There is no canal. The St. Marys River is the story of Willshire, south of you, not of this railroad store. No documented Native village is on these lots. Wren is the bird's name, the Erie, and a village that got small and stayed.",
+    long: "",
+    names: ["Willshire", "St. Marys River", "Erie Railroad"]
+  },
 
 
   

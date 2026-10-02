@@ -42418,6 +42418,68 @@ const STORIES = [
     long: "",
     names: ["Delta"]
   },
+  {
+    id: "approach-topeka",
+    name: "Topeka",
+    lat: 41.5394,
+    lng: -85.5475,
+    radius: 3500,
+    layer: "approach",
+    short: "You are coming up on Topeka, Indiana, in LaGrange County. It began in 1832 as Hawpatch. The Wabash Railroad renamed it in 1893. The 2020 count was 1,206. Shipshewana is eleven miles north.",
+    long: "",
+    names: ["Topeka", "Hawpatch"]
+  },
+  {
+    id: "topeka-hawpatch",
+    name: "Hawpatch",
+    lat: 41.5394,
+    lng: -85.5475,
+    radius: 600,
+    short: "Topeka was settled in the spring of 1832. The first name was Hawpatch, for the hawthorn brush. In May 1893 the Wabash Railroad took that name off the timetable. The story is that officials thought the flat ground looked like the country around Topeka, Kansas. The new name stayed.",
+    long: "",
+    names: ["Hawpatch", "Topeka"]
+  },
+  {
+    id: "topeka-wabash",
+    name: "Wabash Railroad",
+    lat: 41.5394,
+    lng: -85.5475,
+    radius: 700,
+    short: "The Wabash Railroad reached Hawpatch in October 1891. The line was being finished toward Chicago and the World's Fair of 1893. The town was platted that year, the same year the railroad changed the name. A hawthorn clearing became a stop on the way to the fair.",
+    long: "",
+    names: ["Wabash Railroad", "Hawpatch"]
+  },
+  {
+    id: "topeka-town",
+    name: "Topeka",
+    lat: 41.5394,
+    lng: -85.5475,
+    radius: 500,
+    short: "Topeka was incorporated in August 1913 and soon built its own waterworks. It sits where two county roads cross. People in town say it is the largest incorporated town in Indiana that is not on a state highway. The 2020 count was 1,206.",
+    long: "",
+    names: ["Topeka"]
+  },
+  {
+    id: "topeka-amish",
+    name: "Topeka",
+    lat: 41.5394,
+    lng: -85.5475,
+    radius: 900,
+    short: "Topeka sits inside the large Amish settlement that surrounds LaGrange. A former president of the local chamber said most of the Amish around this town came from Kansas after a drought in the 1950s. That is a local account of who arrived, not the start of the whole settlement. The farms are the town as much as the plat is.",
+    long: "",
+    names: ["Topeka"]
+  },
+  {
+    id: "topeka-gaps",
+    name: "Topeka",
+    lat: 41.5394,
+    lng: -85.5475,
+    radius: 700,
+    short: "No canal and no battlefield are documented in this plat. The pins are a hawthorn clearing, a Wabash stop aimed at the 1893 fair, and a Kansas name the railroad kept. Topeka is Hawpatch after the timetable changed.",
+    long: "",
+    names: ["Topeka", "Hawpatch", "Wabash Railroad"]
+  },
+
 
 
 ];

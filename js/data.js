@@ -41287,6 +41287,67 @@ const STORIES = [
     long: "",
     names: ["Willshire", "St. Marys River", "Erie Railroad"]
   },
+  {
+    id: "approach-rome-city",
+    name: "Rome City",
+    lat: 41.4925,
+    lng: -85.3719,
+    radius: 3000,
+    layer: "approach",
+    short: "You are coming up on Rome City, Indiana, on State Road 9 in Noble County. Sylvan Lake is the water beside the town. It was built in the 1830s as a canal reservoir. The canal to Lake Michigan was never finished. The 2020 count was 1,322.",
+    long: "",
+    names: ["Rome City", "Sylvan Lake"]
+  },
+  {
+    id: "rome-city-plat",
+    name: "Rome City",
+    lat: 41.4925,
+    lng: -85.3719,
+    radius: 800,
+    short: "Rome City was laid out in 1839, in Orange Township. The lake dam was already going in. A post office has been here since 1868. The town sits on State Road 9, with almost half its area in water. The plat followed the reservoir.",
+    long: "",
+    names: ["Rome City", "Orange Township"]
+  },
+  {
+    id: "rome-city-sylvan",
+    name: "Sylvan Lake",
+    lat: 41.4992,
+    lng: -85.3758,
+    radius: 900,
+    short: "The state marker in Sycamore Park says Sylvan Lake was created in 1837 and 1838. It was a reservoir for a proposed canal between Fort Wayne and Lake Michigan, part of Indiana's 1836 internal improvements program. An earthen dam on the Elkhart River impounds 630 acres. The canal was never built. The dam stayed, and it turned mill wheels.",
+    long: "",
+    names: ["Sylvan Lake", "Elkhart River", "Fort Wayne"]
+  },
+  {
+    id: "rome-city-chautauqua",
+    name: "Rome City Chautauqua",
+    lat: 41.4992,
+    lng: -85.3758,
+    radius: 800,
+    short: "After the canal failed, the lake became a resort. A Chautauqua met at Rome City from 1878 to 1906. Speakers, music, and summer crowds used the same water that was supposed to feed a canal boat. The 1992 marker was put up with the Rome City Chautauqua Committee.",
+    long: "",
+    names: ["Chautauqua", "Rome City Chautauqua Committee"]
+  },
+  {
+    id: "rome-city-porter",
+    name: "Wildflower Woods",
+    lat: 41.4760,
+    lng: -85.3496,
+    radius: 700,
+    short: "Gene Stratton-Porter lived and wrote at Wildflower Woods, on this lake. The state marker on County Road 850 North says she was a best-selling author, born in 1863, who wanted readers to care about nature. She worked first at Limberlost Cabin in Geneva, then here. Her books made her living when few women had a profession. In the 1920s, in California, she started her own movie company. She died in 1924.",
+    long: "",
+    names: ["Gene Stratton-Porter", "Wildflower Woods", "Limberlost Cabin"]
+  },
+  {
+    id: "rome-city-gaps",
+    name: "Rome City",
+    lat: 41.4925,
+    lng: -85.3719,
+    radius: 900,
+    short: "No battlefield sits in this plat. The war story nearby is Camp Mitchell, back in Kendallville. No documented Native village is on the 1839 lots. This is Potawatomi country on the Elkhart River, and the lake drowned a valley to feed a canal that never came. Rome City is the dam, the Chautauqua, and Gene Stratton-Porter.",
+    long: "",
+    names: ["Potawatomi", "Elkhart River", "Camp Mitchell", "Gene Stratton-Porter"]
+  },
 
 
   

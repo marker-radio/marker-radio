@@ -41552,6 +41552,68 @@ const STORIES = [
     long: "",
     names: ["Geneva", "Limberlost", "Gene Stratton-Porter", "St. Marys River", "Miami"]
   },
+  {
+    id: "approach-kalida",
+    name: "Kalida",
+    lat: 40.9853,
+    lng: -84.1944,
+    radius: 4000,
+    layer: "approach",
+    short: "You are coming up on Kalida, Ohio. Say it kuh-lye-duh. It is in Putnam County. This was the first town in the county and the first county seat, platted in 1834. The seat left for Ottawa in 1866. The 2020 count was 1,455.",
+    long: "",
+    names: ["Kalida", "Ottawa", "Putnam County"]
+  },
+  {
+    id: "kalida-plat",
+    name: "Kalida",
+    lat: 40.9853,
+    lng: -84.1944,
+    radius: 700,
+    short: "On January 3, 1834, the same act that created Putnam County ordered a town on 160 acres in Union Township. That ground was canal land, granted by the United States to help build the Miami and Erie. On May 5, Abraham Sarber was named town director and F. C. Fitch was the surveyor. They platted Kalida, Greek for beautiful, and made it the seat of justice.",
+    long: "",
+    names: ["Abraham Sarber", "F. C. Fitch", "Miami and Erie Canal"]
+  },
+  {
+    id: "kalida-courthouse",
+    name: "Kalida courthouse",
+    lat: 40.9853,
+    lng: -84.1944,
+    radius: 600,
+    short: "A frame courthouse went up in the mid-1830s. A brick courthouse followed around 1839, the year Kalida incorporated. The county did its business here until 1866. That year a countywide vote moved the seat to Ottawa. Kalida kept the old square and lost the courts.",
+    long: "",
+    names: ["Ottawa"]
+  },
+  {
+    id: "kalida-mill",
+    name: "Hog Creek mill",
+    lat: 40.9853,
+    lng: -84.1944,
+    radius: 700,
+    short: "In 1836 Guthrie and Sarber built a gristmill on Hog Creek at Kalida. The village history calls it the second water mill in Putnam County, and at the time the most important. The creek turned the stone. The canal land was under the lots. The mill was on the creek.",
+    long: "",
+    names: ["Hog Creek", "Guthrie", "Abraham Sarber"]
+  },
+  {
+    id: "kalida-rail",
+    name: "Findlay, Fort Wayne and Western",
+    lat: 40.9853,
+    lng: -84.1944,
+    radius: 700,
+    short: "After the county seat left, Kalida went quiet. The Findlay, Fort Wayne and Western Railroad later gave the village an outlet, and the old history says the town started again. St. Michael's Catholic Church still dominates the skyline. The Putnam County Historical Society keeps its museum here, in the town that used to hold the courts.",
+    long: "",
+    names: ["Findlay, Fort Wayne and Western Railroad", "St. Michael's Catholic Church", "Putnam County Historical Society"]
+  },
+  {
+    id: "kalida-gaps",
+    name: "Kalida",
+    lat: 40.9853,
+    lng: -84.1944,
+    radius: 800,
+    short: "No battlefield sits in this 1834 plat. Canal boats did not dock on the square. The Miami and Erie runs east of you, through Ottawa. The lots here were only canal land. Hog Creek is the water that mattered. No documented Native village is under the courthouse square. Kalida is the first seat, the mill, and the vote that sent the courts away.",
+    long: "",
+    names: ["Miami and Erie Canal", "Ottawa", "Hog Creek"]
+  },
+
 
   
 ];

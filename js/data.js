@@ -40728,6 +40728,108 @@ const STORIES = [
     long: "",
     names: ["Maumee River"]
   },
+ {
+    id: "approach-spencerville",
+    name: "Spencerville",
+    lat: 41.2828,
+    lng: -84.9236,
+    radius: 8000,
+    layer: "approach",
+    short: "You are coming up on Spencerville, Indiana, on State Road 1. This is the St. Joseph River, about eight miles west of Hicksville. A stone here calls it the first settlement in DeKalb County. The covered bridge is the only one in the county. If you drop down to the river, I'll start with the mills.",
+    long: "",
+    names: ["Spencerville", "St. Joseph River", "State Road 1"]
+  },
+  {
+    id: "spencerville-founding",
+    name: "Spencerville",
+    lat: 41.2831,
+    lng: -84.9220,
+    radius: 1000,
+    short: "Thomas Yates came from Ohio by way of Fort Wayne and settled on this riverbank. On September 13, 1833, he registered the claim at the land office in Fort Wayne. In July 1836 Reuben J. Dawson bought the Yates farm. The post office opened in 1839. The town took its name from John Spencer, a relative of the founder.",
+    long: "",
+    names: ["Thomas Yates", "Reuben J. Dawson", "John Spencer"]
+  },
+  {
+    id: "spencerville-settlement-stone",
+    name: "First Settlement Stone",
+    lat: 41.2831,
+    lng: -84.9220,
+    radius: 400,
+    short: "At State Road 1 and County Road 68 there is a stone the DeKalb County Historical Society set in 1928. It reads First Settlement in DeKalb County, 1828. The mill marker at the bridge is more exact. Yates filed his claim in 1833. The stone is what the county wanted drivers to see.",
+    long: "",
+    names: ["DeKalb County Historical Society", "Thomas Yates"]
+  },
+  {
+    id: "spencerville-river",
+    name: "St. Joseph River",
+    lat: 41.2814,
+    lng: -84.9144,
+    radius: 1400,
+    short: "The St. Joseph is why this town exists. It was a Miami and Potawatomi road between Kekionga, at Fort Wayne, and Lake Michigan. Dawson set aside thirty acres of the Yates farm for water power. There is no documented village on the bridge site. The highway here was the river.",
+    long: "",
+    names: ["St. Joseph River", "Miami", "Potawatomi", "Kekionga"]
+  },
+  {
+    id: "spencerville-mills",
+    name: "Spencerville Mills",
+    lat: 41.2815,
+    lng: -84.9142,
+    radius: 450,
+    short: "Dawson hired Joseph Sawtell of Fort Wayne to build a dam, a sawmill, and a grist mill. The sawmill was running by the fall of 1840. The grist mill was four stories, done by the fall of 1844, with one run of stone for corn and one for wheat. Sawtell brought Irish canal workers back from Antwerp, Ohio, to dig a race a quarter of a mile long. He put them in tents across the river. The Saturday nights were talked about for days. The first flour was ground from wheat grown on Dawson's own farm.",
+    long: "",
+    names: ["Joseph Sawtell", "Reuben J. Dawson", "Antwerp"]
+  },
+  {
+    id: "spencerville-bridge",
+    name: "Spencerville Covered Bridge",
+    lat: 41.2814,
+    lng: -84.9144,
+    radius: 400,
+    short: "You are at the Spencerville Covered Bridge, County Roads 68 and 57. In 1873 the DeKalb County commissioners hired Auburn engineer John A. McKay and the Smith Bridge Company. It is a Smith truss across the St. Joseph, built so people could reach the mills. It went on the National Register in 1981. The state marker here was replaced in 2023. The bridge is still carrying traffic, more than 150 years later.",
+    long: "",
+    names: ["John A. McKay", "Smith Bridge Company", "Spencerville Covered Bridge"]
+  },
+  {
+    id: "spencerville-murray",
+    name: "Murray Brothers Mill",
+    lat: 41.2815,
+    lng: -84.9142,
+    radius: 450,
+    short: "The Dawsons ran the mills until 1859, then sold them to Henry Murray and John Zimmerman. After Zimmerman died, Henry and Thomas Murray bought his share and became the Murray Brothers. Thomas added a handle factory and shipped handles by the carload. In 1885 they took out the stones, put in rollers, and still ran them on river water. The flour was sold as Pearl Drop, the Pride of the St. Joe Valley. The sawmill closed about 1905. Jake Grill later ground feed here. Harvey Kimes bought what was left and sold the mill for lumber.",
+    long: "",
+    names: ["Henry Murray", "Thomas Murray", "John Zimmerman", "Pearl Drop", "Harvey Kimes"]
+  },
+  {
+    id: "spencerville-mapes",
+    name: "Arthur Mapes Bridge",
+    lat: 41.2814,
+    lng: -84.9146,
+    radius: 400,
+    short: "A marker on Mill Street says this bridge pushed a thirteen-year-old Arthur Franklin Mapes to write his first poem. He later wrote Indiana, the state poem, and his name is also tied to Kendallville. This is the spot that started it. The St. Joe-Spencerville Lions Club set the marker in 2023.",
+    long: "",
+    names: ["Arthur Franklin Mapes", "Indiana"]
+  },
+  {
+    id: "spencerville-cemetery",
+    name: "White City Cemetery",
+    lat: 41.2865,
+    lng: -84.9225,
+    radius: 500,
+    short: "White City Cemetery, also called Spencerville Cemetery, sits on State Road 1 just north of the crossroads. It is the burying ground for the families who ran the mills and the farms along the river. There is no town square and no state park. The public place in Spencerville is the bridge landing and this cemetery.",
+    long: "",
+    names: ["White City Cemetery"]
+  },
+  {
+    id: "spencerville-gaps",
+    name: "Spencerville",
+    lat: 41.2828,
+    lng: -84.9236,
+    radius: 1000,
+    short: "No fort and no battlefield sit in this plat. No canal came through town. The canal men who dug the mill race had been working at Antwerp, and they went home. The story that shaped Spencerville is the river, the mills, and the covered bridge.",
+    long: "",
+    names: ["St. Joseph River", "Antwerp"]
+  },
+
 
   
 ];

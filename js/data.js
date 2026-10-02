@@ -42031,6 +42031,57 @@ const STORIES = [
     long: "",
     names: ["Glandorf", "Johann Wilhelm Horstmann"]
   },
+  {
+    id: "approach-elgin",
+    name: "Elgin",
+    lat: 40.7428,
+    lng: -84.4761,
+    radius: 2000,
+    layer: "approach",
+    short: "You are coming up on Elgin, Ohio, in York Township, Van Wert County. It is one of the smallest villages in the state. The 2020 count was 49. The railroad and an oil boom once put a few hundred people here.",
+    long: "",
+    names: ["Elgin"]
+  },
+  {
+    id: "elgin-name",
+    name: "Elgin",
+    lat: 40.7428,
+    lng: -84.4761,
+    radius: 400,
+    short: "Jonathan VanEman bought the first land here in 1835, the year York Township was organized. By 1859 church met in the log schoolhouse. The village called itself Yorktown until it found that another Yorktown already had a post office. The name Elgin was the one that stuck.",
+    long: "",
+    names: ["Jonathan VanEman", "York Township"]
+  },
+  {
+    id: "elgin-rail",
+    name: "Chicago and Atlantic Railroad",
+    lat: 40.7428,
+    lng: -84.4761,
+    radius: 500,
+    short: "The first plat of Elgin was recorded in 1883. That same year the Chicago and Atlantic Railroad came through, with freight and passengers. The depot stood on the north side of the tracks, on the west side of Main Street. The line later became the Chicago and Erie. By 1916 it was double track. A grain elevator still marks the village.",
+    long: "",
+    names: ["Chicago and Atlantic Railroad", "Chicago and Erie Railroad"]
+  },
+  {
+    id: "elgin-oil",
+    name: "Elgin",
+    lat: 40.7428,
+    lng: -84.4761,
+    radius: 400,
+    short: "Elgin was incorporated in 1897. Four years later the oil boom had the population between 200 and 300. About 1897 the village left the township and built its own two-room school. In 1905 it went back, as the boom ran out and the children left with it. In 1900 the count was 208. In 2020 it was 49.",
+    long: "",
+    names: ["Elgin"]
+  },
+  {
+    id: "elgin-gaps",
+    name: "Elgin",
+    lat: 40.7428,
+    lng: -84.4761,
+    radius: 500,
+    short: "No canal and no battlefield are documented in this plat. The pins are a renamed village, a railroad depot, and an oil boom that left. Elgin is 49 people and a grain elevator on a double-track memory.",
+    long: "",
+    names: ["Elgin"]
+  },
 
 
 

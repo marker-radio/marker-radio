@@ -42245,6 +42245,68 @@ const STORIES = [
     long: "",
     names: ["Rockford", "Anthony Shane", "John Chapman"]
   },
+  {
+    id: "approach-ottawa",
+    name: "Ottawa",
+    lat: 41.0197,
+    lng: -84.0464,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Ottawa, Ohio, the seat of Putnam County, on the Blanchard River. An Ottawa village called Lower Tawa Town stood here. The county seat moved from Kalida in 1866. The 2020 count was 4,456.",
+    long: "",
+    names: ["Ottawa", "Blanchard River"]
+  },
+  {
+    id: "ottawa-tawa-town",
+    name: "Lower Tawa Town",
+    lat: 41.0197,
+    lng: -84.0464,
+    radius: 700,
+    short: "Wyandot and Ottawa people lived along the Blanchard River. Lower Tawa Town, an Ottawa village, stood where this town stands. In 1817 the tribes ceded a large tract and Blanchard's Fork Reserve was set aside. They ceded that reserve in 1831. In 1832 the Ottawa living on it were removed to Kansas. The village kept their name after they were gone.",
+    long: "",
+    names: ["Ottawa", "Wyandot", "Blanchard River"]
+  },
+  {
+    id: "ottawa-truman",
+    name: "Lower Tawa Town",
+    lat: 41.0197,
+    lng: -84.0464,
+    radius: 600,
+    short: "In 1792 President George Washington sent Major Alexander Truman, his servant William Lynch, and the interpreter William Smalley on a peace mission to the tribes. Truman and Lynch were killed at Lower Tawa Town. The date was sometime before April 20, 1792. The mission ended on the ground that later became the county seat.",
+    long: "",
+    names: ["Alexander Truman", "William Lynch", "William Smalley"]
+  },
+  {
+    id: "ottawa-seat",
+    name: "Putnam County Courthouse",
+    lat: 41.0197,
+    lng: -84.0464,
+    radius: 500,
+    short: "Putnam County was organized in 1834 and named for Israel Putnam. The first seat was Kalida. Its brick courthouse burned on December 18, 1864. On October 9, 1866, voters moved the seat to Ottawa by 485 votes. Ottawa had a railroad and sat nearer the middle of the county. The village paid fifteen thousand dollars for a new courthouse.",
+    long: "",
+    names: ["Israel Putnam", "Kalida", "Ottawa"]
+  },
+  {
+    id: "ottawa-courthouse-1912",
+    name: "Putnam County Courthouse",
+    lat: 41.0197,
+    lng: -84.0464,
+    radius: 400,
+    short: "The courthouse on the square is the fourth one the county has had. It was built in 1912 in the Beaux-Arts style. Frank Packard and Ralph Snyder designed it. The address is 245 East Main Street. The National Register of Historic Places listed it on May 3, 1974. Ronald Reagan's train stopped in Ottawa on a whistle-stop tour in 1984.",
+    long: "",
+    names: ["Frank Packard", "Ralph Snyder", "Ronald Reagan"]
+  },
+  {
+    id: "ottawa-gaps",
+    name: "Ottawa",
+    lat: 41.0197,
+    lng: -84.0464,
+    radius: 800,
+    short: "The Blanchard River was the early road through this county. The sources name a railroad as the reason the seat moved, and they do not name the line. No battlefield is documented in the village itself. The pins are Lower Tawa Town, a failed peace mission, and a courthouse that won an election.",
+    long: "",
+    names: ["Ottawa", "Blanchard River"]
+  },
+
 
 ];
 

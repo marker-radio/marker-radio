@@ -42185,7 +42185,6 @@ const STORIES = [
     names: ["LaGrange", "Marquis de Lafayette"]
   },
 
-
 ];
 
 

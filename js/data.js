@@ -42306,6 +42306,67 @@ const STORIES = [
     long: "",
     names: ["Ottawa", "Blanchard River"]
   },
+  {
+    id: "approach-leipsic",
+    name: "Leipsic",
+    lat: 41.1139,
+    lng: -83.9625,
+    radius: 4000,
+    layer: "approach",
+    short: "You are coming up on Leipsic, Ohio, in Putnam County. It was platted in 1857 and named for Leipzig, in Germany. Three railroads still cross here. The 2020 count was 2,177.",
+    long: "",
+    names: ["Leipsic", "Leipzig"]
+  },
+  {
+    id: "leipsic-junction",
+    name: "Leipsic Junction",
+    lat: 41.1139,
+    lng: -83.9625,
+    radius: 700,
+    short: "Leipsic was platted in 1857. German settlers wanted a name that sounded like home, so they used a spelling of Leipzig. The place was first called Leipsic Junction because the rail lines crossed. CSX, Norfolk Southern, and Genesee and Wyoming still meet in town. When the trains are all tied up, you wait to get in and you wait to get out.",
+    long: "",
+    names: ["Leipzig", "CSX", "Norfolk Southern"]
+  },
+  {
+    id: "leipsic-edwards",
+    name: "Buckeye Stave Company",
+    lat: 41.1139,
+    lng: -83.9625,
+    radius: 800,
+    short: "In 1861 Thomas and Isabella Edwards began farming a short way east of Leipsic. In 1886 their sons went into the Buckeye Stave Company. It became one of the prosperous companies of the Black Swamp, and by the mid-1890s one of the largest landowners in Defiance, Henry, and Putnam counties. The swamp's timber built the house on Main Street.",
+    long: "",
+    names: ["Thomas Edwards", "Buckeye Stave Company", "Black Swamp"]
+  },
+  {
+    id: "leipsic-edwards-house",
+    name: "John Edwards House",
+    lat: 41.1014,
+    lng: -83.9908,
+    radius: 400,
+    short: "In 1894 John Edwards paid about twenty-one thousand dollars for a house at 305 West Main Street. It is brick, with a slate roof, Late Victorian, with stenciling, molds of lions' heads, and embossed gold. In 1977 Harriett Gamper, an Edwards descendant, bought it and gave it to the village for a library. The National Register of Historic Places listed it on November 27, 1978. The old village hall is the other listing in town.",
+    long: "",
+    names: ["John Edwards", "Harriett Gamper"]
+  },
+  {
+    id: "leipsic-dillinger",
+    name: "Leipsic",
+    lat: 41.1139,
+    lng: -83.9625,
+    radius: 600,
+    short: "People in Leipsic tell it this way. John Dillinger would not rob the bank here because three railroads boxed the town. You never knew when a train would close the road out. That is a local legend, not a record that he planned the job. The trains are still the story the town tells about itself.",
+    long: "",
+    names: ["John Dillinger"]
+  },
+  {
+    id: "leipsic-gaps",
+    name: "Leipsic",
+    lat: 41.1139,
+    lng: -83.9625,
+    radius: 800,
+    short: "No canal and no battlefield are documented in this 1857 plat. The pins are a German name, a rail junction, a stave-company mansion, and a bank story about a man who never came. Leipsic is Leipzig, spelled for Ohio.",
+    long: "",
+    names: ["Leipsic", "Leipzig"]
+  },
 
 
 ];

@@ -42133,6 +42133,58 @@ const STORIES = [
     long: "",
     names: ["Kimmell", "Sparta", "Orlando Kimmell"]
   },
+  {
+    id: "approach-lagrange",
+    name: "LaGrange",
+    lat: 41.6481,
+    lng: -85.4181,
+    radius: 4500,
+    layer: "approach",
+    short: "You are coming up on LaGrange, Indiana, the county seat, at US 20 and State Road 9. It was platted in 1836 and named for Lafayette's farm in France. The town puts the 2020 count at 2,625. One of the largest Amish settlements in the country is around it.",
+    long: "",
+    names: ["LaGrange", "Marquis de Lafayette"]
+  },
+  {
+    id: "lagrange-plat",
+    name: "LaGrange",
+    lat: 41.6481,
+    lng: -85.4181,
+    radius: 700,
+    short: "LaGrange was platted on June 18, 1836. The name means farm, and it comes from the plantation of the Marquis de Lafayette. Lots were 66 feet by 28. Streets were 66 feet wide, laid in a cross around the public square. The square is still the middle of the town.",
+    long: "",
+    names: ["Marquis de Lafayette", "LaGrange"]
+  },
+  {
+    id: "lagrange-seat",
+    name: "LaGrange County Courthouse",
+    lat: 41.6481,
+    lng: -85.4181,
+    radius: 500,
+    short: "In 1840 the legislature made LaGrange the county seat. The point was to put the seat near the center of the people. By the late 1800s the town had about 1,400 residents. The courthouse stands on the square the plat left open.",
+    long: "",
+    names: ["LaGrange County"]
+  },
+  {
+    id: "lagrange-yankee-amish",
+    name: "LaGrange",
+    lat: 41.6481,
+    lng: -85.4181,
+    radius: 900,
+    short: "The county's first settlers were Yankees from New England, descendants of the English Puritans, moving west after the Erie Canal. Around the county seat now is one of the largest Amish settlements in the United States. The square is the English town. The farms around it are Amish.",
+    long: "",
+    names: ["Erie Canal"]
+  },
+  {
+    id: "lagrange-gaps",
+    name: "LaGrange",
+    lat: 41.6481,
+    lng: -85.4181,
+    radius: 800,
+    short: "No battlefield is documented on this square. The pins are an 1836 plat, an 1840 county seat, a New England start, and an Amish county around a town named for a French farm. LaGrange is the seat in the middle of the settlement.",
+    long: "",
+    names: ["LaGrange", "Marquis de Lafayette"]
+  },
+
 
 ];
 

@@ -41348,6 +41348,67 @@ const STORIES = [
     long: "",
     names: ["Potawatomi", "Elkhart River", "Camp Mitchell", "Gene Stratton-Porter"]
   },
+  {
+    id: "approach-fayette-oh",
+    name: "Fayette",
+    lat: 41.6728,
+    lng: -84.3283,
+    radius: 4000,
+    layer: "approach",
+    short: "You are coming up on Fayette, Ohio, in Gorham Township, Fulton County. Michigan is just north of town. This village incorporated in 1872, the year a railroad arrived. The 2020 count was 1,305.",
+    long: "",
+    names: ["Fayette", "Gorham Township"]
+  },
+  {
+    id: "fayette-oh-name",
+    name: "Fayette",
+    lat: 41.6728,
+    lng: -84.3283,
+    radius: 800,
+    short: "The name Fayette was already in use by 1852. Before that, the post office was called Gorham, and it sat in the home of Erastus Cottrell. His father, Gorham Cottrell, had settled in this township in 1835. A family account says Henry Punches suggested Fayette, for Fayette, New York, where many of the early families had lived.",
+    long: "",
+    names: ["Erastus Cottrell", "Gorham Cottrell", "Henry Punches", "Fayette, New York"]
+  },
+  {
+    id: "fayette-oh-rail",
+    name: "Chicago and Canada Southern",
+    lat: 41.6728,
+    lng: -84.3283,
+    radius: 800,
+    short: "On July 4, 1872, the Chicago and Canada Southern Railway finished its line into Fayette and ran the first train. The county history marks that day as the one the town remembers. The village incorporated the same year. A post office under the name Fayette opened in 1873.",
+    long: "",
+    names: ["Chicago and Canada Southern Railway"]
+  },
+  {
+    id: "fayette-oh-lines",
+    name: "Fayette railroads",
+    lat: 41.6728,
+    lng: -84.3283,
+    radius: 900,
+    short: "Fayette was not a one-track town. The Toledo and Western, an electric line, also passed through. About a mile and a half north, North Fayette Station sat on the Wabash, already on the way to Michigan. Farm goods and timber left on those rails.",
+    long: "",
+    names: ["Toledo and Western", "Wabash Railroad", "North Fayette Station"]
+  },
+  {
+    id: "fayette-oh-size",
+    name: "Fayette",
+    lat: 41.6728,
+    lng: -84.3283,
+    radius: 700,
+    short: "The 1880 census counted 579 people. The 2020 census counted 1,305. Fayette stayed a village on the state line. It did not become a city. Main Street is still the center.",
+    long: "",
+    names: ["Fayette"]
+  },
+  {
+    id: "fayette-oh-gaps",
+    name: "Fayette",
+    lat: 41.6728,
+    lng: -84.3283,
+    radius: 800,
+    short: "No battlefield sits in this plat. Gorham Township sent volunteers in the Civil War, and the county history keeps their names, but the fighting was somewhere else. There is no canal. No documented Native village is on the 1872 lots. Fayette is New York families, the Fourth of July train, and a village one mile south of Michigan.",
+    long: "",
+    names: ["Gorham Township", "Chicago and Canada Southern Railway"]
+  },
 
 
   

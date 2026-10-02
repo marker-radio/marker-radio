@@ -42683,6 +42683,326 @@ const STORIES = [
     long: "",
     names: ["Howe", "Mongoquinong", "Lima"]
   },
+  {
+    id: "maples-in",
+    name: "Maples",
+    lat: 41.0109,
+    lng: -84.9680,
+    radius: 500,
+    short: "Maples is a small census place in Allen County, Indiana, southeast of Fort Wayne. No plat, church, or railroad station turned up under this name. The pin is the place itself.",
+    long: "",
+    names: ["Maples"]
+  },
+  {
+    id: "hessen-cassel",
+    name: "Hessen Cassel",
+    lat: 40.9770,
+    lng: -85.0723,
+    radius: 600,
+    short: "Hessen Cassel is in Marion Township, Allen County. German settlers named it for Hesse-Kassel. St. Joseph Catholic congregation formed in 1841. The brick church was finished in 1861. The village was platted in 1863.",
+    long: "",
+    names: ["Hessen Cassel", "St. Joseph Catholic Church"]
+  },
+  {
+    id: "holiday-woods",
+    name: "Holiday Woods",
+    lat: 41.6232,
+    lng: -85.0715,
+    radius: 450,
+    short: "Holiday Woods is a census neighborhood in Steuben County, near Angola. It is not a platted town. No church, railroad, or battlefield is documented under this name.",
+    long: "",
+    names: ["Holiday Woods"]
+  },
+  {
+    id: "lake-everett",
+    name: "Lake Everett",
+    lat: 41.1575,
+    lng: -85.3156,
+    radius: 500,
+    short: "Lake Everett is a cottage lake south of Churubusco. The census drew a line around the shore. No separate town plat turned up under this name. The pin is the lake.",
+    long: "",
+    names: ["Lake Everett"]
+  },
+  {
+    id: "wildwood-in",
+    name: "Wildwood",
+    lat: 41.5929,
+    lng: -85.1895,
+    radius: 450,
+    short: "Wildwood is a census place in the Steuben County lake country. It is a shore neighborhood, not a town. No founding date or railroad station turned up under this name.",
+    long: "",
+    names: ["Wildwood"]
+  },
+  {
+    id: "cree-lake",
+    name: "Cree Lake",
+    lat: 41.5048,
+    lng: -85.2750,
+    radius: 500,
+    short: "Cree Lake is a cottage lake in Noble County, near Kendallville. The census name is the shore, not a village. No plat or depot turned up under this name. The pin is the water.",
+    long: "",
+    names: ["Cree Lake"]
+  },
+  {
+    id: "otter-lake-in",
+    name: "Otter Lake",
+    lat: 41.6381,
+    lng: -85.1715,
+    radius: 500,
+    short: "Otter Lake is a cottage lake in Steuben County. People built camps on the shore. No town plat, church, or battlefield is documented under this census name. The pin is the lake.",
+    long: "",
+    names: ["Otter Lake"]
+  },
+  {
+    id: "jimmerson-lake",
+    name: "Jimmerson Lake",
+    lat: 41.7022,
+    lng: -85.0605,
+    radius: 500,
+    short: "Jimmerson Lake is a cottage lake in Steuben County, near the Michigan line. The census place is the shore. No separate village history turned up under this name.",
+    long: "",
+    names: ["Jimmerson Lake"]
+  },
+  {
+    id: "snow-lake-in",
+    name: "Snow Lake",
+    lat: 41.7301,
+    lng: -85.0295,
+    radius: 450,
+    short: "Snow Lake is a small cottage lake in Steuben County. It is on the census as a place. No plat, depot, or war site turned up under this name. The pin is the lake.",
+    long: "",
+    names: ["Snow Lake"]
+  },
+  {
+    id: "adams-lake-in",
+    name: "Adams Lake",
+    lat: 41.5500,
+    lng: -85.3295,
+    radius: 500,
+    short: "Adams Lake is a cottage lake in Noble County, near Rome City. The census name is the shore. No town plat turned up under this name. The pin is the water.",
+    long: "",
+    names: ["Adams Lake"]
+  },
+  {
+    id: "preble-in",
+    name: "Preble",
+    lat: 40.8326,
+    lng: -85.0099,
+    radius: 600,
+    short: "Preble is in Preble Township, Adams County, about four miles west of Decatur. It took the township name. A post office opened in 1883. What stands there now is a post office, a volunteer fire department, and a granary.",
+    long: "",
+    names: ["Preble"]
+  },
+  {
+    id: "merriam-in",
+    name: "Merriam",
+    lat: 41.2869,
+    lng: -85.4332,
+    radius: 450,
+    short: "Merriam is a small census place in Noble County, near Wolflake. No plat, church, or railroad station turned up under this name. The pin is the crossroads.",
+    long: "",
+    names: ["Merriam"]
+  },
+  {
+    id: "brimfield-in",
+    name: "Brimfield",
+    lat: 41.4568,
+    lng: -85.4018,
+    radius: 600,
+    short: "Brimfield was platted in 1861 in Orange Township, Noble County. The name most likely came from Brimfield in England. A post office opened in 1867 and closed in 1986.",
+    long: "",
+    names: ["Brimfield"]
+  },
+  {
+    id: "coesse",
+    name: "Coesse",
+    lat: 41.1275,
+    lng: -85.4007,
+    radius: 600,
+    short: "Coesse was platted in 1854 in Union Township, Whitley County. The name is Coesse, or Kowazi, a Miami chief and grandson of Little Turtle. A post office opened in 1843 and closed in 1967.",
+    long: "",
+    names: ["Coesse", "Little Turtle"]
+  },
+  {
+    id: "tedrow",
+    name: "Tedrow",
+    lat: 41.6029,
+    lng: -84.2043,
+    radius: 600,
+    short: "Tedrow is in Dover Township, Fulton County. An 1858 plat still called it Spring Hill, for a spring on Brush Creek that had been a Native camp. It was renamed for the Tedrow family. The post office ran from 1839 to 1917. The 2020 count was 168.",
+    long: "",
+    names: ["Tedrow", "Spring Hill"]
+  },
+  {
+    id: "tri-lakes-in",
+    name: "Tri-Lakes",
+    lat: 41.2511,
+    lng: -85.4534,
+    radius: 500,
+    short: "Tri-Lakes is a census name in Whitley County for the shore of three lakes, not a platted town. No depot or battlefield turned up under this name. The pin is the water.",
+    long: "",
+    names: ["Tri-Lakes"]
+  },
+  {
+    id: "tocsin",
+    name: "Tocsin",
+    lat: 40.8311,
+    lng: -85.1072,
+    radius: 600,
+    short: "Tocsin is in Lancaster Township, Wells County, on the line of Jefferson Township. A post office opened in 1882. The village was platted on August 19, 1884. The post office closed in 1966.",
+    long: "",
+    names: ["Tocsin"]
+  },
+  {
+    id: "wall-lake-in",
+    name: "Wall Lake",
+    lat: 41.7315,
+    lng: -85.2009,
+    radius: 450,
+    short: "Wall Lake is a cottage lake in Steuben County, near the Michigan line. The census place is the shore. No town plat turned up under this name. The pin is the lake.",
+    long: "",
+    names: ["Wall Lake"]
+  },
+  {
+    id: "wolflake",
+    name: "Wolflake",
+    lat: 41.3279,
+    lng: -85.4901,
+    radius: 500,
+    short: "Wolflake is a small place in Noble County, in the lake country near Merriam. No plat date, church, or depot turned up under this name. The pin is the crossroads.",
+    long: "",
+    names: ["Wolflake"]
+  },
+  {
+    id: "big-lake-in",
+    name: "Big Lake",
+    lat: 41.2688,
+    lng: -85.4983,
+    radius: 450,
+    short: "Big Lake is a cottage lake in Noble County. The census drew the place around the shore. No separate village history turned up under this name. The pin is the water.",
+    long: "",
+    names: ["Big Lake"]
+  },
+  {
+    id: "bear-lake-in",
+    name: "Bear Lake",
+    lat: 41.3260,
+    lng: -85.5141,
+    radius: 450,
+    short: "Bear Lake is a cottage lake in Noble County, near Wolflake. It is a shore neighborhood, not a town. No plat or railroad station turned up under this name.",
+    long: "",
+    names: ["Bear Lake"]
+  },
+  {
+    id: "laud-in",
+    name: "Laud",
+    lat: 41.0483,
+    lng: -85.4501,
+    radius: 500,
+    short: "Laud is a small census place in Whitley County, west of Columbia City. No plat, church, or depot turned up under this name. The pin is the crossroads.",
+    long: "",
+    names: ["Laud"]
+  },
+  {
+    id: "craigville",
+    name: "Craigville",
+    lat: 40.7769,
+    lng: -85.0913,
+    radius: 600,
+    short: "Craigville is in Lancaster Township, Wells County. It was named for William J. Craig, a county clerk. The post office has been open since 1879.",
+    long: "",
+    names: ["Craigville", "William J. Craig"]
+  },
+  {
+    id: "ontario-in",
+    name: "Ontario",
+    lat: 41.6992,
+    lng: -85.3847,
+    radius: 600,
+    short: "Ontario, in LaGrange County, was platted in 1837. It was laid out in the hope of becoming the county seat. In 1842 the seat went to LaGrange instead. The village stayed small.",
+    long: "",
+    names: ["Ontario"]
+  },
+  {
+    id: "vaughnsville",
+    name: "Vaughnsville",
+    lat: 40.8802,
+    lng: -84.1453,
+    radius: 700,
+    short: "Vaughnsville is in Sugar Creek Township, Putnam County, where State Routes 115, 12, and 189 meet. Benjamin Clevenger built a grist mill on Sugar Creek here in 1831 and cut a road to Lima in 1832. The plat of 1847 was first called Monterey. Daniel C. Vaughn added the north side and gave it his name. The post office opened in 1848. In 1893 Dr. John G. Thomas, pastor of the Congregational church, patented individual communion cups after he saw a sick communicant share the cup. The 2020 count was 278.",
+    long: "",
+    names: ["Vaughnsville", "Daniel C. Vaughn", "John G. Thomas"]
+  },
+  {
+    id: "gomer-ohio",
+    name: "Gomer",
+    lat: 40.8454,
+    lng: -84.1828,
+    radius: 700,
+    short: "Gomer is in Sugar Creek Township, Allen County, Ohio, on the old Lincoln Highway just north of U.S. 30. Three Welsh families, James Nicholas, David Roberts, and Thomas Watkins, came here from Paddy's Run in 1833. The village was laid out in 1850. The post office ran from 1854 to 1961. For years this was a Welsh-speaking settlement.",
+    long: "",
+    names: ["Gomer", "James Nicholas", "Paddy's Run"]
+  },
+  {
+    id: "linn-grove",
+    name: "Linn Grove",
+    lat: 40.6450,
+    lng: -85.0347,
+    radius: 600,
+    short: "Linn Grove is in Adams County, on the Wabash River. The post office opened as Linn on September 5, 1848, and it is still open. No battlefield or railroad story turned up under this name. The pins are the river and a post office that never closed.",
+    long: "",
+    names: ["Linn Grove"]
+  },
+  {
+    id: "enchanted-hills",
+    name: "Enchanted Hills",
+    lat: 41.4070,
+    lng: -85.6702,
+    radius: 450,
+    short: "Enchanted Hills is a census neighborhood in the Noble County lake country, near Ligonier. It is not a nineteenth-century town. No church, depot, or war site turned up under this name.",
+    long: "",
+    names: ["Enchanted Hills"]
+  },
+  {
+    id: "neapolis",
+    name: "Neapolis",
+    lat: 41.4906,
+    lng: -83.8747,
+    radius: 500,
+    short: "Neapolis is a small census place in Lucas County, west of Toledo. No plat date, church, or railroad station turned up under this name. The pin is the place on the map.",
+    long: "",
+    names: ["Neapolis"]
+  },
+  {
+    id: "ai-ohio",
+    name: "Ai",
+    lat: 41.6261,
+    lng: -83.9427,
+    radius: 450,
+    short: "Ai is a small census place in Fulton County. No founding date, church, or depot turned up under this name. It is a dot on the map, and that is the pin.",
+    long: "",
+    names: ["Ai"]
+  },
+  {
+    id: "liberty-center-in",
+    name: "Liberty Center",
+    lat: 40.7037,
+    lng: -85.2738,
+    radius: 600,
+    short: "This Liberty Center is in Wells County, Indiana. It is not the Liberty Center in Henry County, Ohio, which is already in the file. No plat date or depot turned up for the Indiana place. The pin is so the two towns are not confused.",
+    long: "",
+    names: ["Liberty Center"]
+  },
+  {
+    id: "barbee-in",
+    name: "Barbee",
+    lat: 41.2923,
+    lng: -85.7181,
+    radius: 500,
+    short: "Barbee is the census name for the shore of the Barbee lakes in Kosciusko County, near the Tippecanoe chain. It is cottage water, not a platted town. No depot or battlefield turned up under this name. The pin is the lakes.",
+    long: "",
+    names: ["Barbee"]
+  },
 
 
 

@@ -41827,6 +41827,57 @@ const STORIES = [
     long: "",
     names: ["Delphos", "Miami and Erie Canal"]
   },
+  {
+    id: "approach-venedocia",
+    name: "Venedocia",
+    lat: 40.7850,
+    lng: -84.4558,
+    radius: 3000,
+    layer: "approach",
+    short: "You are coming up on Venedocia, Ohio, in Van Wert County. Welsh families settled it in 1848. The 2020 count was 140. A historical marker in the village tells both the Welsh story and the route of Anthony Wayne's march across this county.",
+    long: "",
+    names: ["Venedocia", "Anthony Wayne"]
+  },
+  {
+    id: "venedocia-welsh",
+    name: "Venedocia",
+    lat: 40.7850,
+    lng: -84.4558,
+    radius: 500,
+    short: "In the fall of 1847, Governor William Bebb and a cousin of the same name bought land in Van Wert County for a Welsh settlement. In April 1848, three families from North Wales, the Bebbs, the Jervises, and the Morrises, traveled the Miami and Erie Canal and established Venedocia. One settler said wolves and panthers scratched at the doors at night. A post office has been open since 1866.",
+    long: "",
+    names: ["William Bebb", "Miami and Erie Canal"]
+  },
+  {
+    id: "venedocia-salem",
+    name: "Salem Presbyterian Church",
+    lat: 40.7850,
+    lng: -84.4558,
+    radius: 400,
+    short: "Until the Venedocia Presbyterian Church was organized in 1895, regular services here were in Welsh. Salem Presbyterian Church was built in 1898. Its annual reports were printed in Welsh until 1917. The Gymanfa Ganu, the Welsh hymn sing, is still one of the biggest days in town. The descendants kept the language in the church after the swamp was gone.",
+    long: "",
+    names: ["Salem Presbyterian Church", "Gymanfa Ganu"]
+  },
+  {
+    id: "venedocia-wayne",
+    name: "Anthony Wayne",
+    lat: 40.7850,
+    lng: -84.4558,
+    radius: 600,
+    short: "Ohio historical marker 3-81 stands in Venedocia. One side shows the route of the U.S. Legion under Major General Anthony Wayne as it marched across what became Van Wert County. The other side is the Welsh village. The marker was put up in 1998. It records a march, not a battle fought on these lots.",
+    long: "",
+    names: ["Anthony Wayne", "Van Wert County"]
+  },
+  {
+    id: "venedocia-gaps",
+    name: "Venedocia",
+    lat: 40.7850,
+    lng: -84.4558,
+    radius: 500,
+    short: "No battlefield is documented inside the village. The canal brought the families. It did not run through this plat. The pins here are the 1848 settlement, the 1898 church, and Wayne's route across the county. Venedocia is a Welsh town of 140 people on the edge of the Black Swamp.",
+    long: "",
+    names: ["Venedocia", "Anthony Wayne"]
+  },
 
 ];
 

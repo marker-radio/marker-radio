@@ -42581,6 +42581,58 @@ const STORIES = [
     long: "",
     names: ["Columbus Grove", "Grover Cleveland"]
   },
+ {
+    id: "approach-decatur-in",
+    name: "Decatur",
+    lat: 40.8286,
+    lng: -84.9278,
+    radius: 5000,
+    layer: "approach",
+    short: "You are coming up on Decatur, Indiana, the seat of Adams County, on the St. Marys River. Samuel Rugg founded it in 1836 and named it for the Navy captain Stephen Decatur. The 2020 count was 9,913.",
+    long: "",
+    names: ["Decatur", "Stephen Decatur", "Samuel Rugg"]
+  },
+  {
+    id: "decatur-in-founding",
+    name: "Decatur",
+    lat: 40.8286,
+    lng: -84.9278,
+    radius: 800,
+    short: "The first settlers who were not Native arrived in 1835. They were New England people, come west after the Black Hawk War and after the Erie Canal had opened the road. Samuel Rugg founded Decatur in 1836. He named it for Stephen Decatur Jr., a captain of one of the original six frigates of the United States Navy. A post office opened in 1837. The town was incorporated in 1853.",
+    long: "",
+    names: ["Samuel Rugg", "Stephen Decatur"]
+  },
+  {
+    id: "decatur-in-seat",
+    name: "Adams County Courthouse",
+    lat: 40.8286,
+    lng: -84.9278,
+    radius: 500,
+    short: "Adams County was organized in 1836 and named for John Quincy Adams. Decatur was chosen the county seat that same year. The town sits on the St. Marys River, in Root and Washington townships. It is the largest place in the county.",
+    long: "",
+    names: ["John Quincy Adams", "St. Marys River"]
+  },
+  {
+    id: "decatur-in-anspaugh",
+    name: "Decatur",
+    lat: 40.8286,
+    lng: -84.9278,
+    radius: 700,
+    short: "David Anspaugh was born in Decatur in 1946. He directed Hoosiers and Rudy. Both films are about Indiana. The town that named itself for a Navy captain later sent a director out to film the state.",
+    long: "",
+    names: ["David Anspaugh"]
+  },
+  {
+    id: "decatur-in-gaps",
+    name: "Decatur",
+    lat: 40.8286,
+    lng: -84.9278,
+    radius: 900,
+    short: "These sources do not name a battlefield in the plat, and they do not name the railroad. The pins are a New England founding, a Navy captain's name, a county seat on the St. Marys, and the man who filmed Hoosiers. Decatur is the Adams County seat.",
+    long: "",
+    names: ["Decatur", "Stephen Decatur", "David Anspaugh"]
+  },
+
 
 
 ];

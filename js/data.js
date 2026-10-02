@@ -40829,6 +40829,58 @@ const STORIES = [
     long: "",
     names: ["St. Joseph River", "Antwerp"]
   },
+  {
+    id: "approach-townley",
+    name: "Townley",
+    lat: 41.0000,
+    lng: -84.8640,
+    radius: 8000,
+    layer: "approach",
+    short: "You are coming up on the crossroads where Townley stood, State Road 101 and the Lincoln Highway, just north of Monroeville. On Palm Sunday, March 28, 1920, a tornado wiped the village out. It never came back. If you pass the corner, I'll tell you what was lost.",
+    long: "",
+    names: ["Townley", "Lincoln Highway", "State Road 101"]
+  },
+  {
+    id: "townley-crossroads",
+    name: "Townley",
+    lat: 41.0000,
+    lng: -84.8640,
+    radius: 1600,
+    short: "Townley was a small crossroads in Jackson Township, Allen County, where State Road 101 met the Lincoln Highway. That road is U.S. 30 now. Monroeville sits just south of here, on the Maumee. Townley was the corner north of town. There is no state marker. The place itself is the pin.",
+    long: "",
+    names: ["Townley", "Jackson Township", "Lincoln Highway"]
+  },
+  {
+    id: "townley-tornado",
+    name: "Townley tornado",
+    lat: 41.0000,
+    lng: -84.8640,
+    radius: 1600,
+    short: "Palm Sunday, March 28, 1920. A tornado later rated F4 hit this corner. It wiped out the school, the church, the general store, and the houses. About a hundred buildings came down. Four people died. Townley never rebuilt. Drivers still use the name for the crossroads, but the village is gone.",
+    long: "",
+    names: ["Townley", "Palm Sunday 1920"]
+  },
+  {
+    id: "townley-fluttrow",
+    name: "August Fluttrow",
+    lat: 41.0000,
+    lng: -84.8640,
+    radius: 1200,
+    short: "August Fluttrow managed the general store at Townley. The Allen County record of the storm says he was killed near the big tree. He is the name this corner still has. The store went down with the church and the school.",
+    long: "",
+    names: ["August Fluttrow"]
+  },
+  {
+    id: "townley-gaps",
+    name: "Townley",
+    lat: 41.0000,
+    lng: -84.8640,
+    radius: 1200,
+    short: "No fort, no battlefield, and no town park stood here. No documented Native village sits on this corner. The Maumee, and the Miami road along it, is the Monroeville story just south of you. Townley's story is the tornado, and the fact that the town did not come back.",
+    long: "",
+    names: ["Maumee River", "Monroeville"]
+  },
+
 
 
   

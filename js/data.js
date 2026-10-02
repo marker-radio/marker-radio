@@ -41114,6 +41114,77 @@ const STORIES = [
     long: "",
     names: ["Ottawa", "Nickel Plate", "Mary Rice"]
   },
+  {
+    id: "approach-arcola",
+    name: "Arcola",
+    lat: 41.1038,
+    lng: -85.2886,
+    radius: 4000,
+    layer: "approach",
+    short: "You are coming up on Arcola, Indiana, on Arcola Road in Lake Township, west of Fort Wayne. A county marker says this crossroads was platted in 1866 beside a sawmill and a railroad. The 2020 count was 33 people. The battle in the name was not fought here.",
+    long: "",
+    names: ["Arcola", "Arcola Road"]
+  },
+  {
+    id: "arcola-marker",
+    name: "Arcola marker",
+    lat: 41.1038,
+    lng: -85.2886,
+    radius: 500,
+    short: "The Allen County-Fort Wayne Historical Society marker stands on Arcola Road. It says Benjamin Meiser, John L. Peabody, and Patrick Ney platted the town in 1866. The crossroads sat beside the Peabody Steam Sawmill, from 1853, and the Fort Wayne and Chicago Railroad, from 1855. That is the official pin.",
+    long: "",
+    names: ["Benjamin Meiser", "John L. Peabody", "Patrick Ney"]
+  },
+  {
+    id: "arcola-mill",
+    name: "Peabody Steam Sawmill",
+    lat: 41.1038,
+    lng: -85.2886,
+    radius: 600,
+    short: "The sawmill came before the town. John L. Peabody's steam sawmill was here in 1853. The plat of 1866 was laid out next to it. Timber was the first industry. The lots followed the mill, not the other way around.",
+    long: "",
+    names: ["John L. Peabody", "Peabody Steam Sawmill"]
+  },
+  {
+    id: "arcola-rail",
+    name: "Fort Wayne and Chicago Railroad",
+    lat: 41.1038,
+    lng: -85.2886,
+    radius: 700,
+    short: "The Fort Wayne and Chicago Railroad reached this crossroads in 1855. Arcola became a station for farm products. The marker puts the railroad and the sawmill on the same corner. The tracks are why a plat was worth drawing.",
+    long: "",
+    names: ["Fort Wayne and Chicago Railroad"]
+  },
+  {
+    id: "arcola-name",
+    name: "Taw-Taw",
+    lat: 41.1038,
+    lng: -85.2886,
+    radius: 600,
+    short: "The post office here was called Taw-Taw. In 1858 the name was changed to Arcola. That name remembers the Battle of Arcola, Napoleon's fight with the Austrians in Italy in 1796. Nothing like that happened on Arcola Road. The old post office name is the local clue. The new name came from a book.",
+    long: "",
+    names: ["Taw-Taw", "Battle of Arcola", "Napoleon"]
+  },
+  {
+    id: "arcola-school",
+    name: "Arcola School",
+    lat: 41.1038,
+    lng: -85.2886,
+    radius: 600,
+    short: "Arcola had a high school. Grades one through twelve used one building. That building is an elementary school now. The town also has a volunteer fire department. Once a year the Arcola tractor pull takes over the crossroads. That is the living local tradition. The station town became a bedroom of Fort Wayne.",
+    long: "",
+    names: ["Arcola High School", "Arcola tractor pull"]
+  },
+  {
+    id: "arcola-gaps",
+    name: "Arcola",
+    lat: 41.1038,
+    lng: -85.2886,
+    radius: 700,
+    short: "No battlefield and no canal sit in this plat. The only battle in the story was fought in Italy. No documented Native village is on the 1866 lots. This is Miami country west of Kekionga, and Taw-Taw is the name the post office used before Arcola. The pin on the ground is the county marker, the mill, and the railroad.",
+    long: "",
+    names: ["Taw-Taw", "Miami", "Kekionga"]
+  },
 
 
 

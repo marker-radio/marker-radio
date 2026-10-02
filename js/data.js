@@ -43568,7 +43568,130 @@ const STORIES = [
     long: "",
     names: ["Hugo Fox", "Janie Fricke", "Jennie Bain Wilson"]
   },
-
+  {
+    id: "approach-spencerville-oh",
+    name: "Spencerville",
+    lat: 40.7081,
+    lng: -84.3528,
+    radius: 6000,
+    layer: "approach",
+    short: "You are coming up on Spencerville, Ohio, in Spencer Township, Allen County. Not the Spencerville in Indiana. This one was platted in 1844 when the Miami and Erie Canal got here, and named for William Spencer, who helped plan the canal. Two miles south is the Deep Cut, a National Historic Landmark. The 2020 count was 2,198.",
+    long: "",
+    names: ["Spencerville", "William Spencer"]
+  },
+  {
+    id: "spencerville-oh-canal",
+    name: "Acadia",
+    lat: 40.7081,
+    lng: -84.3528,
+    radius: 800,
+    short: "Spencerville was platted in 1844 on the Miami and Erie Canal. An early name was Acadia. A post office under that name opened in 1854 and became Spencerville in 1867. Lock 16, west of the water tower, was built of white oak. Floods in 1904 and 1913 wrecked the canal as a road. The spillway still turned a mill until 1940. Kathy Krendl, later president of Otterbein University, is from here.",
+    long: "",
+    names: ["Miami and Erie Canal", "Acadia"]
+  },
+  {
+    id: "spencerville-deep-cut",
+    name: "Deep Cut",
+    lat: 40.6875,
+    lng: -84.3653,
+    radius: 900,
+    short: "Two miles south of Spencerville, on State Route 66, the canal had to cross a ridge between the St. Marys and the Auglaize. Instead of a flight of locks, crews dug a cut 6,600 feet long and as deep as 52 feet into blue clay. Local men, convicts, and Irish immigrants did the work between 1825 and 1845. The Deep Cut was named a National Historic Landmark in 1964. Johnny Appleseed Metro Parks and the Heritage Trails Park District keep it as Deep Cut Historical Park.",
+    long: "",
+    names: ["Deep Cut", "Miami and Erie Canal"]
+  },
+  {
+    id: "approach-swanton",
+    name: "Swanton",
+    lat: 41.5831,
+    lng: -83.8800,
+    radius: 6000,
+    layer: "approach",
+    short: "You are coming up on Swanton, on Swan Creek, split between Fulton and Lucas counties. A post office has been here since 1827. A Swanton shop invented a valve gear that ended up on steam locomotives all over the country. Oak Openings starts at the edge of town. The 2020 count was 3,897.",
+    long: "",
+    names: ["Swanton", "Swan Creek"]
+  },
+  {
+    id: "swanton-baker",
+    name: "Baker valve gear",
+    lat: 41.5831,
+    lng: -83.8800,
+    radius: 800,
+    short: "The A. D. Baker Company in Swanton built steam traction engines. A Baker employee named Gifford had an idea for a better valve gear. It was patented in 1903 and then built by the Pilliod Company, another Swanton shop. Baker valve gear ran on American steam locomotives through the first half of the twentieth century. A main line between the Midwest and the East Coast still crosses Main Street. On June 6, 2019, a car left on those tracks derailed a train and cut the town's power.",
+    long: "",
+    names: ["A. D. Baker Company", "Pilliod Company", "Baker valve gear"]
+  },
+  {
+    id: "swanton-parks",
+    name: "Oak Openings",
+    lat: 41.5831,
+    lng: -83.8800,
+    radius: 1500,
+    short: "Swan Creek and the oak openings were the land before the post office. Oak Openings Preserve Metropark reaches into the village, including the Cannaley Treehouse Village. Memorial Park, on land given by the McNeill family, has E. M. Viquesney's Spirit of the American Doughboy, put up in 1926. Ai Creek runs through the park. Pilliod Park, by the library, keeps a red caboose. On February 15, 1992, Air Transport International Flight 805 crashed in Swanton. All four people on board were killed.",
+    long: "",
+    names: ["Oak Openings", "Spirit of the American Doughboy"]
+  },
+  {
+    id: "swanton-people",
+    name: "Swanton people",
+    lat: 41.5831,
+    lng: -83.8800,
+    radius: 800,
+    short: "Roy Beecher pitched in the major leagues. Emerson Cole played in the NFL. So did Karl Koepfer. Richard B. McQuade Jr. became a federal judge. Paul Schudel coached college football. No battlefield is documented in the village. The pins are the creek, the valve gear, the doughboy, and the oak openings.",
+    long: "",
+    names: ["Roy Beecher", "Emerson Cole"]
+  },
+  {
+    id: "approach-vera-cruz",
+    name: "Vera Cruz",
+    lat: 40.7017,
+    lng: -85.0794,
+    radius: 5000,
+    layer: "approach",
+    short: "You are coming up on Vera Cruz, in Harrison Township, Wells County, Indiana. It was laid out on September 21, 1848, as Newville, then renamed for Veracruz, Mexico, the port American troops had taken the year before. It lost the county seat to Bluffton. The 2020 count was 72.",
+    long: "",
+    names: ["Vera Cruz", "Newville"]
+  },
+  {
+    id: "vera-cruz-founding",
+    name: "Newville",
+    lat: 40.7017,
+    lng: -85.0794,
+    radius: 600,
+    short: "Vera Cruz was platted as Newville. The post office made them change it, because DeKalb County already had a Newville. They took the name of Veracruz. A post office opened in 1850 and closed in 1942. When Wells County picked a county seat, Newville and Bluffton were about the same size. Bluffton won, mostly because it sat nearer the middle of the county. In 1880 this town had 260 people. No canal, railroad station, or battlefield is documented on the plat. The pin is a war the town was named for and a county seat it did not get.",
+    long: "",
+    names: ["Vera Cruz", "Bluffton"]
+  },
+  {
+    id: "approach-west-leipsic",
+    name: "West Leipsic",
+    lat: 41.1053,
+    lng: -83.9994,
+    radius: 5000,
+    layer: "approach",
+    short: "You are coming up on West Leipsic, in Putnam County. Do not mix it up with Leipsic next door. This plat, in 1852, was the one called Leipsic. The neighbor was called Roanoke, and later took the name. The 2020 count was 226.",
+    long: "",
+    names: ["West Leipsic", "Leipsic"]
+  },
+  {
+    id: "west-leipsic-name",
+    name: "Leipsic",
+    lat: 41.1053,
+    lng: -83.9994,
+    radius: 600,
+    short: "When it was platted in 1852, West Leipsic was simply Leipsic, the English spelling of Leipzig. The village beside it was Roanoke. That neighbor became Leipsic, and this one became West Leipsic. It incorporated in 1882. In 1890 the count was 502. The village hall is on Main Street. The railroad junction, and the story about John Dillinger, belong to the other Leipsic, not this one.",
+    long: "",
+    names: ["Leipzig", "Roanoke"]
+  },
+  {
+    id: "west-leipsic-depot",
+    name: "West Leipsic depot",
+    lat: 41.1045,
+    lng: -83.9969,
+    radius: 400,
+    short: "A combination depot stood at Werner Street and Main Street, on the south side of the tracks. Later accounts say that whatever it started as, it mostly served a poultry farm. No battlefield or state park is documented on the 1852 plat. The pin is a name the town next door took, and a small station that outlived the passengers.",
+    long: "",
+    names: ["West Leipsic"]
+  },
 
 
 ];

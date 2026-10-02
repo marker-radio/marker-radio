@@ -43239,7 +43239,119 @@ const STORIES = [
     long: "",
     names: ["Peter Diller", "Oscar Velasquez"]
   },
-  
+   {
+    id: "approach-grand-rapids-oh",
+    name: "Grand Rapids",
+    lat: 41.4069,
+    lng: -83.8736,
+    radius: 6000,
+    layer: "approach",
+    short: "You are coming up on Grand Rapids, Ohio, in Wood County, on the Maumee River. Not the Grand Rapids in Michigan. This one was platted in 1833 as Gilead. The town blew up a state dam, got a side-cut canal, and took the name Grand Rapids in 1855. The 2020 count was 925.",
+    long: "",
+    names: ["Grand Rapids", "Gilead"]
+  },
+  {
+    id: "grand-rapids-gilead",
+    name: "Gilead",
+    lat: 41.4069,
+    lng: -83.8736,
+    radius: 800,
+    short: "Grand Rapids was platted in 1833 as Gilead, on the Maumee. A post office called Gilead opened in 1837 and took the name Grand Rapids in 1868. The Maumee was a Native road and a fishery long before the plat. No village site is documented on the 1833 lots. The river is the pin.",
+    long: "",
+    names: ["Gilead", "Maumee River"]
+  },
+  {
+    id: "grand-rapids-dam",
+    name: "Gilead Side Cut",
+    lat: 41.4069,
+    lng: -83.8736,
+    radius: 800,
+    short: "In the 1840s Ohio was short of water for the Miami and Erie Canal. In 1845 the state built a large dam across the Maumee at Gilead. It choked the water power at the mill, and one night the town destroyed the dam. The compromise was the Gilead Side Cut, a short canal into the main line, and a replacement dam. The canal port boomed and was incorporated as Grand Rapids in 1855.",
+    long: "",
+    names: ["Gilead Side Cut", "Miami and Erie Canal"]
+  },
+  {
+    id: "grand-rapids-park",
+    name: "Mary Jane Thurston State Park",
+    lat: 41.4069,
+    lng: -83.8736,
+    radius: 1500,
+    short: "Mary Jane Thurston was a schoolteacher in Grand Rapids. In 1928 she left 14 acres for a park. The state kept adding land for 40 years. Mary Jane Thurston State Park opened in 1968, about a mile west of town, 105 acres on the south bank of the Maumee, in Wood and Henry counties. The old canal bed is still in the park. In February 1959 an ice jam flooded the village and drove 130 people out.",
+    long: "",
+    names: ["Mary Jane Thurston", "Mary Jane Thurston State Park"]
+  },
+  {
+    id: "grand-rapids-people",
+    name: "Grand Rapids people",
+    lat: 41.4069,
+    lng: -83.8736,
+    radius: 700,
+    short: "Edward Byers, a Medal of Honor recipient, is from Grand Rapids. So is Dominick Labino, a glass researcher and artist. LaRoe's Restaurant is one of the oldest businesses still downtown. No battlefield is documented in the village. Fallen Timbers is downriver, not here.",
+    long: "",
+    names: ["Edward Byers", "Dominick Labino"]
+  },
+  {
+    id: "approach-larwill",
+    name: "Larwill",
+    lat: 41.1797,
+    lng: -85.6250,
+    radius: 5000,
+    layer: "approach",
+    short: "You are coming up on Larwill, in Richland Township, Whitley County, Indiana. It was laid out on November 13, 1854, as Huntsville, on the Pittsburgh, Fort Wayne and Chicago Railroad. In 1866 it was renamed for the two engineers who built that piece of track. The 2020 count was 273.",
+    long: "",
+    names: ["Larwill", "Huntsville"]
+  },
+  {
+    id: "larwill-founding",
+    name: "Huntsville",
+    lat: 41.1799,
+    lng: -85.6256,
+    radius: 700,
+    short: "Larwill sits at the corners of four farms: Henry McLallen, Jesse S. Perrin, Thomas J. Hammontree, and Truman Hunt. It was platted as Huntsville on November 13, 1854, beside the Pittsburgh, Fort Wayne and Chicago. On March 8, 1866, the name changed to Larwill, for William and Joseph Larwill, the resident engineers from Columbia City to Warsaw. A 1964 marker on Center Street, State Road 5, tells that story. The post office opened in 1866 and closed in 2024.",
+    long: "",
+    names: ["William Larwill", "Joseph Larwill", "Pittsburgh, Fort Wayne and Chicago Railroad"]
+  },
+  {
+    id: "larwill-souder",
+    name: "Dr. Christopher Souder House",
+    lat: 41.1797,
+    lng: -85.6250,
+    radius: 500,
+    short: "The Dr. Christopher Souder House was listed on the National Register of Historic Places in 2005. Jill Long Thompson, a former member of Congress and a candidate for governor of Indiana, is from Larwill. No battlefield or state park is documented on the four farms. This is Miami country. The pins are the railroad, the engineers' name, and the doctor's house.",
+    long: "",
+    names: ["Christopher Souder", "Jill Long Thompson"]
+  },
+  {
+    id: "approach-lyons-oh",
+    name: "Lyons",
+    lat: 41.7003,
+    lng: -84.0717,
+    radius: 5000,
+    layer: "approach",
+    short: "You are coming up on Lyons, Ohio, in Royalton Township, Fulton County. Not a Lyons in any other state. It started as Morey's Corners in 1850, when a plank road reached Jinks Morey's land. The 2020 count was 602.",
+    long: "",
+    names: ["Lyons", "Morey's Corners", "Jinks Morey"]
+  },
+  {
+    id: "lyons-founding",
+    name: "Morey's Corners",
+    lat: 41.7003,
+    lng: -84.0717,
+    radius: 700,
+    short: "A post office called Lyons has been open since 1837. The village itself started in 1850 as Morey's Corners, when the plank road was finished to that point. Jinks Morey was the founder, and the corners were named for him. The village incorporated in 1900. No railroad station and no battlefield turned up for this plat. The road is the pin.",
+    long: "",
+    names: ["Jinks Morey", "Morey's Corners"]
+  },
+  {
+    id: "lyons-church",
+    name: "First Universalist Church",
+    lat: 41.6997,
+    lng: -84.0693,
+    radius: 400,
+    short: "The First Universalist Church stands at 145 East Morenci Street. Jinks Morey, a Universalist, gave the land. The congregation gathered in 1852. The church was dedicated on October 18, 1868, and renovated and rededicated on December 4, 1904. It is the oldest non-residential building in Royalton Township still on its original site.",
+    long: "",
+    names: ["First Universalist Church", "Jinks Morey"]
+  },
 
 
 ];

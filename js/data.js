@@ -42632,6 +42632,57 @@ const STORIES = [
     long: "",
     names: ["Decatur", "Stephen Decatur", "David Anspaugh"]
   },
+{
+    id: "approach-howe",
+    name: "Howe",
+    lat: 41.7228,
+    lng: -85.4256,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Howe, Indiana, in Lima Township, LaGrange County. It was settled in 1834 as Mongoquinong, then called Lima, then Howe. The military school opened in 1884 and closed in 2019. The 2020 count was 610.",
+    long: "",
+    names: ["Howe", "Mongoquinong", "Lima"]
+  },
+  {
+    id: "howe-names",
+    name: "Mongoquinong",
+    lat: 41.7228,
+    lng: -85.4256,
+    radius: 500,
+    short: "Howe was settled in 1834. The first name was Mongoquinong, the Potawatomi name for this prairie. It was soon renamed Lima, and for a time Lima was the county seat. Later it was renamed for John B. Howe, a lawyer in the town. Three names, one plat.",
+    long: "",
+    names: ["Mongoquinong", "Lima", "John B. Howe"]
+  },
+  {
+    id: "howe-academy",
+    name: "Howe Military Academy",
+    lat: 41.7244,
+    lng: -85.4233,
+    radius: 600,
+    short: "Howe Grammar School opened in 1884 to prepare young men for the Episcopal priesthood. John Badlam Howe had died in 1883 and left $10,000. His widow, Frances Marie Glidden Howe, and the bishop of Indiana raised that to $50,000. The school became Howe Military Academy. It closed after the 2018 to 2019 year.",
+    long: "",
+    names: ["John Badlam Howe", "Frances Marie Glidden Howe", "Howe Military Academy"]
+  },
+  {
+    id: "howe-register",
+    name: "St. James Memorial Chapel",
+    lat: 41.7244,
+    lng: -85.4233,
+    radius: 400,
+    short: "Four places in Howe are on the National Register. The John Badlam Howe Mansion was the military school's rectory. St. James Memorial Chapel stands on the old campus. Lima Township School is here. So is the Star Milling and Electric Company Historic District. The mill and the chapel are the buildings that outlasted the school.",
+    long: "",
+    names: ["St. James Memorial Chapel", "John Badlam Howe", "Star Milling and Electric Company"]
+  },
+  {
+    id: "howe-gaps",
+    name: "Howe",
+    lat: 41.7228,
+    lng: -85.4256,
+    radius: 700,
+    short: "No canal and no battlefield are documented in this plat. The pins are a Potawatomi prairie name, a lost county seat called Lima, and a military school that ran from 1884 to 2019. Howe is Mongoquinong after two renamings.",
+    long: "",
+    names: ["Howe", "Mongoquinong", "Lima"]
+  },
 
 
 

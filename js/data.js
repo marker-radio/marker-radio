@@ -43003,6 +43003,109 @@ const STORIES = [
     long: "",
     names: ["Barbee"]
   },
+  {
+    id: "approach-belmore",
+    name: "Belmore",
+    lat: 41.1548,
+    lng: -83.9417,
+    radius: 5000,
+    layer: "approach",
+    short: "You are coming up on Belmore, in Putnam County. It was platted in 1862 as Montgomeryville. The post office had already been called Belmore since 1856, and that name won. The 2020 count was 65.",
+    long: "",
+    names: ["Belmore", "Montgomeryville"]
+  },
+  {
+    id: "belmore-founding",
+    name: "Montgomeryville",
+    lat: 41.1548,
+    lng: -83.9417,
+    radius: 700,
+    short: "Belmore was platted in 1862 under the name Montgomeryville. A post office called Belmore had opened in 1856, before the plat. The two names overlapped until the post office name stuck. The village incorporated in 1882. The post office closed in 1964. From 445 people in 1880, the 2020 count was 65.",
+    long: "",
+    names: ["Belmore", "Montgomeryville"]
+  },
+  {
+    id: "belmore-gaps",
+    name: "Belmore",
+    lat: 41.1548,
+    lng: -83.9417,
+    radius: 700,
+    short: "No canal, battlefield, or state park is documented in this plat. The Belmore Ridge you may hear about near Ridgeville Corners is a different place. This village is the railroad-era plat that shrank. That is the story.",
+    long: "",
+    names: ["Belmore"]
+  },
+  {
+    id: "approach-cairo-oh",
+    name: "Cairo",
+    lat: 40.8308,
+    lng: -84.0845,
+    radius: 5000,
+    layer: "approach",
+    short: "You are coming up on Cairo, Ohio, in Allen County. Not Cairo, Egypt, and not a Cairo in any other state. It was platted in 1848 as West Cairo. The old Lincoln Highway ran through town on what is now the old route of U.S. 30. The 2020 count was 517.",
+    long: "",
+    names: ["Cairo", "West Cairo"]
+  },
+  {
+    id: "cairo-founding",
+    name: "West Cairo",
+    lat: 40.8308,
+    lng: -84.0845,
+    radius: 800,
+    short: "Cairo was platted in 1848 as West Cairo. A post office under that name opened in 1852. The post office dropped the West and became Cairo in 1922. It sits where the old east-west Lincoln Highway crossed State Route 65, the Ottawa Road. In the 1970s, U.S. 30 was rebuilt about a mile south of town.",
+    long: "",
+    names: ["Cairo", "West Cairo", "Lincoln Highway"]
+  },
+  {
+    id: "cairo-people",
+    name: "Minnie Hartness",
+    lat: 40.8308,
+    lng: -84.0845,
+    radius: 700,
+    short: "Minnie Hartness, born in 1867 and died in 1957, was from Cairo. She worked as a stenographer, writer, and lecturer. Gomer is about five miles west on the old Lincoln Highway. Beaverdam is about six miles east. No battlefield or Native village is documented on this plat.",
+    long: "",
+    names: ["Minnie Hartness", "Cairo"]
+  },
+  {
+    id: "approach-cromwell",
+    name: "Cromwell",
+    lat: 41.4033,
+    lng: -85.6143,
+    radius: 5000,
+    layer: "approach",
+    short: "You are coming up on Cromwell, in Sparta Township, Noble County, Indiana. Harrison Wood laid it out in 1853 and named it for Oliver Cromwell. The downtown historic district went on the National Register in 2015. The 2020 count was 487.",
+    long: "",
+    names: ["Cromwell", "Harrison Wood", "Oliver Cromwell"]
+  },
+  {
+    id: "cromwell-founding",
+    name: "Harrison Wood",
+    lat: 41.4033,
+    lng: -85.6143,
+    radius: 700,
+    short: "Cromwell was laid out in 1853 by Harrison Wood, who named it because he admired the Englishman Oliver Cromwell. A post office has been here since 1851. The town incorporated in 1906. In 1911 Main Street was still dirt. The first paved street came in 1925. State Road 5 runs through the downtown.",
+    long: "",
+    names: ["Harrison Wood", "Oliver Cromwell", "Cromwell"]
+  },
+  {
+    id: "cromwell-district",
+    name: "Cromwell Historic District",
+    lat: 41.4033,
+    lng: -85.6143,
+    radius: 600,
+    short: "The Cromwell Historic District was listed on the National Register on September 14, 2015. It covers about 7 acres along Jefferson Street, between 2nd and Orange, with 33 buildings from about 1875 to 1953. Among them are the Sparta State Bank, about 1915, the Knights of Pythias hall from 1910, the Lutheran church from 1910, and Biddle's Bakery from 1925.",
+    long: "",
+    names: ["Cromwell Historic District", "Sparta State Bank"]
+  },
+  {
+    id: "cromwell-river",
+    name: "Elkhart River",
+    lat: 41.4033,
+    lng: -85.6143,
+    radius: 900,
+    short: "Cromwell sits by the Elkhart River in old Potawatomi country. No Native village and no battlefield are documented on the 1853 plat. The pins here are the river, a founder's name, and a downtown that made the National Register.",
+    long: "",
+    names: ["Elkhart River", "Cromwell"]
+  },
 
 
 

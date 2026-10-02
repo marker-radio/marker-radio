@@ -41939,6 +41939,48 @@ const STORIES = [
     long: "",
     names: ["Wawaka", "Ford Frick"]
   },
+  {
+    id: "approach-mongo",
+    name: "Mongo",
+    lat: 41.6842,
+    lng: -85.2783,
+    radius: 2800,
+    layer: "approach",
+    short: "You are coming up on Mongo, Indiana, in Springfield Township, LaGrange County. It was laid out in 1840 as Mongoquinong. The 2010 count was 105. The old store on the highway is on the National Register of Historic Places.",
+    long: "",
+    names: ["Mongo", "Mongoquinong"]
+  },
+  {
+    id: "mongo-name",
+    name: "Mongoquinong",
+    lat: 41.6842,
+    lng: -85.2783,
+    radius: 500,
+    short: "Mongo was laid out in 1840 under the name Mongoquinong. The name was later shortened to Mongo. An 1874 atlas of LaGrange County translated it as Big Squaw Village. Linguists now read it as the Miami-Illinois word maankwahkionka, meaning in the Loon Land. The plat kept a Native place-name after the village was gone.",
+    long: "",
+    names: ["Mongoquinong", "Miami"]
+  },
+  {
+    id: "mongo-store",
+    name: "John O'Ferrell Store",
+    lat: 41.6842,
+    lng: -85.2783,
+    radius: 400,
+    short: "The John O'Ferrell Store stands in Mongo. People also call it the Olde Store and the Mongo Trading Post. It was listed on the National Register of Historic Places in 1975. In a town of about a hundred people, the store is the building that got written down.",
+    long: "",
+    names: ["John O'Ferrell"]
+  },
+  {
+    id: "mongo-gaps",
+    name: "Mongo",
+    lat: 41.6842,
+    lng: -85.2783,
+    radius: 600,
+    short: "No canal and no battlefield are documented in this 1840 plat. The pins are the Native name and the store. Mongo is a shortened word for Loon Land, and a trading post that made the National Register.",
+    long: "",
+    names: ["Mongo", "John O'Ferrell"]
+  },
+
 
 ];
 

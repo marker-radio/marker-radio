@@ -43693,6 +43693,96 @@ const STORIES = [
     names: ["West Leipsic"]
   },
 
+  {
+    id: "lorain-morrison",
+    name: "Toni Morrison",
+    lat: 41.4428,
+    lng: -82.1694,
+    radius: 1000,
+    short: "Toni Morrison was born Chloe Ardelia Wofford in Lorain on February 18, 1931. The house the library marks as her birthplace is 2245 Elyria Avenue. Her first novel, The Bluest Eye, is set in this town. She won the Nobel Prize in Literature in 1993.",
+    long: "",
+    names: ["Toni Morrison", "Chloe Wofford"]
+  },
+  {
+    id: "lorain-king",
+    name: "Ernest J. King",
+    lat: 41.4630,
+    lng: -82.1740,
+    radius: 800,
+    short: "Fleet Admiral Ernest J. King was born in Lorain on November 23, 1878. He finished Lorain High School in 1897. In the Second World War he was Chief of Naval Operations and commanded the largest fleet the country had ever put to sea. His motto was, do all that we can with what we have. Admiral King High School opened in 1961.",
+    long: "",
+    names: ["Ernest J. King"]
+  },
+  {
+    id: "lorain-bridges",
+    name: "Charles Berry Bridge",
+    lat: 41.4698,
+    lng: -82.1754,
+    radius: 700,
+    short: "On October 12, 1940, Lorain opened two bridges over the Black River on the same day. The Erie Avenue Bridge was then the largest bascule bridge in the world. In 1988 it was renamed for Corporal Charles J. Berry. He was born here on July 10, 1923. On Iwo Jima, just after midnight on March 3, 1945, a Japanese grenade landed in his foxhole. He covered it with his body. He was 21. He is buried at Elmwood Cemetery. The destroyer escort Charles Berry was named for him. The other span, the old 21st Street Bridge, is the Lofton Henderson Memorial Bridge.",
+    long: "",
+    names: ["Charles J. Berry", "Lofton Henderson"]
+  },
+  {
+    id: "lorain-henderson",
+    name: "Lofton Henderson",
+    lat: 41.4605,
+    lng: -82.1685,
+    radius: 700,
+    short: "Major Lofton Henderson was born in Lorain on May 24, 1903. On June 4, 1942, at Midway, he led Marine Scout Bombing Squadron 241 against the Japanese carriers. His left wing caught fire as he started the dive toward the carrier Hiryu. He held the dive and died in it. He received the Navy Cross. Henderson Field on Guadalcanal was named for him, and so was Lorain's 21st Street Bridge.",
+    long: "",
+    names: ["Lofton Henderson"]
+  },
+  {
+    id: "lorain-shipyard",
+    name: "American Ship Building",
+    lat: 41.4700,
+    lng: -82.1780,
+    radius: 800,
+    short: "In 1897 the Cleveland Ship Building Company organized on the east bank of the Black River, as lake boats changed from wood to steel. It became part of American Ship Building in 1899. The 1924 tornado tore the yard up. The company stayed and rebuilt. In the Second World War the yard built ships for the Navy, including the Lorain and the Lorain County.",
+    long: "",
+    names: ["American Ship Building"]
+  },
+  {
+    id: "lorain-thew",
+    name: "Thew Shovel",
+    lat: 41.4550,
+    lng: -82.1750,
+    radius: 800,
+    short: "In 1899 Captain Richard Thew, who had commanded a Lake Erie freighter, invented a shovel that could swing a full circle and dig from any side. Thew Shovel became one of Lorain's factories. The first cars rolled out of Ford's Lorain Assembly Plant, on the west side, in 1958. That plant closed in 2005.",
+    long: "",
+    names: ["Richard Thew", "Thew Shovel"]
+  },
+  {
+    id: "lorain-lakeview",
+    name: "Lakeview Park",
+    lat: 41.4715,
+    lng: -82.1860,
+    radius: 800,
+    short: "Lakeview Park opened in 1917, under Mayor Leonard Moore, so the lakefront was not all mills and docks. The rose garden was dedicated in 1932, with 2,500 roses in 48 beds, and restored in 2005. The 1924 tornado came off the lake at the municipal bathhouse in this park. The Lorain West Breakwater Light, the concrete lighthouse, was built in 1917.",
+    long: "",
+    names: ["Lakeview Park"]
+  },
+  {
+    id: "lorain-steel",
+    name: "South Lorain steel",
+    lat: 41.4350,
+    lng: -82.1680,
+    radius: 1500,
+    short: "In 1895 Thomas Johnson fired the furnaces at the new steel mill, and several hundred people came to watch. The mills sat on the south side, United States Steel and Republic. After the First World War the city recruited Mexican workers for the plants. Lorain's International Festival still puts a princess on stage for each heritage in town. The 2020 count was 65,211.",
+    long: "",
+    names: ["Thomas Johnson"]
+  },
+  {
+    id: "lorain-overmyer",
+    name: "Robert Overmyer",
+    lat: 41.4528,
+    lng: -82.1824,
+    radius: 1500,
+    short: "Colonel Robert Overmyer of Lorain was a Marine test pilot and an astronaut. He flew on the space shuttle. Helen Steiner Rice, the greeting-card poet, was born here in 1900. No Native village is documented on the 1834 plat at the river mouth. The Black River was the harbor long before the town. The pins from here are the writer, the admiral, the two bridges, and the mills.",
+    long: "",
+    names: ["Robert Overmyer", "Helen Steiner Rice"]
+  },
 
 ];
 

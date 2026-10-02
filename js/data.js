@@ -42184,6 +42184,67 @@ const STORIES = [
     long: "",
     names: ["LaGrange", "Marquis de Lafayette"]
   },
+ {
+    id: "approach-rockford",
+    name: "Rockford",
+    lat: 40.6948,
+    lng: -84.6487,
+    radius: 3500,
+    layer: "approach",
+    short: "You are coming up on Rockford, Ohio, on the St. Marys River in Mercer County. It began in 1820 as Shanesville. Anthony Wayne built Fort Adams here in 1794, and Johnny Appleseed kept a nursery here in 1828. The 2020 count was 1,051.",
+    long: "",
+    names: ["Rockford", "Anthony Shane", "John Chapman"]
+  },
+  {
+    id: "rockford-shane",
+    name: "Anthony Shane",
+    lat: 40.6948,
+    lng: -84.6487,
+    radius: 600,
+    short: "Anthony Shane was born Antoine Chene, a trader of French and Ottawa ancestry. He interpreted at Fort Defiance in 1795. Congress granted him land in 1814 for scouting for Anthony Wayne, 640 acres north of town and 320 at the site. On June 23, 1820, he filed the plat of Shanesville, 42 lots on the south side of the St. Marys River. His store traded with the Shawnee reservation. He went west when the Shawnee were removed and died in 1834, still their interpreter.",
+    long: "",
+    names: ["Anthony Shane", "Antoine Chene", "Shawnee"]
+  },
+  {
+    id: "rockford-fort-adams",
+    name: "Fort Adams",
+    lat: 40.6948,
+    lng: -84.6487,
+    radius: 700,
+    short: "Before the town, the high ground beside the St. Marys was a Native camp. In 1790 General Josiah Harmar's army passed this way on the march to Kekionga, where he was defeated. In early August 1794 General Anthony Wayne built Fort Adams here, a temporary relay station and supply depot. The fort was a pause on the way to Fallen Timbers, not a battle on this bank.",
+    long: "",
+    names: ["Fort Adams", "Anthony Wayne", "Josiah Harmar"]
+  },
+  {
+    id: "rockford-appleseed",
+    name: "Johnny Appleseed Nursery",
+    lat: 40.6948,
+    lng: -84.6487,
+    radius: 500,
+    short: "On April 29, 1828, John Chapman, known as Johnny Appleseed, leased three acres north and west of town from William Botts Hedges. He paid by growing a thousand apple trees on the ground over the next ten years. Hedges had started as a clerk in Shane's store. He was postmaster, a militia colonel, a commissioner, a justice of the peace, and an associate judge. An Ohio historical marker in Rockford tells both stories.",
+    long: "",
+    names: ["John Chapman", "William Hedges"]
+  },
+  {
+    id: "rockford-names",
+    name: "Rockford",
+    lat: 40.6948,
+    lng: -84.6487,
+    radius: 600,
+    short: "The plat was Shanesville. In 1866 it became Shane's Crossing. In 1890 the Post Office Department renamed it Rockford. The river is the St. Marys. Celina is 12 miles to the southeast. The 2020 count was 1,051.",
+    long: "",
+    names: ["Shanesville", "Shane's Crossing", "Rockford"]
+  },
+  {
+    id: "rockford-gaps",
+    name: "Rockford",
+    lat: 40.6948,
+    lng: -84.6487,
+    radius: 700,
+    short: "Fort Adams was a supply post, not a battlefield left in the village. The pins are Shane's grant, the 1820 plat, Wayne's fort, and an apple nursery of a thousand trees. Rockford is a town that wore three names on one river crossing.",
+    long: "",
+    names: ["Rockford", "Anthony Shane", "John Chapman"]
+  },
 
 ];
 

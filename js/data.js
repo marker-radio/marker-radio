@@ -41470,6 +41470,47 @@ const STORIES = [
     long: "",
     names: ["Port Mitchell", "Camp Mitchell", "Baltimore and Ohio Railroad"]
   },
+  {
+    id: "approach-wolcottville",
+    name: "Wolcottville",
+    lat: 41.5253,
+    lng: -85.3667,
+    radius: 2000,
+    layer: "approach",
+    short: "You are coming up on Wolcottville, Indiana. Rome City and Sylvan Lake are two miles south, and that is a different stop. This town sits in two counties, Noble and LaGrange. A sawmill was here in 1838. The plat came in 1849. The 2020 count was 1,004.",
+    long: "",
+    names: ["Wolcottville", "Rome City"]
+  },
+  {
+    id: "wolcottville-mill",
+    name: "Wolcott sawmill",
+    lat: 41.5253,
+    lng: -85.3667,
+    radius: 700,
+    short: "George Wolcott started a sawmill on this site in 1838. The town was laid out in 1849 and named for him. The west side is Orange Township, Noble County. The east side is Johnson Township, LaGrange County. The county line runs through the plat. The mill came first.",
+    long: "",
+    names: ["George Wolcott", "Orange Township", "Johnson Township"]
+  },
+  {
+    id: "wolcottville-rail",
+    name: "Montpelier and Chicago Railroad",
+    lat: 41.5253,
+    lng: -85.3667,
+    radius: 800,
+    short: "The Montpelier and Chicago Railroad dipped into Noble County at the south edge of Wolcottville. It ran from 1893 to 1981. Later it was the Wabash, and it went on toward South Milford and Topeka. The sawmill made the town. This track was the late arrival.",
+    long: "",
+    names: ["Montpelier and Chicago Railroad", "Wabash Railroad", "South Milford", "Topeka"]
+  },
+  {
+    id: "wolcottville-gaps",
+    name: "Wolcottville",
+    lat: 41.5253,
+    lng: -85.3667,
+    radius: 700,
+    short: "No fort and no battlefield sit in this 1849 plat. The canal reservoir is Sylvan Lake, south of you in Rome City, not here. No documented Native village is on these lots. This is Potawatomi country between the lakes. Wolcottville is a sawmill, a county line, and a railroad that quit in 1981.",
+    long: "",
+    names: ["Sylvan Lake", "Rome City", "Potawatomi"]
+  },
 
   
 ];

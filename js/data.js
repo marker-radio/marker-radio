@@ -41980,6 +41980,58 @@ const STORIES = [
     long: "",
     names: ["Mongo", "John O'Ferrell"]
   },
+  {
+    id: "approach-glandorf",
+    name: "Glandorf",
+    lat: 41.0278,
+    lng: -84.0792,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Glandorf, Ohio, in Putnam County. German Catholics founded it in 1834 and named it for the town they left. St. John the Baptist Church was once the largest Catholic church in Ohio. The 2020 count was 969.",
+    long: "",
+    names: ["Glandorf", "Johann Wilhelm Horstmann"]
+  },
+  {
+    id: "glandorf-founding",
+    name: "Glandorf",
+    lat: 41.0278,
+    lng: -84.0792,
+    radius: 600,
+    short: "Father Johann Wilhelm Horstmann and six other men left Glandorf, Germany, on the ship Columbus on September 7, 1833. They landed in New York on November 6 and bought land in Putnam County that December. In 1834 they founded this town and the first Catholic church in the county. Friedrich Bredeick was one of the six. His family later named the plats that became Delphos.",
+    long: "",
+    names: ["Johann Wilhelm Horstmann", "Friedrich Bredeick"]
+  },
+  {
+    id: "glandorf-log-church",
+    name: "St. John the Baptist",
+    lat: 41.0278,
+    lng: -84.0792,
+    radius: 400,
+    short: "The first church was a log cabin, sixteen by eighteen feet, built in 1834. It was also the school and Father Horstmann's house. A larger hewn-log church was dedicated to St. John the Baptist in 1837. Horstmann died on February 21, 1843, and left his land to the community. He is buried in the pioneer cemetery beside the church.",
+    long: "",
+    names: ["Johann Wilhelm Horstmann", "St. John the Baptist"]
+  },
+  {
+    id: "glandorf-church-1878",
+    name: "St. John the Baptist Catholic Church",
+    lat: 41.0278,
+    lng: -84.0792,
+    radius: 400,
+    short: "The church that stands at State Route 694 and Main Street was built in 1875 and dedicated in 1878. Cudell and Richardson designed it. It was the largest Roman Catholic church in Ohio at the time. The National Register of Historic Places listed it in 1977. A fire in 1992 did 1.2 million dollars in damage inside. The parish opened a museum of the church and the town in 2015.",
+    long: "",
+    names: ["St. John the Baptist Catholic Church", "Cudell and Richardson"]
+  },
+  {
+    id: "glandorf-gaps",
+    name: "Glandorf",
+    lat: 41.0278,
+    lng: -84.0792,
+    radius: 700,
+    short: "No battlefield is documented in this 1834 village. The pin is the German Catholic settlement and the church that outgrew a log cabin. Glandorf is a town named for the town the founders left, and a graveyard beside the door.",
+    long: "",
+    names: ["Glandorf", "Johann Wilhelm Horstmann"]
+  },
+
 
 
 ];

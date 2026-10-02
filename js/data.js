@@ -43783,6 +43783,170 @@ const STORIES = [
     long: "",
     names: ["Robert Overmyer", "Helen Steiner Rice"]
   },
+  {
+    id: "approach-columbus",
+    name: "Columbus",
+    lat: 39.9612,
+    lng: -82.9988,
+    radius: 12000,
+    layer: "approach",
+    short: "You are coming up on Columbus, the state capital, on the Scioto. Franklinton, the older town, is on the west bank. The 1913 flood killed 93 people there. Camp Chase, the Civil War prison cemetery, is on that side too. The 2020 count was 905,748. If you drive in, I'll start at the river.",
+    long: "",
+    names: ["Columbus"]
+  },
+  {
+    id: "columbus-woody-hayes",
+    name: "Woody Hayes",
+    lat: 40.0017,
+    lng: -83.0197,
+    radius: 700,
+    short: "Woody Hayes was born in Clifton, Ohio, in 1913. He coached Ohio State from 1951 to 1978 and won five national titles. He was fired after he punched a player in the 1978 Gator Bowl. He died in 1987 and is buried at Union Cemetery in Columbus. The Horseshoe is the pin.",
+    long: "",
+    names: ["Woody Hayes"]
+  },
+  {
+    id: "columbus-sells-circus",
+    name: "Sells Brothers Circus",
+    lat: 39.9900,
+    lng: -83.0200,
+    radius: 800,
+    short: "In 1872 the Sells brothers of Columbus put a circus on the road. Ephraim, Allen, Lewis, and Peter. Winter quarters were at Sellsville, on the northwest side along the Olentangy. For a while it was one of the biggest shows in the country. The neighborhood grew over the circus grounds. This is not John Sells of Dublin. Different man.",
+    long: "",
+    names: ["Sells Brothers", "Sellsville"]
+  },
+  {
+    id: "columbus-camp-bushnell",
+    name: "Camp Bushnell",
+    lat: 39.9970,
+    lng: -82.9900,
+    radius: 700,
+    short: "In 1898, for the Spanish-American War, Ohio mustered its troops at the state fairgrounds. They named the camp for Governor Asa Bushnell. The Ohio Expo Center is that ground now. No battle was fought here. The pin is a war the city sent men to.",
+    long: "",
+    names: ["Camp Bushnell", "Asa Bushnell"]
+  },
+  {
+    id: "columbus-asylum",
+    name: "Ohio Lunatic Asylum",
+    lat: 39.9635,
+    lng: -82.9780,
+    radius: 800,
+    short: "The Ohio Lunatic Asylum opened on East Broad Street in 1838. It was the state's first hospital of its kind. On November 18, 1868, the building burned. The state rebuilt the hospital on the west side of the river. That later complex is gone too. The pin is the first one, and the fire.",
+    long: "",
+    names: ["Ohio Lunatic Asylum"]
+  },
+  {
+    id: "columbus-curtiss-wright",
+    name: "Curtiss-Wright",
+    lat: 39.9820,
+    lng: -82.9050,
+    radius: 800,
+    short: "In the Second World War, Curtiss-Wright built a plant beside Port Columbus and turned out the Helldiver dive bomber for the Navy. For those years it was one of the biggest payrolls in the city. The war ended and the lines stopped. The airport is still the pin.",
+    long: "",
+    names: ["Curtiss-Wright", "Helldiver"]
+  },
+  {
+    id: "columbus-lady-in-gray",
+    name: "Woman in Gray",
+    lat: 39.9444,
+    lng: -83.0764,
+    radius: 500,
+    short: "People at Camp Chase say a woman in gray still visits a Louisiana soldier's grave. Nothing in the record proves her. The stone arch and more than 2,200 graves are the fact. The woman is the story the west side tells.",
+    long: "",
+    names: ["Camp Chase"]
+  },
+  {
+    id: "columbus-granville-woods",
+    name: "Granville T. Woods",
+    lat: 39.9612,
+    lng: -82.9988,
+    radius: 600,
+    short: "Granville T. Woods was born in Columbus on April 23, 1856. He invented a railway telegraph that let a moving train talk to the station. He held dozens of patents on electrical machines. He died in New York in 1910. No house of his is marked here. The city is the pin.",
+    long: "",
+    names: ["Granville T. Woods"]
+  },
+
+  {
+    id: "approach-columbus",
+    name: "Columbus",
+    lat: 39.9612,
+    lng: -82.9988,
+    radius: 12000,
+    layer: "approach",
+    short: "You are coming up on Columbus, the state capital, on the Scioto. Franklinton, the older town, is on the west bank. The 1913 flood killed 93 people there. Camp Chase, the Civil War prison cemetery, is on that side too. The 2020 count was 905,748. If you drive in, I'll start at the river.",
+    long: "",
+    names: ["Columbus"]
+  },
+  {
+    id: "columbus-woody-hayes",
+    name: "Woody Hayes",
+    lat: 40.0017,
+    lng: -83.0197,
+    radius: 700,
+    short: "Woody Hayes was born in Clifton, Ohio, in 1913. He coached Ohio State from 1951 to 1978 and won five national titles. He was fired after he punched a player in the 1978 Gator Bowl. He died in 1987 and is buried at Union Cemetery in Columbus. The Horseshoe is the pin.",
+    long: "",
+    names: ["Woody Hayes"]
+  },
+  {
+    id: "columbus-sells-circus",
+    name: "Sells Brothers Circus",
+    lat: 39.9900,
+    lng: -83.0200,
+    radius: 800,
+    short: "In 1872 the Sells brothers of Columbus put a circus on the road. Ephraim, Allen, Lewis, and Peter. Winter quarters were at Sellsville, on the northwest side along the Olentangy. For a while it was one of the biggest shows in the country. The neighborhood grew over the circus grounds. This is not John Sells of Dublin. Different man.",
+    long: "",
+    names: ["Sells Brothers", "Sellsville"]
+  },
+  {
+    id: "columbus-camp-bushnell",
+    name: "Camp Bushnell",
+    lat: 39.9970,
+    lng: -82.9900,
+    radius: 700,
+    short: "In 1898, for the Spanish-American War, Ohio mustered its troops at the state fairgrounds. They named the camp for Governor Asa Bushnell. The Ohio Expo Center is that ground now. No battle was fought here. The pin is a war the city sent men to.",
+    long: "",
+    names: ["Camp Bushnell", "Asa Bushnell"]
+  },
+  {
+    id: "columbus-asylum",
+    name: "Ohio Lunatic Asylum",
+    lat: 39.9635,
+    lng: -82.9780,
+    radius: 800,
+    short: "The Ohio Lunatic Asylum opened on East Broad Street in 1838. It was the state's first hospital of its kind. On November 18, 1868, the building burned. The state rebuilt the hospital on the west side of the river. That later complex is gone too. The pin is the first one, and the fire.",
+    long: "",
+    names: ["Ohio Lunatic Asylum"]
+  },
+  {
+    id: "columbus-curtiss-wright",
+    name: "Curtiss-Wright",
+    lat: 39.9820,
+    lng: -82.9050,
+    radius: 800,
+    short: "In the Second World War, Curtiss-Wright built a plant beside Port Columbus and turned out the Helldiver dive bomber for the Navy. For those years it was one of the biggest payrolls in the city. The war ended and the lines stopped. The airport is still the pin.",
+    long: "",
+    names: ["Curtiss-Wright", "Helldiver"]
+  },
+  {
+    id: "columbus-lady-in-gray",
+    name: "Woman in Gray",
+    lat: 39.9444,
+    lng: -83.0764,
+    radius: 500,
+    short: "People at Camp Chase say a woman in gray still visits a Louisiana soldier's grave. Nothing in the record proves her. The stone arch and more than 2,200 graves are the fact. The woman is the story the west side tells.",
+    long: "",
+    names: ["Camp Chase"]
+  },
+  {
+    id: "columbus-granville-woods",
+    name: "Granville T. Woods",
+    lat: 39.9612,
+    lng: -82.9988,
+    radius: 600,
+    short: "Granville T. Woods was born in Columbus on April 23, 1856. He invented a railway telegraph that let a moving train talk to the station. He held dozens of patents on electrical machines. He died in New York in 1910. No house of his is marked here. The city is the pin.",
+    long: "",
+    names: ["Granville T. Woods"]
+  },
+
 
 
 ];

@@ -41776,7 +41776,57 @@ const STORIES = [
     long: "",
     names: ["James W. Riley", "St. Marys River"]
   },
-
+  {
+    id: "approach-delphos",
+    name: "Delphos",
+    lat: 40.8611,
+    lng: -84.3500,
+    radius: 5000,
+    layer: "approach",
+    short: "You are coming up on Delphos, a city in Allen County and Van Wert County. It began as four towns and merged in 1851. The Miami and Erie Canal made it a port, and the Lincoln Highway later ran through it. The 2020 count was about 7,100.",
+    long: "",
+    names: ["Delphos", "Miami and Erie Canal", "Lincoln Highway"]
+  },
+  {
+    id: "delphos-four-towns",
+    name: "Delphos",
+    lat: 40.8611,
+    lng: -84.3500,
+    radius: 800,
+    short: "Howard stood on the northwest, founded by Samuel Forrer and named for his wife's family. Section Ten was on the east. West Bredeick lay south of Howard. East Bredeick was the tract Father John Otto Bredeick bought in 1840. He was a priest from Verl, Germany. In 1851 the four towns agreed to become one town, Delphos, named for the Greek god Delphus.",
+    long: "",
+    names: ["Samuel Forrer", "John Otto Bredeick", "Howard", "Section Ten"]
+  },
+  {
+    id: "delphos-canal",
+    name: "Miami and Erie Canal",
+    lat: 40.8611,
+    lng: -84.3500,
+    radius: 700,
+    short: "The first settlers came for canal work. A settlement was here between 1836 and 1842. The Miami and Erie Canal runs 274 miles from Cincinnati to Toledo, and it ran through Delphos. On July 4, 1845, a canal boat carrying the governor of Ohio passed through town. Delphos became a port, with places to move freight from the canal onto the railroads. A stretch of the canal is still downtown.",
+    long: "",
+    names: ["Miami and Erie Canal"]
+  },
+  {
+    id: "delphos-works",
+    name: "Delphos",
+    lat: 40.8611,
+    lng: -84.3500,
+    radius: 800,
+    short: "By 1879 more than 100 factories in Delphos made goods that left town by canal and rail. German families had been arriving since the 1830s. In 1912 the Lincoln Highway reached the city. It was the first paved road across the United States. The canal made the port. The highway kept the town on the map after the boats stopped.",
+    long: "",
+    names: ["Lincoln Highway"]
+  },
+  {
+    id: "delphos-gaps",
+    name: "Delphos",
+    lat: 40.8611,
+    lng: -84.3500,
+    radius: 900,
+    short: "No fort and no battlefield sit in the 1851 town. The documented story is the canal, the four plats, and the highway. This was Miami and Erie ground before it was a factory town. Delphos is four villages that agreed to be one city.",
+    long: "",
+    names: ["Delphos", "Miami and Erie Canal"]
+  },
 
 ];
 

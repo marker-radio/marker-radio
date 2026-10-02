@@ -42367,6 +42367,57 @@ const STORIES = [
     long: "",
     names: ["Leipsic", "Leipzig"]
   },
+  {
+    id: "approach-delta",
+    name: "Delta",
+    lat: 41.5750,
+    lng: -84.0025,
+    radius: 4500,
+    layer: "approach",
+    short: "You are coming up on Delta, Ohio, in Fulton County. Settlement started in the 1830s. The Ohio Turnpike runs about two miles north of town. The 2020 count was 3,316.",
+    long: "",
+    names: ["Delta", "Ohio Turnpike"]
+  },
+  {
+    id: "delta-founding",
+    name: "Delta",
+    lat: 41.5750,
+    lng: -84.0025,
+    radius: 700,
+    short: "The first settlement at Delta was made in the 1830s. A post office by that name has been open since 1837. The village was incorporated about 1863. The date carried for it is August 3. Alternate US 20 and State Route 2 cross town east and west. State Route 109 crosses them north and south.",
+    long: "",
+    names: ["Delta"]
+  },
+  {
+    id: "delta-rail",
+    name: "Detroit, Toledo and Ironton Railroad",
+    lat: 41.5750,
+    lng: -84.0025,
+    radius: 800,
+    short: "In 1925 Henry Ford owned the Detroit, Toledo and Ironton Railroad. He built a faster track east of Ottokee, and that track passed through Delta. The older line was left as a spur and was abandoned in the late 1950s. Ford's cutoff is why the trains run here and not through the old county seat.",
+    long: "",
+    names: ["Henry Ford", "Detroit, Toledo and Ironton Railroad", "Ottokee"]
+  },
+  {
+    id: "delta-schools",
+    name: "Pike-Delta-York",
+    lat: 41.5750,
+    lng: -84.0025,
+    radius: 600,
+    short: "The public schools are Pike-Delta-York. The district joined the village school in Delta with the schools of Pike Township and York Township. After the merger, Pike and York closed. Delta High School is the only high school left. The town kept the townships in the name.",
+    long: "",
+    names: ["Pike-Delta-York"]
+  },
+  {
+    id: "delta-gaps",
+    name: "Delta",
+    lat: 41.5750,
+    lng: -84.0025,
+    radius: 800,
+    short: "These sources do not say where the name Delta came from, and they do not put a canal or a battlefield in the plat. The pins are an 1837 post office, an 1863 incorporation, and a railroad Henry Ford moved onto this ground. Delta is a turnpike town with a school name made of three places.",
+    long: "",
+    names: ["Delta"]
+  },
 
 
 ];

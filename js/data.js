@@ -40921,7 +40921,67 @@ const STORIES = [
     long: "",
     names: ["Tillman", "Townley", "Monroeville"]
   },
-
+ {
+    id: "approach-scott-oh",
+    name: "Scott",
+    lat: 40.9889,
+    lng: -84.5836,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Scott, Ohio, on the line between Paulding County and Van Wert County. Haviland is about two miles north, and that town is a different story. Scott was platted in 1882. The main street is the county line.",
+    long: "",
+    names: ["Scott", "Haviland"]
+  },
+  {
+    id: "scott-oh-founding",
+    name: "Scott",
+    lat: 40.9889,
+    lng: -84.5836,
+    radius: 800,
+    short: "J. T. Scott platted this village in 1882 and gave it his name. The post office opened the same year and is still called Scott. It was a late town. The Black Swamp around it was already being cut into farms. In 1890 the census counted 733 people here.",
+    long: "",
+    names: ["J. T. Scott"]
+  },
+  {
+    id: "scott-oh-county-line",
+    name: "Blaine Street",
+    lat: 40.9889,
+    lng: -84.5836,
+    radius: 500,
+    short: "Blaine Street in downtown Scott is the county line. Paulding County is on one side. Van Wert County is on the other. You can stand in the street and be in two counties. That is the landmark. There is no state historical marker.",
+    long: "",
+    names: ["Blaine Street", "Paulding County", "Van Wert County"]
+  },
+  {
+    id: "scott-oh-people",
+    name: "J. T. Scott",
+    lat: 40.9889,
+    lng: -84.5836,
+    radius: 700,
+    short: "The name on the sign is the man who platted the town. J. T. Scott laid out the lots in 1882. The village, the post office, and the street grid all start with him. There is no fort and no famous grave that made this place. The founder is the person.",
+    long: "",
+    names: ["J. T. Scott"]
+  },
+  {
+    id: "scott-oh-decline",
+    name: "Scott",
+    lat: 40.9889,
+    lng: -84.5836,
+    radius: 800,
+    short: "Scott's biggest year on the census was 1890, with 733 people. By 2020 the count was 242. The lots are still here. The county line is still the main street. The town got small and stayed.",
+    long: "",
+    names: ["Scott"]
+  },
+  {
+    id: "scott-oh-gaps",
+    name: "Scott",
+    lat: 40.9889,
+    lng: -84.5836,
+    radius: 800,
+    short: "No battlefield and no canal sit in this plat. The Wabash and Erie is north of here, toward Antwerp. No documented Native village is on Blaine Street. Haviland, two miles north, is its own town. Scott's story is the 1882 plat and the county line under your feet.",
+    long: "",
+    names: ["Wabash and Erie Canal", "Antwerp", "Haviland"]
+  },
 
 
 

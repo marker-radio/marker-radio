@@ -40880,6 +40880,49 @@ const STORIES = [
     long: "",
     names: ["Maumee River", "Monroeville"]
   },
+  {
+    id: "approach-tillman",
+    name: "Tillman",
+    lat: 41.0242,
+    lng: -84.8933,
+    radius: 3500,
+    layer: "approach",
+    short: "You are coming up on Tillman, Indiana, a crossroads in Jefferson Township, about two miles west of where Townley stood. The village was founded in 1898 and named for a local family. There is no state marker. The pin is Ternet Road.",
+    long: "",
+    names: ["Tillman", "Ternet Road"]
+  },
+  {
+    id: "tillman-founding",
+    name: "Tillman",
+    lat: 41.0242,
+    lng: -84.8933,
+    radius: 900,
+    short: "Tillman was founded in 1898. The name came from a local family, not from a fort or a railroad town. It sits in Jefferson Township, Allen County, in the same farm country as Monroeville. The Maumee is their river story. This corner came later, after the farms were already here.",
+    long: "",
+    names: ["Tillman", "Jefferson Township"]
+  },
+  {
+    id: "tillman-four-aces",
+    name: "4 Aces Restaurant",
+    lat: 41.0242,
+    lng: -84.8933,
+    radius: 700,
+    short: "An old photograph looks north on Ternet Road. A tall white building stands behind a wagon. Years later that building was the 4 Aces Restaurant. It burned in 2000. The building is gone. That is the landmark Tillman still talks about.",
+    long: "",
+    names: ["4 Aces Restaurant", "Ternet Road"]
+  },
+  {
+    id: "tillman-gaps",
+    name: "Tillman",
+    lat: 41.0242,
+    lng: -84.8933,
+    radius: 900,
+    short: "No fort, no battlefield, and no town park were here. No documented Native village sits on this crossroads. Townley, two miles east, is the tornado. Monroeville is the river. Tillman is the 1898 name and the restaurant that burned.",
+    long: "",
+    names: ["Tillman", "Townley", "Monroeville"]
+  },
+
+
 
 
 

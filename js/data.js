@@ -41409,7 +41409,67 @@ const STORIES = [
     long: "",
     names: ["Gorham Township", "Chicago and Canada Southern Railway"]
   },
-
+  {
+    id: "approach-albion",
+    name: "Albion",
+    lat: 41.3956,
+    lng: -85.4241,
+    radius: 4500,
+    layer: "approach",
+    short: "You are coming up on Albion, Indiana, the seat of Noble County, on the old Fort Wayne-to-Goshen road. The county was created in 1836. The courthouse on this square went up in 1889. About 2,000 people live here.",
+    long: "",
+    names: ["Albion", "Noble County"]
+  },
+  {
+    id: "albion-seat",
+    name: "Noble County seat",
+    lat: 41.3956,
+    lng: -85.4241,
+    radius: 800,
+    short: "The county is named for James Noble, a United States senator from Indiana from 1816 to 1831. He did not live here. The first county seat was on the Fort Wayne-Goshen trail, today's U.S. 33. It moved to Augusta, then to Port Mitchell, and in 1847 it settled at Albion in a modest two-story frame courthouse.",
+    long: "",
+    names: ["James Noble", "Augusta", "Port Mitchell"]
+  },
+  {
+    id: "albion-courthouse",
+    name: "Noble County Courthouse",
+    lat: 41.3956,
+    lng: -85.4241,
+    radius: 500,
+    short: "The frame courthouse burned in 1859. A brick one replaced it on the same square in 1860. By 1887 that building was too small. In 1889 the county built the Richardson Romanesque courthouse that still runs the square. E. O. Fallis and Company of Toledo designed it. The courthouse alone was listed on the National Register in 1981. In 2013 the Courthouse Square Historic District added 61 buildings.",
+    long: "",
+    names: ["E. O. Fallis", "Noble County Courthouse"]
+  },
+  {
+    id: "albion-jail",
+    name: "Noble County Old Jail",
+    lat: 41.3956,
+    lng: -85.4241,
+    radius: 600,
+    short: "One block west of the courthouse, the old jail was built in 1876. The Noble County Historical Society owns it now. The square is the county's memory. The jail is the building beside it.",
+    long: "",
+    names: ["Noble County Historical Society"]
+  },
+  {
+    id: "albion-rail",
+    name: "Baltimore and Ohio",
+    lat: 41.3956,
+    lng: -85.4241,
+    radius: 800,
+    short: "In 1874 Albion became a stop on the Baltimore, Pittsburgh and Chicago Railroad. That line later merged into the Baltimore and Ohio. The tracks brought a foundry and a buggy factory, then a lumberyard and grain elevators. The county seat was already here. The railroad gave it a factory town.",
+    long: "",
+    names: ["Baltimore, Pittsburgh and Chicago Railroad", "Baltimore and Ohio Railroad"]
+  },
+  {
+    id: "albion-gaps",
+    name: "Albion",
+    lat: 41.3956,
+    lng: -85.4241,
+    radius: 800,
+    short: "No battlefield sits on this square. Port Mitchell, an earlier county seat, is not Camp Mitchell in Kendallville. Those are different places. There is no canal in the plat. No documented Native village is under the 1889 courthouse. Albion is the moving county seat, the jail, and the Baltimore and Ohio.",
+    long: "",
+    names: ["Port Mitchell", "Camp Mitchell", "Baltimore and Ohio Railroad"]
+  },
 
   
 ];

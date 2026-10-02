@@ -41511,6 +41511,47 @@ const STORIES = [
     long: "",
     names: ["Sylvan Lake", "Rome City", "Potawatomi"]
   },
+  {
+    id: "approach-pleasant-mills",
+    name: "Pleasant Mills",
+    lat: 40.7767,
+    lng: -84.8417,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Pleasant Mills, Indiana, in St. Marys Township, Adams County. A gristmill named the place. The post office opened in 1850. Geneva and the Limberlost are the next town, not this stop. This hamlet never grew past a few dozen people.",
+    long: "",
+    names: ["Pleasant Mills", "Geneva"]
+  },
+  {
+    id: "pleasant-mills-mill",
+    name: "Pleasant Mills",
+    lat: 40.7767,
+    lng: -84.8417,
+    radius: 600,
+    short: "The name is the mill. Ronald Baker's book of Indiana place names says it became Pleasant Mills because the only gristmill in the area was here. Edward G. Coxen was named postmaster on January 16, 1850. The township is St. Marys, for the St. Marys River. The mill was the reason for a post office.",
+    long: "",
+    names: ["Edward G. Coxen", "St. Marys River"]
+  },
+  {
+    id: "pleasant-mills-size",
+    name: "Pleasant Mills",
+    lat: 40.7767,
+    lng: -84.8417,
+    radius: 600,
+    short: "The 1850 census counted 71 people. In 1870 the count was 80. That is the highest number ever returned for Pleasant Mills as its own place. After that it stopped being counted by itself. The mill town stayed a crossroads.",
+    long: "",
+    names: ["Pleasant Mills"]
+  },
+  {
+    id: "pleasant-mills-gaps",
+    name: "Pleasant Mills",
+    lat: 40.7767,
+    lng: -84.8417,
+    radius: 700,
+    short: "No fort and no battlefield sit at this mill. There is no canal. Gene Stratton-Porter's Limberlost Cabin is at Geneva, not in this plat. No documented Native village is on the 1850 lots. This is Miami country along the St. Marys. Pleasant Mills is one gristmill and a post office that opened in 1850.",
+    long: "",
+    names: ["Geneva", "Limberlost", "Gene Stratton-Porter", "St. Marys River", "Miami"]
+  },
 
   
 ];

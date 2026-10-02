@@ -43783,6 +43783,157 @@ const STORIES = [
     long: "",
     names: ["Robert Overmyer", "Helen Steiner Rice"]
   },
+ {
+    id: "approach-columbus-close",
+    name: "Columbus",
+    lat: 39.9612,
+    lng: -82.9988,
+    radius: 10000,
+    layer: "approach",
+    short: "You are coming up on Columbus, the state capital, on the Scioto River. The older town, Franklinton, sits on the west bank and was drowned in 1913. Camp Chase, the Civil War prison cemetery, is on that side. Ohio Stadium is to the north. The 2020 count was 905,748. If you drive in, I'll start at the river.",
+    long: "",
+    names: ["Columbus"]
+  },
+  {
+    id: "columbus-franklinton",
+    name: "Franklinton",
+    lat: 39.9575,
+    lng: -83.0185,
+    radius: 800,
+    short: "In 1797 Lucas Sullivant laid out Franklinton on the west bank of the Scioto, where the Whetstone River came in. The Whetstone is now the Olentangy. He named the town for Benjamin Franklin. It was the Franklin County seat from 1803 to 1824. In the War of 1812 it was a training ground for William Henry Harrison's army. In 1813 Harrison met Native leaders under an elm behind Sullivant's house. Franklinton was annexed to Columbus in 1870. Sullivant died in 1823. The Old Franklinton Cemetery, opened in 1799, is the oldest burying ground in central Ohio. He was moved later to Green Lawn.",
+    long: "",
+    names: ["Lucas Sullivant", "Franklinton"]
+  },
+  {
+    id: "columbus-capital",
+    name: "Ohio Statehouse",
+    lat: 39.9613,
+    lng: -82.9988,
+    radius: 500,
+    short: "In 1812 the legislature put the capital on the high east bank, across from Franklinton, which flooded. Four landowners, Lyne Starling, James Johnston, Alexander McLaughlin, and John Kerr, offered the ground. They named it Columbus. The assembly first met here in 1816. The Statehouse on this square was finished in 1861. No Native village is pinned to the 1812 plat. The 1813 meeting under Sullivant's elm is the Native record for this river.",
+    long: "",
+    names: ["Lyne Starling", "Ohio Statehouse"]
+  },
+  {
+    id: "columbus-flood-1913",
+    name: "Flood of 1913",
+    lat: 39.9575,
+    lng: -83.0100,
+    radius: 1200,
+    short: "From March 24 to March 27, 1913, the Scioto flooded Columbus. Franklinton, the Bottoms, took the worst of it. On the morning of March 25 the State Levee gave way across from the Ohio Penitentiary. At least 93 people died. Every downtown bridge was lost except the Rich Street Bridge, which had already been condemned. A floodwall, 7.2 miles long, was built from 1993 to 2004. The city historian Ed Lentz called the flood the worst catastrophe in the history of Columbus.",
+    long: "",
+    names: ["Great Flood of 1913"]
+  },
+  {
+    id: "columbus-canal-road",
+    name: "National Road",
+    lat: 39.9606,
+    lng: -83.0005,
+    radius: 900,
+    short: "The Columbus Feeder Canal opened in 1831 and tied the Scioto to the Ohio and Erie Canal at Lockbourne. The National Road reached Columbus in 1833. Through town it is Broad Street. The railroads came in behind the road. Union Station, designed by Daniel Burnham, opened in 1897 and was torn down in 1976. One arch was saved. It stands at McFerson Commons, north of downtown.",
+    long: "",
+    names: ["National Road", "Union Station"]
+  },
+  {
+    id: "columbus-union-arch",
+    name: "Union Station Arch",
+    lat: 39.9698,
+    lng: -83.0068,
+    radius: 400,
+    short: "This stone arch is what is left of Union Station. Daniel Burnham's station opened in 1897, when Columbus called itself the Arch City for the iron arches over High Street. The station came down in 1976 for the convention center. The arch was moved here, to McFerson Commons. The old arches over High Street were taken down long before that. A few have been put back in the Short North.",
+    long: "",
+    names: ["Union Station", "Arch City"]
+  },
+  {
+    id: "columbus-camp-chase",
+    name: "Camp Chase",
+    lat: 39.9444,
+    lng: -83.0764,
+    radius: 600,
+    short: "Camp Chase, on Sullivant Avenue, was a Union training camp and a prison for Confederate soldiers. About 2,260 Confederates are buried in the cemetery. A local legend says a woman in gray still visits one grave. The graves are the fact. The woman is the story the cemetery tells. There is no battlefield on this ground. The war here was a prison.",
+    long: "",
+    names: ["Camp Chase"]
+  },
+  {
+    id: "columbus-fort-hayes",
+    name: "Fort Hayes",
+    lat: 39.9758,
+    lng: -82.9902,
+    radius: 500,
+    short: "The Columbus Arsenal was built in 1863, during the Civil War. It later became Columbus Barracks. In 1922 it was renamed Fort Hayes for President Rutherford B. Hayes. The shot tower is still standing. The grounds are a school now.",
+    long: "",
+    names: ["Fort Hayes"]
+  },
+  {
+    id: "columbus-shrum-mound",
+    name: "Shrum Mound",
+    lat: 39.9806,
+    lng: -83.0715,
+    radius: 400,
+    short: "Shrum Mound, in Campbell Memorial Park on McKinley Avenue, is an Adena burial mound, more than two thousand years old. Ohio History Connection cares for it. It is one of the last mounds left inside the city. The people who built it were here long before Franklinton.",
+    long: "",
+    names: ["Shrum Mound"]
+  },
+  {
+    id: "columbus-leveque",
+    name: "LeVeque Tower",
+    lat: 39.9616,
+    lng: -83.0028,
+    radius: 400,
+    short: "After the 1913 flood the city rebuilt the riverfront. The American Insurance Union, led by John J. Lentz, started a tower here in 1924. It was dedicated on September 21, 1927. At 555 feet it was the fifth tallest building in the world, a fraction taller than the Washington Monument. In 1945 Leslie LeVeque and John Lincoln bought it. It has been the LeVeque Tower since.",
+    long: "",
+    names: ["LeVeque Tower", "John J. Lentz"]
+  },
+  {
+    id: "columbus-penitentiary",
+    name: "Ohio Penitentiary",
+    lat: 39.9692,
+    lng: -83.0060,
+    radius: 500,
+    short: "The Ohio Penitentiary opened in 1834 on the river, just north of downtown. On April 21, 1930, a fire killed 322 men inside. It was one of the deadliest prison fires in the country. The prison closed in 1984 and was torn down. Nationwide Arena and the Arena District stand on that ground.",
+    long: "",
+    names: ["Ohio Penitentiary"]
+  },
+  {
+    id: "columbus-german-village",
+    name: "German Village",
+    lat: 39.9435,
+    lng: -82.9915,
+    radius: 800,
+    short: "German immigrants built the brick streets south of downtown in the nineteenth century. By the 1950s the city was ready to tear the neighborhood down. In 1960 Frank Fetch and the German Village Society fought the wrecking ball. It is a historic district now. Schiller Park is the public square in the middle of it.",
+    long: "",
+    names: ["German Village", "Frank Fetch"]
+  },
+  {
+    id: "columbus-thurber",
+    name: "James Thurber",
+    lat: 39.9655,
+    lng: -82.9865,
+    radius: 400,
+    short: "James Thurber was born in Columbus on December 8, 1894. The house at 77 Jefferson Avenue is the museum. My Life and Hard Times is his book about this town, including the night the bed fell on his father. He drew the cartoons for The New Yorker. He died in 1961.",
+    long: "",
+    names: ["James Thurber"]
+  },
+  {
+    id: "columbus-rickenbacker",
+    name: "Eddie Rickenbacker",
+    lat: 39.9520,
+    lng: -82.9700,
+    radius: 1500,
+    short: "Eddie Rickenbacker was born in Columbus on October 8, 1890. In the First World War he shot down 26 German planes, the American record, and received the Medal of Honor. He later ran Eastern Air Lines. The air base south of the city, old Lockbourne, is named Rickenbacker for him.",
+    long: "",
+    names: ["Eddie Rickenbacker"]
+  },
+  {
+    id: "columbus-stadium",
+    name: "Ohio Stadium",
+    lat: 40.0017,
+    lng: -83.0197,
+    radius: 700,
+    short: "Ohio Stadium, the Horseshoe, opened in 1922. Jesse Owens ran here as an Ohio State student. He was born in Alabama, not Columbus. On May 25, 1935, in Ann Arbor, he broke three world records and tied a fourth in about 45 minutes. In Berlin in 1936 he won four gold medals. The stadium is the Columbus pin for that story.",
+    long: "",
+    names: ["Jesse Owens", "Ohio Stadium"]
+  },
 
 ];
 

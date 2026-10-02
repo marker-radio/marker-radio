@@ -41613,6 +41613,57 @@ const STORIES = [
     long: "",
     names: ["Miami and Erie Canal", "Ottawa", "Hog Creek"]
   },
+  {
+    id: "approach-fort-jennings",
+    name: "Fort Jennings",
+    lat: 40.9069,
+    lng: -84.2997,
+    radius: 3500,
+    layer: "approach",
+    short: "You are coming up on Fort Jennings, Ohio, in Putnam County, on the Auglaize River. The village dates to about 1850. The name is a War of 1812 fort. Colonel William Jennings built it in September 1812. The 2020 count was 525.",
+    long: "",
+    names: ["Fort Jennings", "Auglaize River", "William Jennings"]
+  },
+  {
+    id: "fort-jennings-fort",
+    name: "Fort Jennings",
+    lat: 40.9030,
+    lng: -84.2990,
+    radius: 600,
+    short: "In September 1812, Colonel William Jennings and men of the 2nd Kentucky Militia built this post on the Auglaize. General William Henry Harrison ordered it. The fort stood through the War of 1812 and was abandoned in 1815. What is left in the village is the monument. The soldiers were gone long before there was a town.",
+    long: "",
+    names: ["William Jennings", "William Henry Harrison", "Auglaize River"]
+  },
+  {
+    id: "fort-jennings-village",
+    name: "Fort Jennings",
+    lat: 40.9069,
+    lng: -84.2997,
+    radius: 600,
+    short: "The first settlement at Fort Jennings was made around 1850. The village incorporated in 1881. It took the fort's name. Jennings Township took it too. The 1880 count was 164. In 2020 it was 525. Memorial Hall is the community center. The plat is a farm village on a fort site.",
+    long: "",
+    names: ["Jennings Township"]
+  },
+  {
+    id: "fort-jennings-river",
+    name: "Auglaize River",
+    lat: 40.9069,
+    lng: -84.2997,
+    radius: 700,
+    short: "The fort was placed beside the Auglaize River. That river was the road. Harrison's posts sat on it so men and supplies could move through the Black Swamp. Kalida, east of you, was platted on canal land. This village is the river fort, not the canal.",
+    long: "",
+    names: ["Auglaize River", "William Henry Harrison", "Kalida"]
+  },
+  {
+    id: "fort-jennings-gaps",
+    name: "Fort Jennings",
+    lat: 40.9069,
+    lng: -84.2997,
+    radius: 700,
+    short: "The sources name the fort, the colonel, the river, and the year it closed. They do not name a battle fought inside the stockade. No canal and no railroad story is documented for this plat. No documented Native village is under the 1850 lots. This was Ottawa and Shawnee country on the Auglaize before the fort. Fort Jennings is the 1812 post, then a quiet village.",
+    long: "",
+    names: ["Auglaize River", "Ottawa", "Shawnee"]
+  },
 
 
   

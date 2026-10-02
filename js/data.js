@@ -41185,6 +41185,58 @@ const STORIES = [
     long: "",
     names: ["Taw-Taw", "Miami", "Kekionga"]
   },
+ {
+    id: "approach-pettisville",
+    name: "Pettisville",
+    lat: 41.5322,
+    lng: -84.2231,
+    radius: 4000,
+    layer: "approach",
+    short: "You are coming up on Pettisville, Ohio, in Fulton County. State Route 2 is just north of the crossroads. Archbold is five miles west. Wauseon, the county seat, is five miles east. This place was laid out in 1857 for a railroad. The 2020 count was 469.",
+    long: "",
+    names: ["Pettisville", "Archbold", "Wauseon"]
+  },
+  {
+    id: "pettisville-founding",
+    name: "Pettisville",
+    lat: 41.5322,
+    lng: -84.2231,
+    radius: 800,
+    short: "Pettisville was laid out in 1857. The post office opened the same year. The name most likely honors a railroad contractor named Pettis. The lots sit at County Road 19 and County Road D. The eastern half is Clinton Township. The western half is German Township.",
+    long: "",
+    names: ["Pettis", "Clinton Township", "German Township"]
+  },
+  {
+    id: "pettisville-rail",
+    name: "Pettisville railroad",
+    lat: 41.5322,
+    lng: -84.2231,
+    radius: 700,
+    short: "The railroad is why the plat exists. A contractor named Pettis is the person the town remembers, and the lots were drawn in the year the post office opened. This was not a canal town and not a fort. The track made the crossroads.",
+    long: "",
+    names: ["Pettis"]
+  },
+  {
+    id: "pettisville-liechty",
+    name: "Girl Named Tom",
+    lat: 41.5322,
+    lng: -84.2231,
+    radius: 700,
+    short: "The Liechty siblings grew up in Pettisville. Bekah, Joshua, and Caleb perform as Girl Named Tom. In 2021 they won season 21 of The Voice. A railroad contractor named the town in 1857. A family band from the same crossroads won a national show in 2021.",
+    long: "",
+    names: ["Bekah Liechty", "Joshua Liechty", "Caleb Liechty", "Girl Named Tom"]
+  },
+  {
+    id: "pettisville-gaps",
+    name: "Pettisville",
+    lat: 41.5322,
+    lng: -84.2231,
+    radius: 800,
+    short: "No fort and no battlefield sit in this 1857 plat. There is no canal here. The Miami and Erie is well south of you. No documented Native village is on these lots. German Township, on the west side of town, is the Mennonite and Amish country that runs toward Archbold. Pettisville's own story is the railroad name and the Liechtys.",
+    long: "",
+    names: ["German Township", "Archbold", "Miami and Erie Canal"]
+  },
+
 
 
 

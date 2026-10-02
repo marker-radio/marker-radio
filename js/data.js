@@ -40982,6 +40982,68 @@ const STORIES = [
     long: "",
     names: ["Wabash and Erie Canal", "Antwerp", "Haviland"]
   },
+  {
+    id: "approach-dupont-oh",
+    name: "Dupont",
+    lat: 41.0547,
+    lng: -84.3011,
+    radius: 5000,
+    layer: "approach",
+    short: "You are coming up on Dupont, Ohio, in Putnam County. This village was platted in 1877 for a railroad. It is named for a Navy admiral who never lived here. Ottoville and Cloverdale, the canal towns nearby, are a different stop.",
+    long: "",
+    names: ["Dupont", "Putnam County"]
+  },
+  {
+    id: "dupont-oh-founding",
+    name: "Dupont",
+    lat: 41.0547,
+    lng: -84.3011,
+    radius: 800,
+    short: "Dupont was platted in 1877, when the Toledo, Delphos, and Indianapolis Railway was extended to this point. The village took the name of Samuel Francis Du Pont. A post office followed the rails. In 1880 the count was 165 people. The town incorporated in 1888.",
+    long: "",
+    names: ["Samuel Francis Du Pont", "Toledo, Delphos, and Indianapolis Railway"]
+  },
+  {
+    id: "dupont-oh-rail",
+    name: "Dupont railroad",
+    lat: 41.0547,
+    lng: -84.3011,
+    radius: 700,
+    short: "The railroad is why the plat exists. The Toledo, Delphos, and Indianapolis Railway reached here in 1877, and the lots were laid out for the station. This was not a canal town and not a fort. The track made the village.",
+    long: "",
+    names: ["Toledo, Delphos, and Indianapolis Railway"]
+  },
+  {
+    id: "dupont-oh-dupont",
+    name: "Samuel Francis Du Pont",
+    lat: 41.0547,
+    lng: -84.3011,
+    radius: 600,
+    short: "Samuel Francis Du Pont was a United States Navy admiral in the Mexican War. The village was named for him. He did not settle here, and he is not buried here. The name on the sign is the whole connection.",
+    long: "",
+    names: ["Samuel Francis Du Pont"]
+  },
+  {
+    id: "dupont-oh-size",
+    name: "Dupont",
+    lat: 41.0547,
+    lng: -84.3011,
+    radius: 800,
+    short: "Dupont stayed small. The 1880 census counted 165 people. The 2020 census counted 212. The railroad town never became a city. It is still a village on the same plat.",
+    long: "",
+    names: ["Dupont"]
+  },
+  {
+    id: "dupont-oh-gaps",
+    name: "Dupont",
+    lat: 41.0547,
+    lng: -84.3011,
+    radius: 800,
+    short: "No fort and no battlefield sit in this plat. There is no state historical marker. No documented Native village is on the 1877 town site. The Miami and Erie Canal is the story of Ottoville and Cloverdale, not this depot town. Dupont is the railroad and the admiral's name.",
+    long: "",
+    names: ["Miami and Erie Canal", "Ottoville", "Cloverdale"]
+  },
+
 
 
 

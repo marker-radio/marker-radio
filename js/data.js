@@ -41725,7 +41725,57 @@ const STORIES = [
     long: "",
     names: ["John William Lambert", "Van Wert Junction"]
   },
-
+  {
+    id: "approach-convoy",
+    name: "Convoy",
+    lat: 40.9175,
+    lng: -84.7050,
+    radius: 3500,
+    layer: "approach",
+    short: "You are coming up on Convoy, Ohio, in Tully Township, Van Wert County. It was platted in 1854 and named for Convoy, Ireland. The village incorporated in 1874. The 2020 count was 1,012.",
+    long: "",
+    names: ["Convoy", "Convoy, Ireland"]
+  },
+  {
+    id: "convoy-nesbitt",
+    name: "Robert Nesbitt",
+    lat: 40.9175,
+    lng: -84.7050,
+    radius: 600,
+    short: "Robert Nesbitt was born in Convoy, Ireland, in December 1810. He came to Van Wert County in the late 1830s and in 1839 bought 120 acres in Tully Township. On June 16, 1854, Nesbitt and James Pettit laid out a village on the west side of the county. Nesbitt named it Convoy, for home. He served nine years as justice of the peace and died on May 1, 1879.",
+    long: "",
+    names: ["Robert Nesbitt", "James Pettit", "Convoy, Ireland"]
+  },
+  {
+    id: "convoy-village",
+    name: "Convoy",
+    lat: 40.9175,
+    lng: -84.7050,
+    radius: 600,
+    short: "A post office called Convoy has been open since 1872. The village incorporated in 1874. The Irish town that shares the name marked the 150th year of that incorporation in 2024. This is a farm village on Nesbitt's land, not a fort and not a canal port.",
+    long: "",
+    names: ["Convoy"]
+  },
+  {
+    id: "convoy-library",
+    name: "Brumback Library",
+    lat: 40.9175,
+    lng: -84.7050,
+    radius: 500,
+    short: "Convoy has a branch of the Brumback Library. The main library is in Van Wert, and it is the first county library in the United States. The branch is the public room in this village. The books are the county's. The name on the town is Ireland's.",
+    long: "",
+    names: ["Brumback Library", "Van Wert"]
+  },
+  {
+    id: "convoy-gaps",
+    name: "Convoy",
+    lat: 40.9175,
+    lng: -84.7050,
+    radius: 700,
+    short: "No fort and no battlefield sit in the 1854 plat. There is no canal. No documented Native village is on Nesbitt's lots. This was Black Swamp country before the Irish name. Convoy is one settler, one village, and a library branch.",
+    long: "",
+    names: ["Robert Nesbitt"]
+  },
 
 
   

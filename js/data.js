@@ -43352,6 +43352,120 @@ const STORIES = [
     long: "",
     names: ["First Universalist Church", "Jinks Morey"]
   },
+ {
+    id: "approach-miller-city",
+    name: "Miller City",
+    lat: 41.1042,
+    lng: -84.1267,
+    radius: 5000,
+    layer: "approach",
+    short: "You are coming up on Miller City, in Putnam County. Nicholas Miller platted it in 1882 and called it St. Nicholas, after himself. The post office has been Miller City since 1883. The Catholic church on Main Cross Street still carries the first name. The 2020 count was 134.",
+    long: "",
+    names: ["Miller City", "Nicholas Miller", "St. Nicholas"]
+  },
+  {
+    id: "miller-city-founding",
+    name: "St. Nicholas",
+    lat: 41.1042,
+    lng: -84.1267,
+    radius: 600,
+    short: "Miller City was platted in 1882 by Nicholas Miller under the name St. Nicholas. A post office called Miller City opened in 1883. The village incorporated in 1890. No canal, battlefield, or state park is documented on the plat. The church is the landmark that kept the old name.",
+    long: "",
+    names: ["Nicholas Miller", "Miller City"]
+  },
+  {
+    id: "miller-city-church",
+    name: "St. Nicholas Catholic Church",
+    lat: 41.1042,
+    lng: -84.1267,
+    radius: 400,
+    short: "St. Nicholas Catholic Church stands at 210 East Main Cross Street. The building went up in 1919. In July 2011 the parish joined Holy Family in New Cleveland and St. Barbara in Cloverdale as one cluster. Saturday Mass is still at four in Miller City.",
+    long: "",
+    names: ["St. Nicholas Catholic Church"]
+  },
+  {
+    id: "approach-milton-center",
+    name: "Milton Center",
+    lat: 41.3008,
+    lng: -83.8297,
+    radius: 5000,
+    layer: "approach",
+    short: "You are coming up on Milton Center, in Milton Township, Wood County. Hiram Davis surveyed it in February 1857, in the Black Swamp. The Dayton and Michigan Railroad came through the township two years later. The 2020 count was 137.",
+    long: "",
+    names: ["Milton Center"]
+  },
+  {
+    id: "milton-center-founding",
+    name: "Milton Center",
+    lat: 41.3008,
+    lng: -83.8297,
+    radius: 600,
+    short: "Milton Center was surveyed by Hiram Davis from February 2 to February 6, 1857, and named for Milton Township. A post office called Milton Centre opened in 1861. The spelling became Milton Center in 1893. The village incorporated in 1869. The village hall is on Defiance Street. In 1910 the count was 350. By 2020 it was 137.",
+    long: "",
+    names: ["Hiram Davis", "Milton Center"]
+  },
+  {
+    id: "milton-center-swamp",
+    name: "Jackson Cut-off",
+    lat: 41.3008,
+    lng: -83.8297,
+    radius: 800,
+    short: "Before the ditches, Milton Township was wet woods and prairie. In 1850 the whole township had 244 people. The Dayton and Michigan Railroad was finished through here in August 1859. The Jackson Cut-off, dug in 1878 and 1879, drained the swamp and made the farms. No battlefield is documented on the 1857 plat. The story is water, then a railroad, then dry ground.",
+    long: "",
+    names: ["Jackson Cut-off", "Dayton and Michigan Railroad"]
+  },
+  {
+    id: "approach-pandora",
+    name: "Pandora",
+    lat: 40.9475,
+    lng: -83.9567,
+    radius: 5000,
+    layer: "approach",
+    short: "You are coming up on Pandora, on Riley Creek in Putnam County. John Stout laid it out in 1836 as Columbia, then it was Pendleton, then a postal clerk in Findlay named it Pandora. A United States senator and an Ohio Supreme Court justice came from here. The 2020 count was 1,204.",
+    long: "",
+    names: ["Pandora", "Columbia", "Pendleton"]
+  },
+  {
+    id: "pandora-founding",
+    name: "Columbia",
+    lat: 40.9475,
+    lng: -83.9567,
+    radius: 700,
+    short: "Captain James Riley was hired to survey northwest Ohio. His son, James Watson Riley, worked this ground from 1818 to 1822. The survey crew named the stream Riley Creek, and the township took the same name. John Stout built a grist mill on that creek, one of the first in the county, and on December 1, 1836, he laid out the only town ever platted in Riley Township. He called it Columbia. It sat on the Ridge Road, about halfway from Findlay to Delphos.",
+    long: "",
+    names: ["James Watson Riley", "John Stout", "Riley Creek"]
+  },
+  {
+    id: "pandora-name",
+    name: "Pandora",
+    lat: 40.9475,
+    lng: -83.9567,
+    radius: 600,
+    short: "The town was also called Pendleton. A post office under that name opened in 1837. Ohio already had a Pendleton, so the name had to change. Pierce DeWolf, a postal clerk in Findlay, was sorting the Pendleton mail when the name Pandora came to him. The post office took it in 1883. A petition to incorporate, signed by E. J. Deck, P. P. Welty, and A. G. Anderson, was granted on November 5, 1897.",
+    long: "",
+    names: ["Pierce DeWolf", "Pandora", "Pendleton"]
+  },
+  {
+    id: "pandora-railroad",
+    name: "Pittsburgh Akron and Western",
+    lat: 40.9475,
+    lng: -83.9567,
+    radius: 700,
+    short: "In 1882 a narrow-gauge railroad was built through Pandora. It was later widened and called the Pittsburgh, Akron and Western. That same year Kiene and Suter laid out an addition. The village has a branch of the Putnam County District Library. Riley Creek Festival and Ted Fest are the town parties. Suter Produce still sells strawberries and sweet corn in summer, and cider and a corn maze in the fall.",
+    long: "",
+    names: ["Pittsburgh, Akron and Western", "Suter Produce"]
+  },
+  {
+    id: "pandora-people",
+    name: "Pandora people",
+    lat: 40.9475,
+    lng: -83.9567,
+    radius: 700,
+    short: "Three names left this creek town for public office. Cyrus Locher served in the United States Senate. Benjamin F. Welty served in the United States House. Arthur H. Day served in the Ohio Senate and on the Ohio Supreme Court. No battlefield is documented on the 1836 plat. The pins are the creek, the mill, the railroad, and those three names.",
+    long: "",
+    names: ["Cyrus Locher", "Benjamin F. Welty", "Arthur H. Day"]
+  },
+
 
 
 ];

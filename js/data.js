@@ -42082,7 +42082,57 @@ const STORIES = [
     long: "",
     names: ["Elgin"]
   },
-
+  {
+    id: "approach-kimmell",
+    name: "Kimmell",
+    lat: 41.3950,
+    lng: -85.5486,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Kimmell, Indiana, in Sparta Township, Noble County. The village was called Sparta until it was renamed for Orlando Kimmell, the farmer who got it a railroad siding. The 2020 count was 433.",
+    long: "",
+    names: ["Kimmell", "Orlando Kimmell"]
+  },
+  {
+    id: "kimmell-orlando",
+    name: "Orlando Kimmell",
+    lat: 41.3950,
+    lng: -85.5486,
+    radius: 500,
+    short: "Orlando Kimmell came from Ohio with his parents in 1851. He was 21. In 1863 he took his father's farm and grew it from 195 acres to 1,098. He helped get a railroad siding for the little village of Sparta. The town was renamed Kimmell in his honor. A post office has been open here since 1888.",
+    long: "",
+    names: ["Orlando Kimmell", "Sparta"]
+  },
+  {
+    id: "kimmell-house",
+    name: "Kimmell House",
+    lat: 41.3950,
+    lng: -85.5486,
+    radius: 400,
+    short: "In 1876 Orlando Kimmell and his wife Jane built a new house. He kept careful records of the work. The original woodwork and hardware are still in it. The house is now the Kimmell House Inn. The farm made the house. The house kept the name.",
+    long: "",
+    names: ["Orlando Kimmell", "Jane Kimmell"]
+  },
+  {
+    id: "kimmell-office",
+    name: "Orlando Kimmell",
+    lat: 41.3950,
+    lng: -85.5486,
+    radius: 500,
+    short: "Orlando Kimmell served two terms as a Noble County commissioner. He was elected to the Indiana General Assembly in 1877 and did not run again. In 1897 the Republican Party nominated him for Congress, and he declined. He was president of the Noble County fair for 12 years, president of the Cromwell State Bank, and a stockholder in the Wolf Lake Bank.",
+    long: "",
+    names: ["Orlando Kimmell", "Cromwell State Bank"]
+  },
+  {
+    id: "kimmell-gaps",
+    name: "Kimmell",
+    lat: 41.3950,
+    lng: -85.5486,
+    radius: 600,
+    short: "No canal and no battlefield are documented in this plat. Wikipedia dates the place to 1831. The county history dates the name Kimmell to the man who got the siding. The pins are the farm, the 1876 house, and a village that used to be called Sparta.",
+    long: "",
+    names: ["Kimmell", "Sparta", "Orlando Kimmell"]
+  },
 
 ];
 

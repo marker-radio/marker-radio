@@ -1,8 +1,10 @@
+
 const spoken = new Set();
 let speaking = false;
 let watchId = null;
 let speakTimer = null;
 let lastAudio = null;
+let storiesReadyAt = 0;
 
 const MARKERS = (typeof STORIES !== "undefined" ? STORIES : []).map(s => ({
   id: s.id,
@@ -94,6 +96,8 @@ function checkLocation(pos, gpsEl) {
       " | " + Math.round(speedMph) + " mph";
   }
 
+  if (Date.now() < storiesReadyAt) return;
+
   const hits = MARKERS
     .map((m) => {
       const d = distanceMeters(latitude, longitude, m.lat, m.lng);
@@ -135,5 +139,6 @@ window.startMarkerRadio = function (gpsEl) {
   if (gpsEl) {
     gpsEl.textContent = "GPS: waiting | " + MARKERS.length + " stories loaded";
   }
+  storiesReadyAt = Date.now() + 30000;
   watchId = bindWatch(gpsEl, true);
 };

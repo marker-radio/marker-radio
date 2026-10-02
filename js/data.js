@@ -41664,6 +41664,68 @@ const STORIES = [
     long: "",
     names: ["Auglaize River", "Ottawa", "Shawnee"]
   },
+  {
+    id: "approach-ohio-city",
+    name: "Ohio City",
+    lat: 40.7717,
+    lng: -84.6222,
+    radius: 4000,
+    layer: "approach",
+    short: "You are coming up on Ohio City, in Van Wert County. This is not the Ohio City in Cleveland. It was platted in 1876 as Van Wert Junction, where two narrow-gauge railroads crossed. The 2020 count was 651.",
+    long: "",
+    names: ["Ohio City", "Van Wert Junction"]
+  },
+  {
+    id: "ohio-city-junction",
+    name: "Van Wert Junction",
+    lat: 40.7717,
+    lng: -84.6222,
+    radius: 700,
+    short: "Butler, Patterson and Company platted the town from March 4 to March 8, 1876. They called it Van Wert Junction. Henry E. Butler already made barrel staves here. The Toledo, Delphos and Burlington, a three-foot-gauge line, was open through this part of Ohio in 1875. The Celina, Van Wert and State Line, also three-foot gauge, opened north and south in 1879 and 1880. The station was the reason for the plat.",
+    long: "",
+    names: ["Henry E. Butler", "Toledo, Delphos and Burlington Railroad", "Celina, Van Wert and State Line Railroad"]
+  },
+  {
+    id: "ohio-city-names",
+    name: "Ohio City",
+    lat: 40.7717,
+    lng: -84.6222,
+    radius: 600,
+    short: "The first post office here was called Koogle. On June 1, 1882, the vote was 28 to 11 to rename the town Enterprise. Another Enterprise in Ohio mixed up the mail. On June 1, 1890, Lewis J. Kiggins asked the council if they liked the name Ohio City. They voted yes. Three names in fourteen years. The junction stayed put.",
+    long: "",
+    names: ["Lewis J. Kiggins", "Enterprise", "Koogle"]
+  },
+  {
+    id: "ohio-city-depot",
+    name: "Union Depot",
+    lat: 40.7717,
+    lng: -84.6222,
+    radius: 600,
+    short: "By 1910 three railroads used one Union Depot in the middle of town. The village history lists three hotels, two grain elevators, a tile factory, two sawmills, a beet dump, and a slack-barrel factory. The 1890 census counted 666 people. The junction made a small city, and then the railroads thinned out.",
+    long: "",
+    names: ["Union Depot"]
+  },
+  {
+    id: "ohio-city-lambert",
+    name: "John William Lambert",
+    lat: 40.7717,
+    lng: -84.6222,
+    radius: 600,
+    short: "John William Lambert built his first gas-powered car in Ohio City in 1891. That summer the car struck a tree stump in the road and bounced into a hitching rack. The town's history calls that the first automobile accident in the United States. The car was made here. The stump was here.",
+    long: "",
+    names: ["John William Lambert"]
+  },
+  {
+    id: "ohio-city-gaps",
+    name: "Ohio City",
+    lat: 40.7717,
+    lng: -84.6222,
+    radius: 700,
+    short: "No fort and no battlefield sit in this 1876 plat. There is no canal. No documented Native village is under the Union Depot. This was Black Swamp country before the narrow-gauge tracks. Ohio City is a railroad junction, three names, and Lambert's car.",
+    long: "",
+    names: ["John William Lambert", "Van Wert Junction"]
+  },
+
 
 
   

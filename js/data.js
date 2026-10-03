@@ -45160,6 +45160,26 @@ const STORIES = [
     long: "",
     names: ["Dina Rees Evans", "Frank C. Cain"]
   },
+  {
+    id: "cloverdale-1892",
+    name: "The 1892 plat",
+    lat: 41.0192,
+    lng: -84.3033,
+    radius: 400,
+    short: "The settlement started in 1877, when the railroad reached this corner of Perry Township, and people called it Evansville. The formal plat came later. In 1892 civil engineer E. W. Dimock surveyed Cloverdale for six proprietors: W. H. Mozier, E. M. Mozier, Tunis Truax, Nora Truax, Austin Combs, and Mary Combs. It sits where the Clover Leaf crossed the Tangent, the Findlay, Fort Wayne and Western. The post office here was still called Drucilla.",
+    long: "",
+    names: ["E. W. Dimock", "W. H. Mozier", "Tunis Truax", "Austin Combs"]
+  },
+  {
+    id: "cloverdale-1902",
+    name: "Cloverdale, 1902",
+    lat: 41.0196,
+    lng: -84.3026,
+    radius: 300,
+    short: "The village incorporated as Cloverdale on April 11, 1902. The post office did not catch up until April 4, 1906, when Drucilla finally became Cloverdale. Evansville, then Drucilla, then the railroad's nickname. Three names for one junction of about 170 people.",
+    long: "",
+    names: ["Cloverdale"]
+  },
 
   
 ];

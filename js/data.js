@@ -44890,6 +44890,36 @@ const STORIES = [
     long: "",
     names: ["Canfield Fair", "J. W. Canfield"]
   },
+  {
+    id: "carlisle-george",
+    name: "George B. Carlisle",
+    lat: 39.5820,
+    lng: -84.3202,
+    radius: 400,
+    short: "Settlers from New Jersey were already farming this side of the Great Miami. They called it the Jersey Settlement. In 1850 the railroad put a station here. George B. Carlisle, a railroad man, bought and platted a large piece of it and gave a lot for public use. The town took his name. A post office opened in 1852 and closed in 1961. The line is the Warren and Montgomery county line. Two railroads still run through the middle.",
+    long: "",
+    names: ["George B. Carlisle"]
+  },
+  {
+    id: "carlisle-tapscott",
+    name: "Tapscott Church",
+    lat: 39.5805,
+    lng: -84.3225,
+    radius: 300,
+    short: "James Tapscott gave land to the Baptists, and they built Tapscott Church in the early 1800s. It is one of the oldest buildings still standing here. It does not hold a weekly service anymore. The village keeps the building and the cemetery beside it.",
+    long: "",
+    names: ["James Tapscott"]
+  },
+  {
+    id: "carlisle-hall",
+    name: "Literary Society",
+    lat: 39.5832,
+    lng: -84.3190,
+    radius: 250,
+    short: "In 1856 local people formed a Literary Society and built the first town hall on the lot George Carlisle had given them. That was the public room before there was a city. Carlisle did not incorporate until 1958. The first council then had to stand up a police department and a fire department from nothing.",
+    long: "",
+    names: ["Carlisle Literary Society"]
+  },
 
 
 

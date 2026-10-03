@@ -44459,8 +44459,26 @@ const STORIES = [
     long: "",
     names: ["George Bartholomew"]
   },
-
-
+{
+    id: "belmore-montgomery",
+    name: "Wesley Montgomery",
+    lat: 41.1560,
+    lng: -83.9405,
+    radius: 300,
+    short: "Wesley G. Montgomery laid out this plat in 1862 and called it Montgomeryville. The post office had been Belmore since 1856. By about 1868 the post office name won. He got the lots. The mail got the name.",
+    long: "",
+    names: ["Wesley G. Montgomery"]
+  },
+  {
+    id: "belmore-rail",
+    name: "Dayton and Michigan",
+    lat: 41.1535,
+    lng: -83.9417,
+    radius: 350,
+    short: "The plat sat on the Dayton and Michigan Railroad. That line later ran as the Cincinnati, Hamilton and Dayton, then the Baltimore and Ohio. The village was a farm stop on the way between bigger towns. The station is gone. The right of way is why a plat was tried here at all.",
+    long: "",
+    names: ["Dayton and Michigan Railroad"]
+  },
   
 ];
 

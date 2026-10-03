@@ -44750,6 +44750,37 @@ const STORIES = [
     long: "",
     names: ["John Jurko", "Paul Jurko"]
   },
+ {
+    id: "brookville-flory",
+    name: "Jacob Flory",
+    lat: 39.8364,
+    lng: -84.4113,
+    radius: 300,
+    short: "The first settlers were here around 1814. Jacob Frees surveyed the town on April 13, 1850, out of Jacob Flory's farm in Clay Township, the southeast quarter of section 34. Flory signed it Brookville, for a brook at the site. They set a stone at the southeast corner of lot 15 so later surveys could start from it.",
+    long: "",
+    names: ["Jacob Flory", "Jacob Frees"]
+  },
+  {
+    id: "brookville-du",
+    name: "Dayton and Union",
+    lat: 39.8372,
+    lng: -84.4122,
+    radius: 350,
+    short: "The Greenville and Miami was chartered in 1846, and its right of way from Dayton to Greenville ran through the ground that became this town. The first train's grand opening was June 10, 1852. That year the tracks reached Union City and the line became the Dayton and Union. The depot at Hay and Cusick opened January 15, 1900. They added a freight room in 1918. Local passenger trains stopped in September 1931. All passenger service was gone by 1946.",
+    long: "",
+    names: ["Dayton and Union Railroad"]
+  },
+  {
+    id: "brookville-spitler",
+    name: "Samuel Spitler House",
+    lat: 39.8360,
+    lng: -84.4105,
+    radius: 200,
+    short: "Samuel Spitler had this house built in 1894. Warren Rasor built it from Design No. 60 by the architect George F. Barber. Three stories, a tower, seven porches, golden oak stairs. It stood at 5 Hay Avenue. Spitler, his wife Ettie Pearl, and their daughter Anona lived there until about 1920. In 1973 it was going to be torn down for a parking lot. People bought another lot, turned the house, and moved it across an alley. It opened to the public on May 15, 1976, at 14 Market Street. It is on the National Register.",
+    long: "",
+    names: ["Samuel Spitler", "George F. Barber"]
+  },
+  
 ];
 
 

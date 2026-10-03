@@ -43946,6 +43946,116 @@ const STORIES = [
     long: "",
     names: ["Granville T. Woods"]
   },
+  {
+    id: "akron-john-brown",
+    name: "John Brown House",
+    lat: 41.0845,
+    lng: -81.5425,
+    radius: 350,
+    short: "John Brown rented this house from Colonel Simon Perkins from 1844 to 1854. It stands at 514 Diagonal Road, across from the Perkins mansion. He ran a wool partnership here and moved people on the Underground Railroad. He later fought in Kansas and led the raid on Harpers Ferry in 1859. He was hanged that December. The house is still here.",
+    long: "",
+    names: ["John Brown", "Simon Perkins"]
+  },
+  {
+    id: "akron-sojourner",
+    name: "Sojourner Truth",
+    lat: 41.0861,
+    lng: -81.5147,
+    radius: 400,
+    short: "On May 29, 1851, Sojourner Truth spoke at the women's rights convention in the Universalist Stone Church on North High Street. A reporter wrote the speech down that June. Years later Frances Gage published a different wording, the one people call Ain't I a Woman. The church is gone. The marker is at 37 North High.",
+    long: "",
+    names: ["Sojourner Truth", "Frances Gage"]
+  },
+  {
+    id: "akron-dr-bob",
+    name: "Dr. Bob's House",
+    lat: 41.0958,
+    lng: -81.5489,
+    radius: 350,
+    short: "In May 1935 Bill Wilson met Dr. Robert Smith in Akron. Henrietta Seiberling brought them together at the gatehouse of Stan Hywet. Dr. Bob took his last drink on June 10, 1935. That is the date Alcoholics Anonymous uses as its start. He lived at 855 Ardmore Avenue until he died in 1950. The house is a National Historic Landmark.",
+    long: "",
+    names: ["Dr. Bob Smith", "Bill Wilson", "Henrietta Seiberling"]
+  },
+  {
+    id: "akron-lebron",
+    name: "LeBron James",
+    lat: 41.0886,
+    lng: -81.5225,
+    radius: 400,
+    short: "LeBron James was born in Akron on December 30, 1984. He went to St. Vincent-St. Mary on North Maple Street. The school is the pin. Akron claims him the way it once claimed the tire plants.",
+    long: "",
+    names: ["LeBron James"]
+  },
+  {
+    id: "akron-resnik",
+    name: "Judith Resnik",
+    lat: 41.0490,
+    lng: -81.5040,
+    radius: 500,
+    short: "Judith Resnik was born in Akron on April 5, 1949. She graduated from Firestone High School. In 1984 she flew on the shuttle Discovery. She was the second American woman in space. On January 28, 1986 she died aboard Challenger. The school in Firestone Park is the pin.",
+    long: "",
+    names: ["Judith Resnik"]
+  },
+  {
+    id: "akron-civic",
+    name: "Akron Civic Theatre",
+    lat: 41.0781,
+    lng: -81.5203,
+    radius: 350,
+    short: "Loew's opened here on April 20, 1929, at 182 South Main. John Eberson built it as an atmospheric theater, a painted night sky inside. The lobby sits over the old canal. It is one of a handful of his theaters still open. It went on the National Register in 1973.",
+    long: "",
+    names: ["Akron Civic Theatre", "John Eberson"]
+  },
+  {
+    id: "akron-perkins-mansion",
+    name: "Perkins Stone Mansion",
+    lat: 41.0836,
+    lng: -81.5452,
+    radius: 350,
+    short: "Colonel Simon Perkins, son of the man who platted Akron, finished this stone house on Copley Road in 1837. John Brown's cottage sits across Diagonal Road. The Summit County Historical Society keeps the mansion. This is the founder's hill, not the canal.",
+    long: "",
+    names: ["Simon Perkins"]
+  },
+  {
+    id: "akron-strike-1936",
+    name: "Goodyear Sit-Down",
+    lat: 41.0755,
+    lng: -81.4785,
+    radius: 700,
+    short: "In February 1936 tire builders sat down inside the Goodyear plants on East Market and would not leave. The settlement came on March 21. It was the big sit-down that came before Flint. The plant block is the pin.",
+    long: "",
+    names: ["Goodyear", "United Rubber Workers"]
+  },
+  {
+    id: "akron-riot-1900",
+    name: "Riot of 1900",
+    lat: 41.0835,
+    lng: -81.5175,
+    radius: 450,
+    short: "On August 22, 1900, a mob tried to take Louis Peck out of the new city building. He was a Black man accused of assaulting a child. The sheriff had already moved him to Cleveland. The crowd burned the building. Police fired into the street and killed two children, Glen Wade and Rhoda Davidson. Peck was convicted with no lawyer willing to defend him. In 1913 Governor James Cox pardoned him and called the imprisonment wrongful. He was not lynched. The pin is downtown, where that building stood.",
+    long: "",
+    names: ["Louis Peck", "James Cox"]
+  },
+  {
+    id: "akron-sand-run",
+    name: "Sand Run",
+    lat: 41.1315,
+    lng: -81.5530,
+    radius: 900,
+    short: "Akron set up its metro parks in 1921. Frank Seiberling pushed for them. Sand Run is the big gorge park on the west side. The tire money is mostly gone. The parks are what it left the public.",
+    long: "",
+    names: ["Sand Run", "Frank Seiberling"]
+  },
+  {
+    id: "akron-war-airdock",
+    name: "Goodyear Aircraft",
+    lat: 41.0315,
+    lng: -81.4680,
+    radius: 700,
+    short: "During the Second World War, Goodyear Aircraft built fighter planes and blimps in Akron. The Airdock, finished in 1929 for rigid airships, became the plant's giant shed. You can still see it from the highway south of town.",
+    long: "",
+    names: ["Goodyear Aircraft"]
+  },
 
 
 

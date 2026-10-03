@@ -16572,16 +16572,7 @@ const STORIES = [
     long: "",
     names: ["Mahoning River"]
   },
-  {
-    id: "alliance-marker-radio",
-    name: "Marker Radio Alliance",
-    lat: 40.9103,
-    lng: -81.1059,
-    radius: 1600,
-    short: "The person who built Marker Radio was born in Alliance. Entrepreneur, businessman, investor, and composer. A junction town sent out another kind of signal: stories that trip when you drive. You are listening to that idea now.",
-    long: "",
-    names: ["Marker Radio"]
-  },
+  
   {
     id: "alliance-legend",
     name: "Named for a meeting",
@@ -16681,21 +16672,12 @@ const STORIES = [
     lat: 40.9103,
     lng: -81.1059,
     radius: 1600,
-    short: "Robert \"Bob\" Wiley was born in Alliance. He built Marker Radio, the voice riding with you now. A junction town sent out another kind of signal: stories that trip when you drive past the places that made them.",
+    short: "Robert \"Bob\" Wiley was born in Alliance. He built Marker Radio, the voice riding with you now. A junction town sent out another kind of signal: stories that trip when you drive past the places that made them. special message to my hometown.  I loved my time there and through many travels found my way back to ohio",
     long: "",
     names: ["Bob Wiley", "Robert Wiley", "Marker Radio"]
   },
 
-  {
-    id: "alliance-marker-radio",
-    name: "Marker Radio Alliance",
-    lat: 40.9103,
-    lng: -81.1059,
-    radius: 1800,
-    short: "Robert \"Bob\" Wiley was born in Alliance. Entrepreneur, investor, composer, and the builder of Marker Radio. He took a junction town's habit of sending things down the line and pointed it at history. The voice in this car is his. The idea is simple and a little audacious: every town already had a station. Nobody had tuned it. He did. You are listening to a kid from the crossing, talking Ohio back to itself.",
-    long: "",
-    names: ["Bob Wiley", "Robert Wiley", "Marker Radio"]
-  },
+
 
   {
     id: "approach-warren-oh",

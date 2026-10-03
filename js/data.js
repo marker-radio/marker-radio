@@ -44118,6 +44118,67 @@ const STORIES = [
     long: "",
     names: ["Mahoning River"]
   },
+  {
+    id: "ashland-appleseed",
+    name: "Appleseed Monument",
+    lat: 40.8717,
+    lng: -82.3302,
+    radius: 500,
+    short: "In 1915 the children of Ashland County built a monument to Johnny Appleseed. More than a thousand of them joined a society, and each brought a nickel and a rock. It first stood at Cleveland, Union, and Main. In 1977 it was moved to Brookside Park. Chapman planted nurseries in this county. He died in Fort Wayne, not here.",
+    long: "",
+    names: ["Johnny Appleseed", "John Chapman"]
+  },
+  {
+    id: "ashland-myers",
+    name: "Myers Pumps",
+    lat: 40.8640,
+    lng: -82.3140,
+    radius: 400,
+    short: "In 1880 Philip A. Myers invented a double-acting force pump in the basement of 29 East Main. His brother Francis sold farm tools upstairs. By 1910 F.E. Myers and Brother was the largest pump maker in the country. In 1910 their sprayers were used against mosquitoes at the Panama Canal. The office building still stands at 400 Orange Street. The family also helped bring Faultless Rubber here from Akron.",
+    long: "",
+    names: ["Philip A. Myers", "Francis E. Myers", "F.E. Myers"]
+  },
+  {
+    id: "ashland-courthouse",
+    name: "Ashland Courthouse",
+    lat: 40.8682,
+    lng: -82.3208,
+    radius: 300,
+    short: "The county was formed in 1846 and this town became the seat. The first courthouse went up in 1853. The one you see, at 142 West Second Street, was built in 1928 and 1929. Vernon Redding was the architect. It stands on the same ground as the old one.",
+    long: "",
+    names: ["Vernon Redding"]
+  },
+  {
+    id: "ashland-center-street",
+    name: "Center Street",
+    lat: 40.8628,
+    lng: -82.3125,
+    radius: 500,
+    short: "The pump money built Center Street. Factory owners, bankers, and doctors put up houses here from about 1850 to 1920. The street went on the National Register in 1976. It is the residential side of the Orange Street works.",
+    long: "",
+    names: ["Center Street"]
+  },
+  {
+    id: "ashland-richmond",
+    name: "Tim Richmond",
+    lat: 40.8695,
+    lng: -82.3165,
+    radius: 450,
+    short: "Tim Richmond was born in Ashland on June 7, 1955. He won rookie of the year at the 1980 Indianapolis 500, then moved to NASCAR and won thirteen Cup races. He died in 1989, at 34. The town still claims him.",
+    long: "",
+    names: ["Tim Richmond"]
+  },
+  {
+    id: "ashland-cline",
+    name: "Ernest Cline",
+    lat: 40.8670,
+    lng: -82.3200,
+    radius: 450,
+    short: "Ernest Cline was born in Ashland on March 29, 1972, and grew up here. He wrote Ready Player One. Steven Spielberg filmed it in 2018. The book is full of the games and movies of a kid from this town.",
+    long: "",
+    names: ["Ernest Cline"]
+  },
+
 
 ];
 

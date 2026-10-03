@@ -45180,6 +45180,27 @@ const STORIES = [
     long: "",
     names: ["Cloverdale"]
   },
+  {
+    id: "columbia-city-marshall-house",
+    name: "Thomas Riley Marshall",
+    lat: 41.1570,
+    lng: -85.4888,
+    radius: 300,
+    short: "Thomas Riley Marshall was born in North Manchester on March 14, 1854. He grew up in Pierceton, went to Wabash College, and was admitted to the bar in Columbia City in 1875, when he was 21. He practiced here for 33 years. In 1895 he married Lois Irene Kimsey of Angola. He was governor of Indiana from 1909 to 1913, then vice president under Woodrow Wilson from 1913 to 1921, through the First World War. People remember the line: what this country needs is a really good five-cent cigar. He died in Washington on June 1, 1925. The grave is a mausoleum at Crown Hill in Indianapolis. The house on this street is the county historical society.",
+    long: "",
+    names: ["Thomas Riley Marshall", "Lois Irene Kimsey"]
+  },
+  {
+    id: "columbia-city-courthouse-1890",
+    name: "Whitley County Courthouse",
+    lat: 41.1564,
+    lng: -85.4892,
+    radius: 250,
+    short: "The second courthouse, about 1850, was a two-story box fifty feet square. The bell went in the cupola in 1853. Court, conventions, lectures, and church all used the upstairs. Fort Wayne architect Brentwood Tolan designed the one standing now. Work started May 14, 1888. It took two million bricks, Indiana limestone, and half a million pounds of iron. They dedicated it June 14, 1890. While it was going up, county business sat at the southeast corner of Main and Market.",
+    long: "",
+    names: ["Brentwood Tolan"]
+  },
+
 
   
 ];

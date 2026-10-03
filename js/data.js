@@ -44720,8 +44720,36 @@ const STORIES = [
     long: "",
     names: ["George W. Lewis", "John Glenn"]
   },
-
-
+  {
+    id: "brookfield-hinckley",
+    name: "Samuel Hinckley",
+    lat: 41.2348,
+    lng: -80.5584,
+    radius: 500,
+    short: "Samuel C. Hinckley bought 15,305 acres here for $12,903.23, and the tract took the name Brookfield. Delaware people camped on Yankee Creek into 1840. They called the ground Menshadowa Crebo, land of many springs.",
+    long: "",
+    names: ["Samuel C. Hinckley"]
+  },
+  {
+    id: "brookfield-whiskey",
+    name: "Twenty-two stills",
+    lat: 41.2360,
+    lng: -80.5605,
+    radius: 400,
+    short: "In the 1880s this township had 22 distilleries, and people called it the whiskey capital. The building now known as the Obermiyer Apartments belonged to the president of the county anti-slavery society. From the 1830s into the 1850s nearly 60 people running from slavery sheltered there. The hiding places were revolving cabinet doors, a trapdoor, a cellar room, and the old coal-mine passages.",
+    long: "",
+    names: ["Obermiyer Apartments"]
+  },
+  {
+    id: "brookfield-jurko",
+    name: "Yankee Lake ballroom",
+    lat: 41.2680,
+    lng: -80.5580,
+    radius: 600,
+    short: "John Jurko, a Romanian immigrant, bought this ground in the early 1920s and built the dam in 1925. He was a bootlegger. The ballroom went up in 1928. His son Paul brought in Glenn Miller, Artie Shaw, the Dorsey brothers, and Rudy Vallee. The township kept fining them for Sunday dancing and liquor, so the family incorporated Yankee Lake as its own village and changed the rule. The Jurkos still own it. The 1928 floor is still the dance floor.",
+    long: "",
+    names: ["John Jurko", "Paul Jurko"]
+  },
 ];
 
 

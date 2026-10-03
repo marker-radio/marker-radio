@@ -44830,6 +44830,37 @@ const STORIES = [
     long: "",
     names: ["Wills Creek", "National Road"]
   },
+  {
+    id: "campbell-1900",
+    name: "James Anson Campbell",
+    lat: 41.0756,
+    lng: -80.5762,
+    radius: 500,
+    short: "Youngstown Sheet and Tube was started in 1900 so the valley mills would stay in local hands. George D. Wick put James Anson Campbell in as secretary. Campbell had run the Mahoning Valley Iron Company until Republic took it. He was vice president in 1902 and president in 1904. In the first war he sat on the American Iron and Steel Institute and handed out the steel pipe. The village against the works was still called East Youngstown.",
+    long: "",
+    names: ["James Anson Campbell", "George D. Wick"]
+  },
+  {
+    id: "campbell-1916",
+    name: "January 7, 1916",
+    lat: 41.0770,
+    lng: -80.5800,
+    radius: 600,
+    short: "On January 7, 1916 the strike at Sheet and Tube broke open in East Youngstown. People got into the company headquarters and burned the records. Nearly a hundred blocks of stores and houses burned. The damage was put at a million dollars. About 2,000 National Guard troops came in after it. In 1922 the village took Campbell's name. The new sign was supposed to bury that week. Old voices still say East Youngstown.",
+    long: "",
+    names: ["East Youngstown"]
+  },
+  {
+    id: "campbell-black-monday",
+    name: "Campbell works",
+    lat: 41.0800,
+    lng: -80.5850,
+    radius: 700,
+    short: "On September 19, 1977 Youngstown Sheet and Tube shut the Campbell works. People still call that day Black Monday. The furnaces on this bank of the Mahoning went cold with the rest of the valley. The town kept the company man's name after the heat was gone.",
+    long: "",
+    names: ["Youngstown Sheet and Tube"]
+  },
+
 
 ];
 

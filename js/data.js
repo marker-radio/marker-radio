@@ -45100,6 +45100,39 @@ const STORIES = [
     long: "",
     names: ["George R. Haswell"]
   },
+  {
+    id: "clayton-1804",
+    name: "Randolph Township",
+    lat: 39.8631,
+    lng: -84.3602,
+    radius: 500,
+    short: "Randolph Township was cut out of Elizabeth Township in 1804. The first people in came by boat through Cincinnati. Quakers from Randolph County, North Carolina, led by Daniel Hoover and David Mast. With them came Mennonite and Brethren families from Pennsylvania, the Warners, Rasors, Herrs, and Brumbaughs. The old township ran from the Stillwater River on the east to Diamond Mill Road on the west, and from County Line Road on the north to Westbrook Road on the south.",
+    long: "",
+    names: ["Daniel Hoover", "David Mast"]
+  },
+  {
+    id: "clayton-road",
+    name: "National Road, 1838",
+    lat: 39.8580,
+    lng: -84.3602,
+    radius: 600,
+    short: "The National Road reached this township in 1838. That opened the second migration. German Baptist families came overland from Pennsylvania and took farms the first wave had not filled. The village of Clayton sat inside the township. The road, not a mill river, is why the later town faces the pavement.",
+    long: "",
+    names: ["National Road"]
+  },
+  {
+    id: "clayton-1998",
+    name: "January 1998",
+    lat: 39.8645,
+    lng: -84.3588,
+    radius: 400,
+    short: "A township government sat here from at least 1810 until January 1998. That month the rural part of Randolph Township merged with the Village of Clayton. The township stopped being a government. What was left of the old map is now split among Clayton, Englewood, and Union. The city still uses the village name. The township name is only on the old surveys.",
+    long: "",
+    names: ["Randolph Township", "Clayton"]
+  },
+
+
+  
 ];
 
 

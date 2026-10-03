@@ -45130,7 +45130,36 @@ const STORIES = [
     long: "",
     names: ["Randolph Township", "Clayton"]
   },
-
+  {
+    id: "cle-hts-1903",
+    name: "Hamlet, village, city",
+    lat: 41.5200,
+    lng: -81.5562,
+    radius: 500,
+    short: "Cleveland Heights was a hamlet in 1901, a village in 1903, and a city in 1921. About 1,500 people lived here when it incorporated. They stood up a volunteer fire department and used the old East Cleveland district school, built in 1882, on Superior Road. Frank C. Cain was mayor from 1914 to 1945. In 1921, the year it became a city, Cleveland Heights passed what Ohio calls its first zoning ordinance.",
+    long: "",
+    names: ["Frank C. Cain"]
+  },
+  {
+    id: "cle-hts-rockefeller",
+    name: "Forest Hill, 1938",
+    lat: 41.5300,
+    lng: -81.5680,
+    radius: 700,
+    short: "Forest Hill was John D. Rockefeller's summer place on this ridge. In 1938 his son, John D. Rockefeller Jr., gave the land to the city. Cleveland Heights and East Cleveland run the park together. A 1916 bond issue had already started a park system of about 135 acres. The oil fortune is what filled in the big piece.",
+    long: "",
+    names: ["John D. Rockefeller", "John D. Rockefeller Jr."]
+  },
+  {
+    id: "cle-hts-cain",
+    name: "Cain Park",
+    lat: 41.5120,
+    lng: -81.5600,
+    radius: 400,
+    short: "In the summer of 1934 Heights High drama teacher Dina Rees Evans put on A Midsummer Night's Dream outdoors with students and adults. She needed a name for the ravine and called it Cain Park, after the mayor. He did not object. The WPA finished the amphitheater in 1938. At the dedication Cain said to treat it well, keep it on a high plane, and above all support it and enjoy it. The Alma Theater, named for his wife, was added in 1944.",
+    long: "",
+    names: ["Dina Rees Evans", "Frank C. Cain"]
+  },
 
   
 ];

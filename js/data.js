@@ -16672,7 +16672,7 @@ const STORIES = [
     lat: 40.9103,
     lng: -81.1059,
     radius: 1600,
-    short: "Robert \"Bob\" Wiley was born in Alliance. He built Marker Radio, the voice riding with you now. A junction town sent out another kind of signal: stories that trip when you drive past the places that made them. special message to my hometown.  I loved my time there and through many travels found my way back to ohio",
+    short: "Robert \"Bob\" Wiley was born in Alliance. He built Marker Radio, the voice riding with you now. A junction town sent out another kind of signal: stories that trip when you drive past the places that made them. special message to my hometown.  I loved my time there.  It shaped the first 16 years of my life.  I don't miss the town that much but I missed the oppurtinity to see all my friends grow up.  I have lsost touch with all them.  I hope you are all doing well. through many travels and many states i have  found my way back to ohio where I live with wife and two children.",
     long: "",
     names: ["Bob Wiley", "Robert Wiley", "Marker Radio"]
   },

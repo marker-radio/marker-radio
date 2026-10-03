@@ -45020,6 +45020,28 @@ const STORIES = [
     long: "",
     names: ["Camp Sherman", "Mound City"]
   },
+  {
+    id: "churubusco-jackson",
+    name: "Aunt Mary Jackson",
+    lat: 41.2306,
+    lng: -85.3194,
+    radius: 350,
+    short: "Two small villages sat at this crossing, and neither name stuck. They held a contest. A 1949 paper still remembered Aunt Mary Jackson as the woman who won it. She picked Churubusco, the battle American troops fought outside Mexico City on August 20, 1847. A Mexican War name on an Indiana main street.",
+    long: "",
+    names: ["Mary Jackson"]
+  },
+  {
+    id: "churubusco-oscar",
+    name: "Oscar",
+    lat: 41.2280,
+    lng: -85.3150,
+    radius: 700,
+    short: "The lake is seven acres on what had been Oscar Fulk's farm. Fulk said he saw a giant snapping turtle there in 1898 and then left it alone. In July 1948 Ora Blue and Charley Wilson said they saw it while fishing. They guessed 500 pounds. Gale Harris owned the farm by then. In 1949 a Fort Wayne reporter put the story on the wire. The crowds got so thick the state police handled the traffic. Harris, with Orville Bright and Kenneth Leitch, tried to drain the lake. They sent for a diver and the wrong gear showed up. They named the turtle Oscar, after Fulk. They never caught him. Turtle Days is the town still telling it.",
+    long: "",
+    names: ["Oscar Fulk", "Gale Harris", "Beast of Busco"]
+  },
+
+
 
 
 ];

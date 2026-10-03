@@ -44399,7 +44399,28 @@ const STORIES = [
     long: "",
     names: ["Tuscarawas River"]
   },
-  
+    {
+    id: "beachwood-1915",
+    name: "Beechwood",
+    lat: 41.4640,
+    lng: -81.5000,
+    radius: 500,
+    short: "Beachwood left Warrensville Township and incorporated on June 26, 1915. The new village had 151 people. It was named for the beech trees, and the papers first spelled it Beechwood. People here say a clerk added the a. The lake is still a drive west.",
+    long: "",
+    names: ["Warrensville Township"]
+  },
+  {
+    id: "beachwood-temple",
+    name: "Fairmount Temple",
+    lat: 41.4780,
+    lng: -81.5100,
+    radius: 600,
+    short: "The local telling is that in 1910 Sam Newman, looking for cemetery land, got caught in a blizzard and stayed with the Rindfleisch family at Kinsman and Richmond. Kinsman is Chagrin now. Court order lifted the old deed limits on Jewish buyers in 1948. Euclid Avenue Temple, now Anshe Chesed Fairmount Temple, asked to build on Fairmount Boulevard. Beachwood refused the permit. In 1954 the Ohio Supreme Court ordered the village to issue it.",
+    long: "",
+    names: ["Sam Newman", "Anshe Chesed Fairmount Temple"]
+  },
+
+
 ];
 
 

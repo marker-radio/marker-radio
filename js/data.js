@@ -44419,8 +44419,30 @@ const STORIES = [
     long: "",
     names: ["Sam Newman", "Anshe Chesed Fairmount Temple"]
   },
+  {
+    id: "beavercreek-courthouse",
+    name: "Greene County's first courthouse",
+    lat: 39.7098,
+    lng: -84.0236,
+    radius: 300,
+    short: "In the late 1790s Benjamin Whiteman built a log cabin at Alpha, the first settlement in this township. His father-in-law, Owen Davis, later owned it. Peter Borders leased it as a tavern. On May 10, 1803, the court of Greene County met in that one-room cabin and created a township named Beaver Creek. The name later became Beavercreek. The last session here was in June 1804. After that the county seat was Xenia. The cabin was torn down in the 1850s. The marker is at Alpha Road and Maple Drive.",
+    long: "",
+    names: ["Benjamin Whiteman", "Owen Davis", "Peter Borders"]
+  },
+  {
+    id: "beavercreek-city",
+    name: "Beavercreek becomes a city",
+    lat: 39.7150,
+    lng: -84.0630,
+    radius: 600,
+    short: "The township stayed a township for a long time. On January 11, 1980, voters made a city out of about twenty-four square miles of it. The reason was Dayton growing east and the base next door. Wright-Patterson is not in this city. The houses are. North Fairfield is the road the new city grew along.",
+    long: "",
+    names: ["Wright-Patterson"]
+  },
 
 
+
+  
 ];
 
 

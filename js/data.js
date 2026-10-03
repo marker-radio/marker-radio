@@ -44860,6 +44860,37 @@ const STORIES = [
     long: "",
     names: ["Youngstown Sheet and Tube"]
   },
+  {
+    id: "canfield-1800",
+    name: "Judson Canfield",
+    lat: 41.0251,
+    lng: -80.7609,
+    radius: 350,
+    short: "This was a 16,324-acre tract in the Reserve. Six men bought it. Judson Canfield owned most of it. Surveying started in 1798. They first called it Campfield. On April 15, 1800 they voted to call it Canfield. By 1805 there were about 17 houses, a store, and a school. The green is the New England square they put down on this ridge.",
+    long: "",
+    names: ["Judson Canfield"]
+  },
+  {
+    id: "canfield-seat",
+    name: "The speaker's vote",
+    lat: 41.0256,
+    lng: -80.7615,
+    radius: 300,
+    short: "Canfield was in Trumbull County until 1846, when Mahoning County was cut out. The seat came here because this was the center of the new county. Youngstown wanted it. In 1874 the legislature voted to move it. The House Speaker had to break the tie. Canfield sued. The case was tried here and went to the Ohio Supreme Court. In 1875 the court let the move stand. Youngstown got the courts. This green kept the square.",
+    long: "",
+    names: ["Mahoning County"]
+  },
+  {
+    id: "canfield-1847",
+    name: "October 5, 1847",
+    lat: 41.0150,
+    lng: -80.7660,
+    radius: 600,
+    short: "The first Canfield Fair was one day, October 5, 1847. Livestock stood along Broad Street. The produce and the meetings were in the Congregational church. They set aside $150 for prizes. The Mahoning County Agricultural Society cleared $308. In 1851 the fair moved to the grounds on State Route 46 and put up a fence so they could charge admission. The first junior fair was in 1853. By 1855 it took three days. The first superintendent was J. W. Canfield, grandson of the man the town is named for.",
+    long: "",
+    names: ["Canfield Fair", "J. W. Canfield"]
+  },
+
 
 
 ];

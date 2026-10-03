@@ -44056,7 +44056,86 @@ const STORIES = [
     long: "",
     names: ["Goodyear Aircraft"]
   },
-
+  {
+    id: "alliance-crossing",
+    name: "The Crossing",
+    lat: 40.9215,
+    lng: -81.0953,
+    radius: 400,
+    short: "In 1851 the Cleveland and Pittsburgh Railroad crossed the Ohio and Pennsylvania Railroad on this spot. People called it the Crossing. William Robinson Jr., president of the Ohio and Pennsylvania, named it Alliance before the village even incorporated. The marker is at the old station, 820 East Main. Main Street dead-ends here because the street was built to reach the trains.",
+    long: "",
+    names: ["William Robinson Jr."]
+  },
+  {
+    id: "alliance-haines",
+    name: "Haines House",
+    lat: 40.9208,
+    lng: -81.1097,
+    radius: 350,
+    short: "The house at 186 West Market Street was built for John Grant and passed in 1852 to his daughter Sarah and her husband, Jonathan Ridgeway Haines. From then until the Civil War they hid freedom seekers in the attic and sent them on toward Limaville, Marlboro, and Randolph. It is one of two Stark County sites in the National Park Service Network to Freedom. The house is a museum now.",
+    long: "",
+    names: ["Jonathan Ridgeway Haines", "Sarah Grant Haines"]
+  },
+  {
+    id: "alliance-lamborn",
+    name: "Levi Lamborn",
+    lat: 40.9153,
+    lng: -81.1059,
+    radius: 400,
+    short: "Dr. Levi Lamborn lived at Main and Union. He bred a deep red carnation he called Lamborn Red. In the 1876 race for Congress he ran against William McKinley and pinned one on him. McKinley lost the race to no one else. He wore a scarlet carnation the rest of his life, including the day he was shot in Buffalo. Ohio named it the state flower on February 3, 1904. Alliance still calls itself the Carnation City.",
+    long: "",
+    names: ["Levi Lamborn", "William McKinley"]
+  },
+  {
+    id: "alliance-glamorgan",
+    name: "Glamorgan Castle",
+    lat: 40.9022,
+    lng: -81.1059,
+    radius: 450,
+    short: "William Henry Morgan built this house at 1025 South Union between 1903 and 1908. His father, Thomas R. Morgan, had started Morgan Engineering in Alliance and built the overhead traveling crane. The company made gun mounts for the Spanish-American War and the First World War. William named the house Glamorgan, for the place in Wales his father came from. The schools use it now.",
+    long: "",
+    names: ["William Henry Morgan", "Thomas R. Morgan", "Morgan Engineering"]
+  },
+  {
+    id: "alliance-dawson",
+    name: "Len Dawson",
+    lat: 40.9160,
+    lng: -81.1190,
+    radius: 600,
+    short: "Len Dawson was born in Alliance on June 20, 1935. He learned football on Goat Hill, at Morgan Avenue and Garwood, then at Alliance High. He quarterbacked the Kansas City Chiefs to Super Bowl IV and was the game's most valuable player. The Pro Football Hall of Fame took him in 1987. He died in 2022. His picture still hangs in the high school gym.",
+    long: "",
+    names: ["Len Dawson"]
+  },
+  {
+    id: "alliance-hartshorn",
+    name: "Orville Hartshorn",
+    lat: 40.9055,
+    lng: -81.1128,
+    radius: 500,
+    short: "Orville Nelson Hartshorn opened Mount Union in a carding mill in October 1846. Six students came. He ran the school until 1888. From the first term he took women as well as men, which was the point of the place. He is buried in Mount Union Cemetery, just south of Silver Park.",
+    long: "",
+    names: ["Orville Nelson Hartshorn"]
+  },
+  {
+    id: "alliance-squirrel-hunt",
+    name: "Squirrel Hunt",
+    lat: 40.9000,
+    lng: -81.1100,
+    radius: 700,
+    short: "In 1832, before this town had its name, squirrels were eating the corn around Mount Union. The farmers went out and killed about 1,600 of them. Alliance still tells the story. There is no marker. The fields were the site.",
+    long: "",
+    names: ["Great Squirrel Hunt"]
+  },
+  {
+    id: "alliance-mahoning",
+    name: "Mahoning River",
+    lat: 40.9250,
+    lng: -81.0850,
+    radius: 900,
+    short: "The Mahoning runs along the east side of Alliance. This was Delaware and Haudenosaunee country before anybody platted a lot. The river was the road. The railroads came later and took the same job.",
+    long: "",
+    names: ["Mahoning River"]
+  },
 
 
 ];

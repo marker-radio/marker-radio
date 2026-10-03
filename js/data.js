@@ -44580,7 +44580,26 @@ const STORIES = [
     long: "",
     names: ["Forrest Raffel", "Leroy Raffel"]
   },
-
+  {
+    id: "bg-courthouse-1893",
+    name: "Wood County Courthouse",
+    lat: 41.3748,
+    lng: -83.6513,
+    radius: 250,
+    short: "In the 1860s the county seat left Perrysburg. Bowling Green's first courthouse went up in 1868 on East Court Street. They tore it down in 1893 and built this one on the same ground for about $275,000. Yost and Packard of Columbus designed it. Sandstone, granite, and marble. The clock tower is about 185 feet. In 1897 they called that clock face the second largest in the country. Inside, Isaac Moore Taylor painted two murals about 1896, one of the oil field at Portage and one of Fort Meigs. He was later mayor.",
+    long: "",
+    names: ["Yost and Packard", "Isaac Moore Taylor"]
+  },
+  {
+    id: "bg-normal-1910",
+    name: "The normal school vote",
+    lat: 41.3778,
+    lng: -83.6305,
+    radius: 600,
+    short: "Governor Judson Harmon signed the Lowry Bill on May 19, 1910. It created two new normal schools. Bowling Green beat Van Wert on November 10, three votes to two. On November 25 he named this town for the western school and Kent for the eastern one. Perrysburg had tried to take it by offering Fort Meigs. The town that took the courthouse took the school.",
+    long: "",
+    names: ["Judson Harmon", "Bowling Green State University"]
+  },
 
 ];
 

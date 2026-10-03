@@ -44499,7 +44499,26 @@ const STORIES = [
     long: "",
     names: ["German Wallace College", "Baldwin-Wallace"]
   },
-
+ {
+    id: "berne-lehman",
+    name: "Peter Lehman",
+    lat: 40.6602,
+    lng: -84.9518,
+    radius: 300,
+    short: "About seventy Swiss Mennonites came from Muensterberg, in the Jura above Bern. They landed on April 28, 1852, with their minister, Peter Lehman, and organized a church at once. The first building went up in 1856. The Gothic church was built from 1910 to 1912 and dedicated on Easter, April 7, 1912, paid for. That sanctuary is the largest Mennonite church in North America.",
+    long: "",
+    names: ["Peter Lehman", "First Mennonite Church"]
+  },
+  {
+    id: "berne-zytglogge",
+    name: "Muensterberg clock",
+    lat: 40.6575,
+    lng: -84.9505,
+    radius: 250,
+    short: "The clock tower on Muensterberg Plaza is not the church steeple. It is a copy of the Zytglogge in Bern. It stands at US 27 and State Road 218. The idea was aired at the town's 150th year, in 2002. Ground was broken on March 17, 2010. They dedicated it on July 31, 2010, during Swiss Days. Sixty feet to the finial. Four clock faces.",
+    long: "",
+    names: ["Zytglogge", "Muensterberg Plaza"]
+  },
 
 ];
 

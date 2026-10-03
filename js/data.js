@@ -44178,6 +44178,66 @@ const STORIES = [
     long: "",
     names: ["Ernest Cline"]
   },
+ {
+    id: "ashtabula-hubbard-house",
+    name: "Hubbard House",
+    lat: 41.8996,
+    lng: -80.8047,
+    radius: 350,
+    short: "William and Catharine Hubbard built this house in the 1840s at Walnut Boulevard and West First Street. Freedom seekers called it Mother Hubbard's Cupboard. From here they walked a quarter mile to a warehouse on the river, and boat captains took them to Canada. It went on the National Register in 1973. The house is a museum now.",
+    long: "",
+    names: ["William Hubbard", "Catharine Hubbard"]
+  },
+  {
+    id: "ashtabula-gulf",
+    name: "Ashtabula Gulf",
+    lat: 41.8830,
+    lng: -80.7937,
+    radius: 450,
+    short: "On December 29, 1876, about half past seven at night, a Lake Shore and Michigan Southern train reached the iron bridge over this gulf. The lead engine got across. The rest fell about seventy feet and caught fire. About ninety-two people died. Amasa Stone, the railroad's president, had designed the bridge. The marker is at Indian Trails Park, 115 East 24th Street.",
+    long: "",
+    names: ["Amasa Stone"]
+  },
+  {
+    id: "ashtabula-smolen",
+    name: "Smolen-Gulf Bridge",
+    lat: 41.8556,
+    lng: -80.7619,
+    radius: 500,
+    short: "This is not the bridge that fell in 1876. State Road crosses the Ashtabula River here on the Smolen-Gulf Bridge, opened in 2008. John Smolen designed it. It is 613 feet long, the longest covered bridge in the United States. Ashtabula County has more covered bridges than any other county in Ohio.",
+    long: "",
+    names: ["John Smolen"]
+  },
+  {
+    id: "ashtabula-burchfield",
+    name: "Charles Burchfield",
+    lat: 41.8980,
+    lng: -80.8000,
+    radius: 500,
+    short: "Charles Burchfield was born at Ashtabula Harbor on April 9, 1893. He became one of the country's important watercolor painters, first of hard little towns, later of weather and woods. He left for Salem and then Buffalo. He died in 1967. The harbor is where he started.",
+    long: "",
+    names: ["Charles Burchfield"]
+  },
+  {
+    id: "ashtabula-meyer",
+    name: "Urban Meyer",
+    lat: 41.8680,
+    lng: -80.7980,
+    radius: 700,
+    short: "Urban Meyer grew up in Ashtabula. He graduated from St. John High School in 1982. The school is Saints John and Paul now. He won national titles at Florida in 2006 and 2008, then coached at Ohio State. The town still claims him.",
+    long: "",
+    names: ["Urban Meyer"]
+  },
+  {
+    id: "ashtabula-novello",
+    name: "Don Novello",
+    lat: 41.8660,
+    lng: -80.7920,
+    radius: 500,
+    short: "Don Novello was born in Ashtabula on January 1, 1943. He became Father Guido Sarducci, the chain-smoking priest on Saturday Night Live. A harbor town produced a comic.",
+    long: "",
+    names: ["Don Novello"]
+  },
 
 
 ];

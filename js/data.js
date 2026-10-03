@@ -44660,6 +44660,36 @@ const STORIES = [
     long: "",
     names: ["Otis R. Bowen"]
   },
+  {
+    id: "bristolville-wolcott",
+    name: "Alfred Wolcott",
+    lat: 41.3862,
+    lng: -80.8690,
+    radius: 300,
+    short: "Alfred Wolcott of Bristol, Connecticut, surveyed this ground early in the 1800s. It was township 6, range 4, in the Western Reserve, and he gave it the name of his town. Abraham Baughman was the first settler, in 1804. The William Sager family came in 1805. The corners here are State Routes 45 and 88. Later the Pittsburgh, Youngstown and Ashtabula put stations at Oakfield, north of the center, and at Spokane, to the east. The township center stayed on these corners.",
+    long: "",
+    names: ["Alfred Wolcott", "Abraham Baughman"]
+  },
+  {
+    id: "bristolville-church",
+    name: "Bristolville Congregational",
+    lat: 41.3868,
+    lng: -80.8682,
+    radius: 180,
+    short: "The Congregational church is the oldest meeting house in the township. Families organized it in 1817. The building went up in 1845, on the northeast corner of the town park. The congregation is gone. The building has been a school hall, a Women's Relief Corps room, and township storage. It is still standing.",
+    long: "",
+    names: ["Bristolville Congregational Church"]
+  },
+  {
+    id: "bristolville-kagi",
+    name: "John Henrie Kagi",
+    lat: 41.3856,
+    lng: -80.8696,
+    radius: 400,
+    short: "John Henrie Kagi came out of Bristolville. He fought with John Brown in Kansas. At Harpers Ferry he was Brown's second in command. He was killed there at 24. His sister Barbara Mayhew and her husband Allen, also from these corners, dug a cave under their 1855 cabin in Nebraska City to hide people running from slavery. That cabin is the only Underground Railroad site the Park Service recognizes in Nebraska.",
+    long: "",
+    names: ["John Henrie Kagi", "Barbara Mayhew"]
+  },
 
 
 ];

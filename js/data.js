@@ -44520,6 +44520,38 @@ const STORIES = [
     names: ["Zytglogge", "Muensterberg Plaza"]
   },
 
+  {
+    id: "bluffton-bennett",
+    name: "Robert Bennett",
+    lat: 40.7388,
+    lng: -85.1710,
+    radius: 300,
+    short: "On the first Monday of March 1838 the commissioners met at Robert C. Bennett's house and put the county seat on this bluff. Abram Studabaker and Bennett gave the ground and two hundred seventy dollars. The first courthouse went up in 1840, two stories, on the west side of Main between Market and Wabash. David Whitman built it. The town incorporated in 1851 with about 850 people.",
+    long: "",
+    names: ["Robert C. Bennett", "Abram Studabaker", "David Whitman"]
+  },
+  {
+    id: "bluffton-bunting",
+    name: "Wells County Courthouse",
+    lat: 40.7392,
+    lng: -85.1716,
+    radius: 200,
+    short: "The sandstone courthouse went up from 1889 to 1891. George Bunting designed it in the Richardsonian Romanesque style. Indiana sandstone outside, quarter-sawn oak inside, and a clock tower about 130 feet tall. The county still uses it.",
+    long: "",
+    names: ["George Bunting"]
+  },
+  {
+    id: "bluffton-parlor",
+    name: "Parlor City",
+    lat: 40.7375,
+    lng: -85.1725,
+    radius: 400,
+    short: "They call Bluffton the Parlor City. During the Trenton oil boom of the 1890s this town paved its streets while the neighbors were still in mud. A parlor was the clean room you showed a guest. In 1903 the town's name went on the Cincinnati, Bluffton and Chicago Railroad. That line did not last. The nickname did.",
+    long: "",
+    names: ["Trenton oil field"]
+  },
+
+
 ];
 
 

@@ -44980,6 +44980,47 @@ const STORIES = [
     long: "",
     names: ["Aaron Nutt"]
   },
+  {
+    id: "chillicothe-massie",
+    name: "Nathaniel Massie",
+    lat: 39.3331,
+    lng: -82.9824,
+    radius: 400,
+    short: "Nathaniel Massie was the surveyor for the Virginia Military District, the land between the Scioto and the Little Miami that Virginia had promised its Revolutionary soldiers. After Fallen Timbers and the Treaty of Greenville in 1795, he brought 39 men into this valley. In the summer of 1796 they laid out Chillicothe, 456 lots. He gave the first 100 lots away to get people here. The name is the Shawnee word for a principal town. He advertised the rest in Virginia and Kentucky papers.",
+    long: "",
+    names: ["Nathaniel Massie"]
+  },
+  {
+    id: "chillicothe-years",
+    name: "Two terms as capital",
+    lat: 39.3338,
+    lng: -82.9815,
+    radius: 350,
+    short: "Ohio became a state on March 1, 1803, and the capital was here. It stayed until 1810, when the chair moved to Zanesville. It came back in 1812. In 1816 it left for good, for Columbus. Chillicothe was the capital twice. The first statehouse is gone. The claim is not.",
+    long: "",
+    names: ["Chillicothe"]
+  },
+  {
+    id: "chillicothe-seal",
+    name: "The Great Seal",
+    lat: 39.3600,
+    lng: -83.0000,
+    radius: 600,
+    short: "Thomas Worthington built Adena on this hill. Benjamin Henry Latrobe designed it, and the house was finished in 1807. Worthington was later governor. The view from here, the sun coming up over Mount Logan with the Scioto in front, is the picture on the Great Seal of Ohio.",
+    long: "",
+    names: ["Thomas Worthington", "Benjamin Henry Latrobe"]
+  },
+  {
+    id: "chillicothe-sherman",
+    name: "Camp Sherman",
+    lat: 39.3750,
+    lng: -83.0030,
+    radius: 800,
+    short: "In 1917 the army built Camp Sherman on the river terrace north of town to train men for the First World War. The barracks went up on and beside the Hopewell mounds. A training camp sat on a ceremonial city two thousand years older.",
+    long: "",
+    names: ["Camp Sherman", "Mound City"]
+  },
+
 
 ];
 

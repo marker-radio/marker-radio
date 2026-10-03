@@ -44238,7 +44238,56 @@ const STORIES = [
     long: "",
     names: ["Don Novello"]
   },
-
+  {
+    id: "athens-cutler",
+    name: "Cutler Hall",
+    lat: 39.3261,
+    lng: -82.1014,
+    radius: 280,
+    short: "Cutler Hall went up on College Green between 1816 and 1819. It is the oldest building at Ohio University. It is named for Manasseh Cutler, who wrote a college into the Ohio Company land deal before Ohio was a state. Lectures had already started in 1808. This is the building.",
+    long: "",
+    names: ["Manasseh Cutler", "Cutler Hall"]
+  },
+  {
+    id: "athens-river-move",
+    name: "Hocking Channel",
+    lat: 39.3188,
+    lng: -82.1035,
+    radius: 700,
+    short: "The Hocking used to curl against the campus and flood it. Around 1970 the Army Corps cut a new channel so the river would stay south of the green. The bed you cross down here is the new one. The old bends are the low ground and the bike path.",
+    long: "",
+    names: ["Hocking River"]
+  },
+  {
+    id: "athens-maya-lin",
+    name: "Maya Lin",
+    lat: 39.3285,
+    lng: -82.0988,
+    radius: 450,
+    short: "Maya Lin was born in Athens on October 5, 1959. Her father, Henry Lin, was a ceramist and dean of the College of Fine Arts. She graduated from Athens High in 1977. In 1981, still a student at Yale, she won the design for the Vietnam Veterans Memorial. It was dedicated in Washington the next year.",
+    long: "",
+    names: ["Maya Lin", "Henry Lin"]
+  },
+  {
+    id: "athens-burrow",
+    name: "Joe Burrow",
+    lat: 39.3595,
+    lng: -82.1230,
+    radius: 700,
+    short: "Joe Burrow was born in Iowa. He grew up here. Athens High School is in The Plains, just north of town, and that is where he played. He won the Heisman Trophy at LSU in 2019. He is the quarterback of the Cincinnati Bengals. His father coached at Ohio University.",
+    long: "",
+    names: ["Joe Burrow"]
+  },
+  {
+    id: "athens-wolf-plains",
+    name: "Wolf Plains",
+    lat: 39.3705,
+    lng: -82.1320,
+    radius: 800,
+    short: "The Plains, just north of Athens, sits on a group of Adena mounds. People built them here more than two thousand years ago. The mounds are the oldest marks in the valley. The college and the coal came much later.",
+    long: "",
+    names: ["Adena", "Wolf Plains"]
+  },
 
 ];
 

@@ -44439,7 +44439,26 @@ const STORIES = [
     long: "",
     names: ["Wright-Patterson"]
   },
-
+  {
+    id: "bellefontaine-holland",
+    name: "Holland Theatre",
+    lat: 40.3611,
+    lng: -83.7589,
+    radius: 200,
+    short: "The Holland Theatre opened on February 12, 1931, at 125 East Columbus Avenue. The Schine circuit built it. Peter Hulsken, a Dutch architect in Lima, designed the inside as a Dutch village. It cost about one hundred fifty thousand dollars. It was a movie house, then it went dark, and it is a stage again. The square has the concrete. This block has the palace.",
+    long: "",
+    names: ["Peter Hulsken", "Holland Theatre"]
+  },
+  {
+    id: "bellefontaine-bartholomew",
+    name: "George Bartholomew",
+    lat: 40.3606,
+    lng: -83.7592,
+    radius: 200,
+    short: "George Bartholomew came to Logan County in 1886 for the stone that makes cement. In 1891 he poured a test patch on Main Street. It held. In 1893 the city let him pave Court Avenue and the streets around the courthouse. That is the stretch called the first concrete pavement in the country. The street is still the one next to the courthouse.",
+    long: "",
+    names: ["George Bartholomew"]
+  },
 
 
   

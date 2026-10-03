@@ -44550,6 +44550,36 @@ const STORIES = [
     long: "",
     names: ["Trenton oil field"]
   },
+  {
+    id: "boardman-elijah",
+    name: "Elijah Boardman",
+    lat: 41.0242,
+    lng: -80.6600,
+    radius: 500,
+    short: "Elijah Boardman was a Connecticut Land Company agent, and later a United States senator from Connecticut. This was his tract, township 1, range 2, in the Western Reserve. The township was set up in 1806. The seal says 1805. It is the only Boardman Township in Ohio. He kept his seat in Connecticut. The farms got his name.",
+    long: "",
+    names: ["Elijah Boardman", "Connecticut Land Company"]
+  },
+  {
+    id: "boardman-southern-park",
+    name: "Southern Park",
+    lat: 41.0150,
+    lng: -80.6620,
+    radius: 500,
+    short: "From about 1911 to 1925 this corner had a harness track called Southern Park. Fifty-five acres, bounded by Market, Southern Boulevard, Washington Boulevard, and McClurg. David Tod, son of the governor, and H. H. Stambaugh were behind it. The races stopped. In 1970 the DeBartolo company opened Southern Park Mall up on Market and took the name. The mall is not the track.",
+    long: "",
+    names: ["David Tod", "H. H. Stambaugh"]
+  },
+  {
+    id: "boardman-arbys",
+    name: "First Arby's",
+    lat: 41.0210,
+    lng: -80.6635,
+    radius: 400,
+    short: "The first Arby's opened on Market Street in Boardman in 1964. Forrest and Leroy Raffel started it. The name is the Raffel brothers. A roast-beef stand on a township strip, before the chain was a chain.",
+    long: "",
+    names: ["Forrest Raffel", "Leroy Raffel"]
+  },
 
 
 ];

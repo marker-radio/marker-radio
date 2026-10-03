@@ -44630,6 +44630,37 @@ const STORIES = [
     long: "",
     names: ["Otis R. Bowen"]
   },
+  {
+    id: "bremen-plat",
+    name: "New Bremen",
+    lat: 41.4472,
+    lng: -86.1488,
+    radius: 350,
+    short: "German settlers platted this town in 1851, in German Township, and called it New Bremen. The New came off. It incorporated in 1871. The Yellow River runs along the west side, still near its headwaters, on the way to the Kankakee. The first brick streets went down in 1913, and some of that brick is still in the pavement. The black soil made it the Mint City. Northern Indiana grew mint here until Oregon and Washington took the crop. The nickname stayed.",
+    long: "",
+    names: ["Yellow River"]
+  },
+  {
+    id: "bremen-standpipe",
+    name: "Bremen standpipe",
+    lat: 41.4464,
+    lng: -86.1481,
+    radius: 200,
+    short: "The standpipe in the middle of town went up in 1882. One hundred one feet. It held 30,000 gallons and worked until 1955. In 1975 the American Water Works Association named it an American Historic Water Landmark. It is a water tower that does not hold water anymore.",
+    long: "",
+    names: ["Bremen standpipe"]
+  },
+  {
+    id: "bremen-bowen",
+    name: "Otis Bowen",
+    lat: 41.4456,
+    lng: -86.1472,
+    radius: 400,
+    short: "Otis R. Bowen came out of Bremen. He sat in the Indiana House and was Speaker. Voters elected him governor in 1972. From 1985 to 1989 he was secretary of Health and Human Services for Ronald Reagan. The Dietrich-Bowen House is on the National Register.",
+    long: "",
+    names: ["Otis R. Bowen"]
+  },
+
 
 ];
 

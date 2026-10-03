@@ -44810,7 +44810,26 @@ const STORIES = [
     long: "",
     names: ["John Stearns", "Lucy Stearns"]
   },
-
+  {
+    id: "cambridge-bennett",
+    name: "Arthur J. Bennett",
+    lat: 40.0250,
+    lng: -81.5885,
+    radius: 700,
+    short: "Cambridge had coal and gas, and in 1901 the Cambridge Improvement Company gave National Glass a site if they would build here. The first piece came out in May 1902, a three-pint pitcher. Arthur J. Bennett, from England, ran the plant. In 1907 National Glass was failing, and Bennett used his savings to raise $500,000 and buy it. At the peak about 700 people worked three shifts. The furnaces went out in 1958. Collectors still hunt the colored ware.",
+    long: "",
+    names: ["Arthur J. Bennett", "Cambridge Glass Company"]
+  },
+  {
+    id: "cambridge-sbridge",
+    name: "The S bridge",
+    lat: 40.0280,
+    lng: -81.5750,
+    radius: 1000,
+    short: "East of the square the National Road crosses Wills Creek on a stone bridge built in an S. The curve let the road meet the creek at a right angle instead of on a slant. Wagons on Wheeling Avenue were already on Zane's Trace. The pike just paved the older line. I-70 took the through traffic. The S is still the old geometry.",
+    long: "",
+    names: ["Wills Creek", "National Road"]
+  },
 
 ];
 

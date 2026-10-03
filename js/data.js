@@ -44479,7 +44479,28 @@ const STORIES = [
     long: "",
     names: ["Dayton and Michigan Railroad"]
   },
-  
+  {
+    id: "berea-baldwin-stone",
+    name: "John Baldwin",
+    lat: 41.3654,
+    lng: -81.8517,
+    radius: 350,
+    short: "John Baldwin found this stone on his farm in the early 1830s. A piece of it sharpened a knife. He set up a lathe, cut grindstones, and leased the ground to other quarrymen. They called the rock Berea grit. It went into the Ohio capitol and into Canada's parliament buildings, and it paid for his school. The pits covered about 250 acres and ate the old south side. The last Berea stone came out in 1939. Coe Lake is one of the holes. The marker is on the walk around the lake.",
+    long: "",
+    names: ["John Baldwin", "Berea sandstone"]
+  },
+  {
+    id: "berea-german-wallace",
+    name: "German Wallace",
+    lat: 41.3705,
+    lng: -81.8480,
+    radius: 500,
+    short: "German Methodist families built German Wallace College on this ground, beside John Baldwin's school. The two colleges joined in 1913 and kept both names. The quarry company bought the land out from under the campus. It gave stone back, and the college rebuilt on the edge of the pits. The school stayed. The quarries did not.",
+    long: "",
+    names: ["German Wallace College", "Baldwin-Wallace"]
+  },
+
+
 ];
 
 

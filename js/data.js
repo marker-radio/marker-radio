@@ -45070,8 +45070,36 @@ const STORIES = [
     long: "",
     names: ["George R. Haswell"]
   },
-
-
+  {
+    id: "circleville-dreisbach",
+    name: "Daniel Dreisbach",
+    lat: 39.6006,
+    lng: -82.9460,
+    radius: 300,
+    short: "Daniel Dreisbach was born May 28, 1778, in Buffalo Valley, Pennsylvania. He died September 28, 1850. He laid out a town called Livingston, now gone, and built a mill on Scippo Creek. In 1810 the legislature sent David Bradford, George Jackson, and John Pollack to pick a county seat. They picked the old earthwork. Dreisbach was 32. That summer he surveyed the circle instead of wiping it out, and sold the lots. They built an octagonal courthouse in the middle, where Court and Main meet now.",
+    long: "",
+    names: ["Daniel Dreisbach", "David Bradford", "George Jackson", "John Pollack"]
+  },
+  {
+    id: "circleville-squared",
+    name: "Squaring the circle",
+    lat: 39.6002,
+    lng: -82.9454,
+    radius: 300,
+    short: "A round town was hard to parcel. In 1837 the Squaring Circleville Company asked the legislature to straighten the streets. In 1838 the state said yes, and they handed the job to Dreisbach. He had to erase the plan he had drawn. The southeast quarter was redone in March 1839 and the northwest that September. The northeast waited until 1849. The last of the circle was gone in 1856. Dreisbach died in 1850. He did not live to see it finished.",
+    long: "",
+    names: ["Daniel Dreisbach"]
+  },
+  {
+    id: "circleville-haswell",
+    name: "George R. Haswell",
+    lat: 39.6008,
+    lng: -82.9472,
+    radius: 250,
+    short: "In October 1903 George R. Haswell was mayor and also superintendent of the water works. He put a small exhibit in front of his place on West Main Street so farm people and town people would look at the same harvest. Corn fodder and pumpkins, a lot of them cut into jack-o-lanterns, did the decorating. People called it the pumpkin show. The next year the merchants joined him. In 1905 a merry-go-round went up at Main and Scioto. On August 8, 1946 they made it a nonprofit. The mayor is still president, in honor of Haswell. There is no gate. They call it the greatest free show on earth.",
+    long: "",
+    names: ["George R. Haswell"]
+  },
 ];
 
 

@@ -44318,6 +44318,36 @@ const STORIES = [
     long: "",
     names: ["Aylett R. Cotton"]
   },
+  {
+    id: "avon-lake-plant-site",
+    name: "Avon Lake Power Plant",
+    lat: 41.5054,
+    lng: -82.0543,
+    radius: 500,
+    short: "Cleveland Electric Illuminating built this plant on Lake Road in 1926. It cost about thirty million dollars. When it opened it was one of the largest coal plants in the world. It pumped lake water to cool the steam, twice what the city waterworks used. By 1950 it was burning about four thousand tons of coal a day. The last unit shut in April 2022. The stacks were imploded in December 2024. The ground is supposed to become a park.",
+    long: "",
+    names: ["Cleveland Electric Illuminating"]
+  },
+  {
+    id: "avon-lake-miller",
+    name: "Miller Road",
+    lat: 41.5068,
+    lng: -82.0465,
+    radius: 400,
+    short: "Adam Miller and his family settled on this shore in 1819. They were the first permanent settlers in what became Avon Lake. Miller Road still carries the name. The beach park here is the public edge of that claim.",
+    long: "",
+    names: ["Adam Miller"]
+  },
+  {
+    id: "avon-lake-interurban",
+    name: "Lake Shore Electric",
+    lat: 41.5020,
+    lng: -82.0200,
+    radius: 700,
+    short: "In 1915 Avon Township split. The land north of the railroad became Avon Lake. Avon kept the ridge. This side kept the water. The Lake Shore Electric had a car barn at the beach park by 1897. Its last run, Cleveland to Lorain, was in 1938. The interurban made the resort. The houses stayed after the cars stopped.",
+    long: "",
+    names: ["Lake Shore Electric"]
+  },
 
 ];
 

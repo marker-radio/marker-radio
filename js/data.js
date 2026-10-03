@@ -44369,7 +44369,36 @@ const STORIES = [
     long: "",
     names: ["Joseph Prudden Ayers"]
   },
-
+  {
+    id: "barberton-farm-site",
+    name: "Anna Dean Farm",
+    lat: 41.0067,
+    lng: -81.6272,
+    radius: 450,
+    short: "Ohio Columbus Barber started buying this ground about 1900. He wanted a model farm of about 3,500 acres beside the city he had named for himself. The barns went up from 1909 to 1913 and cost about seven million dollars. The farm was named for his daughter Anna and her husband, Dr. Arthur Dean Bevan. The 52-room house came down in 1965. Barber died in 1920. Most of the buildings followed him. Six of the concrete barns are still standing.",
+    long: "",
+    names: ["Ohio Columbus Barber", "Anna Laura Bevan", "Arthur Dean Bevan"]
+  },
+  {
+    id: "barberton-chicken",
+    name: "Barberton chicken",
+    lat: 41.0122,
+    lng: -81.5975,
+    radius: 500,
+    short: "Serbian families who came for the factory jobs started the fried-chicken houses here in the 1930s. Belgrade Gardens is the one people name first. The plate is chicken, hot rice, coleslaw, and fries. The match works brought the people. The kitchens stayed after the factories thinned out.",
+    long: "",
+    names: ["Belgrade Gardens"]
+  },
+  {
+    id: "barberton-tuscarawas",
+    name: "Tuscarawas",
+    lat: 41.0045,
+    lng: -81.6050,
+    radius: 600,
+    short: "This is the south side of the divide. The Cuyahoga runs north to Lake Erie. The Tuscarawas gathers here and runs south toward the Muskingum and the Ohio. Barber built the Magic City on that southern water. The portage path is north, in Akron. The river under this town is the one that leaves the lake.",
+    long: "",
+    names: ["Tuscarawas River"]
+  },
   
 ];
 

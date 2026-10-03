@@ -44780,7 +44780,38 @@ const STORIES = [
     long: "",
     names: ["Samuel Spitler", "George F. Barber"]
   },
-  
+    {
+    id: "brunswick-1815",
+    name: "The naming contest",
+    lat: 41.2445,
+    lng: -81.8418,
+    radius: 400,
+    short: "Brunswick was founded on January 1, 1815. The name was not a settler's town. It was drawn in a naming contest, after Brunswick, Germany. It stayed a township until February 1, 1960, when it incorporated as a village. On October 2 of that same year it became a city. It is the largest city in Medina County.",
+    long: "",
+    names: ["Brunswick"]
+  },
+  {
+    id: "brunswick-ward",
+    name: "Jacob Ward",
+    lat: 41.2448,
+    lng: -81.8408,
+    radius: 250,
+    short: "In 1817 the Reverend Jacob Ward came from Pittsfield, Massachusetts, with his sister Rhoda Stowe and her sons John and Daniel. He organized the first Methodist class here, 13 members. Services were in a log school about a quarter mile west of the center. That church is the oldest in Medina County and the second oldest in the Western Reserve. War Hall at Baldwin Wallace was built in his memory.",
+    long: "",
+    names: ["Jacob Ward", "Rhoda Stowe"]
+  },
+  {
+    id: "brunswick-stearns",
+    name: "Stearns burying ground",
+    lat: 41.2445,
+    lng: -81.8455,
+    radius: 250,
+    short: "In November 1830 John and Lucy Stearns gave a piece of land just west of the center to the township trustees. It was for a burying ground. The town was fifteen years old. The cemetery is older than the city by more than a century.",
+    long: "",
+    names: ["John Stearns", "Lucy Stearns"]
+  },
+
+
 ];
 
 

@@ -44288,6 +44288,36 @@ const STORIES = [
     long: "",
     names: ["Adena", "Wolf Plains"]
   },
+  {
+    id: "austintown-log-house",
+    name: "Austintown Log House",
+    lat: 41.0617,
+    lng: -80.7322,
+    radius: 400,
+    short: "The township was surveyed in 1793 and named for Calvin Austin, a Western Reserve land agent. John McCollum settled in 1794. This cabin is later. On April 29, 1814, Austin sold 150 acres to John Packard. Packard's family lived in the log house. In 1973 it was found inside a later house they were about to tear down, near St. Andrew's Church. It stands at 3797 South Raccoon Road. People on that road will tell you a headless soldier stands in the upstairs window. That part is the legend.",
+    long: "",
+    names: ["Calvin Austin", "John Packard", "John McCollum"]
+  },
+  {
+    id: "austintown-stone-house",
+    name: "Strock Stone House",
+    lat: 41.0972,
+    lng: -80.8118,
+    radius: 300,
+    short: "The stone house at 7171 Mahoning Avenue was built in 1831. William Strock put it up from sandstone cut on South Turner Road. Some blocks weigh about 750 pounds. Judge William Shaw Anderson lived here from 1890 to 1925. The post office in this township was called Orange from 1815 until 1872, when it finally took the name Austintown.",
+    long: "",
+    names: ["William Strock", "William Shaw Anderson"]
+  },
+  {
+    id: "austintown-cotton",
+    name: "Aylett Cotton",
+    lat: 41.1030,
+    lng: -80.7550,
+    radius: 500,
+    short: "Aylett R. Cotton was born in Austintown on November 29, 1826. He taught school, went to the California gold fields in 1849, then settled in Iowa. He served in Congress from that state. A farm township sent a boy out, and he did not come back.",
+    long: "",
+    names: ["Aylett R. Cotton"]
+  },
 
 ];
 

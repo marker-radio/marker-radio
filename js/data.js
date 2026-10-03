@@ -44349,6 +44349,28 @@ const STORIES = [
     names: ["Lake Shore Electric"]
   },
 
+  {
+    id: "ayersville-cemetery",
+    name: "Ayersville Cemetery",
+    lat: 41.2519,
+    lng: -84.2884,
+    radius: 350,
+    short: "Ayersville Cemetery, also called Pleasant Bend, is about a mile north of the crossroads. It sits on the west side of Fruit Ridge Road at Shindler Road. The 1883 county history does not name a railroad, a native village, or a battlefield here. This graveyard is the mark that stayed.",
+    long: "",
+    names: ["Pleasant Bend Cemetery"]
+  },
+  {
+    id: "ayersville-joseph",
+    name: "Joseph Ayers",
+    lat: 41.2395,
+    lng: -84.2865,
+    radius: 400,
+    short: "The crossroads was named for Joseph Prudden Ayers. He was born in Morris County, New Jersey, on June 30, 1815. The 1883 county history gives him his own chapter. He died in Defiance on January 22, 1893. He is buried at Riverside Cemetery there, not in the graveyard a mile north of here.",
+    long: "",
+    names: ["Joseph Prudden Ayers"]
+  },
+
+  
 ];
 
 

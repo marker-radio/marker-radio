@@ -44690,6 +44690,36 @@ const STORIES = [
     long: "",
     names: ["John Henrie Kagi", "Barbara Mayhew"]
   },
+  {
+    id: "brook-park-1914",
+    name: "North Middleburg",
+    lat: 41.3984,
+    lng: -81.8046,
+    radius: 500,
+    short: "In 1807 Postmaster General Gideon Granger took township 6, range 14, the ground that became Middleburg. The Hickox family settled it in 1809. In 1914 the north end incorporated as the village of Brook Park. It became a city in 1950. Cleveland Hopkins had already opened on the north line in 1925, named for city manager William R. Hopkins.",
+    long: "",
+    names: ["Gideon Granger", "William R. Hopkins"]
+  },
+  {
+    id: "brook-park-yblock",
+    name: "Ford engine plant",
+    lat: 41.4115,
+    lng: -81.8180,
+    radius: 700,
+    short: "Ford opened Engine Plant No. 1 here in 1951 and built the Lincoln Y-block, the company's first overhead-valve V8. Plant No. 2 opened in 1955 for the 292 that went in the Thunderbird. With the foundry, this was Ford's second biggest complex after Dearborn. It sits on Henry Ford Boulevard, against the airport fence.",
+    long: "",
+    names: ["Ford Motor Company"]
+  },
+  {
+    id: "brook-park-glenn",
+    name: "Lewis to Glenn",
+    lat: 41.4125,
+    lng: -81.8610,
+    radius: 800,
+    short: "The lab on the airport fence began in the war as a national aircraft-engine laboratory. It later carried the name of George W. Lewis. In 1999 NASA renamed it for John Glenn. In 2001 a land deal with Cleveland put the center inside Brook Park.",
+    long: "",
+    names: ["George W. Lewis", "John Glenn"]
+  },
 
 
 ];

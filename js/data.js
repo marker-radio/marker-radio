@@ -44950,6 +44950,36 @@ const STORIES = [
     long: "",
     names: ["Carlisle Literary Society"]
   },
+  {
+    id: "centerville-survey",
+    name: "Three brothers-in-law",
+    lat: 39.6284,
+    lng: -84.1594,
+    radius: 400,
+    short: "In 1796 Aaron Nutt, Benjamin Robbins, and Benjamin Archer surveyed this ridge. They were brothers-in-law from New Jersey, coming up from Kentucky. Robbins took 160 acres on the springs northwest of the center. Nutt took 320. The stone village sits on their lots.",
+    long: "",
+    names: ["Aaron Nutt", "Benjamin Robbins", "Benjamin Archer"]
+  },
+  {
+    id: "centerville-robbins",
+    name: "April 6, 1797",
+    lat: 39.6315,
+    lng: -84.1635,
+    radius: 350,
+    short: "Benjamin Robbins was born November 29, 1760, in Monmouth County, New Jersey. In 1782 he married Bathsheba Nutt, Aaron's sister. On April 6, 1797 he brought the family from Dry Ridge, Kentucky. The trip took ten days. They cut the wagon path as they came. A storm took the roof off the first cabin. Around 1803 they built a stone house. It is still in the back of the Routsong Funeral Home. The two-story front went on in 1820. In 1798 his tax on the land was a dollar and thirty cents.",
+    long: "",
+    names: ["Benjamin Robbins", "Bathsheba Nutt"]
+  },
+  {
+    id: "centerville-nutt",
+    name: "Aaron Nutt",
+    lat: 39.6292,
+    lng: -84.1590,
+    radius: 200,
+    short: "Aaron Nutt arrived with his family in 1799. Men from Franklin helped him raise a cabin in one day. He had been a tailor. In 1777 a man named Lippencott was drafted, and Nutt went in his place. The stone house at 78 North Main is thought to be his, about 1810. The walls are twenty inches thick. There is a limestone cellar and a trap door. He died in 1842 and is buried in the old Centerville Cemetery beside his two wives. The cottage was restored in 2003.",
+    long: "",
+    names: ["Aaron Nutt"]
+  },
 
 ];
 

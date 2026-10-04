@@ -47592,8 +47592,87 @@ const STORIES = [
     long: "",
     names: ["Scioto Company"]
   },
-
-
+  {
+    id: "approach-prospect",
+    name: "Prospect",
+    lat: 40.4503,
+    lng: -83.1885,
+    radius: 6000,
+    layer: "approach",
+    short: "You are coming up on Prospect. Christian Gast platted it in 1835 on the east bank of the Scioto and called it Middletown, because it sat midway between Delaware and Marion. The railroad made the town take a new name. If you go on up Larue-Prospect Road, I will tell you about the treaty line that still crosses that road.",
+    long: "",
+    names: ["Prospect", "Christian Gast", "Scioto River"]
+  },
+  {
+    id: "prospect-gast",
+    name: "Middletown plat",
+    lat: 40.4503,
+    lng: -83.1885,
+    radius: 800,
+    short: "On September 17, 1835, Christian Gast laid out 81 lots on the east bank of the Scioto. He filed the plat at the recorder's office in Delaware that Christmas, because this ground was still Delaware County. He named it Middletown. Marion County did not take the township until 1848. Gast was not the first cabin here. He was the first man to write a town down on paper.",
+    long: "",
+    names: ["Christian Gast", "Middletown"]
+  },
+  {
+    id: "prospect-settlers",
+    name: "The first cabins",
+    lat: 40.4620,
+    lng: -83.1900,
+    radius: 900,
+    short: "The first families were here in 1814, about a mile north of the later plat. Richard Tibbitt settled the west bank. Ephraim Markley and Evan Evans settled the east bank. The next year Darius Landon and his brother Cyre took land on the west bank, opposite where the village stands. Those cabins sat on the same ground as the old treaty line.",
+    long: "",
+    names: ["Richard Tibbitt", "Ephraim Markley", "Evan Evans", "Darius Landon", "Cyre Landon"]
+  },
+  {
+    id: "prospect-name",
+    name: "Why it is Prospect",
+    lat: 40.4503,
+    lng: -83.1885,
+    radius: 700,
+    short: "Middletown was a bad name for the mail. Ohio already had other Middletowns, and letters went to the wrong one. In January 1876 the court let the village change it. The new name was already in use. Christian Gast the younger had just platted sixty lots along the new railroad and called that addition Prospect. The old village took the new name.",
+    long: "",
+    names: ["Christian Gast", "Middletown", "Prospect"]
+  },
+  {
+    id: "prospect-rail",
+    name: "Columbus and Toledo Railroad",
+    lat: 40.4515,
+    lng: -83.1805,
+    radius: 800,
+    short: "The Columbus and Toledo Railroad was being built through here in 1876, about a fifth of a mile east of the old plat. Gast's son laid his sixty lots against that track, and the depot went up on them. Water and rail in the same village is why Prospect grew. By 1883 it had dry goods, two banks, and a newspaper.",
+    long: "",
+    names: ["Columbus and Toledo Railroad", "Christian Gast"]
+  },
+  {
+    id: "prospect-scioto",
+    name: "The Scioto",
+    lat: 40.4500,
+    lng: -83.1930,
+    radius: 1000,
+    short: "The town sits in the Scioto bottom, mostly on the east bank. The river was the road before the railroad was. It was also the line between two land systems. East of the Scioto was the Virginia Military District, land for Virginia's Revolutionary veterans. The bottoms flooded, the soil was the reason people stayed, and the river is still the public ground at the foot of the village.",
+    long: "",
+    names: ["Scioto River", "Virginia Military District"]
+  },
+  {
+    id: "prospect-springs",
+    name: "The springs",
+    lat: 40.4475,
+    lng: -83.1875,
+    radius: 600,
+    short: "Prospect advertised its springs as magnetic, or as sulphur, and people came with jugs. There were at least four. One was by the Gast Sanatorium on South Main Street, where Battle Run comes in. Another, downtown, was built like a Roman bath, steps down into the water. Whether the water was magnetic is the part nobody proved. The belief was enough to make the town a small resort. Magnetic Springs, the village, is a different place.",
+    long: "",
+    names: ["Gast Sanatorium", "Battle Run"]
+  },
+  {
+    id: "prospect-treaty",
+    name: "The Greenville line",
+    lat: 40.4950,
+    lng: -83.1905,
+    radius: 1400,
+    short: "You are on Larue-Prospect Road. About two miles south of here, this road crosses a line drawn in 1795. That August, at Greenville, General Anthony Wayne and the chiefs of the Wyandot, Shawnee, Delaware, Miami, and other nations signed the treaty that ended the war after Fallen Timbers. Israel Ludlow surveyed the line in 1797. South of it, the United States took the land. North of it, the treaty left the land to those nations. This ground is on the north side. Boundary Road, over at Route 4, is the same line. The marker there says the north was for the Indians and the south for the settlers. The promise did not hold. Treaties in 1817 and 1818 took the north side too. The Wyandot were removed from Upper Sandusky in 1843. The line is still in the roads and in the old deeds. You are on what used to be the edge of the country.",
+    long: "You are on Larue-Prospect Road. About two miles south of here, this road crosses a line drawn in 1795. That August, at Greenville, General Anthony Wayne and the chiefs of the Wyandot, Shawnee, Delaware, Miami, and other nations signed the treaty that ended the war after Fallen Timbers. Israel Ludlow surveyed the line in 1797. South of it, the United States took the land. North of it, the treaty left the land to those nations. This ground is on the north side. Boundary Road, over at Route 4, is the same line. The marker there says the north was for the Indians and the south for the settlers. The promise did not hold. Treaties in 1817 and 1818 took the north side too. The Wyandot were removed from Upper Sandusky in 1843. The line is still in the roads and in the old deeds. You are on what used to be the edge of the country.",
+    names: ["Greenville Treaty", "Anthony Wayne", "Israel Ludlow", "Wyandot", "Shawnee", "Delaware", "Miami", "Fallen Timbers"]
+  },
 
 
 

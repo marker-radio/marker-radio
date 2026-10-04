@@ -46337,6 +46337,28 @@ const STORIES = [
     long: "",
     names: ["Samuel Medary"]
   },
+  {
+    id: "medina-hamilton",
+    name: "Zenas Hamilton",
+    lat: 41.1384,
+    lng: -81.8637,
+    radius: 700,
+    short: "Elijah Boardman of the Connecticut Land Company owned this township. A man named Hinman built the first cabin in 1810, on lot 22, and left during the War of 1812. Zenas Hamilton, from Danbury, Connecticut, by way of Harpersfield, New York, moved into that cabin in October 1814. He was the first settler who stayed. His son Matthew, born June 9, 1815, was the first child in the township. The village was laid out on November 30, 1818, and the plat was recorded on January 6, 1820. Captain Austin Badger built the first double-log house and, with a man named Hickox, opened the first tavern. It was called Mecca until they found the name already taken. They chose Medina, the other holy city. The village incorporated on January 31, 1835.",
+    long: "",
+    names: ["Zenas Hamilton", "Elijah Boardman", "Austin Badger", "Matthew Hamilton"]
+  },
+  {
+    id: "medina-root",
+    name: "Amos Root",
+    lat: 41.1384,
+    lng: -81.8637,
+    radius: 500,
+    short: "Amos Root founded the A. I. Root Company in Medina in 1869. He made beehives and the tools of beekeeping, not candles. By 1886 the shop had 97 hands, the biggest employer in town. The candles came later. The square was already a Western Reserve green. The hive factory is what put the name on boxes that left the county.",
+    long: "",
+    names: ["Amos Root"]
+  },
+
+
 
 
 

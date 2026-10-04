@@ -45431,7 +45431,26 @@ const STORIES = [
     long: "",
     names: ["James Bennett"]
   },
-
+  {
+    id: "east-pal-mccalla",
+    name: "Mechanicsburg",
+    lat: 40.8334,
+    lng: -80.5392,
+    radius: 450,
+    short: "Thomas McCalla and William Grate platted this town in 1828 and called it Mechanicsburg. In 1833 they changed the name to Palestine, in the same biblical habit that put Enon Valley, New Galilee, Salem, and Medina on this border. A town called Palestine already sat in western Ohio. When this place incorporated in 1875, it had to take East Palestine. In 1920 it was reclassified as a city. Market Street is State Route 170.",
+    long: "",
+    names: ["Thomas McCalla", "William Grate"]
+  },
+  {
+    id: "east-pal-tracks",
+    name: "Four tracks",
+    lat: 40.8342,
+    lng: -80.5410,
+    radius: 500,
+    short: "Clay in this ground fed brick and tile plants, not just East Liverpool's cups. The town's real street was the railroad. By 1920 the Pennsylvania ran four tracks through here. Within a mile, the Pittsburgh, Lisbon and Western switched onto the Pittsburgh and Lake Erie and the New York Central. A border village became a place where three companies' trains could change roads.",
+    long: "",
+    names: ["Pennsylvania Railroad"]
+  },
 
 
   

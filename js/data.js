@@ -46133,7 +46133,26 @@ const STORIES = [
     long: "",
     names: ["Clement Laird Vallandigham", "John Hunt Morgan"]
   },
-
+  {
+    id: "logansport-carter",
+    name: "Chauncey Carter",
+    lat: 40.7545,
+    lng: -86.3567,
+    radius: 700,
+    short: "Chauncey Carter owned the original plat. The lots were staked on April 10, 1828, 111 of them, a triangle between Canal Street and Fifth Street. The plat was recorded in Carroll County on September 3, 1828, because Cass County did not exist yet. The first lot sold went to John B. Duret, who had made a finished copy of the drawing. George W. Ewing and Cyrus Taber, both just in from Fort Wayne, bought lots the same day. The Wabash and Erie reached here from Toledo in 1837. The first locomotive came in 1855.",
+    long: "",
+    names: ["Chauncey Carter", "John B. Duret", "George W. Ewing", "Cyrus Taber"]
+  },
+  {
+    id: "logansport-logan",
+    name: "Spemica Lawba",
+    lat: 40.7545,
+    lng: -86.3567,
+    radius: 600,
+    short: "The town is named for Captain Logan, a Mekoche Shawnee. His own name was Spemica Lawba, High Horn. He was also called James Logan. He scouted for the Americans and was killed on November 25, 1812, near the Maumee. Hugh B. McKeen, who had lived on that river, asked that the new town remember him. Colonel Duret added the word port, because the Eel meets the Wabash here. Logan's Port. That is the whole name.",
+    long: "",
+    names: ["Spemica Lawba", "Hugh B. McKeen", "John B. Duret"]
+  },
   
 ];
 

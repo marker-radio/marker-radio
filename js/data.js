@@ -46174,6 +46174,26 @@ const STORIES = [
     long: "",
     names: ["Lordstown Assembly"]
   },
+  {
+    id: "lyndhurst-contest",
+    name: "The high school contest",
+    lat: 41.52,
+    lng: -81.4887,
+    radius: 600,
+    short: "This ground was Euclid Township, farmed mostly by German families. It incorporated in 1917 as the village of Euclidville. In 1920 a high school contest renamed it Lyndhurst, a salute to Lyndhurst, New Jersey. It became a city in 1951. Water mains arrived in 1922. The count went from 288 people in 1920 to about 2,400 by 1940, and it peaked near 19,800 in 1970. There was never a mill here. Mayfield Road did the hiring.",
+    long: "",
+    names: ["Euclidville"]
+  },
+  {
+    id: "lyndhurst-bolton",
+    name: "Frances Payne Bolton",
+    lat: 41.52,
+    lng: -81.4887,
+    radius: 700,
+    short: "Chester Castle Bolton and Frances Payne Bolton both served in Congress. Their estate stood in this village. In 1983 TRW built its world headquarters on that ground. A farm township that refused a factory ended up with a corporate roof on a congressman's lawn.",
+    long: "",
+    names: ["Frances Payne Bolton", "Chester Castle Bolton"]
+  },
 
   
 ];

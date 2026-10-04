@@ -46477,7 +46477,27 @@ const STORIES = [
     long: "",
     names: ["Ohio and Indiana Railroad"]
   },
-  
+    {
+    id: "mongo-clark",
+    name: "John B. Clark",
+    lat: 41.6842,
+    lng: -85.2783,
+    radius: 600,
+    short: "John B. Clark was the first white settler in what became Springfield Township, in the fall of 1830. L. K. Brownell took a claim soon after, dammed the Pigeon River, and finished a gristmill in the summer of 1831. John O'Ferrell, from Ireland, put up a small storeroom in 1832. The stock was worth about 400 dollars. Brownell was probably part owner. A hotel and a blacksmith shop opened in 1833. The paper names the first postmaster as Arthurs Burrows, and says he started the hotel that year. The 1840 date on the old name is not this plat. Leonard Appleman laid out the village of Springfield, nearby, in 1842.",
+    long: "",
+    names: ["John B. Clark", "L. K. Brownell", "John O'Ferrell", "Arthurs Burrows", "Leonard Appleman"]
+  },
+  {
+    id: "mongo-nichols",
+    name: "Drusus Nichols",
+    lat: 41.6842,
+    lng: -85.2783,
+    radius: 500,
+    short: "The building survey says O'Ferrell ran the store four years and was run out in 1836 for treating the white settlers as hard as he treated the Indians. He and Brownell were named in the Gage and Langdon scare, in 1832, during the Black Hawk War, when people here feared an attack. Drusus Nichols bought the mill, the store, and a distillery that year. Staley and Payne, both coopers, made the barrels. The distillery burned in 1842. The store is on County Road 400 North. It went on the National Register in 1975.",
+    long: "",
+    names: ["Drusus Nichols", "John O'Ferrell"]
+  },
+
 ];
 
 

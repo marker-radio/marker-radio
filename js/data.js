@@ -46537,7 +46537,27 @@ const STORIES = [
     long: "",
     names: ["Monroe Historical Society"]
   },
-  
+    {
+    id: "monroeville-barnhart",
+    name: "John Barnhart",
+    lat: 41.0006,
+    lng: -84.8686,
+    radius: 600,
+    short: "The 1880 history of Allen County says John Barnhart was the original proprietor. He founded the town in 1851, near the center of Monroe Township, and the writer called it a happy hit. The township had been set off in March 1841 and sits in the southeast corner of the county, against Ohio. The town took the township's name. For years it was only a mail station on the Pittsburgh, Fort Wayne and Chicago. The town's own history says that railroad was built in 1854, from Chicago to Pittsburgh. A post office opened in 1856. The town incorporated in July 1866, after a petition signed by a majority of the people. The 2020 count was 1,294.",
+    long: "",
+    names: ["John Barnhart"]
+  },
+  {
+    id: "monroeville-schick",
+    name: "C. H. Schick",
+    lat: 41.0006,
+    lng: -84.8686,
+    radius: 500,
+    short: "C. H. Schick started the Monroeville flouring mill in 1865. The main building was thirty-six feet square, three stories and a basement, with three runs of buhrs and a capacity of one hundred barrels a day. He kept it about a year and sold it to Alpheus Swift and Brother, who ran it four years. Then J. Dague and Brothers bought it. Six years later Daniel Shank bought a half interest, and the firm name stayed. Flour from the mill went to Pittsburgh and Baltimore. From September 22 to October 22, 1879, the town shipped 8,000 bushels of grain. During the Civil War the same tracks fed the sawmills and the barrel-stave shops in the hardwood.",
+    long: "",
+    names: ["C. H. Schick", "Alpheus Swift", "Daniel Shank"]
+  },
+
 ];
 
 

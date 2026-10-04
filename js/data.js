@@ -47299,6 +47299,27 @@ const STORIES = [
     names: ["Philetus Walter Norris"]
   },
 
+  {
+    id: "piqua-johnston-dates",
+    name: "John Johnston",
+    lat: 40.1448,
+    lng: -84.2424,
+    radius: 900,
+    short: "John Johnston was born in County Fermanagh, Ireland, on March 25, 1775, and came to America at eleven. He married Rachel Robinson in Lancaster, Pennsylvania, on July 15, 1802. On July 1 of that year he was made factor at Fort Wayne. He bought this Upper Piqua ground in 1804 and moved the family onto the farm in 1811. Their first child, Stephen, was born at the fort in August 1803. The last, James Adams, was born on the farm in 1830. They had fifteen children, and fourteen of them grew up. About six months after the move, Johnston and his neighbor Richard Winans gave adjoining land for a Methodist church, a burying ground, and a school. Johnston died in Washington on February 18, 1861, a month before the Civil War, and he is buried in Piqua.",
+    long: "",
+    names: ["John Johnston", "Rachel Robinson"]
+  },
+  {
+    id: "piqua-agency",
+    name: "Piqua Agency",
+    lat: 40.1448,
+    lng: -84.2424,
+    radius: 700,
+    short: "The Piqua Agency opened in 1812 for the Shawnee near this river, and also dealt with Wyandot, Delaware, and Seneca people. Johnston's appointment as agent is dated March 5, 1812. For two years, 1818 and 1819, the Fort Wayne agency was folded into this one. In 1829 the office moved to Columbus. John McElvain was appointed on April 20, 1829. From 1831 it was called the Ohio Agency. Do not put the battle of August 8, 1780 on this Main Street. George Rogers Clark's fight with the Shawnee that day is marked in Clark County, near Springfield. The name Piqua was used for more than one town. This one is Upper Piqua, the farm and the later canal city.",
+    long: "",
+    names: ["John McElvain", "George Rogers Clark"]
+  },
+
 
 
 ];

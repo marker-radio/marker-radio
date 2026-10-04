@@ -45611,7 +45611,28 @@ const STORIES = [
     long: "",
     names: ["J. T. Riley"]
   },
+  {
+    id: "gahanna-clark",
+    name: "Gahanna Plantation",
+    lat: 40.0192,
+    lng: -82.8793,
+    radius: 500,
+    short: "In 1814 Joseph Clark of Ross County bought 800 acres here from Governor Thomas Worthington. His son John Clark founded the town on Big Walnut Creek in 1849 and called the farm Gahanna Plantation. The city kept that name. Gahanna was a Native word for three creeks joining into one, and it was an older name for Big Walnut itself. The city seal still says Three In One.",
+    long: "",
+    names: ["John Clark", "Joseph Clark", "Thomas Worthington"]
+  },
+  {
+    id: "gahanna-bridgeport",
+    name: "Bridgeport",
+    lat: 40.0192,
+    lng: -82.8793,
+    radius: 400,
+    short: "Across Granville Street, Jesse Baughman, a former Franklin County commissioner, founded Bridgeport in 1853, also on the Big Walnut. The two towns fought for years, then merged. They kept Gahanna because Ohio already had a Bridgeport. In March 1881, 55 citizens asked the county to incorporate. It was granted in June and recorded on August 8. On October 6 they swore in the first mayor, John Neiswander.",
+    long: "",
+    names: ["Jesse Baughman", "John Neiswander"]
+  },
 
+  
 
 
 

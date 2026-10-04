@@ -47135,6 +47135,27 @@ const STORIES = [
     long: "",
     names: ["George W. Crile"]
   },
+  {
+    id: "payne-henry",
+    name: "Henry B. Payne",
+    lat: 41.0797,
+    lng: -84.7272,
+    radius: 500,
+    short: "The village takes its name from Henry B. Payne. He was born in Hamilton, Madison County, New York, on November 30, 1810. He graduated from Hamilton College in 1832, then practiced law in Cleveland from 1834. He founded the Cleveland and Columbus Railroad. He sat in the Ohio Senate from 1849 to 1851 and lost a race for governor in 1857. He served in the United States House from March 4, 1875, to March 3, 1877, and on the commission that settled the 1876 presidential election. He was not yet a United States senator when this village was plotted in 1883. The Senate term came later, March 4, 1885, to March 3, 1891. He died in Cleveland on September 9, 1896, and is buried in Lake View Cemetery.",
+    long: "",
+    names: ["Henry B. Payne"]
+  },
+  {
+    id: "payne-1874",
+    name: "Four houses",
+    lat: 41.0797,
+    lng: -84.7272,
+    radius: 400,
+    short: "The village history says that in 1874 Payne had four houses, and lots sold for twenty dollars. By 1884 the count was a thousand people, three hotels, thirty businesses, four sawmills, a stave factory that made barrel parts, and a bucket factory. That last one made buckets. It was not a betting shop. The Payne Star started in 1883, the year the village was plotted. It was sold in 1884 and became the Payne Independent, then the Review in 1885, then the Payne Reflector from 1912 to 1956. R. W. Reinhart, editor of the Paulding Progress, bought it. In 1968 the paper became the Paulding Progress.",
+    long: "",
+    names: ["R. W. Reinhart"]
+  },
+
 
 
 

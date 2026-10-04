@@ -46911,6 +46911,26 @@ const STORIES = [
     names: ["Republic Mills", "Nathaniel Norden"]
   },
 
+  {
+    id: "orange-abram",
+    name: "Abram Garfield",
+    lat: 41.4498,
+    lng: -81.4807,
+    radius: 800,
+    short: "Abram Garfield bought 50 acres in Orange Township in 1829, at 2 dollars an acre. Neighbors raised the cabin, especially the Boynton family. Mrs. Boynton was Eliza Ballou Garfield's sister. The cabin was 20 by 30 feet, 12 feet high in front and 8 in back, with a puncheon floor, three windows, and a mud-and-wood chimney in the middle. James Abram Garfield was born there on November 19, 1831. He was the last child. Abram died on May 3, 1833, when James was eighteen months old. Eliza kept the farm with Thomas, Mehitabel, Mary, and James. An older boy, James Ballou, had already died. The family stayed in the cabin until 1846, then built a frame house whose site is no longer certain. The marked birth spot and a replica cabin are in what is now Moreland Hills. Orange kept the township name. The cabin ground was set off later.",
+    long: "",
+    names: ["Abram Garfield", "Eliza Ballou Garfield", "James A. Garfield"]
+  },
+  {
+    id: "orange-elberon",
+    name: "Elberon",
+    lat: 41.4498,
+    lng: -81.4807,
+    radius: 500,
+    short: "Garfield left this ridge for the Ohio and Erie Canal. Malaria cut that job short, and his mother pushed him toward school. He was inaugurated the 20th president on March 4, 1881. He was shot that summer and died on September 19, 1881, at Elberon, New Jersey. He was entombed in 1890 in the Garfield Memorial at Lake View Cemetery in Cleveland. Eliza died at Mentor on January 21, 1888. Lawnfield, the later house, is in Mentor. This ridge is only the beginning.",
+    long: "",
+    names: ["James A. Garfield"]
+  },
 
 
 

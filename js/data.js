@@ -46154,6 +46154,28 @@ const STORIES = [
     names: ["Spemica Lawba", "Hugh B. McKeen", "John B. Duret"]
   },
   
+  {
+    id: "lordstown-samuel",
+    name: "Samuel P. Lord",
+    lat: 41.1656,
+    lng: -80.8587,
+    radius: 700,
+    short: "Samuel P. Lord was one of the original proprietors of the Connecticut Land Company. In 1795 that company bought the Western Reserve. His share was listed at 14,092 dollars. The township in Trumbull County took his name. It stayed a farm grid until the Turnpike and the plant rewrote it.",
+    long: "",
+    names: ["Samuel P. Lord"]
+  },
+  {
+    id: "lordstown-impala",
+    name: "The first Impala",
+    lat: 41.1656,
+    lng: -80.8587,
+    radius: 900,
+    short: "General Motors announced the plant on March 19, 1956. It broke ground on September 29, 1964, on 965 acres. The first car, a 1966 Chevrolet Impala sport sedan, came off the line on April 28, 1966. The Vega years brought the Lordstown strike of 1972, twenty-two days, which the company said cost 150 million dollars. GM stopped building cars here in 2019. The township name had already become the factory.",
+    long: "",
+    names: ["Lordstown Assembly"]
+  },
+
+  
 ];
 
 

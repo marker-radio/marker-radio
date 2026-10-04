@@ -46598,6 +46598,27 @@ const STORIES = [
     names: ["Long Lake", "Pleasant Lake"]
   },
 
+  {
+    id: "moraine-peeler",
+    name: "Doc Peeler",
+    lat: 39.7062,
+    lng: -84.2266,
+    radius: 700,
+    short: "The city's own history says the name comes from the sand and gravel the Wisconsin glacier left here. In November 1952 Van Buren Township became the village of Kettering, about 25,000 people, named for Charles F. Kettering. The west side voted to leave it, 421 for and 56 against. Moraine Township was created on February 3, 1953. A special election on July 23, 1957 made it a village, 179 for and 97 against. The city lists Doc Peeler as that first mayor. After two annexations from Miami Township a special census counted 5,465 people, and Moraine became a city on May 12, 1965.",
+    long: "",
+    names: ["Doc Peeler", "Charles F. Kettering"]
+  },
+  {
+    id: "moraine-frigidaire",
+    name: "Frigidaire on the flats",
+    lat: 39.7062,
+    lng: -84.2266,
+    radius: 800,
+    short: "The same city history says Wright tested the first float plane here in 1916, at one of the first seaplane bases, near what is now Moraine Airpark. In 1921 General Motors brought Frigidaire to this ground. In 1979 GM sold the Frigidaire name to White Consolidated Industries and kept the plant. In 2007 the assembly plant built its 6 millionth vehicle. It closed in 2008. The DMAX engine plant stayed. In 2017 it rolled its 2 millionth engine. Miami Shores, called the Playgrounds of the Miami Valley in the late 1920s, flooded every year. In January 1959 the Great Miami put everybody out. The flood-control levy was finished in 1960, the same year Interstate 75 construction started through town.",
+    long: "",
+    names: ["Frigidaire", "General Motors", "DMAX"]
+  },
+
 
   
 ];

@@ -46031,6 +46031,28 @@ const STORIES = [
     long: "",
     names: ["Lakewood"]
   },
+
+  {
+    id: "lancaster-zane-sons",
+    name: "Noah and John Zane",
+    lat: 39.7137,
+    lng: -82.5993,
+    radius: 700,
+    short: "Colonel Ebenezer Zane of Wheeling founded this town on November 10, 1800. Congress had paid him for the Trace with three square miles, one at each river crossing: the Muskingum, the Hockhocking, and the Scioto. He sent his sons Noah and John to lay out the lots and sell them. Emanuel Carpenter, from Lancaster, Pennsylvania, asked that the town be called New Lancaster. Chief Tarhe of the Wyandot was camped by Standing Stone in 1797. He was the father-in-law of Ebenezer's brother Isaac.",
+    long: "",
+    names: ["Ebenezer Zane", "Noah Zane", "John Zane", "Emanuel Carpenter", "Tarhe", "Isaac Zane"]
+  },
+  {
+    id: "lancaster-collins",
+    name: "Isaac J. Collins",
+    lat: 39.7137,
+    lng: -82.5993,
+    radius: 600,
+    short: "In 1905 Isaac J. Collins and six friends raised 8,000 dollars for the old Lancaster Carbon plant, the one people called the Black Cat. That was not enough. E. B. Good wrote a check for 17,000. Collins started Hocking Glass with one building, two day tanks, and 50 workers. The Black Cat burned in 1924. On December 31, 1937, Hocking merged with Anchor Cap and Closure. That is the company on the payroll now.",
+    long: "",
+    names: ["Isaac J. Collins", "E. B. Good"]
+  },
+
   
 ];
 

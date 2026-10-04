@@ -45811,6 +45811,28 @@ const STORIES = [
     long: "",
     names: ["Stephen Emenhiser", "James English", "James Madison"]
   },
+  {
+    id: "howland-draft",
+    name: "Joseph Howland",
+    lat: 41.2362,
+    lng: -80.7454,
+    radius: 700,
+    short: "On the 75th draw, January 31, 1798, Joseph Howland took Township 4, Range 3: 16,548 acres. The drafts stayed numbered until 1812, when this one was officially named Howland. He never lived here. Simon Perkins of Warren held his power of attorney and sold the land. The Greene record says Howland and Gardner Greene swapped drafts. The Howland record says Howland drew this township himself, and that Greene's name shows up later because Howland parked land with him in the War of 1812 to shield a shipping company. By 1815 Howland had sold out.",
+    long: "",
+    names: ["Joseph Howland", "Simon Perkins", "Gardner Greene"]
+  },
+  {
+    id: "howland-adgate",
+    name: "John H. Adgate",
+    lat: 41.2362,
+    lng: -80.7454,
+    radius: 500,
+    short: "The first resale was in 1799. Captain John H. Adgate, a Revolutionary officer, bought 1,600 acres in the southwest corner for 1,600 dollars, a dollar an acre. He brought his family that summer from Pennsylvania, by Pittsburgh, up the Beaver and the Mahoning, much of it on foot behind an ox-cart. A Stockbridge Indian named Benoni Ockrum lived with them. The first marriage in the township was in 1803: Jack Legg and Conny Ward. Squire Loveless performed it.",
+    long: "",
+    names: ["John H. Adgate", "Benoni Ockrum", "Jack Legg"]
+  },
+
+  
 ];
 
 

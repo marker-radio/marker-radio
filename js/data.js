@@ -45451,6 +45451,27 @@ const STORIES = [
     long: "",
     names: ["Pennsylvania Railroad"]
   },
+  {
+    id: "englewood-harrisburg",
+    name: "Harrisburg",
+    lat: 39.8776,
+    lng: -84.3022,
+    radius: 450,
+    short: "Mathias Gish, Daniel Rasor, and Samuel Herr founded this place on May 6, 1841, and named it Harrisburg for the Pennsylvania city some of them had left. The township took Randolph, for neighbors from Randolph County, North Carolina. The first post office opened February 8, 1870, died a year later, and came back on May 8, 1874, with Harvey Iams as postmaster. The town became Iamton. In that alphabet the capital I and J were the same letter, so people wrote Jamton. In 1898 the businessmen held a contest. Englewood won. The name was official on July 11, 1899. The village incorporated May 15, 1914. Jacob Hoover was the first mayor.",
+    long: "",
+    names: ["Mathias Gish", "Daniel Rasor", "Samuel Herr", "Harvey Iams", "Jacob Hoover"]
+  },
+  {
+    id: "englewood-bridge",
+    name: "The Stillwater bridge",
+    lat: 39.8740,
+    lng: -84.2920,
+    radius: 700,
+    short: "From 1902 to 1926 the Dayton, Covington and Piqua traction line ran north and south on Main Street, now Route 48. A wooden covered bridge crossed the Stillwater east of town. Edwin C. Sinks photographed it, and the Harrisburg Hotel, in the early 1900s. The 1913 flood damaged the bridge. In December 1922 they took it down, because the National Road had been moved south onto the new Englewood Dam. The concrete is the later road. The pike and the covered bridge were the first one.",
+    long: "",
+    names: ["Edwin C. Sinks"]
+  },
+
 
 
   

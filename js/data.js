@@ -46194,7 +46194,26 @@ const STORIES = [
     long: "",
     names: ["Frances Payne Bolton", "Chester Castle Bolton"]
   },
-
+  {
+    id: "maple-fitch",
+    name: "Benjamin Fitch",
+    lat: 41.4153,
+    lng: -81.5659,
+    radius: 700,
+    short: "This was the northwest corner of Bedford Township, set off in 1823. Benjamin Fitch, from Connecticut, was the first settler anyone recorded, in 1813. John Dunham came in 1817 and cut the road that still has his name. After 1827 that road reached the Ohio and Erie Canal. The Cleveland and Pittsburgh Railroad opened in 1849. The Connotton Valley followed in 1881. The heights sat above Mill Creek. The mills were down the grade.",
+    long: "",
+    names: ["Benjamin Fitch", "John Dunham"]
+  },
+  {
+    id: "maple-grove-vote",
+    name: "Maple Grove",
+    lat: 41.4153,
+    lng: -81.5659,
+    radius: 600,
+    short: "In 1914 the people of Maple Grove heard that Bedford Village was about to annex them. They voted to make their own town instead. It incorporated in July 1915, about 1,000 people, and took the name of the maple trees on the rise. It became a city on January 1, 1932. By 1930 the count was 5,950. The first Czech families were the Uhliks, the Hodouses, and the Tresnickas. Martin Potisek arrived in 1906. John Rybak came in 1909. They were the first Slovenians.",
+    long: "",
+    names: ["Joseph Uhlik", "Joseph Hodous", "Martin Potisek", "John Rybak"]
+  },
   
 ];
 

@@ -45971,8 +45971,26 @@ const STORIES = [
     long: "",
     names: ["Henry F. Schricker"]
   },
-
-  
+  {
+    id: "lagro-legris",
+    name: "Le Gris",
+    lat: 40.8381,
+    lng: -85.7275,
+    radius: 500,
+    short: "The town site says Lagro is named for the Miami chief Le Gris. Older accounts spell him Le Gros, the large one, and the plat was written La Gro. In 1828 a two-room brick house was built for him on this ground. He lived in it until he died in 1831. The canal village sits on his house lot.",
+    long: "",
+    names: ["Le Gris", "Le Gros"]
+  },
+  {
+    id: "lagro-tipton",
+    name: "John Tipton's plat",
+    lat: 40.8381,
+    lng: -85.7275,
+    radius: 400,
+    short: "General John Tipton laid out the town. The first lots, numbers 174, 175, and 176, were deeded to Jacob Chappel on September 18, 1834, so the plat was already drawn. The paper on file is dated May 18, 1835. Irish crews were already here for the Wabash and Erie. St. Patrick's Church was founded in 1836. The bricks came by canal boat from Huntington. The bell came by ox cart from Buffalo.",
+    long: "",
+    names: ["John Tipton", "Jacob Chappel"]
+  },  
 ];
 
 

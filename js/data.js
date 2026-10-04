@@ -46840,6 +46840,27 @@ const STORIES = [
     names: ["Joseph Breeck", "Dixie"]
   },
 
+  {
+    id: "norwalk-benedict",
+    name: "Platt Benedict",
+    lat: 41.2426,
+    lng: -82.6157,
+    radius: 700,
+    short: "Platt Benedict of Danbury, Connecticut, walked this ground in 1815 and went home and bought 1,300 acres. In July 1817 he came back with his wife, Sarah DeForest, and their children Clarissa, David, Daniel, Jonas, and Eliza. Their house was the first permanent one inside the village. In May 1818 the county seat was moved here from Avery. A count in 1819 found 109 people. Benedict was the first mayor. He died in 1866 at 91 and is buried in Woodlawn Cemetery.",
+    long: "",
+    names: ["Platt Benedict", "Sarah DeForest"]
+  },
+  {
+    id: "norwalk-1779",
+    name: "July 11, 1779",
+    lat: 41.2426,
+    lng: -82.6157,
+    radius: 500,
+    short: "On July 11, 1779, British troops under Lieutenant General Tryon burned Norwalk, Connecticut. A committee of the Connecticut assembly put the loss at 116,238 dollars and 66 cents. On May 10, 1792 the legislature set aside 500,000 acres at the west end of the Western Reserve for the sufferers. The Firelands take in all of Huron and Erie counties, plus Danbury Township and Ruggles Township. The Indian title was cleared by a treaty on July 4, 1805, for 18,916 dollars and 67 cents. Thirteen men surveyed it in 1806. On November 9, 1808 the proprietors met at the New Haven courthouse. Most of the original sufferers were too old to move. Their town names came anyway.",
+    long: "",
+    names: ["Firelands"]
+  },
+
 
 
 

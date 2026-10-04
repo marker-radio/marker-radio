@@ -46517,7 +46517,26 @@ const STORIES = [
     long: "",
     names: ["Berne"]
   },
-
+  {
+    id: "monroe-oh-piatt",
+    name: "John H. Piatt",
+    lat: 39.4403,
+    lng: -84.3622,
+    radius: 700,
+    short: "The city marker says Nathanial Sackett and John H. Piatt platted Monroe in 1817 and named it for President James Monroe. Sackett lived from 1768 to 1854. Piatt lived from 1781 to 1820, so he died three years after the plat. The town was a stage stop on the road between Cincinnati and Dayton, the old Great Miami pike, now Cincinnati Dayton Road. In the early 1830s it had one store and 119 people. It incorporated as a village in 1907. It became a city in 1995, when the count passed 5,000 and stood at 5,380. The 2020 census put it at 15,412.",
+    long: "",
+    names: ["Nathanial Sackett", "John H. Piatt", "James Monroe"]
+  },
+  {
+    id: "monroe-oh-cabin",
+    name: "The pioneer cabin",
+    lat: 39.4403,
+    lng: -84.3622,
+    radius: 500,
+    short: "The Monroe Historical Society started in May 1967 to save a log cabin from about 1800 and move it to Monroe Community Park. The marker for the city stands at East Elm Street and Cincinnati Dayton Road. Interstate 75 came in the mid-1950s. The farms around the old stop were annexed after that. The cabin is older than the plat. The city is newer than the highway.",
+    long: "",
+    names: ["Monroe Historical Society"]
+  },
   
 ];
 

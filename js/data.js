@@ -46992,6 +46992,28 @@ const STORIES = [
     long: "",
     names: ["William Ireland", "William Moat", "Timothy Moat"]
   },
+  {
+    id: "ossian-craig",
+    name: "William Craig",
+    lat: 40.8806,
+    lng: -85.1664,
+    radius: 700,
+    short: "Levi Young was the first resident on this town site. In 1843 the road from Fort Wayne to Bluffton, now State Road 1, was made fit to travel. In 1846 William Craig, John Ogden, and Squire LaFever laid out Ossian and sold the lots at auction. The town says the name is Ossian, the legendary poet, and that the word means young deer, or fawn. The poems people knew were the ones the Scottish writer James Macpherson published. On January 25, 1850 the Fort Wayne and Bluffton Plank Road Company was organized. It was a toll road. A horse, or a wagon, paid to pass. The town incorporated on March 14, 1850. The post office opened that same year. It is in Jefferson Township. The 2020 count was 3,266.",
+    long: "",
+    names: ["William Craig", "John Ogden", "Squire LaFever", "James Macpherson"]
+  },
+  {
+    id: "ossian-rail-1869",
+    name: "Fort Wayne, Cincinnati and Louisville",
+    lat: 40.8806,
+    lng: -85.1664,
+    radius: 500,
+    short: "The Fort Wayne, Cincinnati and Louisville Railroad was built through Ossian in 1869. It was not in full operation until 1870. That is the steel the grain used. The same line is now a north-and-south route for Norfolk Southern. Interstate 469 is about four miles north. The airport is about seven miles north. The old spine is still State Road 1, the Bluffton road.",
+    long: "",
+    names: ["Fort Wayne, Cincinnati and Louisville Railroad"]
+  },
+
+
 
 
 

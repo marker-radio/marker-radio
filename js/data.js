@@ -47390,6 +47390,109 @@ const STORIES = [
     long: "",
     names: ["Chief Menominee", "John Tipton", "David Wallace"]
   },
+  {
+    id: "approach-new-albany",
+    name: "New Albany",
+    lat: 40.0812,
+    lng: -82.8088,
+    radius: 6500,
+    layer: "approach",
+    short: "You are coming up on New Albany. Noble Landon and William Yantis platted a crossroads here in 1837. A century and a half later Les Wexner and Jack Kessler built the brick and the white fences around that old village. If you leave 270, I will start on High Street.",
+    long: "",
+    names: ["New Albany", "Noble Landon", "William Yantis", "Les Wexner", "Jack Kessler"]
+  },
+  {
+    id: "new-albany-founding",
+    name: "High and Main",
+    lat: 40.0812,
+    lng: -82.8088,
+    radius: 900,
+    short: "In 1837 Noble Landon and William Yantis laid New Albany out in lots fifty feet by one hundred. Landon took the east side of High Street. Yantis took the west. Landon had already built an inn on the southeast corner of High and Main, and he was the first postmaster. He picked the name. He grew up in Albany, Vermont, and a town near Athens had already taken the name Albany, Ohio.",
+    long: "",
+    names: ["Noble Landon", "William Yantis"]
+  },
+  {
+    id: "new-albany-hope",
+    name: "Hope",
+    lat: 40.0812,
+    lng: -82.8088,
+    radius: 800,
+    short: "The post office Landon opened in 1838 was not called New Albany. It was called Hope. The plat carried one name. The mail carried the other. People here have used both.",
+    long: "",
+    names: ["Hope", "Noble Landon"]
+  },
+  {
+    id: "new-albany-roads",
+    name: "The crossing and the mill",
+    lat: 40.0812,
+    lng: -82.8088,
+    radius: 1200,
+    short: "Three roads made this spot. They are Routes 62, 161, and 605 now. The railroad did not. New Albany was a crossing and a mill, not a depot town. The Wilkins lumber mill opened in 1881 and later went by the New Albany Mill. In 1980 the census still counted 414 people.",
+    long: "",
+    names: ["Wilkins lumber mill", "New Albany Mill"]
+  },
+  {
+    id: "new-albany-wexner",
+    name: "The New Albany Company",
+    lat: 40.0855,
+    lng: -82.8205,
+    radius: 1400,
+    short: "Les Wexner and Jack Kessler started the New Albany Company in 1987. The first idea was houses on the farmland. The country club was the piece the plan turned on. The Georgian brick, the white fences, and the school campus came with it. High and Main stayed the old village. The new town was built around it.",
+    long: "",
+    names: ["Les Wexner", "Jack Kessler", "New Albany Company"]
+  },
+  {
+    id: "new-albany-ealy",
+    name: "Ealy House",
+    lat: 40.0835,
+    lng: -82.8150,
+    radius: 500,
+    short: "The house the historical society keeps is the George and Christina Ealy House, at 6359 Dublin-Granville Road. That is the museum. The New Albany-Plain Township Historical Society is who still tells the town from before the country club.",
+    long: "",
+    names: ["George Ealy", "Christina Ealy", "Ealy House"]
+  },
+  {
+    id: "new-albany-parks",
+    name: "Wexner Community Park",
+    lat: 40.0891,
+    lng: -82.8194,
+    radius: 700,
+    short: "Wexner Community Park was dedicated on June 22, 2003. The Wexner family and the New Albany Company gave the ground to the schools, the village, and Plain Township. Down on the Rocky Fork, Taylor Farm was a homestead in 1842. That floodplain opened as a park in 2023.",
+    long: "",
+    names: ["Wexner Community Park", "Taylor Farm", "Rocky Fork"]
+  },
+  {
+    id: "new-albany-native",
+    name: "Plain Township",
+    lat: 40.0812,
+    lng: -82.8088,
+    radius: 1600,
+    short: "This township is in the old United States Military District, land set aside for Revolutionary War veterans. The first settlers were those veterans, on hundred-acre lots, after the 1795 treaties. Before that, Shawnee and Wyandot people used the Blacklick and the Rocky Fork. No battle was fought on High Street. The story here is the land opening.",
+    long: "",
+    names: ["Plain Township", "Shawnee", "Wyandot", "Blacklick Creek", "Rocky Fork"]
+  },
+  {
+    id: "new-albany-war",
+    name: "William Yantis",
+    lat: 40.0812,
+    lng: -82.8088,
+    radius: 900,
+    short: "William Yantis fought in the War of 1812 at the Battle of North Point, outside Baltimore. A British general was killed there, and Francis Scott Key wrote the Star-Spangled Banner. Yantis bought this township land in 1819. The Revolutionary grants had come first. No army fought in the village itself.",
+    long: "",
+    names: ["William Yantis", "Battle of North Point", "Francis Scott Key"]
+  },
+  {
+    id: "new-albany-legend",
+    name: "The broken kegs",
+    lat: 40.0812,
+    lng: -82.8088,
+    radius: 800,
+    short: "Noble Landon was known as a hard drinker, and he held the license for the inn. The story the founders' marker tells is that he turned, had the kegs he owned carried out into the street, and broken. After that he was in church. That is the tale New Albany kept about its own founder.",
+    long: "",
+    names: ["Noble Landon"]
+  },
+
+
 
 
 

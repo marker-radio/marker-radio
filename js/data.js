@@ -46638,7 +46638,26 @@ const STORIES = [
     long: "",
     names: ["John Coppes", "Frank Coppes", "John Mellinger", "Harold Zook"]
   },
-
+  {
+    id: "new-carlisle-bourissa",
+    name: "Lazarus Bourissa",
+    lat: 41.7003,
+    lng: -86.5095,
+    radius: 700,
+    short: "The town was first called Bourissa Hills. It was named for Lazarus Bourissa, a Potawatomi man who had gone to the Carey Mission. The treaty that moved most of the Potawatomi west left him this section of ground. Richard Risley Carlisle came from Philadelphia, bought the land, and platted the town as New Carlisle in 1835. He named the streets for roads in downtown Philadelphia. The post office opened in 1837. In 1866 Samuel C. Lancaster filed the petition to incorporate it. The 2020 count was 1,891. It sits in Olive Township, west of South Bend.",
+    long: "",
+    names: ["Lazarus Bourissa", "Richard Risley Carlisle", "Samuel C. Lancaster"]
+  },
+  {
+    id: "new-carlisle-shore",
+    name: "The South Shore",
+    lat: 41.7003,
+    lng: -86.5095,
+    radius: 600,
+    short: "Tracks for the South Shore were laid through town in 1908. Until the early 1900s this was a farm center, and the downtown hotel drew people from farther off. In the 1920s and 1930s the Hudson Lake casino and the big bands made it an entertainment stop. The New Carlisle Historic District and the Jeremiah Service House are both on the National Register. US 20 can miss Michigan Street if you stay on the highway.",
+    long: "",
+    names: ["South Shore Line", "Hudson Lake"]
+  },
 
 
   

@@ -46053,6 +46053,27 @@ const STORIES = [
     names: ["Isaac J. Collins", "E. B. Good"]
   },
 
+  {
+    id: "lebanon-corwin",
+    name: "Ichabod Corwin",
+    lat: 39.4353,
+    lng: -84.203,
+    radius: 600,
+    short: "Ichabod Corwin was the first settler. He bought land north of what is now downtown and built a cabin. Cabins were going up in the 1790s. In 1802 a surveyor laid out 100 lots, with Broadway and Main crossing at the middle. Broadway was made six poles wide, about 99 feet, so a six-horse stage could turn all the way around. The town was incorporated on January 9, 1810. The Western Star, still the county paper, started in 1807.",
+    long: "",
+    names: ["Ichabod Corwin"]
+  },
+  {
+    id: "lebanon-seaman",
+    name: "Jonas Seaman",
+    lat: 39.4353,
+    lng: -84.203,
+    radius: 400,
+    short: "On December 23, 1803, Jonas Seaman paid four dollars for a license to keep a house of public entertainment. That house is the Golden Lamb. A brick hotel replaced the log tavern in 1815. Robert H. Jones and his wife Virginia bought it in 1926 and filled it with old furniture. The marker on Broadway says twelve presidents have eaten here. The city's paper calls it the longest-running business in Ohio.",
+    long: "",
+    names: ["Jonas Seaman", "Robert H. Jones", "Virginia Jones"]
+  },
+
   
 ];
 

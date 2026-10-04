@@ -45650,7 +45650,27 @@ const STORIES = [
     short: "The heights above the Cuyahoga were dry. The river bottom was swamp. Farmers here made black salt, lye and potash from burned timber, and it paid better than grain. In the 1920s developers sold the hill as house lots. The Depression left an eighty percent mortgage delinquency rate. The city sits between Cleveland, Maple Heights, Valley View, and Cuyahoga Heights. Turney Road is still the working street.",
     long: "",
     names: ["Garfield Heights"]  
-
+  },
+    {
+    id: "germantown-gunckel",
+    name: "Philip Gunckel",
+    lat: 39.6262,
+    lng: -84.3694,
+    radius: 500,
+    short: "German Township was set off in 1803, one of the four original townships in Montgomery County. In 1804 German-speaking families from Berks County, Pennsylvania, settled on Twin Creek. Philip Gunckel was the only one who spoke English. He picked the mill site. In 1814 he laid out the town plat that is still the center, and that plat is now a National Register district.",
+    long: "",
+    names: ["Philip Gunckel"]
+  },
+  {
+    id: "germantown-mudlick",
+    name: "Mudlick",
+    lat: 39.6262,
+    lng: -84.3694,
+    radius: 400,
+    short: "In 1847 the Mudlick Distillery opened and for years turned out thirty barrels of whiskey a day. People called it the largest in the country. Later the town ran as many as twelve cigar warehouses and five cigar factories. The tobacco work lasted into the 1970s. The mill street stayed. The whiskey and the cigars did not.",
+    long: "",
+    names: ["Germantown"]
+  },
   
 ];
 

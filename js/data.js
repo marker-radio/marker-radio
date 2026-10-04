@@ -45711,6 +45711,26 @@ const STORIES = [
     long: "",
     names: ["Ephraim Kee", "Roswell Bartlett", "Ebenezer Kee"]
   },
+  {
+    id: "grove-city-breck",
+    name: "William Foster Breck",
+    lat: 39.8815,
+    lng: -83.0930,
+    radius: 500,
+    short: "William Foster Breck was born April 27, 1806, in Marietta. He came down from Carroll and, in 1852, platted Grove City with three other men: his brother-in-law Jeremiah Smith, the brick mason William Sibray, and the carpenter George Weygandt. They drew 19 lots on fifteen and a quarter acres, on the east side of the Columbus and Harrisburg Turnpike, and they drew them in Breck's house. A lot of books say the land came from Hugh Grant Jr. The town's own chronology says it was Deacon John Smith's, Breck's father-in-law. On March 5, 1866, 37 residents asked the county to incorporate.",
+    long: "",
+    names: ["William Foster Breck", "Jeremiah Smith", "William Sibray", "George Weygandt"]
+  },
+  {
+    id: "grove-city-beulah-grant",
+    name: "Beulah Grant",
+    lat: 39.8815,
+    lng: -83.0930,
+    radius: 400,
+    short: "In 1889 Adam G. Grant laid out a housing tract west of the railroad, on land that had been Breck's. He put a park in it to sell the lots, and he named the park for his daughter, Beulah. It was picnics, ball games, and speeches before it was a track. James M. Westwater bought it in 1918. The Capital City Racing Association bought it in 1922 and built a half-mile oval. In 1923 it opened as the first thoroughbred track in Ohio.",
+    long: "",
+    names: ["Adam G. Grant", "Beulah Grant", "James M. Westwater"]
+  },
 
 
 ];

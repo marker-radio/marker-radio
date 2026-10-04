@@ -47278,7 +47278,26 @@ const STORIES = [
     names: ["Liefer Building"]
   },
 
-
+  {
+    id: "pioneer-cottrell",
+    name: "Jane K. Cottrell",
+    lat: 41.6789,
+    lng: -84.5508,
+    radius: 450,
+    short: "Philetus Walter Norris was born in Palmyra, New York, on August 17, 1821. His father, John Norris Jr., built mills and had fought in the War of 1812. His mother was Azubah Phelps. A Jasper County history says that in the fall of 1840 Norris put up the first cabin in Madison Township, on the ground that became Pioneer. In the fall of 1845 he married Jane K. Cottrell of Fayette. Older cards spell her Cottrill. On the wedding trip she rode in the first wheeled rig to cover ten miles of that trail in a row. He widened the brush into a road while she drove the team.",
+    long: "",
+    names: ["Jane K. Cottrell", "Philetus Walter Norris"]
+  },
+  {
+    id: "pioneer-yellowstone",
+    name: "Mount Norris",
+    lat: 41.6789,
+    lng: -84.5508,
+    radius: 400,
+    short: "In 1877 Norris became the second superintendent of Yellowstone, and the first man paid to hold the job. He kept it until 1882. Mount Norris in the park is named for him, and so is the pass the State Street marker talks about. He died at Rocky Hill, Kentucky, on January 14, 1885. He was 63. The children named in the family record are Edward, Aurelia, Ida, and Arthur. A Madison Township postmaster left a mountain with his name on it.",
+    long: "",
+    names: ["Philetus Walter Norris"]
+  },
 
 
 

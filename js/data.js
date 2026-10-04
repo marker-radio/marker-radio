@@ -45551,6 +45551,27 @@ const STORIES = [
     long: "",
     names: ["Charles Oesterlen", "Louis Karg", "Jason Blackford"]
   },
+  {
+    id: "fowler-samuel",
+    name: "Samuel Fowler",
+    lat: 41.3087,
+    lng: -80.6656,
+    radius: 700,
+    short: "This is 24 square miles of the Western Reserve. In 1798 Samuel Fowler, still living in Westfield, Massachusetts, paid the Connecticut Land Company 12,903 dollars and 23 cents for 16,551 acres. He gave his brother Abner 100 acres near the center. Abner was a Revolutionary War veteran and a surveyor. He built a cabin in 1799 and was the first person to live here. In 1801 Levi Foote brought his family from the same Westfield and became the first settler family. They called the place Westfield. Abner died in 1806, the first recorded death and the first burial. That same year his son, Abner Fowler the second, married Ester Jennings, the first schoolteacher.",
+    long: "",
+    names: ["Samuel Fowler", "Abner Fowler", "Levi Foote", "Ester Jennings"]
+  },
+  {
+    id: "fowler-common",
+    name: "The common",
+    lat: 41.3087,
+    lng: -80.6656,
+    radius: 500,
+    short: "By the time Abner died, seven other families were in. Elijah Tyrrell settled Tyrrell Hill, and the first shop was a foot-treadle lathe that turned wooden spoons and bowls. In 1817 Samuel Fowler gave five acres at the center for a common, on the condition that no permanent building ever stand on it. About then the township dropped Westfield and took the family name. On the northeast corner of Routes 305 and 193, A. J. Smith built a hotel in the late 1840s. David Butts built the brick house on the southeast corner in 1852. After that, Fowler stayed a farm township.",
+    long: "",
+    names: ["Elijah Tyrrell", "A. J. Smith", "David Butts"]
+  },
+
 
 
 

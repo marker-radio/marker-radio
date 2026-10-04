@@ -45221,6 +45221,26 @@ const STORIES = [
     long: "",
     names: ["Harvey Samuel Firestone"]
   },
+  {
+    id: "columbus-grove-axes",
+    name: "Axe-Handle Junction",
+    lat: 40.9206,
+    lng: -84.0597,
+    radius: 400,
+    short: "The Grove is the short name. Axe-Handle Junction is the other one, and it is not a joke. Columbus Grove had two factories that turned out ax handles. One was the Belford ax-handle factory and sawmill on West Sycamore Street. The other ran longer. A town that sold handles to the county got stuck with the name.",
+    long: "",
+    names: ["Axe-Handle Junction"]
+  },
+  {
+    id: "columbus-grove-jones",
+    name: "J. F. Jones ax handles",
+    lat: 40.9198,
+    lng: -84.0590,
+    radius: 350,
+    short: "J. F. Jones started the long-running ax-handle factory in 1881, also on West Sycamore. In 1891 he and his son bought the old Methodist Church on South Broadway and moved the work into it. Jones died in 1918. His sons Charles and George took the shop. Charles retired. George ran it until he died in 1945. After that the village kept fire trucks in the building.",
+    long: "",
+    names: ["J. F. Jones", "Charles Jones", "George Jones"]
+  },
 
   
 ];

@@ -46296,7 +46296,26 @@ const STORIES = [
     long: "",
     names: ["John W. Masury"]
   },
-
+  {
+    id: "mayfield-hts-log",
+    name: "The log school",
+    lat: 41.5192,
+    lng: -81.4579,
+    radius: 700,
+    short: "The first settlers reached the west bank of the Chagrin in 1805. In 1816 they built a log school that also served as church and meeting house. Mayfield Township was born in that room. The county set it off from Chagrin Township on June 14, 1819. It then covered what is now Mayfield Heights, Gates Mills, Highland Heights, Mayfield Village, and part of Lyndhurst. Three clusters grew up: Wilson Mills, Gates Mills, and Mayfield Centre, at SOM Center and Wilson Mills. The pike they later called Mayfield Road was surveyed in 1832 as State Road. The city history does not name the person the township was named for.",
+    long: "",
+    names: ["Mayfield Township"]
+  },
+  {
+    id: "mayfield-hts-durdin",
+    name: "Frank Durdin",
+    lat: 41.5192,
+    lng: -81.4579,
+    radius: 600,
+    short: "The Cleveland and Eastern interurban reached the township in 1899, on the way to Chardon. Knollwood Cemetery opened in 1909, south of the tracks on SOM Center Road. In 1927 the Masons bought part of that ground for Acacia Park. In 1920 the township split into Gates Mills, Highland Heights, Mayfield, and Riverside. The southern part of Mayfield Village incorporated as Mayfield Heights in 1925, about 1,500 people. Frank Durdin, a township trustee, was the first mayor. Theodore Ludwig was elected at the end of that year. The last interurban car went out the road in 1925. On July 2, 1951, the voters made it a city, 472 to 30.",
+    long: "",
+    names: ["Frank Durdin", "Theodore Ludwig"]
+  },
   
 ];
 

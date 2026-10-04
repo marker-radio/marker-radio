@@ -47319,6 +47319,27 @@ const STORIES = [
     long: "",
     names: ["John McElvain", "George Rogers Clark"]
   },
+  {
+    id: "pleasant-lake-murray",
+    name: "Seth W. Murray",
+    lat: 41.5753,
+    lng: -85.0161,
+    radius: 500,
+    short: "The township history says the first log house here was built by Seth W. Murray in 1835. The first frame house was built by Abner Winsor in 1836. Those two men planted orchards the same year. That is eleven years before Payne C. Parker's plat, and thirty-five years before the railroad plat. A sawmill in the area did a heavy business. Later the New York Central ran four passenger trains each way every day between Fort Wayne and Jackson, and this lake was one of the stops. The older name on the water is Nipcondish.",
+    long: "",
+    names: ["Seth W. Murray", "Abner Winsor"]
+  },
+  {
+    id: "pleasant-lake-gothic",
+    name: "Pleasant Lake Depot listing",
+    lat: 41.5753,
+    lng: -85.0161,
+    radius: 300,
+    short: "The depot at 1469 West Main was built in 1882 by the Lake Shore and Michigan Southern. It is a one-story frame building in the Gothic Revival style, with a gable roof and board-and-batten siding. It went on the National Register on December 7, 2001, as the Pleasant Lake Depot. On the Fort Wayne Branch, the next stop toward Fort Wayne was Steubenville, and the next stop toward Jackson was Angola. The building is no longer a station.",
+    long: "",
+    names: ["Lake Shore and Michigan Southern"]
+  },
+
 
 
 

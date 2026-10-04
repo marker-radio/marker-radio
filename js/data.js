@@ -46679,8 +46679,26 @@ const STORIES = [
     names: ["E. W. Green"]
   },
 
-
-
+  {
+    id: "new-lebanon-medill",
+    name: "The Medill office",
+    lat: 39.7453,
+    lng: -84.3855,
+    radius: 600,
+    short: "The recorded history says New Lebanon was platted in 1843, in Montgomery County, west of Dayton. It does not name the man who drew the lots. A post office called Medill opened in 1847. The name was changed to New Lebanon in 1849. That is the paper trail. The cedar story is not in it. This is not the Lebanon in Warren County, and the first name on the mail was not Lebanon at all.",
+    long: "",
+    names: ["Medill"]
+  },
+  {
+    id: "new-lebanon-charter",
+    name: "A charter that waited",
+    lat: 39.7453,
+    lng: -84.3855,
+    radius: 500,
+    short: "New Lebanon was incorporated as a village in 1878. The village charter did not take effect until January 1, 1979, a hundred and one years later. In 1880 the census counted 76 people. In 1960 it was 1,459. By 1970 it was 4,248. The 2020 count was 3,796. The public library is a branch of the Dayton Metro Library. The growth is the Dayton commute, not a mill seat.",
+    long: "",
+    names: ["New Lebanon"]
+  },
 
   
 ];

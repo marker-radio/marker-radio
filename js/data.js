@@ -45791,7 +45791,26 @@ const STORIES = [
     long: "",
     names: ["Hilliard"]
   },
-  
+    {
+    id: "hoagland-harrod",
+    name: "Joseph Harrod",
+    lat: 40.9611,
+    lng: -85.0133,
+    radius: 500,
+    short: "In 1871 a small depot opened in the southwest corner of section 9, on the Cincinnati, Richmond and Fort Wayne Railroad. The line was leased to the Grand Rapids and Indiana. Joseph Harrod gave the railroad the ground on one condition. The town had to be called Harrodsburg. The railroad took the land and named the stop Hoagland, for Pliny Hoagland of Fort Wayne, a director of the road.",
+    long: "",
+    names: ["Joseph Harrod", "Pliny Hoagland"]
+  },
+  {
+    id: "hoagland-plat",
+    name: "Stephen Emenhiser",
+    lat: 40.9611,
+    lng: -85.0133,
+    radius: 400,
+    short: "In 1872 Stephen Emenhiser entered the plat. The post office opened that same year. James English was the first postmaster. Madison Township, around it, was named for President James Madison and organized in 1840. Hoagland never incorporated. The 2020 count was 824. Hoagland Days is still held in June.",
+    long: "",
+    names: ["Stephen Emenhiser", "James English", "James Madison"]
+  },
 ];
 
 

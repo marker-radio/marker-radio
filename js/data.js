@@ -45851,6 +45851,27 @@ const STORIES = [
     long: "",
     names: ["Samuel Tylee", "Sylvester Tylee"]
   },
+    {
+    id: "huber-charles",
+    name: "Charles H. Huber",
+    lat: 39.8439,
+    lng: -84.1247,
+    radius: 800,
+    short: "This was Wayne Township, organized January 1, 1810. The first election was January 20, 1810, at Benjamin Van Cleve's house. In 1950 the township still had about 1,921 people. In 1956 Charles H. Huber started what the chamber calls the first privately owned utility company in Ohio, and he opened his first plat of brick houses. From 1956 to 1992, Huber Homes built 10,707 single-family houses and 2,258 apartments. By 1960 the count was 12,022. By 1970 it was nearly 28,000.",
+    long: "",
+    names: ["Charles H. Huber", "Benjamin Van Cleve"]
+  },
+  {
+    id: "huber-charter",
+    name: "The 1981 charter",
+    lat: 39.8439,
+    lng: -84.1247,
+    radius: 600,
+    short: "In November 1981 the voters took a city charter, home rule, and a council-manager government, and they kept the builder's name. Wayne Township is the older name. Huber Heights is the plat. The mortgages were paid at Wright-Patterson, a few miles east, on the field the Wrights borrowed.",
+    long: "",
+    names: ["Huber Heights"]
+  },
+
   
 ];
 

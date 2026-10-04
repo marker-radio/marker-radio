@@ -47012,6 +47012,27 @@ const STORIES = [
     long: "",
     names: ["Fort Wayne, Cincinnati and Louisville Railroad"]
   },
+  {
+    id: "otsego-center-fanny",
+    name: "Fanny Merry",
+    lat: 41.5725,
+    lng: -84.9089,
+    radius: 500,
+    short: "Harlow J. Carpenter married Fanny Merry in Erie County, Ohio, on September 29, 1836. She was the daughter of Hosmer and Sally Merry, born in Milan, Ohio, on December 2, 1813. At twenty-one he had driven a team through to Pennsylvania for his older brother Joseph, then ridden a horse to Erie County. Their son George H. Carpenter was born in Erie County on October 23, 1841. He was not yet ten when the family bought the 120 acres on section 22 in 1849. At nineteen he taught two terms in DeWitt County, Illinois. He married Lydia Griffith on July 4, 1863. She was born in Tuscarawas County, Ohio, a daughter of John and Jemima Griffith. They had five children. Bert, Sylvia, and Lena lived. Leman died at nine. A boy named Harlow J. died at fourteen months.",
+    long: "",
+    names: ["Fanny Merry", "George H. Carpenter", "Lydia Griffith"]
+  },
+  {
+    id: "otsego-center-oufa",
+    name: "Oufa",
+    lat: 41.5725,
+    lng: -84.9089,
+    radius: 400,
+    short: "In 1881 George Carpenter put up the building for his store at Otsego Center. The 1885 county history says the post office he was appointed to that same year was Oufa, a different crossroads in Otsego Township, not this one. The first house in the township was built by John Fee on March 13, 1835. The first teacher was Amos Stantcliff. The only church the 1885 history names in the township is the Methodist church, and that is the one later called Carpenter's Chapel. There is no railroad on this pin.",
+    long: "",
+    names: ["George H. Carpenter", "John Fee"]
+  },
+
 
 
 

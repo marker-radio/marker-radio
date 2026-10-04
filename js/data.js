@@ -47175,8 +47175,26 @@ const STORIES = [
     long: "",
     names: ["Mary of the Annunciation Beaumont"]
   },
-
-
+ {
+    id: "peru-wallace",
+    name: "Ben Wallace",
+    lat: 40.7537,
+    lng: -86.0689,
+    radius: 800,
+    short: "A livery-stable owner named Ben Wallace took his first circus out of Peru in 1884. In 1892 he set winter quarters just off Route 124. He bought more than 200 acres of Mississinewa River bottom from Miami chief Gabriel Godfroy. In 1904 he opened the Wabash Valley Bank and Trust on the corner of Main Street and South Broadway. The third floor was the wardrobe shop, where women sewed costumes and animal blankets all winter. In 1907 he bought the Carl Hagenbeck trained-animal show, added thirteen elephants, and the combined show became Hagenbeck-Wallace. In 1921 Jerry Mugivan, Bert Bowers, and hotel man Ed Ballard formed the American Circus Corporation and bought the quarters. By 1929 forty-two buildings stood there, the largest circus winter quarters in the country. The elephants on Broadway were not a story people made up later.",
+    long: "",
+    names: ["Ben Wallace", "Gabriel Godfroy"]
+  },
+  {
+    id: "peru-slocum",
+    name: "Frances Slocum",
+    lat: 40.7537,
+    lng: -86.0689,
+    radius: 700,
+    short: "Frances Slocum lived at Deaf Man's Village on the Mississinewa, near this town. The Miami called her Maconaquah. Her husband was Shepoconah. In 1835 she told a trader, Colonel George Ewing, that she was a white child who had been taken. In September 1837 her brothers Isaac and Joseph and her sister Mary Slocum Towne came to the village. She had been with the Miami nearly sixty years, and she would not leave. A later child of this river was Cole Porter, born here in 1891. A marker on West Main Street at Erie says he published his first piece at eleven, opened See America First on Broadway in 1916, and married Linda Lee Thomas in 1919. He died in 1964 and is buried with his family in Mount Hope Cemetery.",
+    long: "",
+    names: ["Frances Slocum", "Cole Porter", "Shepoconah"]
+  },
 
 
 

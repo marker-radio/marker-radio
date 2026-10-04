@@ -45491,6 +45491,26 @@ const STORIES = [
     long: "",
     names: ["Mary Parker Poole", "Frank Lausche"]
   },
+  {
+    id: "fairfield-symmes",
+    name: "Four hamlets",
+    lat: 39.3459,
+    lng: -84.5605,
+    radius: 800,
+    short: "In 1787 Major Benjamin Stites told Judge John Cleves Symmes he had found the garden spot of any place he had seen. Symmes bought the land between the two Miami rivers, about 330,000 acres at 67 cents an acre. President Washington signed that patent in 1794. Fairfield Township was one of thirteen townships cut out of Butler County. The later city swallowed four older corners: Symmes Corner, Fair Play, Furmandale, and Stockton.",
+    long: "",
+    names: ["John Cleves Symmes", "Benjamin Stites"]
+  },
+  {
+    id: "fairfield-1954",
+    name: "Not Hamilton",
+    lat: 39.3459,
+    lng: -84.5605,
+    radius: 700,
+    short: "In October 1953 the Hamilton Chamber published a map. Hamilton's line would run south past Nilles Road and west past Gilmore Road. Township people saw the factories, the schools, and their own government leaving. A first vote in April 1954 failed, 1,219 to 831. They tried again with the precincts that had said yes. In July it passed, 738 to 216. They formed a village on July 10, 1954. A special census made it a city on October 20, 1955.",
+    long: "",
+    names: ["Fairfield"]
+  },
 
   
 ];

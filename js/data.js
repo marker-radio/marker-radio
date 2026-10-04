@@ -45331,6 +45331,27 @@ const STORIES = [
     long: "",
     names: ["Henry H. Culver", "O. A. Rea", "Crane Culver"]
   },
+  {
+    id: "delta-settlers",
+    name: "Six Mile Woods",
+    lat: 41.5750,
+    lng: -84.0025,
+    radius: 500,
+    short: "This was the Six Mile Woods, oak openings on the edge of the Black Swamp. The town history says a man named Meeker cut the first place here in the fall of 1833, on what later was the S. H. Cately farm in Swancreek Township. In the spring of 1834 William Fewlas and his brother came from Long Island. James McQuillin was the first to settle on the ground where the village stands, that same year.",
+    long: "",
+    names: ["William Fewlas", "James McQuillin"]
+  },
+  {
+    id: "delta-names",
+    name: "Tadpole and Delta",
+    lat: 41.5754,
+    lng: -84.0032,
+    radius: 400,
+    short: "Before the sign said Delta, people tried Tadmore, Tadpole, Greensprings, Fingerville, and Slab Shanty. One story says Bad Creek bends through town in the shape of the Greek letter. The other is the mail. William Meeker opened a post office called Delta on his land in Swancreek Township in 1838 and moved it into the village in 1842. On August 3, 1863, sixty residents petitioned and 34 votes incorporated the town. William Critzer was the first mayor. Charles Cullen was clerk. The council was D. H. Pettys, J. T. Gates, A. M. Carpenter, O. T. Clark, and Simon Zimmerman.",
+    long: "",
+    names: ["William Meeker", "William Critzer", "Charles Cullen"]
+  },
+
 
 
   

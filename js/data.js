@@ -45411,7 +45411,26 @@ const STORIES = [
     long: "",
     names: ["Nela Park", "General Electric"]
   },
-
+ {
+    id: "east-liverpool-fawcett",
+    name: "Fawcettstown",
+    lat: 40.6187,
+    lng: -80.5773,
+    radius: 500,
+    short: "Thomas Fawcett, an Irish Quaker, settled this bend of the Ohio in 1798. The place was St. Clair first, then Fawcettstown. It became a village in 1834 and took the name of Liverpool, England. The clay was already in the hills. Nobody was firing it for a living yet.",
+    long: "",
+    names: ["Thomas Fawcett"]
+  },
+  {
+    id: "east-liverpool-bennett",
+    name: "James Bennett",
+    lat: 40.6195,
+    lng: -80.5760,
+    radius: 400,
+    short: "James Bennett was born in Derbyshire on May 13, 1812, and trained in the Staffordshire potteries. He came to America in 1838, failed at a shop in Birmingham, Pennsylvania, and reached East Liverpool in 1839 because of the clay and the river. In 1840 he fired the first successful commercial ware here, yellowware and Rockingham. He moved the works to Pittsburgh in 1844. The English potters who followed him are the reason the town later called itself the Pottery Capital. Bennett died on July 30, 1862.",
+    long: "",
+    names: ["James Bennett"]
+  },
 
 
 

@@ -46900,6 +46900,16 @@ const STORIES = [
     long: "",
     names: ["Buckeye gasoline buggy"]
   },
+  {
+    id: "okolona-elevator",
+    name: "County Road M-1",
+    lat: 41.3553,
+    lng: -84.2178,
+    radius: 500,
+    short: "The Republic Mills elevator stands at the corner of County Road M-1 and County Road 17-D, in southwestern Napoleon Township. A photograph from November 19, 2015 shows the western and southern sides still up. The grain company still files from Okolona under the name Republic Mills, doing business as Hudson Feeds. Lewis Cass Aldrich's 1888 history of Henry County gives the station story on one page. William Daniel Overman's 1958 book of Ohio town names gives Norden and the invented name. Those two pages are the published record. There is no documented fort, Native village, or battlefield at this stop, so those stay off the card.",
+    long: "",
+    names: ["Republic Mills", "Nathaniel Norden"]
+  },
 
 
 

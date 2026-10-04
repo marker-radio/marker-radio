@@ -45251,7 +45251,37 @@ const STORIES = [
     long: "",
     names: ["J. Pearl Pheron", "Oscar Stewart", "R. C. Treastor"]
   },
-  
+    {
+    id: "cortland-bacon",
+    name: "Baconsburg",
+    lat: 41.3303,
+    lng: -80.7254,
+    radius: 400,
+    short: "Edward Scoffield and John Budd bought land in Bazetta Township in 1804 and 1805. They were the first settlers who stayed. Samuel Bacon bought 40 acres on the Mahoning in 1807. In 1816 he traded that ground for a lumber mill Bentley and Brooks owned, on Water Street, on the east side of Walnut Run. His son Enos opened a store, platted lots, and the cabins became Baconsburg. When the railroad came through in 1868, the crews called the stop Baconsburg because so many Bacons lived here.",
+    long: "",
+    names: ["Samuel Bacon", "Enos Bacon", "Edward Scoffield"]
+  },
+  {
+    id: "cortland-gates",
+    name: "Cortland, 1874",
+    lat: 41.3306,
+    lng: -80.7250,
+    radius: 350,
+    short: "The railroaders did not like the name Baconsburg. A minister, Orrin Gates, put the name of his old town in New York on the petition. On May 7, 1873, that name won. The village incorporated in 1874 as Cortland, one square mile, with an iron stake for the center on the Methodist church lot. The first mayor was Asa Hine. The first clerk was W. W. Post.",
+    long: "",
+    names: ["Orrin Gates", "Asa Hine", "W. W. Post"]
+  },
+  {
+    id: "cortland-mosquito",
+    name: "Mosquito Creek Lake",
+    lat: 41.3450,
+    lng: -80.7600,
+    radius: 2000,
+    short: "The lake on the west side of town is not old. Congress authorized it in the Flood Control Act of 1938, to hold the Mahoning, the Beaver, and the upper Ohio. The Army Corps started the dam in August 1943 and finished it in 90 days. They call it the 90-day wonder. The pool was up on April 19, 1944. It is the second-largest inland lake in Ohio, and Warren still drinks from it. Cortland is the town on the eastern shore.",
+    long: "",
+    names: ["Mosquito Creek Lake"]
+  },
+
 ];
 
 

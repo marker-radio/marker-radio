@@ -45751,6 +45751,26 @@ const STORIES = [
     long: "",
     names: ["John Sutherland", "James Ross"]
   },
+  {
+    id: "hartford-holmes",
+    name: "Urial Holmes",
+    lat: 41.3089,
+    lng: -80.5673,
+    radius: 700,
+    short: "This was township number five in the first range of the Western Reserve. The draft went to Urial Holmes and Ephraim Root. On April 22, 1798, the Connecticut Land Company deeded them the whole township, 17,317 acres, for 12,903 dollars and 23 cents. That was under seventy-five cents an acre. They named it Hartford, for the Connecticut capital. In a deed Edward Brockway wrote to his son Titus in 1802, he still called the place Vernon.",
+    long: "",
+    names: ["Urial Holmes", "Ephraim Root", "Edward Brockway"]
+  },
+  {
+    id: "hartford-tree",
+    name: "The first night",
+    lat: 41.3089,
+    lng: -80.5673,
+    radius: 500,
+    short: "The first night was in 1799. Edward Brockway, Isaac Jones, and Asahel Brainard slept by a big tree about a quarter mile north of the center. Holmes and Root had sold Brockway 3,194 acres on September 23, 1799, for 500 dollars, under sixteen cents an acre. Charles Merry came the same year and settled where Orangeville is now. William Bushnell took the south end. His deed is December 31, 1800: 327 acres in lot 30, for 816 dollars.",
+    long: "",
+    names: ["Asahel Brainard", "Isaac Jones", "Charles Merry", "William Bushnell"]
+  },
 
 ];
 

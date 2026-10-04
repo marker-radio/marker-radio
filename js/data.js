@@ -45241,7 +45241,16 @@ const STORIES = [
     long: "",
     names: ["J. F. Jones", "Charles Jones", "George Jones"]
   },
-
+  {
+    id: "convoy-horror-1910",
+    name: "The Convoy Horror",
+    lat: 40.9175,
+    lng: -84.7050,
+    radius: 500,
+    short: "Sunrise, Easter Sunday, March 27, 1910. Car 82 of the Fort Wayne, Van Wert and Lima line left Van Wert while the church bells were still ringing. Dispatcher Van Scoy had handed motorman Oscar Stewart and conductor R. C. Treastor an order to wait on the Convoy siding for express car 199. They did not wait. At 6:41 in the morning, just past the station, 82 came around a curve and hit 199 head on. J. Pearl Pheron of Lima, motorman on the express, was killed in the fire under the wreck. James Risk, the assistant messenger, broke a leg. Seven passengers were shaken up. Stewart and Treastor walked away. Two weeks later the county coroner found both of them guilty of gross negligence.",
+    long: "",
+    names: ["J. Pearl Pheron", "Oscar Stewart", "R. C. Treastor"]
+  },
   
 ];
 

@@ -46113,8 +46113,28 @@ const STORIES = [
     long: "",
     names: ["Benjamin C. Faurot"]
   },
+  {
+    id: "lisbon-kinney",
+    name: "Lewis Kinney",
+    lat: 40.772,
+    lng: -80.7681,
+    radius: 600,
+    short: "Lewis Kinney platted New Lisbon on February 16, 1803, and named it for Lisbon, Portugal. His cabin stood where a tannery later went up. That fall he donated lots for the county buildings and put up a log courthouse and jail, for which he was paid 150 dollars. In 1805 he sold that first ground. William D. Lepper, from Alsace, started the Ohio Patriot here. The town later called it Ohio's first newspaper. The New came off the name on January 17, 1895.",
+    long: "",
+    names: ["Lewis Kinney", "William D. Lepper"]
+  },
+  {
+    id: "lisbon-vallandigham",
+    name: "Clement Laird Vallandigham",
+    lat: 40.772,
+    lng: -80.7681,
+    radius: 500,
+    short: "Clement Laird Vallandigham was this town's congressman, the Peace Democrat who spoke against the Civil War. In 1863 the army arrested him for a speech. On July 26 of that year, John Hunt Morgan surrendered to the New Lisbon militia at West Point, out in the county, not on this square. The square's war story is the congressman. The raid ended a few miles away.",
+    long: "",
+    names: ["Clement Laird Vallandigham", "John Hunt Morgan"]
+  },
 
-
+  
 ];
 
 

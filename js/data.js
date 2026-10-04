@@ -45391,6 +45391,26 @@ const STORIES = [
     long: "",
     names: ["Indian Run", "Hayden Run"]
   },
+  {
+    id: "east-cle-two-towns",
+    name: "Two East Clevelands",
+    lat: 41.5331,
+    lng: -81.5790,
+    radius: 700,
+    short: "East Cleveland Township was cut in 1845 from Cleveland, Newburgh, Euclid, and Warrensville. A village of this name incorporated in 1866. Cleveland annexed that one in 1872. The village that stayed out incorporated in 1895 and became a city in 1911. It turned down joining Cleveland in 1910 and again in 1916. The 1916 charter let women vote in city elections, the only municipal franchise of its kind east of Chicago at the time. In 1910 about 10,000 people lived here. By 1920 it was over 27,000.",
+    long: "",
+    names: ["East Cleveland"]
+  },
+  {
+    id: "east-cle-nela",
+    name: "Nela Park",
+    lat: 41.5410,
+    lng: -81.5660,
+    radius: 600,
+    short: "In 1911 the National Electric Lamp Association, just bought by General Electric, started a campus on Noble Road on the site of an old vineyard. It was the first industrial park in the country. The 92 acres were finished in 1913, and GE moved its Cleveland lamp headquarters here. In 1924 the Nela School of Lighting opened, and the same year they switched on a holiday light display to show the bulbs. That was one year after President Coolidge lit the first electric national Christmas tree.",
+    long: "",
+    names: ["Nela Park", "General Electric"]
+  },
 
 
 

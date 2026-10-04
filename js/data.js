@@ -46779,6 +46779,26 @@ const STORIES = [
     long: "",
     names: ["Chesapeake and Indiana Railroad", "Hoosier Valley Railroad Museum"]
   },
+  {
+    id: "north-liberty-1836",
+    name: "A year the books do not agree on",
+    lat: 41.5342,
+    lng: -86.43,
+    radius: 600,
+    short: "North Liberty is in Liberty Township, St. Joseph County. The published histories say it was laid out in 1836, or in 1837. They do not agree, and they do not print the platter's name. The post office has been open since 1847. In 1870 the census counted 223 people. The 2020 count was 1,623. It is southwest of South Bend, and it started as its own town.",
+    long: "",
+    names: ["North Liberty"]
+  },
+  {
+    id: "north-liberty-district",
+    name: "Fourteen buildings",
+    lat: 41.5342,
+    lng: -86.43,
+    radius: 400,
+    short: "The North Liberty Historic District went on the National Register in 2014. It is fourteen buildings in the business district, built from about 1880 to 1960. Italianate, Classical Revival, and Art Moderne. The Hoffman Block is about 1885. The Worter Building is 1892. The Finch Block is about 1900. Starr Grocery and the North Liberty State Bank are about 1911. City Hall is 1915. The L. W. Pommert Building is 1920. The Masonic Hall is about 1925. North Liberty Park is on the National Register on its own.",
+    long: "",
+    names: ["North Liberty Historic District", "North Liberty Park"]
+  },
 
 
 ];

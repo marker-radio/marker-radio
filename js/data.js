@@ -46073,7 +46073,26 @@ const STORIES = [
     long: "",
     names: ["Jonas Seaman", "Robert H. Jones", "Virginia Jones"]
   },
-
+  {
+    id: "ligonier-cavin",
+    name: "Isaac Cavin",
+    lat: 41.4659,
+    lng: -85.5875,
+    radius: 600,
+    short: "Isaac Cavin was born in Ligonier, Pennsylvania, in 1807. He bought 80 acres on the Elkhart River, in a place called Strawberry Valley, for 75 silver dollars. He platted the town on May 1, 1835, and gave it the name of his hometown. The railroad arrived in 1852. His son John L. Cavin later put a Seth Thomas clock on the street in his memory. Cavin died in 1884.",
+    long: "",
+    names: ["Isaac Cavin", "John L. Cavin"]
+  },
+  {
+    id: "ligonier-mier",
+    name: "Solomon Mier",
+    lat: 41.4659,
+    lng: -85.5875,
+    radius: 500,
+    short: "Solomon Mier and Jacob Strauss, Jewish immigrants from Prussia, settled here when the railroad was coming. Between 1852 and 1866 the town grew from about 50 people to 1,100. The congregation Ahavath Sholom formed in the 1860s and dedicated its temple the weekend of September 6, 1889. By 1900 about 300 of 2,000 residents were Jewish. People called the town Little Jerusalem. The last Jewish resident died in 1985.",
+    long: "",
+    names: ["Solomon Mier", "Jacob Strauss", "Ahavath Sholom"]
+  },
   
 ];
 

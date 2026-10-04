@@ -45871,7 +45871,26 @@ const STORIES = [
     long: "",
     names: ["Huber Heights"]
   },
-
+  {
+    id: "huntertown-andrews",
+    name: "Rapin Andrews",
+    lat: 41.2278,
+    lng: -85.1694,
+    radius: 500,
+    short: "William T. Hunter settled The Opening about 1837. The older story on that same ground is a farm diary. Rapin Andrews started weather notes on July 17, 1839. He kept them until he died, ten years later. His family kept the same book until April 30, 1874. That is one of the longest early weather records in the country, taken in a clearing north of Fort Wayne.",
+    long: "",
+    names: ["Rapin Andrews", "William T. Hunter"]
+  },
+  {
+    id: "huntertown-diary",
+    name: "The weather book",
+    lat: 41.2278,
+    lng: -85.1694,
+    radius: 400,
+    short: "In 1934 the family gave the diary to the United States Weather Bureau. The high in it is 102 degrees, in July 1846. The low is 34 below zero, on January 29, 1873. The town was platted in 1869 and not incorporated until 1966. The book is older than the plat.",
+    long: "",
+    names: ["Huntertown"]
+  },
   
 ];
 

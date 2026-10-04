@@ -46972,6 +46972,27 @@ const STORIES = [
     long: "",
     names: ["Rollie Zeider"]
   },
+  {
+    id: "osceola-hendricks",
+    name: "John A. Hendricks",
+    lat: 41.665,
+    lng: -86.0756,
+    radius: 700,
+    short: "John A. Hendricks recorded the first plat of Osceola on November 17, 1837. The town's own history says he never wrote down why he picked the name. Chief Osceola of the Seminole was in the newspapers that fall. General Thomas Jesup had taken him prisoner under a flag of truce on October 21, 1837. Some people later said Hendricks knew Jesup. The town history calls that doubtful. News moved slowly, and Hendricks may not have known the chief was already a prisoner. A post office has been here since 1854. It is in Penn Township. The 2020 count was 2,590. The ZIP is 46561.",
+    long: "",
+    names: ["John A. Hendricks", "Osceola"]
+  },
+  {
+    id: "osceola-ireland",
+    name: "William Ireland",
+    lat: 41.665,
+    lng: -86.0756,
+    radius: 500,
+    short: "William and Timothy Moat were the first known settlers near here, in 1829, coming in by the St. Joseph River. On May 6, 1832 the new county board named the east township Penn. George Crawford surveyed a state road from Fort Wayne to South Bend in the fall of 1832. Work started in the spring of 1833. A long piece of that road is now U.S. 33. In 1833 William Ireland dammed the Baugo, built a bridge, and put up the first sawmill in the neighborhood. That site later became the Bancroft flour mill, behind the American Legion hall. George West and his son-in-law Thomas Babcock settled on the bank of the Baugo. The village started as a mill and a road, not as a gap between two cities.",
+    long: "",
+    names: ["William Ireland", "William Moat", "Timothy Moat"]
+  },
+
 
 
 

@@ -46256,6 +46256,28 @@ const STORIES = [
     names: ["Honda"]
   },
 
+  {
+    id: "mason-palmyra",
+    name: "Palmyra",
+    lat: 39.3601,
+    lng: -84.3099,
+    radius: 600,
+    short: "Major William Mason laid this town out on August 18, 1815, in Deerfield Township, on Muddy Creek. He called it Palmyra. It sat on the Cincinnati, Lebanon and Xenia turnpike, about seven miles from Lebanon. When the post office found another Palmyra in Ohio, the neighbors met. Some wanted Van Buren, for the new president. The rest wanted Mason, for the man who drew the lots. Mason won, for the town and for the office. Later additions carried the names Lamb, Wikoff, Cox, and Bennett.",
+    long: "",
+    names: ["William Mason"]
+  },
+  {
+    id: "mason-kings-island",
+    name: "Kings Island",
+    lat: 39.3601,
+    lng: -84.3099,
+    radius: 2000,
+    short: "Cincinnati's Coney Island kept flooding off the Ohio. In July 1969 Taft Broadcasting bought that park for 6.5 million dollars and 1,600 acres up here for 3.2 million. Dudley S. Taft was the company president. Construction started on June 15, 1970. A public contest named the new park Kings Island, for Kings Mills and for the old island. It opened on April 29, 1972. Most of the rides came up off the river. The square stayed a stage stop. The gates did the rest.",
+    long: "",
+    names: ["Dudley S. Taft", "Kings Island"]
+  },
+
+
   
 ];
 

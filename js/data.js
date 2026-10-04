@@ -46557,7 +46557,28 @@ const STORIES = [
     long: "",
     names: ["C. H. Schick", "Alpheus Swift", "Daniel Shank"]
   },
+  {
+    id: "monterey-demoss",
+    name: "Eli Demoss",
+    lat: 41.1567,
+    lng: -86.4825,
+    radius: 600,
+    short: "The 1883 county history says Eli Demoss and Peter W. Demoss laid Monterey out in 1849, on their own land. The first plat was twenty-six lots in section 1 and eight lots in section 12, on the Tippecanoe River. They called it Buena Vista, for the battle in the Mexican War. A later addition was made by Dr. William Kelsey, then one by Michael Keitzer, then another by Eli Demoss, and the last by Helen Keitzer. Tippecanoe Township had been organized in 1839 and named for the river. When the first post office opened in 1852, the name had to change. There was already a Buena Vista in southern Indiana. They took Monterey, for Monterrey in Mexico.",
+    long: "",
+    names: ["Eli Demoss", "Peter W. Demoss", "William Kelsey", "Michael Keitzer", "Helen Keitzer"]
+  },
+  {
+    id: "monterey-rail-1882",
+    name: "The Chicago and Atlantic",
+    lat: 41.1567,
+    lng: -86.4825,
+    radius: 500,
+    short: "Before the tracks, a hack and the mail ran from Winamac to Monterey three days a week, Tuesday, Thursday, and Saturday. The Chicago and Atlantic reached the village on October 16, 1882. The county history says that day gave the place a second birth. Until then it was about 300 people and a slow town on the river. The railroad is what woke it up.",
+    long: "",
+    names: ["Chicago and Atlantic Railway"]
+  },
 
+  
 ];
 
 

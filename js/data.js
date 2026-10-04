@@ -46658,6 +46658,28 @@ const STORIES = [
     long: "",
     names: ["South Shore Line", "Hudson Lake"]
   },
+  {
+    id: "new-haven-burgess",
+    name: "Henry Burgess",
+    lat: 41.0706,
+    lng: -85.0144,
+    radius: 700,
+    short: "The city's own history starts with John Van Gundy in 1820, the first man into what became Adams Township. Jesse Adams made the first settlement in 1823. Van Gundy's deadening is what the city calls the beginning. When he learned the Wabash and Erie would cross his land, he sold 160 acres to Samuel Hanna, the canal commissioner in Fort Wayne, and moved on. In 1835 the Burgess family came from Connecticut. Eben Burgess bought that 160 acres from Hanna and sold eight acres along the planned canal to his son Henry. Henry Burgess laid out the town in 1839 and named it New Haven, for the City of Elms. The canal opened to traffic in 1843. The town incorporated in 1865 and became a city in 1963. The 2020 count was 15,843.",
+    long: "",
+    names: ["Henry Burgess", "Eben Burgess", "John Van Gundy", "Samuel Hanna"]
+  },
+  {
+    id: "new-haven-summit",
+    name: "Summit Street",
+    lat: 41.0706,
+    lng: -85.0144,
+    radius: 500,
+    short: "Several Burgess houses are still standing. The one on Summit Street is the oldest brick building in Jefferson Township. Another Burgess house sits at Summit and Eben. Henry's son-in-law, E. W. Green, built a large frame Greek Revival on the hill above Schnelker Park and the old elementary school. St. Louis Catholic Church, just southeast of town, is on the National Register. The name is Connecticut. The ground is the Maumee terrace east of Fort Wayne.",
+    long: "",
+    names: ["E. W. Green"]
+  },
+
+
 
 
   

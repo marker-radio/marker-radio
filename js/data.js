@@ -45731,7 +45731,26 @@ const STORIES = [
     long: "",
     names: ["Adam G. Grant", "Beulah Grant", "James M. Westwater"]
   },
-
+  {
+    id: "hamilton-ludlow",
+    name: "Israel Ludlow",
+    lat: 39.3997,
+    lng: -84.5613,
+    radius: 600,
+    short: "Israel Ludlow surveyed this ford for the army, then laid out a town on it. On December 17, 1794, he called the plat Fairfield. He renamed it Hamilton, for the same man as the fort. His land agent was Darius C. Orcutt, a packhorse driver from St. Clair's army. The official plat is dated April 28, 1802. When Butler County was organized in 1803, Rossville wanted the courthouse. Ludlow offered the old fort ground for a public square, a graveyard, and a church, and he put up money for the building. That is why the county seat sits on this bank.",
+    long: "",
+    names: ["Israel Ludlow", "Darius C. Orcutt", "Alexander Hamilton"]
+  },
+  {
+    id: "hamilton-sutherland",
+    name: "Rossville",
+    lat: 39.3997,
+    lng: -84.5613,
+    radius: 500,
+    short: "On the west bank, John Sutherland and four partners, Henry Brown, Jacob Burnett, James Smith, and William Ruffin, bought the ground from the federal government in April 1801. They platted Rossville on March 14, 1804, and named it for Senator James Ross of Pennsylvania, who had worked for Ohio statehood. Mink trappers called it Minktown. They lost the county seat. The two towns later became one city. The bridge is what is left of the argument.",
+    long: "",
+    names: ["John Sutherland", "James Ross"]
+  },
 
 ];
 

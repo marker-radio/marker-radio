@@ -45311,6 +45311,27 @@ const STORIES = [
     long: "",
     names: ["P. N. Calkins"]
   },
+  {
+    id: "culver-union-town",
+    name: "Union Town",
+    lat: 41.2170,
+    lng: -86.3731,
+    radius: 400,
+    short: "Culver started as Union Town. Bayless L. Dickson owned a farm on Lake Maxinkuckee and laid the town out on June 8, 1844. His log cabin was the only house. In 1851 they surveyed it again and renamed it Marmont, for a French general of that name. By then there were eight streets: Jefferson, Madison, Cass, Scott, Washington, Lake, Plymouth, and Main.",
+    long: "",
+    names: ["Bayless L. Dickson"]
+  },
+  {
+    id: "culver-name",
+    name: "Henry H. Culver",
+    lat: 41.2185,
+    lng: -86.3650,
+    radius: 800,
+    short: "Henry H. Culver of St. Louis owned about two miles of the east shore. He built a public road at his own cost and a thousand feet of sea wall for two thousand dollars. He opened the military academy in 1894. That winter the building burned. He kept the school going in his cottage and put up a fireproof one, finished the next September, at a cost of sixty-five thousand dollars. On October 4, 1895, O. A. Rea and ninety-nine others got the town changed from Marmont to Culver City. Washington would not allow the post office name, because a village in Tippecanoe County was already Culver, named for Crane Culver. Henry paid to have that town renamed Crane. The court recorded Marmont as Culver in the fall of 1895.",
+    long: "",
+    names: ["Henry H. Culver", "O. A. Rea", "Crane Culver"]
+  },
+
 
   
 ];

@@ -47236,6 +47236,27 @@ const STORIES = [
     long: "",
     names: ["Sophia Doolittle", "Phebe Ann Doolittle", "Horace H. Doolittle"]
   },
+  {
+    id: "pickerington-jacksonville",
+    name: "Jacksonville",
+    lat: 39.8842,
+    lng: -82.7535,
+    radius: 700,
+    short: "Violet Township was set up in 1808 and named for the violet wildflowers. In 1811 James Looker bought 80 acres and transferred them to his son-in-law, Abraham Pickering. The first cabins sat on that ground along Sycamore Creek. On September 15, 1815, Pickering filed a plat and called the town Jacksonville, spelled Jackson Ville on the paper. He held back lots for a cemetery, a school, and a church. In 1827 the residents petitioned the legislature, and a special act changed the name to Pickerington. Mail started on March 3, 1831, carried in on horseback. Pickering died in 1833. His wife was Ann. They had eight children, and six of them grew up. This was a creek plat, not a canal town.",
+    long: "",
+    names: ["Abraham Pickering", "James Looker", "Ann Pickering"]
+  },
+  {
+    id: "pickerington-1879",
+    name: "Pickerington railroad",
+    lat: 39.8842,
+    lng: -82.7535,
+    radius: 600,
+    short: "By 1865 the historical society counts about 37 buildings and 150 people. A railroad was finished through town in 1879, and the building started. Pickerington incorporated as a village in 1881. The first mayor was John F. Bauer, and the first ordinance was a tax. Interstate 70 was finished in 1968, and that is what turned the old block into a Columbus suburb. The state certified it as a city on April 20, 1991, once the count passed 5,000. The 2020 census was 24,022. In 1996 the legislature called it the Violet Capital of Ohio. The Ohio and Erie Canal did not run these lots. The water here is Sycamore Creek.",
+    long: "",
+    names: ["John F. Bauer"]
+  },
+
 
 
 

@@ -46860,6 +46860,27 @@ const STORIES = [
     long: "",
     names: ["Firelands"]
   },
+  {
+    id: "oakwood-patterson",
+    name: "John Henry Patterson",
+    lat: 39.7256,
+    lng: -84.1741,
+    radius: 700,
+    short: "John Henry Patterson, who founded the National Cash Register Company, is called the father of Oakwood. At the turn of the century this was farmland on the hill south of Dayton. The city incorporated in 1908. After the Great Dayton Flood of 1913, the ads said the lots sat 275 feet higher than Third and Main. By 1930 the count was over 6,000. In 1932 the city took the council and manager government it still uses. The 2020 count was 9,572. Patterson lived here. The industrial city stayed down the hill.",
+    long: "",
+    names: ["John Henry Patterson"]
+  },
+  {
+    id: "oakwood-hawthorn-built",
+    name: "Schenck and Williams",
+    lat: 39.7256,
+    lng: -84.1741,
+    radius: 400,
+    short: "Hawthorn Hill stands at Harman and Park. Wilbur and Orville Wright meant it to be their house together. Wilbur died in 1912, before it was finished. The Dayton firm of Schenck and Williams drew it. Orville, his father Milton, and his sister Katharine moved in in 1914. They named it for the hawthorn trees. There are at least 150 of them. The house first sat on 17 acres. It is on about 3 now. It went on the National Register in 1974 and became a National Historic Landmark in 1991. After Orville died, NCR kept it as a guest house until August 18, 2006, when the company gave it to the Wright Family Foundation, on what would have been Orville's 135th birthday. Dayton History started public tours in September 2007.",
+    long: "",
+    names: ["Orville Wright", "Wilbur Wright", "Katharine Wright"]
+  },
+
 
 
 

@@ -45771,7 +45771,27 @@ const STORIES = [
     long: "",
     names: ["Asahel Brainard", "Isaac Jones", "Charles Merry", "William Bushnell"]
   },
-
+  {
+    id: "hilliard-reed",
+    name: "John Reed Hilliard",
+    lat: 40.0334,
+    lng: -83.1582,
+    radius: 500,
+    short: "John Reed Hilliard lived in Piqua. In 1852 he bought ten acres in Norwich Township from Hoseah High and Abraham Wendell, between Big Darby Creek and the Scioto. On September 1, 1853, he platted Hilliard's Station, about 200 lots in a grid along the Columbus, Piqua and Indiana Railroad. He built a warehouse that same year. He never lived here. The post office opened in 1854 and dropped the word Station. On July 13, 1869, the village incorporated with 280 people.",
+    long: "",
+    names: ["John Reed Hilliard", "Hoseah High", "Abraham Wendell"]
+  },
+  {
+    id: "hilliard-station",
+    name: "The 1886 depot",
+    lat: 40.0334,
+    lng: -83.1582,
+    radius: 400,
+    short: "Ralston and Kirkpatrick put up a steam sawmill in 1854. A creamery opened on Columbia Street in 1892. The first real depot went up in 1886, on the north side of the tracks, west of Main Street. Railroad service stopped in 1962. That depot was moved and restored, and it stands now in Weaver Park. Old Hilliard is the two blocks that were the whole town.",
+    long: "",
+    names: ["Hilliard"]
+  },
+  
 ];
 
 

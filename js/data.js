@@ -45531,6 +45531,28 @@ const STORIES = [
     long: "",
     names: ["Mayor Bohlken"]
   },
+  {
+    id: "findlay-plat",
+    name: "Vance and Corry",
+    lat: 41.0442,
+    lng: -83.6499,
+    radius: 600,
+    short: "Joseph Vance and Elnathan Corry laid this site out in 1821 and named it for Colonel James Findlay, who had built the War of 1812 stockade on the Blanchard. Findlay became the Hancock County seat in 1828 and a village in 1838. In 1861 David Ross Locke, editor of the Findlay Jeffersonian, writing as Petroleum V. Nasby, published the first of his letters against slavery. Tell Taylor wrote Down by the Old Mill Stream after fishing the Blanchard near the old Misamore Mill. The University of Findlay opened in 1882.",
+    long: "",
+    names: ["Joseph Vance", "Elnathan Corry", "David Ross Locke", "Tell Taylor"]
+  },
+  {
+    id: "findlay-karg-date",
+    name: "January 20, 1886",
+    lat: 41.0395,
+    lng: -83.6460,
+    radius: 400,
+    short: "Dr. Charles Oesterlen, a German homeopathic doctor who came in 1836, talked Jason Blackford and other men into drilling on his farm. On December 5, 1884, they hit gas. The Findlay Artificial Light Company kept drilling. The thirteenth hole was on land owned by Louis Karg, at Liberty Street on the Blanchard. It came in big on January 20, 1886, and they piped it so they could set it on fire. In 1887 the chamber advertised free fuel, free light, and free sites. Thirty-one factories moved in. That year the town held a Gas Jubilee and incorporated as a city.",
+    long: "",
+    names: ["Charles Oesterlen", "Louis Karg", "Jason Blackford"]
+  },
+
+
 
   
 ];

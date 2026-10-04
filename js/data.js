@@ -46739,8 +46739,26 @@ const STORIES = [
     long: "",
     names: ["William McKinley", "Joseph G. Butler"]
   },
-
-
+  {
+    id: "north-bloomfield-brown",
+    name: "Ephraim Brown",
+    lat: 41.4595,
+    lng: -80.8695,
+    radius: 700,
+    short: "In 1814 Ephraim Brown of Westmoreland, New Hampshire, and his uncle Thomas Howe of Williamstown, Vermont, bought a tract five miles square in northern Trumbull County from Peter Chardon Brooks of Boston. In 1815 Howe sold his share back to Brown and kept 1,000 acres on the south side. Brown hired S. E. Ensign of Mesopotamia to survey it. The township was cut into 170 lots, fifty to a hundred acres each, and named West Moreland, for Brown's old town. The name was later changed to Bloomfield. Brown arrived in July 1815 with his wife, four children, and two of her sisters. He was the first merchant, the first postmaster, and the second justice of the peace. Five years later he built Brownwood on the site of the first cabin. The post office at this crossroads is recorded from 1827 under the name North Bloomfield.",
+    long: "",
+    names: ["Ephraim Brown", "Thomas Howe", "S. E. Ensign"]
+  },
+  {
+    id: "north-bloomfield-school",
+    name: "The 1817 school",
+    lat: 41.4595,
+    lng: -80.8695,
+    radius: 500,
+    short: "The first school was a log house in 1817 on Leman Ferry's farm, in the south of the township, taught by Chester Howard. Another term that year was taught by Noah M. Greene in Lewis Clisby's house. A log school went up at the center. In the late 1850s the Reverend D. L. Hickox and his wife opened a private school in a two-story building that was also the town hall, three grades, with Hickox as principal. A man named Viets followed him. The east side of the township was the Tamarack Swamp. Most of the first families came from Vermont. William Howe was one of the first English settlers to come in later.",
+    long: "",
+    names: ["Leman Ferry", "Chester Howard", "D. L. Hickox"]
+  },
   
 ];
 

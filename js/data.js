@@ -46317,6 +46317,29 @@ const STORIES = [
     names: ["Frank Durdin", "Theodore Ludwig"]
   },
 
+  {
+    id: "medaryville-hathaway",
+    name: "Carter Hathaway",
+    lat: 41.0806,
+    lng: -86.8889,
+    radius: 600,
+    short: "This is White Post Township, in Pulaski County. The town was laid out in 1852, just ahead of the New Albany and Salem Railroad, later the Monon. It sits where that line crossed the old road from Rensselaer to the land office in Winamac. James Brooks, president of the railroad, platted most of the towns on the line. He did not plat this one. Josiah Walden owned the ground east of the track. William Clark owned the west side. Carter Hathaway, a surveyor and a lawyer, drew the map. He filed it at the courthouse in Winamac in March 1852, under the name Medary Ville.",
+    long: "",
+    names: ["Carter Hathaway", "Josiah Walden", "William Clark", "James Brooks"]
+  },
+  {
+    id: "medaryville-samuel",
+    name: "Samuel Medary",
+    lat: 41.0806,
+    lng: -86.8889,
+    radius: 500,
+    short: "The usual account says the town was named for Samuel Medary, an Ohio newspaper editor. He was the last governor of Minnesota Territory, and later governor of Kansas Territory. Medary, Wisconsin, and Medary, South Dakota, carry the same name. The Pulaski record also says Medary was a given name in Carter Hathaway's family. The plat does not settle which one they meant. A prairie stop got a governor's name, or a surveyor's family name, and the Monon did the rest.",
+    long: "",
+    names: ["Samuel Medary"]
+  },
+
+
+
   
 ];
 

@@ -46377,9 +46377,26 @@ const STORIES = [
     long: "",
     names: ["Justin Hamilton", "Jacob Panabaker", "Adam Panabaker", "Robert Mortimore"]
   },
-
-
-
+  {
+    id: "mentor-parker",
+    name: "Charles Parker",
+    lat: 41.6664,
+    lng: -81.3396,
+    radius: 800,
+    short: "Charles Parker came with Moses Cleaveland's survey party and stayed. In 1797 he built a cabin on the edge of the Mentor marsh, near what is now Hopkins Road and Lakeshore Boulevard. The township was set off in 1815. The center of it became Mentor Village in 1855. Mentor became a city on December 18, 1963. The city history does not name the person, or the Connecticut town, the township was named for.",
+    long: "",
+    names: ["Charles Parker", "Moses Cleaveland"]
+  },
+  {
+    id: "mentor-dickey",
+    name: "The Dickey farm",
+    lat: 41.6664,
+    lng: -81.3396,
+    radius: 600,
+    short: "James A. Garfield and his wife Lucretia bought the Dickey farm in 1876. It was a working place, with crops, horses, and sheep. In 1880 he went to the Republican convention in Chicago to nominate his friend John Sherman. The ballots deadlocked. His own name went in, and he won it. Over the next five months more than 17,000 people came by train, carriage, and on foot. Cleveland reporters called the farm Lawnfield. He was shot in July 1881 and died that September. The National Park Service took the house in 2008. It stands at 8095 Mentor Avenue.",
+    long: "",
+    names: ["James A. Garfield", "Lucretia Garfield", "John Sherman"]
+  },
 
 
 

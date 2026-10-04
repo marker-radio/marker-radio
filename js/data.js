@@ -46397,6 +46397,26 @@ const STORIES = [
     long: "",
     names: ["James A. Garfield", "Lucretia Garfield", "John Sherman"]
   },
+  {
+    id: "mesopotamia-sperry",
+    name: "Hezekiah Sperry",
+    lat: 41.4584,
+    lng: -80.9501,
+    radius: 700,
+    short: "Pierpont Edwards of New Haven owned this township. His son, Colonel John Stark Edwards, sold the lots. After the colonel died in 1813, Seth Tracy took the agency. The ground was first the district of Troy. In the fall of 1800 Hezekiah Sperry came from Woodbridge, Connecticut, with his son Alpheus and his daughters Martha and Cynthia. They were the first family. He built the cabin on lot 29, later the Woodruff farm, and went back the next year for his wife and the rest of the children. Four sons stayed: Alpheus, Hezekiah, Elias, and Lucius. Captain Sperry died in 1833, at eighty-eight. His wife had died in 1827. The township held its own election at the center schoolhouse on April 5, 1819.",
+    long: "",
+    names: ["Hezekiah Sperry", "Pierpont Edwards", "John Stark Edwards", "Seth Tracy"]
+  },
+  {
+    id: "mesopotamia-name",
+    name: "Between the rivers",
+    lat: 41.4584,
+    lng: -80.9501,
+    radius: 600,
+    short: "The village account says Pierpont Edwards bought these twenty-five square miles in 1798 for 2,500 dollars, and offered the first families free land. They took the name Mesopotamia in 1819 because the ground sits between the Grand River and the Cuyahoga. The center is still called the Commons. Twenty-eight buildings stand there. Twenty-one of them are older than the Civil War, and the row is on the National Register. The county history names the owner and the first cabin. The rivers are why the name is on the sign.",
+    long: "",
+    names: ["Pierpont Edwards"]
+  },
 
 
 

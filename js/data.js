@@ -45991,6 +45991,28 @@ const STORIES = [
     long: "",
     names: ["John Tipton", "Jacob Chappel"]
   },  
+  {
+    id: "lakeville-earl",
+    name: "Earl Town",
+    lat: 41.5236,
+    lng: -86.2731,
+    radius: 500,
+    short: "The town's own history says this place was first called Earl Town. Euro-American settlers were here by 1836. The railroad in 1845 is what made it grow. A post office opened in 1850. It was not incorporated as Lakeville until 1902. The name on the highway is the later one.",
+    long: "",
+    names: ["Earl Town", "Lakeville"]
+  },
+  {
+    id: "lakeville-school",
+    name: "The 1898 school",
+    lat: 41.5236,
+    lng: -86.2731,
+    radius: 400,
+    short: "By the 1890s there were 13 one-room schools around here. In 1898 they were folded into one two-story elementary in town. The old high school went up in 1931. It is the Palmer Complex now, and it went on the National Register in 1991. The later payroll is Hoosier Racing Tire, headquartered here, owned by Continental since 2016.",
+    long: "",
+    names: ["Lakeville"]
+  },
+
+  
 ];
 
 

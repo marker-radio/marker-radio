@@ -46952,8 +46952,26 @@ const STORIES = [
     names: ["Orangeville"]
   },
 
-
-
+  {
+    id: "orland-waterhouse",
+    name: "Benjamin Waterhouse",
+    lat: 41.7306,
+    lng: -85.1722,
+    radius: 600,
+    short: "In August 1853 Benjamin B. Waterhouse of LaGrange County drove into Orland with three people he was taking toward Canada. Cyrus Fillmore, a brother of the former president, was standing on the steps of a public house. Waterhouse asked for Captain Barry. Fillmore sent him to Clark. The federal court in Indiana indicted Waterhouse, Samuel Barry, Sullivan U. Clark, and Denison Fox under the 1850 Fugitive Slave Act. Warrants went out on December 13, 1853. Deputy Marshal Marsh served Barry, Clark, and Fox in the first week of January 1854. Barry and Clark each had to post a 500-dollar bond for the May term in Indianapolis. The New York Herald of December 18, 1854 reported the Waterhouse verdict as a fifty-dollar fine and one hour in the courtroom, with the government paying the costs, and said the jury would not leave the fine on unless the court took it off. Barry was born in New York about 1787. The hour in the newspaper is Waterhouse's, not Barry's.",
+    long: "",
+    names: ["Benjamin Waterhouse", "Samuel Barry", "Sullivan U. Clark", "Denison Fox", "Cyrus Fillmore"]
+  },
+  {
+    id: "orland-zeider-years",
+    name: "Rollie Hubert Zeider",
+    lat: 41.7306,
+    lng: -85.1722,
+    radius: 400,
+    short: "Rollie Hubert Zeider was born on November 16, 1883. He grew up in Auburn after a childhood on a farm at Hoover, near Logansport. He played every infield spot. Chicago White Sox from 1910 to 1913, debut April 14, 1910. New York Yankees in 1913. Chicago Whales in 1914 and 1915. Chicago Cubs from 1916 to 1918, last game September 11, 1918. Lifetime average .240, 5 home runs, 253 runs batted in, 223 stolen bases. He is the only player who hit a home run for all three Chicago major-league clubs in the twentieth century. His first wife, Alberta Doyle, died of tuberculosis in 1916. He later married Margaret Pilgrim. He kept a restaurant in Garrett called Polly's Tavern. Polly was the local name. He moved to Orland in 1959 and died in Garrett on September 12, 1967.",
+    long: "",
+    names: ["Rollie Zeider"]
+  },
 
 
 

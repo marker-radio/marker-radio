@@ -46093,7 +46093,28 @@ const STORIES = [
     long: "",
     names: ["Solomon Mier", "Jacob Strauss", "Ahavath Sholom"]
   },
-  
+    {
+    id: "lima-cunningham",
+    name: "William Cunningham",
+    lat: 40.7426,
+    lng: -84.1052,
+    radius: 700,
+    short: "Lima was laid out in 1831 as the Allen County seat, the year the Shawnee left the Hog Creek reservation. The name is Lima, Peru, then a source of quinine for the swamp fever. One account says the founders pulled the name out of a hat. Dr. William Cunningham, the first physician, arrived that same year. The first school opened in 1832. Henry DeVilliers Williams was the first mayor when it was organized as a city in 1842. The first train came in 1854.",
+    long: "",
+    names: ["William Cunningham", "Henry DeVilliers Williams"]
+  },
+  {
+    id: "lima-faurot",
+    name: "Benjamin C. Faurot",
+    lat: 40.7426,
+    lng: -84.1052,
+    radius: 800,
+    short: "Benjamin C. Faurot owned a paper mill on the Ottawa River, east of downtown, that made strawboard and egg cases. In February 1885 he brought Pennsylvania drillers in to find cheap gas for the mill. On May 19 they hit oil instead, 1,252 feet down in the Trenton limestone. He organized the Trenton Rock Oil Company. The town then sold its own stock, the Citizens' Oil Company, one hundred investors, no one allowed more than five shares, at 20 dollars a share. The park on the river still carries his name.",
+    long: "",
+    names: ["Benjamin C. Faurot"]
+  },
+
+
 ];
 
 

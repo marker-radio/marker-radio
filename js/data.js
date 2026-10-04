@@ -46931,6 +46931,28 @@ const STORIES = [
     long: "",
     names: ["James A. Garfield"]
   },
+  {
+    id: "orangeville-haun",
+    name: "Adam Haun",
+    lat: 41.3417,
+    lng: -80.5217,
+    radius: 600,
+    short: "Jacob Loutzenhiser put up a sawmill and a gristmill here in 1798, on Pymatuning Creek. The mill was hewed logs, and the wheel was an undershot, 25 feet across, fed by a race from the creek. On April 19, 1802 he sold the mills to Adam Haun. Haun ran them for years, and the place was called Haun's Mills long after Loutzenhiser was forgotten. A mill was still here in 1888, run by S. L. Hendrickson. Mr. Hull, the father of George E. Hull, built a woolen mill. It burned on April 3, 1888. Most of the houses are in Ohio. The old histories put the flour mill, the hotel, and later the depot on the Pennsylvania side. The school and the post office sat in Ohio.",
+    long: "",
+    names: ["Jacob Loutzenhiser", "Adam Haun"]
+  },
+  {
+    id: "orangeville-1840",
+    name: "A post office in 1840",
+    lat: 41.3417,
+    lng: -80.5217,
+    radius: 400,
+    short: "A post office called Orangeville has been open since 1840. It had been on the Pennsylvania side before that. The published guess is that the name came from Orange, Connecticut, but the books say the origin is not certain. The Ohio side was incorporated. The 2020 count was 174. The ZIP is 44453. It is one of the easternmost incorporated places in Ohio. Hartford Township is the Ohio side. The next farm is Mercer County, Pennsylvania.",
+    long: "",
+    names: ["Orangeville"]
+  },
+
+
 
 
 

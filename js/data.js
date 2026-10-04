@@ -46719,6 +46719,27 @@ const STORIES = [
     long: "",
     names: ["Newton Falls Covered Bridge", "Ravenna Arsenal", "Newton Steel"]
   },
+  {
+    id: "niles-heaton",
+    name: "James Heaton",
+    lat: 41.1828,
+    lng: -80.7654,
+    radius: 700,
+    short: "James Heaton founded Niles in 1806. He had one of the first iron works in Ohio, a forge and then a charcoal blast furnace just east of what is now the central park, on the west side of Mosquito Creek. He is credited with the first bar iron made in Ohio. The place was first called Heaton's Furnace. He later named it Nilestown, for Hezekiah Niles, who edited the Niles Register in Baltimore. In 1843 the name was cut down to Niles. The panic of 1873 closed the biggest mill in town, James Ward and Company. The old furnaces were too costly to rebuild.",
+    long: "",
+    names: ["James Heaton", "Hezekiah Niles", "James Ward"]
+  },
+  {
+    id: "niles-butler",
+    name: "Joseph G. Butler",
+    lat: 41.1828,
+    lng: -80.7654,
+    radius: 500,
+    short: "William McKinley was born in Niles on January 29, 1843. He went to the high school here and finished in Poland. The high school was later renamed Niles McKinley. He was shot in 1901. In 1915 Joseph G. Butler Jr., a Youngstown industrialist and a boyhood friend, pushed for the National McKinley Birthplace Memorial downtown. Canton has the tomb. Niles has the house and the memorial. Waddell Park is the lawn beside it.",
+    long: "",
+    names: ["William McKinley", "Joseph G. Butler"]
+  },
+
 
   
 ];

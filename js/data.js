@@ -47073,6 +47073,27 @@ const STORIES = [
     long: "",
     names: ["Miami and Erie Canal"]
   },
+  {
+    id: "oxford-1810",
+    name: "The Mile Square",
+    lat: 39.507,
+    lng: -84.7452,
+    radius: 800,
+    short: "In 1803 the state set aside a college township in the woods of northwestern Butler County. Miami was chartered in 1809. In 1810, a year later, the village of Oxford was laid out and the first lots were sold. The first school went up the next year. By 1830 the village had more than 700 people and was incorporated. The original town was the Mile Square. A charter form of government came in 1960. The campus is why the lots were sold. High Street came after the grant.",
+    long: "",
+    names: ["Oxford"]
+  },
+  {
+    id: "oxford-bishop",
+    name: "Robert Hamilton Bishop",
+    lat: 39.507,
+    lng: -84.7452,
+    radius: 600,
+    short: "Robert Hamilton Bishop was Miami's first president, from the opening in 1824 until he resigned in 1841. He was born in Scotland on July 26, 1777, and died on April 29, 1855. He recruited William Holmes McGuffey. The McGuffey House museum says the ten years McGuffey spent here were his most productive. In 1832 Bishop gave him the class in moral philosophy. The first McGuffey Readers were published in 1836. They stayed in American schools for more than a hundred years. The museum is at Oak and Spring Streets. Freedom Summer training began on this side of town on June 13, 1964, at the Western College for Women. Volunteers sang in front of Clawson Hall, then boarded buses for Mississippi.",
+    long: "",
+    names: ["Robert Hamilton Bishop", "William Holmes McGuffey"]
+  },
+
 
 
 

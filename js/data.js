@@ -45201,6 +45201,26 @@ const STORIES = [
     names: ["Brentwood Tolan"]
   },
 
+  {
+    id: "columbiana-firestone-house",
+    name: "Firestone house, 1828",
+    lat: 40.8879,
+    lng: -80.6934,
+    radius: 400,
+    short: "The brick house on South Main was one of the first in the county. Nicholas Firestone, Harvey's great-grandfather, built it in 1828. He had taken title to 640 acres in 1804 on a grant signed by Thomas Jefferson and James Madison. Harvey Samuel Firestone was born in that house on December 20, 1868.",
+    long: "",
+    names: ["Nicholas Firestone", "Harvey Samuel Firestone"]
+  },
+  {
+    id: "columbiana-firestone-return",
+    name: "Harvey Firestone comes home",
+    lat: 40.8884,
+    lng: -80.6937,
+    radius: 600,
+    short: "He left the farm for the tire business. In 1900 he founded the Firestone Tire and Rubber Company in Akron. Akron got the plants. He died in Miami Beach on February 7, 1938, and they brought him back. He is buried in Columbiana Cemetery, in the town that had the house.",
+    long: "",
+    names: ["Harvey Samuel Firestone"]
+  },
 
   
 ];

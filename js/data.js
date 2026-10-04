@@ -45351,6 +45351,27 @@ const STORIES = [
     long: "",
     names: ["William Meeker", "William Critzer", "Charles Cullen"]
   },
+  {
+    id: "denver-grimes",
+    name: "Harrison Grimes",
+    lat: 40.8645,
+    lng: -86.0775,
+    radius: 350,
+    short: "Harrison Grimes laid Denver out in 1872, in Jefferson Township, while the Eel River Railroad was being built to this point. He named it for Denver, Colorado. The post office was already here. It opened in 1869, three years before the plat. State Road 16 still runs through town as Harrison Street. Peru, the county seat, is nine miles south.",
+    long: "",
+    names: ["Harrison Grimes"]
+  },
+  {
+    id: "denver-eel",
+    name: "Eel River",
+    lat: 40.8605,
+    lng: -86.0775,
+    radius: 600,
+    short: "The Eel River passes just south of the lots and runs on southwest to the Wabash at Logansport. Weesau Creek, a branch of it, touches the west edge of town in two places. The railroad and that river are why a store town was worth platting on this corner of Miami County. North Miami schools still use Denver. The second weekend in August is Denver Days.",
+    long: "",
+    names: ["Eel River"]
+  },
+
 
 
 

@@ -46276,7 +46276,26 @@ const STORIES = [
     long: "",
     names: ["Dudley S. Taft", "Kings Island"]
   },
-
+  {
+    id: "masury-frederick",
+    name: "Frederick L. M. Masury",
+    lat: 41.2112,
+    lng: -80.5384,
+    radius: 600,
+    short: "Frederick L. M. Masury was born in New York in 1874. He and his wife Olive founded the Masurite Explosive Company. In 1903 they built the works off Standard Avenue, about forty buildings, beside a brickyard and the Sharon streetcar. The powder was sold to mines. Houses for the hands went up along Standard Avenue from 1901 to 1920. Fred and Olive built their own house just north of the factory. The company office stayed in New York. The name stayed on this side of the line.",
+    long: "",
+    names: ["Frederick L. M. Masury", "Olive Masury"]
+  },
+  {
+    id: "masury-john",
+    name: "John W. Masury",
+    lat: 41.2112,
+    lng: -80.5384,
+    radius: 500,
+    short: "The paint story is one generation back. John W. Masury, Frederick's grandfather, figured out how to make paint colors in quantity. He also patented mills that ground the color, and a can whose metal lid would come off. That fortune paid for the powder plant. People still say Masury and think of paint. The buildings on Standard Avenue were making blasting powder for mines.",
+    long: "",
+    names: ["John W. Masury"]
+  },
 
   
 ];

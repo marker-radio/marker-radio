@@ -47339,6 +47339,26 @@ const STORIES = [
     long: "",
     names: ["Lake Shore and Michigan Southern"]
   },
+  {
+    id: "pleasant-mills-godard",
+    name: "E. A. Godard",
+    lat: 40.7767,
+    lng: -84.8417,
+    radius: 450,
+    short: "Snow's history of Adams County says E. A. Godard built a sawmill in 1834 at the place that later became Pleasant Mills. The same book spells him Goddard. About 1840 he put in a buhr to grind corn. About 1843 or 1844 he built a gristmill for wheat. Snow also calls the Godard mill, on the west bank of the St. Marys, perhaps the first gristmill in the county, and dates that water mill from 1838. The book does not settle the two years. The mill is why the post office opened here on January 16, 1850.",
+    long: "",
+    names: ["E. A. Godard"]
+  },
+  {
+    id: "pleasant-mills-woolen",
+    name: "Godard and Heath",
+    lat: 40.7767,
+    lng: -84.8417,
+    radius: 350,
+    short: "In 1846 E. A. Godard and George Heath moved the machinery of that first mill into a new building. They put in turning lathes, a carding machine, and a woolen mill. About 1865 they changed the works again, enlarged the grinding, and used the older building for the lathes. The woolen mill was shut down about 1873. The census never counted more than 80 people here, in 1870. After that Pleasant Mills stopped being returned as its own place.",
+    long: "",
+    names: ["George Heath", "E. A. Godard"]
+  },
 
 
 

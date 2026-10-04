@@ -45691,6 +45691,26 @@ const STORIES = [
     long: "",
     names: ["Stephen Girard", "Hieronimus Eckman", "Joseph G. Butler"]
   },
+  {
+    id: "greene-gardner",
+    name: "Gardner Greene",
+    lat: 41.4580,
+    lng: -80.7600,
+    radius: 700,
+    short: "Joseph Howland drew this township from the Connecticut Land Company. Gardner Greene drew Howland. They swapped, and each named his piece for himself. In the spring of 1817 six men walked the ground: John and William Harrington, John Wakefield, Ephraim Rice, Roswell Bartlett, and Ichabod Merritt. They bought sections 7, 14, and 17 from General Simon Perkins at two dollars and fifty cents an acre. Wakefield had no cash. William Harrington had ninety-three dollars, and Perkins took that as the down payment. They cut the tract into six strips. Merritt, the youngest, chose first and took the north piece because a deer lick sat on it.",
+    long: "",
+    names: ["Gardner Greene", "William Harrington", "Simon Perkins", "Ichabod Merritt"]
+  },
+  {
+    id: "greene-greensburg",
+    name: "Greensburg",
+    lat: 41.4580,
+    lng: -80.7600,
+    radius: 500,
+    short: "Kinsman and Gustavus were cut off, and what remained had a name and no officers. On September 4, 1820, they voted at William Harrington's house. Ephraim Kee, John Harrington, and Roswell Bartlett were the trustees. Ebenezer Kee was clerk. A crossroads in the center was called Greensburg. Its post office opened in 1825 and closed in 1892. There is still no village inside the township. The 2020 count was 950. This is the only Greene Township in Ohio.",
+    long: "",
+    names: ["Ephraim Kee", "Roswell Bartlett", "Ebenezer Kee"]
+  },
 
 
 ];

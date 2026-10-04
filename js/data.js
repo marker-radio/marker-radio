@@ -46759,7 +46759,28 @@ const STORIES = [
     long: "",
     names: ["Leman Ferry", "Chester Howard", "D. L. Hickox"]
   },
-  
+    {
+    id: "north-judson-brantwood",
+    name: "Adrian Judson",
+    lat: 41.217,
+    lng: -86.7756,
+    radius: 700,
+    short: "The town that is here now was first called Brantwood. It was platted on October 1, 1859, less than a mile northwest of the present streets, in Wayne Township, Starke County. The post office opened on September 24, 1860 as North Judson, for Adrian Judson, a promoter of the Great Chicago and Eastern Railway. That line had just been laid through. It started as the Chicago and Cincinnati, and later it was part of the Panhandle, the Pittsburgh, Cincinnati, Chicago and St. Louis. The North was added so the mail would not go to Judson, downstate. The town proper was laid out in 1866 and incorporated in 1888. The town's own count for 2020 is about 1,857.",
+    long: "",
+    names: ["Adrian Judson"]
+  },
+  {
+    id: "north-judson-four",
+    name: "Four railroads",
+    lat: 41.217,
+    lng: -86.7756,
+    radius: 500,
+    short: "The town says four major railroads once met here. In 1881 the Indiana, Illinois and Iowa and the Chicago and Atlantic were both laid through. The town still owns a railroad. It is the headquarters of the Chesapeake and Indiana. The Hoosier Valley Railroad Museum keeps the equipment and runs the trains. The other local day is the Mint Festival, on Father's Day weekend. State Road 10 and State Road 39 cross in town. US 231 can miss Lane if you stay on the highway.",
+    long: "",
+    names: ["Chesapeake and Indiana Railroad", "Hoosier Valley Railroad Museum"]
+  },
+
+
 ];
 
 

@@ -47673,6 +47673,16 @@ const STORIES = [
     long: "You are on Larue-Prospect Road. About two miles south of here, this road crosses a line drawn in 1795. That August, at Greenville, General Anthony Wayne and the chiefs of the Wyandot, Shawnee, Delaware, Miami, and other nations signed the treaty that ended the war after Fallen Timbers. Israel Ludlow surveyed the line in 1797. South of it, the United States took the land. North of it, the treaty left the land to those nations. This ground is on the north side. Boundary Road, over at Route 4, is the same line. The marker there says the north was for the Indians and the south for the settlers. The promise did not hold. Treaties in 1817 and 1818 took the north side too. The Wyandot were removed from Upper Sandusky in 1843. The line is still in the roads and in the old deeds. You are on what used to be the edge of the country.",
     names: ["Greenville Treaty", "Anthony Wayne", "Israel Ludlow", "Wyandot", "Shawnee", "Delaware", "Miami", "Fallen Timbers"]
   },
+  {
+    id: "prospect-welcome",
+    name: "A note: you have now entered the town of where sue lives. A wife, mother, and the best sister-in-law anyone could askfor. she is noted for bieng the first user of this app and always helping me out with all my stupid ideas.  Thank you.",
+    lat: 40.4950,
+    lng: -83.1905,
+    radius: 350,
+    short: "Thank you for trying this. I hope the road tells you something you did not know.",
+    long: "",
+    names: []
+  },
 
 
 

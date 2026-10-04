@@ -47216,6 +47216,26 @@ const STORIES = [
     long: "",
     names: ["James McFellen"]
   },
+  {
+    id: "phalanx-springfield",
+    name: "Springfield Township",
+    lat: 41.4767,
+    lng: -84.4137,
+    radius: 600,
+    short: "Springfield Township was organized on May 16, 1835. The county line it sits on had been set by a state act of February 23 that year. The first trustees were Bruce Packard, John Stubbs, and Harmon Doolittle. Daniel Colgan and Abram Worts were overseers of the poor. Thomas J. Prettyman was treasurer. The county history says Harmon Doolittle and Jonathan B. Taylor were the first justices elected in the township. This Phalanx is that township's corner. The other Ohio place called Phalanx is in Trumbull County. Do not mix them.",
+    long: "",
+    names: ["Bruce Packard", "Jonathan B. Taylor"]
+  },
+  {
+    id: "phalanx-will",
+    name: "Harmon's will",
+    lat: 41.4767,
+    lng: -84.4137,
+    radius: 400,
+    short: "Harmon Doolittle wrote his will in Springfield Township on September 23, 1849, the year he died. He named four children: Sophia C., Phebe Ann, John S., and Horace H. Doolittle. The will mentions his wife and makes her their guardian, and it does not print her name. Sophia is the daughter already buried at Boynton Cemetery. She was born in 1834 and died in 1857. The other three children are names the older cards left out.",
+    long: "",
+    names: ["Sophia Doolittle", "Phebe Ann Doolittle", "Horace H. Doolittle"]
+  },
 
 
 

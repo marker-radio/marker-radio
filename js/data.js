@@ -46880,7 +46880,26 @@ const STORIES = [
     long: "",
     names: ["Orville Wright", "Wilbur Wright", "Katharine Wright"]
   },
-
+  {
+    id: "ohio-city-lambert-life",
+    name: "John William Lambert",
+    lat: 40.7717,
+    lng: -84.6222,
+    radius: 600,
+    short: "John William Lambert was born in Mechanicsburg, Ohio, on January 29, 1860. He married Mary Kelley, called Minnie, in 1885. In Ohio City he ran a farm-equipment showroom 80 feet long. He was working on a three-cylinder gasoline engine in 1890. In January 1891 he tested a single-cylinder engine inside that showroom, then drove the buggy on the village streets. The automobile historian L. Scott Bailey later spent five years on the claim and entered it for Lambert as the first workable American gasoline car. Henry Ford and the Duryea brothers built theirs several years after. Lambert held more than 600 patents. He died in Anderson, Indiana, on May 20, 1952. Ohio City still holds Lambert Days.",
+    long: "",
+    names: ["John William Lambert", "L. Scott Bailey"]
+  },
+  {
+    id: "ohio-city-buggy",
+    name: "Buckeye gasoline buggy",
+    lat: 40.7717,
+    lng: -84.6222,
+    radius: 400,
+    short: "The 1891 machine is called the Buckeye gasoline buggy, and also the Lambert gasoline buggy. It was a phaeton, engine in the rear, one cylinder of 104 cubic inches, about 15 horsepower, one speed, and about 1,275 pounds. It was built in Ohio City. Later cars carried the Union name, and then the Lambert Automobile Company name. The village kept the 1891 drive. The factory years happened somewhere else.",
+    long: "",
+    names: ["Buckeye gasoline buggy"]
+  },
 
 
 

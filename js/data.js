@@ -47360,6 +47360,17 @@ const STORIES = [
     names: ["George Heath", "E. A. Godard"]
   },
 
+  {
+    id: "plumbs-sarah",
+    name: "Sarah Ann Hoopengarner",
+    lat: 41.0087,
+    lng: -84.3996,
+    radius: 500,
+    short: "This crossing is in Washington Township, Paulding County. Sarah Ann Hoopengarner was born in Tuscarawas County on July 28, 1845. She married Henry L. Plumb in Paulding County on January 31, 1865. She died on July 6, 1920. She and Henry, and Caleb and Eliza, are buried in Fought Cemetery at Mandale, on private ground about a mile northeast of the X, between Road 193 and Dog Creek. The marriage record spells her Hoopengarner. Henry died in 1883. The sources still do not name the regiment, or the battle, where Eugene was shot, or the day Francis died in Libby Prison.",
+    long: "",
+    names: ["Sarah Ann Hoopengarner", "Henry L. Plumb"]
+  },
+
 
 
 

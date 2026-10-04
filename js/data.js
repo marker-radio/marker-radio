@@ -47032,6 +47032,26 @@ const STORIES = [
     long: "",
     names: ["George H. Carpenter", "John Fee"]
   },
+  {
+    id: "ottawa-row",
+    name: "Michael Row",
+    lat: 41.0197,
+    lng: -84.0464,
+    radius: 600,
+    short: "Ottawa was laid out in 1834. The county history counts five families then. John Cox, David Cox, C. T. Pomeroy, William Galbreath, and Michael Row. Two other men, Williams and Runyan, were here too. Row built the first cabin on the town site in May 1834. It was the first tavern. Pomeroy was the first physician and began practice in 1835. He laid out the first addition. Dr. C. M. Godfrey came in 1837 and studied under him. The county itself was organized on May 8, 1834. Kalida, the first seat, sits in Union Township near where Plum Creek meets Sugar Creek. The post office here was called Buckeye, because another Ohio post office already had the name Ottawa.",
+    long: "",
+    names: ["Michael Row", "C. T. Pomeroy"]
+  },
+  {
+    id: "ottawa-dayton-michigan",
+    name: "Dayton and Michigan Railroad",
+    lat: 41.0197,
+    lng: -84.0464,
+    radius: 500,
+    short: "The line that pulled the county seat was the Dayton and Michigan Railroad. The county history credits Dr. Pomeroy with getting it through Ottawa. The road from Dayton to Toledo was celebrated on July 4, 1859. Trains were running through Ottawa by November 1859. That is why the 1866 vote could say this town had a railroad and Kalida did not. The Findlay, Fort Wayne and Western, the east-and-west line, had trains here from 1894. The Baltimore and Ohio bought the north-and-south line in 1917. The brick depot that still stands replaced an earlier wooden one around 1900.",
+    long: "",
+    names: ["C. T. Pomeroy"]
+  },
 
 
 

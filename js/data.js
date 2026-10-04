@@ -45631,12 +45631,25 @@ const STORIES = [
     long: "",
     names: ["Jesse Baughman", "John Neiswander"]
   },
-
-  
-
-
-
-
+  {
+    id: "garfield-hts-park",
+    name: "Newburgh Park",
+    lat: 41.4170,
+    lng: -81.6060,
+    radius: 600,
+    short: "This ground was Newburgh Township, then the village of South Newburgh, split off in 1907. The park on the hill had been Newburgh Park. In 1897 they renamed it Garfield Park, for President James Abram Garfield, who was born in nearby Orange Township. In 1919 the village took the park's name and became Garfield Heights. It became a city in 1930, the year the count passed 5,000. In 1920 there were 2,530 people. In 1930 there were 15,589.",
+    long: "",
+    names: ["James A. Garfield"]
+  },
+  {
+    id: "garfield-hts-salt",
+    name: "Black salt",
+    lat: 41.4170,
+    lng: -81.6060,
+    radius: 500,
+    short: "The heights above the Cuyahoga were dry. The river bottom was swamp. Farmers here made black salt, lye and potash from burned timber, and it paid better than grain. In the 1920s developers sold the hill as house lots. The Depression left an eighty percent mortgage delinquency rate. The city sits between Cleveland, Maple Heights, Valley View, and Cuyahoga Heights. Turney Road is still the working street.",
+    long: "",
+    names: ["Garfield Heights"]  
 
   
 ];

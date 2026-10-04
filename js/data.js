@@ -46497,7 +46497,28 @@ const STORIES = [
     long: "",
     names: ["Drusus Nichols", "John O'Ferrell"]
   },
+  {
+    id: "monroe-in-everhart",
+    name: "John Everhart",
+    lat: 40.7442,
+    lng: -84.9397,
+    radius: 600,
+    short: "Ronald Baker's Indiana place-name book says John Everhart platted this town in 1847 and named it for James Monroe, the fifth president. A John Everhart, a farmer, is on the 1850 census of Monroe Township, with a wife named Rebecca. The book does not give his age or say where he came from. The 2020 count was 885. Adams Central schools sit in the town. It is the village on US 27 between Decatur and Berne.",
+    long: "",
+    names: ["John Everhart", "James Monroe"]
+  },
+  {
+    id: "monroe-in-swiss",
+    name: "Swiss country",
+    lat: 40.7442,
+    lng: -84.9397,
+    radius: 800,
+    short: "The 2000 census write-up put Monroe first in the country for Swiss ancestry, with Berne right behind it. Berne was settled by Mennonites from the Jura, and they named that town for Bern in Switzerland. Monroe is the older plat, 1847. Berne is the Swiss town people know. The highway between them is the same country.",
+    long: "",
+    names: ["Berne"]
+  },
 
+  
 ];
 
 

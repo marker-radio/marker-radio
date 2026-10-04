@@ -46618,6 +46618,27 @@ const STORIES = [
     long: "",
     names: ["Frigidaire", "General Motors", "DMAX"]
   },
+  {
+    id: "nappanee-lockwood",
+    name: "Samuel Lockwood",
+    lat: 41.4428,
+    lng: -85.9997,
+    radius: 700,
+    short: "The city history says Samuel Lockwood settled this township in 1836, and both the township and the village of Locke took his name. Locke was the last township created in Elkhart County. In 1839 Jacob Stahly and John Stahly came to the southwest corner of that township. The city calls them the first Amish settlers in Indiana. The Baltimore and Ohio arrived in 1874, and Nappanee was laid out that year. By 1875 the people of Locke were moving south. They sleighed the houses and the shops down to the new town. The city spells the first name Napanee and says it came out of the Indian country here. The extra p was added when the town was picked for a post office, in Grover Cleveland's first term.",
+    long: "",
+    names: ["Samuel Lockwood", "Jacob Stahly", "John Stahly"]
+  },
+  {
+    id: "nappanee-coppes",
+    name: "John Coppes",
+    lat: 41.4428,
+    lng: -85.9997,
+    radius: 600,
+    short: "In 1873 B. Frank Myers and John Mellinger had a sawmill. In 1876 John Coppes and Frank Coppes bought into that mill for 150 dollars and a pocket watch. Samuel Coppes was with them, then left in 1891 to start the Coppes Hotel. The first telephone in town went into the mill office in 1882. In 1899 they brought out the Hoosier cabinet, the Napanee Dutch Kitchenet. In 1902 the firm was Coppes, Zook and Mutschler: John and Frank Coppes, Charles and Albert Mutschler, and Daniel and Harold Zook. It broke up in 1913. The Mutschler brothers kept the furniture company. John, Frank, and Harold Zook stayed with the kitchen cabinets. Before the cabinets, the crop the city remembers is the onion, with potatoes, hemp, and mint.",
+    long: "",
+    names: ["John Coppes", "Frank Coppes", "John Mellinger", "Harold Zook"]
+  },
+
 
 
   

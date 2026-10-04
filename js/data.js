@@ -46457,7 +46457,26 @@ const STORIES = [
     long: "",
     names: ["Adena"]
   },
-
+  {
+    id: "middle-point-sykes",
+    name: "S. B. Sykes",
+    lat: 40.8556,
+    lng: -84.4461,
+    radius: 600,
+    short: "The village was laid out in 1851 and first called Sykestown. A 1976 local account puts the lots on land of S. B. Sykes and H. N. Sykes, and dates that survey 1852. The two years do not agree. The owners do. The first houses were built by L. B. Sykes, H. J. Sykes, and John A. Estill. Estill was the first doctor. The county commissioners took up incorporation on September 9, 1874. The same account says the recorder's books do not show the papers the law required.",
+    long: "",
+    names: ["S. B. Sykes", "H. N. Sykes", "John A. Estill"]
+  },
+  {
+    id: "middle-point-rail",
+    name: "The middle of the run",
+    lat: 40.8556,
+    lng: -84.4461,
+    radius: 500,
+    short: "In 1853 the Ohio and Indiana Railroad built from Crestline to Fort Wayne. In 1855 it became the Pittsburgh, Fort Wayne and Chicago. The local account of the name is a passenger asking the conductor where they were. He said about the middle point between Van Wert and Delphos. That is the story the village tells. The post office has used Middle Point since 1854.",
+    long: "",
+    names: ["Ohio and Indiana Railroad"]
+  },
   
 ];
 

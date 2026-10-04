@@ -45511,6 +45511,26 @@ const STORIES = [
     long: "",
     names: ["Fairfield"]
   },
+  {
+    id: "fairview-rockport",
+    name: "Rockport",
+    lat: 41.4414,
+    lng: -81.8643,
+    radius: 600,
+    short: "This ridge was Township 7, Range 14, in Moses Cleaveland's survey for the Connecticut Land Company. The tract also covered Rocky River, West Park, Parkview, and most of Lakewood. Someone bought the township in 1807 for 26 dollars and 87 cents. In 1819 the 18 families living there asked for a name. On February 24 they got Rockport, for the rock banks on the lake and the Rocky River. Early names on this ground include Anthony, Bassett, Eaton, Jordan, Mastick, Millard, and Spencer.",
+    long: "",
+    names: ["Moses Cleaveland"]
+  },
+  {
+    id: "fairview-park-name",
+    name: "The word Park",
+    lat: 41.4414,
+    lng: -81.8643,
+    radius: 500,
+    short: "Goldwood Township was set off on April 6, 1910. Within the year, 75 families asked for a village. Fairview Village got its charter on September 10, 1910. The piece along Center Ridge Road went to Rocky River. A southwest corner stayed Goldwood until 1925, when it was renamed Parkview, and in 1967 that became Ward 5. The main street was Sugar Ridge, then Coe Ridge, then State Street, and in 1934 it became Lorain Road. In 1948 Mayor Bohlken told people to write Washington for a post office. A Fairview already existed in Ohio. Voters added Park, for the view over the Metroparks. The post office opened in November 1949. The city dates from September 5, 1951.",
+    long: "",
+    names: ["Mayor Bohlken"]
+  },
 
   
 ];

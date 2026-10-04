@@ -45671,7 +45671,28 @@ const STORIES = [
     long: "",
     names: ["Germantown"]
   },
-  
+    {
+    id: "girard-tod",
+    name: "David Tod",
+    lat: 41.1542,
+    lng: -80.7015,
+    radius: 500,
+    short: "In 1836 David Tod, Matthew Birchard, John W. Collins, and John W. Seeley bought 42 acres of Solomon Kline's land, between the Mahoning and the State Road. They paid 3,539 dollars. County surveyor Franklin E. Stow spent one day on it and wrote Mahoning on the map. Tod, later Ohio's Civil War governor, finished the plat in 1837. It was 15 blocks. The Black Horse Tavern went up at Liberty and State. The first school opened on Liberty Street in 1844. Birchard later sat on the Ohio Supreme Court.",
+    long: "",
+    names: ["David Tod", "Matthew Birchard", "Solomon Kline"]
+  },
+  {
+    id: "girard-name-doubt",
+    name: "The name nobody proved",
+    lat: 41.1542,
+    lng: -80.7015,
+    radius: 400,
+    short: "The Pennsylvania and Ohio Canal reached this bank in 1839. In 1859 Girard was the south end of the Cleveland and Mahoning Railroad. Joseph G. Butler, in his history of the valley, wrote that nobody knows where the name Girard came from. People say it honors Stephen Girard of Philadelphia, who died in 1831. Butler called that a guess. The first settler named here is Hieronimus Eckman, at a spring at State and Prospect.",
+    long: "",
+    names: ["Stephen Girard", "Hieronimus Eckman", "Joseph G. Butler"]
+  },
+
+
 ];
 
 

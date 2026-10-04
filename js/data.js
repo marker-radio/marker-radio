@@ -45891,7 +45891,27 @@ const STORIES = [
     long: "",
     names: ["Huntertown"]
   },
-  
+   {
+    id: "huntington-flint",
+    name: "Flint Springs",
+    lat: 40.8831,
+    lng: -85.4975,
+    radius: 700,
+    short: "The Miami called this fork Wepecheange, place of flints. Champion Helvey was already calling the settlement Flint Springs. On October 12, 1830, he and Elias Murray bought the government land for a town. Murray took 195 acres in the northwest quarter of section 13 for his own farm. The Helveys recorded a plat in 1832. In 1834 they conveyed it to John Tipton.",
+    long: "",
+    names: ["Champion Helvey", "Elias Murray", "John Tipton"]
+  },
+  {
+    id: "huntington-samuel",
+    name: "Samuel Huntington",
+    lat: 40.8831,
+    lng: -85.4975,
+    radius: 600,
+    short: "Murray was in the Indiana House in 1831. He got this county authorized, effective December 2, 1834, and he named it for his great-uncle, Samuel Huntington, a signer of the Declaration and the first president of the Continental Congress. In May 1835 five commissioners met at Murray's house and made Huntington the county seat. Tipton deeded the county 51 lots so the seat would stay. It incorporated as a town in 1848 and as a city in 1873.",
+    long: "",
+    names: ["Samuel Huntington", "Elias Murray", "John Tipton"]
+  },
+ 
 ];
 
 

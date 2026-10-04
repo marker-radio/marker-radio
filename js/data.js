@@ -46357,6 +46357,27 @@ const STORIES = [
     long: "",
     names: ["Amos Root"]
   },
+  {
+    id: "mendon-coil",
+    name: "Andrew Coil",
+    lat: 40.6733,
+    lng: -84.5175,
+    radius: 700,
+    short: "Andrew Coil and his family, including his son-in-law Thomas Parrott, came to Union Township in 1822. They built a cabin on Twelve-Mile Creek. The corn and vegetables they raised that year were the first crop in the township. The next year Coil laid out a town and called it Coiltown. In 1824 it competed with St. Marys and Shanesville for the county seat, and lost. Samuel Duncan was here the same year. He had been in the county since 1818, on Shane's Prairie. Coiltown is the older name on this ground. Guilford came later.",
+    long: "",
+    names: ["Andrew Coil", "Thomas Parrott", "Samuel Duncan"]
+  },
+  {
+    id: "mendon-guilford-plat",
+    name: "Justin Hamilton",
+    lat: 40.6733,
+    lng: -84.5175,
+    radius: 500,
+    short: "In 1834 Justin Hamilton and Thomas Parrott laid out Guilford, in the southeast quarter of section 21, on the south bank of the St. Marys River. They acknowledged the plat on May 29. It was recorded on June 2. The proprietors soon changed the name to Mendon. The county history does not say why. For years the town was a schoolhouse, a horse mill, and a store. In 1836 Jacob Panabaker built a sawmill and a gristmill on the river. His brother Adam came the same year. Robert Mortimore, a wheelwright, made chairs, spinning wheels, and reels. The brick school, two stories and eight rooms, went up in 1888.",
+    long: "",
+    names: ["Justin Hamilton", "Jacob Panabaker", "Adam Panabaker", "Robert Mortimore"]
+  },
+
 
 
 

@@ -46699,6 +46699,26 @@ const STORIES = [
     long: "",
     names: ["New Lebanon"]
   },
+  {
+    id: "newton-falls-white",
+    name: "Elijah White",
+    lat: 41.1887,
+    lng: -80.9781,
+    radius: 700,
+    short: "The public library says Newton Township was created in 1806 as township number 3, range 5, after the Connecticut Western Reserve was surveyed. Elijah White, Jonathan Brace, and Justin Ely bought it from the Connecticut Land Company for 12,903 dollars. People were at the falls by 1806 and 1807. Deeds between 1803 and 1810 still call it the township number, or just the Falls. By 1810 the township was Newton. The library says that was before young Eben Newton taught here, and long before he was a Canfield lawyer, a legislator, and a judge. The name may be Newtown, Connecticut, plus these falls. The two branches of the Mahoning ran grist, flax, woolen, carding, and saw mills. The Pennsylvania and Ohio Canal, also called the Mahoning Canal, opened through here in 1840, from New Castle to Akron, and the railroads made it obsolete in the 1860s. The village incorporated in 1872. The first mayor and six councilmen were not elected until 1888. The library does not print that mayor's name.",
+    long: "",
+    names: ["Elijah White", "Jonathan Brace", "Justin Ely", "Eben Newton"]
+  },
+  {
+    id: "newton-falls-1831",
+    name: "The 1831 bridge",
+    lat: 41.1887,
+    lng: -80.9781,
+    radius: 400,
+    short: "The covered bridge on Bridge Street was built in 1831 over the east branch of the Mahoning. The library calls it the second oldest covered bridge in Ohio, the only one with a covered sidewalk, and the last one left in Trumbull County. The sidewalk went on in 1921 and 1922 so students could walk to the school on North Center Street. After the tornado of May 31, 1985, both roofs were repaired and covered with metal. A second covered bridge, built in 1832 over the west branch, was replaced in 1856 to line up with the canal. That one closed in 1942. A concrete span went in the next year because the Ravenna Arsenal needed the road. The arsenal, more than 21,000 acres, made bombs and heavy artillery in the Second World War. It is Camp Ravenna now. Newton Steel opened in 1919, had 1,200 people by 1923, and closed in June 1931.",
+    long: "",
+    names: ["Newton Falls Covered Bridge", "Ravenna Arsenal", "Newton Steel"]
+  },
 
   
 ];

@@ -47491,6 +47491,108 @@ const STORIES = [
     long: "",
     names: ["Noble Landon"]
   },
+  {
+    id: "approach-worthington",
+    name: "Worthington",
+    lat: 40.0931,
+    lng: -83.0180,
+    radius: 5500,
+    layer: "approach",
+    short: "You are coming up on Worthington. James Kilbourne and the Scioto Company settled it in 1803, the year Ohio became a state, and they named it for Thomas Worthington, the man who helped them find the land. It is older than Columbus. If you get off at High Street, the green is the old town.",
+    long: "",
+    names: ["Worthington", "James Kilbourne", "Thomas Worthington", "Scioto Company"]
+  },
+  {
+    id: "worthington-name",
+    name: "Thomas Worthington",
+    lat: 40.0931,
+    lng: -83.0180,
+    radius: 900,
+    short: "The town is not named for its founder. On August 10, 1803, the Scioto Company named it for Thomas Worthington of Chillicothe. He was a territorial land commissioner, one of Ohio's first senators, and later governor. He helped Kilbourne locate the tract. Kilbourne is the man who built the village. Worthington is the man whose name they borrowed.",
+    long: "",
+    names: ["Thomas Worthington", "James Kilbourne", "Scioto Company"]
+  },
+  {
+    id: "worthington-road",
+    name: "The wagon road",
+    lat: 40.0931,
+    lng: -83.0180,
+    radius: 1200,
+    short: "The Scioto Company was formed on May 5, 1802, in Granby, Connecticut. They bought 16,000 acres along the Olentangy for a dollar and a quarter an acre. In September 1803 eleven families left Connecticut. Six weeks and 600 miles later they arrived, in October. The railroad did not found this town. The wagon did. High Street was the spine of the plat, and it is still the road north out of Columbus.",
+    long: "",
+    names: ["Scioto Company", "Olentangy River", "High Street"]
+  },
+  {
+    id: "worthington-johnson",
+    name: "Orange Johnson House",
+    lat: 40.0958,
+    lng: -83.0180,
+    radius: 500,
+    short: "The house the historical society keeps is the Orange Johnson House, on High Street north of the green. It was built in 1811. Johnson made combs, then became one of the rich men of the village. The green is the plat. This house is the family that prospered on it.",
+    long: "",
+    names: ["Orange Johnson"]
+  },
+  {
+    id: "worthington-press",
+    name: "The Western Intelligencer",
+    lat: 40.0915,
+    lng: -83.0180,
+    radius: 400,
+    short: "James Kilbourne put up a commercial building for a newspaper. It still stands at 679 High Street. From it he printed the Western Intelligencer, the first newspaper in Franklin County. The building is still in use. It is the oldest commercial building in continuous use in Ohio.",
+    long: "",
+    names: ["James Kilbourne", "Western Intelligencer"]
+  },
+  {
+    id: "worthington-mcconnell",
+    name: "Worthington Industries",
+    lat: 40.0931,
+    lng: -83.0180,
+    radius: 1400,
+    short: "In 1955 a steel salesman named John H. McConnell borrowed 600 dollars against his 1952 Oldsmobile, bought one load of steel, and started a company. He named it for this town. That company became Worthington Industries. McConnell later owned the Columbus Blue Jackets. The steel plant was not on the green. The name was.",
+    long: "",
+    names: ["John H. McConnell", "Worthington Industries"]
+  },
+  {
+    id: "worthington-native",
+    name: "The Olentangy",
+    lat: 40.0931,
+    lng: -83.0300,
+    radius: 1400,
+    short: "The river west of the old plat is the Olentangy. The name is usually translated as the river of the red face paint, from the Wyandot. This was Shawnee and Wyandot country before the Scioto Company bought it. Jeffers Mound, in the north of town, is an Adena burial mound. It was here more than a thousand years before Kilbourne's wagon train.",
+    long: "",
+    names: ["Olentangy River", "Wyandot", "Shawnee", "Jeffers Mound"]
+  },
+  {
+    id: "worthington-war",
+    name: "Detroit",
+    lat: 40.0931,
+    lng: -83.0180,
+    radius: 1000,
+    short: "Worthington's militia marched north in the War of 1812 with General William Hull. In August 1812 Hull surrendered his army at Detroit, and the Worthington men were surrendered with it. James Kilbourne served as a colonel of militia and, in those same years, as a congressman. No battle was fought on the green.",
+    long: "",
+    names: ["William Hull", "James Kilbourne"]
+  },
+  {
+    id: "worthington-chase",
+    name: "Philander Chase",
+    lat: 40.0880,
+    lng: -83.0180,
+    radius: 900,
+    short: "In June 1818 an Episcopal convention meeting in Worthington chose Philander Chase as the first bishop of Ohio. Chase had a farm just south of the village, and he started a school there. That school left Worthington, moved to Gambier, and became Kenyon College.",
+    long: "",
+    names: ["Philander Chase", "Kenyon College"]
+  },
+  {
+    id: "worthington-library",
+    name: "The two-dollar library",
+    lat: 40.0905,
+    lng: -83.0180,
+    radius: 700,
+    short: "On the same day they picked the town's name, August 10, 1803, each member of the Scioto Company put in two dollars for a library. That was about four days' wages. The families had not arrived yet. They taxed themselves for books before they had finished houses. Worthington still tells that as the kind of town it meant to be.",
+    long: "",
+    names: ["Scioto Company"]
+  },
+
 
 
 

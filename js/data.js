@@ -46819,6 +46819,27 @@ const STORIES = [
     long: "",
     names: ["North Ridgeville"]
   },
+  {
+    id: "north-webster-daniel",
+    name: "Daniel Webster",
+    lat: 41.3256,
+    lng: -85.6975,
+    radius: 600,
+    short: "North Webster was platted in 1837, in Tippecanoe Township, Kosciusko County, and named for Daniel Webster. The published record does not name the man who drew the lots. The post office has been open since 1879. The 2020 count was 998. Webster Lake is 585 acres. The Robert Orr Polygonal Barn went on the National Register in 1992. In 1998 the National Weather Service put its northern Indiana office just north of town, toward Syracuse, after it closed the South Bend and Fort Wayne offices. That office also covers southeast Michigan and northwest Ohio.",
+    long: "",
+    names: ["Daniel Webster"]
+  },
+  {
+    id: "north-webster-breeck",
+    name: "Joseph Breeck",
+    lat: 41.3256,
+    lng: -85.6975,
+    radius: 400,
+    short: "Captain Joseph Breeck built the Dixie and launched her in 1929. She is a steel-hulled sternwheeler, 76 feet long, 17 and a half feet wide, 35 tons, and she is called Indiana's oldest sternwheel paddle boat. In the early years she was a floating grocery, a blacksmith shop, and the mail boat for the cottages around Webster Lake. She went on the National Register on September 24, 2009. Breeck owned her until 1939. Jay Knapp had her until 1949, Earl Ungeright until 1959, Ernest Tag Huffman until 1980, and Walter Nellessen until 1987. In 2007 the title went to Dixie Sternwheeler Incorporated.",
+    long: "",
+    names: ["Joseph Breeck", "Dixie"]
+  },
+
 
 
 

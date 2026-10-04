@@ -45371,6 +45371,26 @@ const STORIES = [
     long: "",
     names: ["Eel River"]
   },
+  {
+    id: "dublin-shields",
+    name: "John Shields",
+    lat: 40.0992,
+    lng: -83.1141,
+    radius: 500,
+    short: "Before the sign said Dublin, this bank of the Scioto was Sells Settlement. John Sells owned the ground that is now Historic Dublin and hired John Shields to cut it into lots. Shields was a surveyor from Franklinton, across the river from the later statehouse, and a Methodist minister. He already knew the Black Horse Tavern, because that was where travelers stopped. In 1810 he surveyed 200 lots. The historical society says Sells let him name the town, and Shields named it for his birthplace, Dublin, Ireland.",
+    long: "",
+    names: ["John Sells", "John Shields"]
+  },
+  {
+    id: "dublin-springs",
+    name: "Seven springs",
+    lat: 40.1005,
+    lng: -83.1165,
+    radius: 600,
+    short: "Sells picked a ford the river could not easily flood. Limestone bluffs stand on both sides. Clay, sand, gravel, and timber were close. At least seven springs gave drinking water. Indian Run and Hayden Run drained the ground into the Scioto. The Irish name came later. The site was a river town first.",
+    long: "",
+    names: ["Indian Run", "Hayden Run"]
+  },
 
 
 

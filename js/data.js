@@ -46235,6 +46235,28 @@ const STORIES = [
     names: ["George F. Miller", "Edwin Haswell"]
   },
 
+  {
+    id: "marysville-scott",
+    name: "Orlando McLean Scott",
+    lat: 40.2364,
+    lng: -83.3671,
+    radius: 600,
+    short: "Orlando McLean Scott came home from the Union army and opened a hardware store in Marysville in 1868. He sold farmers seed that was clean of weeds. His son Dwight started selling grass seed by mail in 1907. Before 1924 you could not buy it in a shop, only through the mail. The company still keeps a storefront on this square. The square was named for a girl. The lawn business started in a hardware store.",
+    long: "",
+    names: ["Orlando McLean Scott", "Dwight Scott"]
+  },
+  {
+    id: "marysville-accord",
+    name: "The first Accord",
+    lat: 40.2364,
+    lng: -83.3671,
+    radius: 2500,
+    short: "On October 11, 1977, Honda announced a motorcycle plant here, 35 million dollars, about six miles northwest of the square. The first bike was a CR250R. In 1980 they announced the auto plant beside it, 250 million dollars. On November 1, 1982, the first Accord rolled off the line. That car later went on loan to the Henry Ford Museum. A county seat named for a daughter became the place an American Honda was built.",
+    long: "",
+    names: ["Honda"]
+  },
+
+  
 ];
 
 

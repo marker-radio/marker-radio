@@ -47370,6 +47370,27 @@ const STORIES = [
     long: "",
     names: ["Sarah Ann Hoopengarner", "Henry L. Plumb"]
   },
+{
+    id: "plymouth-polke",
+    name: "William Polke",
+    lat: 41.3436,
+    lng: -86.3097,
+    radius: 800,
+    short: "The Michigan Road was let through this county in 1832. In 1834 James Blair, John Sering, and William Polke platted Plymouth on the north bank of the Yellow River, where that road met the La Porte Road. Polke had been made the state's only road commissioner in 1831, to finish the Michigan Road. The name is Plymouth, Massachusetts, where the Mayflower landed in 1620. Marshall County was formed in 1836 and named for Chief Justice John Marshall, who had died in 1835. The town organized in 1851. The first railroad came through in 1856. Plymouth incorporated as a city in 1873.",
+    long: "",
+    names: ["William Polke", "James Blair", "John Sering"]
+  },
+  {
+    id: "plymouth-menominee",
+    name: "Chief Menominee",
+    lat: 41.3436,
+    lng: -86.3097,
+    radius: 900,
+    short: "Chief Menominee lived from 1791 to 1841. On September 4, 1838, soldiers under General John Tipton removed him and 859 Potawatomi from the Twin Lakes reservation, southwest of this square. Governor David Wallace authorized it. The march ran about 660 miles, to what is now Osawatomie, Kansas. That is the Trail of Death. The monument on Peach Road was put up in 1909, paid for by a 1907 state appropriation. It is about seven feet tall on a ten-foot granite base. It is not on the courthouse square. Other reserves in this county belonged to chiefs Neeswaugee, Quaushquo, Benack, and Aubenaubee.",
+    long: "",
+    names: ["Chief Menominee", "John Tipton", "David Wallace"]
+  },
+
 
 
 

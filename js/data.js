@@ -45951,7 +45951,28 @@ const STORIES = [
     long: "",
     names: ["Kee-waw-nee"]
   },
+  {
+    id: "knox-hathaway",
+    name: "Carter D. Hathaway",
+    lat: 41.3117,
+    lng: -86.625,
+    radius: 600,
+    short: "Carter D. Hathaway laid out Knox on June 12, 1850. The county seat was set on April 1 of that year. The first commissioners met at the house of Jacob and Rachel Tillman, on the south bank of the Yellow River, north of where the courthouse stands. The county is named for General John Stark of the Revolution. The town took a different soldier's name, and the plat man is Hathaway.",
+    long: "",
+    names: ["Carter D. Hathaway", "Jacob Tillman", "Rachel Tillman", "John Stark"]
+  },
+  {
+    id: "knox-schricker",
+    name: "Henry F. Schricker",
+    lat: 41.3117,
+    lng: -86.625,
+    radius: 500,
+    short: "Henry F. Schricker was born in North Judson and lived in Knox. He was a banker, and he was elected governor of Indiana twice. The historical society keeps his house on Main. The first railroad through town was the Nickel Plate. In 1862 the mail to San Pierre still went by star route, 163 dollars a year, because no railroad ran between the two towns yet.",
+    long: "",
+    names: ["Henry F. Schricker"]
+  },
 
+  
 ];
 
 

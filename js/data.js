@@ -45281,7 +45281,38 @@ const STORIES = [
     long: "",
     names: ["Mosquito Creek Lake"]
   },
+  {
+    id: "corunna-frothingham",
+    name: "Frothingham's plat",
+    lat: 41.4358,
+    lng: -85.1442,
+    radius: 300,
+    short: "J. B. Frothingham of New York bought this ground and platted the first 96 lots in 1859, the year after the post office opened. In 1861 he gave the town lot 68 for a school. Two more lots were added in 1877. School stayed on that ground for 105 years, except for a short stretch around 1892, when class met in the Knauer building while a new school went up. The Knauer building was a store, and later a bar.",
+    long: "",
+    names: ["J. B. Frothingham"]
+  },
+  {
+    id: "corunna-airline",
+    name: "The water trough",
+    lat: 41.4362,
+    lng: -85.1450,
+    radius: 350,
+    short: "The Air Line of the Lake Shore and Michigan Southern is what made this little town busy. Steam engines picked up water on the fly from a trough about 2,000 feet long. Trains that could not get up enough speed used a water tower instead. A. McMillen kept the first store. F. G. Fried opened a dry goods shop in 1862. Byron Imus made boots and shoes in the Union Hotel, which had a barn for the horses.",
+    long: "",
+    names: ["A. McMillen", "F. G. Fried", "Byron Imus"]
+  },
+  {
+    id: "corunna-calkins",
+    name: "Calkins brick and tile",
+    lat: 41.4288,
+    lng: -85.1442,
+    radius: 700,
+    short: "Before 1880, P. N. Calkins ran a steam brick and tile works about half a mile south of town. It also cut lumber. The bricks and the tile for the new houses and the wet fields came from that yard, not from a city.",
+    long: "",
+    names: ["P. N. Calkins"]
+  },
 
+  
 ];
 
 

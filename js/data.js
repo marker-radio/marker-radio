@@ -45931,6 +45931,26 @@ const STORIES = [
     long: "",
     names: ["Charles F. Kettering", "Edward A. Deeds"]
   },
+  {
+    id: "kewanna-names",
+    name: "Pleasant Grove",
+    lat: 41.0181,
+    lng: -86.4125,
+    radius: 500,
+    short: "This village was named Pleasant Grove in 1845. People later called it Pinhook. A post office opened in 1847. In 1871 it was renamed Kewanna. Three names on one plat, and only the last one stuck.",
+    long: "",
+    names: ["Pleasant Grove", "Pinhook", "Kewanna"]
+  },
+  {
+    id: "kewanna-chief",
+    name: "Kee-waw-nee",
+    lat: 41.0181,
+    lng: -86.4125,
+    radius: 400,
+    short: "The 1871 name is the Potawatomi chief Kee-waw-nee, also written Kee-Wau-Nay. The name meant prairie chicken. He lived in this country from about 1800 until 1837, when the Potawatomi were removed. The town took his name 34 years after he was gone.",
+    long: "",
+    names: ["Kee-waw-nee"]
+  },
 
 ];
 

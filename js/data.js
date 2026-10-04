@@ -45831,7 +45831,26 @@ const STORIES = [
     long: "",
     names: ["John H. Adgate", "Benoni Ockrum", "Jack Legg"]
   },
-
+  {
+    id: "hubbard-nehemiah",
+    name: "Nehemiah Hubbard",
+    lat: 41.1564,
+    lng: -80.5692,
+    radius: 700,
+    short: "About 1798 Nehemiah Hubbard Jr. of Middletown, Connecticut, bought this township from the Connecticut Land Company. A little less than 16,000 acres, about a dollar and a quarter an acre. He never settled it. He hired Samuel Tylee, a surveyor from the same town, to run the lines, sell the lots, and write the deeds. Tylee's name is still on land abstracts in Hubbard.",
+    long: "",
+    names: ["Nehemiah Hubbard", "Samuel Tylee"]
+  },
+  {
+    id: "hubbard-tylee",
+    name: "Samuel Tylee",
+    lat: 41.1564,
+    lng: -80.5692,
+    radius: 500,
+    short: "Samuel Tylee was born September 7, 1766, in Litchfield County, Connecticut. He was the first settler here, in 1801. His wife came through the woods in an ox wagon because Hubbard had promised her a hundred acres. They built a log cabin at a spring. His brother Sylvester came in 1802. Tylee stayed as Hubbard's agent. The town is named for the owner. The first house was the surveyor's.",
+    long: "",
+    names: ["Samuel Tylee", "Sylvester Tylee"]
+  },
   
 ];
 

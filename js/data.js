@@ -45591,6 +45591,27 @@ const STORIES = [
     long: "",
     names: ["Elijah Tyrrell", "A. J. Smith", "David Butts"]
   },
+  {
+    id: "franklin-schenck",
+    name: "William C. Schenck",
+    lat: 39.5589,
+    lng: -84.3041,
+    radius: 600,
+    short: "General William C. Schenck, a surveyor from New Jersey, and Daniel Cooper platted Franklin in 1796 on the Great Miami. It was the first town laid out north of Cincinnati in the Symmes Purchase. Schenck named it for Benjamin Franklin. He and his wife, Betsey Rogers of Huntington, Long Island, moved up from Cincinnati in 1803, the year Ohio became a state. In 1805 this was one of the first four post offices in Warren County. The postmaster was his brother, John N. C. Schenck. The village incorporated in 1814. Their son James F. Schenck became a rear admiral and, in the Mexican War, raised the first American flag to fly in California. Robert C. Schenck went to Congress, was minister to Brazil for President Fillmore in 1851, was a Union major general for Lincoln, was wounded at Second Bull Run, and in 1870 was Grant's ambassador to England.",
+    long: "",
+    names: ["William C. Schenck", "Daniel Cooper", "James F. Schenck", "Robert C. Schenck"]
+  },
+  {
+    id: "franklin-canal-paper",
+    name: "Five paper mills",
+    lat: 39.5589,
+    lng: -84.3041,
+    radius: 500,
+    short: "The Miami and Erie Canal came through in 1829 and the first shops followed: a pork house, a sawmill, a flour mill, a barrel works, and a whiskey still. The railroad reached neighboring Carlisle in 1851. By the early 1890s, paper was the business, with five mills in the village. The canal was abandoned in 1909, drained in 1929, and filled in starting in 1934, when the Chronicle announced free parking on the old bed. On December 12, 1978, that bed opened as a street. They named it Riley Boulevard, for former mayor J. T. Riley.",
+    long: "",
+    names: ["J. T. Riley"]
+  },
+
 
 
 

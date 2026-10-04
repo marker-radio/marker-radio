@@ -47675,16 +47675,14 @@ const STORIES = [
   },
   {
     id: "prospect-welcome",
-    name: "A note: you have now entered the town of where sue lives. A wife, mother, and the best sister-in-law anyone could askfor. she is noted for bieng the first user of this app and always helping me out with all my stupid ideas.  Thank you.",
+    name: "A note",
     lat: 40.4950,
     lng: -83.1905,
     radius: 350,
-    short: "Thank you for trying this. I hope the road tells you something you did not know.",
+    short: "You are on the road where Sue lives. She is a wife, a mother, and the best sister-in-law anyone could ask for. She is the first person to try this app, and she has always helped me with all my stupid ideas. Thank you.",
     long: "",
-    names: []
+    names: ["Sue"]
   },
-
-
 
 
 

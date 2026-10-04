@@ -46577,6 +46577,27 @@ const STORIES = [
     long: "",
     names: ["Chicago and Atlantic Railway"]
   },
+  {
+    id: "moonlight-hoffman",
+    name: "James Hoffman",
+    lat: 41.5844,
+    lng: -85.0311,
+    radius: 600,
+    short: "The 1955 history of Steuben County says James Hoffman, called Jim, laid out the cottage lots. L. I. Matson owned the farm that bordered the whole north side of Long Lake. About 1890 Alvin Goodwin built a cottage near the west end of that shore. The man telling the story thinks that cottage gave Hoffman the idea. Hoffman asked him if he wanted to make some money, and called him Mark. Mark said no. He thought only Lake James and Crooked Lake were cottage water. Hoffman made the deal with Matson anyway, about 1893, and paid for the lots as they sold. Few sold at first. By 1954 there were about 100 cottages on that north shore, and people called it Moonlight Bay.",
+    long: "",
+    names: ["James Hoffman", "L. I. Matson", "Alvin Goodwin"]
+  },
+  {
+    id: "moonlight-lakes",
+    name: "The string of lakes",
+    lat: 41.5844,
+    lng: -85.0311,
+    radius: 800,
+    short: "Long Lake sits just west of Pleasant Lake. The same history says it is a mile and a half long and about 40 rods wide. West of it the water keeps going: Mud, Little Bower, Big Bower, Golden, and Hogback, then small streams toward Lake Michigan. Moonlight has no post office of its own. The mail still comes through Pleasant Lake, about a mile away. The place is the cottages, not a town plat.",
+    long: "",
+    names: ["Long Lake", "Pleasant Lake"]
+  },
+
 
   
 ];

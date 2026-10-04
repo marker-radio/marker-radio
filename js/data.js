@@ -45911,7 +45911,27 @@ const STORIES = [
     long: "",
     names: ["Samuel Huntington", "Elias Murray", "John Tipton"]
   },
- 
+   {
+    id: "kettering-patterson",
+    name: "John Patterson's cabin",
+    lat: 39.6895,
+    lng: -84.1688,
+    radius: 700,
+    short: "The first cabin on this ground was John Patterson's, in 1798. He was the great-uncle of John H. Patterson, the man who later built National Cash Register in Dayton. In 1841 the farms were cut into Van Buren Township. That name lasted more than a hundred years. In November 1952 the voters incorporated a village and named it for Charles F. Kettering. A special census in 1955 counted 38,118 people. The secretary of state proclaimed it a city on June 24, 1955.",
+    long: "",
+    names: ["John Patterson", "John H. Patterson", "Charles F. Kettering"]
+  },
+  {
+    id: "kettering-starter",
+    name: "The 1912 Cadillac",
+    lat: 39.6895,
+    lng: -84.1688,
+    radius: 500,
+    short: "Charles F. Kettering and Edward A. Deeds built Dayton Engineering Laboratories, Delco. Their electric starter went on the 1912 Cadillac. Before that, you stood in front of the car and turned a crank, and the crank could break your arm. Kettering lived in this community. The suburb took the inventor's name. The factory work stayed closer to the river.",
+    long: "",
+    names: ["Charles F. Kettering", "Edward A. Deeds"]
+  },
+
 ];
 
 

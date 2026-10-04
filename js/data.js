@@ -46417,7 +46417,26 @@ const STORIES = [
     long: "",
     names: ["Pierpont Edwards"]
   },
-
+  {
+    id: "mexico-wilkinson",
+    name: "John R. Wilkinson",
+    lat: 40.8189,
+    lng: -86.1142,
+    radius: 600,
+    short: "John R. Wilkinson and Simeon Wilkinson laid Mexico out in 1834. The county calls it one of the oldest towns in Miami County. That same year the first sawmill in the county started just outside the plat. In 1836 B. L. Daniels hung a corn mill on the same works. The town sits on an old trail that ran the west bank of the Eel River. That trail was the first road in the county. Later they called it the Michigan Road.",
+    long: "",
+    names: ["John R. Wilkinson", "Simeon Wilkinson", "B. L. Daniels"]
+  },
+  {
+    id: "mexico-river-house",
+    name: "River House Inn",
+    lat: 40.8189,
+    lng: -86.1142,
+    radius: 500,
+    short: "On the Michigan Road stood the River House Inn. The county says the parents of the Indiana poet Dulciana Minerva Mason kept it, and that for a time it was the only stopping place between Indianapolis and Michigan City. The name on the sign is borrowed. The road and the inn are what the place actually was.",
+    long: "",
+    names: ["Dulciana Minerva Mason"]
+  },
 
 
   

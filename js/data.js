@@ -47257,6 +47257,28 @@ const STORIES = [
     names: ["John F. Bauer"]
   },
 
+  {
+    id: "pierceton-carnegie",
+    name: "Pierceton Carnegie Library",
+    lat: 41.1992,
+    lng: -85.7033,
+    radius: 400,
+    short: "They named the second plat for Franklin Pierce in the year he became president. He took the oath on March 4, 1853. The Carnegie building at the south end of the district is the Pierceton and Washington Township Library, put up between 1916 and 1918 in the Craftsman style, one story of brick on a raised basement. The historic district covers 5.6 acres along North First Street. It went on the National Register on September 4, 1992. The nomination names Frank Logan as the architect of record for the district.",
+    long: "",
+    names: ["Franklin Pierce", "Frank Logan"]
+  },
+  {
+    id: "pierceton-1895",
+    name: "Pierceton fire",
+    lat: 41.1992,
+    lng: -85.7033,
+    radius: 350,
+    short: "A fire in 1895 burned the west side of North First Street, south of Market Street. That is why that side of the block is newer than the depot. At 106, the Liefer Building went up in 1909. It was a bakery and a marble works, and the name and the year are still on the cornice. The street grid runs north and south except for East Market Street, which breaks the pattern. The depot sits at the north end, on East Market, parallel to the old Pennsylvania tracks.",
+    long: "",
+    names: ["Liefer Building"]
+  },
+
+
 
 
 

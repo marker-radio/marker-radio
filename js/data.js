@@ -47115,6 +47115,26 @@ const STORIES = [
     names: ["Arthur H. Day"]
   },
 
+  {
+    id: "parma-tappan",
+    name: "Abraham Tappan",
+    lat: 41.4048,
+    lng: -81.7229,
+    radius: 900,
+    short: "Abraham Tappan of the Connecticut Land Company surveyed this tract in 1806. It was Township 6, Range 13. Benajah Fay, his wife Ruth, and their children came from New York State in 1816 and settled on the Cleveland and Columbus road, now Pearl Road. The township was created in 1826. People called the brush Greenbriar, also spelled Greenbrier. The name Parma most likely came from a town of the same name in New York, not from Italy. Through the 1800s the work was farming. The only factory the encyclopedia names is a clock shop run by Dudley Humphrey and William Humphrey. Parma incorporated as a village on December 15, 1924. It took a mayor and council in 1926. Cleveland tried to annex it. The vote failed, and on January 1, 1931, Parma became a city. About 14,000 people lived here then. Modern Tool and Die opened on West 130th Street in 1932.",
+    long: "",
+    names: ["Abraham Tappan", "Benajah Fay", "Ruth Fay"]
+  },
+  {
+    id: "parma-crile",
+    name: "George W. Crile",
+    lat: 41.4048,
+    lng: -81.7229,
+    radius: 700,
+    short: "The Army built Crile General Hospital on York Road in June 1943, for soldiers and veterans. It was named for Colonel George W. Crile, Sr., who had been clinical director of the Lakeside Unit in the First World War, United States Army Base Hospital Number 4, at Rouen, France. The grounds held 83 buildings on 152 acres. Parma fought a plan to turn it into a veterans' psychiatric hospital. It closed in 1964, when the Veterans Administration hospital at Wade Park opened. The next year the site went to Cuyahoga Community College. In 1956 a Nike missile battery was built on the same grounds.",
+    long: "",
+    names: ["George W. Crile"]
+  },
 
 
 

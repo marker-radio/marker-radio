@@ -47094,6 +47094,26 @@ const STORIES = [
     names: ["Robert Hamilton Bishop", "William Holmes McGuffey"]
   },
 
+  {
+    id: "pandora-locher",
+    name: "Cyrus Locher",
+    lat: 40.9475,
+    lng: -83.9567,
+    radius: 500,
+    short: "Cyrus Locher was born on a Putnam County farm on March 8, 1878. He finished high school in Pandora and graduated from Ohio Wesleyan in 1903. He gave the commencement oration. Governor A. Victor Donahey appointed him to the United States Senate on April 4, 1928, to fill the seat of Frank B. Willis, who had died. Locher was a Democrat. He served until December 14, 1928, and lost the nomination for the rest of the term. He died in Cleveland on August 17, 1929, and is buried in Ebenezer Cemetery at Bluffton. His nephew, Ralph S. Locher, was mayor of Cleveland from 1962 to 1967 and later sat on the Ohio Supreme Court. Benjamin Franklin Welty was born near Bluffton and Pandora on August 9, 1870. His parents had come from Switzerland. He served Ohio's 4th District in the House from March 4, 1917, to March 3, 1921. He died in Dayton on October 23, 1962.",
+    long: "",
+    names: ["Cyrus Locher", "Benjamin F. Welty"]
+  },
+  {
+    id: "pandora-day",
+    name: "Arthur H. Day",
+    lat: 40.9475,
+    lng: -83.9567,
+    radius: 400,
+    short: "Arthur H. Day was born in Pandora on February 1, 1890, to Dr. Hiram M. Day and Jessie Myers Ayres Day. He sat in the Ohio Senate in 1921 and 1922, and again in 1925. On November 6, 1934, he was elected to the Ohio Supreme Court. He was the 101st justice. His term ran from January 1, 1935, to December 31, 1940. Gilbert Bettman beat him on November 5, 1940. Day died in Cleveland on January 11, 1967, and is buried at Holy Cross Cemetery there.",
+    long: "",
+    names: ["Arthur H. Day"]
+  },
 
 
 

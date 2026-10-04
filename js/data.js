@@ -47196,6 +47196,27 @@ const STORIES = [
     names: ["Frances Slocum", "Cole Porter", "Shepoconah"]
   },
 
+  {
+    id: "pettisville-dyer",
+    name: "John Dyer",
+    lat: 41.5322,
+    lng: -84.2231,
+    radius: 450,
+    short: "The Fulton County history gives the founding to John Dyer. He laid out a town here and built the first house, on the west side of Main Street, on the south side of the railroad. Hope and Radcliffe then bought ground on the south and east sides of Main and laid out the town in 1857. Brown's Gazetteer of 1868 says the name comes from a Mr. Pettis. It does not give his first name. He was a subcontractor grading the roadbed under Benjamin Folsom, the man who built the railroad. Pettis put up shanties for his crew while they graded. The post office opened the same year as the plat.",
+    long: "",
+    names: ["John Dyer", "Benjamin Folsom"]
+  },
+  {
+    id: "pettisville-woolen",
+    name: "Pettisville Woolen Mills",
+    lat: 41.5322,
+    lng: -84.2231,
+    radius: 350,
+    short: "By 1868 the gazetteer counted about 500 people here, one school, and three churches: Methodist, Disciples, and Lutheran. They were talking that summer about putting up a church building. The main shop was the Pettisville Woolen Mills, owned by James McFellen. He made satinet, flannel, jeans, cassimere, and other wool cloth. The town sits in two townships, Clinton on the east and German on the west, which is one reason it stayed a crossroads between Archbold and Wauseon instead of growing into either of them.",
+    long: "",
+    names: ["James McFellen"]
+  },
+
 
 
 ];

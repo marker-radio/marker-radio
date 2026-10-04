@@ -47053,8 +47053,26 @@ const STORIES = [
     names: ["C. T. Pomeroy"]
   },
 
-
-
+  {
+    id: "ottoville-bredeick",
+    name: "John Otto Bredeick",
+    lat: 40.9342,
+    lng: -84.3383,
+    radius: 600,
+    short: "The village history says John Otto Bredeick was born on January 23, 1789, in Verl, near Osnabruck, in Westphalia, then in Prussia. His grave record says January 22. The marker in town spells the name Brediech. The village page spells it Bredeich. His brother Ferdinand left for America in 1834 with Father Horstman, who founded Glandorf. A brother-in-law, Theodore Wrocklage, led the first group of about forty-two people in late 1843. Bredeick led the second group and entered the land at Section Ten and Section Sixteen in October 1844. Section Ten was chartered in 1851 as Delphos, a name he suggested. Section Sixteen became Ottoville. He founded St. John the Divine at Delphos and St. Mary's here. His money built the mills at both places, and his bequests paid for the church buildings. He died on August 19, 1858, and is buried in the priest section of St. John's Cemetery in Delphos. The town that carries his name was not incorporated until 1890.",
+    long: "",
+    names: ["John Otto Bredeick", "Theodore Wrocklage"]
+  },
+  {
+    id: "ottoville-lockhouse",
+    name: "Lock 28",
+    lat: 40.9342,
+    lng: -84.3383,
+    radius: 400,
+    short: "Locks 27 and 28 were wood, like most locks on this stretch of the Miami and Erie. The canal commission built a lock tender's house at Lock 28, just north of where Odenweller's Mill later stood. Lock 30, farther north near the Putnam and Paulding county line, was stone. The first boat on the extension ran in June 1845. The village grew in the gap between those two wood locks, on land the surveyors had numbered Sixteen.",
+    long: "",
+    names: ["Miami and Erie Canal"]
+  },
 
 
 

@@ -45471,8 +45471,26 @@ const STORIES = [
     long: "",
     names: ["Edwin C. Sinks"]
   },
-
-
+  {
+    id: "fairborn-two-plats",
+    name: "Fairfield and Osborn",
+    lat: 39.8209,
+    lng: -84.0194,
+    radius: 700,
+    short: "Fairfield is the older village. The first log house went up in 1799, and in 1816 Joseph Tatman laid the town out with two brothers, William and Samuel, on the stage road between Dayton and Springfield. County history spells those brothers Casad. A Dayton paper spells them Cozad. Osborn came later, on the railroad that missed Fairfield by a mile. John Cox and Samuel Stafford laid it out in 1850 and named it for the railroad superintendent. The plat was recorded May 20, 1851. Osborn incorporated in 1867.",
+    long: "",
+    names: ["Joseph Tatman", "John Cox", "Samuel Stafford"]
+  },
+  {
+    id: "fairborn-move",
+    name: "Houses on rollers",
+    lat: 39.8170,
+    lng: -84.0200,
+    radius: 800,
+    short: "The 1913 flood did not drown Osborn. The Huffman Dam, built on the Mad River afterward, would have. Mary Parker Poole wrote that another flood like 1913 would have put the tallest church steeple nine feet under water. In 1920 people put houses on rollers and moved them with mules and tractors up to Fairfield, onto the ground along Broad, First, Second, and Third. The two villages kept two governments until a charter was signed January 1, 1950, in the old theater on Broad Street. Governor Frank Lausche came. The state certified Fairborn on August 1, 1950.",
+    long: "",
+    names: ["Mary Parker Poole", "Frank Lausche"]
+  },
 
   
 ];

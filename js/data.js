@@ -46437,7 +46437,26 @@ const STORIES = [
     long: "",
     names: ["Dulciana Minerva Mason"]
   },
-
+ {
+    id: "miamisburg-hole",
+    name: "Zachariah Hole",
+    lat: 39.6428,
+    lng: -84.2866,
+    radius: 700,
+    short: "Around 1797 Zachariah Hole came from Virginia and built Hole's Station, a stockade on the Great Miami. On February 20, 1818, four men from Pennsylvania put ninety lots up at auction. They were Dr. John Treon, Dr. Peter Treon, Jacob Kercher, and Emanuel Gebhart. The lots sat on the left bank, each a fifth of an acre, on the state road from Dayton to Cincinnati. The sale notice spelled the town Miamiesburg and still called the place Hole's Station. It was six miles from Franklin and eleven from Dayton. A second sale followed on May 22. The post office opened in June 1822, with Adam Shuey as postmaster. By 1832 it was a village.",
+    long: "",
+    names: ["Zachariah Hole", "John Treon", "Peter Treon", "Jacob Kercher", "Emanuel Gebhart", "Adam Shuey"]
+  },
+  {
+    id: "miamisburg-mound-adena",
+    name: "The Adena mound",
+    lat: 39.6428,
+    lng: -84.2866,
+    radius: 500,
+    short: "The mound in the city park is an Adena burial. The city calls it one of the largest conical burial mounds east of the Mississippi, and it is still intact. It stands at 900 Mound Avenue. The street is 1818. The earthwork was already old when Hole built the stockade.",
+    long: "",
+    names: ["Adena"]
+  },
 
   
 ];

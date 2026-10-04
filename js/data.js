@@ -46214,7 +46214,27 @@ const STORIES = [
     long: "",
     names: ["Joseph Uhlik", "Joseph Hodous", "Martin Potisek", "John Rybak"]
   },
-  
+    {
+    id: "markle-murray",
+    name: "Elias Murray",
+    lat: 40.8248,
+    lng: -85.3378,
+    radius: 600,
+    short: "A man named Tracy opened a store here about 1833 and tried to name the lots for himself. He went back to New York for his family and died before he could return. Elias Murray, holding power of attorney for Levi Beardsley and his wife Elizabeth, of Cherry Valley, New York, laid the town out. The plat was filed on June 25, 1836, still under the name Tracy. Ninety-two lots, five by ten perches. The north-and-south streets were Wabash, Wilt, Morse, Sparks, and Curry. The streets running back from the river were Sayler, Draper, Miller, Clark, and Lee.",
+    long: "",
+    names: ["Elias Murray", "Levi Beardsley", "Elizabeth Beardsley"]
+  },
+  {
+    id: "markle-rename",
+    name: "Tracy to Markle",
+    lat: 40.8248,
+    lng: -85.3378,
+    radius: 500,
+    short: "Three lawyers from Fort Wayne bought forty acres of woods around Tracy and platted it again. They did not like the name Tracy. They called it Markle, after one of their wives' families. The town history does not give her first name. The post office opened as Tracy in 1849. George F. Miller was the first postmaster. It was renamed Markle in 1852. Edwin Haswell was the first merchant. The river was already here. The name was an argument.",
+    long: "",
+    names: ["George F. Miller", "Edwin Haswell"]
+  },
+
 ];
 
 

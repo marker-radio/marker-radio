@@ -46011,7 +46011,26 @@ const STORIES = [
     long: "",
     names: ["Lakeville"]
   },
-
+  {
+    id: "lakewood-nicholson",
+    name: "James Nicholson",
+    lat: 41.482,
+    lng: -81.798,
+    radius: 700,
+    short: "James Nicholson, Jared Kirtland, and Mars Wagar are the first settlers the Cleveland encyclopedia names here. The streets still carry them. They farmed along Detroit Road, the old Huron Post Road from Buffalo to Detroit. In 1819 eighteen families named the township Rockport. By 1871 the east end had its own school district, East Rockport. The lake suburb is the later name.",
+    long: "",
+    names: ["James Nicholson", "Jared Kirtland", "Mars Wagar"]
+  },
+  {
+    id: "lakewood-hamlet",
+    name: "The 1889 hamlet",
+    lat: 41.482,
+    lng: -81.798,
+    radius: 600,
+    short: "Voters wanted a hamlet called Lakewood in 1885. A fight with the Rockport Plank Road Company over who owned Detroit Avenue held it up until 1889. That company had planked the road in 1848 and kept the toll until 1901. Lakewood became a village in 1903, the year the streetcar arrived. It became a city in 1911.",
+    long: "",
+    names: ["Lakewood"]
+  },
   
 ];
 

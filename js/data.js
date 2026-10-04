@@ -46799,6 +46799,28 @@ const STORIES = [
     long: "",
     names: ["North Liberty Historic District", "North Liberty Park"]
   },
+  {
+    id: "nr-terrell",
+    name: "Electa Terrell",
+    lat: 41.3895,
+    lng: -82.019,
+    radius: 800,
+    short: "In May 1810, fourteen men from Waterbury, Connecticut, most of them from the Terrell and Beebe families, settled the wilderness that became Ridgeville Township, in Lorain County. Electa Terrell, the first pioneer wife, arrived that summer. The township was organized in 1813. The first school opened in 1814 and the first post office in 1815. The Presbyterian church, the first in the township, opened in 1822. The Methodists came in 1825. In 1829 the post office was renamed North Ridgeville so the mail would not go to the Ridgeville near Dayton. Stagecoaches were already running in the 1820s. The first railroad was finished in 1853.",
+    long: "",
+    names: ["Electa Terrell", "Terrell", "Beebe"]
+  },
+  {
+    id: "nr-1960",
+    name: "A city in August",
+    lat: 41.3895,
+    lng: -82.019,
+    radius: 600,
+    short: "The first permanent town hall went up in 1850. A larger one replaced it in 1883. That older hall is the historical society now. In 1895 the Cleveland and Southwestern trolley ran from Ridgeville into Cleveland. The volunteer fire department started in 1931. Ridgeville Township became a village in 1958. By August 1960 the count was over 5,000, and the village became the city of North Ridgeville. City offices moved to Avon-Belden Road in 1975. The early shops were a grist mill, a sawmill, a cheese factory, quarries, and a chair factory. The ground was forest and swamp. The low lots still flood. Center Ridge was the dry road.",
+    long: "",
+    names: ["North Ridgeville"]
+  },
+
+
 
 
 ];

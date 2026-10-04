@@ -47155,6 +47155,27 @@ const STORIES = [
     long: "",
     names: ["R. W. Reinhart"]
   },
+ {
+    id: "pepper-pike-orange",
+    name: "Orange Township",
+    lat: 41.4803,
+    lng: -81.4637,
+    radius: 800,
+    short: "Pepper Pike was the north end of Orange Township. The first settlers came into that township in 1815. It was organized in 1820, and it then also held what is now Orange, Moreland Hills, Hunting Valley, and Woodmere. The work was farming. By the late 1880s the main trade was cheese. The Chagrin Falls and Cleveland interurban reached this ground in 1897 and quit in 1924. That same year, as the Van Sweringens and others were cutting lots, the north end voted to leave the township. Pepper Pike incorporated as a village on October 1, 1924, and as a city in 1970. It covers about seven square miles, thirteen miles east of Cleveland. The encyclopedia says nobody has proved where the name came from. The only story on record is that an early settler may have been named Pepper. The pike is the road.",
+    long: "",
+    names: ["Orange Township"]
+  },
+  {
+    id: "pepper-pike-ursuline",
+    name: "Ursuline College",
+    lat: 41.4803,
+    lng: -81.4637,
+    radius: 500,
+    short: "Ursuline College is a Catholic college for women at 2550 Lander Road. Mother Mary of the Annunciation Beaumont got a charter to give college degrees on November 17, 1871. A separate college started classes in 1922 at 50 Euclid Avenue in Cleveland and graduated its first class in 1925. In 1927 it moved to two houses at 2234 Overlook Road. In 1952 the sisters announced a move to 112 acres here. The first building on this campus opened in 1959. In 1975 the nursing program of St. John College came here. It is a college that spent most of a century in the city and then moved out to the old cheese township.",
+    long: "",
+    names: ["Mary of the Annunciation Beaumont"]
+  },
+
 
 
 

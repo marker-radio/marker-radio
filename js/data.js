@@ -51516,6 +51516,641 @@ const STORIES = [
     long: "",
     names: ["Edinburg", "Apple Creek"]
   },
+  {
+    id: "approach-aquilla",
+    name: "Aquilla",
+    lat: 41.5600,
+    lng: -81.1800,
+    radius: 3000,
+    layer: "approach",
+    short: "You are coming up on Aquilla, just south of U.S. 322 in Claridon Township, Geauga County. It was a Cleveland summer-cottage village on a pond once called Goose Lake. It incorporated in 1946. In November 2024 the voters dissolved the village and went back to the township. The signs still say Aquilla. If you turn off 322, I'll start at the lake.",
+    long: "",
+    names: ["Aquilla"]
+  },
+  {
+    id: "aquilla-cowles",
+    name: "Aquilla Road",
+    lat: 41.5550,
+    lng: -81.1800,
+    radius: 500,
+    short: "The cottages are new. The road is not. Asa Cowles bought a thousand acres in this township in 1795. The family arrived in August 1811, from Connecticut, and built a double log cabin on Aquilla Road a short way south of Route 322. Horace Taylor, Nathaniel Spencer, Allyn Humphrey, and Benjamin Andrews came the same season. Thirty-nine people wintered here in 1811. The township was first called Burlington. In 1819 it became Claridon, because Ohio already had a Burlington.",
+    long: "",
+    names: ["Asa Cowles", "Claridon"]
+  },
+  {
+    id: "aquilla-lake",
+    name: "Goose Lake",
+    lat: 41.5478,
+    lng: -81.1674,
+    radius: 400,
+    short: "The water was Goose Lake, and Claridon Pond, before the sellers named it Aquilla. In 1923 lots were offered at the county fair, buy one and get one free. Cottage owners formed Aquilla Lake Community, Incorporated, on September 20, 1923. The advertisement called it the place where nature smiles and the summer lingers, in the Berkshires of Ohio. There was a dance hall. There were clambakes, corn roasts, and swimming.",
+    long: "",
+    names: ["Goose Lake", "Aquilla Lake"]
+  },
+  {
+    id: "aquilla-village",
+    name: "The Vote",
+    lat: 41.5468,
+    lng: -81.1780,
+    radius: 300,
+    short: "After 1929, some Cleveland families who had lost their houses winterized the cottages and stayed. In 1933 Lake Aquilla Estates was formed to sell what lots were left. The village incorporated in 1946. In 2022 it separated itself fully from the township. Two years later the money did not work. A majority voted in November 2024 to dissolve. The cottages are still there. The mayor is not.",
+    long: "",
+    names: ["Aquilla"]
+  },
+  {
+    id: "aquilla-painters",
+    name: "The Painters",
+    lat: 41.5485,
+    lng: -81.1720,
+    radius: 300,
+    short: "Cleveland painters used the lake. Henry George Keller came. So did Hans Busch. The village history also remembers J. K. Turner, a labor mediator who lived here and published a magazine on pensions, shop disputes, and women's economic freedom. The summer people were not only fishermen.",
+    long: "",
+    names: ["Henry George Keller", "J. K. Turner"]
+  },
+  {
+    id: "aquilla-wildlife",
+    name: "The North Shore",
+    lat: 41.5510,
+    lng: -81.1680,
+    radius: 400,
+    short: "The public land is the state wildlife area on the north side of the lake. Hunting, fishing, and boats without motors. The village kept a few community lots, a ball field, and a picnic shelter. The wild shore is the state's.",
+    long: "",
+    names: ["Aquilla Lake"]
+  },
+  {
+    id: "aquilla-rail",
+    name: "Ford's Crossing",
+    lat: 41.5550,
+    lng: -81.1600,
+    radius: 700,
+    short: "The cottages did not grow up on a depot. The railroad of this township is the old line through Claridon, later the Baltimore and Ohio. On September 4, 1925, a car carrying sixty tons of coal left the rails near Ford's crossing. That was the same year the cottage boom was young. The accident was on the farm line, not on the dance-hall shore.",
+    long: "",
+    names: ["Baltimore and Ohio Railroad"]
+  },
+  {
+    id: "aquilla-native",
+    name: "The Pond",
+    lat: 41.5490,
+    lng: -81.1700,
+    radius: 500,
+    short: "Before Cowles, this pond was a hunting and fishing water in Erie country, and later in Seneca and Delaware country. Geauga is said to be a Seneca word for raccoon. No battle is recorded on Goose Lake. The treaty that opened the Reserve was Greeneville, in 1795, the year Cowles bought the acres.",
+    long: "",
+    names: ["Geauga"]
+  },
+  {
+    id: "aquilla-legend",
+    name: "Berkshires of Ohio",
+    lat: 41.5470,
+    lng: -81.1750,
+    radius: 250,
+    short: "The slogan was the Berkshires of Ohio. The hills are real. The name was a sales pitch, two lots for the price of one at the fair. A century later the village voted itself out of existence and asked to be called Aquilla anyway. That is the whole story of the place. A pond, a fair, a dance hall, and a vote.",
+    long: "",
+    names: ["Aquilla"]
+  },
+
+  {
+    id: "approach-arcadia",
+    name: "Arcadia",
+    lat: 41.1084,
+    lng: -83.5600,
+    radius: 3500,
+    layer: "approach",
+    short: "You are coming up on Arcadia, in eastern Hancock County, a few miles from Fostoria. Ambrose, David, and Ephraim Peters settled it in 1833 on the south edge of a woods called Wild Cat Thicket. They platted 135 lots in 1855. The village incorporated in 1859. Two railroads came in after that. If you stay on the east-west road, I'll start at the thicket.",
+    long: "",
+    names: ["Arcadia"]
+  },
+  {
+    id: "arcadia-thicket",
+    name: "Wild Cat Thicket",
+    lat: 41.1081,
+    lng: -83.5147,
+    radius: 350,
+    short: "The marker says this was one of the last permanent villages in eastern Hancock County. The Peters family found Wyandot people still living here, and the plaque calls them friendly and helpful. A log school went up in 1833, the same year as the settlement. A Methodist Episcopal society was already meeting in the 1830s. The Lutheran church was built in 1872. The name is the pastoral one, Arcadia, most likely for the old Greek country of shepherds. The thicket was the real landscape.",
+    long: "",
+    names: ["Ambrose Peters", "David Peters", "Ephraim Peters"]
+  },
+  {
+    id: "arcadia-rail",
+    name: "Two Railroads",
+    lat: 41.1075,
+    lng: -83.5135,
+    radius: 350,
+    short: "After incorporation, the Lake Erie and Western came in, and so did the New York, Chicago and St. Louis, the Nickel Plate. The county's railroad marker dates the Lake Erie and Western to 1860 and the Nickel Plate to 1881. The farms had a way out. By the 1880s the town had two hotels, a drugstore, a broom factory, and a handle factory. The handles and the brooms were the thicket, cut and shipped.",
+    long: "",
+    names: ["Lake Erie and Western Railroad", "Nickel Plate Road"]
+  },
+  {
+    id: "arcadia-gas",
+    name: "Coal Gas",
+    lat: 41.1088,
+    lng: -83.5140,
+    radius: 300,
+    short: "Findlay, to the west, was in the natural-gas boom. Arcadia lit itself with a coal-gas plant in 1889, for heat and light. An electric plant followed in 1916. In 1863 the village had four doctors. It was a small town with the services of a larger one, because the trains stopped.",
+    long: "",
+    names: ["Arcadia"]
+  },
+  {
+    id: "arcadia-park",
+    name: "Lions Park",
+    lat: 41.1084,
+    lng: -83.5165,
+    radius: 250,
+    short: "The Ohio historical marker stands in the Arcadia Lions Community Park, at Washington Road and Brown Road, by the community building. Reeves Park was the older public ground, on the east edge of town in the early 1900s. The Lions park is the one that still holds the plaque.",
+    long: "",
+    names: ["Reeves Park"]
+  },
+  {
+    id: "arcadia-fire",
+    name: "July 21, 1903",
+    lat: 41.1081,
+    lng: -83.5140,
+    radius: 300,
+    short: "On July 21, 1903, a fire damaged the village. The record I will stand on says that, and no more. I will not invent which block burned. The population had already slipped, from 490 in 1890 to 425 in 1900. The fire did not end the town. The 2020 census counted 564.",
+    long: "",
+    names: ["Arcadia"]
+  },
+  {
+    id: "arcadia-native",
+    name: "Wyandot",
+    lat: 41.1120,
+    lng: -83.5100,
+    radius: 600,
+    short: "The Wyandot were still in this thicket in 1833. Their larger towns were south, toward Upper Sandusky, and removal was already the policy. The marker's sentence is that the Peters family found them friendly and helpful. There is no battle recorded on this south edge of the woods. The help, and then the absence, is the story.",
+    long: "",
+    names: ["Wyandot"]
+  },
+  {
+    id: "arcadia-legend",
+    name: "The Thicket",
+    lat: 41.1095,
+    lng: -83.5120,
+    radius: 400,
+    short: "People named it for a Greek pasture and then cut the thicket into broom handles. Wild Cat Thicket is the name that tells you what was here. Arcadia is the name that tells you what they wanted. The wild cats are the legend. The handle factory is the record.",
+    long: "",
+    names: ["Wild Cat Thicket"]
+  },
+
+  {
+    id: "approach-arcanum",
+    name: "Arcanum",
+    lat: 40.0200,
+    lng: -84.5547,
+    radius: 4000,
+    layer: "approach",
+    short: "You are coming up on Arcanum, on State Route 49 in Twin Township, Darke County. William and Nancy Gunder's land. Two railroad surveyors laid out a town here in 1848 and named it with a Latin word for secret. The plat used in town is 1849. The village incorporated in 1858. If you stay on 49, I'll start at the name.",
+    long: "",
+    names: ["Arcanum"]
+  },
+  {
+    id: "arcanum-gunder",
+    name: "The Secret Town",
+    lat: 39.9933,
+    lng: -84.5547,
+    radius: 350,
+    short: "William Gunder came into Darke County looking for a homestead. He and Nancy Rice Gunder built a three-room log house in 1833, on the southeast corner of the southwest quarter of section 4. He had asked, as early as 1835, to plat a town on his land. In November 1848 two surveyors for the Greenville and Miami Railroad, remembered as Pomeroy and Comly, were running levels through the farm. They stayed the night. He asked them to stay one more day and lay out the lots. He wanted a name that was not already on any map. In the fog they chose Arcanum, a word for something secret and hidden. They said he rode to Greenville the next day to record it. The courthouse copy was not found later. The town uses 1849.",
+    long: "",
+    names: ["William Gunder", "Nancy Rice Gunder"]
+  },
+  {
+    id: "arcanum-swamp",
+    name: "Millers Fork",
+    lat: 39.9900,
+    lng: -84.5450,
+    radius: 700,
+    short: "The other explanation of the name is the ground. The walking tour says it was an impenetrable swamp and a heavy woods. Gunder's first cabin was on Millers Fork, in section 8. The secret and the swamp are the same story. You could not see through it. A town in that thicket needed a word that meant hidden.",
+    long: "",
+    names: ["Millers Fork"]
+  },
+  {
+    id: "arcanum-rail",
+    name: "Dayton and Union",
+    lat: 39.9912,
+    lng: -84.5555,
+    radius: 300,
+    short: "The Greenville and Miami Railroad arrived in 1852 and tied the town to Dayton. A post office opened the same year. The depot that stood at 113 West George Street served the Dayton and Union from 1877 to 1918, then the Big Four. The line ran Dayton, Verona, Gordon, Arcanum, Greenville, and Union City. Some passenger service ended in 1949. Freight trains used the route until 1986. In the 1850s the town had flour mills, sawmills, carriage shops, blacksmiths, hotels, and brick kilns.",
+    long: "",
+    names: ["Greenville and Miami Railroad", "Dayton and Union Railroad"]
+  },
+  {
+    id: "arcanum-opera",
+    name: "Opera House",
+    lat: 39.9925,
+    lng: -84.5540,
+    radius: 250,
+    short: "The city hall and township building went up between 1889 and 1891. Mayor, jail, and firehouse were on the first floor. The opera house was on the second. Graduations and the Farmers Institute met there until the school on North Main opened in 1924. The last full musical show was December 7, 1927. Otto Gray and the Oklahoma Cowboys played. One of their songs was Midnight Special. The room later became an American Legion hall, with a dropped ceiling and a cut-down stage. The ceiling came back out in the restoration. On September 20, 2025, musicians stood on the full stage again, the first time since 1927.",
+    long: "",
+    names: ["Arcanum Opera House", "Otto Gray"]
+  },
+  {
+    id: "arcanum-popcorn",
+    name: "The Triangle Lot",
+    lat: 39.9920,
+    lng: -84.5558,
+    radius: 250,
+    short: "The triangle lot at South and High held a tobacco warehouse from 1897 to 1942. After that it was Blevins Popcorn. Darke County grew tobacco, then it grew the corn that pops. The warehouse is the industry the railroad was for.",
+    long: "",
+    names: ["Blevins Popcorn"]
+  },
+  {
+    id: "arcanum-park",
+    name: "Ivester Park",
+    lat: 39.9987,
+    lng: -84.5616,
+    radius: 350,
+    short: "Ivester Park is the village park, on the northwest side. The older public room was not a park. It was the opera house over the jail. The historical society keeps the research library in a house the Wayne Trail Grange once owned.",
+    long: "",
+    names: ["Ivester Park"]
+  },
+  {
+    id: "arcanum-tornado",
+    name: "1992",
+    lat: 39.9930,
+    lng: -84.5565,
+    radius: 400,
+    short: "A tornado in 1992 tore the west side off one of the old downtown buildings. The town kept what was left and bricked the broken wall into an outside wall. The opera house had already been closed for decades. The tornado is why one block still shows a seam.",
+    long: "",
+    names: ["Arcanum"]
+  },
+  {
+    id: "arcanum-native",
+    name: "Twin Township",
+    lat: 39.9880,
+    lng: -84.5600,
+    radius: 800,
+    short: "Before the swamp was ditched, this was Miami country between Twin Creek and the Stillwater. Gunder and Nancy lived for a time at Fort Jefferson, the old Wayne post, before the plat. The treaty ground at Greenville is north of here. No battle is recorded on the lots. The hidden thing was the thicket, not a fight.",
+    long: "",
+    names: ["Miami", "Fort Jefferson"]
+  },
+  {
+    id: "arcanum-legend",
+    name: "Not on Any Map",
+    lat: 39.9938,
+    lng: -84.5542,
+    radius: 250,
+    short: "The order was simple. Pick a name that is not on the map of the globe. On a dark November night the surveyors picked a word that means secret. The courthouse filing went missing. The town kept the word anyway. Arcanum is the secret that got written down the second time.",
+    long: "",
+    names: ["Arcanum"]
+  },
+
+  {
+    id: "approach-arlington",
+    name: "Arlington",
+    lat: 40.9100,
+    lng: -83.6477,
+    radius: 4000,
+    layer: "approach",
+    short: "You are coming up on Arlington, on U.S. 68 in southern Hancock County. Not Upper Arlington. This one was Hurdtown. A cabin went up in 1834. Sixteen lots were surveyed in November 1844, and the name became Arlington. It incorporated in 1892. If you stay on 68, I'll start at the park.",
+    long: "",
+    names: ["Arlington"]
+  },
+  {
+    id: "arlington-hurd",
+    name: "Hurdtown",
+    lat: 40.8955,
+    lng: -83.6477,
+    radius: 300,
+    short: "The marker stands in the village park on Park Street, at the east edge of town. Robert Hurd owned the land. His sons built a log cabin near this spot in 1834, the first recorded settlers. People called the place Hurdtown. In November 1844 the survey gave it sixteen lots and the name Arlington. The farmland and the water brought the rest.",
+    long: "",
+    names: ["Robert Hurd"]
+  },
+  {
+    id: "arlington-hull",
+    name: "Buck Run",
+    lat: 40.8980,
+    lng: -83.6500,
+    radius: 500,
+    short: "In the War of 1812, General William Hull opened a trail through here on his way to the Blanchard River. He crossed Buck Run at Eagle Creek, then went on to build Fort Findlay. The army was not founding a town. The cabin came twenty-two years later. The trail is why the marker starts with a war.",
+    long: "",
+    names: ["William Hull", "Eagle Creek"]
+  },
+  {
+    id: "arlington-cholera",
+    name: "Forty Deaths",
+    lat: 40.8945,
+    lng: -83.6485,
+    radius: 300,
+    short: "In 1854 Asiatic cholera killed forty people here. The plat was sixteen lots. Forty deaths in a town that small is not a footnote. The marker lists it between the survey and the Civil War, and then moves on. The town did not.",
+    long: "",
+    names: ["Arlington"]
+  },
+  {
+    id: "arlington-rail",
+    name: "The Crossroads",
+    lat: 40.8935,
+    lng: -83.6460,
+    radius: 350,
+    short: "The marker calls Arlington a railroad crossroads after it was a farm town. It does not name the companies on the plaque. I will not guess them. What the town does record is the life that followed. Men left for the Civil War in 1861. Jim Huff was mayor when it incorporated in 1892. The Arlington Gazette started in 1897. The first telephone was 1900. The first high school class graduated in 1905.",
+    long: "",
+    names: ["Jim Huff"]
+  },
+  {
+    id: "arlington-hoy",
+    name: "William Hoy",
+    lat: 40.9354,
+    lng: -83.5946,
+    radius: 800,
+    short: "A few miles northeast, at Houcktown, a marker stands for William Ellsworth Hoy, born there on May 23, 1862. The mail still says Arlington. Spinal meningitis in childhood left him deaf. Newspapers called him Dummy, which was the cruelty of the time, not a title. He played center field for the Washington Senators, the Cincinnati Reds, and others. In 1888 he led the league with 82 stolen bases. His career totals were 2,054 hits and 597 stolen bases. Umpires and players used hand signs so he could follow the game. People still argue whether those signs began with him. He died in Cincinnati at 99.",
+    long: "",
+    names: ["William Ellsworth Hoy"]
+  },
+  {
+    id: "arlington-park",
+    name: "Village Park",
+    lat: 40.8955,
+    lng: -83.6465,
+    radius: 250,
+    short: "The public ground is the village park on the east edge, and the marker is in the median of Park Street. The sesquicentennial was 1984, a hundred and fifty years after the cabin. The plaque went up that year.",
+    long: "",
+    names: ["Arlington"]
+  },
+  {
+    id: "arlington-native",
+    name: "The Blanchard",
+    lat: 40.9000,
+    lng: -83.6400,
+    radius: 700,
+    short: "Hull was marching through Wyandot country to put a fort on the Blanchard. The people of this water were Wyandot, and before them the older towns of the Sandusky and the Blanchard. Hurdtown has no battle of its own. The war here is a crossing of Buck Run, and then a cabin on land the army had already walked.",
+    long: "",
+    names: ["Wyandot", "Blanchard River"]
+  },
+  {
+    id: "arlington-legend",
+    name: "Sixteen Lots",
+    lat: 40.8948,
+    lng: -83.6480,
+    radius: 250,
+    short: "Sixteen lots, and then forty graves from one epidemic. That is the proportion people in Arlington still have to explain. The name on the sign is a Virginia county and a national cemetery. The name that fits is Hurdtown, a cabin, a creek crossing, and a year the town almost ended.",
+    long: "",
+    names: ["Hurdtown"]
+  },
+
+  {
+    id: "approach-ashville",
+    name: "Ashville",
+    lat: 39.7150,
+    lng: -82.9900,
+    radius: 3500,
+    layer: "approach",
+    short: "You are coming up on Ashville, on State Route 316 in Harrison Township, Pickaway County. Richard Staige settled the land in 1808. The town was called Ashbrook, then Ashville. It incorporated in 1882. The thing people stop for is a traffic light that hung at Long and Main from 1932 to 1982. If you stay on 316, I'll start at the distilleries.",
+    long: "",
+    names: ["Ashville"]
+  },
+  {
+    id: "ashville-stage",
+    name: "Two Distilleries",
+    lat: 39.7180,
+    lng: -82.9550,
+    radius: 500,
+    short: "Richard Staige, also spelled Stage, was born in Edinburgh and came from Virginia. He settled this ground in 1808 and died in 1811. His sons Richard junior and William each built a distillery and opened them in 1812. Richard junior bought the 77 acres from the Chillicothe land office on July 6, 1816. The whiskey came before the town.",
+    long: "",
+    names: ["Richard Staige"]
+  },
+  {
+    id: "ashville-ashbrook",
+    name: "Ashbrook",
+    lat: 39.7156,
+    lng: -82.9530,
+    radius: 350,
+    short: "In 1837 Richard junior sold his distillery to Mahlon Ashbrook. Ashbrook and his brother Absolom did a large business. By 1845 he had a gristmill on Walnut Creek and a store run by his sister Ivy and her husband Daniel Kellerman. Kellerman was the first postmaster. The post office name was Ashbrook. That same year Ashbrook helped lay out the town, about twenty-five houses. He made barrels for the mill and the still. In 1853 he sat on a committee pushing a railroad through Ross, Pickaway, and Franklin counties. In 1855 he endorsed a friend's note. The friend did not pay. Ashbrook lost the businesses and went west. The Panic of 1857 and the Civil War kept the town quiet until the trains.",
+    long: "",
+    names: ["Mahlon Ashbrook", "Daniel Kellerman"]
+  },
+  {
+    id: "ashville-rail",
+    name: "Scioto Valley",
+    lat: 39.7160,
+    lng: -82.9490,
+    radius: 400,
+    short: "The Scioto Valley Railroad was built through town in 1874. The village history names Isham Randolph as the lead engineer. The depot went up in 1876, at Madison and Cromley, a weatherboard building. Two grain elevators followed. The depot closed in 1976 and went on the National Register in 1980. It is a railroad museum now. In 1903 the Scioto Valley Traction line arrived, an electric railroad. Its powerhouse, built in 1905, is still standing. The brick is a grill now.",
+    long: "",
+    names: ["Scioto Valley Railroad", "Isham Randolph"]
+  },
+  {
+    id: "ashville-opera",
+    name: "Steward's Opera House",
+    lat: 39.7148,
+    lng: -82.9535,
+    radius: 250,
+    short: "The Ashville Hotel went up in 1880. Dr. Charles Steward opened an opera house in 1886, about five hundred seats. The village incorporated in 1882. W. E. Julian was the first mayor and D. E. Julian the first clerk. The council met in the basement of a harness shop. The Ashville Enterprise started in 1882. The population was 430 in 1890. The 2020 census counted 4,529.",
+    long: "",
+    names: ["Charles Steward", "W. E. Julian"]
+  },
+  {
+    id: "ashville-light",
+    name: "The Long Light",
+    lat: 39.7139,
+    lng: -82.9533,
+    radius: 200,
+    short: "Teddy Boor, a local man, patented a motorized traffic light. It was not the first traffic light. It hung at Long and Main from 1932 to 1982, and Ashville holds the record for the longest time one light stayed in service. The state made them take it down. It is now inside Ohio's Small Town Museum, at 34 Long Street, in the old Dreamland Theater, a silent-movie house that closed because the owner could not afford the equipment for talkies. The museum opened in 1975, the year the depot was dying and a study said the town had almost no identity left. The light is still switched on.",
+    long: "",
+    names: ["Teddy Boor"]
+  },
+  {
+    id: "ashville-margin",
+    name: "The Robe",
+    lat: 39.7142,
+    lng: -82.9528,
+    radius: 200,
+    short: "The same museum shows a Ku Klux Klan robe. Ashville was not a welcome town for everyone. The exhibit says those rules were gone by the middle of the 1930s, and the village elected Harry Margulis, a Jewish lawyer from Columbus, as mayor. A light that brought tourists and a robe in a case are both part of the record. I will not tell only the light.",
+    long: "",
+    names: ["Harry Margulis"]
+  },
+  {
+    id: "ashville-native",
+    name: "Walnut Creek",
+    lat: 39.7200,
+    lng: -82.9450,
+    radius: 700,
+    short: "Walnut Creek is the water under Ashbrook's mill. This is Shawnee country west of the Scioto. Pickaway is a form of Pekowi, a Shawnee band. Cornstalk, his sister Non-hel-e-ma, and the treaty ground at Camp Charlotte are east of here, at Circleville, not on these lots. No battle is recorded in Ashbrook. The distilleries sat on creek ground the Shawnee had already been pushed off.",
+    long: "",
+    names: ["Shawnee", "Walnut Creek"]
+  },
+  {
+    id: "ashville-legend",
+    name: "Oldest",
+    lat: 39.7140,
+    lng: -82.9530,
+    radius: 200,
+    short: "Other towns say they had an older light. Ashville's answer is that this one worked, at one corner, for fifty years, and it has not been turned off yet. The inventor of the traffic signal lived somewhere else. The man who kept one burning on Long Street was Teddy Boor. The name on the sign used to be Ashbrook. The light is what people drive here to argue about.",
+    long: "",
+    names: ["Teddy Boor", "Ashville"]
+  },
+
+  {
+    id: "approach-ashley-oh",
+    name: "Ashley",
+    lat: 40.3800,
+    lng: -82.9600,
+    radius: 4000,
+    layer: "approach",
+    short: "You are coming up on Ashley, Ohio, in Oxford Township, Delaware County, on U.S. 42 and State Route 229. Not the Ashley in Indiana. This one was platted on June 15, 1849, sixty-nine lots, and it was going to be called Oxford. The township already had that name. The proprietors were L. W. Ashley and J. C. Avery, so the village took Ashley. It incorporated in 1855. If you stay on 42, I'll start at the railroad.",
+    long: "",
+    names: ["Ashley"]
+  },
+  {
+    id: "ashley-oh-plat",
+    name: "Not Oxford",
+    lat: 40.4097,
+    lng: -82.9517,
+    radius: 300,
+    short: "County surveyor Charles Neil drew the plat. The land belonged to L. W. Ashley and J. C. Avery. Oxford Township had existed since 1815, cut off after a petition that John Shaw pushed. A village could not wear the township's name. Ashley was the owner's name, and it stuck. By 1877 the sixty-nine lots had become more than one hundred and eighty. The 2020 census counted 1,198.",
+    long: "",
+    names: ["L. W. Ashley", "J. C. Avery", "Charles Neil"]
+  },
+  {
+    id: "ashley-oh-before",
+    name: "Before the Plat",
+    lat: 40.4080,
+    lng: -82.9480,
+    radius: 500,
+    short: "The lots were late. Elijah Smith and Calvin Cole were in the township about 1815. About two years after that, Robert Brown settled on the ground where the village stands. A year later Ralph Slack came up from Berkshire and took the southeast side. Job Foust was the first white child born in the township. The railroad did not invent the clearing. It invented the grid.",
+    long: "",
+    names: ["Robert Brown", "Ralph Slack"]
+  },
+  {
+    id: "ashley-oh-rail",
+    name: "The Bee Line",
+    lat: 40.4105,
+    lng: -82.9505,
+    radius: 350,
+    short: "In 1850 the railroad from Delaware toward Mansfield was built through the plat, on the way between Cleveland and Columbus. A post office opened the same year. The line was later the Cleveland, Columbus, Cincinnati and Indianapolis, the Bee Line. Jesse Meredith put up a grain house on the railroad ground and served as station agent. Another warehouse went to the firm of Breeden and Place. The village lived on wheat and a depot. High Street, which is Route 229, was the merchant street by the 1880s.",
+    long: "",
+    names: ["Jesse Meredith", "Bee Line"]
+  },
+  {
+    id: "ashley-oh-houses",
+    name: "East High Street",
+    lat: 40.4089,
+    lng: -82.9485,
+    radius: 250,
+    short: "Four houses on East High Street, built between 1891 and 1901, are the ornate ones. The Opel House, 1891, is the earliest. Then the Wilson and Lynn houses. The Bartha House is the last and the most elaborate, an Eastlake showpiece. They are believed to be the work of Toddy Porterfield, a local woodworker. The interstate missed the town. The street still looks like the 1920s.",
+    long: "",
+    names: ["Toddy Porterfield"]
+  },
+  {
+    id: "ashley-oh-mural",
+    name: "The Tiles",
+    lat: 40.4089,
+    lng: -82.9546,
+    radius: 200,
+    short: "A tile mural went up in 2014. It starts with the train stop and runs through the first school, now the R. B. Powers company, the Wornstaff Library, the water tower, the McCurdy barn, and the current elementary school. One tile is the incorporation, 1855. Another is the animals of the first junior fair. It is the village telling its own list, in clay.",
+    long: "",
+    names: ["Ashley"]
+  },
+  {
+    id: "ashley-oh-native",
+    name: "The Indian Line",
+    lat: 40.4200,
+    lng: -82.9500,
+    radius: 900,
+    short: "When Oxford Township was drawn in 1815, the north boundary was the Indian boundary, the Greenville treaty line. Ashley sits south of that line. The creeks here, Alum Creek and the country of the Olentangy, were Delaware ground. North of the line the treaty still held. No battle is recorded on these sixty-nine lots. The line is the war story. The village was built on the settled side of it.",
+    long: "",
+    names: ["Delaware", "Greenville"]
+  },
+  {
+    id: "ashley-oh-freedom",
+    name: "Alum Creek Friends",
+    lat: 40.3600,
+    lng: -82.9500,
+    radius: 1500,
+    short: "About five miles south, a marker records the Alum Creek Friends settlement and its work on the Underground Railroad. That is their story, not a plaque in this plat. I will not move it. What belongs to Ashley is that the nearest freedom road in this township ran through a Quaker settlement on Alum Creek, close enough that people here would have known the direction.",
+    long: "",
+    names: ["Alum Creek Friends"]
+  },
+  {
+    id: "ashley-oh-legend",
+    name: "Two Ashleys",
+    lat: 40.4090,
+    lng: -82.9520,
+    radius: 250,
+    short: "There are two Ashleys a driver can confuse, and they are not the same man. The Indiana town was named in 1892 for Ossian D. Ashley of the Wabash. This one is older, 1849, and it is L. W. Ashley, a land proprietor who had to change the name because Oxford was already taken. If the story you just heard mentioned the Wabash, you are in the wrong state.",
+    long: "",
+    names: ["L. W. Ashley"]
+  },
+
+  {
+    id: "approach-athalia",
+    name: "Athalia",
+    lat: 38.5120,
+    lng: -82.3600,
+    radius: 3000,
+    layer: "approach",
+    short: "You are coming up on Athalia, on State Route 7 in Rome Township, Lawrence County, on the Ohio River. John Tierman laid the town out above the mouth of Two Mile Creek and named it for his daughter. The county commissioners incorporated it in June 1887. The 2020 census counted 279. If you stay on 7, I'll start at the creek.",
+    long: "",
+    names: ["Athalia"]
+  },
+  {
+    id: "athalia-tierman",
+    name: "His Daughter",
+    lat: 38.5128,
+    lng: -82.3094,
+    radius: 300,
+    short: "The Ironton Register's account is plain. John Tierman laid out a town above the mouth of Two Mile Creek and named it Athalia, for his daughter of that name. The people petitioned. On June 9, 1887, the commissioners incorporated the village. By 1880 the census had already counted 251. The post office was sending money to the Washington Monument fund as early as 1860. Athalia gave thirty dollars.",
+    long: "",
+    names: ["John Tierman"]
+  },
+  {
+    id: "athalia-flood",
+    name: "February 1884",
+    lat: 38.5115,
+    lng: -82.3080,
+    radius: 400,
+    short: "The river is the street. In the great flood, a Gallipolis report dated February 16, 1884, said Athalia was almost swept away. The same report had water in the second stories at Proctorville. I will not turn a newspaper sentence into a count of houses. What is certain is the bank. Every town between Ironton and the bend has been in that river more than once.",
+    long: "",
+    names: ["Ohio River"]
+  },
+  {
+    id: "athalia-pike",
+    name: "The Ironton Pike",
+    lat: 38.5125,
+    lng: -82.3250,
+    radius: 500,
+    short: "The land road was the pike to Ironton. In October 1888 the Ironton paper said Jesse Dillon had nearly finished the abutments and the grading for a bridge across Indian Guyan Creek, on that pike. A new schoolhouse was noted in 1885. The village also had a blacksmith shop. There is no depot story I will invent. The freight here moved on the water, and the neighbors drove the pike.",
+    long: "",
+    names: ["Indian Guyan Creek", "Jesse Dillon"]
+  },
+  {
+    id: "athalia-park",
+    name: "Athalia Park",
+    lat: 38.5135,
+    lng: -82.3105,
+    radius: 250,
+    short: "The public ground in the village is Athalia Park. It is a small-town park, not a battlefield and not a state reserve. The older public works were the school of 1885 and the creek bridge on the way to Ironton.",
+    long: "",
+    names: ["Athalia"]
+  },
+  {
+    id: "athalia-fight",
+    name: "Fifty Dollars",
+    lat: 38.5150,
+    lng: -82.3000,
+    radius: 600,
+    short: "On May 24, 1879, a hard-glove fight was held about twelve miles above Huntington, on the Ohio side near Athalia. Henry Burke and Frank Dixon, machinists from Huntington, fought for fifty dollars a side. The Cincinnati paper carried it. A river town gets the fights, the floods, and the doctors. In 1883 Dr. Thomas Hallanan came back from Dayton to resume his practice here.",
+    long: "",
+    names: ["Henry Burke", "Frank Dixon"]
+  },
+  {
+    id: "athalia-native",
+    name: "Two Mile Creek",
+    lat: 38.5080,
+    lng: -82.3120,
+    radius: 500,
+    short: "Two Mile Creek enters the Ohio just below the plat. This bank was Shawnee country, and before that the older river people. The town's name for the bigger creek, Indian Guyan, keeps the word. No battle is recorded on Tierman's lots. The war on this stretch of river was the long one, the taking of the bank, and then the floods that tried to take it back.",
+    long: "",
+    names: ["Shawnee", "Two Mile Creek"]
+  },
+  {
+    id: "athalia-legend",
+    name: "The Name",
+    lat: 38.5128,
+    lng: -82.3090,
+    radius: 200,
+    short: "Athaliah is a queen in the Bible, and a hard one. The village spelling drops the last letter. The local record does not say Tierman was naming a queen. It says he was naming his daughter. A town of a few hundred, laid out above a creek mouth, does not need a grander story than that. The daughter is the one I will use.",
+    long: "",
+    names: ["Athalia"]
+  },
+
+
 
 
 

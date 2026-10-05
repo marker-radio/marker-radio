@@ -49391,6 +49391,48 @@ const STORIES = [
     long: "",
     names: ["Al Johnson"]
   },
+  {
+    id: "approach-wapakoneta",
+    name: "Wapakoneta",
+    lat: 40.5656,
+    lng: -84.1911,
+    radius: 8000,
+    layer: "approach",
+    short: "You are coming up on Wapakoneta, on the Auglaize. The name is Shawnee, and one reading of it is the place of white bones. A boy from this town was the first person to walk on the moon. If you drop in, I'll start with the council house.",
+    long: "",
+    names: ["Wapakoneta"]
+  },
+  {
+    id: "wapakoneta-council",
+    name: "The council house",
+    lat: 40.5656,
+    lng: -84.1911,
+    radius: 600,
+    short: "In 1748 the French put a trading post about half a mile northeast of here and called it Fort au Glaize. In 1760 it was Francis Duchouquet's post. He was a trader and an interpreter, and the township still has his name. No American fort replaced it. French-Canadian traders came back in 1784 and left after Fallen Timbers in 1794. By then the Shawnee town was already here. The older spelling is Waughpaughkonnetta. Black Hoof's council house stood on this ground. In 1831 the Shawnee were removed to Kansas.",
+    long: "",
+    names: ["Black Hoof", "Francis Duchouquet"]
+  },
+  {
+    id: "wapakoneta-plat",
+    name: "The land office",
+    lat: 40.5656,
+    lng: -84.1911,
+    radius: 500,
+    short: "Peter Hammel came from Canada in 1815 and built a store. Groceries, hardware, dry goods, and liquor. The next year George C. Johnson built a trading house, and a mill and a blacksmith were already at work. In 1832 the government land office moved here from Piqua. Platting began in 1833, on the old reservation, about a hundred square miles that had just been opened for sale. Auglaize County made Wapakoneta the seat in 1848. The town was chartered on March 2, 1849.",
+    long: "",
+    names: ["Peter Hammel", "George C. Johnson"]
+  },
+  {
+    id: "wapakoneta-armstrong",
+    name: "Blume High School",
+    lat: 40.5656,
+    lng: -84.1911,
+    radius: 700,
+    short: "Neil Armstrong was born here on August 5, 1930. His family moved with his father's work and later came back. He finished at Blume High School in 1947. On July 20, 1969 he was the first person to walk on the moon. The air and space museum opened in town in 1972. Dudley Nichols, also born here, won the Academy Award in 1935 for the screenplay of The Informer. The streets still mix the old names with the space program.",
+    long: "",
+    names: ["Neil Armstrong", "Dudley Nichols"]
+  },
+
 
 
 

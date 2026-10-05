@@ -49032,6 +49032,26 @@ const STORIES = [
     long: "",
     names: ["Eli Lilly", "Wawasee"]
   },
+  {
+    id: "swanton-wing",
+    name: "Chandler Wing",
+    lat: 41.5831,
+    lng: -83.8800,
+    radius: 700,
+    short: "The post office was already called Swanton in 1827, from Swan Creek. The first house came later. Chandler L. Wing built it of logs in the spring of 1834, on the west bank, on the east half of the southeast quarter of section 8. His brother Jonathan arrived in 1835. For a time the township carried Chandler's name. An 1842 record still calls it Wing Township. The creek won the argument.",
+    long: "",
+    names: ["Chandler L. Wing"]
+  },
+  {
+    id: "swanton-dodge",
+    name: "Luther Dodge",
+    lat: 41.5831,
+    lng: -83.8800,
+    radius: 500,
+    short: "Luther Dodge put up the first frame building in 1837. It was a house and a store together, on the east bank of Swan Creek, near where the two branches meet. He left about 1842. That same year Charles and John Eckels built a log shop, and the township school met in it for most of three years. A sawmill frame was going up then for Jackson and Forsyth. The village came later. The cabin and the store came first.",
+    long: "",
+    names: ["Luther Dodge", "Charles Eckels", "John Eckels"]
+  },
 
 
 

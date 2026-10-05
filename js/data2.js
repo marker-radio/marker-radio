@@ -621,6 +621,490 @@ STORIES.push(
     long: "",
     names: ["Marilyn Sheppard", "Samuel Sheppard"]
   },
+  {
+    id: "approach-beach-city",
+    name: "Beach City",
+    lat: 40.6620,
+    lng: -81.5900,
+    radius: 3500,
+    layer: "approach",
+    short: "You are coming up on Beach City, on Sugar Creek in southwestern Stark County. There is no beach. The name is a man. Henry Beach was a railroad engineer, and the Baltimore and Ohio laid tracks through here in 1872. The post office opened that same year. The census counted 282 people in 1880. About 940 live here now. If you stay on the highway, I'll start at the creek.",
+    long: "",
+    names: ["Beach City"]
+  },
+  {
+    id: "beach-city-beach",
+    name: "Henry Beach",
+    lat: 40.6531,
+    lng: -81.5794,
+    radius: 250,
+    short: "The village is named for Henry Beach. The railroad record of this line says he was a chief engineer for the Baltimore and Ohio, which built through these lots in 1872. The post office opened the same year. I will not invent a plat day I cannot pin. The railroad is why the town is here, and why it is not named for the creek.",
+    long: "",
+    names: ["Henry Beach", "Baltimore and Ohio Railroad"]
+  },
+  {
+    id: "beach-city-dam",
+    name: "The 1936 Dam",
+    lat: 40.6390,
+    lng: -81.5600,
+    radius: 700,
+    short: "Sugar Creek runs through the village and south to the Tuscarawas. Beach City Dam stands near the county line, completed in 1936 by the Army Corps of Engineers. It is a flood-control dam in the Muskingum watershed, 64 feet high and 5,600 feet long. The lake behind it is not a beach town lake. It was built so this creek would not wreck the towns downstream. The dam is south of the village lots.",
+    long: "",
+    names: ["Beach City Dam", "Sugar Creek"]
+  },
+  {
+    id: "beach-city-regula",
+    name: "Ralph Regula",
+    lat: 40.6540,
+    lng: -81.5770,
+    radius: 200,
+    short: "Ralph Regula came from Beach City. He represented this part of Ohio in Congress from 1973 to 2009. Thirty-six years. The town is small. He is the name it sent to Washington.",
+    long: "",
+    names: ["Ralph Regula"]
+  },
+  {
+    id: "beach-city-park",
+    name: "The Reservoir Land",
+    lat: 40.6410,
+    lng: -81.5680,
+    radius: 500,
+    short: "The public land here is the reservoir. In the 1930s the Muskingum Watershed Conservancy District bought the ground south of town for the lake. There is a picnic area at the dam. There is no town square I can call a park and prove it. The public ground is the water and the land the dam holds.",
+    long: "",
+    names: ["Muskingum Watershed Conservancy District"]
+  },
+  {
+    id: "beach-city-native",
+    name: "No Village Name on This Bend",
+    lat: 40.6520,
+    lng: -81.5820,
+    radius: 300,
+    short: "This bend of Sugar Creek was not empty when the railroad arrived. The Tuscarawas valley, which this creek feeds, was Lenape country before these lots were platted. I do not have a village name to put on this bend. I will not invent one. The creek is the old road. The Baltimore and Ohio came later.",
+    long: "",
+    names: ["Lenape", "Sugar Creek"]
+  },
+  {
+    id: "beach-city-war",
+    name: "No Battlefield",
+    lat: 40.6535,
+    lng: -81.5760,
+    radius: 200,
+    short: "There is no fort and no battlefield on these lots. The freedom story people tell is a cave south of town, over the line in Tuscarawas County. It is rumored to have been an Underground Railroad stop. It is a rumor. I will not move that cave onto these streets, and I will not turn a rumor into a station I can point at.",
+    long: "",
+    names: ["Underground Railroad"]
+  },
+  {
+    id: "beach-city-machan",
+    name: "Machan's Rock",
+    lat: 40.6360,
+    lng: -81.5720,
+    radius: 400,
+    short: "Machan's Rock is not in the village. It is south of Beach City, in Wayne Township, Tuscarawas County, on ground the Conservancy District bought from Robert Machan in the 1930s. The rock is about 35 feet high, with a cave about 350 feet long. Locals say a body was found in it in the 1950s and that part of the cave was dynamited to keep people out. That is the telling, not a record I can close. In 2007 a 21-year-old Tuslaw graduate fell to his death while painting his girlfriend's name near the top. The graffiti is still the local legend. The rock is over the county line.",
+    long: "",
+    names: ["Robert Machan", "Machan's Rock"]
+  },
+
+  {
+    id: "approach-beachwood",
+    name: "Beachwood",
+    lat: 41.4700,
+    lng: -81.4900,
+    radius: 4000,
+    layer: "approach",
+    short: "You are coming up on Beachwood, about ten miles east of Cleveland. It was the northeast corner of Warrensville Township until 1915. The name is the beech trees that covered this ground. The spelling Beach, without the second e, is a rumor about a clerk. If you stay on the highway, I'll start at the schoolhouse.",
+    long: "",
+    names: ["Beachwood"]
+  },
+  {
+    id: "beachwood-name",
+    name: "The Beech Trees",
+    lat: 41.4822,
+    lng: -81.5040,
+    radius: 400,
+    short: "The city says it was named for the beech trees that once covered most of this ground. The rumor is that an early village-hall clerk left out a letter on the official papers, and Beachwood stuck. The city calls that a rumor. I will not turn it into a fact. The trees were real. The missing e is the story people tell.",
+    long: "",
+    names: ["Beachwood"]
+  },
+  {
+    id: "beachwood-school",
+    name: "One Vote Against",
+    lat: 41.4815,
+    lng: -81.5085,
+    radius: 250,
+    short: "Beachwood left Warrensville Township because the township was going to close a school. On May 29, 1915, 57 freeholders petitioned to incorporate a section of 151 people. The vote was June 15, 1915, in the schoolhouse at Richmond Road and North Woodland. Forty-seven people voted. One voted no. On June 26 the township trustees ordered the village incorporated. North Woodland was renamed Fairmount Boulevard in September 1925. The first council met October 4, 1915, in the red-brick school built in 1868. A new school finished in 1927 was called Beechwood School, with the second e. In 1960 the census counted 6,089 people, and the village became a city.",
+    long: "",
+    names: ["Warrensville Township", "Fairmount Boulevard"]
+  },
+  {
+    id: "beachwood-church",
+    name: "Centenary Church",
+    lat: 41.4808,
+    lng: -81.5070,
+    radius: 200,
+    short: "Centenary Church was built in 1884 beside what became the village hall. The stone in the foundation came from a small quarry on the Bleasdale Farm, near Harvard and Richmond. In the 1920s the building was moved back so North Woodland could be widened. On August 4, 1980, the trustees voted to sell it. The city bought it and used it for the fire department's offices until the new station in 2001.",
+    long: "",
+    names: ["Centenary Church", "Bleasdale Farm"]
+  },
+  {
+    id: "beachwood-cemetery",
+    name: "Stones from 1813",
+    lat: 41.4645,
+    lng: -81.5080,
+    radius: 200,
+    short: "Beachwood Cemetery is at the corner of Green and Halburton. The city owns it now. Stones here go back to 1813. Forty-seven veterans from six wars are buried in it, including the Revolution, the War of 1812, and the Civil War. There is no battlefield on these lots. The war record of this city is the cemetery.",
+    long: "",
+    names: ["Beachwood Cemetery"]
+  },
+  {
+    id: "beachwood-road",
+    name: "Shaker Country Estates",
+    lat: 41.4780,
+    lng: -81.5000,
+    radius: 500,
+    short: "I will not name a railroad on these lots. The road that made the modern city is Interstate 271, finished in 1972. Before that, the Van Sweringen Company had deed restrictions on a planned neighborhood called Shaker Country Estates, and those rules fought the shopping centers. Mayor George Zeiger, from 1962 to 1981, pushed the commercial side. Commerce Park opened in 1962. Beachwood Place opened in 1978. In 1940 the village had 372 people. In 1970 it had 9,631. The city also defaulted on its debts in the 1930s. The malls came after the default.",
+    long: "",
+    names: ["George Zeiger", "Van Sweringen Company", "Beachwood Place"]
+  },
+  {
+    id: "beachwood-people",
+    name: "Fairmount Temple",
+    lat: 41.4735,
+    lng: -81.5055,
+    radius: 400,
+    short: "In the 1950s two congregations, Suburban Temple-Kol Ami and Anshe Chesed Fairmount Temple, built here against real opposition. More followed. Menorah Park moved here in 1968. The Jewish Community Center's Beachwood building opened in 1986 and became the only one in 2005. The Jewish Federation of Cleveland moved here in 2010. In 2011 the Federation estimated 10,700 Jewish residents, about nine in ten people in the city. That move, more than the beech trees, is who lives here now.",
+    long: "",
+    names: ["Fairmount Temple", "Suburban Temple"]
+  },
+  {
+    id: "beachwood-native",
+    name: "No Name Before the Trees",
+    lat: 41.4830,
+    lng: -81.4980,
+    radius: 400,
+    short: "This was Western Reserve land, the northeast of Warrensville Township, before it was a village. I do not have a native village name to put on these lots. I will not invent one. The settlers named the place for the beech woods. The woods are the oldest name I can stand on.",
+    long: "",
+    names: ["Warrensville Township"]
+  },
+
+  {
+    id: "approach-beallsville",
+    name: "Beallsville",
+    lat: 39.8520,
+    lng: -81.0550,
+    radius: 3000,
+    layer: "approach",
+    short: "You are coming up on Beallsville, on a ridge in Monroe County. Citizen Beall and John Linn platted it in 1824. About 355 people live here now. The story this town carries is six of its sons, all under 21, killed in Vietnam. If you stay on the highway, I'll start at the water tower.",
+    long: "",
+    names: ["Beallsville"]
+  },
+  {
+    id: "beallsville-founding",
+    name: "The Land Office Mistake",
+    lat: 39.8498,
+    lng: -81.0372,
+    radius: 200,
+    short: "John Linn and Abner Barrett had cabins here in 1812, where the village stands. The first election on John Linn's farm, in 1819 or 1820, drew 11 votes. Citizen Beall was born in Maryland in 1796 and came from Wheeling Creek, in what is now West Virginia. He had paid for land on Captina Creek. The Marietta land office applied the payment to the wrong tract, and someone else took the creek claim. He and John Linn laid this town out in 1824, on the ridge, and named it for him. Three buildings stood here then. One of them was his house.",
+    long: "",
+    names: ["Citizen Beall", "John Linn", "Abner Barrett"]
+  },
+  {
+    id: "beallsville-railroad",
+    name: "The Depot Is Gone",
+    lat: 39.8490,
+    lng: -81.0360,
+    radius: 200,
+    short: "The local telling is that the boom years were 1879 to 1931, when the railroad carried people and goods in and out. The depot is gone. Seven cigar factories once worked in the village. Two hotels are gone. A hospital is gone. A schoolhouse built in 1896 stood where the convenience store is now. It came down in the 1960s. I will not name the railroad company if I cannot pin it. The year, and the missing depot, are the record.",
+    long: "",
+    names: ["Beallsville"]
+  },
+  {
+    id: "beallsville-park",
+    name: "Veteran's Memorial Park",
+    lat: 39.8485,
+    lng: -81.0449,
+    radius: 200,
+    short: "Veteran's Memorial Park is at the water tower, just west of the village on Ohio 145. The state marker there went up in 2001. The village, the Ohio Bicentennial Commission, the Longaberger Company, and the Ohio Historical Society put it up. That park is the public ground I can point to.",
+    long: "",
+    names: ["Veteran's Memorial Park"]
+  },
+  {
+    id: "beallsville-vietnam",
+    name: "Six Sons",
+    lat: 39.8486,
+    lng: -81.0445,
+    radius: 180,
+    short: "The marker says the community had 475 people and the highest known per-capita loss of the Vietnam War. Six Beallsville men, all under 21. Jack Pittman, 20, July 25, 1966. Duane T. Greenlee, 19, August 25, 1966, in Quang Nam. Charles G. Schnegg, 20, December 4, 1967, in Kien Phong. Richard L. Rucker, 20, May 30, 1968, in Gia Dinh. William R. Lucas, called Bobby, 20, died of wounds March 9, 1969, in Quang Tri. Phillip M. Brandon, 19, March 7, 1971, in Thua Thien. In 1969 the town asked Congress to pull its other men out of the fight. Congressman Clarence Miller asked Defense Secretary Melvin Laird and President Nixon. The request was denied. Five more men from the rest of Monroe County died in that war. There is no older battlefield on these lots. This is the war record.",
+    long: "",
+    names: ["Jack Pittman", "Duane T. Greenlee", "Charles G. Schnegg", "Richard L. Rucker", "William R. Lucas", "Phillip M. Brandon"]
+  },
+  {
+    id: "beallsville-coal",
+    name: "The Mines Are Near",
+    lat: 39.8470,
+    lng: -81.0300,
+    radius: 400,
+    short: "Coal carried this town after the railroad faded, and then the mines faded too. Powhatan Number 6 and the Century Mine, both later Murray Energy, are near Beallsville. They are not on these village lots. The local telling now is oil and gas, after the coal. I will not move a mine tipple onto Main Street.",
+    long: "",
+    names: ["Powhatan No. 6", "Century Mine"]
+  },
+  {
+    id: "beallsville-native",
+    name: "The Creek He Missed",
+    lat: 39.8495,
+    lng: -81.0385,
+    radius: 250,
+    short: "I do not have a native village name to put on this ridge. Beall meant to settle on Captina Creek and landed here because a clerk wrote the wrong tract. The creek valley below these hills was the older road. I will not invent a town that stood on these three buildings.",
+    long: "",
+    names: ["Captina Creek"]
+  },
+  {
+    id: "beallsville-hymnal",
+    name: "The Hymnal",
+    lat: 39.8496,
+    lng: -81.0368,
+    radius: 150,
+    short: "The local telling is that Citizen Beall died in 1862 in the Old Methodist Church. He picked up his hymnal and dropped dead. That is the town's story about its founder. I was not in the church. The church they mean is gone with the rest of the old street.",
+    long: "",
+    names: ["Citizen Beall"]
+  },
+
+  {
+    id: "approach-beaver",
+    name: "Beaver",
+    lat: 39.0400,
+    lng: -82.8300,
+    radius: 3000,
+    layer: "approach",
+    short: "You are coming up on Beaver, on Beaver Creek in southeastern Pike County. The creek was named for the beavers. A man named Reynolds platted the town just before 1840 and it was called Reynoldstown, then Beavertown. About 440 people live here now. If you stay on the highway, I'll start at the cemetery.",
+    long: "",
+    names: ["Beaver"]
+  },
+  {
+    id: "beaver-founding",
+    name: "Reynoldstown",
+    lat: 39.0298,
+    lng: -82.8239,
+    radius: 200,
+    short: "Beaver Township was set off by the Ross County commissioners on September 8, 1814, out of Jefferson Township. Pike County was formed the next year. George Givens was on this ground in 1807. The county paper puts the first cabins in the valley in 1810: Abraham Lawrence, the Reverend Kelly, and William Saylor. One record spells the preacher Darby and another spells him Darley. I will not pick a spelling I cannot prove. Reynolds laid the town out just before 1840. For a few years it was Reynoldstown. Then it was Beavertown. Then it was Beaver.",
+    long: "",
+    names: ["G. W. Reynolds", "George Givens", "Abraham Lawrence", "William Saylor"]
+  },
+  {
+    id: "beaver-railroad",
+    name: "The DT&I",
+    lat: 39.0290,
+    lng: -82.8250,
+    radius: 250,
+    short: "The railroad that grew this town was the Springfield, Jackson and Pomeroy. One local history says it arrived in 1877. The county paper says 1878. It was built to haul Jackson County coal, and it made Beaver a shipping point for the farmers. It became the Detroit, Toledo and Ironton, in 1905 or 1906, depending on which record you trust. The tracks were gone by 1985. I will not invent a depot that I cannot point at.",
+    long: "",
+    names: ["Springfield, Jackson and Pomeroy Railroad", "Detroit, Toledo and Ironton Railroad"]
+  },
+  {
+    id: "beaver-cemetery",
+    name: "Two Sides of the Cemetery",
+    lat: 39.0310,
+    lng: -82.8210,
+    radius: 180,
+    short: "The first school was a one-room building in Beaver Union Cemetery. The German families were buried on the right side. The English families were buried on the left. That split is the landmark I can stand on. I do not have a town park to name.",
+    long: "",
+    names: ["Beaver Union Cemetery"]
+  },
+  {
+    id: "beaver-germans",
+    name: "The German Families",
+    lat: 39.0305,
+    lng: -82.8225,
+    radius: 200,
+    short: "German families came into Pike County in the 1830s. Some of them rode the Ohio and Erie Canal and then walked inland to this creek. Philip Hamman was born in Germany in 1815 and was in Pike County by 1834. Barnhardt Adams came the same year. The Hammersteins settled here too. By the 1880s the town had five stores, a blacksmith, a flour mill, three churches, a school, two hotels, a brickyard, a saloon, and a slaughterhouse. The local telling is that Baker's slaughterhouse could butcher 40 hogs in a day, and that Chris Hines and Joe Hammerstein ran the crew.",
+    long: "",
+    names: ["Philip Hamman", "Barnhardt Adams", "Joe Hammerstein", "Chris Hines"]
+  },
+  {
+    id: "beaver-native",
+    name: "The Beavers",
+    lat: 39.0285,
+    lng: -82.8260,
+    radius: 250,
+    short: "Beaver Creek is named for the animals, not for a man. I do not have a native village name to put on this bend. The Scioto, west of these hills, was Shawnee country. I will not move a Shawnee town onto this creek to fill the card.",
+    long: "",
+    names: ["Beaver Creek"]
+  },
+  {
+    id: "beaver-war",
+    name: "No Battlefield",
+    lat: 39.0295,
+    lng: -82.8245,
+    radius: 180,
+    short: "There is no fort and no battlefield on these lots. The war record of Beaver is not a battle I can point to. I will not invent one.",
+    long: "",
+    names: ["Beaver"]
+  },
+  {
+    id: "beaver-oktoberfest",
+    name: "The Block Party",
+    lat: 39.0300,
+    lng: -82.8235,
+    radius: 150,
+    short: "The town's own festival started as a one-day block party in November 1985. A group called Beaver Valley Productions chose an Oktoberfest theme that September, for the German and Dutch families. It is now the first full weekend in October. That is a recent custom, not an old legend. The old story is the cemetery, split German and English.",
+    long: "",
+    names: ["Beaver Valley Productions"]
+  },
+
+  {
+    id: "approach-beaverdam",
+    name: "Beaverdam",
+    lat: 40.8350,
+    lng: -83.9900,
+    radius: 4000,
+    layer: "approach",
+    short: "You are coming up on Beaverdam, in Richland Township, Allen County. Frederick Shull laid it out in 1853 and it was first called Shulltown. The name is the beaver dams. About 320 people live in the village. The road you are on is the story. The old Lincoln Highway and the Dixie Highway crossed here, and Interstate 75 and U.S. 30 still do. If you stay on the highway, I'll start at the truck stops.",
+    long: "",
+    names: ["Beaverdam"]
+  },
+  {
+    id: "beaverdam-shull",
+    name: "Shulltown",
+    lat: 40.8328,
+    lng: -83.9739,
+    radius: 200,
+    short: "The Allen County history says Frederick Shull laid this village out in 1853. At first it was Shulltown. A post office called Beaver Dam opened in 1850, before the plat. The village incorporated in 1878. On July 25, 1895, the Bluffton News printed the order. The Postmaster General had changed Beaver Dam to Beaverdam, one word. People kept writing the two words for years after. The post office closed in 2006.",
+    long: "",
+    names: ["Frederick Shull"]
+  },
+  {
+    id: "beaverdam-dams",
+    name: "Two Dams",
+    lat: 40.8335,
+    lng: -83.9700,
+    radius: 250,
+    short: "Daniel Milliken, an old resident, gave the county history this story. Beavers the Indians found here built two dams, one east of town and one west, to hold the water. The town sits between those old dams. That is the local telling. I cannot show you the sticks. The name is what lasted.",
+    long: "",
+    names: ["Daniel Milliken"]
+  },
+  {
+    id: "beaverdam-rail",
+    name: "Lake Erie and Western",
+    lat: 40.8320,
+    lng: -83.9745,
+    radius: 200,
+    short: "The county history says two lines ran through the village. The Lake Erie and Western Railroad, and the Lima and Findlay traction line. The history spells Lima wrong, as Lina. I am correcting the city, not the railroad. I do not have a standing depot to point at.",
+    long: "",
+    names: ["Lake Erie and Western Railroad"]
+  },
+  {
+    id: "beaverdam-highways",
+    name: "Where the Highways Crossed",
+    lat: 40.8340,
+    lng: -83.9780,
+    radius: 400,
+    short: "The Lincoln Highway and the Dixie Highway were begun in 1914, and they crossed at Beaverdam. Later this was the east end of the four-lane U.S. 30 coming out of Fort Wayne. Eastbound traffic had to drop off the four lanes and onto a two-lane road. That exit made the village a fuel stop. U.S. 30 is four lanes all the way now and it bypasses the old street. Interstate 75 and U.S. 30 still meet here. Three truck stops sit on that junction. In the summer of 2006 the exit ramps and the I-75 overpass were widened for the trucks.",
+    long: "",
+    names: ["Lincoln Highway", "Dixie Highway"]
+  },
+  {
+    id: "beaverdam-native",
+    name: "No Village Name",
+    lat: 40.8310,
+    lng: -83.9720,
+    radius: 200,
+    short: "The only native sentence in the county history is Milliken's. Indians found the beavers here. He does not name a town or a nation. Allen County is Ottawa and Shawnee country closer to the rivers. I will not move those towns onto these two dams.",
+    long: "",
+    names: ["Beaverdam"]
+  },
+  {
+    id: "beaverdam-war",
+    name: "No Battlefield",
+    lat: 40.8325,
+    lng: -83.9755,
+    radius: 180,
+    short: "There is no fort and no battlefield on these lots. The roads are the record, not a battle. I will not invent one.",
+    long: "",
+    names: ["Beaverdam"]
+  },
+  {
+    id: "beaverdam-people",
+    name: "Four Teachers",
+    lat: 40.8330,
+    lng: -83.9730,
+    radius: 150,
+    short: "The county history, written after 1906, still called the place Beaver Dam and listed four teachers. J. L. Steiner was superintendent and principal of the high school. I do not have the other three names in front of me, so I will not guess them. Shull platted it. Milliken told the dam story. Steiner ran the school. That is the people I can name.",
+    long: "",
+    names: ["Frederick Shull", "Daniel Milliken", "J. L. Steiner"]
+  },
+
+  {
+    id: "approach-beckett-ridge",
+    name: "Beckett Ridge",
+    lat: 39.3360,
+    lng: -84.4250,
+    radius: 3000,
+    layer: "approach",
+    short: "You are coming up on Beckett Ridge, west of Interstate 75 in West Chester Township. It is not a city. About 9,200 people live in this census place. The ground was John and Mary Beckett's farm, bought about 1810. The houses started in the 1970s. If you stay on the highway, I'll start at the golf club.",
+    long: "",
+    names: ["Beckett Ridge"]
+  },
+  {
+    id: "beckett-ridge-farm",
+    name: "The Beckett Farm",
+    lat: 39.3447,
+    lng: -84.4381,
+    radius: 400,
+    short: "This township was Union Township. The county commissioners cut it off from Liberty Township on June 2, 1823. John Beckett was born in 1752 and died in 1843. He and Mary Beckett were early settlers, and the farm under these houses was bought about 1810. The ridge is named for them. Joseph McMaken's 1795 cabin, and the canal port later called Port Union, are down at Beckett Road. That is a different place. I will not move the canal up onto this ridge.",
+    long: "",
+    names: ["John Beckett", "Mary Beckett"]
+  },
+  {
+    id: "beckett-ridge-pud",
+    name: "The Planned Town",
+    lat: 39.3455,
+    lng: -84.4360,
+    radius: 350,
+    short: "The houses are new. Work started in the early 1970s. The township dates the planned unit development to about 1976 and calls it the first of its kind here. Developers wanted a resort neighborhood like the ones then being built in California. Gary L. Schottenstein and the Schottenstein Real Estate Group developed it. One account says it was the largest planned development in Ohio at the time. Condominiums and small-lot houses came first. Custom houses and the golf club came later. The project was finished in 1992. Cincinnati's HOMEARAMA was held here in 1980, and again in 1988.",
+    long: "",
+    names: ["Gary L. Schottenstein"]
+  },
+  {
+    id: "beckett-ridge-golf",
+    name: "The Golf Club",
+    lat: 39.3440,
+    lng: -84.4400,
+    radius: 300,
+    short: "Beckett Ridge sits on high ground north of the Mill Creek valley. The golf club is the center of it. Interstate 75 cuts the southeast corner. The near exit is Exit 19, Union Centre Boulevard. State Route 747 is the west edge. I do not have a town park inside these streets. Beckett Park, the township's 150 acres split by Beckett Road, is not this golf course.",
+    long: "",
+    names: ["Beckett Ridge Golf Club", "Mill Creek"]
+  },
+  {
+    id: "beckett-ridge-grave",
+    name: "The Revolutionary Grave",
+    lat: 39.3480,
+    lng: -84.4100,
+    radius: 250,
+    short: "John Beckett served in the Revolutionary War. He is buried at Union Township Cemetery, also called West Chester Cemetery and Brookside Cemetery, with his family. The township says he is the only Revolutionary veteran in that ground. Solomon Brecount, died September 8, 1799, is among the oldest stones there, and so is Nancy McMaken, died October 9, 1820. The cemetery is not on the golf course. Do not look for his stone between the houses.",
+    long: "",
+    names: ["John Beckett"]
+  },
+  {
+    id: "beckett-ridge-native",
+    name: "No Village Name",
+    lat: 39.3430,
+    lng: -84.4420,
+    radius: 300,
+    short: "I do not have a native village name on this ridge. Mill Creek runs south of it, toward the Ohio. I will not invent a town to put under a 1970s subdivision.",
+    long: "",
+    names: ["Mill Creek"]
+  },
+  {
+    id: "beckett-ridge-war",
+    name: "No Battlefield",
+    lat: 39.3460,
+    lng: -84.4370,
+    radius: 200,
+    short: "There is no battlefield on these lots. The war record here is one man's grave, and that grave is at the township cemetery, not on this street. I will not invent a fight.",
+    long: "",
+    names: ["John Beckett"]
+  },
+
+
+
 
 
 

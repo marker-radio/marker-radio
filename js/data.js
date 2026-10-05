@@ -47969,6 +47969,40 @@ const STORIES = [
     names: ["St. Peter's Lutheran Church"]
   },
 
+  {
+    id: "approach-primrose",
+    name: "Primrose",
+    lat: 41.6803,
+    lng: -84.4369,
+    radius: 4500,
+    layer: "approach",
+    short: "You are coming up on Primrose. A corner one mile north of Alvordton, in Williams County. The post office and the store were here first. The Wabash left them behind. If you are on this road, the corner is the story.",
+    long: "",
+    names: ["Primrose"]
+  },
+  {
+    id: "primrose-names",
+    name: "The 1864 corner",
+    lat: 41.6803,
+    lng: -84.4369,
+    radius: 600,
+    short: "Primrose was surveyed on May 25, 1866, for eleven landowners. The 1864 map already names the corner. Henry D. Alvord and Skiles kept the store and the ashery. Reverend Stacy Saye had the Universalist church. Doctors J. J. Struble and A. Netz practiced here. Alvord later platted Alvordton on the Wabash, on February 18, 1881. The business followed him.",
+    long: "",
+    names: ["Henry D. Alvord", "Stacy Saye", "J. J. Struble", "A. Netz"]
+  },
+  {
+    id: "primrose-millcreek",
+    name: "Mill Creek",
+    lat: 41.6803,
+    lng: -84.4369,
+    radius: 900,
+    short: "This is Millcreek Township. The creek is the water, and the steam saw on the 1864 map sat on that farm trade. Primrose was a corner on the creek. Alvordton was the corner on the track. The creek lost.",
+    long: "",
+    names: ["Mill Creek"]
+  },
+
+
+
 
 
 ];

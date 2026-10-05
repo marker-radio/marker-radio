@@ -48992,7 +48992,46 @@ const STORIES = [
     long: "",
     names: ["Edwin McMasters Stanton"]
   },
-
+  {
+    id: "syracuse-1837",
+    name: "Crosson and Ward",
+    lat: 41.4278,
+    lng: -85.7525,
+    radius: 600,
+    short: "Kosciusko County was authorized on February 7, 1835. Turkey Creek Township was organized on June 29, 1836. Samuel Crosson and Henry Ward owned the ground and platted Syracuse in 1837. Crosson was the first postmaster that same year. The museum says the name means city on a hill. It is also the name of the city in New York. The lake came first. People called it Turkey Lake, and Nine Mile Lake, before it was Wawasee.",
+    long: "",
+    names: ["Samuel Crosson", "Henry Ward"]
+  },
+  {
+    id: "syracuse-1876",
+    name: "October 1876",
+    lat: 41.4278,
+    lng: -85.7525,
+    radius: 500,
+    short: "The Chicago branch of the Baltimore and Ohio reached Syracuse in 1874. The first depot was wood. A brick station replaced it in 1916. The last passenger train stopped in January 1970. Voters approved incorporation on September 18, 1875, and the town was official in October 1876. The first board was Amos King, Addison Green, and Evan Miles. J. P. Dolan, a railroad timekeeper, stayed and worked for the town for thirty years.",
+    long: "",
+    names: ["Amos King", "J. P. Dolan"]
+  },
+  {
+    id: "syracuse-cement",
+    name: "Medusa Street",
+    lat: 41.4278,
+    lng: -85.7525,
+    radius: 500,
+    short: "Around 1900 the Sandusky Portland Cement plant opened at the foot of Medusa Street, on the Baltimore and Ohio. It dredged marl off the bottom of the lakes. It employed well over a hundred people and ran until about 1920. Henry Ward Park was a dump beside the tracks until August 1948, when they turned it into Railroad Park and later gave it his name.",
+    long: "",
+    names: ["Sandusky Portland Cement"]
+  },
+  {
+    id: "syracuse-lilly",
+    name: "The Lilly cottage",
+    lat: 41.4000,
+    lng: -85.7000,
+    radius: 900,
+    short: "Eli Lilly first came to a family cottage on this lake in 1888, when he was a boy, and he came back every summer until just before he died in 1977. The family helped protect the lake and settle the name Wawasee. Pickwick Park was laid out in 1897. An Englishman selling the railroad land suggested the name, from the Dickens book.",
+    long: "",
+    names: ["Eli Lilly", "Wawasee"]
+  },
 
 
 

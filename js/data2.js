@@ -1103,6 +1103,714 @@ STORIES.push(
     names: ["John Beckett"]
   },
 
+  {
+    id: "approach-bedford",
+    name: "Bedford",
+    lat: 41.4050,
+    lng: -81.5360,
+    radius: 3000,
+    layer: "approach",
+    short: "You are coming up on Bedford, about 12 miles southeast of downtown Cleveland, on Tinker's Creek. Daniel Benedict named it Bedford after his hometown. One record says Connecticut. Another says New York. I will not pick. About 13,000 people live here. The town incorporated in 1837 and became a city in 1930. If you stay on the highway, I'll start at the public square.",
+    long: "",
+    names: ["Bedford"]
+  },
+  {
+    id: "bedford-square",
+    name: "The Square Forever",
+    lat: 41.3930,
+    lng: -81.5360,
+    radius: 200,
+    short: "Elijah Nobles was on a western lot of this township in 1810. Bedford Township was set off in 1823. Hezekiah Dunham platted the center. In 1837 he and his wife Clarissa deeded three acres for a public square, a town hall, and a school. The deed says the ground is to be used as a public square forever. His house still stands opposite the square. The town hall of 1874 went to the Bedford Historical Society after the township was dissolved in 1951. The First Baptist Church began with 14 members in the Dunham house. The stone church on the commons, Late Gothic Revival, was designed by Jacob Snyder and opened in 1893.",
+    long: "",
+    names: ["Hezekiah Dunham", "Clarissa Dunham", "Elijah Nobles", "Daniel Benedict"]
+  },
+  {
+    id: "bedford-chairs",
+    name: "The Chair Town",
+    lat: 41.3920,
+    lng: -81.5340,
+    radius: 250,
+    short: "The falls of Tinker's Creek turned the first mills. The encyclopedia dates the first gristmill to 1815. The park says a sawmill, a gristmill, and an electric plant used the falls from 1821 to 1913. I will not flatten those dates. Benjamin Fitch arrived in 1816 and made splint-bottom chairs from wood he had already shrunk, so the chairs would not creak. He is credited with the strap lathe. That shop became Taylor Chair, established in 1844 and incorporated in 1885.",
+    long: "",
+    names: ["Benjamin Fitch", "Taylor Chair", "Tinker's Creek"]
+  },
+  {
+    id: "bedford-rail",
+    name: "The Depot on the Square",
+    lat: 41.3903,
+    lng: -81.5353,
+    radius: 180,
+    short: "The Ohio and Erie Canal opened past here in 1827. The Cleveland and Pittsburgh Railroad came in 1852. In February 1861, Abraham Lincoln's inaugural train passed through Bedford on that line. I will not claim he got off. The last old depot still standing was built in 1882 by the Connotton Valley, a narrow-gauge line, when the tracks crossed the public square. The line became the Cleveland and Canton in 1885, the Cleveland, Canton and Southern in 1888, the Wheeling and Lake Erie in 1899, the Nickel Plate in 1949, the Norfolk and Western in 1964, and Norfolk Southern in 1985. The depot was restored from 1987 to 1989.",
+    long: "",
+    names: ["Abraham Lincoln", "Cleveland and Pittsburgh Railroad", "Wheeling and Lake Erie Railroad"]
+  },
+  {
+    id: "bedford-viaduct",
+    name: "The Buried Arch",
+    lat: 41.3850,
+    lng: -81.5400,
+    radius: 300,
+    short: "In 1864 the railroad built a stone arch about 100 feet high over Tinker's Creek. In 1901 the line was moved and the arch was mostly buried in fill. Cleveland Metroparks and the city opened Viaduct Park on that ground in 2002. The Great Falls are in Bedford Reservation. Walking paths and overlooks are the park I can point to.",
+    long: "",
+    names: ["Viaduct Park", "Tinker's Creek"]
+  },
+  {
+    id: "bedford-broadway",
+    name: "The Alphabet Line",
+    lat: 41.3935,
+    lng: -81.5350,
+    radius: 200,
+    short: "Broadway was the Mahoning Indian Trail, then the turnpike, then Main Street. By 1895 the Akron, Bedford and Cleveland Railway ran down the middle of it. People called it the Alphabet Line. Service started November 9, 1895. At the time it was the longest electrified rail line in the world. Fifty cents took a rider from Akron to Cleveland's Public Square in about two and a half hours. The business district on this street went on the National Register in 2004.",
+    long: "",
+    names: ["Akron, Bedford and Cleveland Railroad"]
+  },
+  {
+    id: "bedford-people",
+    name: "Willard and Flick",
+    lat: 41.3928,
+    lng: -81.5358,
+    radius: 150,
+    short: "Archibald M. Willard was born here in 1836. He painted The Spirit of '76. He died in 1918. Elmer Harrison Flick was born here on January 11, 1876, played ball, and went into the Hall of Fame. Their markers are at the square. The encyclopedia also calls Bedford the home of Dr. Theodatus A. Garlick, a surgeon and scientist. I will not add a discovery I have not checked.",
+    long: "",
+    names: ["Archibald M. Willard", "Elmer Harrison Flick", "Theodatus A. Garlick"]
+  },
+  {
+    id: "bedford-war",
+    name: "The Memorials, Not a Battlefield",
+    lat: 41.3932,
+    lng: -81.5362,
+    radius: 150,
+    short: "There is no battlefield on these lots. The Civil War memorial, the World War I stone, and the World War II memorial stand at the square. Willard painted the Revolution. Lincoln's train only passed through. That is the war record.",
+    long: "",
+    names: ["Archibald M. Willard"]
+  },
+
+  {
+    id: "approach-bedford-heights",
+    name: "Bedford Heights",
+    lat: 41.4000,
+    lng: -81.4700,
+    radius: 3500,
+    layer: "approach",
+    short: "You are coming up on Bedford Heights, about 14 miles southeast of Cleveland. This was dairy farms in Bedford Township until the neighbors voted themselves a village on February 20, 1951. It became a city on January 4, 1961. About 11,000 people live here now. Interstate 271 and Interstate 480 are the roads that built the factories. If you stay on the highway, I'll start at the coffee plant.",
+    long: "",
+    names: ["Bedford Heights"]
+  },
+  {
+    id: "bedford-heights-vote",
+    name: "The Close Vote",
+    lat: 41.3944,
+    lng: -81.4806,
+    radius: 300,
+    short: "Bedford Township covered what is now Bedford, Bedford Heights, Maple Heights, Oakwood, and Walton Hills. Maple Heights left in 1915. On February 20, 1951, the rest of this ground voted to leave the township. The count was 244 to 220. The city's own history says the first mayor was Robert Williford, who beat George Burrows. Another record spells him Robert E. Willeford, and names his wife Georgina. I will not pick a spelling I cannot prove. A later vote to stay a village, and not be annexed to Bedford, passed 258 to 175.",
+    long: "",
+    names: ["Robert Williford", "Georgina Willeford", "George Burrows"]
+  },
+  {
+    id: "bedford-heights-city",
+    name: "Home Rule",
+    lat: 41.3950,
+    lng: -81.4780,
+    radius: 200,
+    short: "Voters adopted a charter on November 4, 1958. It set a mayor and a council, and it was written to carry the village up to a city. Bedford Heights became a city on January 4, 1961. The 1960 count was 5,275 people. By 1970 it was 13,063. Apartment houses went up in those years, and so did Interstate 271. The census now puts the city at about 4.5 square miles. One older account says 7. I am using the census.",
+    long: "",
+    names: ["Bedford Heights"]
+  },
+  {
+    id: "bedford-heights-farms",
+    name: "The Dairy Farms",
+    lat: 41.3920,
+    lng: -81.4850,
+    radius: 300,
+    short: "Before the village, this was the east side of Bedford Township. The encyclopedia says it was agricultural, with many dairy farms, and that the subdivisions came after the Second World War. I do not have a farmhouse I can still point at. The early Bedford names, Benedict and Dunham, belong to the square in Bedford, not to these streets.",
+    long: "",
+    names: ["Bedford Township"]
+  },
+  {
+    id: "bedford-heights-coffee",
+    name: "Mr. Coffee",
+    lat: 41.3970,
+    lng: -81.4750,
+    radius: 300,
+    short: "The factory story is Mr. Coffee. North American Systems, later Health o meter Products, made the machines in a Bedford Heights plant from 1974 to 1997. The encyclopedia says the plant employed as many as 1,500 people. Vincent Marotta and Samuel Glazer were behind the machine. I will not claim they invented it on this lot. The research arm of Jack and Heintz, a defense firm, was here too. In 1954 the village council refused a permit for a DuPont chemical bottling plant after the neighbors objected. The interstate exits, in the 1970s, brought the rest of the warehouses.",
+    long: "",
+    names: ["North American Systems", "Vincent Marotta", "Samuel Glazer", "Jack and Heintz"]
+  },
+  {
+    id: "bedford-heights-memorial",
+    name: "The Holocaust Memorial",
+    lat: 41.4010,
+    lng: -81.5120,
+    radius: 400,
+    short: "The landmark I can name is the Kol Israel Foundation Holocaust Memorial, in Zion Memorial Park. It was dedicated on May 28, 1961. In 2022 it was recognized as a national memorial. I do not have a battlefield in this city. This stone is the war record.",
+    long: "",
+    names: ["Kol Israel Foundation"]
+  },
+  {
+    id: "bedford-heights-native",
+    name: "No Village Name",
+    lat: 41.3930,
+    lng: -81.4820,
+    radius: 250,
+    short: "I do not have a native village name on these lots. The Mahoning trail is the old road through Bedford, to the west. I will not drag it onto a 1951 suburb to fill the card.",
+    long: "",
+    names: ["Bedford Heights"]
+  },
+  {
+    id: "bedford-heights-war",
+    name: "No Battlefield",
+    lat: 41.3940,
+    lng: -81.4790,
+    radius: 200,
+    short: "There is no fort and no battlefield here. The city was not even a village until 1951. Jack and Heintz did defense work, and the memorial in the cemetery names the people murdered in Europe. That is as far as the record goes.",
+    long: "",
+    names: ["Bedford Heights"]
+  },
+
+  {
+    id: "approach-beechwood-trails",
+    name: "Beechwood Trails",
+    lat: 40.0180,
+    lng: -82.6200,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Beechwood Trails, on State Route 16 between Columbus and Newark. It is not a city. It is a subdivision in Harrison Township, Licking County, with a Pataskala zip code. About 3,300 people live in the census place. The houses started in the 1970s. If you stay on the highway, I'll start at the pool.",
+    long: "",
+    names: ["Beechwood Trails"]
+  },
+  {
+    id: "beechwood-trails-houses",
+    name: "Nine Hundred Houses",
+    lat: 40.0261,
+    lng: -82.6342,
+    radius: 400,
+    short: "The houses were built in phases, most of them from the 1970s through the 1990s, with more lots filled in after 2000. A 2022 count put the subdivision at about 900 homes. State Route 16 is the southeast edge. State Route 310 is the west edge. Pataskala, the railroad town, borders the south and the west. I will not move Pataskala's plat onto these streets. In 2000 the census counted 2,258 people here. In 2020 it counted 3,276.",
+    long: "",
+    names: ["Beechwood Trails"]
+  },
+  {
+    id: "beechwood-trails-pool",
+    name: "The Pool That Almost Closed",
+    lat: 40.0280,
+    lng: -82.6400,
+    radius: 200,
+    short: "The landmark is a seven-acre park and a pool. The pool opened in the 1970s for the people who lived here. A homeowners association kept it until the mid-1990s, then dissolved. A nonprofit took the park and opened it to the public. In August 2019 the pump broke, and the nonprofit could not pay to replace it. The pool was going to close for good. Ashley Campbell and Michael Nicholas and their neighbors took the board. The shutdown in 2020 gave them a year to fix it, because they were not paying to run a closed pool. It reopened. That is the story this place actually has.",
+    long: "",
+    names: ["Ashley Campbell", "Michael Nicholas"]
+  },
+  {
+    id: "beechwood-trails-roads",
+    name: "The Newark Road",
+    lat: 40.0200,
+    lng: -82.6280,
+    radius: 300,
+    short: "State Route 16 runs 14 miles east to Newark and 20 miles west to Columbus. State Route 310 runs north to Johnstown and south through Pataskala to Interstate 70. I do not have a railroad on these lots. The old line is in Pataskala, two miles south. I will not drag it up here.",
+    long: "",
+    names: ["State Route 16"]
+  },
+  {
+    id: "beechwood-trails-native",
+    name: "No Village Name",
+    lat: 40.0300,
+    lng: -82.6360,
+    radius: 250,
+    short: "I do not have a native village name on these lots. The great earthworks are in Newark, 14 miles east. I will not move them onto a 1970s subdivision.",
+    long: "",
+    names: ["Beechwood Trails"]
+  },
+  {
+    id: "beechwood-trails-war",
+    name: "No Battlefield",
+    lat: 40.0265,
+    lng: -82.6320,
+    radius: 200,
+    short: "There is no fort and no battlefield here. This ground was not a town until the houses came. I will not invent a fight.",
+    long: "",
+    names: ["Beechwood Trails"]
+  },
+
+  {
+    id: "approach-bellaire",
+    name: "Bellaire",
+    lat: 40.0300,
+    lng: -80.7450,
+    radius: 3000,
+    layer: "approach",
+    short: "You are coming up on Bellaire, on the Ohio River in Belmont County, just downstream from Wheeling. Jacob Davis built a cabin on McMahon Creek in 1802. The 1834 plat was Bell Air, after the Maryland home he had left. The railroad renamed it Bellaire. About 3,900 people live here now. They called it the Glass City. If you stay on the river road, I'll start at the glass plant.",
+    long: "",
+    names: ["Bellaire"]
+  },
+  {
+    id: "bellaire-plat",
+    name: "Bell Air",
+    lat: 40.0162,
+    lng: -80.7423,
+    radius: 250,
+    short: "Jacob Davis's cabin, 1802, stood on the north bank of McMahon Creek. In 1834 he and John Rodefer laid out the lots and called the place Bell Air, for Davis's home in Maryland. One account says Davis's son drew the plat. The county history says the spelling drifted to Bellair, one word. On August 30, 1852, Colonel John H. Sullivan, George B. Wright, and John Welch bought the Harris farm. They surveyed a new town in 1854. The first lots sold on November 14. Moses Sarchett, a director of the Central Ohio Railroad, and a Frenchman from the island of Guernsey, suggested Bellaire. He kept the double L and changed the ending. The old Davis lots became Old Bellaire. The village incorporated in 1860. The city incorporated in 1873.",
+    long: "",
+    names: ["Jacob Davis", "John Rodefer", "John H. Sullivan", "Moses Sarchett"]
+  },
+  {
+    id: "bellaire-rail",
+    name: "The Stone Viaduct",
+    lat: 40.0180,
+    lng: -80.7480,
+    radius: 300,
+    short: "The Central Ohio Railroad reached here in 1853 and was later taken into the Baltimore and Ohio. Colonel Sullivan campaigned for the river crossing. The stone viaduct that carried the trains over to Wheeling opened in 1871. The railroad is what turned Bell Air into Bellaire. Coal from the hills, John Fink's banks south of McMahon Creek, and later Jacob Heatherington's drift mines, fired the mills and the locomotives. Natural gas was burned here in 1873.",
+    long: "",
+    names: ["Central Ohio Railroad", "Baltimore and Ohio Railroad", "John Fink"]
+  },
+  {
+    id: "bellaire-glass",
+    name: "The Glass City",
+    lat: 40.0141,
+    lng: -80.7431,
+    radius: 250,
+    short: "The first flint-glass works was the Belmont Glass Company, in 1866. A Wheeling directory listed five glass factories here in 1874, eight in 1880, and fourteen in 1890. Tableware, window glass, bottles, and lantern chimneys. They called Bellaire the Glass City. Imperial Glass was organized in 1901 by Edward Muhleman, a river man and financier. The city gave the company land to stay. The furnaces were lit on January 23, 1904, and the plant was called the largest glass factory under one roof in the world. It made pressed tableware, including the Candlewick pattern. The Big I closed in 1984. The building was torn down in 1995. The state marker stands at Belmont Street and 32nd Street.",
+    long: "",
+    names: ["Edward Muhleman", "Imperial Glass Company", "Belmont Glass Company"]
+  },
+  {
+    id: "bellaire-jack",
+    name: "The House That Jack Built",
+    lat: 40.0120,
+    lng: -80.7400,
+    radius: 200,
+    short: "Jacob Heatherington mined coal in these hills. The local telling is that his mule, Jack, hauled the materials for Heatherington's house, and that when the house was done Heatherington led Jack through every room to show him what they had built. That story is repeated without a solid citation. I will not swear to the mule. I will swear to the coal.",
+    long: "",
+    names: ["Jacob Heatherington"]
+  },
+  {
+    id: "bellaire-war",
+    name: "The River Border",
+    lat: 40.0150,
+    lng: -80.7500,
+    radius: 300,
+    short: "During the Civil War this bank of the Ohio faced Virginia, which had voted to leave the Union. West Virginia became a state in 1863. The railroad bridge mattered. I do not have a battle fought on these lots. A war memorial stands at 34th and Guernsey. The line on it is, And these our dead in honored glory rest. It was put up in 1977. It is a stone, not a battlefield.",
+    long: "",
+    names: ["Bellaire"]
+  },
+  {
+    id: "bellaire-native",
+    name: "No Village Name",
+    lat: 40.0100,
+    lng: -80.7380,
+    radius: 250,
+    short: "I do not have a native village name on these lots. The Ohio is the old road. Grave Creek Mound is across the river in West Virginia, not on this bank. I will not move it.",
+    long: "",
+    names: ["Ohio River"]
+  },
+  {
+    id: "bellaire-road",
+    name: "The National Road Is North",
+    lat: 40.0200,
+    lng: -80.7460,
+    radius: 200,
+    short: "The National Road crossed the Ohio at Wheeling, north of here. Bellaire's roads were the river and the railroad, not that pike. I will not put the National Road on this street.",
+    long: "",
+    names: ["National Road"]
+  },
+
+  {
+    id: "approach-bellbrook",
+    name: "Bellbrook",
+    lat: 39.6420,
+    lng: -84.1100,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Bellbrook, in Sugarcreek Township, Greene County, south of Dayton. The plat was recorded on February 10, 1816. They almost named it Opdykeville, or Clanceyville. It is Stephen Bell's name and Little Sugar Creek. About 7,000 people live here. It became a city in 1974. If you stay on the highway, I'll start at the tavern.",
+    long: "",
+    names: ["Bellbrook"]
+  },
+  {
+    id: "bellbrook-name",
+    name: "Not Opdykeville",
+    lat: 39.6376,
+    lng: -84.0883,
+    radius: 200,
+    short: "Josiah Grover, the Greene County recorder, entered the plat of the Town of Bellbrook on February 10, 1816. The other names on the table were Opdykeville and Clanceyville. They took Stephen Bell, one of the proprietors, and the Little Sugar Creek that runs through town. A post office called Bell Brook opened in 1817. The name became one word, Bellbrook, in 1895.",
+    long: "",
+    names: ["Stephen Bell", "Josiah Grover"]
+  },
+  {
+    id: "bellbrook-tavern",
+    name: "Clancey's House",
+    lat: 39.6380,
+    lng: -84.0870,
+    radius: 150,
+    short: "James Clancey opened the first tavern in 1816. His cabin had already become the busy spot in town. He called the Clancey House a publick house of entertainment. The other early trade was hogs. Thousands were driven to slaughterhouses near the village, butchered, packed, and hauled by wagon to Cincinnati.",
+    long: "",
+    names: ["James Clancey"]
+  },
+  {
+    id: "bellbrook-springs",
+    name: "The Magnetic Well",
+    lat: 39.6365,
+    lng: -84.0900,
+    radius: 200,
+    short: "In 1882 Andrew Byrd was digging a well and hit a strong vein of water. The local telling is that a trowel dipped in it became magnetized, and so did other pieces of steel. Byrd opened a sanatorium at Magnetic Springs and claimed the water could treat all manner of disease. I will not claim the water cured anyone. I will tell you what they said.",
+    long: "",
+    names: ["Andrew Byrd"]
+  },
+  {
+    id: "bellbrook-traction",
+    name: "The Traction Car",
+    lat: 39.6370,
+    lng: -84.0860,
+    radius: 180,
+    short: "A traction car ran through Bellbrook. I have the photograph and not the company name, so I will not invent the railroad. Little Sugar Creek is the water I can point at. The Little Miami is west of town. I will not move it onto this street.",
+    long: "",
+    names: ["Little Sugar Creek"]
+  },
+  {
+    id: "bellbrook-city",
+    name: "City in 1974",
+    lat: 39.6390,
+    lng: -84.0920,
+    radius: 250,
+    short: "Bellbrook stayed a village for a long time. In 1970 it annexed a large piece of western Sugarcreek Township, and the count went over 5,000. That made it a city in 1974. More than a thousand houses followed. The county says it still has no local income tax. The ground left to build on is mostly out in the township now, not inside the city.",
+    long: "",
+    names: ["Bellbrook"]
+  },
+  {
+    id: "bellbrook-native",
+    name: "No Village Name",
+    lat: 39.6350,
+    lng: -84.0850,
+    radius: 200,
+    short: "I do not have a native village name on these lots. This is Shawnee country in the broader valley. The towns people mean when they say that are on the Little Miami, not on this 1816 plat. I will not move them.",
+    long: "",
+    names: ["Bellbrook"]
+  },
+  {
+    id: "bellbrook-war",
+    name: "No Battlefield",
+    lat: 39.6385,
+    lng: -84.0890,
+    radius: 150,
+    short: "There is no fort and no battlefield on these lots. The county's war is elsewhere. I will not invent one to fill the card.",
+    long: "",
+    names: ["Bellbrook"]
+  },
+
+  {
+    id: "approach-bellefontaine",
+    name: "Bellefontaine",
+    lat: 40.3804,
+    lng: -83.7550,
+    radius: 3000,
+    layer: "approach",
+    short: "You are coming up on Bellefontaine. They say it Bell Fountain. It is the seat of Logan County. The name is French for beautiful spring. The plat was filed on March 20, 1820. About 14,000 people live here. Campbell Hill, inside the city, is the highest point in Ohio. If you stay on the highway, I'll start at the concrete street.",
+    long: "",
+    names: ["Bellefontaine"]
+  },
+  {
+    id: "bellefontaine-plat",
+    name: "Beautiful Spring",
+    lat: 40.3614,
+    lng: -83.7599,
+    radius: 200,
+    short: "Logan County was formed in 1818. Bellefontaine was laid out on March 20, 1820, and made the county seat. The legislature incorporated it in 1835. It was recognized as a city in 1902. The name points at the springs. John Gunn had a tavern near the old McKee's town by 1797, before this plat. I will not pretend the springs are still a fountain you can drink from on the square.",
+    long: "",
+    names: ["John Gunn"]
+  },
+  {
+    id: "bellefontaine-bluejacket",
+    name: "Blue Jacket's Town",
+    lat: 40.3630,
+    lng: -83.7580,
+    radius: 300,
+    short: "The county timeline says the Shawnee war chief Blue Jacket had a town on this ground. It gives two dates, 1760 and 1777, and they do not agree. The Treaty of Greenville was signed in 1795. I will not pick a year, and I will not swear the house sites have been found. The local museum tells it as his town. That is the native record I have.",
+    long: "",
+    names: ["Blue Jacket"]
+  },
+  {
+    id: "bellefontaine-rail",
+    name: "The Big Four",
+    lat: 40.3620,
+    lng: -83.7620,
+    radius: 250,
+    short: "The Mad River and Lake Erie Railroad reached Bellefontaine in 1847. Later this was a terminal of the Big Four, the Cleveland, Cincinnati, Chicago and St. Louis. A fire destroyed the Big Four depot in 1946. The trains that stop the town now are CSX, passing through. During the Second World War a canteen here served soldiers on those trains.",
+    long: "",
+    names: ["Mad River and Lake Erie Railroad", "Big Four Railroad"]
+  },
+  {
+    id: "bellefontaine-concrete",
+    name: "The First Concrete Street",
+    lat: 40.3612,
+    lng: -83.7596,
+    radius: 120,
+    short: "George W. Bartholomew patented a wet method for Portland cement. In 1890 he saw horses cut an asphalt street in Philadelphia and thought his concrete would hold. In 1891 the city let him pour an eight-foot strip on Main Street, in front of the Logan County Courthouse, where the horses were hitched. It held. In the summer of 1893 his Buckeye Portland Cement Company paved the four streets around the square. He had to post a five-thousand-dollar bond in case it failed in five years. Main Street is asphalt now. Court Avenue, on the south side of the courthouse, still has that concrete. It went on the National Register in 1974. There is a statue of Bartholomew beside it.",
+    long: "",
+    names: ["George W. Bartholomew"]
+  },
+  {
+    id: "bellefontaine-campbell",
+    name: "Campbell Hill",
+    lat: 40.3703,
+    lng: -83.7192,
+    radius: 400,
+    short: "Campbell Hill is 1,550 feet, the highest point in Ohio, and it is inside the city. Solomon Hoge first deeded the land in 1830. Settlers called it Hogue's Hill, which may be a misspelling of his name. Charles D. Campbell bought it in 1898, and the hill took his name. In 1950 the government bought 57 and a half acres and put the 664th Aircraft Control and Warning Squadron on top. Indian Lake, made a state park in 1898, is not this hill. It is north of town.",
+    long: "",
+    names: ["Solomon Hoge", "Charles D. Campbell"]
+  },
+  {
+    id: "bellefontaine-people",
+    name: "Hearses and a Theater",
+    lat: 40.3605,
+    lng: -83.7590,
+    radius: 180,
+    short: "The A. J. Miller Company started here in 1853. It built horse carriages, then automobiles, hearses, and ambulances. The Holland Theatre opened in 1931, closed in 1998, and reopened in 2019. The county history says the Underground Railroad was active in Logan County from about 1830 to 1850. I will not point at a house I have not checked.",
+    long: "",
+    names: ["A. J. Miller"]
+  },
+  {
+    id: "bellefontaine-war",
+    name: "No Battlefield on the Square",
+    lat: 40.3618,
+    lng: -83.7605,
+    radius: 150,
+    short: "The county timeline lists the War of 1812 and does not give me a battle on these lots. Blue Jacket's fight is the earlier war, and I have already said the dates do not agree. The radar station on Campbell Hill is the Second World War's leftover. I will not invent a battlefield to fill the card.",
+    long: "",
+    names: ["Bellefontaine"]
+  },
+
+  {
+    id: "approach-bellevue",
+    name: "Bellevue",
+    lat: 41.2800,
+    lng: -82.8200,
+    radius: 3000,
+    layer: "approach",
+    short: "You are coming up on Bellevue, on the line between Huron and Sandusky counties. Settlers from New York called the crossroads Amsden Corners in 1815. A railroad engineer named the station Bellevue. The French means beautiful view. About 8,200 people live here. It was a division point on the Nickel Plate. If you stay on the highway, I'll start at the museum.",
+    long: "",
+    names: ["Bellevue"]
+  },
+  {
+    id: "bellevue-name",
+    name: "Amsden Corners",
+    lat: 41.2756,
+    lng: -82.8418,
+    radius: 200,
+    short: "Thomas Amsden opened the first store in 1823, in a log building that stayed the gathering place for years. The post office of 1828 was York Cross Roads. In the mid-1830s James H. Bell, a civil engineer on the Mad River and Lake Erie Railroad, named the new station Bellevue. One account says the name pointed at him. By 1836 the post office used Bellevue too. Blacksmiths, wagon shops, a flour mill, a distillery, and a tannery were the early trades.",
+    long: "",
+    names: ["Thomas Amsden", "James H. Bell"]
+  },
+  {
+    id: "bellevue-madriver",
+    name: "The Sandusky",
+    lat: 41.2707,
+    lng: -82.8404,
+    radius: 200,
+    short: "The museum dates the Mad River and Lake Erie through Bellevue to 1839. Thomas Hogg was the first engineer of its locomotive, the Sandusky. The Mad River and Nickel Plate Railroad Museum opened in 1976 at 253 Southwest Street, a bicentennial project. Henry Flagler, who later built the Florida East Coast Railroad, once lived on that ground. I will not add the years he was here. I do not have them.",
+    long: "",
+    names: ["Thomas Hogg", "Henry Flagler"]
+  },
+  {
+    id: "bellevue-nickelplate",
+    name: "The Nickel Plate Hub",
+    lat: 41.2730,
+    lng: -82.8380,
+    radius: 300,
+    short: "The Nickel Plate, the New York, Chicago and St. Louis, and the Wheeling and Lake Erie came through in 1882. The Pennsylvania came in 1891. Bellevue was a hub and a division point on the Nickel Plate's line from Buffalo to Chicago. That road ran until 1964, when it merged into the Norfolk and Western. The extra tracks are why the town jumped by several thousand people before 1900.",
+    long: "",
+    names: ["Nickel Plate Road", "Wheeling and Lake Erie Railroad"]
+  },
+  {
+    id: "bellevue-caverns",
+    name: "Seneca Caverns",
+    lat: 41.2150,
+    lng: -82.8420,
+    radius: 500,
+    short: "The cave is not in town. It is four miles south, off State Route 269. In June 1872 two boys were hunting rabbits. Their dog went under a brush pile and did not come back. They dug, fell into a sinkhole, and climbed out. Names on the wall go back to that year, cut with chisels, lantern smoke, and paint. The Bell family has owned it since 1933, and it has been a public cave since then. It has been surveyed to 165 feet, and the keepers say there is more. The biggest room is on the fourth level, 65 feet down and 250 feet long. This is limestone country. The sinkholes are the ground, not a story I am inventing.",
+    long: "",
+    names: ["Seneca Caverns"]
+  },
+  {
+    id: "bellevue-firelands",
+    name: "The Firelands",
+    lat: 41.2760,
+    lng: -82.8450,
+    radius: 250,
+    short: "This part of the Western Reserve was the Firelands. Connecticut gave it to people whose towns the British burned in the Revolutionary War. That is the war record on this ground. I do not have a battlefield in Bellevue. The payment was the land.",
+    long: "",
+    names: ["Bellevue"]
+  },
+  {
+    id: "bellevue-native",
+    name: "No Village Name",
+    lat: 41.2740,
+    lng: -82.8430,
+    radius: 200,
+    short: "I do not have a native village name on these lots. The cave is called Seneca. The Seneca and the Wyandot were in this country. I will not put a town under the sinkhole just because the cave has the name.",
+    long: "",
+    names: ["Bellevue"]
+  },
+
+  {
+    id: "approach-bellville",
+    name: "Bellville",
+    lat: 40.6450,
+    lng: -82.5180,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Bellville, a village in Richland County, on the Clear Fork, south of Mansfield. James McCluer and Jonathan Oldfield walked here in 1808 on a path a tornado had already cleared. Robert Bell bought the land in 1815, and the village took his name. About 2,000 people live here. It incorporated in 1841. If you stay on the highway, I'll start at the bandstand.",
+    long: "",
+    names: ["Bellville"]
+  },
+  {
+    id: "bellville-tornado",
+    name: "The Tornado Path",
+    lat: 40.6280,
+    lng: -82.5200,
+    radius: 250,
+    short: "In 1808 James McCluer and Jonathan Oldfield left what is now Fredericktown and walked north about ten miles on a path a tornado had leveled. They built the first cabin on what is now Ankneytown Road. McCluer held the land. Thomas and Bridget O'Leary were among the other early settlers. A school was kept in McCluer's cabin by 1818. I will not call them the founders. The village says Robert Bell was.",
+    long: "",
+    names: ["James McCluer", "Jonathan Oldfield"]
+  },
+  {
+    id: "bellville-bell",
+    name: "Forty-Eight Lots",
+    lat: 40.6311,
+    lng: -82.5181,
+    radius: 150,
+    short: "McCluer sold the land to Robert Bell in 1815. Bell laid out Main Street, Ogle Street, and Durbin Road, and 48 lots. The first business was a tavern. The post office came in 1824. Before that, a letter meant a long ride. Church was held in houses from 1814. The Methodist Episcopal church went up in 1834. Bell and the preacher William Oldfield organized it. The village incorporated in 1841. The village says the school buildings of 1857 are still in use. I will not point at which one.",
+    long: "",
+    names: ["Robert Bell", "William Oldfield"]
+  },
+  {
+    id: "bellville-rail",
+    name: "The B and O Grade",
+    lat: 40.6330,
+    lng: -82.5150,
+    radius: 200,
+    short: "Bellville was a stop on the Baltimore and Ohio. The bike trail through town is that grade. By 1877 there was an electric plant, a flour mill on Route 97 near the trail, two hotels, the Lefevre and the Norris, and a town hall that was also the jail. Between the bandstand and 1900 the village had two blacksmiths, two harness shops, a hardware store, a bakery, four groceries, two barbers, dentists, a doctor, and the Exchange Bank.",
+    long: "",
+    names: ["Baltimore and Ohio Railroad"]
+  },
+  {
+    id: "bellville-bandstand",
+    name: "The Bandstand",
+    lat: 40.6315,
+    lng: -82.5175,
+    radius: 100,
+    short: "The bandstand in the middle of the village was built in 1879, and it is still there. The town hall of 1877 was for meetings and for locking people up. That is the public square I can point at.",
+    long: "",
+    names: ["Bellville"]
+  },
+  {
+    id: "bellville-gold",
+    name: "Dead Man's Run",
+    lat: 40.6250,
+    lng: -82.5100,
+    radius: 300,
+    short: "The village says it was a gold-rush town, and that gold was found at a place called Dead Man's Run. I do not have the year, the weight, or a mine that paid. Ohio gold stories usually end that way. I will tell you the name they use. I will not tell you they got rich.",
+    long: "",
+    names: ["Dead Man's Run"]
+  },
+  {
+    id: "bellville-native",
+    name: "No Village Name",
+    lat: 40.6300,
+    lng: -82.5220,
+    radius: 200,
+    short: "I do not have a native village name on these lots. The Clear Fork runs to the Mohican. This is Delaware and Shawnee country in the broader valley. I will not move a town from up the river onto Bell's 48 lots.",
+    long: "",
+    names: ["Clear Fork"]
+  },
+  {
+    id: "bellville-war",
+    name: "No Battlefield",
+    lat: 40.6320,
+    lng: -82.5190,
+    radius: 150,
+    short: "There is no fort and no battlefield on these lots. The jail in the town hall is the only lockup I can name. I will not invent a fight.",
+    long: "",
+    names: ["Bellville"]
+  },
+
+  {
+    id: "approach-belmont",
+    name: "Belmont",
+    lat: 40.0400,
+    lng: -81.0410,
+    radius: 2000,
+    layer: "approach",
+    short: "You are coming up on Belmont, a village in Goshen Township, in the middle of Belmont County. Joseph Wright laid it out in 1808 and called it Wrightstown. They changed the name hoping to get the county seat. St. Clairsville kept it. About 400 people live here, on a quarter of a square mile. The railroad is gone. If you stay on the highway, I'll start at the name.",
+    long: "",
+    names: ["Belmont"]
+  },
+  {
+    id: "belmont-wrightstown",
+    name: "Wrightstown",
+    lat: 40.0281,
+    lng: -81.0408,
+    radius: 150,
+    short: "Belmont County was formed on September 7, 1801, the ninth county in what became Ohio. The first seat was Pultney, south of Bellaire. In April 1804 the seat moved to St. Clairsville. Four years later Joseph Wright laid out Wrightstown. The name was changed to Belmont in hope of taking the courthouse. St. Clairsville already had it, and kept it. The village never became the seat.",
+    long: "",
+    names: ["Joseph Wright"]
+  },
+  {
+    id: "belmont-rail",
+    name: "The B and O Cut",
+    lat: 40.0275,
+    lng: -81.0395,
+    radius: 150,
+    short: "The Baltimore and Ohio cut through the village until the line was taken up in the 1980s. The count tells you what that meant. In 1980, 714 people lived here. In 1990, 471. In 2020, 414. I will not invent a coal mine on these lots. This is coal country, and the railroad was how the coal left. The mine I cannot name, I will not name.",
+    long: "",
+    names: ["Baltimore and Ohio Railroad"]
+  },
+  {
+    id: "belmont-drovers",
+    name: "The Drover's Trail",
+    lat: 40.0290,
+    lng: -81.0420,
+    radius: 150,
+    short: "The village is listed on the old Drover's Trail, the ridge paths that cattle were walked over in this county. I do not have a count of the herds, or a tavern receipt. I will not invent one. The trail is the record I have.",
+    long: "",
+    names: ["Belmont"]
+  },
+  {
+    id: "belmont-district",
+    name: "The Historic District",
+    lat: 40.0285,
+    lng: -81.0415,
+    radius: 100,
+    short: "There is a Belmont Historic District. I will not name a building I have not checked. The village is small enough that the district is the landmark.",
+    long: "",
+    names: ["Belmont"]
+  },
+  {
+    id: "belmont-barkcamp",
+    name: "Barkcamp Is North",
+    lat: 40.0350,
+    lng: -81.0410,
+    radius: 400,
+    short: "Barkcamp State Park is about a mile north of the village. It is not inside the corporation. The public land is the park. The village is the houses.",
+    long: "",
+    names: ["Barkcamp State Park"]
+  },
+  {
+    id: "belmont-national-road",
+    name: "Not the National Road",
+    lat: 40.0280,
+    lng: -81.0380,
+    radius: 120,
+    short: "The National Road in this county starts at Bridgeport and runs to Fairview. Ground was broken for it in Ohio on July 4, 1825, in St. Clairsville, near the courthouse. That is not this street. This village's road was the railroad.",
+    long: "",
+    names: ["National Road"]
+  },
+  {
+    id: "belmont-native",
+    name: "No Village Name",
+    lat: 40.0270,
+    lng: -81.0430,
+    radius: 120,
+    short: "I do not have a native village name on these lots, and I do not have a battlefield. The county's war stories are on the river and on the National Road, not in Wright's plat. I will not move them.",
+    long: "",
+    names: ["Belmont"]
+  },
+
 
 
 

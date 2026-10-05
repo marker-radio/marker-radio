@@ -49658,6 +49658,109 @@ const STORIES = [
     names: ["Zane Grey", "Cass Gilbert"]
   },
 
+  {
+    id: "approach-aberdeen",
+    name: "Aberdeen",
+    lat: 38.671709,
+    lng: -83.770866,
+    radius: 6000,
+    layer: "approach",
+    short: "You are coming up on Aberdeen. Brown County river town, across from Maysville. This is where Zane's Trace met the Ohio. If you drop into town, I'll start at the marker on U.S. 52.",
+    long: "",
+    names: ["Aberdeen"]
+  },
+  {
+    id: "aberdeen-marker",
+    name: "Zane's Trace terminus",
+    lat: 38.654167,
+    lng: -83.757983,
+    radius: 800,
+    short: "The historical marker on U.S. 52 at Main Cross says it plain. Founded 1816. Ohio River terminus of Zane's Trace, the first continuous road through Ohio. Ebenezer Zane's road came from Wheeling and ended on this bank in 1798. The ferry finished the trip. A second marker with the same words stands up the road at Huntington Park.",
+    long: "",
+    names: ["Ebenezer Zane", "Zane's Trace"]
+  },
+  {
+    id: "aberdeen-founding",
+    name: "Aberdeen",
+    lat: 38.671709,
+    lng: -83.770866,
+    radius: 1000,
+    short: "James Edwards is credited with a settlement here in 1795. Nathan Ellis, born in Wales, platted the town on July 5, 1816, and named it for Aberdeen, Scotland. The plat was recorded a week later, while this ground was still in Adams County. He was the first justice of the peace. A later account says the village was not incorporated until the Beasley additions were finished in 1850. The marker keeps the year 1816.",
+    long: "",
+    names: ["James Edwards", "Nathan Ellis"]
+  },
+  {
+    id: "aberdeen-river",
+    name: "Ohio River",
+    lat: 38.650500,
+    lng: -83.760000,
+    radius: 1000,
+    short: "The Ohio is why the town sits on this narrow bottom. Water Street and Ferry Street face the bend. The ferry to Maysville was the business before either bridge. Floods in 1907 and 1913 damaged the bottom. The 1937 flood was the one that wrecked houses and shops. The town stayed.",
+    long: "",
+    names: ["Ohio River"]
+  },
+  {
+    id: "aberdeen-bridge",
+    name: "Simon Kenton Memorial Bridge",
+    lat: 38.649933,
+    lng: -83.759626,
+    radius: 900,
+    short: "The Simon Kenton Memorial Bridge opened on November 25, 1931. Modjeski and Masters designed the suspension span, and it put the steam ferry out of work. Tolls lasted until 1945. Kenton was the frontiersman of this crossing. He is not buried here. The William H. Harsha Bridge, the cable-stayed span beside it, opened in 2001 and took the heavier trucks. People still say the old bridge was painted green in the Second World War so planes would miss it.",
+    long: "",
+    names: ["Simon Kenton", "William H. Harsha"]
+  },
+  {
+    id: "aberdeen-ellis",
+    name: "Nathan Ellis",
+    lat: 38.671709,
+    lng: -83.770866,
+    radius: 900,
+    short: "Nathan Ellis was born in Wales in 1749 and came to America as a baby. He bought this land, platted the town, ran the ferry, and died in 1819. He is buried on the hill overlooking Aberdeen. The plat and the ferry are his. The river is the view from the grave.",
+    long: "",
+    names: ["Nathan Ellis"]
+  },
+  {
+    id: "aberdeen-gretna",
+    name: "Gretna Green",
+    lat: 38.652000,
+    lng: -83.759000,
+    radius: 900,
+    short: "For years this was called the Gretna Green of the Ohio Valley. Couples ran here because a squire on this bank would marry them. Thomas Shelton did it, then Massie Beasley. Beasley's son ran a ferry named Gretna Green. Six short blasts on the whistle meant a couple was coming. The squire would not perform the marriage until the boat touched Ohio. Parents left on the Kentucky shore could not stop it. The night watchman made more money renting skiffs than the boat made on freight.",
+    long: "",
+    names: ["Thomas Shelton", "Massie Beasley"]
+  },
+  {
+    id: "aberdeen-mills",
+    name: "Quarries and mills",
+    lat: 38.653000,
+    lng: -83.761000,
+    radius: 900,
+    short: "The 1883 county history says this riverbank had stone quarries and good building stone. In 1844 William Parker and William Carpenter put up a steam mill on the bank below Market Street. It did not pay, and they took it down and moved it to Kentucky. In 1881 T. B. Fulton and Elijah Davis built the Ohio Valley Mill. There was no railroad in the village. The river, the ferry, and the pike did the hauling. The Aberdeen and Zanesville pike, the local piece of the old trace, was macadamized in 1840, 1841, and 1842.",
+    long: "",
+    names: ["William Parker", "William Carpenter", "T. B. Fulton", "Elijah Davis"]
+  },
+  {
+    id: "aberdeen-native",
+    name: "The river road",
+    lat: 38.650000,
+    lng: -83.760000,
+    radius: 1000,
+    short: "This bottom is an old river road. People were on the Ohio long before Ellis platted a street. The 1883 history of Huntington Township says evidence of the mound builders showed up along these streams. There is no marked mound in the village square, so I will not invent one. The landing across from Limestone was a crossing the Shawnee and the settlers both used. The buffalo trace is on the Kentucky side.",
+    long: "",
+    names: ["Shawnee"]
+  },
+  {
+    id: "aberdeen-veterans",
+    name: "Veterans memorial",
+    lat: 38.657000,
+    lng: -83.756000,
+    radius: 800,
+    short: "Aberdeen has a veterans memorial for the men and women of the village and Huntington Township who served in war and in peace. A second marker nearby is dedicated to the veterans of all wars. This was a border town in the Civil War. The ferry kept running. There is no battle I can put on these streets.",
+    long: "",
+    names: ["Huntington Township"]
+  }
+
+
 
 
 

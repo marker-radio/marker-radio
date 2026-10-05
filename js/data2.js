@@ -530,6 +530,101 @@ STORIES.push(
     names: ["Bay View"]
   },
   
+  {
+    id: "approach-bay-village",
+    name: "Bay Village",
+    lat: 41.4840,
+    lng: -81.9550,
+    radius: 4500,
+    layer: "approach",
+    short: "You are coming up on Bay Village, four and a half square miles of lakeshore at the west edge of Cuyahoga County. Joseph Cahoon stopped his wagon here on October 10, 1810. It was Dover Township then, the Village of Bay in 1903, and a city in 1950. The voters picked the name Bay Village in 1951. If you stay on the highway, I'll start at Cahoon Creek.",
+    long: "",
+    names: ["Bay Village"]
+  },
+  {
+    id: "bay-village-cahoon",
+    name: "Lot 95",
+    lat: 41.4885,
+    lng: -81.9260,
+    radius: 250,
+    short: "Two Connecticut men, Hubbard and Stowe, bought this township for about $32,000 and named it Dover after Dover, Connecticut. They never came. Joseph Cahoon did. He was a miller from Vergennes, Vermont, born in Rhode Island in 1762. He had looked at this shore in 1799 and wrote his wife Lydia about it. On the morning of October 10, 1810, he, Lydia, and their children stopped at the mouth of a creek on Lot 95, north of what is now Lake Road. They had a log cabin up in four days. That same afternoon Asahel Porter, his family, and 17-year-old Leverett Johnson arrived from New York and claimed Lot 94, next door. The creek is Cahoon Creek.",
+    long: "",
+    names: ["Joseph Cahoon", "Lydia Cahoon", "Asahel Porter", "Leverett Johnson"]
+  },
+  {
+    id: "bay-village-mill",
+    name: "The Mill and the Guns",
+    lat: 41.4878,
+    lng: -81.9245,
+    radius: 200,
+    short: "On September 10, 1813, the Cahoons raised the first gristmill west of the Cuyahoga River. The same day they heard the guns of Oliver Hazard Perry's fleet off Put-in-Bay. The battle was not on this beach. The mill was. Cahoon later built a sawmill. In 1818 he and his son Joel built the frame house, Rose Hill. The family stayed in that house until 1917. It was the library until 1960. It is the Rose Hill Museum now.",
+    long: "",
+    names: ["Joseph Cahoon", "Joel Cahoon", "Oliver Hazard Perry", "Rose Hill"]
+  },
+  {
+    id: "bay-village-fruit",
+    name: "Peaches and the Nets",
+    lat: 41.4865,
+    lng: -81.9220,
+    radius: 400,
+    short: "Cahoon planted apple and peach seed the first year. When the trees grew, he built a distillery and made peach brandy. He also invented a cotton compress, a tie-buckle machine, a one-horse grape hoe, and a shingle machine. Fishing on this shore was a real trade until late in the 1800s. Vineyards and apple and peach orchards were the other one. I will not name a railroad on these lots. The record I have is the lake, the orchards, and the mill.",
+    long: "",
+    names: ["Joseph Cahoon"]
+  },
+  {
+    id: "bay-village-ida",
+    name: "Cahoon Memorial Park",
+    lat: 41.4848,
+    lng: -81.9225,
+    radius: 300,
+    short: "Ida Marie Cahoon was Joseph's granddaughter and the last of the family. In 1917 her will left the house and 115 acres to the mayor and council, in trust, to be used forever as a park and named Cahoon Memorial Park. The barn the family built in 1882 is the Community House. Huntington Reservation is the other public shore here, the Metroparks beach on the same lake. The family land is the park in the middle of town.",
+    long: "",
+    names: ["Ida Marie Cahoon", "Cahoon Memorial Park"]
+  },
+  {
+    id: "bay-village-city",
+    name: "North Dover",
+    lat: 41.4835,
+    lng: -81.9200,
+    radius: 400,
+    short: "Bay Village and Westlake were both Dover Township, formed in 1803, the year Cuyahoga County was formed. Landowners wanted their own government. In 1901 they forced an election and the hamlet of Bay split from the township. The Village of Bay was incorporated on May 1, 1903, and elected a mayor and council. People also called it North Dover. It became a city on January 1, 1950, with 6,917 residents. A 1951 ballot made the name Bay Village.",
+    long: "",
+    names: ["Bay Village", "Dover Township"]
+  },
+  {
+    id: "bay-village-trail",
+    name: "Lake Road",
+    lat: 41.4895,
+    lng: -81.9280,
+    radius: 500,
+    short: "Before the Cahoon wagon, the Erie lived on this shore and the shore around it. The encyclopedia of this county says present-day Lake Road was their most important trail. I will not invent a village name to put on Lot 95. The trail is the road you are on if you are driving the lake.",
+    long: "",
+    names: ["Erie", "Lake Road"]
+  },
+  {
+    id: "bay-village-war",
+    name: "No Battle on These Lots",
+    lat: 41.4855,
+    lng: -81.9180,
+    radius: 300,
+    short: "There is no fort and no battlefield on these lots. The war these people heard was September 10, 1813, Perry's guns at Put-in-Bay, while they raised a mill. After the Civil War, Cleveland families built summer cottages on this shoreline. The fighting was somewhere else. This was the beach they came to after it.",
+    long: "",
+    names: ["Oliver Hazard Perry"]
+  },
+  {
+    id: "bay-village-sheppard",
+    name: "The Lake Road House",
+    lat: 41.4888,
+    lng: -81.9105,
+    radius: 200,
+    short: "On July 4, 1954, Marilyn Sheppard was beaten to death in the bedroom of her house on Lake Road. Her husband, Dr. Samuel Sheppard, said a bushy-haired intruder did it. A jury convicted him that December. In 1966 the Supreme Court threw the conviction out for prejudicial publicity, in Sheppard v. Maxwell. A second jury acquitted him. The courts never proved the intruder, and they did not leave the first verdict standing. The town still carries the story. I will not tell you he did it, and I will not tell you he did not.",
+    long: "",
+    names: ["Marilyn Sheppard", "Samuel Sheppard"]
+  },
+
+
+
+
 
 
 

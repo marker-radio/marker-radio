@@ -49534,6 +49534,37 @@ const STORIES = [
     long: "",
     names: ["James W. Denver"]
   },
+  {
+    id: "approach-wooster-wayne",
+    name: "Wooster",
+    lat: 40.8051,
+    lng: -81.9351,
+    radius: 8000,
+    layer: "approach",
+    short: "You are coming up on Wooster, the Wayne County seat. Three men laid it out in 1808 and named it for a Revolutionary general. The college is on the hill. The square is the county. If you drop in, I'll start with the survey.",
+    long: "",
+    names: ["Wooster"]
+  },
+  {
+    id: "wooster-larwill",
+    name: "Madison Hill",
+    lat: 40.8051,
+    lng: -81.9351,
+    radius: 500,
+    short: "In 1808 John Bever, William Henry, and Joseph Larwill established the town and named it for Major General David Wooster, killed in the Revolution in 1777. Joseph was surveying the county into sections for the government, under Bever. His brother John, born September 27, 1792, in Deptford, in Kent, came through in 1807 at about fifteen, with provisions on a horse. He stayed a week at William's camp on what is now Madison Hill, then went back to Columbiana County. Their father, W.C. Larwill, had been postmaster at Fawcettstown, now East Liverpool, and moved here in 1814. The county library credits Joseph as the first surveyor, and says John planted the first corn in the county, and the first timothy.",
+    long: "",
+    names: ["John Bever", "Joseph Larwill", "John Larwill", "William Henry"]
+  },
+  {
+    id: "wooster-station",
+    name: "Charles Thorne",
+    lat: 40.8051,
+    lng: -81.9351,
+    radius: 700,
+    short: "Farming stayed the main work. In 1841 about a fifth of the county still listed agriculture as the job. In 1892 the Ohio Agricultural Experiment Station moved here from Columbus. Charles Thorne, the first full-time director, wanted it out of the university's politics. That station is the farm-science campus at the edge of town now. The College of Wooster was already on the hill. This is the other school, the one that belongs to the fields.",
+    long: "",
+    names: ["Charles Thorne"]
+  },
 
 
 

@@ -48488,6 +48488,48 @@ const STORIES = [
     names: ["Sammy Kaye", "Herb Score", "Vernon Stouffer", "Louis B. Seltzer"]
   },
 
+  {
+    id: "rome-city-rail",
+    name: "The Grand Rapids and Indiana",
+    lat: 41.4925,
+    lng: -85.3719,
+    radius: 700,
+    short: "Millard Fillmore Owen saw Sylvan Lake as a resort, not only a canal reservoir. The Grand Rapids and Indiana Railroad sent its first train through Rome City in 1870. Hotels, a grist mill, and a woolen mill followed the train. The Chautauqua came after that.",
+    long: "",
+    names: ["Millard Fillmore Owen", "Grand Rapids and Indiana Railroad"]
+  },
+  {
+    id: "rome-city-dam",
+    name: "Three times the dam failed",
+    lat: 41.4992,
+    lng: -85.3758,
+    radius: 800,
+    short: "The earthen dam on the Elkhart River failed in 1839, before it was finished. It failed again in 1844. Three men died: Aaron Abbott, Esquire Campbell, a justice of the peace, and young Damon Campbell. They are buried in the Northport graveyard. It failed a third time in 1855. The dam that is there now is the one that stayed.",
+    long: "",
+    names: ["Aaron Abbott", "Esquire Campbell", "Damon Campbell"]
+  },
+  {
+    id: "rome-city-cabin",
+    name: "Wildflower Woods",
+    lat: 41.4760,
+    lng: -85.3496,
+    radius: 500,
+    short: "In 1884, at twenty-one, Gene Stratton met Charles Darwin Porter while vacationing on this lake. She bought the woods after the Limberlost was drained. The fourteen-room cabin went up in 1913 and 1914, on about one hundred twenty acres. She lived here until 1919. The Harvester was filmed on the grounds in 1927. The cabin went on the National Register on June 27, 1974. She had been buried in California. On April 22, 1999, she and her daughter Jeanette were brought back and buried at Wildflower Woods.",
+    long: "",
+    names: ["Charles Darwin Porter", "Jeanette Stratton-Porter"]
+  },
+  {
+    id: "rome-city-frick",
+    name: "Ford Frick",
+    lat: 41.4925,
+    lng: -85.3719,
+    radius: 500,
+    short: "Ford Frick went to high school in Rome City. From 1951 to 1965 he was the commissioner of Major League Baseball.",
+    long: "",
+    names: ["Ford Frick"]
+  },
+
+
 
 
 

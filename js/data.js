@@ -48618,6 +48618,36 @@ const STORIES = [
     long: "",
     names: ["Alan Freed"]
   },
+  {
+    id: "san-pierre-culver",
+    name: "Culvertown",
+    lat: 41.1992,
+    lng: -86.8925,
+    radius: 700,
+    short: "The older place was Culvertown, just north of the lots you drive now. A post office opened in 1853 under the name River. San Pierre was laid out in 1854. In 1855 the post office was renamed San Pierre. The postmaster was Amas Green.",
+    long: "",
+    names: ["Amas Green", "Culvertown"]
+  },
+  {
+    id: "san-pierre-name",
+    name: "Two stories about Pierre",
+    lat: 41.1992,
+    lng: -86.8925,
+    radius: 500,
+    short: "The town tells two stories, and neither one is proved. One says a French-Canadian named Pierre built a whiskey shack four hundred feet south of Culvertown, and the village slid south to the shack. The other says Pierre was a French railroad worker, and San was added to make the name sound bigger. What is on paper is the post office. In 1894, with trouble building toward Spain, the name was cut to Pierre. In 1899 it went back to San Pierre.",
+    long: "",
+    names: ["Pierre"]
+  },
+  {
+    id: "san-pierre-monon",
+    name: "The Monon",
+    lat: 41.1992,
+    lng: -86.8925,
+    radius: 700,
+    short: "The first railroad in Starke County was the New Albany and Chicago, later the Monon. It came through Culvertown in 1853. In 1881 the Indiana, Illinois and Iowa, later the New York Central, was built through San Pierre on its way to North Judson. The station sat where the two lines crossed.",
+    long: "",
+    names: ["Monon", "New York Central"]
+  },
 
 
 

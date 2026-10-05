@@ -48265,6 +48265,36 @@ const STORIES = [
     long: "",
     names: ["Benjamin Patterson", "the Arc"]
   },
+  {
+    id: "ridgeville-1846",
+    name: "Two churches",
+    lat: 41.4397,
+    lng: -84.2514,
+    radius: 400,
+    short: "The Congregational church was the first in Ridgeville Township, organized in 1846. A Methodist church stood here too. The Congregational building is the Underground Railroad stop. The record still does not name who ran it.",
+    long: "",
+    names: ["First Congregational Church"]
+  },
+  {
+    id: "ridgeville-ottes",
+    name: "The Ottes building",
+    lat: 41.4397,
+    lng: -84.2514,
+    radius: 300,
+    short: "The Ottes building went up in 1916 at US 6 and County Road X. The post office is in it now, with the other shops at the corners. The old pike is still the crossing.",
+    long: "",
+    names: ["Ottes building"]
+  },
+  {
+    id: "ridgeville-settlers",
+    name: "The 1847 names",
+    lat: 41.4397,
+    lng: -84.2514,
+    radius: 800,
+    short: "James Riley surveyed the township. The first election was April 5, 1841, and the township became one school district on June 9. An 1847 list of the oldest settlers names George and John Tubbs, Joseph Bear, J. Fenton, George Harmon, Adam Rowe, Lorenzo Higby, and Barton Palmer. Tubbsville, a second post office, was in the northeast part of the township, not at these corners.",
+    long: "",
+    names: ["James Riley", "George Tubbs", "John Tubbs", "Barton Palmer"]
+  },
 
 
 

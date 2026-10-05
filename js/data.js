@@ -49627,6 +49627,37 @@ const STORIES = [
     long: "",
     names: ["Arthur Morgan", "Coretta Scott King"]
   },
+  {
+    id: "zanesville-westbourne",
+    name: "Westbourne",
+    lat: 39.9403,
+    lng: -82.0132,
+    radius: 500,
+    short: "Congress paid Ebenezer Zane for the Trace with land, including this fork where the road met the Muskingum. In 1797 he turned that ground over to his son-in-law, John McIntire. McIntire platted it and had an inn and a ferry running by 1799. Zane wanted the name Westbourne. In 1801 it became Zanesville. Muskingum County made it the seat in 1804. It was the state capital from 1810 to 1812, and then the capital went back to Chillicothe. Columbus came later. By the War of 1812 about 1,400 people lived here. It incorporated as a village in 1814 and as a city in 1850. McIntire died in 1815. Zane had died in 1811.",
+    long: "",
+    names: ["Ebenezer Zane", "John McIntire"]
+  },
+  {
+    id: "zanesville-locks",
+    name: "The first Y",
+    lat: 39.9403,
+    lng: -82.0132,
+    radius: 400,
+    short: "The first Y-bridge went up in 1814, where the Licking meets the Muskingum. The one you see is a later bridge, from 1902. The Ohio and Erie Canal reached town in 1829. Locks and dams on the Muskingum opened in 1841 and pointed the freight east. The flood of 1913 was bad enough that Congress ordered fourteen reservoirs in the valley. They were finished in 1938. The riddle is still the same. Go to the middle of the bridge and turn.",
+    long: "",
+    names: ["Y-Bridge"]
+  },
+  {
+    id: "zanesville-grey",
+    name: "Two sons",
+    lat: 39.9403,
+    lng: -82.0132,
+    radius: 400,
+    short: "Zane Grey was born here. He was a descendant of Ebenezer, and he wrote the westerns. Cass Gilbert was born here too. He designed the Woolworth Building in New York and the United States Supreme Court. A ferry town on a fork produced a novelist and the man who drew the court's roof. The pottery came from the same clay. The names traveled farther than the dishes.",
+    long: "",
+    names: ["Zane Grey", "Cass Gilbert"]
+  },
+
 
 
 

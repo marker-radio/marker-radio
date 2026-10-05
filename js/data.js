@@ -48083,6 +48083,78 @@ const STORIES = [
     long: "",
     names: ["Robert McNaughton", "Archibald McNaughton"]
   },
+  {
+    id: "approach-remington",
+    name: "Remington",
+    lat: 40.7606,
+    lng: -87.1508,
+    radius: 7000,
+    layer: "approach",
+    short: "You are coming up on Remington. Carpenter Station first, on the prairie in Jasper County, south of Rensselaer. Grain, a water tower, and a chautauqua. If you drop in, I'll start at the creek.",
+    long: "",
+    names: ["Remington"]
+  },
+  {
+    id: "remington-carpenter",
+    name: "Carpenter Station",
+    lat: 40.7606,
+    lng: -87.1508,
+    radius: 700,
+    short: "Jesse H. Fordice laid the town out in 1860. They called it Carpenter Station, for Carpenter's Creek. In 1861 a man named Remington opened a general store in a warehouse, and the station took his name. The first board of trustees met on September 6, 1869.",
+    long: "",
+    names: ["Jesse H. Fordice", "Carpenter's Creek"]
+  },
+  {
+    id: "remington-panhandle",
+    name: "Logansport, Peoria and Burlington",
+    lat: 40.7606,
+    lng: -87.1508,
+    radius: 800,
+    short: "The depot went up in the fall of 1859, a hundred feet west of the Ohio Street crossing. Trains ran in January 1860. The line was the Logansport, Peoria and Burlington. Later it was the Pittsburgh, Chicago and St. Louis, the Panhandle. The crop was grain.",
+    long: "",
+    names: ["Logansport, Peoria and Burlington Railroad", "Pittsburgh, Chicago and St. Louis Railroad"]
+  },
+  {
+    id: "remington-elevators",
+    name: "Three elevators",
+    lat: 40.7606,
+    lng: -87.1508,
+    radius: 600,
+    short: "Church and Hartley built the first grain elevator in 1870. The Hathaway Brothers built the second in 1872. James Irvin built the third in 1879. By 1883 about nine hundred people lived here.",
+    long: "",
+    names: ["Church and Hartley", "Hathaway Brothers", "James Irvin"]
+  },
+  {
+    id: "remington-tower",
+    name: "Remington Water Tower",
+    lat: 40.7619,
+    lng: -87.1506,
+    radius: 400,
+    short: "The water tower and the town hall stand at 3 East Michigan Street. The building went on the National Register in 2003. The state marker went up in 2006.",
+    long: "",
+    names: ["Remington Water Tower"]
+  },
+  {
+    id: "remington-fountain",
+    name: "Fountain Park Chautauqua",
+    lat: 40.7789,
+    lng: -87.1583,
+    radius: 700,
+    short: "Fountain Park Chautauqua is on County Road 1600 South, just west of US 231. Summer assemblies, not a city ballfield. The marker went up in 1992. That is the park the town kept.",
+    long: "",
+    names: ["Fountain Park Chautauqua"]
+  },
+  {
+    id: "remington-names",
+    name: "Janssen and Major",
+    lat: 40.7606,
+    lng: -87.1508,
+    radius: 600,
+    short: "Frances Janssen came from here and played in the All-American Girls Professional Baseball League. George D. Major owned The Remington Press. A grain town that also sent out a ballplayer and a newspaper.",
+    long: "",
+    names: ["Frances Janssen", "George D. Major"]
+  },
+
 
 
 

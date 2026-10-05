@@ -48912,6 +48912,46 @@ const STORIES = [
     long: "",
     names: ["Chalker"]
   },
+  {
+    id: "stow-walker",
+    name: "The wrong township",
+    lat: 41.1595,
+    lng: -81.4404,
+    radius: 700,
+    short: "Joshua Stow of Middletown, Connecticut, was with Moses Cleaveland's survey party in 1796. He bought this tract, Town 3, Range 10, for $14,154, and never lived on it. William Walker arrived in 1802 and built a cabin he thought was in Hudson. In 1804 Joseph Darrow surveyed the line and found the house was in Stow. Walker bought the lot and stayed. Betsy Walker was born there in 1803. The first school in the township was held in that cabin, in 1806.",
+    long: "",
+    names: ["Joshua Stow", "William Walker", "Moses Cleaveland"]
+  },
+  {
+    id: "stow-wetmore",
+    name: "William Wetmore",
+    lat: 41.1595,
+    lng: -81.4404,
+    radius: 600,
+    short: "William Wetmore, also from Middletown, was Joshua Stow's land agent. He brought his family in June 1804. In July they built a cabin near today's Darrow Road and Kent Road. In 1808 they built again, beside a pond the Seneca were already using. People called it Wetmore Pond, then Stow Lake. Since 1874 it has been Silver Lake. Wetmore later laid out Cuyahoga Falls. The name on this town is the owner. The corners are the agent.",
+    long: "",
+    names: ["William Wetmore", "Silver Lake"]
+  },
+  {
+    id: "stow-1808",
+    name: "Stow Corners",
+    lat: 41.1595,
+    lng: -81.4404,
+    radius: 500,
+    short: "The first church met in 1806 at the home of Stephen Butler, on Kent Road. The township organized in 1808. Ezra Wyatt put up the first sawmill that year at Stow Corners, and the first tavern in 1810. The first election of officers was in 1811, back at Butler's cabin. The first burial in Stow Cemetery, in 1809, was Elizabeth Goodwin Gaylord.",
+    long: "",
+    names: ["Ezra Wyatt", "Stephen Butler"]
+  },
+  {
+    id: "stow-kelsey",
+    name: "Kelsey's mill",
+    lat: 41.1595,
+    lng: -81.4404,
+    radius: 800,
+    short: "Wetmore let Francis Kelsey and Isaac Wilcox dam the Cuyahoga and build a sawmill. The local account is that lumber from that mill went to Old Portage for boats in the War of 1812. The dam is long gone. The story is how this township ties itself to that war.",
+    long: "",
+    names: ["Francis Kelsey", "Isaac Wilcox"]
+  },
 
 
 

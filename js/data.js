@@ -47744,6 +47744,87 @@ const STORIES = [
     long: "",
     names: ["Poe Days"]
   },
+  {
+    id: "approach-poland",
+    name: "Poland",
+    lat: 41.0242,
+    lng: -80.6148,
+    radius: 7000,
+    layer: "approach",
+    short: "You are coming up on Poland. A Western Reserve village on Yellow Creek, just south of Youngstown. Fowler's Place first. If you drop in, I'll start at the stone tavern.",
+    long: "",
+    names: ["Poland"]
+  },
+  {
+    id: "poland-fowler",
+    name: "Fowler's Place",
+    lat: 41.0242,
+    lng: -80.6148,
+    radius: 1000,
+    short: "Jonathan Fowler and his family were the first to stay on Yellow Creek. The place was called Fowler's Place. Turhand Kirtland, who had surveyed with Moses Cleaveland, is credited with founding the village in 1798. Fowler built a grist mill on the creek in 1802.",
+    long: "",
+    names: ["Jonathan Fowler", "Turhand Kirtland", "Yellow Creek"]
+  },
+  {
+    id: "poland-tavern",
+    name: "Old Stone Tavern",
+    lat: 41.0235,
+    lng: -80.6128,
+    radius: 400,
+    short: "Jonathan Fowler built this stone tavern in 1804. It was his house, his store, a tavern, and a hotel at the same time. Stagecoaches between Pittsburgh and Cleveland stopped here. In 1861 William McKinley was sworn into the Union Army from the front porch, a private in the Poland Guard.",
+    long: "",
+    names: ["Old Stone Tavern", "Jonathan Fowler", "William McKinley", "Poland Guard"]
+  },
+  {
+    id: "poland-mckinley-home",
+    name: "McKinley boyhood home",
+    lat: 41.0242,
+    lng: -80.6148,
+    radius: 500,
+    short: "The McKinley house stood here. The family moved to Poland in 1852, when William was nine, so the children could attend the academy. He swam in Yellow Creek, left for college, came home sick, and worked as a postal clerk and a teacher. He came back from the war in 1865 a brevet major.",
+    long: "",
+    names: ["William McKinley"]
+  },
+  {
+    id: "poland-tarbell",
+    name: "Ida Tarbell",
+    lat: 41.0210,
+    lng: -80.6148,
+    radius: 500,
+    short: "Ida Tarbell was preceptress of Poland Seminary from 1880 to 1882. The school had started as Poland Academy in 1830. In 1862 it took the seminary name and was one of the first in this part of Ohio to admit girls on the same terms as boys. Tarbell later wrote the great investigation of Standard Oil.",
+    long: "",
+    names: ["Ida Tarbell", "Poland Seminary"]
+  },
+  {
+    id: "poland-name",
+    name: "Why Poland",
+    lat: 41.0241,
+    lng: -80.6139,
+    radius: 500,
+    short: "The marker on the green says the village was named for the country of Poland. Casimir Pulaski and Tadeusz Kosciuszko had both fought for the Revolution. Naming it for one man would slight the other, so they named it for the country. Another old story says it was simply a proprietor named George Poland.",
+    long: "",
+    names: ["Casimir Pulaski", "Tadeusz Kosciuszko"]
+  },
+  {
+    id: "poland-forest",
+    name: "Poland Municipal Forest",
+    lat: 41.0170,
+    lng: -80.6200,
+    radius: 1600,
+    short: "Poland Municipal Forest is the first town-owned forest in Ohio. Judge Rose gave about fifty acres in 1916. Grace Butler gave about a hundred and fifty in 1935, in memory of her husband. On October 14, 1938 the village made it a municipal forest. Boys later planted eighteen thousand maple trees along Yellow Creek.",
+    long: "",
+    names: ["Poland Municipal Forest", "Yellow Creek"]
+  },
+  {
+    id: "poland-church",
+    name: "Poland Presbyterian",
+    lat: 41.0242,
+    lng: -80.6148,
+    radius: 400,
+    short: "Poland Presbyterian was gathered in 1802 by William Wick and Joseph Badger, on the green. The church and the cemetery are older than the tavern by two years. This is the Western Reserve pattern. A green, a church, then a mill.",
+    long: "",
+    names: ["Poland Presbyterian Church", "William Wick", "Joseph Badger"]
+  },
 
 
 

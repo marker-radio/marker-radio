@@ -2517,6 +2517,634 @@ STORIES.push(
     long: "",
     names: ["Bethesda"]
   },
+  {
+    id: "approach-beverly",
+    name: "Beverly",
+    lat: 39.5350,
+    lng: -81.6300,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Beverly, a village in Washington County, on a bend of the Muskingum, between Marietta and McConnelsville. Routes 60, 83, and 339 meet here. The Ohio Company landed at this bend in 1789. The post office dates from 1838. About 1,230 people live here. If you stay on the highway, I'll start at the landing.",
+    long: "",
+    names: ["Beverly"]
+  },
+  {
+    id: "beverly-landing",
+    name: "Tuttle's Run",
+    lat: 39.5500,
+    lng: -81.6361,
+    radius: 200,
+    short: "On April 20, 1789, nineteen men of the Ohio Company's second association came up the Muskingum from Marietta and landed at Tuttle's Run. They started settlements on both banks. This side became Beverly. The other side is Waterford. A local account calls it the third permanent settlement in the Northwest Territory, after Marietta and Belpre. Captain John Dodge had come up looking for a place to put a gristmill. The town is named for Beverly, Massachusetts, his home. One account dates the formal village to 1831. The mail starts in 1838. I will not mash those years into one.",
+    long: "",
+    names: ["John Dodge"]
+  },
+  {
+    id: "beverly-frye",
+    name: "Fort Frye",
+    lat: 39.5480,
+    lng: -81.6400,
+    radius: 250,
+    short: "In January 1791, settlers were killed at Big Bottom, upriver from here. The people on this bend built Fort Frye that year. The stockade people point to stands at Waterford, on the other bank, not on Ferry Street. It covered both sides. I will not move the Big Bottom killings down to this village, and I will not put the fort on the wrong shore.",
+    long: "",
+    names: ["Fort Frye"]
+  },
+  {
+    id: "beverly-river",
+    name: "The Lock and the Mills",
+    lat: 39.5510,
+    lng: -81.6340,
+    radius: 180,
+    short: "The Muskingum was the road. Locks and dams let boats pass the bends. There is a lock at Beverly. I will not give it a number I have not locked. A local account says the town once ran a foundry, molasses presses, feed mills, a planer mill, a woolen mill, and its own power plant, on water from the river. The Presbyterian church still stands at Ferry and Fourth. I will not invent the year it was built.",
+    long: "",
+    names: ["Beverly"]
+  },
+  {
+    id: "beverly-opera",
+    name: "The Odd Fellows' Opera House",
+    lat: 39.5495,
+    lng: -81.6355,
+    radius: 120,
+    short: "The same local account says there was an opera house on the second floor of the Odd Fellows hall, and that a wild-west show wintered here and kept its animals on a farm. I do not have the show's name. The museum points to a cabin it calls the oldest of its kind left from the Northwest Territory. I will not name the cabin.",
+    long: "",
+    names: ["Beverly"]
+  },
+  {
+    id: "beverly-native",
+    name: "No Village Name",
+    lat: 39.5470,
+    lng: -81.6380,
+    radius: 150,
+    short: "I do not have a native village name on this bend. The Muskingum was a road long before Dodge's mill. I will not invent a town at Tuttle's Run.",
+    long: "",
+    names: ["Muskingum River"]
+  },
+  {
+    id: "beverly-war",
+    name: "Not Rokeby",
+    lat: 39.5520,
+    lng: -81.6330,
+    radius: 150,
+    short: "On July 23, 1863, John Hunt Morgan crossed the Muskingum farther up, at Rokeby Lock, near McConnelsville. There was a shooting at a tavern there, and a soldier was killed. That is not this bend. I will not bring Morgan's whiskey line down to Beverly.",
+    long: "",
+    names: ["John Hunt Morgan"]
+  },
+
+  {
+    id: "approach-bexley",
+    name: "Bexley",
+    lat: 39.9600,
+    lng: -82.9200,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Bexley. They say it bex-lee. It is a city in Franklin County, on Alum Creek, east of Columbus. Main Street is the National Road, and it cuts the city in two. Bullitt Park was on the north side. Pleasant Ridge was on the south. They joined in 1908. About 13,900 people live here. If you stay on the highway, I'll start at the terrace.",
+    long: "",
+    names: ["Bexley"]
+  },
+  {
+    id: "bexley-name",
+    name: "The Terrace",
+    lat: 39.9690,
+    lng: -82.9380,
+    radius: 180,
+    short: "Early in the summer of 1908, 144 people from the two neighborhoods met on the terrace of Robert Jeffrey's house, at the northwest corner of North Parkview and Clifton. The south side wanted the name Pleasantridge. The north side wanted something else. Colonel Lincoln Kilbourne offered Bexley, a parish in Kent, England, near his family's old home. It is not a county. The village was incorporated on June 13, 1908. The first council sat on August 10. One account puts that meeting in the mansion. Another puts it in a recitation hall at the university. Frank Holtzman was mayor. I will not lock his middle initial. The clerk was George Frye. The treasurer was Lewis H. Schuh. They banned cattle on the village land, public drunkenness, assault, shooting off guns, and slaughterhouses.",
+    long: "",
+    names: ["Lincoln Kilbourne", "Frank Holtzman"]
+  },
+  {
+    id: "bexley-capital",
+    name: "Capital University",
+    lat: 39.9580,
+    lng: -82.9370,
+    radius: 200,
+    short: "The south side grew up around Capital University. The school was founded in Columbus about 1850. The accounts differ by a year. It moved out here to East Main in the mid-1870s. Those accounts differ by a year too. Professors built houses and sent their children to Pleasant Ridge School. Trinity Lutheran Seminary is here with the university. The Bexley school district dates from 1917. Pleasant Ridge had incorporated its own association in 1907, south of what was then Town Street and is now Bryden Road. Neither side had enough people to stand alone, and neither wanted to be swallowed by Columbus.",
+    long: "",
+    names: ["Capital University"]
+  },
+  {
+    id: "bexley-jeffrey",
+    name: "Kelveden",
+    lat: 39.9700,
+    lng: -82.9375,
+    radius: 150,
+    short: "The house was finished in 1905 for Robert H. Jeffrey. His father, Joseph A. Jeffrey, founded the Jeffrey Manufacturing Company in Columbus, which built machinery for coal mines. Robert was vice president. He had already been mayor of Columbus, the thirty-fifth, and he started that job at twenty-nine. The house is also called Kelveden. It is a park now. The city's official residence for the governor of Ohio is in Bexley too. I will not name the first owner of that house. I have not locked it. The city likes to call itself an arboretum for the trees. I will not certify that it is the only one.",
+    long: "",
+    names: ["Robert H. Jeffrey", "Joseph A. Jeffrey"]
+  },
+  {
+    id: "bexley-bushnell",
+    name: "Camp Bushnell",
+    lat: 39.9720,
+    lng: -82.9350,
+    radius: 200,
+    short: "In 1898, for the Spanish-American War, Governor Asa Bushnell put a camp at Broad and Drexel. About 8,000 Ohio volunteers mustered there for three weeks, bound for Cuba. The sewer and water lines built for the soldiers stayed in the ground, and that is part of why the lots filled in. There was no battle here. It was a camp.",
+    long: "",
+    names: ["Asa Bushnell"]
+  },
+  {
+    id: "bexley-city",
+    name: "Seven Thousand",
+    lat: 39.9650,
+    lng: -82.9400,
+    radius: 150,
+    short: "Bullitt Park, inside the old Refugee Tract, had been laid out as house lots by April 1891. The Refugee Tract was land for people who came down from Canada after siding with the Revolution. By the 1930 census Bexley had 7,396 people. A charter city government started on January 1, 1932. An interurban ran along the National Road. I will not name the company.",
+    long: "",
+    names: ["Bexley"]
+  },
+  {
+    id: "bexley-native",
+    name: "Alum Creek",
+    lat: 39.9680,
+    lng: -82.9450,
+    radius: 200,
+    short: "I do not have a native village name on this stretch of Alum Creek. The creek is the old line. The Refugee Tract is a later American grant. I will not invent a town under Bullitt Park. There is a Holocaust memorial in the city. I will not invent the story on the stone.",
+    long: "",
+    names: ["Alum Creek"]
+  },
+  {
+    id: "bexley-war",
+    name: "No Battlefield",
+    lat: 39.9660,
+    lng: -82.9360,
+    radius: 120,
+    short: "There is no fort and no battlefield in Bexley. Camp Bushnell was a muster ground for a war fought in Cuba. I will not invent a fight on Bryden Road.",
+    long: "",
+    names: ["Bexley"]
+  },
+
+  {
+    id: "approach-blanchester",
+    name: "Blanchester",
+    lat: 39.2920,
+    lng: -84.0100,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Blanchester, a village in Clinton County, with a piece of it over the line in Warren County. Joseph and John Blancett laid it out. The plat was recorded on March 23, 1832. It is the only town in the world with this name. About 4,200 people live here. If you stay on the highway, I'll start at the twenty-four lots.",
+    long: "",
+    names: ["Blanchester"]
+  },
+  {
+    id: "blanchester-plat",
+    name: "Twenty-Four Lots",
+    lat: 39.2922,
+    lng: -83.9858,
+    radius: 150,
+    short: "The original plat was twenty-four lots. Twenty-three of them were four poles by eight poles, which is 66 feet by 132. Lot 15 was a little smaller. Broadway ran northwest and southeast. Main ran northeast and southwest. The town is named for the Blancetts. The local society puts that plat in the southwest corner of Marion Township. The county's own list says Jefferson Township. I will not pick. Wilson's Run and Second Creek wrap the town on three sides and meet at the east edge.",
+    long: "",
+    names: ["Joseph Blancett", "John Blancett"]
+  },
+  {
+    id: "blanchester-additions",
+    name: "The Depot Ground",
+    lat: 39.2935,
+    lng: -83.9840,
+    radius: 180,
+    short: "John Baldwin added lots on December 15, 1832, and again on July 9, 1834. The Blancetts had the original plat resurveyed on July 13, 1835. Christopher Lazenby's addition, September 3, 1851, is the one that matters for the railroad. It took in the depot ground, and Railroad, Depot, Lazenby, Walnut, Mill, Church, Fancy, Pearl, and Bourbon streets. He added outlots on September 19. Wilfred Cusick platted Center Street on October 8, 1851. William H. Baldwin added Grove and Wright streets on November 16, 1855. The county commissioners incorporated the town on March 6, 1865. They extended it on August 9, 1873. Anshutz and Patterson's addition, February 2, 1874, took in the school lot and Clark, High, and Columbus streets. I will not name the railroad company. The depot ground is in the 1851 plat. That is what I can lock.",
+    long: "",
+    names: ["Christopher Lazenby"]
+  },
+  {
+    id: "blanchester-brown",
+    name: "Clarence Brown",
+    lat: 39.2910,
+    lng: -83.9865,
+    radius: 120,
+    short: "Clarence J. Brown is the person the lists attach to this town. He published a newspaper, sat in Congress, and served as lieutenant governor and as Ohio's secretary of state. The Odd Fellows cemetery is here. The historical society recorded the stones. In March 2020 the Bindley Block, an old commercial building, burned. The public library is still open.",
+    long: "",
+    names: ["Clarence J. Brown"]
+  },
+  {
+    id: "blanchester-native",
+    name: "The Two Creeks",
+    lat: 39.2900,
+    lng: -83.9800,
+    radius: 200,
+    short: "I do not have a native village name where Wilson's Run meets Second Creek. I will not invent one under the twenty-four lots.",
+    long: "",
+    names: ["Wilson's Run"]
+  },
+  {
+    id: "blanchester-war",
+    name: "No Battlefield",
+    lat: 39.2940,
+    lng: -83.9870,
+    radius: 120,
+    short: "There is no fort and no battlefield in Blanchester. I will not borrow a fight from Wilmington to fill Main Street.",
+    long: "",
+    names: ["Blanchester"]
+  },
+
+  {
+    id: "approach-bloomdale",
+    name: "Bloomdale",
+    lat: 41.1720,
+    lng: -83.5300,
+    radius: 2000,
+    layer: "approach",
+    short: "You are coming up on Bloomdale, a village in Bloom Township, Wood County, in the old Black Swamp. The name is not a person. It is a compliment. They named it for bloom. The stone on North Maple says the railroad of 1874 and the natural gas of 1886 made the town. About 665 people live here, on two-thirds of a square mile. If you stay on the highway, I'll start at the argument over the year.",
+    long: "",
+    names: ["Bloomdale"]
+  },
+  {
+    id: "bloomdale-plat",
+    name: "1852 or 1874",
+    lat: 41.1717,
+    lng: -83.5533,
+    radius: 150,
+    short: "The published sketch says the village was platted in 1852, when the Baltimore and Ohio came through. The centennial stone, at 104 North Maple, just north of Railroad Street, says something else. It says Jonathan W. Myers made the first plat in 1874, and it spells his name Jonathon. The post office opened that same year. I will not mash 1852 and 1874 into one story. The stone also says the first mayor, A. B. Probert, was elected in 1888. Another account dates the incorporation to 1887. Those two can both be true. A vote can follow a charter by a year.",
+    long: "",
+    names: ["Jonathan W. Myers", "A. B. Probert"]
+  },
+  {
+    id: "bloomdale-gas",
+    name: "The Gas",
+    lat: 41.1705,
+    lng: -83.5520,
+    radius: 180,
+    short: "The stone dates the gas to 1886. The census shows what the gas did. There were 130 people in 1880, 419 in 1890, and 740 in 1900. Then it slipped. The railroad account names the Baltimore and Ohio. The stone only says the railroad. I will not add a well, a company, or a pressure I have not locked.",
+    long: "",
+    names: ["Bloomdale"]
+  },
+  {
+    id: "bloomdale-post",
+    name: "The Post Office Closed",
+    lat: 41.1710,
+    lng: -83.5530,
+    radius: 80,
+    short: "The mail ran from 1874 until March 2019. The building on Main Street is the former post office. That is the landmark you can still see. I will not invent what is in it now.",
+    long: "",
+    names: ["Bloomdale"]
+  },
+  {
+    id: "bloomdale-native",
+    name: "No Village Name",
+    lat: 41.1690,
+    lng: -83.5550,
+    radius: 150,
+    short: "I do not have a native village name on this piece of the Black Swamp. The swamp was drained for the railroad and the gas. I will not invent a town under Maple Street.",
+    long: "",
+    names: ["Bloomdale"]
+  },
+  {
+    id: "bloomdale-war",
+    name: "No Battlefield",
+    lat: 41.1730,
+    lng: -83.5510,
+    radius: 120,
+    short: "There is no fort and no battlefield in Bloomdale. Fort Meigs is on the Maumee, not here. I will not move it.",
+    long: "",
+    names: ["Bloomdale"]
+  },
+
+  {
+    id: "approach-bloomingburg",
+    name: "Bloomingburg",
+    lat: 39.5900,
+    lng: -83.3950,
+    radius: 2000,
+    layer: "approach",
+    short: "You are coming up on Bloomingburg, a village in Paint Township, Fayette County, on the East Fork of Paint Creek. Solomon Bowers laid it out in 1815. The story they tell about the name is the flowers in the women's yards. About 880 people live here. If you stay on the highway, I'll start at Bowers.",
+    long: "",
+    names: ["Bloomingburg"]
+  },
+  {
+    id: "bloomingburg-bowers",
+    name: "Solomon Bowers",
+    lat: 39.6081,
+    lng: -83.3953,
+    radius: 150,
+    short: "The stone at Main and Cross says founded in 1815 by Solomon Bowers. One county account says he came from Ross County that same year and platted the town in November, and that people had called the place the New Purchase before that. A Methodist class was meeting here by 1813, before the lots. The post office has been open since 1819. The flower story is a tradition. I do not have it in the plat. A later account dates the incorporation to 1847. I will not treat that year as tightly as 1815.",
+    long: "",
+    names: ["Solomon Bowers"]
+  },
+  {
+    id: "bloomingburg-academy",
+    name: "The Academy",
+    lat: 39.6075,
+    lng: -83.3945,
+    radius: 120,
+    short: "The same stone says this was the site of one of Ohio's first academies. It does not give the school's name, so I will not invent one. The Presbyterian church was organized on March 7, 1818. That church is the building the later marker puts at the center of the town's other work.",
+    long: "",
+    names: ["Bloomingburg"]
+  },
+  {
+    id: "bloomingburg-urr",
+    name: "Fifty-Two Members",
+    lat: 39.6070,
+    lng: -83.3970,
+    radius: 150,
+    short: "On May 27, 1835, the Fayette County Anti-Slavery Society organized here, with 52 members. Colonel James Stewart of this place was at one time a vice president of the Ohio Anti-Slavery Society. The marker on Main Street says the Bloomingburg area was one of the most active links in southwestern Ohio, and that the Presbyterian church was the center of it. It says as many as twelve to sixteen people seeking freedom were said to have been passed through at one time. Said to have. I will not turn that into a count I watched. The families it names as station keepers are the Fullertons, Dickeys, Usticks, Steeles, Edwardses, Stewarts, Alexanders, and Gillespies.",
+    long: "",
+    names: ["James Stewart"]
+  },
+  {
+    id: "bloomingburg-creek",
+    name: "The East Fork",
+    lat: 39.6050,
+    lng: -83.3980,
+    radius: 200,
+    short: "The road they used was the East Fork of Paint Creek. The marker lists the links around this valley: Chillicothe, Frankfort, Good Hope, Greenfield, Roxabel, South Salem, and Washington Court House, which is only a few miles south. I will not name a railroad. I do not have one locked for this village.",
+    long: "",
+    names: ["Paint Creek"]
+  },
+  {
+    id: "bloomingburg-native",
+    name: "No Village Name",
+    lat: 39.6040,
+    lng: -83.3920,
+    radius: 150,
+    short: "I do not have a native village name on this fork of Paint Creek. I will not invent one under the academy.",
+    long: "",
+    names: ["Paint Creek"]
+  },
+  {
+    id: "bloomingburg-war",
+    name: "No Battlefield",
+    lat: 39.6100,
+    lng: -83.3960,
+    radius: 150,
+    short: "There is no fort and no battlefield in Bloomingburg. There is a veterans' flagpole on Main and a war memorial toward the cemetery. The fight that belongs to this town is the one the anti-slavery society took up in 1835, and the houses that passed people north. I will not invent a skirmish on Cross Street.",
+    long: "",
+    names: ["Bloomingburg"]
+  },
+
+  {
+    id: "approach-bloomville",
+    name: "Bloomville",
+    lat: 41.0650,
+    lng: -83.0140,
+    radius: 2000,
+    layer: "approach",
+    short: "You are coming up on Bloomville, a village near the center of Bloom Township, in southern Seneca County, about eight miles southeast of Tiffin. A settlement was here by 1822. James Durbin surveyed the lots in 1837. About 870 people live here. If you stay on the highway, I'll start at the plat.",
+    long: "",
+    names: ["Bloomville"]
+  },
+  {
+    id: "bloomville-plat",
+    name: "Durbin's Survey",
+    lat: 41.0514,
+    lng: -83.0136,
+    radius: 150,
+    short: "Durbin made the survey in 1837 for Philip Price and for Julius and Thomas Treat. The village sits on the old Marion State Road. An 1891 county review calls it a station on the Northwestern Ohio Railroad. I will not rename that line. The same book says there was little manufacturing, that the trade was in goods, and that stone quarries here hired crews in season. It also claims about a thousand people. The 1890 census said 758. I will take the census.",
+    long: "",
+    names: ["James Durbin", "Philip Price"]
+  },
+  {
+    id: "bloomville-incorp",
+    name: "1871 or 1874",
+    lat: 41.0520,
+    lng: -83.0125,
+    radius: 120,
+    short: "The 1891 review says the village was organized as a corporation in August 1871. The later township booklet says it was not until 1874. That account is specific. A petition of 112 residents went to the commissioners by John Andrews and Albert Goetz. On August 22, 1874, they were given permission to organize. The first election was in 1875. Jacob Hossler was mayor. I will not mash 1871 and 1874. The later account names the petition. The earlier one does not.",
+    long: "",
+    names: ["Jacob Hossler"]
+  },
+  {
+    id: "bloomville-fire",
+    name: "November 5, 1889",
+    lat: 41.0505,
+    lng: -83.0145,
+    radius: 120,
+    short: "On November 5, 1889, the village had a major fire. I do not have a list of what burned, so I will not invent the block. By 1891 there was a brick school of four rooms, about 200 pupils, and four churches. There were lodges of Odd Fellows, Masons, and Knights of Pythias, and a post of the Grand Army of the Republic. Republic, five miles north, was the Baltimore and Ohio station. An old transcription calls that road the Baltic and Ohio. I will not create a railroad named the Baltic.",
+    long: "",
+    names: ["Bloomville"]
+  },
+  {
+    id: "bloomville-creeks",
+    name: "Silver Creek",
+    lat: 41.0480,
+    lng: -83.0100,
+    radius: 200,
+    short: "Silver Creek rises in Crawford County, comes into Bloom Township at the southeast corner, and falls into Honey Creek just after it enters Eden Township. The old account says three young men, walking from Mansfield toward Tiffin, named Silver Creek for how clear the water was, and named Honey Creek for the color of the other stream. Three sawmills and a gristmill once stood on Silver Creek, with water enough to turn them more than three months of the year. Those mills were on the creek. I will not put them on Marion Street.",
+    long: "",
+    names: ["Silver Creek", "Honey Creek"]
+  },
+  {
+    id: "bloomville-native",
+    name: "No Village Name",
+    lat: 41.0490,
+    lng: -83.0160,
+    radius: 150,
+    short: "The county carries the Seneca name. I do not have a native village on this ground. I will not invent one under Durbin's lots.",
+    long: "",
+    names: ["Bloomville"]
+  },
+  {
+    id: "bloomville-war",
+    name: "No Battlefield",
+    lat: 41.0530,
+    lng: -83.0130,
+    radius: 100,
+    short: "There is no fort and no battlefield in Bloomville. The Grand Army post means the men who came home from the Civil War organized here. I will not invent a fight on the Marion road.",
+    long: "",
+    names: ["Bloomville"]
+  },
+
+  {
+    id: "approach-bolivar",
+    name: "Bolivar",
+    lat: 40.6500,
+    lng: -81.4700,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Bolivar. They say it bol-iv-er, to rhyme with Oliver, not like the South American name. It is the northernmost village in Tuscarawas County, on the Tuscarawas River. The town was named for Simón Bolívar. The fort a short walk away was named for a different man, Henry Laurens. The village was established in 1825 and platted in 1830, for the Ohio and Erie Canal. The 2010 count was 994. If you stay on the highway, I'll start at the river.",
+    long: "",
+    names: ["Bolivar", "Simón Bolívar"]
+  },
+  {
+    id: "bolivar-shingas",
+    name: "Shingas Town",
+    lat: 40.6480,
+    lng: -81.4550,
+    radius: 250,
+    short: "In 1752 the Delaware leader Shingas had a village called Shingas Town in the general vicinity of this place. General vicinity. I will not drop a pin on a house lot and call it his. In 1764, on Bouquet's march, fortified storehouses were ordered in this same stretch of valley. Those are not the fort you can walk.",
+    long: "",
+    names: ["Shingas"]
+  },
+  {
+    id: "bolivar-laurens",
+    name: "Fort Laurens",
+    lat: 40.6389,
+    lng: -81.4561,
+    radius: 200,
+    short: "This is the only fort the Americans built inside what is now Ohio during the Revolution. In October 1778 Brigadier General Lachlan McIntosh left Pittsburgh with about 1,200 men, aiming at the Wyandot towns on the Sandusky and, past them, Detroit. He stopped on the west bank of the Tuscarawas. Work started on November 18. Most of it was up in about ten days. It was a four-sided stockade, with bastions, a blockhouse by the land gate, a storehouse, and barracks. He named it for Henry Laurens, then president of Congress. In December he went back to Pittsburgh and left Colonel John Gibson, 19 officers, and 152 men of the 13th Virginia Regiment. The site history says he left on December 9, with about 150 men. I will not sand those numbers down to one.",
+    long: "",
+    names: ["Lachlan McIntosh", "John Gibson", "Henry Laurens"]
+  },
+  {
+    id: "bolivar-siege",
+    name: "The Unknown Patriot",
+    lat: 40.6395,
+    lng: -81.4555,
+    radius: 120,
+    short: "British and native forces besieged the fort for several weeks in the winter of 1779. The village account says 21 American soldiers died. The fort was ordered abandoned in August 1779. Nothing of the original work stands above ground. The outline of the southwest bastion is marked on the grass. The Tomb of the Unknown Patriot, inside a circular path, holds one of those soldiers. The museum is on the grounds. The Gibler family bought the land in 1853 and plowed the fort flat. The state bought it back in 1917.",
+    long: "",
+    names: ["Fort Laurens"]
+  },
+  {
+    id: "bolivar-canal",
+    name: "Evans's Mill",
+    lat: 40.6505,
+    lng: -81.4540,
+    radius: 150,
+    short: "The village's own history says the Ohio and Erie Canal made the town, and that the short-lived Sandy and Beaver Canal, headed toward Pittsburgh, made Bolivar a shipping point. Farmers waited in wagon lines a mile long to put grain into horse-powered elevators at the mill of James F. Evans. That mill is still on Canal Street. It is rented as offices. When the railroad took the freight, the village says the growth slowed. I will not name the railroad. The mule towpath is a trail now, part of the Ohio and Erie Canalway. Zoar is down the river. That is a different town, and I will not tell its story here.",
+    long: "",
+    names: ["James F. Evans"]
+  },
+  {
+    id: "bolivar-native",
+    name: "The River They Knew",
+    lat: 40.6450,
+    lng: -81.4520,
+    radius: 200,
+    short: "Shingas Town is the native place I can name, and only as a vicinity. The siege was not a one-sided story. The people holding the west bank were also holding a river the Delaware already used. I will not invent a second village to fill the gap.",
+    long: "",
+    names: ["Shingas"]
+  },
+  {
+    id: "bolivar-war",
+    name: "One Fort, Then Nothing",
+    lat: 40.6420,
+    lng: -81.4530,
+    radius: 150,
+    short: "The war here is 1778 and 1779. There is no later battlefield in Bolivar. I will not borrow a Civil War fight from another canal town.",
+    long: "",
+    names: ["Bolivar"]
+  },
+
+  {
+    id: "approach-boston-heights",
+    name: "Boston Heights",
+    lat: 41.2530,
+    lng: -81.4800,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Boston Heights, a village in northern Summit County, on the ridge above the Cuyahoga. It is not Boston Mills. That older town is down in the valley, inside the national park. This one pulled itself out of Boston Township and incorporated in 1924. About 1,400 people live on nearly seven square miles. If you stay on the highway, I'll start at the paper township.",
+    long: "",
+    names: ["Boston Heights"]
+  },
+  {
+    id: "boston-heights-1924",
+    name: "A Township on Paper",
+    lat: 41.2533,
+    lng: -81.5017,
+    radius: 200,
+    short: "In 1924 the village incorporated and left Boston Township by creating a paper township called Boston Heights Township. A paper township is a legal shape, so the village could stand on its own. The census I will use starts in 1930, at 309 people. There is a stray count of 130 attached to 1880. I will not treat that as this village. The village threw a hundred-year party on September 9, 2023, at Matthews-Thomas Park. That is a year early if you count from 1924. I will not force the arithmetic.",
+    long: "",
+    names: ["Boston Heights"]
+  },
+  {
+    id: "boston-heights-motel",
+    name: "The Man Without a Government",
+    lat: 41.2550,
+    lng: -81.4950,
+    radius: 200,
+    short: "In 1965 a motel owner inside the village wanted a liquor license that Summit County would only give on unincorporated ground. He talked the council into detaching his lot for a little while, so it became an island of the paper township, long enough to get the license, and then it was supposed to come back. A year later it had not come back. He was, for that stretch, the only resident in Ohio with no local government. The village, the county, and the state were all confused about who he belonged to. I do not have his name, or the motel's. I will not invent them.",
+    long: "",
+    names: ["Boston Heights"]
+  },
+  {
+    id: "boston-heights-ranney",
+    name: "The Ranney House",
+    lat: 41.2500,
+    lng: -81.5050,
+    radius: 150,
+    short: "The landmark the photographs use is the Luther B. Ranney farmhouse. I will not invent the year it was built, or what Ranney did. The headquarters of Arhaus, the furniture company, is in the village. That is a new fact, not an old one.",
+    long: "",
+    names: ["Luther B. Ranney"]
+  },
+  {
+    id: "boston-heights-valley",
+    name: "Not Boston Mills",
+    lat: 41.2480,
+    lng: -81.5100,
+    radius: 250,
+    short: "Down the hill, Boston was settled by the surveyor James Stanford in 1806. A mill went up about 1821. The Ohio and Erie Canal arrived in 1827. By 1850 the valley town had a broom factory, a brewery, a brickyard, a gristmill, a sawmill, and boat yards. The Valley Railway came in 1880. The stories people tell about Helltown, the empty houses the park bought and later tore down, belong to that valley, not to this ridge. I will not drag the canal up onto Hines Hill.",
+    long: "",
+    names: ["Boston"]
+  },
+  {
+    id: "boston-heights-native",
+    name: "No Village Name",
+    lat: 41.2570,
+    lng: -81.5000,
+    radius: 200,
+    short: "I do not have a native village name on this ridge. The Cuyahoga and the portage are below, in the valley. I will not invent a town under the turnpike.",
+    long: "",
+    names: ["Boston Heights"]
+  },
+  {
+    id: "boston-heights-war",
+    name: "No Battlefield",
+    lat: 41.2520,
+    lng: -81.4980,
+    radius: 150,
+    short: "There is no fort and no battlefield in Boston Heights. I will not borrow one from the valley to fill the ridge.",
+    long: "",
+    names: ["Boston Heights"]
+  },
+
+  {
+    id: "approach-botkins",
+    name: "Botkins",
+    lat: 40.4580,
+    lng: -84.2000,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Botkins, a village at the north edge of Shelby County, just south of Auglaize County, on Interstate 75 at Exit 104. It was platted in 1858 as Botkinsville, for Richard Botkin, who had just died. About 1,155 people live here. If you stay on the highway, I'll start at the right of way.",
+    long: "",
+    names: ["Botkins"]
+  },
+  {
+    id: "botkins-richard",
+    name: "A Mile of Railroad",
+    lat: 40.4581,
+    lng: -84.1820,
+    radius: 180,
+    short: "Richard Botkin was born in Hamilton County on September 25, 1803. In 1832 he brought his family to Shelby County, got a land grant, and farmed and dealt in stock until he died on April 29, 1858. Before he died he made a deal with the Dayton and Michigan Railroad. He would give them a mile of right of way through his land if they put a station where he and his neighbors could use it. His will asked that a town be platted in his name.",
+    long: "",
+    names: ["Richard Botkin"]
+  },
+  {
+    id: "botkins-plat",
+    name: "Botkinsville",
+    lat: 40.4575,
+    lng: -84.1830,
+    radius: 150,
+    short: "In July 1858 his son Russell Botkin had the town surveyed and chartered as Botkinsville. The original plat was twelve numbered lots along the south side of Railroad Street, which is now West State Street, plus a one-acre Monger lot and a half-acre Botkin lot. I will not invent who Monger was. A post office called Botkins has been open since 1877. The village incorporated on August 2, 1881.",
+    long: "",
+    names: ["Russell Botkin"]
+  },
+  {
+    id: "botkins-shelby-house",
+    name: "The Shelby House",
+    lat: 40.4570,
+    lng: -84.1845,
+    radius: 80,
+    short: "In 1865 Phillip Sheets built the Shelby House Hotel for passengers off the Dayton and Michigan. It stands just west of the tracks on West State Street. It is one of two buildings in the village on the National Register. I will not name the other one. I do not have it. The historical society, formed in 1975, keeps its museum in the hotel. They started another renovation in 2016.",
+    long: "",
+    names: ["Phillip Sheets"]
+  },
+  {
+    id: "botkins-native",
+    name: "North of the Line",
+    lat: 40.4600,
+    lng: -84.1800,
+    radius: 200,
+    short: "The society says there is evidence people were on this ground 12,000 years ago. I will not invent the site or the people. Botkin arrived in 1832, which the society calls shortly after the land north of the Greenville Treaty line was opened. The line itself is the 1795 treaty. I do not have a native village name under the twelve lots.",
+    long: "",
+    names: ["Botkins"]
+  },
+  {
+    id: "botkins-war",
+    name: "No Battlefield",
+    lat: 40.4590,
+    lng: -84.1810,
+    radius: 120,
+    short: "There is no fort and no battlefield in Botkins. The Greenville line is a boundary, not a fight that happened on State Street. I will not move one here.",
+    long: "",
+    names: ["Botkins"]
+  },
+
 
 
 

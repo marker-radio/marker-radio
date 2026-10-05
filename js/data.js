@@ -49298,6 +49298,38 @@ const STORIES = [
     long: "",
     names: ["John Quincy Adams Ward"]
   },
+  {
+    id: "approach-van-wert",
+    name: "Van Wert",
+    lat: 40.8700,
+    lng: -84.5819,
+    radius: 8000,
+    layer: "approach",
+    short: "You are coming up on Van Wert, on the west line. The county was named in 1820 for Isaac Van Wart. A clerk wrote Wert, and it stuck. The first seat was not this square. If you drop in, I'll start with the two Rileys.",
+    long: "",
+    names: ["Van Wert"]
+  },
+  {
+    id: "van-wert-riley",
+    name: "March 30, 1835",
+    lat: 40.8700,
+    lng: -84.5819,
+    radius: 600,
+    short: "The legislature erected the county on February 12, 1820, and left it attached to Darke until October 1837. Captain James Riley, a sea captain, moved in during 1821. He was the first settler of European descent, and he laid out Willshire. That was the first county seat. The town you are in is a different Riley. James W. Riley of Mercer County picked sections 12 and 13 in Pleasant Township, where the Middle Fork of the Little Auglaize breaks through the ridge. On October 24, 1834, at Piqua, he signed with Peter Aughenbaugh of Dayton, George Marsh of Athens, and William B. Hedges. Each put in 150 dollars. Riley, then deputy surveyor, finished the plat on March 30, 1835. Justin Hamilton recorded it that May. Seventy-eight lots sat between Water Street and Jackson Street. A larger plat in May 1837, 246 lots, gave the commons that became the parks.",
+    long: "",
+    names: ["James W. Riley", "James Riley", "Peter Aughenbaugh"]
+  },
+  {
+    id: "van-wert-seat",
+    name: "The coat pocket",
+    lat: 40.8700,
+    lng: -84.5819,
+    radius: 400,
+    short: "In 1839 the seat moved here from Willshire, because this town had outgrown it. One of the stories is that a county official carried the records up in his coat pocket. To keep the seat, Aughenbaugh, Riley, and Marsh deeded the county the odd-numbered lots from 1 to 77, except lot 3. The first jail went up in 1838. It cost 483 dollars.",
+    long: "",
+    names: ["Willshire"]
+  },
+
 
 
 

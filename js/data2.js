@@ -3144,6 +3144,644 @@ STORIES.push(
     long: "",
     names: ["Botkins"]
   },
+  {
+    id: "approach-bowerston",
+    name: "Bowerston",
+    lat: 40.4270,
+    lng: -81.1700,
+    radius: 2000,
+    layer: "approach",
+    short: "You are coming up on Bowerston, a village in Monroe Township, Harrison County, on Conotton Creek. The local history says it was Bowers Mill, then Bowersville, then Bowerstown, and finally Bowerston, because another Ohio town was already called Bowerstown. About 356 people live here. If you stay on the highway, I'll start at the creek.",
+    long: "",
+    names: ["Bowerston"]
+  },
+  {
+    id: "bowerston-mills",
+    name: "The Mills Already There",
+    lat: 40.4260,
+    lng: -81.1880,
+    radius: 180,
+    short: "When the Bower brothers came, two mills were already standing on the south side of the creek. One sawed. One ground grain. In 1804 they began to rebuild them. The published summary spells the older brother Barnhard. The local history spells him Barnhart, son of Caleb, and says the family came out of England, some of them out of Scotland. His brother was John. In 1816 the settlement was laid out as Bower's Mills. The creek turned the wheels. Later the mill work was David Bower's, with help from his brother Jacob. David was Barnhart's son.",
+    long: "",
+    names: ["Barnhart Bower", "John Bower"]
+  },
+  {
+    id: "bowerston-plat",
+    name: "August 21, 1851",
+    lat: 40.4272,
+    lng: -81.1875,
+    radius: 150,
+    short: "David Bower, Henry Hoover, and Nathaniel Bower platted the village on August 21, 1851. It was filed in court on August 2, 1852. That is a different act from the 1816 mill settlement. I will not mash them. Henry William Adair did the survey tied to the incorporation. The village incorporated on April 2, 1883. The public library is the building the photographs use. I will not invent when it opened.",
+    long: "",
+    names: ["David Bower", "Henry Hoover"]
+  },
+  {
+    id: "bowerston-rail",
+    name: "The Only Station",
+    lat: 40.4280,
+    lng: -81.1860,
+    radius: 150,
+    short: "The local history says the railroad is what started the village. The first station was at the upper crossing, on State Route 212. Bowerston had the only Wheeling and Lake Erie station in Harrison County. It stood until 1959. Express cars came out of Uhrichsville. On July 1, 1874, the town had two dry-goods stores, two drugstores, two physicians, a mill, a steam sawmill, a tannery, a printing office, a gunsmith, a harness shop, three shoe shops, and two churches. I will not name the 1850s railroad. The local page does not.",
+    long: "",
+    names: ["Bowerston"]
+  },
+  {
+    id: "bowerston-trail",
+    name: "Conotton Creek Trail",
+    lat: 40.4265,
+    lng: -81.1840,
+    radius: 120,
+    short: "The Conotton Creek Trail starts at the eastern end of the village, at the southeast end of Erie Street, and runs 11.4 miles. The railroad is gone. The path is what is left of the line that made the town.",
+    long: "",
+    names: ["Conotton Creek"]
+  },
+  {
+    id: "bowerston-native",
+    name: "No Village Name",
+    lat: 40.4250,
+    lng: -81.1900,
+    radius: 150,
+    short: "I do not have a native village name on this stretch of Conotton Creek. The mills were already here when the Bowers arrived, and those mills were not a native town. I will not invent one under the plat.",
+    long: "",
+    names: ["Conotton Creek"]
+  },
+  {
+    id: "bowerston-war",
+    name: "No Battlefield",
+    lat: 40.4290,
+    lng: -81.1870,
+    radius: 100,
+    short: "There is no fort and no battlefield in Bowerston. I will not borrow one from the creek to fill Erie Street.",
+    long: "",
+    names: ["Bowerston"]
+  },
+
+  {
+    id: "approach-bradford",
+    name: "Bradford",
+    lat: 40.1280,
+    lng: -84.4500,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Bradford. Miami Avenue, which is State Route 721, is the county line. Darke County and Adams Township are on the west. Miami County and Newberry Township are on the east. The place was called Richmond, then Richmond Junction, then Union City Junction, before it was Bradford. About 1,800 people live here. If you stay on the highway, I'll start at the construction camp.",
+    long: "",
+    names: ["Bradford"]
+  },
+  {
+    id: "bradford-dates",
+    name: "1852, 1857, or 1865",
+    lat: 40.1309,
+    lng: -84.4307,
+    radius: 150,
+    short: "The stone in Y-Yard Park, at Miami Avenue and School Street, says Bradford began in 1852 as a construction camp of the Columbus, Piqua, and Indiana Railroad. The village's own history says the first train reached the end of the rail at this county line in 1857. The county history says the town was platted in 1865, entirely inside Darke County, and incorporated in 1871. I will not mash those years. In 1864 the Richmond and Covington Railroad made a junction here. In 1868 the Cincinnati, Columbus and Indiana Central put up a roundhouse. The names are the companies as they changed. They are not four different railroads I am inventing.",
+    long: "",
+    names: ["Bradford"]
+  },
+  {
+    id: "bradford-tom",
+    name: "Tom Bradford",
+    lat: 40.1285,
+    lng: -84.4290,
+    radius: 120,
+    short: "The village says that in 1868 a mail agent on that railroad, Tom Bradford, decided the town should have his name, because no other town in Ohio had it. The published history calls him a railroad official and does not tell the story of him choosing it. The county history, as it is quoted, says 243 people in 1870. The census table on the same page says 409. By 1890 there were 1,338, and most of them lived on the Miami County side. The peak on the census table is 2,356 in 1920.",
+    long: "",
+    names: ["Tom Bradford"]
+  },
+  {
+    id: "bradford-yard",
+    name: "The Roundhouse",
+    lat: 40.1295,
+    lng: -84.4280,
+    radius: 180,
+    short: "The village history says the roundhouse started at twelve stalls, grew to twenty-four, and finished at forty-eight. The stone says a fifty-stall roundhouse, sixty miles of track, and jobs for two thousand men. I will not sand forty-eight and fifty into one number, and I will not treat two thousand as a payroll I counted. Later the line was the Pittsburgh, Cincinnati, Chicago and St. Louis. At Bradford the road from Pittsburgh split. One branch went north to Chicago. One went south to East St. Louis. Trains took on provisions and changed crews here, and some of those men lived in town. The stone says community life centered on the Railroad YMCA. In 1912 Woodrow Wilson, then a governor running for president, campaigned here from a train. Charles Rapp, on the Miami County side, was the first official mail carrier. Before him, people went to Covington or Gettysburg for the mail. Rural free delivery out of Bradford was announced on March 9, 1901.",
+    long: "",
+    names: ["Woodrow Wilson", "Charles Rapp"]
+  },
+  {
+    id: "bradford-gone",
+    name: "The Tracks Came Up",
+    lat: 40.1270,
+    lng: -84.4320,
+    radius: 150,
+    short: "Conrail abandoned the tracks through Bradford in the 1980s. The yard that made the town is the name on the park. The railroad is not here.",
+    long: "",
+    names: ["Bradford"]
+  },
+  {
+    id: "bradford-native",
+    name: "The Line, Not the Signing",
+    lat: 40.1260,
+    lng: -84.4350,
+    radius: 150,
+    short: "The village history says the Shawnee hunted this ground, forest and prairie and swamp, until the Treaty of Greenville in 1795. Anthony Wayne and most of the Ohio tribes signed that treaty at Greenville, about eight miles west of here. I will not move the signing onto Miami Avenue. I do not have a Shawnee village name under the old yard.",
+    long: "",
+    names: ["Bradford"]
+  },
+  {
+    id: "bradford-war",
+    name: "No Battlefield",
+    lat: 40.1310,
+    lng: -84.4280,
+    radius: 100,
+    short: "There is no fort and no battlefield in Bradford. The fight that built this town was the junction, not a battle. I will not invent one on the county line.",
+    long: "",
+    names: ["Bradford"]
+  },
+
+  {
+    id: "approach-bradner",
+    name: "Bradner",
+    lat: 41.3400,
+    lng: -83.4360,
+    radius: 2000,
+    layer: "approach",
+    short: "You are coming up on Bradner, a village in Montgomery Township, Wood County, on the old Hocking Valley line. It was surveyed in 1875 and named for the man who had the survey made. About 970 people live here. The count was 1,148 in 1900, in the middle of the oil. If you stay on the highway, I'll start at the plat.",
+    long: "",
+    names: ["Bradner"]
+  },
+  {
+    id: "bradner-plat",
+    name: "Crocker Street",
+    lat: 41.3236,
+    lng: -83.4364,
+    radius: 150,
+    short: "The county history says the original town was surveyed in 1875 for John Bradner and Ross Crocker, of Fostoria, and for H. G. Caldwell, who lived nearby. A Fostoria account spells the partner Ransom Crocker, not Ross. I will not make them two men. John Alonzo Bradner was born August 13, 1833, at Niagara Falls. In 1849 his family came to Perry Township, where his father kept a store at West Millgrove. He married Catherine Phillips of Jerry City on March 3, 1856. By the 1870s he was building railroads, including the Hocking Valley, and this town was planted on that line and named for him. Downtown is Crocker Street. The post office has been open since 1876. The box that says established in 1876 is the post office, not the incorporation.",
+    long: "",
+    names: ["John Bradner", "Ransom Crocker"]
+  },
+  {
+    id: "bradner-oil",
+    name: "One Well, Then the Town",
+    lat: 41.3220,
+    lng: -83.4380,
+    radius: 180,
+    short: "In 1885 the county history counts one oil well in the Bradner field. In 1888 a refinery was built. In November of that year the first carload of oil refined by what that book calls the Yargan process went to Toledo. I will not explain the process. I have not checked it. Before the end of 1890 the same book counts seventeen buildings put up at a thousand to eighteen hundred dollars, ten more at seven to nine hundred, nine at five to six hundred, and a lot of smaller houses, all credited to that one year. The census went from 441 in 1890 to 1,148 in 1900, and back to 890 by 1910. There is a photograph of a horse cart at a Bradner well, with a train behind it. This is the Lima-Indiana field. The later census peak is 1,175, in 1980, which is a different kind of growth.",
+    long: "",
+    names: ["Bradner"]
+  },
+  {
+    id: "bradner-incorp",
+    name: "1889 or 1890",
+    lat: 41.3245,
+    lng: -83.4350,
+    radius: 120,
+    short: "The published summary says the village incorporated in 1889. The county history is more particular and a year later. It says the petition was granted on February 4, 1890, recorded on February 10, and that the first election was April 22, 1890, with 82 votes. J. E. Furste was chosen mayor. I will not mash 1889 and 1890. The Craig storage tank was said to have cost six thousand dollars, and the Bradner Oil Company's tank five thousand. Said to have. I will not treat those as bills I saw. The photographs also show a village hall and opera house. I will not invent the year it opened.",
+    long: "",
+    names: ["J. E. Furste"]
+  },
+  {
+    id: "bradner-native",
+    name: "No Village Name",
+    lat: 41.3260,
+    lng: -83.4400,
+    radius: 150,
+    short: "This was Black Swamp ground before the railroad and the wells. I do not have a native village name under Crocker Street. I will not invent one.",
+    long: "",
+    names: ["Bradner"]
+  },
+  {
+    id: "bradner-war",
+    name: "No Battlefield",
+    lat: 41.3230,
+    lng: -83.4340,
+    radius: 100,
+    short: "There is no fort and no battlefield in Bradner. The boom was oil, not a battle. I will not invent a fight to go with the wells.",
+    long: "",
+    names: ["Bradner"]
+  },
+
+  {
+    id: "approach-brady-lake",
+    name: "Brady Lake",
+    lat: 41.1600,
+    lng: -81.3300,
+    radius: 2000,
+    layer: "approach",
+    short: "You are coming up on Brady Lake, between Kent and Ravenna, in Portage County. It was a village from 1927 until 2017. It is not one now. It belongs to Franklin Township. The 2020 count of 1,222 is a census place drawn bigger than the old village. When the village voted itself out, the news put the population near 500, in about 214 houses. If you stay on the road, I'll start at the lake.",
+    long: "",
+    names: ["Brady Lake"]
+  },
+  {
+    id: "brady-lake-brady",
+    name: "The Man in the Lake",
+    lat: 41.1660,
+    lng: -81.3180,
+    radius: 200,
+    short: "The lake, and then the village, were named for Captain Samuel Brady. The story the name rests on says that around 1780 he hid in this lake while local native men were after him. I will not add the hollow reed. That detail is not in the account I am using. And I will not move Brady's Leap here. That jump is told at Kent, over the Cuyahoga. This is a different story.",
+    long: "",
+    names: ["Samuel Brady"]
+  },
+  {
+    id: "brady-lake-park",
+    name: "Ohio's Most Perfect Playground",
+    lat: 41.1642,
+    lng: -81.3158,
+    radius: 180,
+    short: "A summer resort and amusement park opened here in 1891. The billing was Ohio's Most Perfect Playground. Cottages, boats, the rides. I will not invent the year the rides stopped. The old postcard is the park. The village came later.",
+    long: "",
+    names: ["Brady Lake"]
+  },
+  {
+    id: "brady-lake-village",
+    name: "1927",
+    lat: 41.1630,
+    lng: -81.3140,
+    radius: 150,
+    short: "The village incorporated in 1927, cut from a small piece of Franklin Township. In 1993 it became fully independent of the township, which meant a paper township of its own. For years the summer gathering was the Muskrat Jamboree, a festival and car show and flea market at the ball fields on Brady Lake Road. In 2010 the village was about four-tenths of a square mile, and a quarter of that was water.",
+    long: "",
+    names: ["Brady Lake"]
+  },
+  {
+    id: "brady-lake-vote",
+    name: "106 to 88",
+    lat: 41.1620,
+    lng: -81.3130,
+    radius: 120,
+    short: "A vote to dissolve failed in 2013. On May 2, 2017, it passed, 106 to 88. The argument was taxes, roads, and a village that could not keep its own services up. The fire department and the ambulance service had already closed. The count was certified on May 23. Secretary of State Jon Husted signed off in July. Portage County dissolved the paper township that same July, and on July 14 the ground went back to Franklin Township. A year later the township had paved roads the village had left full of holes, and the income tax was gone.",
+    long: "",
+    names: ["Brady Lake"]
+  },
+  {
+    id: "brady-lake-police",
+    name: "After the Vote",
+    lat: 41.1635,
+    lng: -81.3165,
+    radius: 100,
+    short: "One account says village operations stopped the day of the vote. A news report from that same month says the police were still writing tickets, and people were arguing about whether the department still had any authority. I will not sand those into one clean ending.",
+    long: "",
+    names: ["Brady Lake"]
+  },
+  {
+    id: "brady-lake-native",
+    name: "The Men Not Named",
+    lat: 41.1670,
+    lng: -81.3200,
+    radius: 150,
+    short: "The only native people in the story I have are the ones chasing Brady, and they are not named. I will not invent a nation or a village on this shore to finish the sentence.",
+    long: "",
+    names: ["Brady Lake"]
+  },
+  {
+    id: "brady-lake-war",
+    name: "A Chase, Not a Battle",
+    lat: 41.1610,
+    lng: -81.3170,
+    radius: 100,
+    short: "There is no fort and no battlefield at Brady Lake. The war story is one man hiding in the water. I will not build a battle around it.",
+    long: "",
+    names: ["Brady Lake"]
+  },
+
+  {
+    id: "approach-bratenahl",
+    name: "Bratenahl",
+    lat: 41.5450,
+    lng: -81.6200,
+    radius: 2000,
+    layer: "approach",
+    short: "You are coming up on Bratenahl. They say it BRAT-ən-ahl. It is a village on the south shore of Lake Erie, about six miles east of downtown Cleveland, with the city on the other three sides. It is about four miles long and less than half a mile wide, the ground between the old Lake Shore and Michigan Southern tracks and the water. About 1,430 people live here. If you stay on the boulevard, I'll start at the farm lane.",
+    long: "",
+    names: ["Bratenahl"]
+  },
+  {
+    id: "bratenahl-charles",
+    name: "The Lane",
+    lat: 41.5480,
+    lng: -81.6300,
+    radius: 180,
+    short: "Charles George Bratenahl was born December 9, 1817, in Wolfenbüttel, Germany, and came over in June 1846. His brother Louis followed in May 1849. On March 29, 1850, they opened a wholesale hide and leather house on Superior Street, near West 9th. Charles became a citizen on January 14, 1853. On February 17 he bought 19 and a half acres of lakefront from Catherine Walbridge. He kept buying. The Houghton lot, the Odell lot, the Sizer place. The society says he ended with 84.6 acres, from the shore back to St. Clair. The path in from St. Clair was Bratenahl Lane, which is East 88th Street. Joseph Blackburn designed the house on the lake. He is the namesake. He is not the man who incorporated the village. By 1870 his wife Mary was selling the land to pay the mortgages. Abel Fairbanks took the 15.52-acre homestead that year. In 1871 William J. Gordon took the ground west of the lane. That became Gordon Park.",
+    long: "",
+    names: ["Charles Bratenahl", "William J. Gordon"]
+  },
+  {
+    id: "bratenahl-1903",
+    name: "North of the Tracks",
+    lat: 41.5460,
+    lng: -81.6100,
+    radius: 200,
+    short: "This shore was Glenville, and then a piece of Collinwood. In 1902 Liberty E. Holden, Samuel Mather, and Frederick Goff, who was mayor of Glenville, did not want Glenville to become Cleveland. Glenville was annexed anyway. They cut out the land north of the Lake Shore and Michigan Southern, from Gordon Park to Coit Road, and incorporated it as a village in 1903. In 1906, when Collinwood went into the city, the strip from Coit Road to East 140th came in too. About two dozen families had farmed it in the middle of the nineteenth century. The count was 690 in 1910. The peak was 1,613 in 1970.",
+    long: "",
+    names: ["Liberty E. Holden", "Samuel Mather"]
+  },
+  {
+    id: "bratenahl-club",
+    name: "Coit House",
+    lat: 41.5490,
+    lng: -81.6050,
+    radius: 150,
+    short: "On the shore at Eddy Road, Charles Coit built a summer hotel called Coit House. The Country Club opened on that ground in 1889. A new clubhouse in 1908 became the Lake Shore Country Club. It was torn down in 1964. In 1967 two brutalist towers went up in its place, Bratenahl Place. One was planned as a rental of 180 apartments. The other was a condominium from the start. Many people in the village fought the towers. In 1976 the larger building became a condominium too.",
+    long: "",
+    names: ["Charles Coit"]
+  },
+  {
+    id: "bratenahl-road",
+    name: "The Road Through",
+    lat: 41.5440,
+    lng: -81.6150,
+    radius: 200,
+    short: "Lake Shore Boulevard is the road through a village most people only cross. A Marshall Project and WEWS investigation found that most of the drivers the village police cited were Black, and that since 2020 the village had taken in more than seven hundred thousand dollars in fines, court costs, and other revenue, mostly from Black drivers passing through. That is their finding. I will not add to it.",
+    long: "",
+    names: ["Bratenahl"]
+  },
+  {
+    id: "bratenahl-native",
+    name: "No Village Name",
+    lat: 41.5500,
+    lng: -81.6200,
+    radius: 150,
+    short: "I do not have a native village name on this strip of shore. The farms and the club came later. I will not invent a town under East 88th.",
+    long: "",
+    names: ["Bratenahl"]
+  },
+  {
+    id: "bratenahl-war",
+    name: "No Battlefield",
+    lat: 41.5470,
+    lng: -81.6250,
+    radius: 100,
+    short: "There is no fort and no battlefield in Bratenahl. The fight here was over annexation, and it was settled by a village line, not a battle. I will not invent one on the boulevard.",
+    long: "",
+    names: ["Bratenahl"]
+  },
+
+  {
+    id: "approach-bremen",
+    name: "Bremen",
+    lat: 39.7060,
+    lng: -82.4500,
+    radius: 2000,
+    layer: "approach",
+    short: "You are coming up on Bremen, a village in Fairfield County. The dictionary says it BREM-ən. A family history says the town softened the German name to Bree-man. It was platted in 1834 and named for the city in Germany. About 1,480 people live here. If you stay on the highway, I'll start at the plat.",
+    long: "",
+    names: ["Bremen"]
+  },
+  {
+    id: "bremen-beery",
+    name: "Twenty-Three Lots",
+    lat: 39.7061,
+    lng: -82.4294,
+    radius: 150,
+    short: "George Beery platted the town. He was born in 1783 in Rockingham County, Virginia, son of Nicholas Beery, and he is buried here. A family account says he married Catherine Cradlebaugh, whose people came out of Bremen in Germany, and that he named the town for them. Another account says it was his father-in-law's hometown. I will not mash those. The same family account says the land was a patent from James Madison, that he laid out twenty-three lots, kept a general store, and later sat as a county commissioner. A genealogy says that even after the plat the place grew slowly and stayed a village. I will not name the railroad. I do not have the company locked.",
+    long: "",
+    names: ["George Beery"]
+  },
+  {
+    id: "bremen-oil",
+    name: "Derrick to Derrick",
+    lat: 39.7019,
+    lng: -82.4267,
+    radius: 150,
+    short: "The stone on Broad Street, put up in 2012 by the Bremen Area Historical Society, says the oil boom began in 1907 and 1908 and the town became a center of the field. It was a forest of derricks. From that stone south, it was said, a person could go down Broad Street from derrick to derrick and never touch the ground. The village's own line is that in 1907 this was Oil City, that most of the people were tied to the drilling, and that wells came in at 140 barrels a day and at 250. Before that, the village says, the wells had only been small. The published history says the boom lasted into the early 1920s. The census is the check on the stories. There were 466 people in 1900, 925 in 1910, and 1,134 in 1920. I will not use a claim that the town passed 1,500 in 1911. The count does not say that. There are more people here now than there were at the end of the boom.",
+    long: "",
+    names: ["Bremen"]
+  },
+  {
+    id: "bremen-derrick",
+    name: "Howell Park",
+    lat: 39.7025,
+    lng: -82.4250,
+    radius: 100,
+    short: "A reconstructed derrick went up in 1984, for the town's hundred and fiftieth year. It stands in Howell Park, just east of the oil stone. Every September the village holds Oil Derrick Days, so the field is not only a story.",
+    long: "",
+    names: ["Bremen"]
+  },
+  {
+    id: "bremen-native",
+    name: "No Village Name",
+    lat: 39.7080,
+    lng: -82.4320,
+    radius: 150,
+    short: "The creeks here are Rush Creek and the country that drains to it. I do not have a native village name under the twenty-three lots. I will not invent one.",
+    long: "",
+    names: ["Bremen"]
+  },
+  {
+    id: "bremen-war",
+    name: "No Battlefield",
+    lat: 39.7050,
+    lng: -82.4280,
+    radius: 100,
+    short: "There is no fort and no battlefield in Bremen. The rush here was oil, not a battle. I will not invent a fight on Broad Street.",
+    long: "",
+    names: ["Bremen"]
+  },
+
+  {
+    id: "approach-brewster",
+    name: "Brewster",
+    lat: 40.7200,
+    lng: -81.6200,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Brewster, a village in southwestern Stark County, in the valley of Sugar Creek, about fifteen miles southwest of Canton. The Wheeling and Lake Erie put its shops here, and the village was incorporated two days after those shops opened. About 2,100 people live here. I do not have the person the name comes from. I will not invent one. If you stay on the highway, I'll start at the hill.",
+    long: "",
+    names: ["Brewster"]
+  },
+  {
+    id: "brewster-grade",
+    name: "Three Engines",
+    lat: 40.7120,
+    lng: -81.5990,
+    radius: 200,
+    short: "In 1904 the Wheeling and Lake Erie needed a way around a grade at Sippo Heights, above Massillon. The local history says it sometimes took three engines to pull a train over that hump. They started the new yards that year. By the latter part of 1906 they had twenty-five miles of track done. On August 1, 1909, the yards were finished and running. I will not tell you this was a canal town. It was not.",
+    long: "",
+    names: ["Brewster"]
+  },
+  {
+    id: "brewster-shops",
+    name: "July 4 and July 6",
+    lat: 40.7100,
+    lng: -81.5960,
+    radius: 180,
+    short: "In 1908 the railroad's shop in Norwalk burned. They decided the new shop, and a new division point, belonged here, where there was room. The locomotive shops moved from the Columbia yards in the middle of August 1909, and they were building the roundhouse. The powerhouse went up in the spring of 1910. The shops opened on July 4, 1910. Two days later, on July 6, the Stark County commissioners incorporated the village. The local history puts the population at 350. The first mayor was John H. Gephart. The post office has been open since that same year. By 1920 there were 928 people. The count peaked at 2,324 in 2000.",
+    long: "",
+    names: ["John H. Gephart"]
+  },
+  {
+    id: "brewster-engines",
+    name: "Fifty of Their Own",
+    lat: 40.7080,
+    lng: -81.5940,
+    radius: 180,
+    short: "The published history says the Wheeling and Lake Erie built and rolled the boilers and erected fifty of its own steam engines in these shops, which larger railroads did not often try. The shops are still here. They still repair, rebuild, and fabricate locomotives and freight cars, and the railroad's headquarters is still in town. The old company and the regional railroad that uses the name now are not the same firm. The shops outlasted the difference. Early stores the historical society names include Belloni's grocery, Bidwell's hotel, Schott on the Square, and David Morrison's grocery and butcher shop. I will not invent what became of them.",
+    long: "",
+    names: ["Brewster"]
+  },
+  {
+    id: "brewster-cheese",
+    name: "After the Engines",
+    lat: 40.7130,
+    lng: -81.6010,
+    radius: 150,
+    short: "The village says its other big plants are Brewster Cheese, which it calls the largest Swiss cheese producer in North America, and Shearer's, the snack plant. I will not invent the year either one started. The railroad is still the reason the town is here.",
+    long: "",
+    names: ["Brewster"]
+  },
+  {
+    id: "brewster-native",
+    name: "No Village Name",
+    lat: 40.7150,
+    lng: -81.6050,
+    radius: 150,
+    short: "This is Sugar Creek bottom. I do not have a native village name under the yards. I will not invent one.",
+    long: "",
+    names: ["Sugar Creek"]
+  },
+  {
+    id: "brewster-war",
+    name: "No Battlefield",
+    lat: 40.7110,
+    lng: -81.6000,
+    radius: 100,
+    short: "There is no fort and no battlefield in Brewster. The fight here was a grade that took three engines. I will not invent a battle to go with the shops.",
+    long: "",
+    names: ["Brewster"]
+  },
+
+  {
+    id: "approach-brice",
+    name: "Brice",
+    lat: 39.9300,
+    lng: -82.8320,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Brice, a village in Franklin County, south of Reynoldsburg and west of Pickerington. About 93 people live in about a tenth of a square mile. Brice Road carries something like 30,000 cars a day, a lot of them cutting around Gender Road. The village motto is An Early American Village. The state auditor said something else. If you are on the road, slow down. I'll start at the name.",
+    long: "",
+    names: ["Brice"]
+  },
+  {
+    id: "brice-name",
+    name: "Not Powellville",
+    lat: 39.9175,
+    lng: -82.8319,
+    radius: 120,
+    short: "One account says a landowner, Joseph Bigelow Powell, wanted the railroad station named for himself, and that Ohio already had a Powell, so he asked the railroad's lawyer, Calvin Stewart Brice, to lend his name instead. I have not locked that story in a better source, so I will not tell it as settled. Calvin Brice himself is settled. He was born September 17, 1845, in Denmark, Ohio. He chaired the Democratic National Committee from 1889 to 1892 and was a United States senator from 1891 to 1897. He died of pneumonia in New York City on December 15, 1898. A mining town in Tennessee is named for him. The unfinished railroad people remember around Kent is also his, and it is not this village. I will not move that line down here.",
+    long: "",
+    names: ["Calvin Brice"]
+  },
+  {
+    id: "brice-incorporated",
+    name: "1960 or 1965",
+    lat: 39.9180,
+    lng: -82.8325,
+    radius: 80,
+    short: "The geographic names record says the village incorporated in 1960. Another account says 1965. I will not mash them. The census starts, for this place, at 228 people in 1970. It fell to 70 in 2000, rose to 114 in 2010, and was 93 in 2020. The motto says early American. The incorporation is not early.",
+    long: "",
+    names: ["Brice"]
+  },
+  {
+    id: "brice-trap",
+    name: "No Other Reason",
+    lat: 39.9190,
+    lng: -82.8310,
+    radius: 150,
+    short: "In 2011 the village handled 555 traffic cases. In 2012 the state outlawed mayor's courts in villages under 200 people, which took the old way of keeping the fines. Brice went to cameras and outside companies. An audit of 2019 and 2020 found the fines lumped in with licenses and permits at more than 939,000 dollars for those two years, 81 percent of the general fund in 2019 and 76 percent of the receipts in 2020, more than ten thousand dollars a resident. The village had not kept the approvals of the tickets it sent to Brekford and to Blue Line Solutions. A Franklin County judge found the operation in complete disregard of state law. Auditor Keith Faber said, in writing, that this tiny village is a speed trap, reliant on automated citations to pay the bills, and that there is no other reason for it to exist.",
+    long: "",
+    names: ["Brice"]
+  },
+  {
+    id: "brice-cameras",
+    name: "The Cameras Came Back",
+    lat: 39.9165,
+    lng: -82.8320,
+    radius: 120,
+    short: "The cameras stopped in 2021. They came back in 2024, two of them, one at each end of the school zone for Brice Christian Academy. The limit is 25, and 20 when school is in. The Dispatch reported that Chief Delano Bauchmoyer said the village had issued about 3,000 tickets since August 20 of that year. Mayor John Mathys said they had been trying for thirty years to get people to slow down. That is the argument on the other side of the auditor's sentence. I will not pick a winner.",
+    long: "",
+    names: ["John Mathys"]
+  },
+  {
+    id: "brice-native",
+    name: "No Village Name",
+    lat: 39.9200,
+    lng: -82.8350,
+    radius: 100,
+    short: "I do not have a native village name on this tenth of a square mile. I will not invent one under the school zone.",
+    long: "",
+    names: ["Brice"]
+  },
+  {
+    id: "brice-war",
+    name: "No Battlefield",
+    lat: 39.9170,
+    lng: -82.8300,
+    radius: 80,
+    short: "There is no fort and no battlefield in Brice. The fight here is about a speed limit. I will not invent a battle to give the motto something older to stand on.",
+    long: "",
+    names: ["Brice"]
+  },
+
+  {
+    id: "approach-bridgeport",
+    name: "Bridgeport",
+    lat: 40.0700,
+    lng: -80.7500,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Bridgeport, in eastern Belmont County, on the west bank of the Ohio at the mouth of Wheeling Creek, a mile from Wheeling. The stone on Main Street calls it Ohio's gateway to the west. About 1,580 people live here. In 1940 there were 4,853. If you are on the highway, I'll start at the plat.",
+    long: "",
+    names: ["Bridgeport"]
+  },
+  {
+    id: "bridgeport-canton",
+    name: "It Was Canton",
+    lat: 40.0725,
+    lng: -80.7411,
+    radius: 150,
+    short: "Colonel Ebenezer Zane, one of the founders of Wheeling, laid the town out on May 9, 1806, and he called it Canton. The 1880 county history says a man named Yost thought Moses Rhodes was the first postmaster, under James Madison, about 1815, and that the name changed to Bridgeport then. A later local paper says the place became Bridgeport on March 14, 1836, when the village was incorporated. Wikipedia says the name is for a bridge built near the town in the 1810s. I will not mash 1815 and 1836. The stone says the name came after the bridge to Wheeling Island. In 1830 the count was 169.",
+    long: "",
+    names: ["Ebenezer Zane"]
+  },
+  {
+    id: "bridgeport-kirkwood",
+    name: "Fort Kirkwood",
+    lat: 40.0730,
+    lng: -80.7420,
+    radius: 120,
+    short: "The stone says Zane laid the village on the site of Fort Kirkwood, from 1789. That is the war site I can stand on. I will not invent the fight, the garrison, or a battle that the stone does not name.",
+    long: "",
+    names: ["Fort Kirkwood"]
+  },
+  {
+    id: "bridgeport-road",
+    name: "1818 or 1824",
+    lat: 40.0720,
+    lng: -80.7450,
+    radius: 180,
+    short: "The stone says the National Road arrived in 1818 and made this the door into Ohio for people going west, on top of the river trade. The 1880 county history says the road was begun in 1824, that a man named Weaver took a five-mile contract west from town, and that there were only five houses in that distance. Colonel Zane owned the land from Bridgeport out to a place called Scott's. I will not pick 1818 or 1824 for you. A local paper says the old road's high day was 1852, and that after that it was mostly local traffic for sixty years. The same paper says Thomas Lawson retired in May 1941, at 82, after collecting the toll for 52 years.",
+    long: "",
+    names: ["Bridgeport"]
+  },
+  {
+    id: "bridgeport-bridges",
+    name: "Which Bridge",
+    lat: 40.0710,
+    lng: -80.7380,
+    radius: 180,
+    short: "The first bridge the county book names is not the one to the island. Esquire Gill said Artemus Baker built a bridge across Indian Wheeling Creek in 1815, on the later site of the railroad bridge. A lattice wooden bridge followed. About 1850 it was replaced on the same abutments, and in 1873 an iron bridge went up. The crossings to Wheeling Island changed more than once. The Aetnaville Bridge is closed. The old Bridgeport Bridge is gone. What you use now is the Military Order of the Purple Heart Bridge, and a piece of the Fort Henry Bridge. U.S. 40 and U.S. 250 leave Ohio together at Main Street and Lincoln Avenue.",
+    long: "",
+    names: ["Bridgeport"]
+  },
+  {
+    id: "bridgeport-native",
+    name: "The Creek's Old Name",
+    lat: 40.0740,
+    lng: -80.7460,
+    radius: 150,
+    short: "The 1880 book calls the stream Indian Wheeling Creek. I do not have a village name for the people who were here before Fort Kirkwood. I will not invent one on the creek bank.",
+    long: "",
+    names: ["Wheeling Creek"]
+  },
+  {
+    id: "bridgeport-glass",
+    name: "After the Wagons",
+    lat: 40.0690,
+    lng: -80.7440,
+    radius: 150,
+    short: "A local paper says the LaBelle Glass Works was incorporated around 1872. I will not invent the rest of the plant. The census is the clearer line. The town passed 2,000 in the 1880s, reached 4,853 in 1940, and has been falling since. There are about 1,580 people now.",
+    long: "",
+    names: ["Bridgeport"]
+  },
+
 
 
 

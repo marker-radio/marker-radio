@@ -49268,6 +49268,38 @@ const STORIES = [
     names: ["Piqua"]
   },
 
+  {
+    id: "urbana-ward",
+    name: "William Ward",
+    lat: 40.1084,
+    lng: -83.7524,
+    radius: 600,
+    short: "Champaign County was formed on February 20, 1805. Colonel William Ward, from Greenbrier, Virginia, had settled in the Mad River valley with Simon Kenton in 1799. He bought 160 acres on section 23 and offered them for the seat. On October 11, 1805, he and Joseph C. Vance wrote the deal. Two hundred twelve lots and twenty-two out-lots. The county took every other one. Ward kept the rest, gave two lots for a burial ground, and gave the square. They named it Urbana. People still argue whether that is the Latin word for city, a town back in Virginia, or the old Roman name for people who lived in town instead of on a farm.",
+    long: "",
+    names: ["William Ward", "Joseph C. Vance"]
+  },
+  {
+    id: "urbana-survey",
+    name: "Section 23",
+    lat: 40.1084,
+    lng: -83.7524,
+    radius: 400,
+    short: "Vance did the survey. There was no platted town between Detroit and Springfield to copy, so they ran the streets straight through the bogs. Each inlot was six rods wide and ten deep. The square is four small lots, six rods on a side. Lots 201 and 202 were given for a school and a church and ended up partly a graveyard. The jail stood on lot 107. George Fithian, Vance, and Kenton were the first men in the village. Thomas Pearce already had a cabin on the later market space, and a field on the north side of Scioto Street. Urbana incorporated as a village in 1816 and as a city in 1867.",
+    long: "",
+    names: ["George Fithian", "Thomas Pearce"]
+  },
+  {
+    id: "urbana-sculptor",
+    name: "J. Q. A. Ward",
+    lat: 40.1084,
+    lng: -83.7524,
+    radius: 400,
+    short: "John Quincy Adams Ward, the sculptor, was Colonel Ward's grandson. He was born in Urbana in 1830. The old account says this is where he first studied art, on his own, before anybody hired him.",
+    long: "",
+    names: ["John Quincy Adams Ward"]
+  },
+
+
 
 
 

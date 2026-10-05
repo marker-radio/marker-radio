@@ -49361,6 +49361,38 @@ const STORIES = [
     names: ["Al Johnson"]
   },
 
+  {
+    id: "vandalia-wilhelm",
+    name: "Benjamin Wilhelm",
+    lat: 39.8906,
+    lng: -84.1988,
+    radius: 500,
+    short: "Benjamin Wilhelm, from Pennsylvania, founded Vandalia in 1838. The marker says the plat was August 4, in 33 lots along the National Road and Nelson Street, including his house and a store for people heading west. Another account says he settled on August 17, near what is now U.S. 40 and 25-A. The United Brethren built the first church that same year, at the corner of Troy and Nelson, which is Dixie Drive and Kenbrook now. The village incorporated on February 7, 1848, and Wilhelm was the first mayor. By 1881 the town had 315 people. The first school opened in 1869, at Perry and Nelson.",
+    long: "",
+    names: ["Benjamin Wilhelm"]
+  },
+  {
+    id: "vandalia-name",
+    name: "The other Vandalia",
+    lat: 39.8906,
+    lng: -84.1988,
+    radius: 400,
+    short: "The town is named for Vandalia, Illinois. One story says Wilhelm was on his way there, stopped, and gave this place the name he never reached. The other says the National Road was supposed to run all the way to that Illinois capital, and this pike town took the name of the end of the road. Both stories are still told. The road is the part that is certain.",
+    long: "",
+    names: ["Vandalia"]
+  },
+  {
+    id: "vandalia-johnson",
+    name: "Al Johnson's field",
+    lat: 39.9024,
+    lng: -84.2194,
+    radius: 800,
+    short: "In 1911 they started the lake-to-gulf road from Detroit to Cincinnati on the old Troy Pike, later the Dixie Highway. Where it crossed the National Road, people called Vandalia the Crossroads of America. The Dayton and Troy electric line ran through that crossing. Northwest of it, the Al Johnson Flying Service used about 310 acres. That field became the airport. The Amateur Trapshooting Association stayed here until 2005, then left for Sparta, Illinois, when the airport expanded. On January 1, 1960, Vandalia became a charter city. Interstate 70 and Interstate 75 are the crossroads now. The old one is still under them.",
+    long: "",
+    names: ["Al Johnson"]
+  },
+
+
 
 
 

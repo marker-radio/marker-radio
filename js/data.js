@@ -48385,6 +48385,37 @@ const STORIES = [
     long: "",
     names: ["Trail of Death"]
   },
+  {
+    id: "approach-rockford-oh",
+    name: "Rockford",
+    lat: 40.6956,
+    lng: -84.6462,
+    radius: 5000,
+    layer: "approach",
+    short: "You are coming up on Rockford, on the St. Marys River in Mercer County. It was Shanesville, then Shane's Crossing. Wayne built a fort here. Johnny Appleseed leased a nursery. If you drop in, I'll start at the crossing.",
+    long: "",
+    names: ["Rockford"]
+  },
+  {
+    id: "rockford-seat",
+    name: "The first county seat",
+    lat: 40.6956,
+    lng: -84.6462,
+    radius: 500,
+    short: "Shanesville was the original county seat of Mercer County, and the oldest village in the county. The seat later moved. Rockford was also the first village in Mercer County to have streetlights, and the first to have an airport. The marker stands at 101 West Bridge Street, where Ohio 118 meets US 33.",
+    long: "",
+    names: ["Shanesville"]
+  },
+  {
+    id: "rockford-rambo",
+    name: "Two Rambo trees",
+    lat: 40.6948,
+    lng: -84.6487,
+    radius: 600,
+    short: "The old nursery shipped apples to the trading posts at Piqua and Fort Wayne. On September 24, 2009, the Johnny Appleseed Foundation and American Forests planted two Rambo apple trees on the old Hedges ground, now the Schumm homestead. The trees were grown from the only Johnny Appleseed tree known to be still alive.",
+    long: "",
+    names: ["Rambo apple", "Hedges Nursery"]
+  },
 
 
 

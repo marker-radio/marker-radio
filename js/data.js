@@ -48185,6 +48185,57 @@ const STORIES = [
     long: "",
     names: ["John Nutter"]
   },
+ {
+    id: "rensselaer-newton",
+    name: "Newton, then Rensselaer",
+    lat: 40.9367,
+    lng: -87.1508,
+    radius: 800,
+    short: "Joseph D. Yeoman had the farm at the rapids of the Iroquois. The plat was filed on June 12, 1839, and they called the place Newton. The post office opened as Fez on August 9, 1837, with Yeoman as postmaster. James Van Rensselaer, a merchant from Utica, New York, took the land over after the Panic of 1837. On August 9, 1841, the office became Rensselaer. Samuel L. Sparling was the first postmaster under that name.",
+    long: "",
+    names: ["Joseph D. Yeoman", "James Van Rensselaer", "Samuel L. Sparling"]
+  },
+  {
+    id: "rensselaer-monon",
+    name: "The Monon",
+    lat: 40.9367,
+    lng: -87.1508,
+    radius: 800,
+    short: "The Indianapolis, Delphi and Chicago was organized on September 3, 1872, as a narrow-gauge line. The forty miles from Rensselaer to Delphi opened on September 4, 1879. It became the Chicago and Indianapolis Air Line, and then the Monon, the Chicago, Indianapolis and Louisville. That is the railroad the old card never named.",
+    long: "",
+    names: ["Monon Railroad", "Indianapolis, Delphi and Chicago Railroad"]
+  },
+  {
+    id: "rensselaer-drexel",
+    name: "St. Joseph Indian Normal School",
+    lat: 40.9213,
+    lng: -87.1550,
+    radius: 600,
+    short: "Saint Katharine Drexel gave fifty thousand dollars, and the St. Joseph Indian Normal School opened in 1888, across from what became Saint Joseph's College. It trained about sixty Native boys a year, under the Bureau of Catholic Indian Missions, until 1896. The building later was called Drexel Hall. The college itself closed in 2017. This school is the older story.",
+    long: "",
+    names: ["Katharine Drexel", "St. Joseph Indian Normal School"]
+  },
+  {
+    id: "rensselaer-hanley",
+    name: "James F. Hanley",
+    lat: 40.9353,
+    lng: -87.1531,
+    radius: 400,
+    short: "James Frederick Hanley was born in Rensselaer. He wrote Back Home Again in Indiana. The marker stands at the southeast corner of Front and Washington. It went up in 2008.",
+    long: "",
+    names: ["James Frederick Hanley"]
+  },
+  {
+    id: "rensselaer-register",
+    name: "Courthouse square",
+    lat: 40.9367,
+    lng: -87.1508,
+    radius: 500,
+    short: "The Jasper County Courthouse, the Carnegie library, the courthouse square, and the Oren F. and Adelia Parker House are on the National Register. The county is named for Sergeant William Jasper. The square is still the county seat.",
+    long: "",
+    names: ["William Jasper", "Oren F. Parker", "Adelia Parker"]
+  },
+
 
 
 

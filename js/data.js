@@ -48882,6 +48882,38 @@ const STORIES = [
     names: ["Mayfield Road"]
   },
 
+  {
+    id: "southington-viets",
+    name: "June 1805",
+    lat: 41.3084,
+    lng: -80.9506,
+    radius: 800,
+    short: "This square is Range 5, Township 5 of the Western Reserve. Solomon Cowles, Ephraim Robins, Joseph Borrell, and William Edwards bought it sight unseen. The Connecticut Land Company had paid $1,200,000 for the whole Reserve. Cowles's share of that was $10,000. The first families came from Litchfield County in June 1805. Luke Viets and his wife Hannah Norton Viets, Luke's father David Viets, Roderick Norton, who was 22, his brother Horace, who was 7, and James Chalker with his wife Mercy Norton Chalker and their son Orrin. John Bolles owned the biggest piece, so people called the woods Bollestown.",
+    long: "",
+    names: ["Luke Viets", "James Chalker", "John Bolles"]
+  },
+  {
+    id: "southington-1817",
+    name: "June 12, 1817",
+    lat: 41.3084,
+    lng: -80.9506,
+    radius: 500,
+    short: "Joshua Osborn left Colebrook, Connecticut, around 1809 and took about forty days by ox team to get here. The township held its first election on June 12, 1817, at the house of John James. They dropped Bollestown and took the name of Southington, Connecticut. The first trustees were Joshua Osborn, Seth Hurd, and Roderick Norton. Lemuel Frisbee was clerk.",
+    long: "",
+    names: ["Joshua Osborn", "Seth Hurd", "Roderick Norton"]
+  },
+  {
+    id: "southington-chalker",
+    name: "The Chalker building",
+    lat: 41.3084,
+    lng: -80.9506,
+    radius: 400,
+    short: "The 1906 Chalker building is still here, and so is a 1907 building, the town hall, and the old Methodist, Christian, and Delightful Evangelical churches. The school sits on State Route 534. No canal and no mill town. The name on the sign is the Connecticut town they voted for.",
+    long: "",
+    names: ["Chalker"]
+  },
+
+
 
 
 

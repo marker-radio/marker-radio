@@ -48325,6 +48325,67 @@ const STORIES = [
     long: "",
     names: ["Jarred Darrow"]
   },
+  {
+    id: "rochester-chamberlain",
+    name: "Alexander Chamberlain",
+    lat: 41.0648,
+    lng: -86.2158,
+    radius: 700,
+    short: "Alexander Chamberlain named the town for Rochester, New York. He built a cabin on Mill Creek, at the north end, and had the first lots surveyed in July 1835. The county seat was fixed here on January 23, 1836. The post office opened that year. He built the National House, the first hotel, at Main and Third, and the first sawmill and gristmill east of Main. He died in 1869, at eighty-one. The town incorporated on June 11, 1853, and became a city on October 11, 1909.",
+    long: "",
+    names: ["Alexander Chamberlain", "Rochester, New York"]
+  },
+  {
+    id: "rochester-hedrick",
+    name: "The stone lions",
+    lat: 41.0648,
+    lng: -86.2158,
+    radius: 400,
+    short: "The Fulton County Courthouse was built in 1895 for one hundred thousand dollars, in Richardsonian Romanesque. A German sculptor named Hedrick carved the stone lions on the spot. His ten-year-old son interpreted. The Lyman M. Brackett House, the John W. Smith House, and the downtown district are on the National Register with it.",
+    long: "",
+    names: ["Hedrick", "Lyman M. Brackett", "John W. Smith"]
+  },
+  {
+    id: "rochester-lincoln",
+    name: "Elmo Lincoln",
+    lat: 41.0648,
+    lng: -86.2158,
+    radius: 500,
+    short: "Elmo Lincoln was born here in 1889. In 1918 he was the first actor to play Tarzan in a movie.",
+    long: "",
+    names: ["Elmo Lincoln"]
+  },
+  {
+    id: "rochester-circus",
+    name: "Elephants on Main",
+    lat: 41.0648,
+    lng: -86.2158,
+    radius: 600,
+    short: "The Cole Brothers and Clyde Beatty Circus kept its winter quarters here from 1935 to 1940. On February 20, 1940, the buildings burned. The elephants ran down Main Street.",
+    long: "",
+    names: ["Cole Brothers Circus", "Clyde Beatty"]
+  },
+  {
+    id: "rochester-leedy",
+    name: "The Leedy barn",
+    lat: 41.1228,
+    lng: -86.2150,
+    radius: 1500,
+    short: "The round barn four miles north of town, on US 31, was built in 1924 for Bert Leedy by the C. V. Kindig company. A tornado damaged it. Larry Paxton gave it to the historical society, and it was moved here in 1989. The Fulton County Museum and the living-history village called Loyal stand on the same ground, including the 1832 William Polke house, the first frame house in the county.",
+    long: "",
+    names: ["Bert Leedy", "C. V. Kindig", "William Polke"]
+  },
+  {
+    id: "rochester-sept5",
+    name: "September 5, 1838",
+    lat: 41.0648,
+    lng: -86.2158,
+    radius: 700,
+    short: "On September 5, 1838, the Potawatomi Trail of Death came down Main Street. People walking single file stretched from one end of town to the other. The other cards say the road crossed the county. This is the day it filled Rochester.",
+    long: "",
+    names: ["Trail of Death"]
+  },
+
 
 
 

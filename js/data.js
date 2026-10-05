@@ -49504,7 +49504,36 @@ const STORIES = [
     long: "",
     names: ["Washington Court House"]
   },
-
+  {
+    id: "wilmington-names",
+    name: "Not to be altered",
+    lat: 39.4453,
+    lng: -83.8285,
+    radius: 500,
+    short: "Clinton County was set off on February 19, 1810, from Highland and Warren, and named for Vice President George Clinton. That year the county had 2,674 people. The seat was picked first, near the middle, before there was a town. On June 21, 1810, the court ordered it laid out. The plat was filed as Clinton. On September 10 the court changed it to Armenia. The men who gave the land did not like that. On December 31 it became Mount Pleasant. On February 10, 1811, the court ordered the name Wilmington, after the towns in Delaware and North Carolina that people here had left, and ordered that it not be changed again without an act of the legislature. The village incorporated in 1828.",
+    long: "",
+    names: ["George Clinton"]
+  },
+  {
+    id: "wilmington-mcmains",
+    name: "Lots 58 and 73",
+    lat: 39.4453,
+    lng: -83.8285,
+    radius: 400,
+    short: "The city's history says David Faulker and Joseph Doan gave the ground. George McManis laid the town out, sixteen squares of eight lots, numbered 1 to 128. Lots 58 and 73 were kept for the public. The dearest lot brought 100 dollars. The cheapest brought 4. Timothy Bennet had already settled in March 1801. George Haworth and Nathan Linton were in Union Township around 1803. Isaiah Morris was the first mayor, the first postmaster, and the county's first man in the legislature. In 1833 the town had a brick courthouse, a jail, fourteen stores, two taverns, four churches, and about a hundred houses.",
+    long: "",
+    names: ["George McManis", "Joseph Doan", "Isaiah Morris"]
+  },
+  {
+    id: "wilmington-banana",
+    name: "The 1907 claim",
+    lat: 39.4453,
+    lng: -83.8285,
+    radius: 400,
+    short: "Wilmington claims the banana split was invented here in 1907. The town treats it as its story and throws a festival for it. The proof is thinner than the ice cream. Downtown, the General Denver Hotel is named for James W. Denver, the man the capital of Colorado is named for. The courthouse is the certain part. The split is the part people argue about, and they like arguing about it.",
+    long: "",
+    names: ["James W. Denver"]
+  },
 
 
 

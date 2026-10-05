@@ -48062,8 +48062,27 @@ const STORIES = [
     long: "",
     names: ["Prospect War Memorial"]
   },
-
-
+  {
+    id: "approach-ray",
+    name: "Ray",
+    lat: 41.7597,
+    lng: -84.8719,
+    radius: 5000,
+    layer: "approach",
+    short: "You are coming up on Ray. A state-line village on the Indiana and Michigan border, west of Fremont. They called it State Line first. If you drop in, I'll start at the square.",
+    long: "",
+    names: ["Ray"]
+  },
+  {
+    id: "ray-robert",
+    name: "Robert McNaughton",
+    lat: 41.7597,
+    lng: -84.8719,
+    radius: 500,
+    short: "Robert McNaughton was Alexander's son, and his right hand when the village was platted. He and Archibald built the first store, on the southeast corner of the square. Robert later built another on the northeast corner. Two streets are named for his children, Delmar and Kent.",
+    long: "",
+    names: ["Robert McNaughton", "Archibald McNaughton"]
+  },
 
 
 

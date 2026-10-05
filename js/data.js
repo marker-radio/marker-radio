@@ -49094,8 +49094,47 @@ const STORIES = [
     long: "",
     names: ["Stone Academy"]
   },
-
-
+  {
+    id: "approach-tallmadge",
+    name: "Tallmadge",
+    lat: 41.1015,
+    lng: -81.4417,
+    radius: 8000,
+    layer: "approach",
+    short: "You are coming up on Tallmadge. Eight roads leave a circle at the true points of the compass. A Connecticut preacher laid that out in a swamp. The man on the sign never lived here. If you drop into town, I'll start on the circle.",
+    long: "",
+    names: ["Tallmadge"]
+  },
+  {
+    id: "tallmadge-bacon",
+    name: "David Bacon",
+    lat: 41.1015,
+    lng: -81.4417,
+    radius: 600,
+    short: "This was Town 2, Range 10. Amzi Atwater and Wareham Sheppard mapped it for the Connecticut Land Company in 1797. The Reverend David Bacon, from Woodstock, Connecticut, secured about 12,000 acres in 1806 at a dollar and a half an acre. He had spent five years in Michigan trying to convert Indians, and he wanted a religious colony. He hired Seth I. Ensign to resurvey it. He put a public square of about seven and a half acres in the wet ground at the center, and eight roads, each 66 feet wide, running out at 45 degrees. Deeds made buyers pay two dollars a year for every hundred acres, to support the church. In 1809 nine settlers met in Bacon's cabin and organized the Church of Christ. That cabin stood on what is now East Park Boulevard near Newton Street, in Akron. Bacon died in 1817. He was 46.",
+    long: "",
+    names: ["David Bacon", "Seth I. Ensign"]
+  },
+  {
+    id: "tallmadge-benjamin",
+    name: "Benjamin Tallmadge",
+    lat: 41.1015,
+    lng: -81.4417,
+    radius: 500,
+    short: "Bacon named the town for Colonel Benjamin Tallmadge. Tallmadge ran spies for George Washington in the Revolution. He owned 5,611 acres here and never lived on them. The circle is Bacon's. The name is the owner's.",
+    long: "",
+    names: ["Benjamin Tallmadge"]
+  },
+  {
+    id: "tallmadge-church",
+    name: "September 8, 1825",
+    lat: 41.1015,
+    lng: -81.4417,
+    radius: 300,
+    short: "In 1819 a committee of seven picked Lemuel Porter to build the church. Work started July 1, 1822. They dedicated it on September 8, 1825. Greek revival, four columns, a steeple one hundred feet to the copper weathervane, thirty-two windows, more than 1,100 panes. The congregation left for Heritage Drive in 1969 and gave this building to the Ohio Historical Society in 1971. It still sits at 115 Tallmadge Circle, which is where Bacon wanted the church.",
+    long: "",
+    names: ["Lemuel Porter"]
+  },
 
 
 

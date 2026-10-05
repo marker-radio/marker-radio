@@ -49850,7 +49850,500 @@ const STORIES = [
     short: "The Northwestern Ohio Volunteer Firemen's Association was organized in Ada in 1874, to look after the safety of volunteer fire companies. The marker is at 525 North Main Street, at the Ada-Liberty Township firehouse. A railroad town that burned easy decided the firemen needed their own association.",
     long: "",
     names: ["Northwestern Ohio Volunteer Firemen's Association"]
-  }
+  },
+
+  {
+    id: "approach-adamsville",
+    name: "Adamsville",
+    lat: 40.068893,
+    lng: -81.882637,
+    radius: 4500,
+    layer: "approach",
+    short: "You are coming up on Adamsville. Small Muskingum County village on the road northeast of Zanesville. Mordecai Adams platted it in 1832. There was never a railroad here. If you drop into town, I'll start on the original plat.",
+    long: "",
+    names: ["Adamsville"]
+  },
+  {
+    id: "adamsville-founding",
+    name: "Adamsville",
+    lat: 40.068893,
+    lng: -81.882637,
+    radius: 700,
+    short: "Mordecai Adams owned the quarter section and laid the town out in forty lots. The plat was recorded on April 30, 1832. He was the first resident, in a house on lot 16 that was later moved onto Main Street. He is not buried here. He moved to Shannon and died there. A. H. Wheeler added lots to the north in 1835. Jared Cone added more to the east and south in 1841, 1847, and 1850. The village incorporated in 1864. Some accounts say the name honors John Quincy Adams. The local record says the town took the proprietor's name.",
+    long: "",
+    names: ["Mordecai Adams", "Jared Cone", "A. H. Wheeler"]
+  },
+  {
+    id: "adamsville-reasoner",
+    name: "Dr. Jacob Reasoner",
+    lat: 40.068893,
+    lng: -81.882637,
+    radius: 500,
+    short: "Dr. Jacob Reasoner was the town's first physician. The village gave him lot 10, across from Mordecai Adams, if he would move his practice here. He built a frame cottage in the spring of 1833, the second house in town. It later became a harness and saddle shop, then was torn down for a two-story store that still stood in the 1880s. That store held the post office after John W. Garrett was appointed postmaster in 1868.",
+    long: "",
+    names: ["Jacob Reasoner", "John W. Garrett"]
+  },
+  {
+    id: "adamsville-post-office",
+    name: "The post office",
+    lat: 40.069000,
+    lng: -81.868000,
+    radius: 800,
+    short: "The Adamsville post office opened about a mile east of the plat in 1827, before the town existed. Jonathan Starkey was postmaster. It moved into the village in 1835, and Jared Cone took the office. The mail arrived on a wagon. The railroad never did. An 1880s history put the town seven miles from the nearest tracks, thirteen miles northeast of Zanesville and ten miles east of Dresden, and still called it a trade town.",
+    long: "",
+    names: ["Jonathan Starkey", "Jared Cone"]
+  },
+  {
+    id: "adamsville-mills",
+    name: "The mills",
+    lat: 40.068893,
+    lng: -81.882637,
+    radius: 900,
+    short: "Charles Sturtz built a sawmill on a branch of Symmes Run in 1836. Most of the lumber in the early houses came from it. About 1850 Isaac Stiers and Samuel Harris put up a steam sawmill. It passed to Shrigley, then G. W. Shoemaker, then John Skinner, and burned in 1856. Charles Beck built a steam grist mill near town in 1862. He sold it in 1873 to John D. Hanks. There was no railroad to haul for them. The creek and the road did the work.",
+    long: "",
+    names: ["Charles Sturtz", "Charles Beck", "John D. Hanks"]
+  },
+  {
+    id: "adamsville-baptist",
+    name: "Adamsville Baptist Cemetery",
+    lat: 40.069167,
+    lng: -81.880000,
+    radius: 500,
+    short: "Salem Baptist Church was organized in October 1818. A hewed-log church went up east of town in 1822, was replaced in 1838, and again in 1872. William Spencer was a charter member and preached here for twenty-one years. The congregation disbanded in 1924. The building came down about 1948. The cemetery remained. William A. M. Sedwick, one of the ministers, is buried in it. Mordecai and Hannah Adams were charter members. He is not in this ground.",
+    long: "",
+    names: ["William Spencer", "William A. M. Sedwick", "Mordecai Adams"]
+  },
+  {
+    id: "adamsville-new-hope",
+    name: "New Hope Lutheran",
+    lat: 40.069722,
+    lng: -81.851667,
+    radius: 600,
+    short: "New Hope Evangelical Lutheran Church was organized in 1811 by Rev. Anthony Weyer, before Adamsville was platted. Jacob Gaumer, a gunsmith, and the Shroyer, Wertz, Bainter, and Shurtz families were in the first membership. The first church went up in 1817 on land Gaumer gave. A brick church followed in 1838, and a frame church was dedicated on May 28, 1871. The church and cemetery sit about a mile and a half east of the village, on the old road toward Coshocton.",
+    long: "",
+    names: ["Anthony Weyer", "Jacob Gaumer"]
+  },
+  {
+    id: "adamsville-methodist",
+    name: "The Methodist barn",
+    lat: 40.068893,
+    lng: -81.882637,
+    radius: 600,
+    short: "The Methodist class in Adamsville was formed about 1840 by Rev. Thomas Buckle. They met in houses, and on May 16, 1841 they held the first quarterly meeting in Noah Honnold's barn. The church in town was built in 1842. John Stiers, Michael Ellis, and Noah Honnold were among the first members.",
+    long: "",
+    names: ["Thomas Buckle", "Noah Honnold"]
+  },
+  {
+    id: "adamsville-oak",
+    name: "The 1752 oak",
+    lat: 40.054400,
+    lng: -81.882600,
+    radius: 1200,
+    short: "In 1868 Sutherland Stiers cut a large white oak about a mile south of town. Inside the trunk he found a run of ax blazes. The marks dated to 1752, before Bouquet and before Braddock, and before any settler we can name in this township. Nobody could say who made them. That tree is the oldest human mark I can put on this ground. I will not invent a village to go with it.",
+    long: "",
+    names: ["Sutherland Stiers"]
+  },
+
+  {
+    id: "approach-addyston",
+    name: "Addyston",
+    lat: 39.138123,
+    lng: -84.712834,
+    radius: 3500,
+    layer: "approach",
+    short: "You are coming up on Addyston. Ohio River town on U.S. 50, west of Cincinnati. It was called Coal City before a Canadian iron man built a pipe foundry and named the town for himself. If you stay on the river road, I'll start at the marker on Main Street.",
+    long: "",
+    names: ["Addyston"]
+  },
+  {
+    id: "addyston-marker",
+    name: "Addyston",
+    lat: 39.136917,
+    lng: -84.710133,
+    radius: 500,
+    short: "The historical marker at U.S. 50 and Main Street says the village was founded in 1891 and is on the National Register. The first village council met on September 2, 1891, with about a thousand residents. The historic district was listed in 1991. Burr Oak School had already been teaching farm children here since 1875, before there was a village.",
+    long: "",
+    names: ["Addyston"]
+  },
+  {
+    id: "addyston-coal",
+    name: "Coal City",
+    lat: 39.134500,
+    lng: -84.712000,
+    radius: 800,
+    short: "By the 1870s this riverfront was Coal City. Two coal elevators on the Ohio loaded so much coal that the landing took the name. The river was the road. The coal went out by boat. In 1889 Matthew Addy, a Canadian who had come from Montreal to Cincinnati, bought a piece of that riverfront.",
+    long: "",
+    names: ["Coal City", "Matthew Addy"]
+  },
+  {
+    id: "addyston-pipe",
+    name: "Addyston Pipe and Steel",
+    lat: 39.134000,
+    lng: -84.712500,
+    radius: 800,
+    short: "Matthew Addy built the Addyston Pipe and Steel Company on this bank. Iron came up from the South, was melted, and went back out as water pipe, gas pipe, and steam pipe. Early accounts put 1,400 men in the foundry and called Addy the Cincinnati Iron King. The village was the company town. By the early 1900s nearly 80 percent of the houses were rented to foundry workers. Many of the houses were ordered out of a Sears catalog. Workers came from the South, and from England, Germany, and Ireland. The plant later took the name U.S. Pipe and Steel and closed in 1950.",
+    long: "",
+    names: ["Matthew Addy", "Addyston Pipe and Steel Company"]
+  },
+  {
+    id: "addyston-antitrust",
+    name: "The pipe cartel",
+    lat: 39.134000,
+    lng: -84.712500,
+    radius: 700,
+    short: "In December 1894 Addyston Pipe and Steel joined five other pipe makers in a cartel. They divided the country and fixed the bids. William Howard Taft, then a judge on the Sixth Circuit, wrote the opinion that broke it. The Supreme Court agreed in 1899, in Addyston Pipe and Steel Company versus the United States. A company town on this riverbank became the name of a Sherman Act case.",
+    long: "",
+    names: ["William Howard Taft", "Addyston Pipe and Steel Company"]
+  },
+  {
+    id: "addyston-bricks",
+    name: "The Bricks",
+    lat: 39.137200,
+    lng: -84.711200,
+    radius: 400,
+    short: "The Bricks stands at Main Street and Church Street. It went up in 1872, while this was still Coal City, and housed foundry workers. Later it was a general store, a movie theater, a bar, and a pool hall. It is the biggest building in the old town.",
+    long: "",
+    names: ["The Bricks"]
+  },
+  {
+    id: "addyston-flood",
+    name: "The 1937 flood",
+    lat: 39.134500,
+    lng: -84.712000,
+    radius: 900,
+    short: "The Ohio River flood of 1937 wrecked Addyston. People in town still say it never fully came back. The foundry closed in 1950, and the Sekitan neighborhood went to blight. Monsanto took the old plant site in 1952, then Bayer in 1995, Lanxess in 2005, and Ineos in 2007. The river brought the coal, the pipe, the flood, and the chemical works, in that order.",
+    long: "",
+    names: ["Ohio River"]
+  },
+  {
+    id: "addyston-river",
+    name: "The Ohio",
+    lat: 39.133500,
+    lng: -84.712000,
+    radius: 800,
+    short: "Before Coal City, this bend of the Ohio was Shawnee country. The river was the road for them as it was for the coal boats. I am not putting Shawnee Lookout or William Henry Harrison's grave in this town. Those sit in the next places west. This card is only the bank the foundry was built on.",
+    long: "",
+    names: ["Shawnee", "Ohio River"]
+  },
+
+  {
+    id: "approach-adelphi",
+    name: "Adelphi",
+    lat: 39.464497,
+    lng: -82.746107,
+    radius: 4000,
+    layer: "approach",
+    short: "You are coming up on Adelphi. Ross County village on State Route 180, in the northeast corner of Colerain Township. Two brothers had it laid out in 1804, and the name is Greek for brothers. If you drop into town, I'll start on the old plat.",
+    long: "",
+    names: ["Adelphi"]
+  },
+  {
+    id: "adelphi-founding",
+    name: "Adelphi",
+    lat: 39.464497,
+    lng: -82.746107,
+    radius: 600,
+    short: "Reuben and Henry Abrams were the proprietors. General Nathaniel Massie surveyed the town for them in 1804. Massie was the man who founded Chillicothe, and he had been a Revolutionary soldier. He is not buried here. The brothers named the place Adelphi, from the Greek for brothers. A post office was open by 1808. The legislature incorporated the village in 1838. I do not have a railroad in this town.",
+    long: "",
+    names: ["Reuben Abrams", "Henry Abrams", "Nathaniel Massie"]
+  },
+  {
+    id: "adelphi-cemetery",
+    name: "Adelphi Cemetery",
+    lat: 39.464497,
+    lng: -82.746107,
+    radius: 500,
+    short: "The first cemetery in Colerain Township sits with the Lutheran church on Concord Street. Burials began as early as 1807, three years after the plat. The Lutheran congregation, the first church in town, organized in 1810. Two smaller grounds, Old Methodist and Belleview-Strouse, are on Market Street. Green Summit Cemetery, outside the village, took the later burials.",
+    long: "",
+    names: ["Adelphi Cemetery"]
+  },
+  {
+    id: "adelphi-purdue",
+    name: "John Purdue",
+    lat: 39.464497,
+    lng: -82.746107,
+    radius: 500,
+    short: "John Purdue was born in 1802 in Huntingdon County, Pennsylvania. The family moved to this part of Ross County in the early 1820s. His father died about the time of the move, and John was apprenticed to a merchant in Adelphi. He taught school, sold neighbors' hogs on commission, and in 1833 opened a general store here with Moses Fowler. Around 1839 they closed the Ohio business and moved to Lafayette, Indiana. The gift that started Purdue University came from the man who kept that store. He is buried on the campus, not in this cemetery.",
+    long: "",
+    names: ["John Purdue", "Moses Fowler"]
+  },
+  {
+    id: "adelphi-kitchen",
+    name: "Tella Kitchen",
+    lat: 39.460000,
+    lng: -82.746107,
+    radius: 900,
+    short: "Tella Denehue was born in 1902 near Londonderry. She married Noland Kitchen in 1920 and they settled in Adelphi. He was mayor. They farmed, ran a gas station, sold used cars, and kept a greenhouse. He died in 1963, and she followed him as mayor. Her son Denny gave her a box of paints. She started around age 67 and painted the town and the country she remembered. The American Folk Art Museum collected her. She died in Circleville on June 21, 1988. The stone in Green Summit Cemetery, just outside the village, reads Tella Denehue Kitchen, 1902 to 1988.",
+    long: "",
+    names: ["Tella Kitchen", "Noland Kitchen"]
+  },
+  {
+    id: "adelphi-paper",
+    name: "Border News",
+    lat: 39.464497,
+    lng: -82.746107,
+    radius: 400,
+    short: "A lodge of Odd Fellows was organized here in July 1848. The first newspaper, the Adelphi Border News, started on January 1, 1879. D. F. Shriner was the publisher. A town of a few hundred people had a lodge and a paper before it had a railroad.",
+    long: "",
+    names: ["D. F. Shriner"]
+  },
+  {
+    id: "adelphi-salt-creek",
+    name: "Salt Creek",
+    lat: 39.464497,
+    lng: -82.746107,
+    radius: 1000,
+    short: "Salt Creek and Laurel Run drain this corner of the township toward the Scioto. Salt in a creek name usually means a lick, and licks were older than plats. This was Shawnee country before Massie ran the lines. Chillicothe, to the south, was one of their towns. I do not have a marked village or mound inside Adelphi, so I will not invent one.",
+    long: "",
+    names: ["Shawnee", "Salt Creek"]
+  },
+
+  {
+    id: "approach-adena",
+    name: "Adena",
+    lat: 40.216663,
+    lng: -80.876210,
+    radius: 4000,
+    layer: "approach",
+    short: "You are coming up on Adena. Old coal town on the Jefferson and Harrison county line, southeast of Cadiz. The railroad came through in the 1870s. The mines came after. If you drop into town, I'll start with the name.",
+    long: "",
+    names: ["Adena"]
+  },
+  {
+    id: "adena-name",
+    name: "Adena",
+    lat: 40.216181,
+    lng: -80.874256,
+    radius: 500,
+    short: "John McLaughlin named this place for Adena, Governor Thomas Worthington's estate in Chillicothe. The local account says the word is Hebrew and means a place remarkable for the delight of its situation. Worthington is not buried here. McLaughlin is. He, his wife, six daughters, and their son James lie in the Presbyterian churchyard in town. The Adena mound, and the ancient culture named from it, are on Worthington's ground in Chillicothe, not in this village.",
+    long: "",
+    names: ["John McLaughlin", "Thomas Worthington"]
+  },
+  {
+    id: "adena-holmes",
+    name: "Holmes Meeting House",
+    lat: 40.216663,
+    lng: -80.876210,
+    radius: 800,
+    short: "Jacob Holmes was an Indian scout and held this ground by a government grant. Local history says the first church was Holmes Meeting House, a hewn-log Methodist church built in 1803 on the bank of Short Creek. The same account calls it maybe the oldest Methodist church in Ohio. I will leave it as the local claim. The pioneer cemetery is Holmes.",
+    long: "",
+    names: ["Jacob Holmes"]
+  },
+  {
+    id: "adena-mill",
+    name: "Parsons mill",
+    lat: 40.216000,
+    lng: -80.882000,
+    radius: 700,
+    short: "In 1801 Baldwin Parsons squatted on section 1, land that belonged to Joseph Applegate. In 1804 he built a water mill at the west end of what became Adena. It was the predecessor of Hagan's Mill. He is thought to be buried near the railroad, and there is no marker. A later mill in town, run by John Courtright and Oscar Paxton on water piped from Dark Hollow, burned in 1903.",
+    long: "",
+    names: ["Baldwin Parsons", "John Courtright"]
+  },
+  {
+    id: "adena-railroad",
+    name: "Adena Tunnel",
+    lat: 40.216000,
+    lng: -80.886000,
+    radius: 1200,
+    short: "The Wheeling and Lake Erie built its main line through town in the 1870s. Coal hoppers came off the Ohio Valley and went north to the port at Huron. The yard once held a half-dozen tracks. The tunnel just west of town is about 500 feet and was finished in 1899. On October 23, 1930, about 300 feet of it fell on the caboose of a freight. Two crewmen were killed. A third was hurt. Close to 3,000 people came to watch them dig. The line was later abandoned.",
+    long: "",
+    names: ["Wheeling and Lake Erie Railway"]
+  },
+  {
+    id: "adena-coal",
+    name: "The mines",
+    lat: 40.216663,
+    lng: -80.876210,
+    radius: 1000,
+    short: "The first mine near Adena opened in 1899. In the 1930s more than a dozen large mines were working, and the local figure is 3.3 million tons a year. The names people still say are Rose Valley, Blairmont, Roby, Maple Grove, Peanut, Penova, Sunshine, and Long Run. The village was not incorporated until 1908. Forty-five people lived here in 1880. In 1940 there were 1,703. The coal left, and so did the people.",
+    long: "",
+    names: ["Rose Valley", "Roby"]
+  },
+  {
+    id: "adena-post",
+    name: "The post office",
+    lat: 40.216663,
+    lng: -80.876210,
+    radius: 400,
+    short: "A post office called Adena was established in 1855. Peter Hixon was the first postmaster, though there was no mail route yet. When a route was opened, John Bendell was the first acting postmaster. The office is still here. W. P. Moore, mayor in 1920, got the streets paved after the mines had filled the town.",
+    long: "",
+    names: ["Peter Hixon", "John Bendell", "W. P. Moore"]
+  },
+  {
+    id: "adena-legion",
+    name: "The Legion mural",
+    lat: 40.216663,
+    lng: -80.876210,
+    radius: 400,
+    short: "The American Legion post in Adena carries a mural on the back wall. The Legion emblem is in the middle. Two eagles hold the stripes of the flag. This was not a battlefield. It was a mine town that sent its people to the wars and painted the reminder on the post.",
+    long: "",
+    names: ["American Legion"]
+  },
+
+  {
+    id: "approach-albany",
+    name: "Albany",
+    lat: 39.226537,
+    lng: -82.194711,
+    radius: 4000,
+    layer: "approach",
+    short: "You are coming up on Albany. Athens County farm town east of Athens. It was a market village and a stop on the Underground Railroad. The school they would not let Black students finish is the reason a second school was built. If you come in on Clinton Street, I'll start at the marker.",
+    long: "",
+    names: ["Albany"]
+  },
+  {
+    id: "albany-marker",
+    name: "Albany",
+    lat: 39.227783,
+    lng: -82.203383,
+    radius: 500,
+    short: "The state marker at 5264 West Clinton Street says the village was established in 1838 as a market center for the farms around it. White settlement had begun in the early 1800s. Other accounts say the plat was about 1832 and the incorporation was 1842. Public schools were thin, so private academies carried the town from the 1840s into the 1880s. Free Black families came for the schools and for neighbors who would help. Most of them had moved on by the 1930s. After the Second World War the village stopped being a trade town.",
+    long: "",
+    names: ["Albany"]
+  },
+  {
+    id: "albany-railroad",
+    name: "The freedom road",
+    lat: 39.226537,
+    lng: -82.194711,
+    radius: 700,
+    short: "This was not a steam railroad. It was the other one. The marker says anti-slavery feeling was strong here and many citizens worked on the Underground Railroad. Freedom seekers came up the Hocking from the Ohio, then overland. A marker at Berlin Crossroads, to the west, names Albany as the next station after Wilkesville, and Richmondale as the station after Albany. I do not have a railroad track in this village.",
+    long: "",
+    names: ["Underground Railroad", "Hocking River"]
+  },
+  {
+    id: "albany-lewis",
+    name: "Lewis Academy",
+    lat: 39.226537,
+    lng: -82.194711,
+    radius: 500,
+    short: "In 1848 William S. Lewis opened Lewis Academy and admitted students without regard to race or sex. He had been at Oberlin, and he brought that rule with him. In 1850 a stock company took the school and renamed it the Albany Manual Labor Academy, later the Albany Manual Labor University. Then Black students were refused further admission. That refusal is why the next school exists.",
+    long: "",
+    names: ["William S. Lewis"]
+  },
+  {
+    id: "albany-enterprise",
+    name: "Enterprise Academy",
+    lat: 39.227000,
+    lng: -82.194000,
+    radius: 600,
+    short: "Black families in the county founded the Albany Enterprise Academy so their children would have a school. A stock company bought twenty acres a half mile east of the Clinton Street marker and put up a brick chapel and a frame building. Classes opened in 1864 with 49 students. The village history says it was organized in 1862 and closed in 1886. The trustees included Thomas Jefferson Furguson, Cornelius Berry, Philip Clay, David Norman, Woodrow Wiley, and Jackson Wiley. The marker calls it the first educational institution operated by African Americans for African Americans. By the 1880s the students and the money were leaving, and the school closed.",
+    long: "",
+    names: ["Thomas Jefferson Furguson", "Cornelius Berry", "Enterprise Academy"]
+  },
+  {
+    id: "albany-furguson",
+    name: "Thomas Jefferson Furguson",
+    lat: 39.226537,
+    lng: -82.194711,
+    radius: 500,
+    short: "Thomas Jefferson Furguson lived from 1830 to 1887. He sat on the Albany council, helped found the Ohio Colored Teachers Association, and was the first Black man to serve on a jury in Athens County. In 1866 he published a pamphlet, Negro Education, the Hope of the Race, printed at Marietta. I do not have his grave in this village, so I will not put one here.",
+    long: "",
+    names: ["Thomas Jefferson Furguson"]
+  },
+  {
+    id: "albany-holland",
+    name: "Milton Holland",
+    lat: 39.227000,
+    lng: -82.194000,
+    radius: 500,
+    short: "The marker names two people who came out of this school and went farther. Olivia Davidson became the second wife of Booker T. Washington. Milton M. Holland was one of the first Black men awarded the Medal of Honor. He earned it with the 5th United States Colored Troops at New Market Heights on September 29, 1864. The town was not a battlefield. The war story here is the soldier the school sent.",
+    long: "",
+    names: ["Milton M. Holland", "Olivia Davidson", "Booker T. Washington"]
+  },
+  {
+    id: "albany-fire",
+    name: "The 1911 fire",
+    lat: 39.226537,
+    lng: -82.194711,
+    radius: 400,
+    short: "In the dark before dawn on May 2, 1911, a fire took a whole block of downtown Albany. Six stores, a hotel, and houses burned. Fourteen years earlier the other side of that block had burned, and most of it was rebuilt in brick. The brick did not save the next side.",
+    long: "",
+    names: ["Albany"]
+  },
+
+  {
+    id: "approach-alexandria",
+    name: "Alexandria",
+    lat: 40.090316,
+    lng: -82.612451,
+    radius: 4000,
+    layer: "approach",
+    short: "You are coming up on Alexandria. Licking County village on State Route 37, between Johnstown and Granville. A Maryland miller platted it in 1830. The railroad came later, on the line that is now the bike trail. If you stay on 37, I'll start at the founding marker.",
+    long: "",
+    names: ["Alexandria"]
+  },
+  {
+    id: "alexandria-marker",
+    name: "Alexandria",
+    lat: 40.093083,
+    lng: -82.619833,
+    radius: 500,
+    short: "The marker on Johnstown-Alexandria Road, at 2406, says the village was founded in 1830 by Alexander Devilbiss, and that this is the home of Ohio's first community council. The council was formed in the fall of 1830 to look after the town. One of the things it started was the library.",
+    long: "",
+    names: ["Alexander Devilbiss"]
+  },
+  {
+    id: "alexandria-devilbiss",
+    name: "Alexander Devilbiss",
+    lat: 40.090000,
+    lng: -82.614050,
+    radius: 400,
+    short: "Alexander Devilbiss was born in Frederick County, Maryland, on January 18, 1780. He moved to Licking County in 1821 and bought land in St. Albans Township for a mill on Raccoon Creek. The mill worked, so in April 1830 he platted a village to serve it and named the village for himself. He died in December 1831. He and his wife, Priscilla, are buried about 350 yards due south of the memorial at the library, on the terrace of Raccoon Valley, looking at the mill site. He also platted the old cemetery, and two of his nephews are in it.",
+    long: "",
+    names: ["Alexander Devilbiss", "Priscilla Devilbiss"]
+  },
+  {
+    id: "alexandria-railroad",
+    name: "Toledo and Ohio Central",
+    lat: 40.090316,
+    lng: -82.612451,
+    radius: 700,
+    short: "The Toledo and Ohio Central was the first railroad through this country. It was a coal road from the Ohio River mines toward the northwest, and it was the first passenger line into Alexandria, Granville, and Johnstown. The bed through town is now the T. J. Evans Trail. The National Road is the next road south. It does not run through this village.",
+    long: "",
+    names: ["Toledo and Ohio Central Railroad"]
+  },
+  {
+    id: "alexandria-miller",
+    name: "Willoughby Dayton Miller",
+    lat: 40.090000,
+    lng: -82.614050,
+    radius: 400,
+    short: "Willoughby Dayton Miller was born in Alexandria in 1853. He started in a one-room school near here. The work he did later, on what makes a tooth decay, is why he is called the father of modern dentistry. There is a marker for him in town, within sight of the Devilbiss memorial. He died in Newark in 1907. He is not in the terrace grave.",
+    long: "",
+    names: ["Willoughby Dayton Miller"]
+  },
+  {
+    id: "alexandria-tavern",
+    name: "The Old Tavern",
+    lat: 40.090316,
+    lng: -82.612451,
+    radius: 500,
+    short: "The Old Tavern stood in the village, and the bar room was where people settled arguments and the occasional lawsuit. A letter at the post office cost the person who received it twenty-five cents. Flour was four dollars a barrel. There was a tobacco factory, and a bank that stayed open while thirty-nine other banks in the state failed. The local account also says some of the churches here sheltered the anti-slavery movement. I do not have a named station, so I will not invent one.",
+    long: "",
+    names: ["Old Tavern"]
+  },
+  {
+    id: "alexandria-veterans",
+    name: "Veterans Memorial",
+    lat: 40.090316,
+    lng: -82.612451,
+    radius: 500,
+    short: "A veterans memorial and a marker that says Lest We Forget stand in the village, about a third of a mile from the founding sign on Route 37. This was not a battlefield. The memorial is the town's own list. Major General Charles Griffin's marker is miles from here, and it does not belong to this village.",
+    long: "",
+    names: ["Veterans Memorial"]
+  },
+  {
+    id: "alexandria-raccoon",
+    name: "Raccoon Creek",
+    lat: 40.087100,
+    lng: -82.614050,
+    radius: 700,
+    short: "Raccoon Creek is why the mill was here, and the mill is why the town was here. Before Devilbiss, this was Delaware country. The salt licks Gist wrote about in 1752 are down the Licking, near Marne, not in this plat. I do not have a marked Native village inside Alexandria, so I will not add one.",
+    long: "",
+    names: ["Raccoon Creek"]
+  },
+
 
 
 

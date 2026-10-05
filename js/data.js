@@ -48801,6 +48801,48 @@ const STORIES = [
     names: ["Ohio Turnpike"]
   },
 
+  {
+    id: "struthers-1799",
+    name: "October 19, 1799",
+    lat: 41.0526,
+    lng: -80.6081,
+    radius: 600,
+    short: "On August 30, 1798, John Struthers bought 400 acres in what was then Poland Township. He settled on October 19, 1799. The log cabin stood where the old parsonage of St. Nicholas Catholic Church later stood, on today's Lowellville Road. He built a grist mill in 1800, and a sawmill after that.",
+    long: "",
+    names: ["John Struthers"]
+  },
+  {
+    id: "struthers-hopewell",
+    name: "Hopewell Furnace",
+    lat: 41.0526,
+    lng: -80.6081,
+    radius: 800,
+    short: "Daniel and James Heaton, later spelled Eaton, came to Yellow Creek to make iron. They built Hopewell Furnace just below Lake Hamilton, about a mile and a quarter from the Mahoning. It was working by 1803 or 1804, two or three tons a day. The town calls it the first iron blast furnace west of the Alleghenies. In 1807 the brothers sold it to John Struthers, Robert Montgomery, and David Clendenin. The War of 1812 took the workmen. The furnaces went cold and did not start again, and Struthers lost the land.",
+    long: "",
+    names: ["Hopewell Furnace", "Daniel Heaton", "James Heaton"]
+  },
+  {
+    id: "struthers-thomas",
+    name: "Thomas Struthers",
+    lat: 41.0526,
+    lng: -80.6081,
+    radius: 500,
+    short: "In 1865 Thomas Struthers, John's son, bought the old homestead back and laid out the village in the family name. A post office opened in 1866. Two railroads came through for the coal. A sawmill went up in 1867.",
+    long: "",
+    names: ["Thomas Struthers"]
+  },
+  {
+    id: "struthers-anna",
+    name: "The Anna furnace",
+    lat: 41.0526,
+    lng: -80.6081,
+    radius: 600,
+    short: "The Struthers Furnace Company built the Anna furnace in 1869. It was the first one here made to burn coal instead of timber. It ran until 1953 and was torn down in 1966. In 2003 the state marked Hopewell as the start of the iron business in this valley.",
+    long: "",
+    names: ["Anna furnace"]
+  },
+
+
 
 
 

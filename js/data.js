@@ -48154,6 +48154,38 @@ const STORIES = [
     long: "",
     names: ["Frances Janssen", "George D. Major"]
   },
+  {
+    id: "approach-renollet-oh",
+    name: "Renollet",
+    lat: 41.2454,
+    lng: -84.4959,
+    radius: 5000,
+    layer: "approach",
+    short: "You are coming up on Renollet. A Wabash stop in Emerald Township, Paulding County, three miles east of Emmett. The buildings are gone. If you cross Road 139 and Road 236, the station was on the south side of the tracks.",
+    long: "",
+    names: ["Renollet"]
+  },
+  {
+    id: "renollet-1910",
+    name: "Nutter and Russell",
+    lat: 41.2454,
+    lng: -84.4959,
+    radius: 600,
+    short: "The Paulding Democrat of December 15, 1910, called this the new station on the Wabash. The railroad put in a side track. Nutter and Russell of Paulding built the grain warehouse. A store and a blacksmith shop followed, along the north side of Road 236.",
+    long: "",
+    names: ["Nutter and Russell"]
+  },
+  {
+    id: "renollet-nutter",
+    name: "John Nutter's children",
+    lat: 41.2454,
+    lng: -84.4959,
+    radius: 700,
+    short: "On the evening of March 28, 1920, the tornado killed six people here. Four of them were the children of John Nutter. The elevator, the store, and the houses did not come back.",
+    long: "",
+    names: ["John Nutter"]
+  },
+
 
 
 

@@ -48841,7 +48841,46 @@ const STORIES = [
     long: "",
     names: ["Anna furnace"]
   },
-
+  {
+    id: "south-euclid-1917",
+    name: "The south end",
+    lat: 41.5231,
+    lng: -81.5185,
+    radius: 700,
+    short: "South Euclid was the south end of Euclid Township. It incorporated as a village in 1917 and as a city in June 1941. It covers 4.7 square miles. In 1920 the count was 1,605. By 1940 it was 6,146. After the Second World War it nearly quintupled, to 29,579 in 1970. The Hillcrest name on this ridge comes from the old telephone exchange, not from a hill someone named.",
+    long: "",
+    names: ["South Euclid"]
+  },
+  {
+    id: "south-euclid-bluestone",
+    name: "Duncan McFarland",
+    lat: 41.5231,
+    lng: -81.5185,
+    radius: 700,
+    short: "In 1867 Duncan McFarland opened a quarry on the east bank of Euclid Creek. In 1871 his sons, James and Thomas, opened one on the west bank. They sold out in 1875 to the Forest City Stone Company. A village called Bluestone grew at Green and Bluestone roads. About 400 people lived there, with a store, a post office, two saloons, a temperance hall, a church, and boarding houses. In the 1890s five quarries were working, and the crews came from Sweden, Italy, Ireland, and Canada. Concrete started replacing the stone around 1910. When South Euclid incorporated in 1917, Bluestone went with it.",
+    long: "",
+    names: ["Duncan McFarland", "Bluestone"]
+  },
+  {
+    id: "south-euclid-rail",
+    name: "The quarry railroad",
+    lat: 41.5231,
+    lng: -81.5185,
+    radius: 600,
+    short: "A plank toll road went down Mayfield in 1877. An interurban arrived in 1899. The Euclid Railroad was incorporated on October 11, 1883. It left the Nickel Plate just north of Euclid Avenue and ran about a mile and a half south to the quarries. It hauled the stone out, and later the coal for South Euclid and Cleveland Heights.",
+    long: "",
+    names: ["Euclid Railroad"]
+  },
+  {
+    id: "south-euclid-hillcrest",
+    name: "After the war",
+    lat: 41.5231,
+    lng: -81.5185,
+    radius: 700,
+    short: "The people who filled the ridge after the Second World War came along Mayfield. A lot of them were Italian, and a lot of them were Jewish. In the 1960s people here pushed to open the Hillcrest suburbs to Black buyers. The farms were already gone.",
+    long: "",
+    names: ["Mayfield Road"]
+  },
 
 
 

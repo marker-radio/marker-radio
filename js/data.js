@@ -48730,6 +48730,38 @@ const STORIES = [
     names: ["Van Sweringen Company"]
   },
 
+  {
+    id: "solon-1820",
+    name: "Bull Town lost",
+    lat: 41.3898,
+    lng: -81.4412,
+    radius: 800,
+    short: "This tract was Milan Township, on the Connecticut Western Reserve. In August 1820 a merchant, Isaac Bull, and a sea captain, Jason Robbins, came from Connecticut and raised a log cabin. The north ledge was dry, thin, and full of rattlesnakes. The rest had to be drained. In 1825 the county let the two families rename it. Bull Town and Robbinsburg were both proposed. They picked Solon, the middle name of Bull's twelve-year-old son, Lorenzo Solon Bull. He later became postmaster. The Greek lawmaker is only where the name started.",
+    long: "",
+    names: ["Isaac Bull", "Jason Robbins", "Lorenzo Solon Bull"]
+  },
+  {
+    id: "solon-1857",
+    name: "The Cleveland and Mahoning",
+    lat: 41.3898,
+    lng: -81.4412,
+    radius: 700,
+    short: "The first school opened in 1822, with seven pupils. After the swamp was drained, the farms grew corn and wheat, and five cheese factories made the dairy pay. In 1850 the township count was 1,034. In 1857 the Cleveland and Youngstown section of the Cleveland and Mahoning Railroad opened through here. SOM Center Road takes its name from Solon, Orange, and Mayfield, the three townships it crosses. People say it follows an older trail toward the salt springs near Chillicothe.",
+    long: "",
+    names: ["Cleveland and Mahoning Railroad"]
+  },
+  {
+    id: "solon-1960",
+    name: "December 5, 1960",
+    lat: 41.3898,
+    lng: -81.4412,
+    radius: 800,
+    short: "Solon incorporated as a village in 1917. The first factory was the Bready Cultimotor tractor company, in 1929. In 1947 the voters said yes to industry. The 1951 zoning code set aside 2,200 acres, about a sixth of the city, for plants that could not grow inside Cleveland. Solon became a city on December 5, 1960. It sits eighteen miles from Cleveland and covers twenty-one square miles.",
+    long: "",
+    names: ["Bready Cultimotor"]
+  },
+
+
 
 
 

@@ -48031,6 +48031,37 @@ const STORIES = [
     long: "",
     names: ["Prospect War Memorial"]
   },
+  {
+    id: "approach-prospect",
+    name: "Prospect",
+    lat: 40.4503,
+    lng: -83.1885,
+    radius: 7000,
+    layer: "approach",
+    short: "You are coming up on Prospect. Middletown first, on the east bank of the Scioto, between Marion and Delaware. Springs and a railroad. If you drop in, I'll start at Christian Gast's plat.",
+    long: "",
+    names: ["Prospect", "Middletown"]
+  },
+  {
+    id: "prospect-hall",
+    name: "Prospect Hall",
+    lat: 40.4503,
+    lng: -83.1885,
+    radius: 400,
+    short: "Prospect Hall opened in 1900. The village called it the opera house. Lectures, concerts, school plays, and graduations were held here. Durwood Lodge 153 of the Knights of Pythias has the building now.",
+    long: "",
+    names: ["Prospect Hall", "Knights of Pythias"]
+  },
+  {
+    id: "prospect-memorial",
+    name: "Prospect War Memorial",
+    lat: 40.4503,
+    lng: -83.1885,
+    radius: 400,
+    short: "The Prospect War Memorial stands at Main and Elm. The marker went up in 1984. This is the village roll, not a battlefield. The Greenville treaty line is south of town, on the LaRue road. The names of the men who left are here.",
+    long: "",
+    names: ["Prospect War Memorial"]
+  },
 
 
 

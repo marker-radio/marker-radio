@@ -49206,6 +49206,36 @@ const STORIES = [
     long: "",
     names: ["Hyattsville"]
   },
+  {
+    id: "tipp-clark",
+    name: "John Clark",
+    lat: 39.9634,
+    lng: -84.1722,
+    radius: 600,
+    short: "In 1828 Robert Evans bought a 140-acre farm in the middle of what is now town. He spent eleven years clearing it, then in 1839 he traded it to his brother-in-law, John Clark. Clark had come to Cowlesville in 1810 with his mother. In 1820 he built a flatboat at the mouth of Honey Creek, where the John Clark Memorial Bridge stands now, and hauled hides, flour, and pork to Cincinnati. The canal was through here by about 1837. The road from Greenville to Springfield, now State Route 571, had been a state route since 1817. Clark had the ground surveyed. The first plat, recorded in 1840, had seventeen lots.",
+    long: "",
+    names: ["John Clark", "Robert Evans"]
+  },
+  {
+    id: "tipp-name",
+    name: "Tippecanoe and Tyler Too",
+    lat: 39.9634,
+    lng: -84.1722,
+    radius: 500,
+    short: "1840 was also the year William Henry Harrison ran for president on Tippecanoe and Tyler Too. The nickname came from the battle on November 7, 1811, which was not fought here. Clark admired him and wrote Tippecanoe on the plat. Around 1850 people added the word City. In 1938 the town shortened it to Tipp City. The locks, dry now, are just east of downtown. The early blocks had a long row of bars for the boatmen.",
+    long: "",
+    names: ["William Henry Harrison"]
+  },
+  {
+    id: "tipp-municipal",
+    name: "The old municipal building",
+    lat: 39.9634,
+    lng: -84.1722,
+    radius: 400,
+    short: "The railroads of the 1850s and 1860s, including the Baltimore and Ohio, put the canal out of business. A ruin of an interurban repair barn is still on the edge of town. Tippecanoe City later took in Hyattsville, on Hyatt Street. The Old Municipal Building, about 1874, was the town hall, the jail, the post office, the library, and the social hall. Eighty-eight buildings sit in the Old Tippecanoe Main Street Historic District.",
+    long: "",
+    names: ["Hyattsville"]
+  },
 
 
 

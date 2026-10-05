@@ -52149,6 +52149,499 @@ const STORIES = [
     long: "",
     names: ["Athalia"]
   },
+  {
+    id: "approach-attica",
+    name: "Attica",
+    lat: 41.0900,
+    lng: -82.8880,
+    radius: 3500,
+    layer: "approach",
+    short: "You are coming up on Attica, in Venice Township, Seneca County, on State Route 4. That road was the Sandusky and Columbus turnpike. William and Samuel Miller, brothers from Pennsylvania, laid the town out on May 1, 1833. The name was already on the post office. The village incorporated in March 1850. If you stay on 4, I'll start at the name.",
+    long: "",
+    names: ["Attica"]
+  },
+  {
+    id: "attica-gilbert",
+    name: "The Post Office First",
+    lat: 41.0648,
+    lng: -82.8877,
+    radius: 300,
+    short: "Ezra Gilbert had lived in Attica, New York. He named the post office here for that town, and he was the postmaster. He also kept the first public house. The plat came after the name. David Risdon surveyed it, on section 10. Nathan Merriman kept the first store. Samuel Halsted, from New York, was among the first on the lots. In 1836 the place had twenty houses and about a hundred people.",
+    long: "",
+    names: ["Ezra Gilbert", "William Miller", "Samuel Miller"]
+  },
+  {
+    id: "attica-pike",
+    name: "The Pike",
+    lat: 41.0660,
+    lng: -82.8885,
+    radius: 400,
+    short: "Before the railroad, this was a pike town. The old book puts it 28 miles south of Sandusky and 77 from Columbus, on the traveled road from Fort Findlay through Tiffin toward New Haven. By the late 1840s it had a Presbyterian church, three stores, two hotels, a steam sawmill and gristmill, a foundry, cabinet shops, tailors, shoe shops, three blacksmiths, and three carriage shops. The county history names a lawyer, Lester Sutton, and about six doctors. The Attica Journal was edited by Dr. J. C. Myers.",
+    long: "",
+    names: ["Lester Sutton", "J. C. Myers"]
+  },
+  {
+    id: "attica-rail",
+    name: "A Mile and a Half South",
+    lat: 41.0430,
+    lng: -82.8880,
+    radius: 700,
+    short: "The Baltimore and Ohio did not come through the square. A station named Attica opened on January 1, 1874, about a mile and a half south of the village. The 1891 review still describes the town on the pike, and the depot off to the south, with express and telegraph. The town grew after the station. It did not move to it. If you are on the railroad and not on Route 4, this is the Attica the timetable meant.",
+    long: "",
+    names: ["Baltimore and Ohio Railroad"]
+  },
+  {
+    id: "attica-fire",
+    name: "Main and Tiffin",
+    lat: 41.0645,
+    lng: -82.8875,
+    radius: 200,
+    short: "The village election was April 6, 1850. John L. LaMeraux was the first mayor. Samuel Miller, one of the founders, was clerk. William Rininger was treasurer. In the winter of 1853 a fire took the buildings on the southeast corner of Main and Tiffin. Rininger bought the empty lot and built his store. Two or three years later the northwest corner burned. That was the frame hotel William Miller had built at the beginning, then owned by H. M. Chandler. Chandler replaced it with a brick block. The school that followed, in 1856 or 1857, was contracted to Levi Rice for 1,328 dollars and 42 cents.",
+    long: "",
+    names: ["John L. LaMeraux", "H. M. Chandler"]
+  },
+  {
+    id: "attica-churches",
+    name: "Four Churches",
+    lat: 41.0638,
+    lng: -82.8865,
+    radius: 300,
+    short: "By 1891 the Methodist Protestant church, built in 1878, had about two hundred members. The Baptist church dated from 1852. The Universalist church from 1860. The Catholic parish was organized in 1881, and the church went up in 1881 and 1882. Four rooms in the school, four teachers, and a superintendent. That is the public life of a pike town that the depot never quite swallowed.",
+    long: "",
+    names: ["Attica"]
+  },
+  {
+    id: "attica-honey",
+    name: "Honey Creek",
+    lat: 41.0800,
+    lng: -82.8900,
+    radius: 800,
+    short: "The township is older than the plat. In 1827 Cornelius Gilmore built a cabin on the south bank of Honey Creek, the first settler the county history claims for Venice. Thomas West, William McPherson, and Elisha Fair came the same year. On June 17, 1830, James McKibben arrived, and the history says there were fifteen families in the township. The creek is north of the square. The Millers drew the town in the farmland south of it.",
+    long: "",
+    names: ["Cornelius Gilmore", "Honey Creek"]
+  },
+  {
+    id: "attica-native",
+    name: "Seneca",
+    lat: 41.0700,
+    lng: -82.8800,
+    radius: 800,
+    short: "The county is named for the Seneca. With the Wyandot, they held this country between the Sandusky and the Honey Creek drainage. The pike through Attica is the later civilian road on the corridor from Fort Findlay. No battle is recorded on section 10. The war story here is the name of the county, and a town survey that came after the people of that name had been pushed off the creek.",
+    long: "",
+    names: ["Seneca", "Wyandot"]
+  },
+  {
+    id: "attica-legend",
+    name: "Not the Greek One",
+    lat: 41.0648,
+    lng: -82.8882,
+    radius: 200,
+    short: "People hear Attica and think of Greece, or of the prison town in New York. Gilbert was not naming a classical region. He was naming the New York town he had left, and he put the name on a post office before anyone platted a street. The Greek word and the prison are what outsiders bring. The public house and the mail are what he brought.",
+    long: "",
+    names: ["Ezra Gilbert"]
+  },
+
+  {
+    id: "approach-austinburg",
+    name: "Austinburg",
+    lat: 41.7850,
+    lng: -80.8550,
+    radius: 4000,
+    layer: "approach",
+    short: "You are coming up on Austinburg, in Ashtabula County, where State Routes 45 and 307 meet, just south of the I-90 exit. Judge Eliphalet Austin came out from Connecticut in the spring of 1799 and reached this ground in June. The township was named for him. If you take the exit or stay on 45, I'll start at the first Sunday.",
+    long: "",
+    names: ["Austinburg"]
+  },
+  {
+    id: "austinburg-austin",
+    name: "June 1799",
+    lat: 41.7720,
+    lng: -80.8547,
+    radius: 400,
+    short: "In the Connecticut Land Company drawing, Eliphalet Austin, William Battell, Samuel Rockwell, and Ephraim Robbins took Township 11, Range 4. The price in the record is 12,893 dollars and 15 cents, for 15,645 acres of woods and the Grand River. They formed the Torrington Land Company. In the spring of 1799 Austin came with two other couples and three hired men. They built cabins, cleared ground, and planted wheat. He went back to Connecticut and brought the colony the next year. From the first Sunday, work stopped. Someone read a sermon. They sang. In the summer of 1801 the Reverend Joseph Badger preached here. In October he organized the church the town still counts as the first Protestant congregation on the Western Reserve. It continues as the First United Church of Christ of Austinburg.",
+    long: "",
+    names: ["Eliphalet Austin", "Joseph Badger"]
+  },
+  {
+    id: "austinburg-school",
+    name: "The Barn",
+    lat: 41.7710,
+    lng: -80.8530,
+    radius: 300,
+    short: "The first school was held in Austin's barn. His daughter, Betsey Austin, taught it. The town's own line is home, church, and school, in that order, and the school really did start in the barn.",
+    long: "",
+    names: ["Betsey Austin"]
+  },
+  {
+    id: "austinburg-mills",
+    name: "Mechanicsville",
+    lat: 41.7600,
+    lng: -80.8700,
+    radius: 700,
+    short: "In 1801 Eliphalet Austin set up the first sawmill in the county, on the Grand River at Mechanicsville. Ambrose Humphrey added a gristmill. Later Dr. Orestes K. Hawley had a woolen mill, a gristmill, and a linseed-oil mill on that bank, and he gave the property to the school. The river was the power. The lake was a few miles north.",
+    long: "",
+    names: ["Ambrose Humphrey", "Orestes K. Hawley"]
+  },
+  {
+    id: "austinburg-institute",
+    name: "A Hundred Yoke",
+    lat: 41.7730,
+    lng: -80.8520,
+    radius: 350,
+    short: "On Washington's birthday, 1831, the legislature chartered the Ashtabula County School of Science and Industry, a manual-labor school to educate young men for the ministry. Lucius M. Austin, who had been teaching in a cooper shop, was the first principal. The first building stood near the river. In 1835 Joab Austin offered more money if the school would move about three miles to the present site and take the name Grand River Institute. The building was two stories, 36 by 50 feet. They put it on trucks they had to build themselves. A hundred yoke of oxen pulled. On the hill the chains snapped. The school got there, and it kept the name. The county history calls it one of the oldest schools on the Reserve.",
+    long: "",
+    names: ["Joab Austin", "Grand River Institute"]
+  },
+  {
+    id: "austinburg-omich",
+    name: "The Farewell",
+    lat: 41.7680,
+    lng: -80.8480,
+    radius: 600,
+    short: "The county history titles one chapter The Indian's Farewell. It says Chief Omich gave a feast for the newcomers, with beaver meat as the main dish, and spoke a valedictory for his people. I will not add words he did not leave on the page. The feast is the record that someone was already here, and that the speech was a leaving, not a welcome that lasted.",
+    long: "",
+    names: ["Omich"]
+  },
+  {
+    id: "austinburg-native",
+    name: "The Grand River",
+    lat: 41.7550,
+    lng: -80.8600,
+    radius: 900,
+    short: "The Grand River runs the south side of the township and enters Lake Erie a few miles north. This was the country of the people the settlers met at that feast, in the larger Erie and Iroquois border, and later the Western Reserve survey laid a grid on it. No battle is recorded on Austin's lots. The war in the chapter title is a farewell. The mills went up on the same river.",
+    long: "",
+    names: ["Grand River"]
+  },
+  {
+    id: "austinburg-legend",
+    name: "The Chains",
+    lat: 41.7725,
+    lng: -80.8535,
+    radius: 250,
+    short: "The story people repeat is the day a schoolhouse moved behind a hundred yoke of oxen and the chains broke like twine on the hill. The quieter fact is older. A sermon was read in a clearing in 1799, and a girl taught school in her father's barn, before there was an institute to move.",
+    long: "",
+    names: ["Grand River Institute", "Betsey Austin"]
+  },
+
+  {
+    id: "approach-bailey-lakes",
+    name: "Bailey Lakes",
+    lat: 40.9650,
+    lng: -82.3570,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Bailey Lakes, just south of Savannah, in Clear Creek Township, Ashland County. Before May 9, 1961, it was a fishing spot called Savannah Lake Park. The village took the Bailey name from a family farm, and the Lakes name from the water. Five lakes sit inside the limits. The 2020 census counted 349. If you turn in off U.S. 250, I'll start at Mud Lake.",
+    long: "",
+    names: ["Bailey Lakes"]
+  },
+  {
+    id: "bailey-mud",
+    name: "Mud Lake",
+    lat: 40.9475,
+    lng: -82.3550,
+    radius: 400,
+    short: "Savannah Lake is the old name. People call it Mud Lake. It covers about 42 acres. Water comes in from James Lake and from Spring Lake, and the Vermilion River begins at the outflow. The village site spells that river with two L's. The map spells it Vermilion. Either way, a river that reaches the lake starts in this village.",
+    long: "",
+    names: ["Vermilion River", "Mud Lake"]
+  },
+  {
+    id: "bailey-james",
+    name: "James Lake",
+    lat: 40.9505,
+    lng: -82.3585,
+    radius: 250,
+    short: "James Lake is four and a half acres, and the village owns it. Don and Mary Ringler gave it. It is named for James Ringler. It drains about 85 acres to the west, through three private lakes, and then it drains into Mud Lake. The public water in this town is a gift, not a millpond.",
+    long: "",
+    names: ["James Ringler", "Don and Mary Ringler"]
+  },
+  {
+    id: "bailey-light",
+    name: "The Lemmel Light",
+    lat: 40.9500,
+    lng: -82.3595,
+    radius: 200,
+    short: "The Lemmel Lighthouse stands on James Lake. The power came from a house on the southwest corner. Earl and Eleanor Lemmel moved into that house in 1958 and paid the electric bill for the light until 2005. The light is named for them. It is not a coast light. It is a lake of four acres, and a couple who kept it lit.",
+    long: "",
+    names: ["Earl Lemmel", "Eleanor Lemmel"]
+  },
+  {
+    id: "bailey-canoe",
+    name: "The Dugouts",
+    lat: 40.9480,
+    lng: -82.3560,
+    radius: 400,
+    short: "The village says three dugout canoes have come out of this lake, in 1957, in 1962, and the one they named for the Ringlers. A dragline, dredging the old Savannah Lake, brought up a canoe carved from a single white oak, about 23 feet long and close to 900 pounds. The county paper called it about 3,600 years old and said it went to the Cleveland Museum of Natural History. The village dates that Ringler canoe to 1976. The paper remembered 1974. I will not pick a year I cannot see on the boat. The boat is the fact.",
+    long: "",
+    names: ["Don and Mary Ringler"]
+  },
+  {
+    id: "bailey-road",
+    name: "No Depot",
+    lat: 40.9490,
+    lng: -82.3570,
+    radius: 300,
+    short: "There is no railroad story in this plat, and I will not borrow Savannah's. Bailey Lakes was a fishing shore that incorporated so it could govern itself. The road in is the one south from Savannah. The industry was the lakes, the cottages, and, in 1974 or 1976, a dredge filling what the paper called a nearby canal and finding a canoe instead.",
+    long: "",
+    names: ["Bailey Lakes"]
+  },
+  {
+    id: "bailey-native",
+    name: "Older Than the Name",
+    lat: 40.9485,
+    lng: -82.3545,
+    radius: 400,
+    short: "A canoe 3,600 years old was not made by the Wyandot, the Delaware, or the Shawnee. Those nations came to this country much later, along the Vermilion and the Black Fork. I will not put their name on that oak. What belongs to them is the river country. What belongs to the unknown maker is the boat in the mud. No battle is recorded in a village that did not exist until 1961. The war, if there was one, is older than the township.",
+    long: "",
+    names: ["Vermilion River"]
+  },
+  {
+    id: "bailey-legend",
+    name: "Five Lakes",
+    lat: 40.9495,
+    lng: -82.3575,
+    radius: 250,
+    short: "People argue the name. Some hear Bailey and look for a founder on a pedestal. The 2011 county paper is plain. The name is the lakes, five of them, and a farm family named Bailey. Three of the lakes are private and the village does not publish their names. The one they gave away is James. The one the river leaves from is Mud. The light is the Lemmels'. The oldest resident is a canoe.",
+    long: "",
+    names: ["Bailey Lakes"]
+  },
+
+  {
+    id: "approach-bainbridge-ross",
+    name: "Bainbridge",
+    lat: 39.2300,
+    lng: -83.3200,
+    radius: 4500,
+    layer: "approach",
+    short: "You are coming up on Bainbridge, in Paxton Township, Ross County, on U.S. 50 and State Route 41, along Paint Creek. Not the Bainbridge in Geauga County. This one carries the name of Commodore William Bainbridge. Nathaniel Massie is credited with the plat. The 2020 census counted 765. The building people come for is a brick house on West Main where a doctor taught dentistry. If you stay on 50, I'll start at the creek.",
+    long: "",
+    names: ["Bainbridge"]
+  },
+  {
+    id: "bainbridge-ross-paint",
+    name: "Paint Creek",
+    lat: 39.2280,
+    lng: -83.2500,
+    radius: 800,
+    short: "The creek is named for the red paint in the banks. Two miles east of the village the water makes the Horse Shoe Bend, turned by Copperas Mountain. The local account is that Massie first tried a town called Amsterdam at the falls, about 1800, and left it. Bainbridge is the later plat, on the higher ground. Elisha Kelly, a blacksmith, was one of the first settlers and a township officer. His shop kept eight to ten men at the anvil, because the pioneers needed iron more than they needed a dentist.",
+    long: "",
+    names: ["Paint Creek", "Elisha Kelly", "Nathaniel Massie"]
+  },
+  {
+    id: "bainbridge-ross-harris",
+    name: "The Cradle",
+    lat: 39.2268,
+    lng: -83.2725,
+    radius: 200,
+    short: "Dr. John Harris was from Pompey, New York. He practiced in Madison, Ohio, and then moved to this village. The brick house on West Main was built as a residence in 1815. In it, between 1825 and 1830, he taught medicine and dentistry together and ran a clinic. The marker calls it the first American school of instruction in dental surgery, and calls Harris the father of dental education. A class is remembered around 1827. His brother Chapin A. Harris went on to found the Baltimore College of Dental Surgery. His student James Taylor founded the next college. The plaque also names James H. Harris, Wesley Wampler, Edward P. Church, William Jones, John Allen, and John Jones. The Ohio State Dental Society bought the house and on November 24, 1940, dedicated it a shrine to dentistry. It opened as a museum in 1968 and went on the National Register in 1973.",
+    long: "",
+    names: ["John Harris", "Chapin A. Harris", "James Taylor"]
+  },
+  {
+    id: "bainbridge-ross-battle",
+    name: "Reeves Crossing",
+    lat: 39.2372,
+    lng: -83.2371,
+    radius: 700,
+    short: "On U.S. 50, east of the village, a 1936 marker says the last battle in the Scioto country was fought in the summer of 1795, half a mile southeast, at Reeves Crossing on Tod's Trace. Nathaniel Massie's men and the Shawnee. The marker says the explorers won. Joshua Robinson was killed, and several of the Shawnee. It was the year of the Treaty of Greenville. A fight that late is not an opening. It is the end of a war, on a trace the settlers then turned into a road.",
+    long: "",
+    names: ["Nathaniel Massie", "Joshua Robinson", "Shawnee"]
+  },
+  {
+    id: "bainbridge-ross-mounds",
+    name: "The Older Town",
+    lat: 39.2350,
+    lng: -83.2200,
+    radius: 1200,
+    short: "A few miles east, on Paint Creek, the ground is Hopewell. Markers out there talk about the anatomy of a mound and about ancient artists. Those earthworks are not a village park and they are not Shawnee. They are centuries older than Massie, older than the 1795 fight, older than the name Paint. The Shawnee were the nation in the battle. The mounds belong to a people the Shawnee were not. I will not collapse them into one story.",
+    long: "",
+    names: ["Hopewell", "Paint Creek"]
+  },
+  {
+    id: "bainbridge-ross-massie",
+    name: "Massie's House",
+    lat: 39.2200,
+    lng: -83.2550,
+    radius: 600,
+    short: "A marker for the home of General Nathaniel Massie stands a little over a mile from the dental school. Massie was the surveyor who founded Chillicothe and planted towns the way other men planted corn. His house is not the school, and the school is not the battlefield. Three markers, three centuries, inside a short drive on U.S. 50.",
+    long: "",
+    names: ["Nathaniel Massie"]
+  },
+  {
+    id: "bainbridge-ross-name",
+    name: "The Commodore",
+    lat: 39.2290,
+    lng: -83.2710,
+    radius: 250,
+    short: "The village is named for Commodore William Bainbridge. People jump to the fight with HMS Java, when he had the Constitution. That victory was December 1812. He was already a famous officer from the war with Tripoli, and the Paint Creek towns were being laid out years before the Java. I will not nail the plat to a battle that may have happened after the name. The commodore is the name. The dentist is the reason the town is known.",
+    long: "",
+    names: ["William Bainbridge"]
+  },
+  {
+    id: "bainbridge-ross-legend",
+    name: "Of All Places",
+    lat: 39.2270,
+    lng: -83.2720,
+    radius: 200,
+    short: "The line the historical society uses is that the cradle of American dental education is in Bainbridge, Ohio, of all places. A town on a creek named for red paint, a mile from a 1795 killing, a few miles from mounds. The first thing taught here that the world kept was how to pull a tooth and how to teach someone else to do it.",
+    long: "",
+    names: ["John Harris"]
+  },
+
+  {
+    id: "approach-bainbridge-geauga",
+    name: "Bainbridge",
+    lat: 41.3860,
+    lng: -81.3800,
+    radius: 4000,
+    layer: "approach",
+    short: "You are coming up on Bainbridge Township, in Geauga County, where U.S. 422 crosses State Route 306. Not the village in Ross County. This one was organized in 1817 and named for Commodore William Bainbridge of the Constitution, Old Ironsides, after the War of 1812. The first family had already been in the woods since 1811. If you stay on 422, I'll start at the cabin.",
+    long: "",
+    names: ["Bainbridge"]
+  },
+  {
+    id: "bainbridge-geauga-cabin",
+    name: "The Southeast Corner",
+    lat: 41.3600,
+    lng: -81.3000,
+    radius: 1500,
+    short: "David McConoughey and his family came from Blandford, Massachusetts, in 1811. The township history puts the trip at 600 miles. They built a cabin in the southeast corner and were the first residents. The county page spells the name McConoughy and says he bought 100 acres. Other families followed. In 1817, when the township government was set up, the count was 72 people. By 1820 it was 199. Around 1850 it passed a thousand. In 1940 it was 1,563. Auburn was inside this territory and was cut off a year after the founding. The township says the reason is unknown.",
+    long: "",
+    names: ["David McConoughey"]
+  },
+  {
+    id: "bainbridge-geauga-road",
+    name: "Chillicothe Road",
+    lat: 41.3864,
+    lng: -81.3396,
+    radius: 400,
+    short: "The oldest road was an Indian trail, widened into a gravel lane and called Chillicothe Road. Edward Paine surveyed it in 1801, ten years before the cabin. It is State Route 306. Three more roads went out, one toward Solon, one toward Chagrin, and one toward Auburn. The trail is older than the commodore the township is named for.",
+    long: "",
+    names: ["Edward Paine", "Chillicothe Road"]
+  },
+  {
+    id: "bainbridge-geauga-work",
+    name: "Sugar, Cheese, and a Saw",
+    lat: 41.3800,
+    lng: -81.3400,
+    radius: 700,
+    short: "The woods were maple, cherry, and oak. By 1820 a sawmill was running on the trees that had been cut to open fields. The maples were tapped for sugar. Cheese was the county crop, and Bainbridge made it with the rest of Geauga. That was the industry. Not a furnace and not a canal. A farm township with a mill.",
+    long: "",
+    names: ["Bainbridge"]
+  },
+  {
+    id: "bainbridge-geauga-rail",
+    name: "The Cars",
+    lat: 41.3850,
+    lng: -81.3450,
+    radius: 600,
+    short: "The first rail service through the township was in 1856. From 1900 to 1915 an electric line ran between Chagrin Falls and Garrettsville and passed through here. The steam road and the trolley are both gone. U.S. 422 is what replaced them.",
+    long: "",
+    names: ["Bainbridge"]
+  },
+  {
+    id: "bainbridge-geauga-lake",
+    name: "Geauga Lake",
+    lat: 41.3493,
+    lng: -81.3734,
+    radius: 800,
+    short: "The lake, on the south edge toward Aurora, was settled about 1826. The amusement park opened in 1884 and ran for more than a century. It closed after the 2007 season. The water is still there. The rides are not. For a lot of people from Cleveland, this township was the park, not the 1811 cabin.",
+    long: "",
+    names: ["Geauga Lake"]
+  },
+  {
+    id: "bainbridge-geauga-native",
+    name: "The Trail",
+    lat: 41.3900,
+    lng: -81.3400,
+    radius: 800,
+    short: "Chillicothe is a Shawnee word for a principal town, and the road that kept the word was already a trail when Paine surveyed it in 1801. This is Western Reserve land, sold in Connecticut and then walked. No battle is recorded on the McConoughey acres. The war in the township name happened on the ocean. The older traffic was on the trail, and the people who used it were gone before the cabin.",
+    long: "",
+    names: ["Shawnee"]
+  },
+  {
+    id: "bainbridge-geauga-legend",
+    name: "Two Bainbridges",
+    lat: 41.3864,
+    lng: -81.3390,
+    radius: 250,
+    short: "If the last town you heard was a dentist on Paint Creek, that was the other one. This Bainbridge is a township, the only one of that name in Ohio, named in 1817 for the commodore after he had Old Ironsides. The Ross County village wears the same man's name and argues about the year. Here the year is not the argument. The argument is whether you remember the park or the cabin.",
+    long: "",
+    names: ["William Bainbridge"]
+  },
+
+  {
+    id: "approach-bairdstown",
+    name: "Bairdstown",
+    lat: 41.1710,
+    lng: -83.6400,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Bairdstown, in Bloom Township, Wood County, east of North Baltimore. Josiah Baird platted it, and the plat was recorded in October 1874. The post office opened the same year. The village incorporated in 1881. The 1890 census counted 347. The 2020 census counted 115. If you come in on the Deshler road, I'll start at the swamp.",
+    long: "",
+    names: ["Bairdstown"]
+  },
+  {
+    id: "bairdstown-baird",
+    name: "Josiah Baird",
+    lat: 41.1711,
+    lng: -83.6072,
+    radius: 250,
+    short: "The record is short, and I will not stretch it. The place was platted for Josiah Baird. The plat was recorded in October 1874. It was named for him. A post office called Bairdstown opened in 1874 and closed in 1940. Incorporation came in 1881. That is the founder's page. No mill, no battle, no speech. A name on a plat in a county that was still drying out.",
+    long: "",
+    names: ["Josiah Baird"]
+  },
+  {
+    id: "bairdstown-swamp",
+    name: "The Black Swamp",
+    lat: 41.1750,
+    lng: -83.6100,
+    radius: 600,
+    short: "Bloom Township is Great Black Swamp ground. Wet forest, standing water, settlement that waited on ditches. By the time Baird recorded a plat, the ditches had made a farm town possible. The trees were the first crop. The fields came after. A village of a quarter square mile, all land and no lake, sits on work that does not show.",
+    long: "",
+    names: ["Black Swamp"]
+  },
+  {
+    id: "bairdstown-oil",
+    name: "After the Plat",
+    lat: 41.1720,
+    lng: -83.6200,
+    radius: 800,
+    short: "The oil came after the streets. On December 13, 1886, a crew under William Carothers, working for Vandergrift and McDonald, struck oil on the Dave Fulton farm near North Baltimore. Wood County became the field people called the King Bee. From 1886 to 1900 more than 14,000 wells were drilled in the county, most of them in the southern townships, and Bloom was one of those townships. Cygnet, a few miles off, led the production. I will not move Fulton's well onto Baird's lots. What the census shows is the result. 347 people in 1890. 158 by 1920. The post office lasted until 1940. The wells did not.",
+    long: "",
+    names: ["Dave Fulton", "Wood County"]
+  },
+  {
+    id: "bairdstown-road",
+    name: "Main Street",
+    lat: 41.1715,
+    lng: -83.6060,
+    radius: 200,
+    short: "There is a Main Street, a Deshler Road, and a Bairdstown Road. I will not give you a railroad company for this plat. The nearest famous tracks are the ones that served North Baltimore and the oil towns. This village kept a municipal building and, for a time, a post office. Part of it is in the North Baltimore school district. The public story is the count of people, not a depot I cannot prove.",
+    long: "",
+    names: ["Bairdstown"]
+  },
+  {
+    id: "bairdstown-native",
+    name: "Wet Ground",
+    lat: 41.1800,
+    lng: -83.6000,
+    radius: 800,
+    short: "The people of the Maumee, Ottawa among them, knew this country as swamp and trail, not as a grid. The War of 1812 in this county was at Fort Meigs, on the river, a long way from these lots. No fight is recorded on Baird's plat. The obstacle was the water in the woods. The ditches were the conquest, and they came in the decades before 1874.",
+    long: "",
+    names: ["Ottawa", "Black Swamp"]
+  },
+  {
+    id: "bairdstown-legend",
+    name: "115",
+    lat: 41.1711,
+    lng: -83.6075,
+    radius: 200,
+    short: "The legend, if there is one, is the number. A town named for the man who platted it, 347 people when the oil was new, 115 now. The post office closed in 1940 and the name stayed. That is how a swamp plat survives. Not as a boom town. As a place that still answers to the man on the map.",
+    long: "",
+    names: ["Josiah Baird"]
+  },
+
+
 
 
 

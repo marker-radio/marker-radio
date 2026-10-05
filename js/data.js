@@ -49586,6 +49586,48 @@ const STORIES = [
     long: "",
     names: ["James Galloway", "Tecumseh"]
   },
+  {
+    id: "approach-yellow-springs",
+    name: "Yellow Springs",
+    lat: 39.8017,
+    lng: -83.8927,
+    radius: 6000,
+    layer: "approach",
+    short: "You are coming up on Yellow Springs, on the Little Miami, just north of Xenia. The water stains the rocks. A failed commune came first. Then a college, and Horace Mann. If you drop in, I'll start at the spring.",
+    long: "",
+    names: ["Yellow Springs"]
+  },
+  {
+    id: "yellow-springs-owen",
+    name: "The iron water",
+    lat: 39.8017,
+    lng: -83.8927,
+    radius: 400,
+    short: "The spring throws a lot of water, and the iron in it paints the rock yellow. Ohio History Central puts it near 110 gallons a minute. A post office here was called Ludlow until 1823. In 1825 William Mills and about a hundred families, followers of Robert Owen, tried to build a common town on the model of New Harmony, Indiana. The vision did not hold. The hotels did. People came to drink the water. The Little Miami Railroad arrived in 1846. The village incorporated in 1856. In 1880 it had 1,337 people, seven churches, a newspaper, a sawmill, and a grain elevator.",
+    long: "",
+    names: ["William Mills", "Robert Owen"]
+  },
+  {
+    id: "yellow-springs-mann",
+    name: "Horace Mann",
+    lat: 39.8017,
+    lng: -83.8927,
+    radius: 400,
+    short: "The Christian Connection started Antioch College here. It opened in 1853. Horace Mann, the man who had built the public schools of Massachusetts, was the first president, and he died in 1859 still in the job. He told the last class to be ashamed to die until they had won some victory for humanity. The college took Black students and women from the start, which was the point of the place, not a later addition.",
+    long: "",
+    names: ["Horace Mann"]
+  },
+  {
+    id: "yellow-springs-morgan",
+    name: "The work term",
+    lat: 39.8017,
+    lng: -83.8927,
+    radius: 400,
+    short: "In 1920 Arthur Morgan became president and sent the students off campus to work, then back to class. That work-study plan is what other schools copied. Morgan later ran the Tennessee Valley Authority. Coretta Scott studied here before she was Coretta Scott King. John Bryan State Park is a few miles southeast, in the glen of the Little Miami. The spring is still the name. The college is still the reason people stop.",
+    long: "",
+    names: ["Arthur Morgan", "Coretta Scott King"]
+  },
+
 
 
 

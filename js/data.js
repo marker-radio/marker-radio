@@ -48528,6 +48528,47 @@ const STORIES = [
     long: "",
     names: ["Ford Frick"]
   },
+  {
+    id: "royal-center-1846",
+    name: "A New York name",
+    lat: 40.8648,
+    lng: -86.4994,
+    radius: 600,
+    short: "Royal Center is in Boone Township, Cass County. Settlers were here by the middle of the 1830s. The post office opened in 1841 or 1842, and the postmaster named the place for a town in New York. The plat went down in 1845 and 1846. The town incorporated in 1880. The 2020 count was 802. US 35 runs through, between Logansport and Winamac.",
+    long: "",
+    names: ["Royal Center"]
+  },
+  {
+    id: "royal-center-panhandle",
+    name: "The Panhandle",
+    lat: 40.8648,
+    lng: -86.4994,
+    radius: 700,
+    short: "The Pittsburgh, Cincinnati, Chicago and St. Louis Railroad reached Royal Center in 1861. People called the line the Panhandle. Passenger trains ran until 1975. The grade is now the Panhandle Pathway, twenty-two miles through Cass and Pulaski counties, across farm ground and the Tippecanoe.",
+    long: "",
+    names: ["Panhandle", "Pittsburgh, Cincinnati, Chicago and St. Louis Railroad"]
+  },
+  {
+    id: "royal-center-carnegie",
+    name: "The Carnegie library",
+    lat: 40.8648,
+    lng: -86.4994,
+    radius: 400,
+    short: "The Carnegie library stands at 203 North Chicago Street. In 1890 the town opened the Royal Center Bank and the Royal Center Record. A depot town that kept a library, a bank, and a paper.",
+    long: "",
+    names: ["Royal Center Record"]
+  },
+  {
+    id: "royal-center-miami",
+    name: "The 1834 sale",
+    lat: 40.8648,
+    lng: -86.4994,
+    radius: 800,
+    short: "This was Miami ground until 1834, when the United States bought the land to finish the Wabash and Erie Canal. The town itself is not on the canal. The sale is why the prairie opened. No fort is recorded on this plat.",
+    long: "",
+    names: ["Miami", "Wabash and Erie Canal"]
+  },
+
 
 
 

@@ -48760,6 +48760,47 @@ const STORIES = [
     long: "",
     names: ["Bready Cultimotor"]
   },
+  {
+    id: "strongsville-1818",
+    name: "The year without a summer",
+    lat: 41.3145,
+    lng: -81.8359,
+    radius: 800,
+    short: "John Stoughton Strong came from Marlboro, Vermont. In 1815 he agreed to buy land from the Ellsworths in Township Number 5 of the Western Reserve. He was to take seven lots of 160 acres at a dollar and a half an acre, and sell twenty-one more within a year at two dollars and a half. In February 1816 he led a party through Cleveland, then south on a trail along the Rocky River to Columbia, and on to this square. 1816 was the year without a summer, after Mount Tambora. They cleared about an acre and built cabins. Strong brought his family in 1818, to a log house just north of the center. The township was official on February 25, 1818, and it took his name.",
+    long: "",
+    names: ["John Stoughton Strong"]
+  },
+  {
+    id: "strongsville-commons",
+    name: "One dollar",
+    lat: 41.3145,
+    lng: -81.8359,
+    radius: 500,
+    short: "On April 1, 1821, John S. Strong gave the commons to the residents for one dollar. By 1820 the count was 297. The early work was two sawmills, sandstone quarries, and a brick yard. The township is still close to a perfect square, about twenty-five square miles, fifteen miles from Cleveland.",
+    long: "",
+    names: ["Strongsville Commons"]
+  },
+  {
+    id: "strongsville-pomeroy",
+    name: "The Homestead",
+    lat: 41.3145,
+    lng: -81.8359,
+    radius: 500,
+    short: "The Homestead was built in 1847, near Pearl and Royalton roads. People call it the Pomeroy House now. Alanson Pomeroy hid people who were running from slavery, then they were taken to boats on the Rocky River and on to Canada. In 1853 John D. Rockefeller's family moved to Strongsville. He was not born here. They were on their way.",
+    long: "",
+    names: ["Alanson Pomeroy", "John D. Rockefeller"]
+  },
+  {
+    id: "strongsville-1960",
+    name: "The turnpike",
+    lat: 41.3145,
+    lng: -81.8359,
+    radius: 900,
+    short: "Farming stayed the main work until after the Second World War. Strongsville incorporated as a village in 1927 and became a city in 1960. In 1955 the Ohio Turnpike cut through the north end, and the land around it started to sell.",
+    long: "",
+    names: ["Ohio Turnpike"]
+  },
+
 
 
 

@@ -48416,6 +48416,78 @@ const STORIES = [
     long: "",
     names: ["Rambo apple", "Hedges Nursery"]
   },
+  {
+    id: "approach-rocky-river",
+    name: "Rocky River",
+    lat: 41.4747,
+    lng: -81.8406,
+    radius: 6000,
+    layer: "approach",
+    short: "You are coming up on Rocky River. Lake Erie town west of Cleveland, named for the gorge on its east line. A toll bridge, a pottery, and a governor's house. If you drop in, I'll start on Detroit Road.",
+    long: "",
+    names: ["Rocky River"]
+  },
+  {
+    id: "rocky-river-founding",
+    name: "Rockport, then Rocky River",
+    lat: 41.4747,
+    lng: -81.8406,
+    radius: 800,
+    short: "This ground was Rockport Township, organized in 1819. Before 1891 people also called the place Granger City and Riverbank. It became a hamlet in 1891, a village in 1903, and a city in 1930. The mouth of the river was explored in 1805. The town sits on 4.7 square miles of shore, nine miles west of Cleveland. The gorge is the line with Lakewood.",
+    long: "",
+    names: ["Rockport Township"]
+  },
+  {
+    id: "rocky-river-kelley",
+    name: "Datus Kelley",
+    lat: 41.4747,
+    lng: -81.8406,
+    radius: 700,
+    short: "Datus Kelley was the first resident on the west side of the river. In 1810 he bought the land west of Wagar Road, from Detroit Road north to the lake, and built the first sawmill, near Elmwood and Detroit. Twenty-four years later he sold part of it to Reuben Wood, a Cleveland lawyer. Wood's house, Evergreen, stood at the southwest corner of Avalon and Wagar. Wood later became governor of Ohio.",
+    long: "",
+    names: ["Datus Kelley", "Reuben Wood"]
+  },
+  {
+    id: "rocky-river-bridge",
+    name: "The concrete arch",
+    lat: 41.4819,
+    lng: -81.8298,
+    radius: 600,
+    short: "Until 1821 you forded the Rocky River or took a ferry. A wooden toll bridge went up that year, and an iron bridge replaced it in 1890. In 1910 the Detroit-Rocky River Bridge opened, seven hundred feet, then the longest unreinforced concrete arch in the world. In 1964 the Clifton-Westlake Bridge opened north of it, eleven hundred thirty-nine feet. The 1910 bridge was demolished and replaced in 1980. Detroit Road is still the crossing.",
+    long: "",
+    names: ["Detroit-Rocky River Bridge"]
+  },
+  {
+    id: "rocky-river-cowan",
+    name: "Cowan Pottery",
+    lat: 41.4747,
+    lng: -81.8406,
+    radius: 600,
+    short: "This town never had much industry. The shops sit on Detroit Road and Center Ridge Road. The one people still collect is Cowan Pottery. R. Guy Cowan ran the studio on the side streets between Detroit Road and Lake Road. He is buried in Lakewood Park Cemetery, on Detroit Road.",
+    long: "",
+    names: ["R. Guy Cowan", "Cowan Pottery"]
+  },
+  {
+    id: "rocky-river-mouth",
+    name: "The island at the mouth",
+    lat: 41.4890,
+    lng: -81.8380,
+    radius: 800,
+    short: "The river was named by Native people who camped on the island at its mouth. The gorge on the east line is the Rocky River Reservation, the park that kept the valley from being built over. No fort is recorded on this bank. The crossing is the story.",
+    long: "",
+    names: ["Rocky River Reservation"]
+  },
+  {
+    id: "rocky-river-cemetery",
+    name: "Lakewood Park Cemetery",
+    lat: 41.4747,
+    lng: -81.8406,
+    radius: 500,
+    short: "Lakewood Park Cemetery, at 22025 Detroit Road, bought the land in 1914. The mausoleum went up in 1921. The stones are flat, on purpose. Buried here are Sammy Kaye, a Rocky River High graduate who led a big band; Jess Bell of Bonne Bell; pitcher Clint Brown; broadcaster Nev Chandler; Herb Score; Press editor Louis B. Seltzer; Vernon Stouffer; and David and Richard Jacobs, who owned the Indians.",
+    long: "",
+    names: ["Sammy Kaye", "Herb Score", "Vernon Stouffer", "Louis B. Seltzer"]
+  },
+
 
 
 

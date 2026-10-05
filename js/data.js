@@ -50965,6 +50965,558 @@ const STORIES = [
     names: ["Amherst"]
   },
 
+  {
+    id: "approach-amsterdam",
+    name: "Amsterdam",
+    lat: 40.4600,
+    lng: -80.9230,
+    radius: 4000,
+    layer: "approach",
+    short: "You are coming up on Amsterdam, on the Carroll County line in western Jefferson County. David Johnston laid it out in 1828 where Lick Run meets Yellow Creek. It nearly vanished, then coal and a railroad brought it back. If you stay on the main road, I'll start at the creek.",
+    long: "",
+    names: ["Amsterdam"]
+  },
+  {
+    id: "amsterdam-founding",
+    name: "Lick Run",
+    lat: 40.4737,
+    lng: -80.9229,
+    radius: 350,
+    short: "Johnston was called a Dutchman. He named the place Amsterdam. A post office opened in 1832. The Presbyterian church was organized in 1834, and a Methodist church soon after. In 1850 the census found 168 people. In 1870 it found 89. Then the village dropped out of the census.",
+    long: "",
+    names: ["David Johnston"]
+  },
+  {
+    id: "amsterdam-creek",
+    name: "Yellow Creek",
+    lat: 40.4796,
+    lng: -80.9166,
+    radius: 400,
+    short: "Locals also called the branch through town Goose Run. Lick Run, Goose Run, and the rest fall into Yellow Creek, and Yellow Creek falls into the Ohio. That water is why a town was tried in this hollow.",
+    long: "",
+    names: ["Yellow Creek"]
+  },
+  {
+    id: "amsterdam-rail",
+    name: "Lake Erie Alliance and Wheeling",
+    lat: 40.4745,
+    lng: -80.9210,
+    radius: 400,
+    short: "The boom rode in on the Lake Erie, Alliance and Wheeling Railroad. The line was built to carry coal out of these hills toward the lake and the river. The New York Central took it over as a coal branch. The county history says the railroad and the new mines turned a hamlet of 89 into a town of 600.",
+    long: "",
+    names: ["Lake Erie Alliance and Wheeling Railroad"]
+  },
+  {
+    id: "amsterdam-coal",
+    name: "The Boom",
+    lat: 40.4755,
+    lng: -80.9220,
+    radius: 400,
+    short: "The first oil well here was drilled in 1901. Petitioners incorporated the village on November 20, 1903, and put the population at 600. George Waggoner was the first mayor. John Crumbley was the first marshal. The People's Banking Company opened with $15,000 in capital. By 1909 its resources were about $150,000. Main Street was paved in 1910, in firebrick. A $25,000 hotel was started and ran out of money before the foundation was finished.",
+    long: "",
+    names: ["George Waggoner", "John Crumbley"]
+  },
+  {
+    id: "amsterdam-mine",
+    name: "Number 2",
+    lat: 40.4800,
+    lng: -80.9230,
+    radius: 500,
+    short: "The Youghiogheny and Ohio Coal Company worked Amsterdam Number 2, at the north end of town. On April 21, 1910, methane exploded in that mine. The state mine report counted 15 dead. On October 29, 1919, a fire in Number 2, blamed on an overheated fan, killed 20 men by smoke and carbon monoxide. James Gray, sixty-seven, and Stanley Hinoski, forty-one, died trying to get the others out. Gray's son James, seventeen, was among the dead.",
+    long: "",
+    names: ["Youghiogheny and Ohio Coal Company", "James Gray", "Stanley Hinoski"]
+  },
+  {
+    id: "amsterdam-park",
+    name: "Rogers Park",
+    lat: 40.4782,
+    lng: -80.9173,
+    radius: 300,
+    short: "Rogers Park is the village park, up by the creek at the north end. The mine houses stood in that same end of town. A few of the company houses outlasted the tipple.",
+    long: "",
+    names: ["Rogers Park"]
+  },
+  {
+    id: "amsterdam-logan",
+    name: "Mouth of the Creek",
+    lat: 40.4760,
+    lng: -80.9180,
+    radius: 600,
+    short: "This is not the place where Logan's family was killed. That was in 1774, at the mouth of Yellow Creek on the Ohio, miles downstream from here. The same creek. A different town. The hollow at Amsterdam was the headwater country those paths ran out of.",
+    long: "",
+    names: ["Logan", "Yellow Creek"]
+  },
+  {
+    id: "amsterdam-morgan",
+    name: "Passed By",
+    lat: 40.4725,
+    lng: -80.9240,
+    radius: 400,
+    short: "In 1863 John Hunt Morgan's raid crossed Jefferson County on the way to the river. The local history says he passed Amsterdam by. No battle in the street. The war that marked this town came later, underground.",
+    long: "",
+    names: ["John Hunt Morgan"]
+  },
+  {
+    id: "amsterdam-legend",
+    name: "Which Amsterdam",
+    lat: 40.4730,
+    lng: -80.9215,
+    radius: 300,
+    short: "People still argue the name. One story says Johnston meant the city in the Netherlands. A town memory says he may have meant Amsterdam, New York. Nobody wrote it down. The other Ohio Amsterdam, on the canal between Minster and New Bremen, died of cholera in 1849. This one died on paper in 1870, then the coal woke it up.",
+    long: "",
+    names: ["David Johnston"]
+  },
+
+  {
+    id: "approach-andover",
+    name: "Andover",
+    lat: 41.6070,
+    lng: -80.6300,
+    radius: 5000,
+    layer: "approach",
+    short: "You are coming up on Andover, on U.S. 6 in southeast Ashtabula County, a few miles from Pennsylvania. The name came from Andover, Connecticut, in a land drawing at Hartford in 1798. The first cabins were at West Andover. The village you see now won because a church and two railroads sat at the center. Pymatuning Lake is just east. If you stay on 6, I'll start at the old springs.",
+    long: "",
+    names: ["Andover"]
+  },
+  {
+    id: "andover-west",
+    name: "West Andover",
+    lat: 41.6067,
+    lng: -80.6120,
+    radius: 500,
+    short: "The first settlement was on the west side of the township, in the hills, because of the springs. Epaphras Lyman kept the post office in his house by 1815. The mail from Warren to the lake came through once a week, on a horse or on foot. The office was called Sharon until 1826, when the name became Andover. In 1814 Dorothy Houghton taught the first school in Francis Lyman's barn.",
+    long: "",
+    names: ["Epaphras Lyman", "Dorothy Houghton"]
+  },
+  {
+    id: "andover-center",
+    name: "The Center",
+    lat: 41.6077,
+    lng: -80.5707,
+    radius: 400,
+    short: "A Presbyterian church was organized at the old settlement in 1818. Andover Center did not have one until 1832. That church pulled people east, and West Andover thinned out. General Henry Champion had drawn this township, number 9 in range 1, at Hartford in 1798. It was named for Andover in Tolland County, Connecticut. The village incorporated in 1883.",
+    long: "",
+    names: ["Henry Champion"]
+  },
+  {
+    id: "andover-rail",
+    name: "The Junction",
+    lat: 41.6065,
+    lng: -80.5725,
+    radius: 400,
+    short: "In the early 1870s two railroads crossed at the center. That settled the argument. The village stayed where the tracks were, not back at the springs. Before the trains, the work was milling. After the country was cleared, Andover became a market for milk, and cheese and butter plants followed.",
+    long: "",
+    names: ["Andover"]
+  },
+  {
+    id: "andover-pymatuning",
+    name: "Pymatuning",
+    lat: 41.6035,
+    lng: -80.5334,
+    radius: 1500,
+    short: "Pymatuning Lake is the water east of the village, on the Pennsylvania line. The dam went in during the 1930s and drowned a great swamp. The name is older than the dam. It is said to mean the home of the man with the crooked mouth. The Ohio park is the public shore. The carp at the spillway are on the Pennsylvania side, at Linesville, not here. A drive-in theater still runs about two miles south of the village.",
+    long: "",
+    names: ["Pymatuning"]
+  },
+  {
+    id: "andover-people",
+    name: "Office and Boyhood",
+    lat: 41.6085,
+    lng: -80.5695,
+    radius: 350,
+    short: "Clarence Darrow opened his first law office in Andover in the early 1880s. He was not born here. Ellen Maria Wade was. She married Schuyler Colfax, who was vice president under Grant. The playwright Maxwell Anderson lived in the village as a boy.",
+    long: "",
+    names: ["Clarence Darrow", "Ellen Maria Wade", "Maxwell Anderson"]
+  },
+  {
+    id: "andover-freedom",
+    name: "Black Strings",
+    lat: 41.6090,
+    lng: -80.5680,
+    radius: 400,
+    short: "Freedom seekers were conducted through Andover on the way to the lake and Canada. After John Brown's raid at Harpers Ferry, a secret company called the Black Strings was started in Andover to protect his associates. The county history titles this township as John Brown's rendezvous. His raid was not fought here. The hiding, and the guard, were.",
+    long: "",
+    names: ["John Brown", "Black Strings"]
+  },
+  {
+    id: "andover-native",
+    name: "The Swamp",
+    lat: 41.6000,
+    lng: -80.5450,
+    radius: 1200,
+    short: "Before the Connecticut Land Company drew this township, the Erie and the people who came after them used the swamp that is now the lake. The settlers did not put the first cabins in that water. They put them at the springs on the west line, where a farm could be drained.",
+    long: "",
+    names: ["Erie"]
+  },
+  {
+    id: "andover-legend",
+    name: "The Springs Lost",
+    lat: 41.6072,
+    lng: -80.5900,
+    radius: 600,
+    short: "People will tell you West Andover had the water and still lost the town. A church went up at the center in 1832. Then the railroads crossed there. The springs are still in the hills. The storefronts are not.",
+    long: "",
+    names: ["West Andover"]
+  },
+
+  {
+    id: "approach-anna",
+    name: "Anna",
+    lat: 40.4000,
+    lng: -84.1450,
+    radius: 5500,
+    layer: "approach",
+    short: "You are coming up on Anna, just west of Interstate 75 in Shelby County. It began as Carey's Station on the Dayton and Michigan Railroad. The town calls itself the earthquake center of Ohio. The big one was March 9, 1937. If you take the exit, I'll start at the tracks.",
+    long: "",
+    names: ["Anna"]
+  },
+  {
+    id: "anna-founding",
+    name: "Carey's Station",
+    lat: 40.3950,
+    lng: -84.1753,
+    radius: 400,
+    short: "John W. Carey came from Dayton in 1833 and bought about a thousand acres west of the tracks, at a dollar and a quarter an acre. He had been a contractor on the Dayton and Michigan Railroad, and he laid out a station village here in 1858. John and Fletcher Thirkield surveyed it in 1867. Carey gave the name to his daughter, Anna Carey Thirkield. The village incorporated on June 26, 1877.",
+    long: "",
+    names: ["John W. Carey", "Anna Carey Thirkield"]
+  },
+  {
+    id: "anna-rail",
+    name: "The Tracks",
+    lat: 40.3955,
+    lng: -84.1780,
+    radius: 350,
+    short: "The railroad is why the station was here. Those tracks later ran as the Baltimore and Ohio. Josiah Greene farmed the strip between the railroad and what is now County Road 25-A. John Munch held the land east of Pike Street. In 1861 the first sawmill went up. Grain and lumber followed, and so did the Black Bull Inn.",
+    long: "",
+    names: ["Dayton and Michigan Railroad", "Baltimore and Ohio Railroad"]
+  },
+  {
+    id: "anna-quake",
+    name: "March 9, 1937",
+    lat: 40.3970,
+    lng: -84.1763,
+    radius: 350,
+    short: "On the morning of March 2, 1937, a quake hit Anna. People were still cleaning up when a stronger one came on March 9. It was magnitude 5.4, the largest earthquake recorded in Ohio. Intensity at the village was severe. Chimneys fell. The Lutheran and Methodist churches were badly damaged. The school was a total loss. The town hall's upper story was condemned and has not been used since. It was felt in Chicago and Toronto. Nobody was killed.",
+    long: "",
+    names: ["Anna"]
+  },
+  {
+    id: "anna-ground",
+    name: "Buried Valley",
+    lat: 40.3940,
+    lng: -84.1740,
+    radius: 500,
+    short: "Sidney, a few miles south, barely felt what wrecked Anna. The village sits on the deepest part of an old buried gorge, the course of the Teays River, filled with loose glacial till. The rock that shakes is the same fault country. The soft ground made the shock worse here than in the towns on shallow bedrock. More than forty quakes have been counted in this zone since 1875.",
+    long: "",
+    names: ["Teays River"]
+  },
+  {
+    id: "anna-park",
+    name: "City Park",
+    lat: 40.3966,
+    lng: -84.1807,
+    radius: 300,
+    short: "Anna City Park is the village park, west of the school. The school itself is the landmark of the quake. A board member, Dr. Delphis Milliette, had already learned the town sat on a fault and had insured the building for $30,000. The school that went up in 1938 with that money is still in use.",
+    long: "",
+    names: ["Delphis Milliette"]
+  },
+  {
+    id: "anna-people",
+    name: "The Parsonage",
+    lat: 40.3958,
+    lng: -84.1735,
+    radius: 300,
+    short: "Lois Lenski lived in Anna as a girl. Her father was the Lutheran minister. She grew up to write and draw children's books, and she won the Newbery Medal for Strawberry Girl. That book is about Florida, not this village. The girl the town is named for is Anna Carey Thirkield, not Lenski.",
+    long: "",
+    names: ["Lois Lenski", "Anna Carey Thirkield"]
+  },
+  {
+    id: "anna-native",
+    name: "Miami and Shawnee",
+    lat: 40.3920,
+    lng: -84.1800,
+    radius: 700,
+    short: "Before Carey's station, this was Miami and Shawnee country. Peter Loramie's trading post was downstream, at what became Fort Loramie, not in this village. The creek that carries his name heads in this same county.",
+    long: "",
+    names: ["Miami", "Shawnee", "Peter Loramie"]
+  },
+  {
+    id: "anna-legend",
+    name: "The Curse",
+    lat: 40.3960,
+    lng: -84.1750,
+    radius: 350,
+    short: "The story told in Anna is that Tecumseh tried to build an alliance here, that the Shawnee and the Miami refused him, and that he cursed the ground to tremble forever. It is a story. The quakes are not. March 2 and March 9, 1937, are in the state geology records. The curse is how the town explains them.",
+    long: "",
+    names: ["Tecumseh"]
+  },
+
+  {
+    id: "approach-ansonia",
+    name: "Ansonia",
+    lat: 40.2136,
+    lng: -84.6800,
+    radius: 4500,
+    layer: "approach",
+    short: "You are coming up on Ansonia, at State Routes 47 and 118 in northern Darke County. It was laid out in 1845 as Dallas, in the Stillwater bottoms. A railroad in 1852 turned the swamp timber into hubs and spokes. If you stay on 47, I'll start at the low ground.",
+    long: "",
+    names: ["Ansonia"]
+  },
+  {
+    id: "ansonia-dallas",
+    name: "Dallas",
+    lat: 40.2136,
+    lng: -84.6347,
+    radius: 350,
+    short: "The plat was called Dallas, near the east line of section 22 in Brown Township. It sits in the Stillwater bottoms, about forty-five feet lower than Greenville, eight miles south. Early accounts called it unhealthy. The ground around it was a morass, the spreads of the Stillwater, and it stayed that way for about forty years after settlement. Ditches in the 1860s and 1870s dried it. The village incorporated in 1867, still under the name Dallas. Ansonia is the later name.",
+    long: "",
+    names: ["Dallas"]
+  },
+  {
+    id: "ansonia-rail",
+    name: "Bee Line",
+    lat: 40.2145,
+    lng: -84.6330,
+    radius: 350,
+    short: "The Bee Line came through in 1852, and it did not go through the county seat. That is why this village grew. The road later became part of the Big Four. The Cincinnati Northern crossed it north and south, and the two lines shared a union station. The swamp had left the hardwood standing. The mills cut it into hubs, staves, and spokes.",
+    long: "",
+    names: ["Bee Line", "Cincinnati Northern Railroad"]
+  },
+  {
+    id: "ansonia-stillwater",
+    name: "Stillwater",
+    lat: 40.2203,
+    lng: -84.6288,
+    radius: 700,
+    short: "The North Fork of the Stillwater drains this township. The village was a trading point because the creek bottoms were the road, and because Greenville, Versailles, and Union City were each a long haul. The same low ground that made people sick before the ditches is what put the railroad on this line.",
+    long: "",
+    names: ["Stillwater River"]
+  },
+  {
+    id: "ansonia-school",
+    name: "Marble and Brick",
+    lat: 40.2155,
+    lng: -84.6360,
+    radius: 300,
+    short: "In 1873 the town built a two-story school for ten thousand dollars. That was the first home of Ansonia High School. It was torn down and replaced in 1903. In 1911 a marble mausoleum went up, the first in Darke County. The ball park and the shelter houses are the public ground now.",
+    long: "",
+    names: ["Ansonia"]
+  },
+  {
+    id: "ansonia-mastodon",
+    name: "Carter Farm",
+    lat: 40.2050,
+    lng: -84.6400,
+    radius: 1200,
+    short: "In the 1960s the Carter farm, near town, turned up a juvenile American mastodon, ground sloths, and other ice-age animals. The village history calls it the largest collection of ice-age mammals found in Ohio. The glaciers had sat on this swamp. The bones were in the same low country the ditches later dried.",
+    long: "",
+    names: ["American mastodon"]
+  },
+  {
+    id: "ansonia-trails",
+    name: "St. Clair and Wayne",
+    lat: 40.2100,
+    lng: -84.6500,
+    radius: 800,
+    short: "The army roads of Arthur St. Clair and Anthony Wayne crossed the western part of this township. St. Clair's march was 1791. Wayne's was 1794. The fight was not in Dallas. Fort Recovery is west of here. The treaty ground at Greenville is eight miles south. This was Miami and Shawnee country on the upper Stillwater, and then it was a swamp the armies skirted.",
+    long: "",
+    names: ["Arthur St. Clair", "Anthony Wayne", "Miami", "Shawnee"]
+  },
+  {
+    id: "ansonia-legend",
+    name: "Queen of Hearts",
+    lat: 40.2125,
+    lng: -84.6373,
+    radius: 250,
+    short: "In 2017 a Queen of Hearts drawing at the Whistle Stop, on South Main, packed the streets. The jackpot paid about $580,000. The winner was from St. Henry, not from Ansonia. The older mystery is the name. It was Dallas for a generation after the plat. Why it became Ansonia is thinner in the record than the railroad that made the town.",
+    long: "",
+    names: ["Whistle Stop"]
+  },
+
+  {
+    id: "approach-antioch",
+    name: "Antioch",
+    lat: 39.6611,
+    lng: -81.1000,
+    radius: 3500,
+    layer: "approach",
+    short: "You are coming up on Antioch, a ridge village in Perry Township, Monroe County. William Jarvis laid it out in 1837. In 1880 it had 210 people, three stores, and two hotels. The census now counts 71. The ground around it is Wayne National Forest. If you stay on the ridge, I'll start at the plat.",
+    long: "",
+    names: ["Antioch"]
+  },
+  {
+    id: "antioch-plat",
+    name: "Jarvis Plat",
+    lat: 39.6611,
+    lng: -81.0669,
+    radius: 250,
+    short: "Jarvis put the town on high ground, in the northwest corner of section 10. The post office used the same name. It was named for the ancient city of Antioch. By 1880 the ridge held three general stores, two blacksmith shops, two shoe shops, two hotels, two doctors, a wagon shop, millinery shops, and a water-powered grist and woolen mill.",
+    long: "",
+    names: ["William Jarvis"]
+  },
+  {
+    id: "antioch-dye",
+    name: "Dye's Settlement",
+    lat: 39.6520,
+    lng: -81.0550,
+    radius: 800,
+    short: "Jesse Fleming built a cabin in this township in 1800. It did not last. Permanent settlement started in 1812, when Daniel Dye and his sons Daniel, Vincent, David, Reuben, Enoch, and John settled about a mile and a half southeast of where the village stands. People called it Dye's Settlement for years after Antioch was on the map.",
+    long: "",
+    names: ["Daniel Dye", "Jesse Fleming"]
+  },
+  {
+    id: "antioch-church",
+    name: "Christian Church",
+    lat: 39.6618,
+    lng: -81.0655,
+    radius: 200,
+    short: "The second church in the township was the Christian Church at Antioch. Preachers came for years before there was a building. The frame church that followed was about thirty by forty feet and counted some 200 members, country people included. The Methodist church in town was a little larger, thirty-two by forty-five, with 116 members in 1880. The first church in the township was Unity Baptist, not this one.",
+    long: "",
+    names: ["Christian Church"]
+  },
+  {
+    id: "antioch-mill",
+    name: "Witten Fork",
+    lat: 39.6550,
+    lng: -81.0700,
+    radius: 700,
+    short: "Thomas Mitchell built the first water mill in the township on Witten Fork in 1826. The village mill came later, a gristmill and a woolen mill on the stream under the ridge. Mill Street is still on the map. The Little Muskingum drains these hills. The town sits up high because the bottoms flood and the ridge was where a store could stand.",
+    long: "",
+    names: ["Thomas Mitchell", "Witten Fork"]
+  },
+  {
+    id: "antioch-coal",
+    name: "Crane's Nest",
+    lat: 39.6700,
+    lng: -81.0800,
+    radius: 900,
+    short: "Coal shows in several places in this township. At Crane's Nest the seam was about four feet, thick for Monroe County. In 1882 a town was laid out at the coal banks on the creek. The 1882 history calls it Mechanicsville. It was not Antioch. Antioch stayed the store town on the ridge. The coal town was down at the bank.",
+    long: "",
+    names: ["Crane's Nest"]
+  },
+  {
+    id: "antioch-forest",
+    name: "Wayne National Forest",
+    lat: 39.6550,
+    lng: -81.0900,
+    radius: 1200,
+    short: "The public land here is Wayne National Forest, the hills around the village. There is no town square park. The open ground is the ridge and the woods. Antioch Cemetery is the marker of the larger town, the one that had two hotels.",
+    long: "",
+    names: ["Wayne National Forest"]
+  },
+  {
+    id: "antioch-native",
+    name: "The First Cabin",
+    lat: 39.6580,
+    lng: -81.0600,
+    radius: 700,
+    short: "This was late country for a cabin. Fleming's, in 1800, did not hold. The people already using the Muskingum hills were Delaware, Shawnee, and Mingo. The township history says Henry Johnson, remembered for an early encounter with Native people, died in Antioch. It does not tell the encounter. I will not invent it.",
+    long: "",
+    names: ["Henry Johnson"]
+  },
+  {
+    id: "antioch-legend",
+    name: "Two Hundred and Ten",
+    lat: 39.6605,
+    lng: -81.0675,
+    radius: 200,
+    short: "The name is a boast. Ancient Antioch was a great city. This one is a ridge in Monroe County. In 1880 it had 210 people and two doctors. In 2020 it had 71. The stores are gone. The churches were the last crowd. The name stayed.",
+    long: "",
+    names: ["Antioch"]
+  },
+
+  {
+    id: "approach-apple-creek",
+    name: "Apple Creek",
+    lat: 40.7700,
+    lng: -81.8700,
+    radius: 4500,
+    layer: "approach",
+    short: "You are coming up on Apple Creek, on U.S. 250 in East Union Township, Wayne County, southeast of Wooster. Two towns made it. Edinburg was the older plat. Apple Creek Station grew up on the railroad in the 1850s and swallowed it. They incorporated together in 1877. If you stay on 250, I'll start at the old plat.",
+    long: "",
+    names: ["Apple Creek"]
+  },
+  {
+    id: "apple-creek-edinburg",
+    name: "Edinburg",
+    lat: 40.7536,
+    lng: -81.8415,
+    radius: 400,
+    short: "Scotch-Irish families were here by 1817 and organized a Presbyterian church. William Thomas and John L. Cheyney laid out Edinburg. The county histories do not agree on the year. One says the plat was 1822. Another says the survey was 1832. The west end of town is still that older village. The geographers still write Edinburgh on the map.",
+    long: "",
+    names: ["William Thomas", "John L. Cheyney"]
+  },
+  {
+    id: "apple-creek-station",
+    name: "The Station",
+    lat: 40.7485,
+    lng: -81.8342,
+    radius: 350,
+    short: "The Cleveland, Mount Vernon and Columbus Railroad, also called the Cleveland, Akron and Columbus, crossed the creek here. A depot went up by 1852 where the tracks met the water. John Hindman platted Apple Creek Station in 1854 and built two groceries, a post office, a blacksmith shop, and a boarding house. Andrew Woodruff, a blacksmith, built the first house. John Hindman and Elisha Numbers built the next ones. The Pennsylvania Railroad took the line later. The passenger trains are gone.",
+    long: "",
+    names: ["John Hindman", "Andrew Woodruff"]
+  },
+  {
+    id: "apple-creek-creek",
+    name: "Apple Creek",
+    lat: 40.7475,
+    lng: -81.8330,
+    radius: 400,
+    short: "The station took its name from the creek the railroad had to cross. That creek is the reason the depot sat here and not back in Edinburg. The older town had the church. The newer one had the water and the train.",
+    long: "",
+    names: ["Apple Creek"]
+  },
+  {
+    id: "apple-creek-knight",
+    name: "The General",
+    lat: 40.7487,
+    lng: -81.8351,
+    radius: 250,
+    short: "A small park by the town hall honors William Knight, the village's Medal of Honor man. On April 12, 1862, he was the engineer of the Andrews raiders. They stole a locomotive called the General at Big Shanty, Georgia, and ran it north. The chase lasted about eighty-seven miles. Knight was captured, escaped, and got back to the Union army. The monument is a soldier and a bronze plaque.",
+    long: "",
+    names: ["William Knight", "The General"]
+  },
+  {
+    id: "apple-creek-sonnenberg",
+    name: "Sonnenberg",
+    lat: 40.7510,
+    lng: -81.8280,
+    radius: 500,
+    short: "East of the village is Sonnenberg, the old Swiss Mennonite settlement. Apple Creek did not start as a Mennonite town. The first church here was Presbyterian. The village became the market and the school town for the Mennonite farms of East Union Township. Wood shops and furniture works followed, on the edge of Amish country.",
+    long: "",
+    names: ["Sonnenberg"]
+  },
+  {
+    id: "apple-creek-institute",
+    name: "The State School",
+    lat: 40.7000,
+    lng: -81.8400,
+    radius: 1600,
+    short: "On February 14, 1931, the state opened a school south of town on Apple Creek Road, in what had been a tuberculosis hospital. It was the third institution of its kind in Ohio. The people sent there were labeled feeble-minded, which is the period word, not a kind one. The campus also held people with mental illness and others the counties did not want. By 1947 it was a farm of more than 2,100 acres, with its own power plant. About 2,300 people lived there in 1958. It closed in 2006. Most of the buildings are gone. A cemetery beside the Presbyterian burial ground holds 128 people who died as wards of the state.",
+    long: "",
+    names: ["Apple Creek Developmental Center"]
+  },
+  {
+    id: "apple-creek-native",
+    name: "Killbuck Country",
+    lat: 40.7450,
+    lng: -81.8300,
+    radius: 800,
+    short: "Before the Scotch-Irish church, this was Delaware country in the Killbuck drainage. Killbuck was a Delaware leader whose name is still on the water south of here. There is no recorded battle in Edinburg or at the station. The settlers came after the treaty era, onto creek ground the railroad later decided was worth a town.",
+    long: "",
+    names: ["Killbuck", "Delaware"]
+  },
+  {
+    id: "apple-creek-legend",
+    name: "Which Town",
+    lat: 40.7495,
+    lng: -81.8380,
+    radius: 400,
+    short: "People in Apple Creek will still tell you which end is Edinburg. The railroad town won the name, the depot, and the incorporation. The older plat kept the west end of Main Street. One village, two foundings, and a creek that got to keep the sign.",
+    long: "",
+    names: ["Edinburg", "Apple Creek"]
+  },
+
 
 
 

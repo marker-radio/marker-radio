@@ -49053,6 +49053,48 @@ const STORIES = [
     names: ["Luther Dodge", "Charles Eckels", "John Eckels"]
   },
 
+  {
+    id: "approach-sylvania",
+    name: "Sylvania",
+    lat: 41.7189,
+    lng: -83.7130,
+    radius: 8000,
+    layer: "approach",
+    short: "You are coming up on Sylvania, on the Michigan line. The name is Latin for woods. It almost got called Whiteford instead. If you drop into town, I'll start at Summit and Monroe.",
+    long: "",
+    names: ["Sylvania"]
+  },
+  {
+    id: "sylvania-white",
+    name: "General David White",
+    lat: 41.7189,
+    lng: -83.7130,
+    radius: 500,
+    short: "In 1832 General David White took title to a large piece of the east half of what became Sylvania. He built a log house at the northeast corner of Summit and Monroe. The local history ties his title of general to service in the War of 1812. This ground was still Port Lawrence Township, Monroe County, Michigan. The Toledo War had not drawn the line yet. The house later belonged to Peleg T. Clark, and after that to Hiram Hubbard.",
+    long: "",
+    names: ["David White"]
+  },
+  {
+    id: "sylvania-wilson",
+    name: "July 13, 1836",
+    lat: 41.7189,
+    lng: -83.7130,
+    radius: 500,
+    short: "Judge William Wilson was White's partner. They split. White wanted the name Whiteford. On July 11, 1835, he recorded that town at Monroe, Michigan, on the other side of the line. Wilson wanted Sylvania, the Latin word for woods. He recorded this plat on July 13, 1836. A granite boulder at Erie and Division marks that start. If they had agreed, this town would be Whiteford.",
+    long: "",
+    names: ["William Wilson", "Whiteford"]
+  },
+  {
+    id: "sylvania-academy",
+    name: "Stone Academy",
+    lat: 41.7189,
+    lng: -83.7130,
+    radius: 400,
+    short: "White paid for the first school in 1834, on the west side of Main, between Erie and the street then called Blank, now Maplewood. The trains on the curve north of Erie made so much noise they moved it. The Erie and Kalamazoo was the line. The first stone school opened in 1844, built of fossil stone from the quarry nearby, and they called it Stone Academy. A brick high school followed in 1869. The old depot is kept at the historical village.",
+    long: "",
+    names: ["Stone Academy"]
+  },
+
 
 
 

@@ -47683,6 +47683,68 @@ const STORIES = [
     long: "",
     names: ["Sue"]
   },
+  {
+    id: "approach-poe",
+    name: "Poe",
+    lat: 40.9358,
+    lng: -85.0869,
+    radius: 5500,
+    layer: "approach",
+    short: "You are coming up on Poe. A two-block hamlet in Marion Township, Allen County, on the St. Mary's. It was Williamsport first. If you drop in, I'll start at the mill.",
+    long: "",
+    names: ["Poe", "Williamsport"]
+  },
+  {
+    id: "poe-williamsport",
+    name: "Williamsport",
+    lat: 40.9358,
+    lng: -85.0869,
+    radius: 900,
+    short: "William Essig platted this place in 1848 and named it Williamsport, for himself. The post office refused that name. Indiana already had a Williamsport. The office was called Poe. An addition was platted in 1874, and the place had about a hundred people.",
+    long: "",
+    names: ["William Essig", "Williamsport", "Poe"]
+  },
+  {
+    id: "poe-st-marys",
+    name: "St. Mary's River",
+    lat: 40.9358,
+    lng: -85.0869,
+    radius: 1400,
+    short: "The town was laid out at Muldoon's Mill on the St. Mary's River. Before that, Essig ran a mill on Winchester Road at Mosquito Creek. People forded the river, then a bridge replaced the ford. The river and the mill are why a hamlet is here at all.",
+    long: "",
+    names: ["St. Mary's River", "Muldoon's Mill", "William Essig"]
+  },
+  {
+    id: "poe-essig",
+    name: "William Essig",
+    lat: 40.9342,
+    lng: -85.0833,
+    radius: 700,
+    short: "William Essig owned the land, platted the town, and is buried here with his family. His son-in-law Solomon Lichtenwalter bought the first lot, for fifty cents. Harvey Turner, who married another Essig daughter, bought lots from the United Brethren so the Christian Church could build.",
+    long: "",
+    names: ["William Essig", "Solomon Lichtenwalter", "Harvey Turner"]
+  },
+  {
+    id: "poe-cemetery",
+    name: "Poe Williamsport Cemetery",
+    lat: 40.9342,
+    lng: -85.0833,
+    radius: 500,
+    short: "Poe Williamsport Cemetery is on the east side of Winchester Road, at the south edge of town. On August 26, 1851, William Essig deeded this ground to the Lutheran Church. The deed said the bodies of suicides and notorious blasphemers were not to be buried here.",
+    long: "",
+    names: ["Poe Williamsport Cemetery", "William Essig"]
+  },
+  {
+    id: "poe-days",
+    name: "Poe Days",
+    lat: 40.9358,
+    lng: -85.0869,
+    radius: 800,
+    short: "Poe Days is the hamlet's own festival. It raises money for the fire department. The firehouse itself moved in the 1960s onto ground a neighbor gave. That is the present tense of a town that never grew past two blocks.",
+    long: "",
+    names: ["Poe Days"]
+  },
+
 
 
 

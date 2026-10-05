@@ -48952,6 +48952,48 @@ const STORIES = [
     long: "",
     names: ["Francis Kelsey", "Isaac Wilcox"]
   },
+  {
+    id: "steubenville-1797",
+    name: "August 25, 1797",
+    lat: 40.3698,
+    lng: -80.6340,
+    radius: 700,
+    short: "Bezaleel Wells and James Ross laid out Steubenville in 1797, on the bank below the old fort. The first lots sold on August 25, 1797. The fort had gone up in 1786 to cover the surveyors of the Seven Ranges. It was named for Baron Friedrich Wilhelm von Steuben, the Prussian drillmaster. He never set foot here. The fort you can walk through was started in 1986, on the original ground. Range 1, Township 1 of those ranges sits in the northwest corner of Wells Township, in this county.",
+    long: "",
+    names: ["Bezaleel Wells", "James Ross", "Friedrich Wilhelm von Steuben"]
+  },
+  {
+    id: "steubenville-hoge",
+    name: "David Hoge",
+    lat: 40.3585,
+    lng: -80.6145,
+    radius: 400,
+    short: "The Steubenville land office opened in 1800 to record deeds for the Northwest Territory. John Adams appointed David Hoge the first register. The old office building is still there, next to the fort. This is the counter where the Seven Ranges were sold.",
+    long: "",
+    names: ["David Hoge"]
+  },
+  {
+    id: "steubenville-wool",
+    name: "The Merino sheep",
+    lat: 40.3698,
+    lng: -80.6340,
+    radius: 600,
+    short: "In 1814 Bezaleel Wells brought Merino sheep here. In 1815 he built a woolen mill the city calls the first in the country. The Steubenville Female Seminary ran from 1829 to 1898 and graduated more than 5,000 women. Coal, paper, glass, pottery, nails, and steel came after the wool.",
+    long: "",
+    names: ["Bezaleel Wells"]
+  },
+  {
+    id: "steubenville-stanton",
+    name: "Edwin Stanton",
+    lat: 40.3698,
+    lng: -80.6340,
+    radius: 500,
+    short: "Edwin McMasters Stanton was born in Steubenville on December 19, 1814. He became Abraham Lincoln's Secretary of War in 1862. The singer on the mural left the river. Stanton ran the war from a desk, and he started on this bank.",
+    long: "",
+    names: ["Edwin McMasters Stanton"]
+  },
+
+
 
 
 

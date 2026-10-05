@@ -48689,7 +48689,46 @@ const STORIES = [
     long: "",
     names: ["William S. Pierson", "Johnson's Island"]
   },
-
+  {
+    id: "shaker-russell",
+    name: "North Union",
+    lat: 41.4739,
+    lng: -81.5370,
+    radius: 900,
+    short: "Ralph Russell gathered the North Union Shaker community here in 1822. They farmed the ridge and dammed Doan Brook for mills. The last of them left in 1889. The lakes are their ponds. The name on the city is theirs.",
+    long: "",
+    names: ["Ralph Russell", "North Union"]
+  },
+  {
+    id: "shaker-1911",
+    name: "A village of 250",
+    lat: 41.4739,
+    lng: -81.5370,
+    radius: 800,
+    short: "Oris P. and Mantis J. Van Sweringen started the garden city in 1905, after the Shakers were gone. In 1911 the tract left Cleveland Heights and incorporated as the village of Shaker Heights. About 250 people lived here. The country club opened in 1915. By 1920 the count was 1,700. It was a city by 1931.",
+    long: "",
+    names: ["Oris P. Van Sweringen", "Mantis J. Van Sweringen"]
+  },
+  {
+    id: "shaker-1920",
+    name: "April 11, 1920",
+    lat: 41.4739,
+    lng: -81.5370,
+    radius: 700,
+    short: "The brothers bought the Nickel Plate Railroad in 1916 and built their own line into town. The Shaker Rapid opened on April 11, 1920, on two branches, Shaker Boulevard and Moreland Boulevard, later Van Aken. In July 1930 the cars reached a station in the new Cleveland Union Terminal. The brothers' empire failed. The line went into receivership in 1935. The city of Shaker Heights took it on September 6, 1944, and sold it to the regional transit authority on September 5, 1975.",
+    long: "",
+    names: ["Shaker Rapid", "Nickel Plate"]
+  },
+  {
+    id: "shaker-deeds",
+    name: "Who could buy",
+    lat: 41.4739,
+    lng: -81.5370,
+    radius: 700,
+    short: "The curved streets were not open to everyone. The Van Sweringen Company wrote the deeds and enforced them. Black buyers were kept out. The garden-city talk and the restriction were the same plan.",
+    long: "",
+    names: ["Van Sweringen Company"]
+  },
 
 
 

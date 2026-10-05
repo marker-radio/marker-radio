@@ -47866,6 +47866,68 @@ const STORIES = [
     long: "",
     names: ["Robert Dafford", "Portsmouth Spartans", "Detroit Lions", "Branch Rickey", "Jackie Robinson", "Roy Rogers", "Leonard Slye"]
   },
+  {
+    id: "approach-powell",
+    name: "Powell",
+    lat: 40.1578,
+    lng: -83.0752,
+    radius: 7000,
+    layer: "approach",
+    short: "You are coming up on Powell. A village on the high ground north of Columbus, between the Scioto and the Olentangy. Middlebury first. If you drop in, I'll start at the old corner.",
+    long: "",
+    names: ["Powell"]
+  },
+  {
+    id: "powell-middlebury",
+    name: "Middlebury",
+    lat: 40.1578,
+    lng: -83.0752,
+    radius: 800,
+    short: "The first settlers came on May 1, 1801. The land was deeded to Thomas R. Hall. By 1813 the place was called Middlebury, for Middlebury, Connecticut, where many of them had lived. People also called it Hall's Corner. In 1857 the post office was approved by Judge Thomas Powell of Delaware. The village took his name. It was not a local family.",
+    long: "",
+    names: ["Thomas R. Hall", "Middlebury", "Thomas Powell"]
+  },
+  {
+    id: "powell-hocking",
+    name: "Columbus and Toledo Railroad",
+    lat: 40.1578,
+    lng: -83.0752,
+    radius: 700,
+    short: "The Columbus and Toledo Railroad reached Powell in 1872. The point was coal, hauled up from the south and past Columbus. In 1899 that line became part of the Hocking Valley Railway. The brick block on Liberty Street is what is left of the stop.",
+    long: "",
+    names: ["Columbus and Toledo Railroad", "Hocking Valley Railway"]
+  },
+  {
+    id: "powell-zoo",
+    name: "Columbus Zoo",
+    lat: 40.1564,
+    lng: -83.1180,
+    radius: 900,
+    short: "The Columbus Zoo sits on Powell Road, in this city, not in Columbus. Jack Hanna made it famous from here. A railroad village that waited a century, then woke up as the suburb with the zoo.",
+    long: "",
+    names: ["Columbus Zoo", "Jack Hanna"]
+  },
+  {
+    id: "powell-olentangy",
+    name: "The Olentangy",
+    lat: 40.1580,
+    lng: -83.0450,
+    radius: 1500,
+    short: "Powell sits on the high ground between two rivers. The Scioto is west. The river to the east was called the Whetstone first, then renamed the Olentangy. The village was never a river port. It was a corner on the road between them.",
+    long: "",
+    names: ["Olentangy River", "Whetstone River", "Scioto River"]
+  },
+  {
+    id: "powell-martin-perry",
+    name: "Martin-Perry House",
+    lat: 40.1578,
+    lng: -83.0752,
+    radius: 400,
+    short: "The Martin-Perry House was built in 1889, in the railroad years, before anyone called this a suburb. Powell incorporated as a village in 1947, about four hundred people. It became a city in 2000.",
+    long: "",
+    names: ["Martin-Perry House"]
+  },
+
 
 
 

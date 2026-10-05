@@ -47826,6 +47826,46 @@ const STORIES = [
     names: ["Poland Presbyterian Church", "William Wick", "Joseph Badger"]
   },
 
+  {
+    id: "portsmouth-canal",
+    name: "Ohio and Erie Canal",
+    lat: 38.7317,
+    lng: -82.9977,
+    radius: 1200,
+    short: "The Ohio and Erie Canal finished here in 1832. This was the south end. A boat could leave Lake Erie at Cleveland and reach the Ohio River at Portsmouth. The Scioto was the old road. The canal was the one that tied the town to the lake.",
+    long: "",
+    names: ["Ohio and Erie Canal"]
+  },
+  {
+    id: "portsmouth-rail",
+    name: "Norfolk and Western",
+    lat: 38.7355,
+    lng: -82.9900,
+    radius: 1500,
+    short: "The Norfolk and Western put its shops in Portsmouth. Coal, steel, and shoes left town on those tracks. The river made a landing. The railroad made a factory city.",
+    long: "",
+    names: ["Norfolk and Western"]
+  },
+  {
+    id: "portsmouth-boneyfiddle",
+    name: "Boneyfiddle",
+    lat: 38.7308,
+    lng: -83.0013,
+    radius: 600,
+    short: "Boneyfiddle is the old town, on the river, along Market Street. The 1810 House still stands from the first years after Henry Massie's plat. Churches, stores, and the landing were here before the mills. People still argue about the name. They do not argue about which neighborhood is the oldest.",
+    long: "",
+    names: ["Boneyfiddle", "1810 House"]
+  },
+  {
+    id: "portsmouth-wall-names",
+    name: "Names on the floodwall",
+    lat: 38.7310,
+    lng: -82.9985,
+    radius: 800,
+    short: "Robert Dafford painted the floodwall. The Army Corps built the concrete after the 1937 flood. On the wall: the Portsmouth Spartans, sold to Detroit in 1934, reborn as the Lions, NFL champions in 1935. Branch Rickey of Scioto County, who signed Jackie Robinson for the Brooklyn Dodgers in 1947. And Roy Rogers, born Leonard Slye, who grew up in this county before Hollywood.",
+    long: "",
+    names: ["Robert Dafford", "Portsmouth Spartans", "Detroit Lions", "Branch Rickey", "Jackie Robinson", "Roy Rogers", "Leonard Slye"]
+  },
 
 
 

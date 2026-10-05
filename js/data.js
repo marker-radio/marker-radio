@@ -49566,6 +49566,27 @@ const STORIES = [
     names: ["Charles Thorne"]
   },
 
+  {
+    id: "xenia-paul",
+    name: "Laticia's vote",
+    lat: 39.6848,
+    lng: -83.9296,
+    radius: 500,
+    short: "In 1803, the year Ohio became a state, John Paul bought 2,000 acres from Thomas and Elizabeth Richardson of Hanover County, Virginia, for 1,050 pounds in Virginia money. He got the commissioners to put the Greene County seat at the forks of the Shawnee creeks. The county is named for Nathanael Greene. Joseph C. Vance surveyed the town. The next year he bought the town site, 257 acres, from Paul for 250 dollars. Vance called a meeting to name it. The Reverend Robert Armstrong proposed Xenia, hospitality in Greek, because the people had been kind to him. The vote tied. Laticia Davis, wife of Owen Davis, cast the deciding ballot. The town incorporated in 1817 and became a city in 1834. The cards that call the name Shawnee are wrong about the word. The Shawnee were already on this ground. The name came later, from a Greek word and one woman's vote.",
+    long: "",
+    names: ["John Paul", "Joseph C. Vance", "Laticia Davis", "Robert Armstrong"]
+  },
+  {
+    id: "xenia-galloway",
+    name: "The Galloway cabin",
+    lat: 39.6848,
+    lng: -83.9296,
+    radius: 400,
+    short: "James Galloway's log cabin went up in 1799. He was a scout and a Revolutionary soldier. Tecumseh visited that house. It is still kept as a monument, and the wind of 1974 hit it. On April 3 the tornado came in east of Bellbrook, about half a mile wide, and was gone in about four minutes. It threw a school bus into the high school auditorium, derailed a freight train, and put a truck on a roof. The city counts 33 dead, about half the buildings gone, nine schools, nine churches, 180 businesses, and 10,000 people without a house. They rebuilt on the same square.",
+    long: "",
+    names: ["James Galloway", "Tecumseh"]
+  },
+
 
 
 

@@ -49433,6 +49433,37 @@ const STORIES = [
     names: ["Neil Armstrong", "Dudley Nichols"]
   },
 
+  {
+    id: "warren-cabin",
+    name: "The cabin jail",
+    lat: 41.2376,
+    lng: -80.8184,
+    radius: 500,
+    short: "In the late fall of 1798 Ephraim Quinby bought 441 acres from the Connecticut Land Company and named the ground for Moses Warren of Lyme, the surveyor. He built his cabin in 1799. In September 1800 the place still had only two log cabins. His had three rooms: a kitchen, a bedroom, and a jail. The only prisoner Howe records is Perger Shehigh, locked up for threatening Judge Young of Youngstown. William Fenton had built the other cabin in 1798. On September 27, Cornelius Feather and Davison Fenton arrived from Washington County, Pennsylvania. Quinby laid out the town in 1801 and set aside four acres for the square. He gave the land under the courthouse, the first jail, and the first city building. In 1801 Trumbull County made this the seat, and the county then covered the whole Western Reserve. The city history says Arthur St. Clair picked Warren over Cleveland and Youngstown. Quinby died here on June 5, 1850.",
+    long: "",
+    names: ["Ephraim Quinby", "Moses Warren"]
+  },
+  {
+    id: "warren-1846",
+    name: "One side of the square",
+    lat: 41.2376,
+    lng: -80.8184,
+    radius: 400,
+    short: "In 1833 Warren had the county buildings, two print shops, a bank, five stores, and about 600 people. By 1846 it was near 1,600, with five churches, twenty stores, three newspapers, a woolen mill, and two flour mills. In June 1846 a fire took several buildings on one side of the square. They rebuilt them as stores. Stephen Foster, his wife Jane McDowell, and their daughter Marion lived here for a short time. For more than thirty years after the settlement, this was the largest town on the Reserve. The rails came late. The mills to the south got louder later.",
+    long: "",
+    names: ["Stephen Foster"]
+  },
+  {
+    id: "warren-packard-1899",
+    name: "The first Packard",
+    lat: 41.2376,
+    lng: -80.8184,
+    radius: 500,
+    short: "James and William Packard built their first car here in 1899. The car company later left for Detroit. Packard Electric stayed, and that plant, not the square, is what made Warren a factory town in the twentieth century. By 1888 four railroads already met here, and the shops were turning out linseed oil, furniture, barrel staves, wool cloth, blinds, bulbs, and carriages.",
+    long: "",
+    names: ["James Packard", "William Packard"]
+  },
+
 
 
 

@@ -254,5 +254,107 @@ STORIES.push(
     short: "People from St. Clairsville still say Barton and mean the mines. The town never became a village on paper. The post office outlasted the company patch. If you ask what is here, the answer is still the coal, the creek, and a man who left and directed movies in India.",
     long: "",
     names: ["Barton"]
-  }
-);
+  },
+  
+  {
+    id: "approach-batavia",
+    name: "Batavia",
+    lat: 39.0580,
+    lng: -84.2100,
+    radius: 5000,
+    layer: "approach",
+    short: "You are coming up on Batavia, the county seat of Clermont County, on the East Fork of the Little Miami. Ezekiel Dimmitt built a cabin here in 1797. The courts moved here in 1824. On July 14, 1863, John Hunt Morgan's cavalry spent the night in town. If you leave the highway, I'll start at the ford.",
+    long: "",
+    names: ["Batavia"]
+  },
+  {
+    id: "batavia-ford",
+    name: "The Ford and the Plat",
+    lat: 39.0765,
+    lng: -84.1810,
+    radius: 300,
+    short: "Captain Francis Minnis, seven years in the Revolution, had this land surveyed on May 28, 1788. Ezekiel Dimmitt, from Virginia by way of Kentucky, built a cabin in the fall of 1797 where the post office is now, 575 West Main. George Ely bought the survey in 1807 and, with David C. Bryan, recorded the plat on October 24, 1814. The name is believed to come from Batavia, New York. The village incorporated on February 10, 1842. The county seat came ten years after the streets.",
+    long: "",
+    names: ["Francis Minnis", "Ezekiel Dimmitt", "George Ely", "David C. Bryan"]
+  },
+  {
+    id: "batavia-court",
+    name: "The Square He Lost Money On",
+    lat: 39.0764,
+    lng: -84.1760,
+    radius: 220,
+    short: "Batavia became the county seat on February 24, 1824, after Williamsburg and then New Richmond. The 1814 plat had already set aside ground on Market Street for the public buildings. Court met in the Methodist church until Ezekiel Dimmitt finished the courthouse in 1827. His price was $3,483. He lost about $1,500 because he built more than he bid. That building came down in 1935. The one that stands was dedicated on December 19, 1936, with an addition in 1998. The square is still the public ground.",
+    long: "",
+    names: ["Ezekiel Dimmitt", "Clermont County Courthouse"]
+  },
+  {
+    id: "batavia-river",
+    name: "East Fork",
+    lat: 39.0738,
+    lng: -84.1825,
+    radius: 350,
+    short: "The East Fork of the Little Miami is the water. George Ely put the town at the ford where Donnells Trace crossed, at the foot of Spring Street. Springs along that street made it the early main street. The ground along the river was set aside as Water Street. There is no canal and no harbor. The ford is why the seat of the county is not on the Ohio River.",
+    long: "",
+    names: ["East Fork of the Little Miami", "Donnells Trace"]
+  },
+  {
+    id: "batavia-rail",
+    name: "Two Depots",
+    lat: 39.0790,
+    lng: -84.1735,
+    radius: 300,
+    short: "Samuel Woodward's Cincinnati and Eastern Railroad opened from near Newtown to Batavia in March 1877. The Norfolk and Western took it in 1901. The depot stood on the east side of the tracks, between Clough Pike and Main Street. Presidential candidates spoke there. The last passenger train stopped in April 1971. The depot was taken down in January 1989. An interurban, the Cincinnati, Georgetown and Portsmouth, had its depot at 549 West Main. The first car came on September 6, 1903. The line was cut on June 12, 1934. Freight still comes through. The speeches are gone.",
+    long: "",
+    names: ["Samuel Woodward", "Norfolk and Western", "Cincinnati, Georgetown and Portsmouth Railroad"]
+  },
+  {
+    id: "batavia-people",
+    name: "The Corner and the Visit",
+    lat: 39.0792,
+    lng: -84.1768,
+    radius: 220,
+    short: "Hugh L. Nichols lived at 160 Wood Street. He was lieutenant governor of Ohio and the first chief justice of the Ohio Supreme Court. The township history says Lieutenant General Henry Clark Corbin lived at the northeast corner of Market and North. He was adjutant general of the Army in the war with Spain, in 1898. The county marker lists him under Monroe Township, so this corner is where the town says he lived, not a birthplace I will move. The Griffith house stood at the southwest corner of Market and Third. Ulysses S. Grant visited the Griffiths. He was related to them. He was born at Point Pleasant, on the Ohio River, not here.",
+    long: "",
+    names: ["Hugh L. Nichols", "Henry Clark Corbin", "Ulysses S. Grant"]
+  },
+  {
+    id: "batavia-native",
+    name: "The Trace, Not a Village Name",
+    lat: 39.0800,
+    lng: -84.1850,
+    radius: 500,
+    short: "This was not empty ground in 1788. Clermont was Shawnee country, and Miami, Lenape, and Mingo people also used this valley. The survey for Francis Minnis was a Virginia military claim. The Treaty of Greenville was 1795. Dimmitt's cabin was 1797. John Donnells cut a trace that same year from Newtown to Williamsburg, and later on toward Chillicothe. It crossed the East Fork at this ford. I do not have a village name to put on these lots. I will not invent one.",
+    long: "",
+    names: ["Shawnee", "John Donnells"]
+  },
+  {
+    id: "batavia-morgan",
+    name: "The Night of July 14",
+    lat: 39.0775,
+    lng: -84.1745,
+    radius: 280,
+    short: "On July 14, 1863, Confederate cavalry under John Hunt Morgan came into Batavia. Some of them spent the night. They wanted fresh horses and food, and they took other property. There is no battlefield on these lots. The war here was a night raid on the way east.",
+    long: "",
+    names: ["John Hunt Morgan"]
+  },
+  {
+    id: "batavia-stowe",
+    name: "The Preaching Stop",
+    lat: 39.0778,
+    lng: -84.1748,
+    radius: 200,
+    short: "The township history says the oldest house still standing is on the northwest corner of North and Third, built about 1815 to 1817. Harriet Beecher Stowe and other abolitionists in her family stayed there when they were preaching against slavery at the Presbyterian church on the southwest corner of North and Market. This is not the Rankin House. That is in Ripley. This is the stop Batavia records.",
+    long: "",
+    names: ["Harriet Beecher Stowe"]
+  },
+  {
+    id: "batavia-gold",
+    name: "Elk Lick",
+    lat: 39.0620,
+    lng: -84.1680,
+    radius: 700,
+    short: "In 1868 Samuel Atchley found what people called gold in the Elk Lick Valley, south of town. Captain J. W. Glass formed the Batavia Gold Mining Company. The company did not last a year. People still point at Elk Lick and tell the rush. The courthouse is older than the gold story, and it is still here.",
+    long: "",
+    names: ["Samuel Atchley", "J. W. Glass", "Elk Lick"]
+  },
+  

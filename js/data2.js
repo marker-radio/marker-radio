@@ -3781,6 +3781,562 @@ STORIES.push(
     long: "",
     names: ["Bridgeport"]
   },
+  {
+    id: "approach-brilliant",
+    name: "Brilliant",
+    lat: 40.2500,
+    lng: -80.6400,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Brilliant, on the Ohio River in Wells Township, Jefferson County, about seven miles south of Steubenville. State Route 7 is the four-lane along the bank. About 1,320 people live here. It was a village. It quit being one on November 24, 1993. The name is not a boast. It is a glass factory. If you stay on the river road, I'll start at the first plat.",
+    long: "",
+    names: ["Brilliant"]
+  },
+  {
+    id: "brilliant-philipsburgh",
+    name: "Philipsburgh",
+    lat: 40.2620,
+    lng: -80.6370,
+    radius: 180,
+    short: "Philip Doddridge, a western Virginia statesman, laid the place out in 1819 and called it Philipsburgh. The roads came together here, close to the river and across from the wharf at Wellsburg. In 1836 a new addition was laid out and named La Grange. In 1856 the railway station took that name too. I will not invent the railroad company. I do not have it locked.",
+    long: "",
+    names: ["Philip Doddridge"]
+  },
+  {
+    id: "brilliant-glass",
+    name: "The Factory's Name",
+    lat: 40.2600,
+    lng: -80.6350,
+    radius: 150,
+    short: "In 1880 the Brilliant Glass Company put a factory at La Grange. The town took the company's name, and so did the railway station and the post office. That is the whole of the naming. I will not invent the year the glass stopped.",
+    long: "",
+    names: ["Brilliant"]
+  },
+  {
+    id: "brilliant-blockhouse",
+    name: "Blockhouse Run",
+    lat: 40.2550,
+    lng: -80.6320,
+    radius: 180,
+    short: "The county genealogical chapter, drawing on a souvenir of Brilliant and on Caldwell's county history, says a blockhouse stood at the mouth of Blockhouse Run about 1790, near where the Tidd plant of the Ohio Power Company later sat. From the early days of the county there was a ferry across to Wellsburg, which was then called Charles Town. The important road came over the hills from Cadiz. Wells Township was part of Warren Township until 1823. Jefferson County itself was organized in 1797. I will not invent a battle at the blockhouse. The building is what the record gives me.",
+    long: "",
+    names: ["Brilliant"]
+  },
+  {
+    id: "brilliant-cardinal",
+    name: "Cardinal",
+    lat: 40.2450,
+    lng: -80.6400,
+    radius: 400,
+    short: "South of town is the Cardinal Power Plant. It started in 1967. I will not invent the size of it. It is the works you see after the glass is gone.",
+    long: "",
+    names: ["Cardinal Power Plant"]
+  },
+  {
+    id: "brilliant-native",
+    name: "No Village Name",
+    lat: 40.2650,
+    lng: -80.6400,
+    radius: 150,
+    short: "The ferry and the blockhouse say this bank was already a crossing. I do not have a native village name under Philipsburgh. I will not invent one.",
+    long: "",
+    names: ["Brilliant"]
+  },
+  {
+    id: "brilliant-school",
+    name: "La Grange School",
+    lat: 40.2580,
+    lng: -80.6360,
+    radius: 100,
+    short: "On March 3, 1845, the township cut a school district out of an older one and called it La Grange, eleven years before the railway station took the same name. The souvenir history says Brilliant later had a neat three-room school. I will not invent who taught in it.",
+    long: "",
+    names: ["Brilliant"]
+  },
+
+  {
+    id: "approach-broadview-heights",
+    name: "Broadview Heights",
+    lat: 41.3200,
+    lng: -81.6700,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Broadview Heights, a city in Cuyahoga County, on the high ground south of Cleveland. It was the west end of Brecksville Township until the people voted themselves out. The encyclopedia's 2020 count is 19,936. If you stay on the highway, I'll start at the survey.",
+    long: "",
+    names: ["Broadview Heights"]
+  },
+  {
+    id: "broadview-breck",
+    name: "Colonel Breck's Land",
+    lat: 41.3130,
+    lng: -81.6860,
+    radius: 300,
+    short: "The encyclopedia says Colonel John Breck of Massachusetts bought this ground in 1807 from the Connecticut Land Company. It covered what is now Brecksville, Broadview Heights, and North Royalton. In 1811 he sent Seth Paine, a surveyor, and Paine is the man the city calls the first white settler. That same year the land went into Royalton Township and Brecksville Township. A school went up in 1815 at Broadview and Avery, just north of Royalton Road. In 1829 a plank road was built from Wallings Corners to the Cleveland city limits.",
+    long: "",
+    names: ["John Breck", "Seth Paine"]
+  },
+  {
+    id: "broadview-1840",
+    name: "Cheese, Hides, and Whiskey",
+    lat: 41.3100,
+    lng: -81.6900,
+    radius: 250,
+    short: "The encyclopedia says that by 1840 the township had a cheese factory, a tannery, three distilleries, four sawmills, and several grist mills. I will not invent which building stood on which corner. Royalton left its township in 1918. Brecksville left in 1924. What remained, on the west side, became this place.",
+    long: "",
+    names: ["Broadview Heights"]
+  },
+  {
+    id: "broadview-vote",
+    name: "Jake's Barber Shop",
+    lat: 41.3150,
+    lng: -81.6800,
+    radius: 150,
+    short: "A history compiled by Marie Bender, as a local paper tells it, says eighty landowners petitioned in November 1926. The vote was November 30, at Jake's Barber Shop, near Broadview and Wallings. It was 101 to 7, to leave Brecksville Township. The paper says the village was official on December 17, 1926. The city website says the petition was in 1926 and the incorporation was in 1927, which is when the first officers sat. Mayor Floyd Harris, clerk Carl A. Burtscher, treasurer Fred C. Clogg, and marshal Lloyd Harris. The encyclopedia puts about 300 people here at the start, and says the number doubled in two years. I will not mash December 1926 and 1927 into one date.",
+    long: "",
+    names: ["Floyd Harris"]
+  },
+  {
+    id: "broadview-name",
+    name: "The High Ground",
+    lat: 41.3180,
+    lng: -81.6780,
+    radius: 200,
+    short: "The name is the road, Broadview, and the hills. The local paper says the high point in Cuyahoga County is 1,287 feet, marked on Broadview Road near Valley Parkway. The encyclopedia says the high ground reaches about 1,275. I will not pick a number the two accounts do not share. The census of 1960 put the village over 5,000. The paper says it became a city in 1961, and the voters approved a charter on November 7 of that year. It still shares a school district with Brecksville.",
+    long: "",
+    names: ["Broadview Heights"]
+  },
+  {
+    id: "broadview-chippewa",
+    name: "Chippewa",
+    lat: 41.3120,
+    lng: -81.6750,
+    radius: 300,
+    short: "The city and the encyclopedia both say the Chippewa were on this ground before Paine. I do not have a village name under the barber shop. I will not invent one.",
+    long: "",
+    names: ["Chippewa"]
+  },
+  {
+    id: "broadview-war",
+    name: "No Battlefield",
+    lat: 41.3140,
+    lng: -81.6820,
+    radius: 150,
+    short: "There is no fort and no battlefield in Broadview Heights. The fight on the record is a township line, settled 101 to 7. I will not invent a battle on the ridge.",
+    long: "",
+    names: ["Broadview Heights"]
+  },
+
+  {
+    id: "approach-brook-park",
+    name: "Brook Park",
+    lat: 41.4000,
+    lng: -81.8200,
+    radius: 3000,
+    layer: "approach",
+    short: "You are coming up on Brook Park. Two words. Brookpark Road is one word, and that is a different thing. The city is in Cuyahoga County, about fourteen miles southwest of Cleveland, between the airport and the Ford plant. About 18,600 people live here. In 1970 there were 30,774. If you stay on the highway, I'll start at the vote.",
+    long: "",
+    names: ["Brook Park"]
+  },
+  {
+    id: "brook-park-1914",
+    name: "A Brook",
+    lat: 41.3980,
+    lng: -81.8040,
+    radius: 250,
+    short: "This was the north end of Middleburg Township. In 1907 the voters turned down a village for the rest of the township. In 1914 the people of what a timeline calls North Middleburgh met, the encyclopedia says secretly, because they were unhappy with the schools, the roads, and the taxes, and they voted themselves out. William J. Sifleet is called the father of the place. He named it for a brook on the west side of the township, and he was the first mayor. A 1925 order closed their own school district and put the children in Berea's. The year it became a city is a fight. The encyclopedia and a 2025 account say 1961. Wikipedia says 1960. A 2014 Plain Dealer timeline says 1950. The 1950 census is 2,606 people, which is not a city under the old rule of 5,000. I will not mash those years.",
+    long: "",
+    names: ["William J. Sifleet"]
+  },
+  {
+    id: "brook-park-airport",
+    name: "Eighty-Five Thousand Dollars",
+    lat: 41.4100,
+    lng: -81.8500,
+    radius: 500,
+    short: "William R. Hopkins, Cleveland's city manager, picked this farmland for an airport in 1925. Cleveland bought and annexed the ground. The argument over who owned it ended in 1947, when Cleveland paid Brook Park 85,000 dollars and took more than a thousand acres, airport included. From 1928 to 1949 the National Air Races put spectators in paid parking on the farms. On January 3, 1941, they broke ground for a laboratory of the National Advisory Committee for Aeronautics. That became NASA Lewis, and it is NASA Glenn now.",
+    long: "",
+    names: ["William R. Hopkins"]
+  },
+  {
+    id: "brook-park-ford",
+    name: "The Engines",
+    lat: 41.4050,
+    lng: -81.7900,
+    radius: 300,
+    short: "In 1943 the Fisher bomber plant went up, and the federal housing authority built houses for the workers. After the war the encyclopedia lists Ferry Screw, Ford's engine plants number 1 and number 2, Firestone, Goodrich, and Goodyear. A Plain Dealer timeline says Ford opened the complex from 1951 to 1955, two engine plants and a foundry, and calls it the company's second biggest. The census went from 2,606 in 1950 to 12,856 in 1960. County records, as a later paper reads them, say a quarter of the single-family houses were built in 1959 alone, and nearly 60 percent from 1958 through 1961. The peak was 30,774 in 1970.",
+    long: "",
+    names: ["Brook Park"]
+  },
+  {
+    id: "brook-park-swap",
+    name: "The Swap",
+    lat: 41.4120,
+    lng: -81.8600,
+    radius: 400,
+    short: "In 2001 Mayor Coyne and Cleveland's mayor, Michael White, traded land. Brook Park gave up houses and the International Exposition Center so Cleveland could clear a runway that, as of a 2014 account, was still not built. Brook Park got NASA Glenn and ten years of tax money off the exposition center. The foundry came down in 2011. Engine plant number 2 closed in 2012. Plant number 1 was retooled in 2013 and 2014 for EcoBoost engines, and a 2025 account says nearly 2,000 people still work there. NASA Glenn is the bigger employer now, more than 3,000 people on 307 acres west of the airport.",
+    long: "",
+    names: ["Brook Park"]
+  },
+  {
+    id: "brook-park-marines",
+    name: "August 2005",
+    lat: 41.3970,
+    lng: -81.8000,
+    radius: 200,
+    short: "There is no battlefield in Brook Park. There is a reserve headquarters. Wikipedia says 21 Marines of the 3rd Battalion, 25th Marines, 4th Marine Division, headquartered in this city, were killed in Iraq on August 1 and August 3, 2005. I will not invent their names.",
+    long: "",
+    names: ["Brook Park"]
+  },
+  {
+    id: "brook-park-native",
+    name: "No Village Name",
+    lat: 41.3950,
+    lng: -81.8100,
+    radius: 200,
+    short: "A timeline says the postmaster Gideon Granger took Township 6, Range 14, in 1807, and the Hickox family began settling it in 1809. That is Middleburg, before this city had a name. I do not have a native village under the brook Sifleet named. I will not invent one.",
+    long: "",
+    names: ["Brook Park"]
+  },
+
+  {
+    id: "approach-brooklyn",
+    name: "Brooklyn",
+    lat: 41.4300,
+    lng: -81.7400,
+    radius: 2000,
+    layer: "approach",
+    short: "You are coming up on Brooklyn, Ohio, a city in Cuyahoga County. Not the one in New York. Not Old Brooklyn, which is a Cleveland neighborhood that used to be South Brooklyn. This is the piece of the old township that was left. About 11,400 people live here. In 1970 there were 13,142. If you stay on the highway, I'll start at the name they turned down.",
+    long: "",
+    names: ["Brooklyn"]
+  },
+  {
+    id: "brooklyn-egypt",
+    name: "Not Egypt",
+    lat: 41.4400,
+    lng: -81.7500,
+    radius: 300,
+    short: "On June 1, 1818, about 15,000 acres became Brooklyn Township. It ran from the Cuyahoga River west toward what is now Lakewood, and from the lake south to Parma and Independence. Captain Ozias Brainard, who had come from Connecticut, wanted to call it Egypt, because the corn grew so well. Brooklyn won. An old sketch says the Brainards and the Fishes came from Haddam, Connecticut, in the fall of 1811. Ozias came by ox cart and was six weeks on the road. Their house was the first south of Big Creek, and they brought the first apple trees. The sketch says their daughter Matilda was the first white child born in the township. She married a Fish, the sketch spells him Isiah, and she died at thirty-three. The two families married each other so often that the sketch says you can hardly separate the names.",
+    long: "",
+    names: ["Ozias Brainard"]
+  },
+  {
+    id: "brooklyn-pieces",
+    name: "What Left",
+    lat: 41.4350,
+    lng: -81.7480,
+    radius: 250,
+    short: "The township did not stay whole. On March 3, 1836, the north end became the City of Ohio, the first incorporated city in the county, and on June 5, 1854, it went into Cleveland as wards 8 through 11. People call it Ohio City. In 1890 the south end organized as the Village of South Brooklyn, and Cleveland annexed it in December 1905. That is Old Brooklyn now. By 1927 only a small southwest corner of the original township was left, and the people there incorporated as a village. That is this city.",
+    long: "",
+    names: ["Brooklyn"]
+  },
+  {
+    id: "brooklyn-houses",
+    name: "Memphis and Ridge",
+    lat: 41.4360,
+    lng: -81.7440,
+    radius: 200,
+    short: "Under Mayor John M. Coyne the village took a home-rule charter in 1950 and became a city. He is not the Coyne who later ran Brook Park. Do not mix them. A local account says 67 houses went up in the 1930s and more than 840 in the 1940s, then nearly 1,500 more between 1950 and 1960. Ridge Road runs north and south. Memphis Avenue and Biddulph run east and west. The plants sat out at the edges, on Clinton and Tiedeman, between Big Creek and the rail lines. I will not invent the railroad. In the middle of the 1950s they built city hall on the south side of Memphis, between Ridge and Roadoan, and they kept the ground around it as Veterans Memorial Park. The census went from 1,108 in 1940 to 6,317 in 1950.",
+    long: "",
+    names: ["John M. Coyne"]
+  },
+  {
+    id: "brooklyn-creek",
+    name: "Big Creek",
+    lat: 41.4320,
+    lng: -81.7520,
+    radius: 200,
+    short: "An old sketch says Warren Young built the first road through the Big Creek valley, because the Loaf Hills made a mud that stopped a wagon, and that he kept the first toll gate in the township. The creek is still the low edge of the city. I will not invent what he charged.",
+    long: "",
+    names: ["Warren Young"]
+  },
+  {
+    id: "brooklyn-native",
+    name: "No Village Name",
+    lat: 41.4380,
+    lng: -81.7460,
+    radius: 200,
+    short: "This was the west bank of the Cuyahoga before the township. I do not have a native village name under Memphis Avenue. I will not invent one, and I will not borrow a name from Ohio City to fill the gap.",
+    long: "",
+    names: ["Brooklyn"]
+  },
+  {
+    id: "brooklyn-war",
+    name: "No Battlefield",
+    lat: 41.4340,
+    lng: -81.7420,
+    radius: 150,
+    short: "There is no fort and no battlefield in this Brooklyn. The fights on the record are annexations. I will not invent a battle in the leftover corner.",
+    long: "",
+    names: ["Brooklyn"]
+  },
+
+  {
+    id: "approach-brookside",
+    name: "Brookside",
+    lat: 40.0710,
+    lng: -80.7500,
+    radius: 1500,
+    layer: "approach",
+    short: "You are coming up on Brookside, a village in Pease Township, eastern Belmont County, just west of Bridgeport on the same river terrace. It shares Bridgeport's zip code. About 540 people live in something under a fifth of a square mile. Wikipedia has no history section for it. If you stay on the old road, I'll start at the census.",
+    long: "",
+    names: ["Brookside"]
+  },
+  {
+    id: "brookside-census",
+    name: "The Count",
+    lat: 40.0708,
+    lng: -80.7606,
+    radius: 150,
+    short: "The census starts here at 249 people in 1900. I do not have the year it was incorporated, and I will not invent one. A business filing from 2018 is a nonprofit, not the founding. The count was 426 in 1920 and 882 in 1930. I do not have a locked reason for the doubling. It peaked at 975 in 1940, touched 939 again in 1970, and was 538 in 2020.",
+    long: "",
+    names: ["Brookside"]
+  },
+  {
+    id: "brookside-frasier",
+    name: "The Houses",
+    lat: 40.0712,
+    lng: -80.7610,
+    radius: 80,
+    short: "The picture Wikipedia uses is the Thomas and Wesley Frasier houses. I do not have a locked account of who built them, or when, or what the Frasiers did for a living. Stories float about a tavern, a bricklayer, and coal tipples. I will not tell those until I can stand on them.",
+    long: "",
+    names: ["Brookside"]
+  },
+  {
+    id: "brookside-road",
+    name: "West of the Gateway",
+    lat: 40.0705,
+    lng: -80.7550,
+    radius: 150,
+    short: "Bridgeport, one village east, is the National Road's door into Ohio. Brookside is the next cluster west. I will not move Bridgeport's fort, its bridge, or its toll collector over the line. I also will not import a Pennsylvania coal town that happens to share the name.",
+    long: "",
+    names: ["Brookside"]
+  },
+  {
+    id: "brookside-native",
+    name: "No Village Name",
+    lat: 40.0720,
+    lng: -80.7620,
+    radius: 100,
+    short: "I do not have a native village name on this fifth of a square mile. I will not invent one between Bridgeport and the next hill.",
+    long: "",
+    names: ["Brookside"]
+  },
+  {
+    id: "brookside-war",
+    name: "No Battlefield",
+    lat: 40.0700,
+    lng: -80.7600,
+    radius: 80,
+    short: "There is no fort and no battlefield in Brookside. Fort Kirkwood is Bridgeport's, and the stone says so. I will not give this village a battle it does not have.",
+    long: "",
+    names: ["Brookside"]
+  },
+
+  {
+    id: "approach-brookville",
+    name: "Brookville",
+    lat: 39.8300,
+    lng: -84.4200,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Brookville, a city in Clay Township, northwestern Montgomery County, northwest of Dayton. Not the Brookville in Indiana. Wikipedia says the first pioneers were here around 1814, and the town was platted in 1850 and named for a small brook. About 6,000 people live here. If you stay on the highway, I'll start at the mud.",
+    long: "",
+    names: ["Brookville"]
+  },
+  {
+    id: "brookville-1874",
+    name: "Little Rivers",
+    lat: 39.8392,
+    lng: -84.4175,
+    radius: 200,
+    short: "In March 1874 the citizens arranged a survey so they could incorporate. The reason, as the local paper tells it, was the streets. They were little rivers. In August there was a fight about it, and the county commissioners came to hear testimony. They approved a plat of most of section 34, about one square mile, with about 500 people. The order was recorded on October 2, 1874. The first election was November 16. Mayor J. R. S. Smith. Council: Levi Baker, Richard Riley, Albert Hadder, Simon Somers, Benjamin Wilson, and Dr. Jacob R. Conner. The first meeting was in Conner and Mundhenk's drugstore, on Wolf Creek Street between Market and Main. It was the fourth village in the county, after Germantown, Miamisburg, and Vandalia. The 1880 census found 574 people. It is a city now. The count crossed 5,000 between 1990 and 2000. I do not have the charter date locked.",
+    long: "",
+    names: ["Brookville"]
+  },
+  {
+    id: "brookville-railroad",
+    name: "June 10, 1852",
+    lat: 39.8380,
+    lng: -84.4150,
+    radius: 180,
+    short: "The historical society says the Greenville and Miami Railway was chartered in 1846, and the right-of-way from Dayton to Greenville ran through the ground that became the village. Houses and shops went up along Main Street from the tracks to the Wolf Creek Turnpike. Benjamin Baker built a general store at Salem and Liberty, Liberty is Mulberry now, and he was the first station agent. The waiting room was in the store. The railroad held its opening on June 10, 1852, and people waved at the first train. Later that year the tracks reached Union City, and the line became the Dayton and Union. A council meeting on September 28, 1899, led to a depot that opened on January 15, 1900, at Hay and Cusick: a waiting room, an agent's office, and a small freight room. They added a larger freight room in 1918. Service stopped in 1979. The society bought the building in November 1980 and opened it on June 6, 1987. In 1991 they put a 1961 Chessie caboose on the tracks across from it.",
+    long: "",
+    names: ["Brookville"]
+  },
+  {
+    id: "brookville-spitler",
+    name: "Across the Alley",
+    lat: 39.8395,
+    lng: -84.4180,
+    radius: 80,
+    short: "The Samuel Spitler House is a Queen Anne built in 1894. It was going to come down for a parking lot. The owner would give it away if somebody moved it. The historical society moved it across an alley, and the museum at 14 Market Street opened in 1976. It is open March through November, the second Sunday, from two to four. The last tour starts at three. It is not air-conditioned, and it is not built for a wheelchair. I will not invent what the Spitlers did for a living.",
+    long: "",
+    names: ["Samuel Spitler"]
+  },
+  {
+    id: "brookville-native",
+    name: "No Village Name",
+    lat: 39.8420,
+    lng: -84.4200,
+    radius: 200,
+    short: "I do not have a native village name under the brook the town was named for. I will not invent one, and I will not borrow a name from Dayton to fill the gap.",
+    long: "",
+    names: ["Brookville"]
+  },
+  {
+    id: "brookville-war",
+    name: "No Battlefield",
+    lat: 39.8370,
+    lng: -84.4160,
+    radius: 150,
+    short: "There is no fort and no battlefield in Brookville. The fight on the record is about mud in the streets, settled by the commissioners on October 2, 1874. I will not invent a battle on Wolf Creek.",
+    long: "",
+    names: ["Brookville"]
+  },
+
+  {
+    id: "approach-broughton",
+    name: "Broughton",
+    lat: 41.0900,
+    lng: -84.5300,
+    radius: 2000,
+    layer: "approach",
+    short: "You are coming up on Broughton, a village in Jackson Township, Paulding County, in the old Black Swamp. It has no zip code of its own. About 116 people live on a fifth of a square mile. In 1900 there were 226. If you stay on the county road, I'll start at the stave mill.",
+    long: "",
+    names: ["Broughton"]
+  },
+  {
+    id: "broughton-staves",
+    name: "The Stave Mill",
+    lat: 41.0881,
+    lng: -84.5350,
+    radius: 150,
+    short: "An 1892 history of the county says Broughton was laid out in 1881 by the Washington Stave and Lumber Company, afterward the Vanderbilt company, of Washington, D.C. They put a large factory here. In 1888 they sold it to Edwin Bell and Sons, who still ran it when the book was written. A big general store went with the factory. In 1892 M. E. Heller had the store, and the book calls it the main business in town. Axel White had the only drugstore. There was a fine depot, some houses, and some business rooms. I do not have the year the mill closed, and I will not invent it. The census is the clue. It was 226 in 1900, 195 in 1910, and 111 in 1920.",
+    long: "",
+    names: ["Broughton"]
+  },
+  {
+    id: "broughton-nickel-plate",
+    name: "The Other Village",
+    lat: 41.0870,
+    lng: -84.5340,
+    radius: 150,
+    short: "The same book says Jackson Township had two villages, Hedges and Broughton, both in the south end, both on the Nickel Plate. Hedges was located in 1872 by W. C. Hedges, and it is not this town. Before 1881 the township had no post office. People got their mail at Paulding, at Junction, or at Charloe. By 1892 there were offices at both villages, each named for the village. A later sketch says the name Broughton may be a man at the stave mill, and then the sentence breaks off. I will not finish it.",
+    long: "",
+    names: ["Broughton"]
+  },
+  {
+    id: "broughton-school",
+    name: "The Brick School",
+    lat: 41.0890,
+    lng: -84.5360,
+    radius: 100,
+    short: "In 1892 the township had seven school districts, plus a special district called Hedges and Broughton. The other houses were frame. That one was a large two-story brick. I will not invent who taught in it.",
+    long: "",
+    names: ["Broughton"]
+  },
+  {
+    id: "broughton-count",
+    name: "After the Timber",
+    lat: 41.0885,
+    lng: -84.5330,
+    radius: 100,
+    short: "I do not have a locked year for the incorporation. The census begins at 226 in 1900 and never gets back there. After the drop to 111 in 1920, the count sat between about 110 and 171 for decades. It was 171 in 1980, 120 in 2010, and 116 in 2020. A 2023 estimate says 108. Paulding County was set off in 1820 and named for John Paulding, one of the men who caught Major André. The ditching of the Black Swamp is the county's story. I will not pretend I know which ditch made this village.",
+    long: "",
+    names: ["Broughton"]
+  },
+  {
+    id: "broughton-native",
+    name: "No Village Name",
+    lat: 41.0900,
+    lng: -84.5380,
+    radius: 150,
+    short: "This was swamp and timber before the stave mill. I do not have a native village name under the depot. I will not invent one.",
+    long: "",
+    names: ["Broughton"]
+  },
+  {
+    id: "broughton-war",
+    name: "No Battlefield",
+    lat: 41.0875,
+    lng: -84.5365,
+    radius: 80,
+    short: "There is no fort and no battlefield in Broughton. The county has older fights, on the Maumee and at other towns. I will not move them here.",
+    long: "",
+    names: ["Broughton"]
+  },
+
+  {
+    id: "approach-brunswick",
+    name: "Brunswick",
+    lat: 41.2600,
+    lng: -81.8300,
+    radius: 4000,
+    layer: "approach",
+    short: "You are coming up on Brunswick, the largest city in Medina County, about twenty miles southwest of Cleveland. Interstate 71 runs through it. About 35,400 people live in the city. The township next door, Brunswick Hills, is a different government. Wikipedia says the place was founded on January 1, 1815, and named in a contest, at random, after Brunswick in Germany. It was a township until 1960. If you stay on the highway, I'll start at the survey.",
+    long: "",
+    names: ["Brunswick"]
+  },
+  {
+    id: "brunswick-1815",
+    name: "The Name They Drew",
+    lat: 41.2464,
+    lng: -81.8198,
+    radius: 400,
+    short: "A 1984 local history says Abraham and John Freese surveyed the township in 1796 for the Connecticut Land Company. A 2015 paper says Abraham Freeze, one man, one spelling. I will not pick. Settlers came in 1815. That paper says Solomon and Frederick Deming put their stakes down in March. The 1984 piece says John Hulet came that summer with a crowd of boys who could turn their hands to almost any trade, and people wanted the work. The first township election was in April 1818. In 1824 Archibald Mills opened what that history calls the first real store, with 1,500 dollars of goods. Nathan Clark had a sawmill. A man the article calls Entiton built a water mill on Plum Creek. Isaac and Fletcher Hulet had a mill on a dam near what is now Brunswick Lake. A general store burned in 1912. I will not invent who owned it.",
+    long: "",
+    names: ["Solomon Deming", "Frederick Deming", "John Hulet"]
+  },
+  {
+    id: "brunswick-1960",
+    name: "Eight Months",
+    lat: 41.2450,
+    lng: -81.8200,
+    radius: 300,
+    short: "The township grew slowly, then it did not. A 2015 account says the population jumped more than 60 percent from the 1950 census to the 1960 census, and calls it the fastest-growing township in the state. People voted to incorporate in 1959. Wikipedia says the village papers are February 1, 1960, and the city papers are October 2, 1960, after the census. The city count that year was 11,725. It was 15,852 in 1970 and 27,645 in 1980. Landowners who wanted to stay a township did not want the taxes. They are Brunswick Hills now. The city was 35,426 in 2020.",
+    long: "",
+    names: ["Brunswick"]
+  },
+  {
+    id: "brunswick-freight",
+    name: "Call the Depot",
+    lat: 41.2400,
+    lng: -81.8100,
+    radius: 250,
+    short: "A 1984 history says the first telephone office opened in 1899, on a toll line to Cleveland. Local lines came two years later. One of them ran to the Baltimore and Ohio depot at Valley City, so people here could ask whether the freight had come. I will not invent a depot inside Brunswick. The railroad on that account was the next town over.",
+    long: "",
+    names: ["Brunswick"]
+  },
+  {
+    id: "brunswick-tornado",
+    name: "June 23, 2014",
+    lat: 41.2500,
+    lng: -81.8150,
+    radius: 400,
+    short: "Wikipedia says a tornado hit Brunswick on June 23, 2014. The rating it prints is not sourced. I will not give you a number I cannot stand on. The date is the fact.",
+    long: "",
+    names: ["Brunswick"]
+  },
+  {
+    id: "brunswick-native",
+    name: "No Village Name",
+    lat: 41.2480,
+    lng: -81.8250,
+    radius: 300,
+    short: "I do not have a native village name under the contest name. I will not invent one, and I will not borrow a name from Cleveland to fill the gap.",
+    long: "",
+    names: ["Brunswick"]
+  },
+  {
+    id: "brunswick-war",
+    name: "No Battlefield",
+    lat: 41.2440,
+    lng: -81.8180,
+    radius: 200,
+    short: "There is no fort and no battlefield in Brunswick. The fight on the record is a township that did not want to be a city, settled in 1959 and on the books in 1960. I will not invent a battle on Plum Creek.",
+    long: "",
+    names: ["Brunswick"]
+  },
+
 
 
 

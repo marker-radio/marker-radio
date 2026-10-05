@@ -50343,6 +50343,630 @@ const STORIES = [
     long: "",
     names: ["Raccoon Creek"]
   },
+  {
+    id: "approach-alger",
+    name: "Alger",
+    lat: 40.7300,
+    lng: -83.8442,
+    radius: 6000,
+    layer: "approach",
+    short: "You are coming up on Alger, on State Route 235 south of Ada. It was platted in 1882 as Jagger, then renamed for Russell A. Alger. The Erie railroad and the onion fields of the Scioto Marsh made the town. If you stay on 235, I'll start at the old plat.",
+    long: "",
+    names: ["Alger"]
+  },
+  {
+    id: "alger-founding",
+    name: "Jagger Plat",
+    lat: 40.7097,
+    lng: -83.8442,
+    radius: 450,
+    short: "Elias Jagger laid this village out on October 23, 1882, on 40 acres he and Mariah Jagger gave at the corner of the railroad and the Ada and Round Head Turnpike. They called it Jagger. It incorporated in 1896 under a new name, Alger, for Russell A. Alger, a Civil War general, governor of Michigan, and Secretary of War. He was born in Ohio. He did not live here.",
+    long: "",
+    names: ["Elias Jagger", "Mariah Jagger", "Russell A. Alger"]
+  },
+  {
+    id: "alger-rail",
+    name: "Chicago and Atlantic",
+    lat: 40.7122,
+    lng: -83.8442,
+    radius: 500,
+    short: "The Chicago and Atlantic Railroad put a station here so the marsh crops could leave town. In 1888 that line became part of the Erie. The track, not the turnpike, is why a village sits on this flat ground at all.",
+    long: "",
+    names: ["Chicago and Atlantic Railroad", "Erie Railroad"]
+  },
+  {
+    id: "alger-marsh",
+    name: "Scioto Marsh",
+    lat: 40.6741,
+    lng: -83.7851,
+    radius: 900,
+    short: "Ohio historical marker 7-33. The Scioto Marsh was the largest of three marshes in western Hardin County, more than 16,000 acres left in a glacial basin. Settlers thought it bred malaria. A drainage project began in 1859. The peat soil underneath became some of the richest farmland in this part of Ohio.",
+    long: "",
+    names: ["Scioto Marsh"]
+  },
+  {
+    id: "alger-onions",
+    name: "King Onion",
+    lat: 40.6900,
+    lng: -83.8100,
+    radius: 2000,
+    short: "In 1887 Colonel C. H. Sage figured this black muck was made for onions. After a few bad years the crop took, and the marsh became one of the largest continuous onion fields in North America. Willow windbreaks still cut the flat into long rows. Corn and soybeans cover most of it now. The muck is what built Alger.",
+    long: "",
+    names: ["C. H. Sage", "Scioto Marsh"]
+  },
+  {
+    id: "alger-ray-brown",
+    name: "Ray Brown",
+    lat: 40.7148,
+    lng: -83.8467,
+    radius: 280,
+    short: "Ohio historical marker 17-33, at the ballfield on North Ohio Street. Ray Brown was born in Alger on February 23, 1908, and finished Alger High School in 1926. He pitched for the Homestead Grays from 1932 into the 1940s, won the 1938 pitching triple crown, and threw a seven-inning perfect game in 1945. He died in Dayton in 1965 and was buried in an unmarked grave at Greencastle Cemetery. Cooperstown put him in the Baseball Hall of Fame in 2006.",
+    long: "",
+    names: ["Ray Brown", "Homestead Grays"]
+  },
+  {
+    id: "alger-park",
+    name: "Ray Brown Memorial Park",
+    lat: 40.7148,
+    lng: -83.8460,
+    radius: 300,
+    short: "This was Alger Village Park. In 2024 the village council renamed it for Ray Brown. The historical marker stands by the diamond, between the concession stand and the bleachers. A mural on the grounds shows him in a Grays uniform and as a boy in Alger.",
+    long: "",
+    names: ["Ray Brown", "Ray Brown Memorial Park"]
+  },
+  {
+    id: "alger-native",
+    name: "Marsh Edge",
+    lat: 40.6800,
+    lng: -83.8000,
+    radius: 1800,
+    short: "Before the ditches, Miami people worked the edge of this wet prairie for what the marsh would give. South of here the map still says Roundhead, for the Wyandot chief whose name stayed on this country after the marsh was drained.",
+    long: "",
+    names: ["Miami", "Roundhead"]
+  },
+  {
+    id: "alger-freedom",
+    name: "Marsh Work",
+    lat: 40.6850,
+    lng: -83.8050,
+    radius: 1600,
+    short: "The first ditches went in from 1859 into 1861, then the Civil War stopped the work. The big drainage came back in the 1880s. In the hot summer of 1934 the onion-field workers on this marsh went on strike. The crop that made the town was pulled by people bent over half-mile rows.",
+    long: "",
+    names: ["Scioto Marsh"]
+  },
+  {
+    id: "alger-legend",
+    name: "Lost River",
+    lat: 40.6880,
+    lng: -83.8200,
+    radius: 1600,
+    short: "Old hands said the Scioto had no channel here. It got lost in the bog. They said the muck was once as deep as a tall man, and that after the ditches the wind started carrying it away. When the onions ruled the flat, people called the crop King Onion.",
+    long: "",
+    names: ["Scioto Marsh", "King Onion"]
+  },
+
+  {
+    id: "approach-amanda",
+    name: "Amanda",
+    lat: 39.6515,
+    lng: -82.7150,
+    radius: 6500,
+    layer: "approach",
+    short: "You are coming up on Amanda, on US 22 between Lancaster and Circleville. William Hamilton, the first surveyor of Fairfield County, gave it the name. The village itself dates to about 1830, and the railroad in 1850 turned it into a grain town. If you stay on 22, I'll start at Main and Maple.",
+    long: "",
+    names: ["Amanda"]
+  },
+  {
+    id: "amanda-founding",
+    name: "Main and Maple",
+    lat: 39.6506,
+    lng: -82.7461,
+    radius: 400,
+    short: "Samuel Kester is recorded as the first proprietor. About 1830 Amanda was a couple of buildings at Main and Maple, ten miles west of Lancaster. A post office opened in 1832. The village counts its incorporation from 1903. A Presbyterian church was organized here in 1838.",
+    long: "",
+    names: ["Samuel Kester", "William Hamilton"]
+  },
+  {
+    id: "amanda-rail",
+    name: "Grain Station",
+    lat: 39.6488,
+    lng: -82.7461,
+    radius: 450,
+    short: "Real growth started in 1850, when the Zanesville and Cincinnati Railroad reached this stop. The country around here is flat, so grain from about nine miles out came to Amanda. In the first years of that line, people said 400,000 bushels a year left this station.",
+    long: "",
+    names: ["Zanesville and Cincinnati Railroad"]
+  },
+  {
+    id: "amanda-barr-house",
+    name: "Barr House",
+    lat: 39.6514,
+    lng: -82.7516,
+    radius: 250,
+    short: "The Barr House at 350 West Main is on the National Register. It is an Italianate house tied to the Barr family, who were on this township ground by the early 1800s. Thomas Barr, a War of 1812 soldier from Chester County, Pennsylvania, settled in Dutch Hollow about 1801. His son, also Thomas, farmed here, ran the township treasury for eighteen years, and served as a Fairfield County commissioner.",
+    long: "",
+    names: ["Thomas Barr", "Barr House"]
+  },
+  {
+    id: "amanda-sterling",
+    name: "Thomas Sterling",
+    lat: 39.6500,
+    lng: -82.7440,
+    radius: 400,
+    short: "Thomas Sterling was born near Amanda on February 21, 1851. His parents, Charles Sterling and Anna Kessler, took him to McLean County, Illinois, when he was about three. He became a lawyer, the first dean of the University of South Dakota law school, and a United States senator from South Dakota from 1913 to 1925. He died in Washington in 1930.",
+    long: "",
+    names: ["Thomas Sterling"]
+  },
+  {
+    id: "amanda-park",
+    name: "Ed Wolfe Memorial Park",
+    lat: 39.6437,
+    lng: -82.7457,
+    radius: 400,
+    short: "Ed Wolfe Memorial Park is on Amanda-Southern Road, just south of the village. The Staton D. Johns trail runs with it, a bike path with a disc golf course. The branch library in town carries the Johns name too.",
+    long: "",
+    names: ["Ed Wolfe Memorial Park"]
+  },
+  {
+    id: "amanda-war",
+    name: "No Draft",
+    lat: 39.6496,
+    lng: -82.7432,
+    radius: 300,
+    short: "The veterans memorial is at the municipal building, 116 East Main. In the Civil War, Amanda Township had no draft. The old county history says there were more volunteers than the quota. The Barr family already had a War of 1812 soldier in Dutch Hollow, a generation before that.",
+    long: "",
+    names: ["Thomas Barr"]
+  },
+  {
+    id: "amanda-native",
+    name: "Before the Survey",
+    lat: 39.6420,
+    lng: -82.7480,
+    radius: 1200,
+    short: "Before William Hamilton ran his lines, this prairie west of Lancaster was Shawnee country, with Wyandot people on the same ground. Clear Creek is just south of the village. The survey and the taverns came after that life was pushed off the map.",
+    long: "",
+    names: ["Shawnee", "Wyandot"]
+  },
+  {
+    id: "amanda-tavern",
+    name: "Leathers Tavern",
+    lat: 39.6460,
+    lng: -82.7500,
+    radius: 700,
+    short: "Frederick Leathers is called the first settler near the village. He kept one of the first taverns in the township, on the old Chillicothe road. Isaac Griffith kept the house after him until 1834. Soon after that, it burned.",
+    long: "",
+    names: ["Frederick Leathers"]
+  },
+  {
+    id: "amanda-legend",
+    name: "Who Was Amanda",
+    lat: 39.6506,
+    lng: -82.7475,
+    radius: 400,
+    short: "Everybody agrees William Hamilton named the place. Nobody wrote down who Amanda was. The village still calls it a mystery. The name outlasted the reason.",
+    long: "",
+    names: ["William Hamilton"]
+  },
+
+  {
+    id: "approach-amberley",
+    name: "Amberley",
+    lat: 39.1900,
+    lng: -84.4290,
+    radius: 4500,
+    layer: "approach",
+    short: "You are coming up on Amberley Village, on Ridge Road north of Cincinnati. It was farms and country estates until April 5, 1940, when the residents incorporated and named it for Amberley in West Sussex, England. A Hopewell mound is older than any of the houses. If you stay on Ridge, I'll start at the incorporation.",
+    long: "",
+    names: ["Amberley"]
+  },
+  {
+    id: "amberley-founding",
+    name: "April 5, 1940",
+    lat: 39.1986,
+    lng: -84.4318,
+    radius: 500,
+    short: "This ground was Columbia Township, farms and estates, into the twentieth century. On April 5, 1940, the residents made a village so they could hold the lots large. They took the name of Amberley, a village in West Sussex. In 1955 they hired Rupert Anderegg as the first village manager. The census counted 885 people in 1950 and 2,951 in 1960.",
+    long: "",
+    names: ["Rupert Anderegg", "Amberley"]
+  },
+  {
+    id: "amberley-baxter",
+    name: "James Baxter House",
+    lat: 39.1926,
+    lng: -84.4325,
+    radius: 280,
+    short: "James Baxter bought about 320 acres here in 1797 and built the core of this house in 1807. Ash floors and walnut cupboards from that first house are still in it. A 1930s expansion wrapped the old block. It went on the National Register in 1994. It is a private house on Fair Acres Drive.",
+    long: "",
+    names: ["James Baxter", "James Baxter House"]
+  },
+  {
+    id: "amberley-mound",
+    name: "Benham Mound",
+    lat: 39.1940,
+    lng: -84.4214,
+    radius: 400,
+    short: "Benham Mound sits on a hill above a creek that runs west to Mill Creek. Hopewell people built it. A nineteenth-century description called it a fine large mound, about eight feet high. Neighbors dug into it and turned up mica, axes, scrapers, and flint points. It went on the National Register in 1974. The mound is on private ground. The rise is the landmark, not a trail.",
+    long: "",
+    names: ["Hopewell", "Benham Mound"]
+  },
+  {
+    id: "amberley-french",
+    name: "French Park",
+    lat: 39.2000,
+    lng: -84.4222,
+    radius: 700,
+    short: "French Park is 275 acres, owned by the Cincinnati parks, inside the village. It was the estate of Herbert Greer French, a Procter and Gamble executive. He died in 1942. The land and the brick French House came to the park board in 1943. Woods, a creek, and trails cover the old estate. The house is used for gatherings.",
+    long: "",
+    names: ["Herbert Greer French", "French Park"]
+  },
+  {
+    id: "amberley-green",
+    name: "Amberley Green",
+    lat: 39.1915,
+    lng: -84.4288,
+    radius: 500,
+    short: "Amberley Green is the village's own open ground, about 133 acres at Ridge and Galbraith. The corner stayed a field instead of house lots. That was the point of making a village in 1940.",
+    long: "",
+    names: ["Amberley Green"]
+  },
+  {
+    id: "amberley-tonkens",
+    name: "Tonkens House",
+    lat: 39.1957,
+    lng: -84.4148,
+    radius: 280,
+    short: "At 6980 Knoll Road is a private house Frank Lloyd Wright designed in 1954. Gerald Tonkens, an Oldsmobile and Cadillac dealer, and his wife Rosalie had met in Europe during the Second World War. He was in the Army Air Forces. She was a Red Cross nurse. They bought this steep lot in 1954. The house is a Usonian Automatic, built of concrete block, and it went on the National Register in 1991.",
+    long: "",
+    names: ["Frank Lloyd Wright", "Gerald Tonkens", "Rosalie Tonkens"]
+  },
+  {
+    id: "amberley-people",
+    name: "After the War",
+    lat: 39.2020,
+    lng: -84.4280,
+    radius: 800,
+    short: "The houses filled in after 1945. Amberley became one of the centers of Cincinnati's suburban Jewish community. Jon Arthur, the voice of the children's radio show Big Jon and Sparkie, lived in the village. So did Max Getz, a Cincinnati jeweler and giver.",
+    long: "",
+    names: ["Jon Arthur", "Max Getz"]
+  },
+  {
+    id: "amberley-creek",
+    name: "Mill Creek Branch",
+    lat: 39.1970,
+    lng: -84.4235,
+    radius: 700,
+    short: "No canal and no railroad built this village. The water is a branch that drops west into Mill Creek. The Hopewell mound looks over that valley. French Park holds another stretch of the same creek. The town came later, on the high ground above it.",
+    long: "",
+    names: ["Mill Creek"]
+  },
+  {
+    id: "amberley-legend",
+    name: "The Dug Hill",
+    lat: 39.1945,
+    lng: -84.4225,
+    radius: 400,
+    short: "People here will tell you the neighbors could not leave the mound alone. In the eighteen hundreds they opened it and carried off mica that flashed in the dirt. The village took an English name in 1940. The hill they dug into was already two thousand years old.",
+    long: "",
+    names: ["Benham Mound"]
+  },
+
+  {
+    id: "approach-amelia",
+    name: "Amelia",
+    lat: 39.0340,
+    lng: -84.2450,
+    radius: 5500,
+    layer: "approach",
+    short: "You are coming up on Amelia, on State Route 125. It began as Milltown, then Milton, and took the name Amelia in 1836 for the woman at the tollgate. It incorporated in 1900 and the voters dissolved it in 2019. The old pike is still the main street. If you stay on 125, I'll start at the cabins.",
+    long: "",
+    names: ["Amelia"]
+  },
+  {
+    id: "amelia-founding",
+    name: "Never Platted",
+    lat: 39.0275,
+    lng: -84.2158,
+    radius: 350,
+    short: "Amelia was never formally laid out. An Irishman, Daniel Kirgan, is called the first settler, on the west edge, in 1809. The first cabins are believed to have stood in the parking lots of the United Methodist Church at 19 East Main. David Jernegan and John O. Butler put up a sawmill in 1826 or 1827. More mills followed, and the place was called Milltown, then Milton.",
+    long: "",
+    names: ["Daniel Kirgan", "David Jernegan", "John O. Butler"]
+  },
+  {
+    id: "amelia-pike",
+    name: "Ohio Turnpike",
+    lat: 39.0285,
+    lng: -84.2180,
+    radius: 500,
+    short: "This is not the modern toll road. E. G. Penn built the Ohio Turnpike through here in 1831. It is Main Street, State Route 125. His house stood at 29 East Main, where the Apple Hill Apartments are now. A post office opened in February 1836. Ohio already had a Milton, so this Milton had to change its name.",
+    long: "",
+    names: ["E. G. Penn", "Ohio Turnpike"]
+  },
+  {
+    id: "amelia-bowdoin",
+    name: "Toll House",
+    lat: 39.0301,
+    lng: -84.2209,
+    radius: 250,
+    short: "The house at 94 West Main is called the Amelia Bowdoin House. She was the well-known tollgate keeper on this pike, and the post office took her name in 1836. The house used to stand across the street, when it was the tollhouse. It was moved here.",
+    long: "",
+    names: ["Amelia Bowdoin"]
+  },
+  {
+    id: "amelia-rail",
+    name: "Georgetown Line",
+    lat: 39.0315,
+    lng: -84.2215,
+    radius: 350,
+    short: "The Cincinnati and Portsmouth Railroad, later the Cincinnati, Georgetown and Portsmouth, reached Amelia in 1878. The track crossed Main Street just east of 81 West Main, and the station stood there. The trains quit in April 1935.",
+    long: "",
+    names: ["Cincinnati Georgetown and Portsmouth Railroad"]
+  },
+  {
+    id: "amelia-interurban",
+    name: "The Black Line",
+    lat: 39.0287,
+    lng: -84.2183,
+    radius: 300,
+    short: "From June 1903 to May 1918 the Interurban Railway and Terminal Company ran down the middle of the pike. People called it the Black Line for the dark green cars. The turnaround was at 13 West Main.",
+    long: "",
+    names: ["Interurban Railway and Terminal Company"]
+  },
+  {
+    id: "amelia-knights",
+    name: "Knights of Pythias",
+    lat: 39.0298,
+    lng: -84.2196,
+    radius: 250,
+    short: "The Knights of Pythias hall stood at 41 West Main, a building from the 1850s. It was the village hall, a high school gym, a movie house, and a place for farmers' institutes. The county history also says it was used as a war munitions plant.",
+    long: "",
+    names: ["Knights of Pythias"]
+  },
+  {
+    id: "amelia-people",
+    name: "Main Street People",
+    lat: 39.0290,
+    lng: -84.2190,
+    radius: 400,
+    short: "E. G. Penn's daughter Lena married Charles Cyrus Kearns, who served in Congress from 1915 to 1931. Their house stood at 66 West Main. Speaker Nicholas Longworth and Alice Roosevelt Longworth, Theodore Roosevelt's daughter, visited the village. Nellie Mattox, one of the last justices of the peace in Clermont County and the only woman to hold that office here, held court in her house near Main and Hopkins.",
+    long: "",
+    names: ["Lena Penn", "Charles Cyrus Kearns", "Alice Roosevelt Longworth", "Nellie Mattox"]
+  },
+  {
+    id: "amelia-survey",
+    name: "The 1788 Lines",
+    lat: 39.0260,
+    lng: -84.2200,
+    radius: 800,
+    short: "Before the mills, this was Shawnee country on the waters that run toward the East Fork and the Little Miami. In April 1788 John O'Bannon surveyed the same ground for two Virginia claims. Batavia Township was laid for Robert Gibbons of Yorktown. Pierce Township, the same day, was laid for Robert Baylor of Kentucky. Amelia later sat on the line between those two surveys, and it still does.",
+    long: "",
+    names: ["Shawnee", "John O'Bannon"]
+  },
+  {
+    id: "amelia-dissolved",
+    name: "The Vote",
+    lat: 39.0280,
+    lng: -84.2170,
+    radius: 500,
+    short: "The village incorporated on December 20, 1900. In 2018 it put on a one percent income tax. On November 5, 2019, the voters dissolved the village, 843 to 479. State Route 125 became the line. One side went to Pierce Township, the other to Batavia. It was the most populous village in Ohio ever to vote itself out. The corporate village was finished by January 2022.",
+    long: "",
+    names: ["Amelia"]
+  },
+  {
+    id: "amelia-legend",
+    name: "Armilla",
+    lat: 39.0305,
+    lng: -84.2215,
+    radius: 300,
+    short: "The story says stagecoach drivers yelled Amelia when they came up on the toll. The records do not show an Amelia Bowdoin. They do show Armilla Bodin, wife of a toll keeper, in the house people still call by the other name. Her name may have been heard wrong, or written wrong, in 1836. Down the pike, the Thomas-Fuller house called Mid-Maples, at 119 West Main, is believed to have been a speakeasy in Prohibition.",
+    long: "",
+    names: ["Armilla Bodin", "Amelia Bowdoin"]
+  },
+
+  {
+    id: "approach-amesville",
+    name: "Amesville",
+    lat: 39.4014,
+    lng: -81.9800,
+    radius: 4000,
+    layer: "approach",
+    short: "You are coming up on Amesville, where State Route 550 meets 329, on Federal Creek. Ephraim Cutler cut a horse path here from the Muskingum in 1797. The village was laid out in 1837 and named for Fisher Ames, who never lived here. The story people tell first is the library bought with raccoon skins. If you stay on 550, I'll start at the creek.",
+    long: "",
+    names: ["Amesville"]
+  },
+  {
+    id: "amesville-founding",
+    name: "Horse Path",
+    lat: 39.4014,
+    lng: -81.9550,
+    radius: 350,
+    short: "In the winter of 1797 Ephraim Cutler, George Ewing, and Benjamin Brown cut a horse path about twenty miles from Waterford on the Muskingum to the head of Federal Creek. They cleared cabin sites in the woods. By 1800 about 161 people were in the township. Sylvanus Ames settled here around that year and became sheriff of Athens County. The village itself was laid out in 1837. A post office stood by 1821 in a brick store at State and Main.",
+    long: "",
+    names: ["Ephraim Cutler", "George Ewing", "Sylvanus Ames"]
+  },
+  {
+    id: "amesville-coonskin",
+    name: "Coonskin Library",
+    lat: 39.4047,
+    lng: -81.9600,
+    radius: 300,
+    short: "At a road meeting in 1803, Josiah True proposed a library. George Ewing seconded it. Cash was scarce, so in 1804 the neighbors paid their shares in pelts, mostly raccoon. Samuel Brown carried the skins east and came back with fifty-one books, bought for $73.50. The official name was the Western Library Association. People called it the Coonskin Library. There was never a library building. The books moved from house to house. Ephraim Cutler was the first librarian. A marker for it stands on Main Street.",
+    long: "",
+    names: ["Coonskin Library", "Josiah True", "Samuel Brown", "Ephraim Cutler"]
+  },
+  {
+    id: "amesville-creek",
+    name: "Federal Creek",
+    lat: 39.3995,
+    lng: -81.9550,
+    radius: 400,
+    short: "The village sits on Federal Creek, which runs to the Hocking. It is said to have been named for the thirteen colonies, one for each branch. The bottomland is why the cabins went here. The same creek is why the south side of town is now a park.",
+    long: "",
+    names: ["Federal Creek"]
+  },
+  {
+    id: "amesville-rail",
+    name: "Federal Valley Line",
+    lat: 39.4000,
+    lng: -81.9567,
+    radius: 280,
+    short: "The Federal Valley line came up from Cutler, passed the south side of the village along the creek, and went on to Trimble. It hauled lumber, ore, building material, and produce, and later it carried passengers. The marker is at 1 State Street. The old grade is still visible.",
+    long: "",
+    names: ["Federal Valley Railroad"]
+  },
+  {
+    id: "amesville-railroad",
+    name: "Elephant Rock",
+    lat: 39.4045,
+    lng: -81.9480,
+    radius: 400,
+    short: "Ohio was free soil under the Northwest Ordinance, and this county sat on routes north from the river. Around Amesville, the Cutler house on State Route 329 is thought to have been a stop. Elephant Rock, on the northeast edge of the village, is thought to have been a place to wait overnight. The marker at State and Main says thought to have been. That is as firm as the record gets.",
+    long: "",
+    names: ["Underground Railroad", "Ephraim Cutler"]
+  },
+  {
+    id: "amesville-park",
+    name: "Gifford Park",
+    lat: 39.3988,
+    lng: -81.9555,
+    radius: 300,
+    short: "On June 28, 1998, a storm stalled over Federal Creek and dropped more than ten inches of rain. The water crossed State Street and Main Street. It stood fifteen feet deep at the restaurant on that corner. Most of the houses and shops on the south side were torn down afterward. The open ground is Gifford Park.",
+    long: "",
+    names: ["Gifford Park", "Federal Creek"]
+  },
+  {
+    id: "amesville-people",
+    name: "Cutler and Ewing",
+    lat: 39.4025,
+    lng: -81.9555,
+    radius: 300,
+    short: "Thomas Ewing, George's son, was in the first graduating class at Ohio University and later sat in the United States Senate. Edward Raymond Ames was born in Amesville and became a bishop of the Methodist Episcopal Church. Fisher Ames, the man the town is named for, was a Massachusetts congressman who helped the Ohio Company. He never lived on this creek.",
+    long: "",
+    names: ["Thomas Ewing", "Edward Raymond Ames", "Fisher Ames"]
+  },
+  {
+    id: "amesville-native",
+    name: "Hunting Valley",
+    lat: 39.3980,
+    lng: -81.9620,
+    radius: 700,
+    short: "Before Cutler cut the horse path, this valley was a Native hunting ground. People came to it from as far as the shore of Lake Erie. The fertility he wrote down is the same reason they were already here.",
+    long: "",
+    names: ["Federal Creek"]
+  },
+  {
+    id: "amesville-legend",
+    name: "Alonzo Weed",
+    lat: 39.4020,
+    lng: -81.9540,
+    radius: 250,
+    short: "In April 1903 Amesville elected Alonzo Weed mayor. He was a drifter. In the story the town still tells, friends put his name on the ballot as a joke. He tied the other man, 21 votes to 21, and took the office on the tie-break. He was a drinker in a dry town. He heard two cases, then left, and was arrested for public intoxication in Columbus, Akron, and Cleveland. The council tried to be rid of him. Papers across the country printed it.",
+    long: "",
+    names: ["Alonzo Weed"]
+  },
+
+  {
+    id: "approach-amherst",
+    name: "Amherst",
+    lat: 41.3800,
+    lng: -82.2300,
+    radius: 6000,
+    layer: "approach",
+    short: "You are coming up on Amherst, in Lorain County, a few miles south of Lake Erie. Jacob Shupe cleared land on Beaver Creek in 1811. The town that followed called itself the Sandstone Center of the World. If you stay toward Milan Avenue, I'll start at the creek.",
+    long: "",
+    names: ["Amherst"]
+  },
+  {
+    id: "amherst-shupe",
+    name: "Beaver Creek",
+    lat: 41.4150,
+    lng: -82.2300,
+    radius: 900,
+    short: "Jacob Shupe made the first clearing here in 1811, on a hill by a stream he named Beaver Creek, near what is now Cooper Foster Park Road. He and a carpenter from Pennsylvania built the first sawmill in Lorain County. The first frame house in the settlement went up with that lumber. Shupe also ran a gristmill. He was killed in an accident in the mill. He was fifty-four.",
+    long: "",
+    names: ["Jacob Shupe", "Beaver Creek"]
+  },
+  {
+    id: "amherst-corners",
+    name: "The Corners",
+    lat: 41.3985,
+    lng: -82.2418,
+    radius: 400,
+    short: "Josiah Harris settled the later downtown in 1818. The first post office, in 1821, was in his house, and the mail name was Plato. People called the crossroads the Corners. Jonas Stratton, a cabinetmaker from Amherst, New Hampshire, arrived in 1819 and gave that name to the township. The plat was filed in 1836. It was Amherstville, then North Amherst, and in 1909 it was Amherst again.",
+    long: "",
+    names: ["Josiah Harris", "Jonas Stratton"]
+  },
+  {
+    id: "amherst-sandstone",
+    name: "Sandstone Center",
+    lat: 41.3984,
+    lng: -82.2392,
+    radius: 400,
+    short: "Under the town is a thick bed of sandstone. Henry Warner opened a quarry in 1847 and is credited with the first stone shipped out of here. The rock was used for grindstones and for buildings in Ohio and Canada. The colors run red, brown, yellow, and gray. German and Swiss workers filled the crews. By the late eighteen hundreds Amherst called itself the Sandstone Center of the World. The historical society and Sandstone Village are at 113 South Lake Street.",
+    long: "",
+    names: ["Henry Warner"]
+  },
+  {
+    id: "amherst-rail",
+    name: "Cleveland and Toledo",
+    lat: 41.4005,
+    lng: -82.2300,
+    radius: 500,
+    short: "The stone was no good until it could move. The Cleveland and Toledo Railroad came through Amherstville in 1852. The quarries had brought the track. From the cars the blocks went on to the ships at Lorain and Cleveland.",
+    long: "",
+    names: ["Cleveland and Toledo Railroad"]
+  },
+  {
+    id: "amherst-quarry",
+    name: "Number 6",
+    lat: 41.3850,
+    lng: -82.2100,
+    radius: 1500,
+    short: "The big hole is south of downtown, toward South Amherst. Number 6, called Gray Canyon, was said to be the largest single sandstone quarry in the world. Buckeye Gray came out of this ground. One working was cut about 240 feet down. It is no longer quarried. In 1863 the schooner Clough sank on Lake Erie in a storm while carrying this stone. The wreck was identified again in 2025.",
+    long: "",
+    names: ["Buckeye Gray", "Clough"]
+  },
+  {
+    id: "amherst-park",
+    name: "Neiding Park",
+    lat: 41.4019,
+    lng: -82.2144,
+    radius: 350,
+    short: "Neiding Park is the city park on the east side. The public memory of the quarries is kept at Sandstone Village, the museum grounds on South Lake Street, not out in the flooded holes.",
+    long: "",
+    names: ["Neiding Park"]
+  },
+  {
+    id: "amherst-people",
+    name: "From Amherst",
+    lat: 41.3975,
+    lng: -82.2350,
+    radius: 400,
+    short: "Guy Carlton, born here, won a bronze medal in weightlifting at the 1984 Olympics. John Penton, the enduro motorcycle racer, is from Amherst and is in the Motorcycle Hall of Fame. Henry Dwight Stratton, also of this town, was a founder of Bryant and Stratton College.",
+    long: "",
+    names: ["Guy Carlton", "John Penton", "Henry Dwight Stratton"]
+  },
+  {
+    id: "amherst-camp",
+    name: "North of the Corners",
+    lat: 41.4100,
+    lng: -82.2250,
+    radius: 700,
+    short: "Native camps were still north of the Corners after Shupe built his mill. In 1826 Ezekiel Barnes led a night raid and fired blanks at the outside walls of one of those camps, to scare the people off. That is the fight the local record actually has. No battlefield. A camp, and blanks.",
+    long: "",
+    names: ["Ezekiel Barnes"]
+  },
+  {
+    id: "amherst-legend",
+    name: "Built on a Rock",
+    lat: 41.3990,
+    lng: -82.2360,
+    radius: 400,
+    short: "The town has worn five names. The Corners. Plato. Amherstville. North Amherst. Amherst. The one that stuck in the quarries was a boast, and it was earned. Sandstone Center of the World. The bicentennial marker says the city is built on a rock that runs deep in the earth. The flooded holes south of town are the proof.",
+    long: "",
+    names: ["Amherst"]
+  },
+
+
+
 
 
 

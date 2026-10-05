@@ -49237,6 +49237,37 @@ const STORIES = [
     names: ["Hyattsville"]
   },
 
+  {
+    id: "troy-wallace",
+    name: "Andrew Wallace",
+    lat: 40.0392,
+    lng: -84.2033,
+    radius: 600,
+    short: "Staunton came first. John Smith laid it out in August 1806, before Miami County was cut from Montgomery. In the summer of 1807 the new county picked this bank for the seat instead. Andrew Wallace platted Troy in December 1807. The name is the old city. The square is the seat. The earlier town was across the river.",
+    long: "",
+    names: ["Andrew Wallace", "John Smith", "Staunton"]
+  },
+  {
+    id: "troy-overfield",
+    name: "Lot 2",
+    lat: 40.0392,
+    lng: -84.2033,
+    radius: 400,
+    short: "Benjamin Overfield, from Pennsylvania, bought Lot 2 and finished a log tavern on the west bank by the fall of 1808. It is believed to be the first house in Troy. On September 13, 1808, he and Teagel Trader both got tavern licenses. Court sat upstairs for the first time on November 5, 1808. On December 16 the commissioners ordered that court stay in his house until a courthouse was built, and he gave them the room free. The courthouse on the square was not finished until 1824. A fire that year burned most of the log houses on Water Street. Overfield moved his business, later kept the Crosskeys Tavern at West Main and Cherry, and died on July 20, 1831. His sister Elizabeth and her husband David Daily kept the old tavern. A fire on December 7, 2024 badly damaged that building. The logs were still standing.",
+    long: "",
+    names: ["Benjamin Overfield", "Teagel Trader"]
+  },
+  {
+    id: "troy-seat",
+    name: "The courthouse fight",
+    lat: 40.0392,
+    lng: -84.2033,
+    radius: 500,
+    short: "Troy was incorporated in 1814. Piqua wanted the courthouse. The argument ran for decades, and people here still call the last round the Courthouse War. Troy kept the seat in the 1880s. The square, fountains and all, is on the National Register. The 1913 flood took the low streets. The square sits just high enough that the county never moved.",
+    long: "",
+    names: ["Piqua"]
+  },
+
 
 
 

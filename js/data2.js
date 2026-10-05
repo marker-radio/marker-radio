@@ -1810,6 +1810,713 @@ STORIES.push(
     long: "",
     names: ["Belmont"]
   },
+  {
+    id: "approach-beloit",
+    name: "Beloit",
+    lat: 40.9220,
+    lng: -81.0200,
+    radius: 2000,
+    layer: "approach",
+    short: "You are coming up on Beloit. They say it buh-loyt. It is a village in Smith Township, in southwestern Mahoning County, near Sebring. The railroad made a station here in the late 1840s and they called it Smithfield Station. The name Beloit was picked in 1863, from Beloit, Wisconsin. About 900 people live here. If you stay on the highway, I'll start at the steam carriage.",
+    long: "",
+    names: ["Beloit"]
+  },
+  {
+    id: "beloit-station",
+    name: "Smithfield Station",
+    lat: 40.9211,
+    lng: -81.0014,
+    radius: 180,
+    short: "The village started when the railroad came through in the late 1840s. The stop was Smithfield Station. Smith Township had been in Columbiana County until Mahoning County was cut out in 1846, so the old name and the old county both show up in the telling. The tracks still run through the center of town. I will not name the railroad company. I do not have it locked.",
+    long: "",
+    names: ["Beloit"]
+  },
+  {
+    id: "beloit-name",
+    name: "The Postmaster's Contest",
+    lat: 40.9215,
+    lng: -81.0020,
+    radius: 120,
+    short: "There was already a Smithfield in Ohio, and the mail was getting mixed. In 1863 the postmaster held a contest for a new name. The winner had a relative in Beloit, Wisconsin, and that was the name they took. The village marked 150 years on June 27, 2013. The Wisconsin town is not this town. Only the name crossed.",
+    long: "",
+    names: ["Beloit"]
+  },
+  {
+    id: "beloit-saunders",
+    name: "Saunders's Steam Carriage",
+    lat: 40.9205,
+    lng: -81.0005,
+    radius: 150,
+    short: "William Saunders, who lived here, built a steam horseless carriage in 1891. The village telling is that he gave people rides on Sunday afternoons, and that he later decided steam was not the way. They call it one of the first attempts at an automobile, not the first car in America. I will not move it ahead of the machines that actually won.",
+    long: "",
+    names: ["William Saunders"]
+  },
+  {
+    id: "beloit-farms",
+    name: "Still a Farm Town",
+    lat: 40.9230,
+    lng: -81.0030,
+    radius: 200,
+    short: "In 2013 the street commissioner said that in the old days this was entirely a farm town, and that it still was, to an extent. The village is about one square mile. West Branch High School sits in the south end. I will not invent a founding year for the school.",
+    long: "",
+    names: ["Beloit"]
+  },
+  {
+    id: "beloit-native",
+    name: "No Village Name",
+    lat: 40.9190,
+    lng: -80.9990,
+    radius: 150,
+    short: "I do not have a native village name on these lots. This is Mahoning country. I will not borrow a town from the river to fill a railroad station.",
+    long: "",
+    names: ["Beloit"]
+  },
+  {
+    id: "beloit-war",
+    name: "No Battlefield",
+    lat: 40.9210,
+    lng: -81.0040,
+    radius: 120,
+    short: "There is no fort and no battlefield here. The name did not come from a fight. It came from a relative in Wisconsin. I will not invent a war to fill the card.",
+    long: "",
+    names: ["Beloit"]
+  },
+
+  {
+    id: "approach-belpre",
+    name: "Belpre",
+    lat: 39.2800,
+    lng: -81.5600,
+    radius: 3000,
+    layer: "approach",
+    short: "You are coming up on Belpre, a city in Washington County, about fifteen miles down the Ohio from Marietta, across from Parkersburg. New England settlers of the Ohio Company came ashore in April 1789 and called it Belle-prairie, beautiful prairie. About 6,700 people live here. If you stay on the river road, I'll start at the farmers' fort.",
+    long: "",
+    names: ["Belpre"]
+  },
+  {
+    id: "belpre-prairie",
+    name: "Belle-Prairie",
+    lat: 39.2732,
+    lng: -81.5921,
+    radius: 250,
+    short: "They surveyed these lots in the winter of 1788 and 1789, then left Marietta in April 1789. The settlers were farmers and Revolutionary War veterans, and they came on flatboats. The town sat opposite the mouth of the Little Kanawha. They raised fruit, vegetables, and grain. Packet boats later took flour, livestock, vinegar, and passengers downriver, some of them all the way to New Orleans.",
+    long: "",
+    names: ["Ohio Company"]
+  },
+  {
+    id: "belpre-castle",
+    name: "Farmers' Castle",
+    lat: 39.2714,
+    lng: -81.5759,
+    radius: 250,
+    short: "In January 1791 fighters killed settlers at Big Bottom, up the Muskingum. The Belpre families started a fort the first week of that January. Thirteen two-story blockhouses, in two rows, with a wide street between them. Corner watchtowers stood eight feet above the other roofs and were manned all the time. Nathaniel Goodale and Nathaniel Cushing commanded it. One count says about 220 people and 28 heads of families. The monument on Washington Boulevard says thirty farming families. They left the castle in 1796, after the Treaty of Greenville. The stone is at the Church of Christ. A museum historian says the stockade itself stood nearer the river, toward the middle of what was then Backus Island. There is almost nothing left in the ground.",
+    long: "",
+    names: ["Nathaniel Goodale", "Nathaniel Cushing"]
+  },
+  {
+    id: "belpre-mill",
+    name: "Devol's Floating Mill",
+    lat: 39.2740,
+    lng: -81.5910,
+    radius: 200,
+    short: "Jonathan Devol's mill sat in a rapid within sight of the castle. Boats were fastened with oak planks into a deck, and a frame building on that deck held the gears and the millstones. The current did the work. A marker for it stands in Civitan Park. The mill is gone. The park is not the rapid.",
+    long: "",
+    names: ["Jonathan Devol"]
+  },
+  {
+    id: "belpre-lewis",
+    name: "Lewis and Clark",
+    lat: 39.2735,
+    lng: -81.5900,
+    radius: 200,
+    short: "In 1803 Lewis and Clark's Corps of Discovery came by in keelboats, on the way to the Pacific. That is a visit, not a camp I can show you. The state marker that tells it is in Civitan Park, on Blennerhassett Avenue.",
+    long: "",
+    names: ["Meriwether Lewis", "William Clark"]
+  },
+  {
+    id: "belpre-island",
+    name: "The Island Is Not This Bank",
+    lat: 39.2700,
+    lng: -81.5800,
+    radius: 300,
+    short: "Blennerhassett Island is West Virginia. The settlers called it Backus Island. Harman Blennerhassett's mansion, and Aaron Burr's scheme, are on that island, not on these lots. I will not move them across the channel.",
+    long: "",
+    names: ["Harman Blennerhassett"]
+  },
+  {
+    id: "belpre-church",
+    name: "The Universalist Society",
+    lat: 39.2750,
+    lng: -81.5850,
+    radius: 150,
+    short: "The First Universalist Society of Belpre was founded on May 25, 1823. The marker calls it the oldest Universalist congregation in Ohio. It was dedicated again in 1948. I will not invent the building that stands there now.",
+    long: "",
+    names: ["Belpre"]
+  },
+  {
+    id: "belpre-war",
+    name: "The War Was the Castle",
+    lat: 39.2720,
+    lng: -81.5765,
+    radius: 200,
+    short: "The fight on this ground was the Northwest Indian War, and the answer was Farmers' Castle. I do not have a battle fought inside the walls. I have the reason they built them, which was Big Bottom, and the year they came back out, which was 1796. There is a veterans memorial in town. It is a stone for later wars. It is not a battlefield.",
+    long: "",
+    names: ["Belpre"]
+  },
+
+  {
+    id: "approach-bentleyville",
+    name: "Bentleyville",
+    lat: 41.4250,
+    lng: -81.4100,
+    radius: 2000,
+    layer: "approach",
+    short: "You are coming up on Bentleyville, a village in Cuyahoga County, about twenty miles southeast of Cleveland, between Chagrin Falls, Moreland Hills, and Solon. Adamson Bentley laid it out in 1831 at the Chagrin River and the Aurora Branch. The village incorporated in 1929 so Chagrin Falls would not swallow it. About 900 people live here. The motto is serve, preserve, conserve. If you stay on the highway, I'll start at the mill.",
+    long: "",
+    names: ["Bentleyville"]
+  },
+  {
+    id: "bentleyville-bentley",
+    name: "Bentley's Mills",
+    lat: 41.4136,
+    lng: -81.4131,
+    radius: 200,
+    short: "This was the northeast corner of the old Milan township, later Solon, inside the Connecticut Western Reserve. In 1831 Adamson Bentley, a minister of the Disciples of Christ, bought land where the Aurora Branch meets the Chagrin, along what are now Miles and River roads. He built a sawmill, a gristmill, and in 1836 a clothing store. He held meetings in a log schoolhouse. Other settlers added a triphammer shop, a tannery, a stone quarry, and chair and rake factories. That was the town's industry. There was no railroad I can name.",
+    long: "",
+    names: ["Adamson Bentley"]
+  },
+  {
+    id: "bentleyville-robbins",
+    name: "Griffithsburg",
+    lat: 41.4120,
+    lng: -81.4110,
+    radius: 180,
+    short: "In 1833 James Griffin and nine other investors in the Aurora Land Company started a second settlement, Griffithsburg, near where the village hall is now. In 1836 Captain Archibald Robbins kept a store and a post office there. He was the son of an early Solon settler, and he wrote the journal of the brig Commerce, lost in 1815, and of his captivity after it. The village calls him a national hero for that book. The wreck was not on the Chagrin.",
+    long: "",
+    names: ["Archibald Robbins", "James Griffin"]
+  },
+  {
+    id: "bentleyville-people",
+    name: "Hayden and Russell",
+    lat: 41.4100,
+    lng: -81.4080,
+    radius: 250,
+    short: "William Hayden, another Disciples preacher, built Rural Hall on South Franklin. The village says it still stands. Ralph Russell founded the North Union Shaker community in 1822, which is Shaker Heights, not these lots. He later settled on Liberty Road here and started Union Cemetery. I will not move the Shaker village down the river.",
+    long: "",
+    names: ["William Hayden", "Ralph Russell"]
+  },
+  {
+    id: "bentleyville-1929",
+    name: "They Would Not Be Annexed",
+    lat: 41.4140,
+    lng: -81.4150,
+    radius: 200,
+    short: "Chagrin Falls Township took in pieces of Orange, Solon, and Geauga County in 1844. In 1928 Chagrin Falls village wanted the rest of the township. Some people here wanted to join Moreland Hills instead. Another group petitioned, voted to secede, and incorporated Bentleyville in 1929. The census counted 83 people in 1930 and 897 in 2020. People have tried to annex it to Chagrin Falls, Solon, or Moreland Hills since. It is still its own village.",
+    long: "",
+    names: ["Bentleyville"]
+  },
+  {
+    id: "bentleyville-park",
+    name: "South Chagrin Reservation",
+    lat: 41.4180,
+    lng: -81.4200,
+    radius: 400,
+    short: "About 540 acres of the South Chagrin Reservation sit inside the village. Look About Lodge is in that park. I will not invent the year they built it. The public land is the reservation. The mills are gone.",
+    long: "",
+    names: ["South Chagrin Reservation"]
+  },
+  {
+    id: "bentleyville-native",
+    name: "No Village Name",
+    lat: 41.4160,
+    lng: -81.4120,
+    radius: 200,
+    short: "I do not have a native village name on these lots. The Chagrin is the water. I will not invent a town at Bentley's mill seat.",
+    long: "",
+    names: ["Chagrin River"]
+  },
+  {
+    id: "bentleyville-war",
+    name: "No Battlefield",
+    lat: 41.4130,
+    lng: -81.4090,
+    radius: 150,
+    short: "There is no fort and no battlefield here. The war story that touches the village is Robbins's captivity after the Commerce went down, and that happened on the Atlantic, not on the river. I will not invent a fight in the township.",
+    long: "",
+    names: ["Bentleyville"]
+  },
+
+  {
+    id: "approach-berea",
+    name: "Berea",
+    lat: 41.3800,
+    lng: -81.8500,
+    radius: 3000,
+    layer: "approach",
+    short: "You are coming up on Berea, a city in Cuyahoga County, on the Rocky River, southwest of Cleveland. It was Middleburg Township. A blacksmith named Jared Hickox settled in 1809. The village incorporated in 1850 and the city in 1930. About 18,500 people live here. The town was grindstones. If you stay on the highway, I'll start at the coin flip.",
+    long: "",
+    names: ["Berea"]
+  },
+  {
+    id: "berea-coin",
+    name: "Heads for Berea",
+    lat: 41.3661,
+    lng: -81.8546,
+    radius: 200,
+    short: "In 1828 John Baldwin, the Reverend Henry O. Sheldon, the Reverend James Gilruth, and Josiah Holbrook, Methodists from Connecticut, started a Christian commune they called the Lyceum Society. They bought land, issued stock, opened a missionary school, and gave up personal property. In 1836 the post office needed a name. Sheldon wanted Berea. The other biblical choice was Tabor. Baldwin called heads. Berea won. Sheldon became the first postmaster.",
+    long: "",
+    names: ["John Baldwin", "Henry O. Sheldon"]
+  },
+  {
+    id: "berea-grindstone",
+    name: "The First Grindstone",
+    lat: 41.3680,
+    lng: -81.8580,
+    radius: 250,
+    short: "Around 1842 Baldwin found a thin slab of gritty stone on the Rocky River. He shaped it with an old axe and it sharpened better than the stone he had known in Connecticut. He built a lathe, ran it with water, and cut grindstones. The Baldwin Quarry Company dates from that year. The stones sharpened tools for farms, houses, and mills. Berea grit went out as building stone too. I will not name a famous building I have not checked.",
+    long: "",
+    names: ["John Baldwin"]
+  },
+  {
+    id: "berea-quarry",
+    name: "Four Hundred Tons a Day",
+    lat: 41.3700,
+    lng: -81.8600,
+    radius: 300,
+    short: "The quarries combined into the Cleveland Stone Company in 1886. At the peak they shipped about 400 tons a day to the United States, Canada, Europe, and Australia. Stone was found under the first school buildings, so the buildings were moved to let the company dig. The pits were largely worked out by the time the company closed in 1946. Carborundum wheels had already replaced grindstones. The holes they left are water. The early quarry hands were English, Scottish, and German. Later came Irish and Polish workers.",
+    long: "",
+    names: ["Cleveland Stone Company"]
+  },
+  {
+    id: "berea-college",
+    name: "Baldwin and Wallace",
+    lat: 41.3720,
+    lng: -81.8480,
+    radius: 250,
+    short: "Baldwin gave land for the Baldwin Institute, opened in 1845, later Baldwin University. German Wallace College opened in 1863 for the German families. The two schools joined in 1913 as Baldwin-Wallace College, and it became a university in 2012. The Bach festival started in 1932 or 1933. The accounts differ by a year. The college calls it the oldest collegiate Bach festival in the country. The Browns opened a training complex here in 1991.",
+    long: "",
+    names: ["John Baldwin"]
+  },
+  {
+    id: "berea-people",
+    name: "Dillard and the Fair",
+    lat: 41.3740,
+    lng: -81.8460,
+    radius: 200,
+    short: "Harrison Dillard ran track for Baldwin-Wallace and won four Olympic gold medals. The first two were in 1948. In 1978 Lee Tressel coached the college to a national football title. The Cuyahoga County fair moved to Eastland Road in 1894. Union Depot is on the National Register. I will not name the railroad company. I have not locked it.",
+    long: "",
+    names: ["Harrison Dillard", "Lee Tressel"]
+  },
+  {
+    id: "berea-native",
+    name: "The Treaty of Fort Industry",
+    lat: 41.3650,
+    lng: -81.8520,
+    radius: 200,
+    short: "The encyclopedia lists Ottawa, Potawatomi, Chippewa, Wyandot, Munsee, Delaware, and Shawnee in this country, and says they were pushed west after the Treaty of Fort Industry on July 4, 1805. I do not have a village name on these lots. I will not invent one at the quarry.",
+    long: "",
+    names: ["Berea"]
+  },
+  {
+    id: "berea-war",
+    name: "No Battlefield",
+    lat: 41.3670,
+    lng: -81.8500,
+    radius: 150,
+    short: "There is no fort and no battlefield in Berea. The war record here is the 1805 treaty that cleared the township for the settlers who came four years later. I will not invent a fight in the stone pits.",
+    long: "",
+    names: ["Berea"]
+  },
+
+  {
+    id: "approach-bergholz",
+    name: "Bergholz",
+    lat: 40.5100,
+    lng: -80.8810,
+    radius: 2000,
+    layer: "approach",
+    short: "You are coming up on Bergholz. They say it burg-holes. It is a village in Springfield Township, Jefferson County, on upper Yellow Creek. The German means mountain timber. The older hamlet was Nebo. The town was platted on October 24, 1883, for a coal mine, and incorporated on August 6, 1906. About 540 people live here. In 1920 there were 1,215. If you stay on Route 164, I'll start at the creek.",
+    long: "",
+    names: ["Bergholz"]
+  },
+  {
+    id: "bergholz-nebo",
+    name: "Nebo",
+    lat: 40.5180,
+    lng: -80.8820,
+    radius: 200,
+    short: "Before the plat, this was a hamlet called Nebo. A miller built a sawmill and a gristmill on upper Yellow Creek early in the 1800s. One local history calls him James Allmon. Another calls him John C. Allman. I will not pick. A flour mill later belonged to a man named Allen. William Ruddicks kept a small store. By 1876 the post office was gone. The mill and the store were about all that was left.",
+    long: "",
+    names: ["Bergholz"]
+  },
+  {
+    id: "bergholz-mine",
+    name: "Mrs. Bergholz's Mine",
+    lat: 40.5210,
+    lng: -80.8790,
+    radius: 200,
+    short: "A large mine opened on the opposite side of the creek and was named for Mrs. Bergholz, one of the owners. I do not have her first name. On October 24, 1883, James Kelly, Morris J. Hess, and Christina Hess platted 156 lots, sixty by a hundred feet, on the other bank. The land came off the Allen, Hess, and Dorrance farms. Old printings do not spell the Hess names the same way. The Dorrance addition was recorded on March 1, 1904. When they incorporated, the petitioners claimed 1,200 people. The 1910 census counted 1,011.",
+    long: "",
+    names: ["James Kelly"]
+  },
+  {
+    id: "bergholz-rail",
+    name: "The Little Railroad",
+    lat: 40.5197,
+    lng: -80.8806,
+    radius: 150,
+    short: "The local histories do not agree on the railroad's name. One says the Lake Erie, Alliance and Western. Another says Southern instead of Western. I will not pick. It had money trouble, then it was built on through Amsterdam and Dillonvale so the coal could leave. By 1886 there was also a salt works east of town. That is the industry. Coal, salt, and the track.",
+    long: "",
+    names: ["Bergholz"]
+  },
+  {
+    id: "bergholz-bank",
+    name: "The Bank and the Wagon Shop",
+    lat: 40.5205,
+    lng: -80.8815,
+    radius: 120,
+    short: "Ham Saltsman started a wagon shop. The Bergholz State Bank was organized with 15,000 dollars in capital. By September 1, 1909, deposits were about 102,000 dollars. A. G. McBane was the cashier. Carpenters Fisher Robbins, Samuel M. Dorrance, and William Dorrance built many of the better houses. There is a Bergholz Museum. I will not invent what is inside it.",
+    long: "",
+    names: ["Ham Saltsman", "A. G. McBane"]
+  },
+  {
+    id: "bergholz-morgan",
+    name: "Morgan Came Through First",
+    lat: 40.5170,
+    lng: -80.8830,
+    radius: 250,
+    short: "In July 1863 John Hunt Morgan's raiders rode through this Yellow Creek country on the way to the Battle of Salineville. Bergholz was not a town yet. Nebo was the hamlet. The fight was at Salineville, in the next county north, not on these lots. A veterans memorial stands on 2nd Street, about a tenth of a mile east of Route 164. It is a stone for later wars. It is not Morgan's battlefield.",
+    long: "",
+    names: ["John Hunt Morgan"]
+  },
+  {
+    id: "bergholz-lick",
+    name: "Lick Skillet",
+    lat: 40.5160,
+    lng: -80.8840,
+    radius: 150,
+    short: "The local history says the Indians called this place Lick Skillet. That is an English nickname, and I cannot prove it as a native name. I do not have a village name on Yellow Creek that I can stand behind. I will tell you what the book says. I will not dress it up.",
+    long: "",
+    names: ["Yellow Creek"]
+  },
+  {
+    id: "bergholz-mullet",
+    name: "Not the Founding",
+    lat: 40.5190,
+    lng: -80.8795,
+    radius: 150,
+    short: "In 2012, sixteen men and women from an Amish community here were convicted in federal court over a series of hair- and beard-cutting attacks. Samuel Mullet Sr. was convicted as the leader. He was not one of the people who did the cutting. That is a court case. It is not why the town was built, and it is not the mine, the mill, or the railroad.",
+    long: "",
+    names: ["Samuel Mullet"]
+  },
+
+  {
+    id: "approach-berkey",
+    name: "Berkey",
+    lat: 41.7080,
+    lng: -83.8200,
+    radius: 2000,
+    layer: "approach",
+    short: "You are coming up on Berkey, a village in Richfield Township, Lucas County, about fifteen miles west of Toledo. It was called Riga. The post office opened under that name in 1837 and became Berkey in 1870, for Richard K. Berkeybile, an early postmaster. About 275 people live here, on a little more than four square miles. If you stay on the highway, I'll start at the name.",
+    long: "",
+    names: ["Berkey"]
+  },
+  {
+    id: "berkey-riga",
+    name: "Riga",
+    lat: 41.7083,
+    lng: -83.8383,
+    radius: 180,
+    short: "The settlement was Riga before it was Berkey. The post office of 1837 is the date I can lock. One account moves the renaming to 1865. The record I trust says 1870. Berkeybile's name was shortened. I do not have a plat, a mill, or a founder besides the postmaster. The village hall is the building I can point at. There is a United Church of Christ. I will not invent the year it was built.",
+    long: "",
+    names: ["Richard K. Berkeybile"]
+  },
+  {
+    id: "berkey-lathrop",
+    name: "Lucian Lathrop",
+    lat: 41.7090,
+    lng: -83.8370,
+    radius: 150,
+    short: "Lucian Bonaparte Lathrop was another early postal official at Riga. In 1852 he sat in the Ohio House as a Democrat. I will not call him the first postmaster. That claim is not locked. The man the town is named for is Berkeybile.",
+    long: "",
+    names: ["Lucian Bonaparte Lathrop"]
+  },
+  {
+    id: "berkey-rail",
+    name: "The Interurban",
+    lat: 41.7075,
+    lng: -83.8390,
+    radius: 200,
+    short: "In 1902 the Toledo and Western Railway opened an electric line west from a junction called Allen Junction, through Berkey and Morenci, to Fayette. Passenger cars stopped in 1933. That year the track from Allen Junction to Morenci was sold to the Ohio and Morenci Railroad for freight. After the Toledo end closed in 1935, Berkey was the east end of a diesel line out of Morenci. That last piece was abandoned in 1950 and taken up. The railroad here was an interurban, and then it was gone.",
+    long: "",
+    names: ["Toledo and Western Railway"]
+  },
+  {
+    id: "berkey-prairie",
+    name: "Irwin Prairie",
+    lat: 41.6950,
+    lng: -83.8200,
+    radius: 400,
+    short: "Irwin Prairie State Nature Preserve is southeast of the village. It is a wet prairie, and people come to watch birds. It is not inside the corporation. This is the edge of the old Black Swamp and the oak openings. The public land is the preserve. The village is the houses.",
+    long: "",
+    names: ["Irwin Prairie"]
+  },
+  {
+    id: "berkey-native",
+    name: "No Village Name",
+    lat: 41.7060,
+    lng: -83.8400,
+    radius: 150,
+    short: "I do not have a native village name on these lots. The Ottawa and the other nations of the Maumee country were here before Riga. I will not invent a town at the post office.",
+    long: "",
+    names: ["Berkey"]
+  },
+  {
+    id: "berkey-war",
+    name: "No Battlefield",
+    lat: 41.7100,
+    lng: -83.8360,
+    radius: 150,
+    short: "There is no fort and no battlefield in Berkey. Fallen Timbers is on the Maumee, closer to Toledo. I will not move it west to the interurban stop.",
+    long: "",
+    names: ["Berkey"]
+  },
+
+  {
+    id: "approach-berlin-heights",
+    name: "Berlin Heights",
+    lat: 41.3400,
+    lng: -82.4900,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Berlin Heights, a village in Berlin Township, Erie County, on State Route 61, between Norwalk and Vermilion. The township was Eldridge. In 1832 the people threw that name out. About 650 people live here, on a mile and a half of orchards. If you stay on the highway, I'll start at the boat that dumped the whiskey.",
+    long: "",
+    names: ["Berlin Heights"]
+  },
+  {
+    id: "berlin-heights-name",
+    name: "They Would Not Keep Eldridge",
+    lat: 41.3231,
+    lng: -82.4932,
+    radius: 180,
+    short: "The first settler the local history names is John Dunbar, from New York, in the east of the township, about 1808. Erie County was still Huron County. The township was named Eldridge, for a land proprietor. He became unpopular. Rumors came from Connecticut that he had forged papers to save his credit, and the settlers already disliked a speculator. In 1832 they petitioned the Huron County commissioners and said they would not keep the name of an unworthy man. They asked for Lyme. Lyme was taken. Noah Hill said the county already had Milan, so it ought to have Berlin. That is the name.",
+    long: "",
+    names: ["John Dunbar", "Noah Hill"]
+  },
+  {
+    id: "berlin-heights-whiskey",
+    name: "Thirty Barrels",
+    lat: 41.3250,
+    lng: -82.4950,
+    radius: 200,
+    short: "In 1808 seven men left the mouth of Walnut Creek in Pennsylvania in a crude boat. The list is John Hoak, John McLaughlin, George Miller, Nathaniel Burdue, Benjamin Pratt, and two whose names come down only as Richie and Howard. They carried tools, provisions, and thirty barrels of whiskey. The lake turned rough. They threw the whiskey over to save the boat. I will not invent which barrel went last.",
+    long: "",
+    names: ["John Hoak"]
+  },
+  {
+    id: "berlin-heights-orchard",
+    name: "The Fruit Box Company",
+    lat: 41.3220,
+    lng: -82.4920,
+    radius: 180,
+    short: "The first crops were corn, wheat, and garden stuff. Then the township made its name on apples, pears, peaches, grapes, cider, and vinegar. The Berlin Fruit Box Company started in 1854, T. B. Hine and Asa F. Page, as a barrel shop and a sorghum business. Samuel Patterson bought it in 1858. It made crates, barrels, and baskets for the orchards, and it was still at it more than a hundred and fifty years later. In 1879 the village had three stores, a hotel, a saloon, a sawmill, a gristmill, three churches, and a graded school.",
+    long: "",
+    names: ["T. B. Hine", "Asa F. Page"]
+  },
+  {
+    id: "berlin-heights-quarry",
+    name: "Baillie's Quarry",
+    lat: 41.3300,
+    lng: -82.4930,
+    radius: 250,
+    short: "George Baillie came from Canada with what he owned on his back. He opened a big sandstone deposit just north of town and made enough to build the largest house in the township. The Lake Shore and Michigan Southern ran a spur down to the quarry and a gravel pit. In 1878 the railroad shipped more than 400 carloads of his stone. Ceylon, on the main line north of the Heights, was the railroad town. This village sits on the ridge.",
+    long: "",
+    names: ["George Baillie"]
+  },
+  {
+    id: "berlin-heights-freelove",
+    name: "The Free Love Years",
+    lat: 41.3235,
+    lng: -82.4940,
+    radius: 150,
+    short: "In the late 1850s a branch of the free-love movement settled here. Francis Barry and other reformers used the halls, and the place already had spiritualists. They argued against marriage as it was practiced. The neighbors hated it. I will not invent a raid, a trial, or a headline I have not read. The orchards outlasted the commune. The village is still known for those years, and that is a true thing, not a joke I am adding.",
+    long: "",
+    names: ["Francis Barry"]
+  },
+  {
+    id: "berlin-heights-native",
+    name: "No Village Name",
+    lat: 41.3210,
+    lng: -82.4960,
+    radius: 150,
+    short: "This is Firelands country, the Connecticut Western Reserve. I do not have a native village name on these lots. I will not borrow one from the lake to fill the ridge.",
+    long: "",
+    names: ["Berlin Heights"]
+  },
+  {
+    id: "berlin-heights-war",
+    name: "No Battlefield",
+    lat: 41.3240,
+    lng: -82.4910,
+    radius: 150,
+    short: "The War of 1812 scattered the settlements along this lake. I do not have a battle on the Heights, and I will not invent a count of the families who stayed. There is no fort here. The whiskey went overboard in a storm, not in a fight.",
+    long: "",
+    names: ["Berlin Heights"]
+  },
+
+  {
+    id: "approach-bethel",
+    name: "Bethel",
+    lat: 38.9630,
+    lng: -84.1100,
+    radius: 3000,
+    layer: "approach",
+    short: "You are coming up on Bethel, a village in Tate Township, Clermont County, where State Route 125 meets State Route 133, about thirty miles east of Cincinnati. Obed Denham platted it in 1798 and called it Plainfield. People said Denhamstown. The recorded name, on April 26, 1802, is Bethel, for the town in the Bible. About 2,700 people live here. If you stay on the highway, I'll start at the deed.",
+    long: "",
+    names: ["Bethel"]
+  },
+  {
+    id: "bethel-denham",
+    name: "Denhamstown",
+    lat: 38.9631,
+    lng: -84.0817,
+    radius: 200,
+    short: "The ground is John Breckenridge's survey, number 2373, entered by General William Lytle on March 28, 1794. On June 27, 1796, Obed Denham bought it from Breckenridge by a title bond. It was written as 4,000 acres and ran over by at least 600. He paid, and he did not get a deed. In October 1810 the Clermont court ordered the Breckenridge heirs to make the deed, and said that if they did not, the court order itself was the conveyance. Denham was from Virginia by way of Kentucky. He settled in 1797 on about 1,500 acres of the best of it, on Cloverlick Creek. He platted the village in 1798. He died in 1817, at a house just northwest of the limits. His wife Mary died the next year, at sixty-six. A post office has been here since 1815. The old county history put the village on the Ohio turnpike, twelve miles from Batavia, and said the springs inside town were the reason people stayed. That turnpike is the old road. It is not the modern toll road.",
+    long: "",
+    names: ["Obed Denham", "Mary Denham"]
+  },
+  {
+    id: "bethel-baptist",
+    name: "Lots 80 and 180",
+    lat: 38.9640,
+    lng: -84.0825,
+    radius: 150,
+    short: "In the village deed Denham gave lots 80 and 180 to the regular Baptist church, and he wrote the condition into the gift. The church was not to hold slaves, and not to sit at the Lord's table with people who did. The lots were for a house of worship and a burying ground, and for nothing else. That is the founding. He came because he hated slavery. I will not call him a Revolutionary soldier. I have not locked that.",
+    long: "",
+    names: ["Obed Denham"]
+  },
+  {
+    id: "bethel-morris",
+    name: "Thomas Morris",
+    lat: 38.9625,
+    lng: -84.0805,
+    radius: 150,
+    short: "Thomas Morris, a United States senator from Ohio, was a man of this town. He was one of the early senators who spoke against slavery in the Senate. A 1940 account, built from later memory, says several houses here were stops on the Underground Railroad. I will not name a cellar I have not checked. The memory and the deed are not the same kind of proof.",
+    long: "",
+    names: ["Thomas Morris"]
+  },
+  {
+    id: "bethel-theater",
+    name: "The Picture Show",
+    lat: 38.9635,
+    lng: -84.0810,
+    radius: 120,
+    short: "Aaron Little opened a movie theater here in 1908. The town calls it the first in Ohio. The Starlite Drive-In is still the picture show people drive to. The historical society keeps its museum in the Grant Memorial Building.",
+    long: "",
+    names: ["Aaron Little"]
+  },
+  {
+    id: "bethel-people",
+    name: "The Grants and the Walker",
+    lat: 38.9600,
+    lng: -84.0750,
+    radius: 250,
+    short: "Local accounts say the maternal grandparents of Ulysses S. Grant are buried at the Methodist church, toward East Fork. I will not move the president's own grave here. That is in New York. Lists also attach his son, Ulysses S. Grant Jr., to the town. Steven Newman, called the World Walker, started a walk around the world from Bethel. East Fork State Park is the public land, and it is outside the village. The creek in the plat is Cloverlick.",
+    long: "",
+    names: ["Steven Newman", "Ulysses S. Grant"]
+  },
+  {
+    id: "bethel-native",
+    name: "No Village Name",
+    lat: 38.9610,
+    lng: -84.0850,
+    radius: 150,
+    short: "I do not have a native village name on Cloverlick Creek. This is country north of the Ohio, Shawnee and Miami ground before Denham. I will not invent a town under Plainfield.",
+    long: "",
+    names: ["Bethel"]
+  },
+  {
+    id: "bethel-war",
+    name: "No Battlefield",
+    lat: 38.9650,
+    lng: -84.0830,
+    radius: 150,
+    short: "There is no fort and no battlefield in Bethel. The fight that belongs to the founding is the one Denham wrote into the church lots. In June 2020 the village was in the national news for a different fight. Armed counter-protesters attacked Black Lives Matter demonstrators. That day is not 1798, and I will not pretend the two are the same story.",
+    long: "",
+    names: ["Bethel"]
+  },
+
+  {
+    id: "approach-bethesda",
+    name: "Bethesda",
+    lat: 40.0000,
+    lng: -81.0720,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Bethesda. They say it buh-thez-duh. It is a village in west-central Belmont County, in the Wheeling orbit. It has worn three names. Burr's Mills. Fairmount. Bethesda. The railroad arrived in 1852. The village incorporated in 1910. About 1,200 people live here. If you stay on the highway, I'll start at the three names.",
+    long: "",
+    names: ["Bethesda"]
+  },
+  {
+    id: "bethesda-names",
+    name: "Three Names at Once",
+    lat: 40.0160,
+    lng: -81.0720,
+    radius: 200,
+    short: "In 1852 the Central Ohio Railroad built a station and called it Burr's Mills, for Merrick S. Burr, who ran a sawmill. In 1855 Burr laid out a village and called it Fairmount, for the high ground. Before that, about two miles south on what is now County Road 26, there was a store, the Bethesda Methodist Church, and a post office named for the church. The storekeeper was the postmaster. He moved the store into the new village and took the post office with him, and the post office kept the church's name. So the town was Fairmount, the depot was Burr's Mills, and the mail was Bethesda. People mostly said Burr's Mills until 1890. The county history says that is the year it was officially Bethesda. The railroad later became a Baltimore and Ohio line. This is coal country. I will not name a mine in the village. I have not locked one.",
+    long: "",
+    names: ["Merrick S. Burr"]
+  },
+  {
+    id: "bethesda-patterson",
+    name: "William Patterson",
+    lat: 40.0120,
+    lng: -81.0700,
+    radius: 180,
+    short: "The county history names the storekeeper and postmaster as William Patterson, and says he moved the store and the post office in 1854, a year before Burr's plat. The name on the mail was already Bethesda, from the Methodist church, which is the pool in the Gospel. The biblical name came with the church. It was not a new choice in 1890. It was the name that had been waiting two miles south.",
+    long: "",
+    names: ["William Patterson"]
+  },
+  {
+    id: "bethesda-epworth",
+    name: "Epworth Park",
+    lat: 40.0180,
+    lng: -81.0740,
+    radius: 200,
+    short: "Epworth Park started as a camp-meeting ground. In 1868 Methodist ministers saw the oak trees and wanted the meetings there. In 1871 they organized and bought eighteen acres. A church on the grounds burned and was replaced. The lake is still in the middle of the park, with a playground, ball fields, shelters, and a basketball court. Every July the park holds a Chautauqua homecoming. The public land in this village is that park.",
+    long: "",
+    names: ["Epworth Park"]
+  },
+  {
+    id: "bethesda-clock",
+    name: "The Cigar Factory Clock",
+    lat: 40.0165,
+    lng: -81.0715,
+    radius: 80,
+    short: "In 1920 the town bought a clock from the E. Howard Watch and Clock Company. It went on top of the Orrison Cigar Company building on Main Street, and it was dedicated to the village's World War One veterans. I will not invent what roof it sits on now.",
+    long: "",
+    names: ["Bethesda"]
+  },
+  {
+    id: "bethesda-native",
+    name: "No Village Name",
+    lat: 40.0140,
+    lng: -81.0750,
+    radius: 150,
+    short: "I do not have a native village name on this ridge. Josiah Fox, the Quaker who designed Navy ships, is buried in Colerain Township, a few miles off, at a meeting house that is not this village. I will not move him, or his house, onto Main Street.",
+    long: "",
+    names: ["Bethesda"]
+  },
+  {
+    id: "bethesda-war",
+    name: "No Battlefield",
+    lat: 40.0170,
+    lng: -81.0730,
+    radius: 120,
+    short: "There is no fort and no battlefield in Bethesda. The war memorial is the clock for the men of 1917 and 1918. I will not invent a fight at Burr's mill.",
+    long: "",
+    names: ["Bethesda"]
+  },
 
 
 

@@ -49135,7 +49135,47 @@ const STORIES = [
     long: "",
     names: ["Lemuel Porter"]
   },
-
+  {
+    id: "approach-tiffin",
+    name: "Tiffin",
+    lat: 41.1169,
+    lng: -83.1770,
+    radius: 8000,
+    layer: "approach",
+    short: "You are coming up on Tiffin, on the Sandusky. Fort Ball sat on the west bank in the War of 1812. The town on the east bank was named for Ohio's first governor, and he never came. If you drop in, I'll start at the river.",
+    long: "",
+    names: ["Tiffin"]
+  },
+  {
+    id: "tiffin-fort-ball",
+    name: "Fort Ball",
+    lat: 41.1169,
+    lng: -83.1770,
+    radius: 500,
+    short: "Fort Ball was a supply depot in the War of 1812. Erastus Bowe had served here. He came back in 1817, built the Pan Yan Tavern, and was the first settler of European descent in Seneca County. The settlement around the fort and the tavern was called Oakley, and then Fort Ball. It is the west bank. Tiffin is the other side.",
+    long: "",
+    names: ["Erastus Bowe", "Fort Ball"]
+  },
+  {
+    id: "tiffin-hedges",
+    name: "Josiah Hedges",
+    lat: 41.1169,
+    lng: -83.1770,
+    radius: 600,
+    short: "In 1820 General James Hedges came back, and he brought his younger brother Josiah. They had a store in Mansfield. In 1821 Josiah bought this ground at the land office in Delaware. By March 1822 James had surveyed it and platted the town, across the river from the fort. Josiah named it for Edward Tiffin, Ohio's first governor and a friend of his. Edward Tiffin died in 1829 without ever visiting. On March 25, 1822, Thomas Henford, Isaac Minor, and Cyrus Spink fixed Tiffin as the seat of justice for the county. Josiah then built sawmills and grist mills, the first courthouse, the first school, a public cemetery, gave land to churches, and brought the railroad.",
+    long: "",
+    names: ["Josiah Hedges", "James Hedges", "Edward Tiffin"]
+  },
+  {
+    id: "tiffin-heidelberg",
+    name: "Commercial Row",
+    lat: 41.1169,
+    lng: -83.1770,
+    radius: 700,
+    short: "Heidelberg College opened in 1850. The Reverends Reuben Good and Jeremiah H. Good started it for the German Reformed Church, and they named it for the Heidelberg Catechism of 1563. The first classes met in a room on the third floor of Commercial Row, downtown. Five students started. By the end of the year the roster had 149. In the summer of 1851 they laid the foundation of Founders Hall, four and a half stories, Greek revival, and it was the only building until President George W. Williard put up a house on Greenfield Street in 1867. University Hall went up on College Hill in 1886.",
+    long: "",
+    names: ["Heidelberg", "Jeremiah H. Good"]
+  },
 
 
 

@@ -49463,12 +49463,47 @@ const STORIES = [
     long: "",
     names: ["James Packard", "William Packard"]
   },
-
-
-
-
-
-
+  {
+    id: "approach-washington-ch",
+    name: "Washington Court House",
+    lat: 39.5364,
+    lng: -83.4392,
+    radius: 8000,
+    layer: "approach",
+    short: "You are coming up on Washington Court House, the Fayette County seat, about halfway between Columbus and Cincinnati. The law named it Washington. The people added Court House so the mail would not go to the other one. If you drop in, I'll start with the man who gave the ground.",
+    long: "",
+    names: ["Washington Court House"]
+  },
+  {
+    id: "washington-ch-temple",
+    name: "Entry 757",
+    lat: 39.5364,
+    lng: -83.4392,
+    radius: 500,
+    short: "The town sits on Paint Creek, in Union Township, on land entry 757. That entry was 1,200 acres, and it belonged to Benjamin Temple of Logan County, Kentucky. He gave the county 150 acres for a seat. On December 1, 1810, Thomas S. Hind, using Temple's power of attorney, deeded it to Robert Stewart. The legislature had named Stewart director of the town of Washington. He had it laid out before February 26, 1811, the day the plat was recorded. This was Virginia military land, paid out for the Revolution. The town was incorporated in 1831, still under the name Washington.",
+    long: "",
+    names: ["Benjamin Temple", "Robert Stewart"]
+  },
+  {
+    id: "washington-ch-smith",
+    name: "Edward Smith",
+    lat: 39.5364,
+    lng: -83.4392,
+    radius: 400,
+    short: "Edward Smith Sr. and his family came from Pennsylvania in 1810 and built a rough house in the woods near Paint Creek. He left to serve in the War of 1812. Not long after he came home, he drowned crossing a flooded creek. His widow and ten children stayed. The family was still prominent in the county a century later. A house of theirs still stands on U.S. 62, just east of town. In 1833 the place had a print shop, seven stores, two taverns, two groceries, a school, a meeting house, and about seventy houses.",
+    long: "",
+    names: ["Edward Smith"]
+  },
+  {
+    id: "washington-ch-name",
+    name: "The four hundred",
+    lat: 39.5364,
+    lng: -83.4392,
+    radius: 400,
+    short: "The legislature never put Court House in the legal name. Virginia and Maryland people had a habit of writing C.H. after a county seat, and this town did the same so it would not be confused with Washington in Guernsey County. In 1911 petitions tried to cut the words off. The vote to keep them won by about four hundred. In 2002 a new charter made City of Washington Court House the official name. It is the longest city name in Ohio. The other Washington is called Old Washington now. The courthouse square is a historic district.",
+    long: "",
+    names: ["Washington Court House"]
+  },
 
 
 

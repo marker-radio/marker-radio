@@ -48235,6 +48235,36 @@ const STORIES = [
     long: "",
     names: ["William Jasper", "Oren F. Parker", "Adelia Parker"]
   },
+  {
+    id: "reynoldsburg-james",
+    name: "James C. Reynolds",
+    lat: 39.9548,
+    lng: -82.8121,
+    radius: 700,
+    short: "The town is named for James C. Reynolds, born in 1806. He boarded with John D. French and opened a store for the men building the National Road. French platted his farm in November 1831. People called it French Town for a while. By August 1832 the record said Reynoldsburgh. The village incorporated on March 16, 1839. Reynolds was postmaster, a state representative, and a militia general. The road reached here in 1831, Columbus in 1833, and the Indiana line in 1840.",
+    long: "",
+    names: ["James C. Reynolds", "John D. French"]
+  },
+  {
+    id: "reynoldsburg-paragon",
+    name: "The Paragon",
+    lat: 39.9473,
+    lng: -82.7960,
+    radius: 500,
+    short: "Alexander W. Livingston was born on October 14, 1821, the son of John and Mary Graham Livingston. In 1870, on Buckeye Farm at 1792 Graham Road, he put out the Paragon, the first tomato that would hold its shape for market. He died on November 11, 1898, and is buried at Greenlawn in Columbus. The marker by the Livingston House went up in 1965.",
+    long: "",
+    names: ["Alexander W. Livingston", "Paragon tomato"]
+  },
+  {
+    id: "reynoldsburg-arc",
+    name: "The Arc",
+    lat: 39.9473,
+    lng: -82.7960,
+    radius: 500,
+    short: "Livingston was also the local organizer on the Underground Railroad. He owned a long covered wagon called the Arc, with seats along the sides. Benjamin Patterson, who worked for him, drove people north toward the stations between Granville and Mount Vernon. The tomato is the story on the water tower. This is the other one.",
+    long: "",
+    names: ["Benjamin Patterson", "the Arc"]
+  },
 
 
 

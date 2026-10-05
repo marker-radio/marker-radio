@@ -48649,6 +48649,47 @@ const STORIES = [
     names: ["Monon", "New York Central"]
   },
 
+  {
+    id: "sandusky-kilbourne",
+    name: "The Masonic grid",
+    lat: 41.4489,
+    lng: -82.7079,
+    radius: 700,
+    short: "In 1816 Zalmon Wildman platted Sandusky City on the south shore of the bay, on ground the chief Ogontz had used. The next year James Kilbourne, who had founded Worthington, settled a fight between Wildman and Isaac Mills. Wildman took three quarters of a larger town. Mills took one quarter. Kilbourne took a quarter for himself and told them to call it the City of Sandusky. In 1818 Kilbourne's son Hector surveyed it. Hector was a Mason, and he laid the square and compass of the lodge emblem over the grid. That is why the streets still confuse people. Washington Square was saved for a market and for public buildings. Amos Doolittle, a Connecticut engraver, printed the plat.",
+    long: "",
+    names: ["Zalmon Wildman", "James Kilbourne", "Hector Kilbourne", "Ogontz"]
+  },
+  {
+    id: "sandusky-battery",
+    name: "Battery Park, 1835",
+    lat: 41.4489,
+    lng: -82.7079,
+    radius: 500,
+    short: "In September 1835 they broke ground at Battery Park for the Mad River and Lake Erie Railroad. The same day they started the horse-drawn Monroeville and Sandusky City Railroad. That work is why Wildman and Mills built the brick row at 205, 209, 211, 217, and 223 Water Street. Those are the oldest buildings downtown. They sold the corner building to John Sloan in 1845.",
+    long: "",
+    names: ["Mad River and Lake Erie Railroad", "John Sloan"]
+  },
+  {
+    id: "sandusky-boeckling",
+    name: "G. A. Boeckling",
+    lat: 41.4860,
+    lng: -82.6870,
+    radius: 1000,
+    short: "A bathing beach opened on the Cedar Point spit in 1870. George A. Boeckling took the point in 1897 and built the resort. The boat that carried the crowds from town carried his name.",
+    long: "",
+    names: ["George A. Boeckling", "Cedar Point"]
+  },
+  {
+    id: "sandusky-pierson",
+    name: "William S. Pierson",
+    lat: 41.4960,
+    lng: -82.7310,
+    radius: 900,
+    short: "The prison for Confederate officers opened on Johnson's Island in 1862. William S. Pierson of Sandusky was the first commander. The camp closed at the end of the war. The Confederate cemetery is still on the island. The other card tells you the water was the wall. This one names the year and the man.",
+    long: "",
+    names: ["William S. Pierson", "Johnson's Island"]
+  },
+
 
 
 

@@ -48295,6 +48295,37 @@ const STORIES = [
     long: "",
     names: ["James Riley", "George Tubbs", "John Tubbs", "Barton Palmer"]
   },
+  {
+    id: "roanoke-dickey",
+    name: "Dickey Lock",
+    lat: 40.9618,
+    lng: -85.3711,
+    radius: 500,
+    short: "Lock 4 of the Wabash and Erie stands at 339 East First Street, where the road meets US 24. They called it Dickey Lock. It was the first lock west of the summit. Built of wood in 1834 and 1835 as Lock 1, then renumbered Lock 4 when the canal reached the Ohio line in 1840. A piece of the arch culvert is still nearby. The marker went up in 1997. The canal is why Roanoke was founded.",
+    long: "",
+    names: ["Dickey Lock", "Wabash and Erie Canal"]
+  },
+  {
+    id: "roanoke-kilsoquah",
+    name: "Kilsoquah",
+    lat: 40.9711,
+    lng: -85.3719,
+    radius: 400,
+    short: "Kilsoquah, also written Kiilhsoohkwa, was born in 1810 in what is now Huntington County. She was a granddaughter of the Miami chief Little Turtle. Her second husband was Antoine Revarre. Her son Anthony lived with her near Roanoke and interpreted, because she spoke only Miami. Most of the Miami were removed in 1846. An 1850 act of Congress exempted her son and other Miami who stayed. She is buried in Glenwood Cemetery, in the 1000 block of North Main. The marker went up in 2005.",
+    long: "",
+    names: ["Kilsoquah", "Kiilhsoohkwa", "Little Turtle", "Anthony Revarre"]
+  },
+  {
+    id: "roanoke-darrow",
+    name: "Jarred Darrow",
+    lat: 40.9625,
+    lng: -85.3733,
+    radius: 600,
+    short: "Jarred Darrow was one of the first settlers, here in 1837. The canal came through Jackson Township, and the town started about 1848 as a shipping point for Allen, Huntington, and Whitley counties. Between 1840 and 1847 the churches were United Brethren, Methodist, and Lutheran. The town was named for Roanoke, Virginia, and incorporated in 1874.",
+    long: "",
+    names: ["Jarred Darrow"]
+  },
+
 
 
 

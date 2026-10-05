@@ -437,6 +437,104 @@ STORIES.push(
     short: "There is no fort and no battlefield on these lots. The fight the 1887 history records in town is temperance. The Williamsburg Division, Number 234, of the Sons of Temperance, was the oldest temperance society in Noble County. By 1887 the lower floor of Temperance Hall was being used as a schoolroom. That hall is the public ground I can point to. I will not invent a battle to fill the space.",
     long: "",
     names: ["Sons of Temperance"]
-  }
+  },
+ {
+    id: "approach-bay-view",
+    name: "Bay View",
+    lat: 41.4780,
+    lng: -82.8250,
+    radius: 3500,
+    layer: "approach",
+    short: "You are coming up on Bay View, on the south shore of Sandusky Bay, where Route 2 meets the water. It was Martin's Point before it was a village. The Sandusky Bay Bridge was dedicated here on February 2, 1929. The cottage streets came after the bridge. If you stay on the highway, I'll start at the point.",
+    long: "",
+    names: ["Bay View"]
+  },
+  {
+    id: "bay-view-martin",
+    name: "Martin's Point",
+    lat: 41.4683,
+    lng: -82.8250,
+    radius: 300,
+    short: "The village history says Richard Martin came from New York in the early 1800s and farmed the land in Margaretta Township that is now Bay View. The place was Martin's Point after him. His grandson, Christopher Quick Martin, was born in a log cabin here in 1859 and lived all his years here. The first pioneer the same history names in the township is Docartus Snow, from Vermont, in the spring of 1810. This was the Firelands, land Connecticut set aside for people burned out in the Revolution. Erie County was established in 1838. I do not have a date for the day Martin's Point became Bay View, so I will not invent one.",
+    long: "",
+    names: ["Richard Martin", "Christopher Quick Martin", "Docartus Snow"]
+  },
+  {
+    id: "bay-view-marsh",
+    name: "The Marsh",
+    lat: 41.4660,
+    lng: -82.8280,
+    radius: 400,
+    short: "The History of the Firelands called this ground mostly prairie, with some strips of timber, and said it used to be called a marsh. A channel for Cold Creek, the railroad, and several large ditches turned it into farm and grazing land. The village sits on that drained point, with the bay on three sides. The Erie Canal opened in 1825 and changed what farmers could ship. The canal did not run down these cottage streets.",
+    long: "",
+    names: ["Cold Creek"]
+  },
+  {
+    id: "bay-view-ice",
+    name: "Ice and Cement",
+    lat: 41.4700,
+    lng: -82.8200,
+    radius: 500,
+    short: "In the early 1880s the ice trade used Sandusky Bay, because ice could be taken up, stored, and shipped by rail here more easily than at other ports on the lakes. I will not point at a cottage and call it an ice house. In 1892 the Sandusky Cement Company built a plant on the bay in Margaretta Township. Marl from this ground went into portland cement. Medusa Cement bought that company in 1915. In 1924 Albert Meyers started the Russell Trucking Company to haul cement for Medusa and gypsum from the mines near Port Clinton. The plant was on the township shore, not on the resort plat.",
+    long: "",
+    names: ["Sandusky Cement Company", "Medusa Cement", "Albert Meyers", "Russell Trucking Company"]
+  },
+  {
+    id: "bay-view-bridge",
+    name: "The Bay Bridge",
+    lat: 41.4725,
+    lng: -82.8255,
+    radius: 400,
+    short: "The Sandusky Bay Bridge was dedicated on February 2, 1929. The village history says it cost $700,000 and was the longest span in Ohio. Before it, the trip from Sandusky to Port Clinton was about thirty-five miles by way of Fremont. The bridge cut that. Dignitaries came from Ohio, Michigan, and Washington, and the day included Chippewa ceremonies. A toll came later. On August 30, 1946, Governor Frank Lausche cut a ribbon and the toll ended. In the 1960s Route 2 was widened into the Edison Memorial Bridge, running beside the old one. The old bridge was gone by 1985. You are on the road that replaced it.",
+    long: "",
+    names: ["Sandusky Bay Bridge", "Frank Lausche", "Edison Memorial Bridge"]
+  },
+  {
+    id: "bay-view-cottages",
+    name: "Ten Dollars for the Parks",
+    lat: 41.4675,
+    lng: -82.8235,
+    radius: 250,
+    short: "A company platted beaches and built three model cottages, then advertised them. Lot owners were summer people. In the early 1930s, when Midland Bank was selling the plats, the owners formed the Bay View Property Owners' Association and more or less governed the point for nearly twenty years. In 1934 the bank sold that association the park land around the peninsula, and the interior parks, for ten dollars. On June 23, 1951, the township trustees voted to let Bay View incorporate. The resolution was signed on July 11. Robert Kohl, a supervisor at New Departure in Sandusky, was the first mayor. The 1960 census was the first to count the village: 802 people. About 600 live here now.",
+    long: "",
+    names: ["Bay View Property Owners' Association", "Midland Bank", "Robert Kohl"]
+  },
+  {
+    id: "bay-view-native",
+    name: "Streets Named for the Tribes",
+    lat: 41.4688,
+    lng: -82.8265,
+    radius: 300,
+    short: "The village history says the Erie were on this shore by the middle of the 1600s, and that Iroquois, Miami, Delaware, Ottawa, Chippewa, Seneca, and Wyandot people hunted here after them. It also says people feel the mound builders were here, and it does not prove that. Nearly every street in the plat was named for a tribe or a chief. I will not invent which street is which. The names on the signs are the native record the village kept.",
+    long: "",
+    names: ["Erie", "Wyandot", "Ottawa", "Chippewa"]
+  },
+  {
+    id: "bay-view-island",
+    name: "The Island Is Not These Lots",
+    lat: 41.4695,
+    lng: -82.8220,
+    radius: 350,
+    short: "Johnson's Island is across the bay, not under these cottages. It was Bull's Island until Leonard B. Johnson bought it in 1852. From 1862 to 1865 the United States held Confederate officers there. More than 10,000 passed through, and close to 300 died. There is no stockade on Martin's Point. The war site is the island. This is the south shore that looks at it.",
+    long: "",
+    names: ["Johnson's Island", "Leonard B. Johnson"]
+  },
+  {
+    id: "bay-view-legend",
+    name: "Went South",
+    lat: 41.4670,
+    lng: -82.8245,
+    radius: 220,
+    short: "The village history says it is rumored that a couple of the partners in the company that platted the beaches stole the money and went south. It does not name them, and it does not prove it. The cottages got built anyway. The association bought the parks for ten dollars. People still tell the rumor. I will not turn a rumor into a named theft.",
+    long: "",
+    names: ["Bay View"]
+  },
+  
+
+
+
+
+
+  
 );
 

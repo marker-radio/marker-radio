@@ -357,4 +357,86 @@ STORIES.push(
     long: "",
     names: ["Samuel Atchley", "J. W. Glass", "Elk Lick"]
   },
-  
+    {
+    id: "approach-batesville",
+    name: "Batesville",
+    lat: 39.9000,
+    lng: -81.3050,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Batesville, in Beaver Township, Noble County, on the Beaver Fork of Wills Creek. About a hundred people live here. In 1880 there were 369. It was laid out in 1827 as Williamsburg. The railroad they paid for never arrived. If you stay on the pike, I'll start at the name.",
+    long: "",
+    names: ["Batesville"]
+  },
+  {
+    id: "batesville-name",
+    name: "Williamsburg, Then Batesville",
+    lat: 39.9156,
+    lng: -81.2825,
+    radius: 200,
+    short: "William Finley came from Belmont County in 1818 and bought the farm. The 1887 county history says his son-in-law, James Reed, laid out the village, and for years it was Williamsburg, after Finley. The plat is as early as 1827. Lebbeus Fordyce surveyed it. Nathaniel Piles built the first house and kept the first tavern. The name Batesville was first a post office at Timothy Bates's mill, near the line of Wayne and Seneca townships, not the name of these streets. Bates was a Whig. When Jackson began turning Whigs out of office, he resigned as postmaster. The office moved here after the place had become a village. I will not move that first mill onto the square.",
+    long: "",
+    names: ["William Finley", "James Reed", "Lebbeus Fordyce", "Timothy Bates", "Nathaniel Piles"]
+  },
+  {
+    id: "batesville-mill",
+    name: "The 1874 Mill",
+    lat: 39.9140,
+    lng: -81.2810,
+    radius: 220,
+    short: "The water is the Beaver Fork of Wills Creek. Wills Creek runs on to the Muskingum. The flouring mill in the village was built in 1874 by a joint stock company, at a cost of over $12,000. In 1887 it was the Beaver Mill Company, and the history calls it one of the best in the region. That is the mill on these lots. Bates's earlier mill was the post office out by the township line.",
+    long: "",
+    names: ["Beaver Fork of Wills Creek", "Beaver Mill Company"]
+  },
+  {
+    id: "batesville-pike",
+    name: "The Summerfield Pike",
+    lat: 39.9165,
+    lng: -81.2840,
+    radius: 250,
+    short: "The main street is the Summerfield and Batesville turnpike. The 1887 history says it had good sidewalks on both sides, and that the place looked like people with taste and some enterprise. Beaver Township was set off on June 3, 1816, while this was still Guernsey County. Noble County was created on March 11, 1851. The county seat is not here. Sarahsville had it first, then Caldwell. Batesville was a mill and a pike, not a courthouse.",
+    long: "",
+    names: ["Summerfield and Batesville Turnpike", "Noble County"]
+  },
+  {
+    id: "batesville-calico",
+    name: "The Calico Road",
+    lat: 39.9150,
+    lng: -81.2800,
+    radius: 400,
+    short: "The 1887 history says the heavy property holders here put money into extending the old Eastern Ohio railroad, the one they called the Calico road, through Batesville. The road failed. When the book was written, the company's affairs were still in confusion. There is no depot on these lots. The turnpike is the road that was actually built. People still live with the railroad that did not come.",
+    long: "",
+    names: ["Eastern Ohio Railroad"]
+  },
+  {
+    id: "batesville-margaret",
+    name: "Margaret Keenan",
+    lat: 39.9156,
+    lng: -81.2830,
+    radius: 180,
+    short: "Sarah Margaret Keenan was born in Batesville on September 23, 1872. Her parents were Thomas Keenan and Martha Maria Reed. She came from a temperance family, and she started teaching in the country schools of Ohio at sixteen. She spent most of her life in Alaska. She was a suffragist. After her husband died she was United States Commissioner at Valdez, and later a deputy magistrate. She died there in 1964. A village of a few hundred sent a judge to Alaska.",
+    long: "",
+    names: ["Margaret Keenan Harrais", "Thomas Keenan"]
+  },
+  {
+    id: "batesville-native",
+    name: "No Village Name on These Lots",
+    lat: 39.9180,
+    lng: -81.2860,
+    radius: 500,
+    short: "This valley was not empty in 1818. The forks of Wills Creek were in Lenape and Shawnee country before the Guernsey settlements. Beaver Township was organized in 1816, two decades after the Treaty of Greenville. I do not have a village name to put on these lots. I will not invent one. The creek is the native road. The plat came later.",
+    long: "",
+    names: ["Lenape", "Shawnee", "Wills Creek"]
+  },
+  {
+    id: "batesville-temperance",
+    name: "No Battlefield",
+    lat: 39.9160,
+    lng: -81.2820,
+    radius: 180,
+    short: "There is no fort and no battlefield on these lots. The fight the 1887 history records in town is temperance. The Williamsburg Division, Number 234, of the Sons of Temperance, was the oldest temperance society in Noble County. By 1887 the lower floor of Temperance Hall was being used as a schoolroom. That hall is the public ground I can point to. I will not invent a battle to fill the space.",
+    long: "",
+    names: ["Sons of Temperance"]
+  }
+);
+

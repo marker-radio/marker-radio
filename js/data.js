@@ -48568,7 +48568,56 @@ const STORIES = [
     long: "",
     names: ["Miami", "Wabash and Erie Canal"]
   },
-
+  {
+    id: "salem-street",
+    name: "Zadok Street",
+    lat: 40.9009,
+    lng: -80.8567,
+    radius: 700,
+    short: "Zadok Street, a clockmaker from New Jersey, and John Straughan, a Pennsylvania potter, founded Salem on April 30, 1806. Straughan is pronounced Strawn. Street named the town for Salem, New Jersey. The word comes from Jerusalem, and it means peace. Most of the early people were Quakers. The town incorporated in 1830.",
+    long: "",
+    names: ["Zadok Street", "John Straughan"]
+  },
+  {
+    id: "salem-1850",
+    name: "April 19, 1850",
+    lat: 40.9009,
+    lng: -80.8567,
+    radius: 500,
+    short: "On April 19 and 20, 1850, Salem held the first women's rights convention in Ohio. About five hundred people came. Every officer was a woman. Betsy Mix Cowles was president. Jane Elizabeth Jones gave the main address. Josephine Griffing sat on the business committee.",
+    long: "",
+    names: ["Betsy Mix Cowles", "Jane Elizabeth Jones", "Josephine Griffing"]
+  },
+  {
+    id: "salem-bugle",
+    name: "The Anti-Slavery Bugle",
+    lat: 40.9009,
+    lng: -80.8567,
+    radius: 500,
+    short: "Salem was headquarters for the Ohio American Anti-Slavery Society, later the Western Anti-Slavery Society. The Anti-Slavery Bugle was printed here, starting in 1845. Daniel Hise kept a diary from 1846 to 1878. The papers and the diary are at the Salem Historical Society, 208 South Broadway. The society started in 1947. Freedom Hall in that building is the Civil War and Underground Railroad room.",
+    long: "",
+    names: ["Anti-Slavery Bugle", "Daniel Hise"]
+  },
+  {
+    id: "salem-works",
+    name: "The whistle towns",
+    lat: 40.9009,
+    lng: -80.8567,
+    radius: 800,
+    short: "Salem sits between Cleveland and Pittsburgh, and it lived on factories. The plants people still name are Mullins Manufacturing, Deming Pump, Salem China, Eljer, and American Standard.",
+    long: "",
+    names: ["Mullins Manufacturing", "Deming Pump", "Salem China"]
+  },
+  {
+    id: "salem-freed",
+    name: "Alan Freed",
+    lat: 40.9009,
+    lng: -80.8567,
+    radius: 600,
+    short: "Alan Freed grew up in Salem. He was the disc jockey who put the words rock and roll on the radio.",
+    long: "",
+    names: ["Alan Freed"]
+  },
 
 
 

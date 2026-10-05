@@ -47927,7 +47927,47 @@ const STORIES = [
     long: "",
     names: ["Martin-Perry House"]
   },
-
+  {
+    id: "approach-preble",
+    name: "Preble",
+    lat: 40.8326,
+    lng: -85.0099,
+    radius: 5000,
+    layer: "approach",
+    short: "You are coming up on Preble. A station hamlet four miles west of Decatur, in Adams County, Indiana. Thirteen lots and an oil town. If you drop in, I'll start at the plat.",
+    long: "",
+    names: ["Preble"]
+  },
+  {
+    id: "preble-plat",
+    name: "Hoffman and Werling",
+    lat: 40.8326,
+    lng: -85.0099,
+    radius: 700,
+    short: "Preble Township was organized in 1838. The village came later. Daniel Hoffman and David Werling recorded the plat on November 14, 1884. Thirteen lots, fifty by one hundred and fifty feet. The post office had already opened in 1883. The place took the township name.",
+    long: "",
+    names: ["Daniel Hoffman", "David Werling"]
+  },
+  {
+    id: "preble-rail",
+    name: "Preble station",
+    lat: 40.8326,
+    lng: -85.0099,
+    radius: 800,
+    short: "Preble is a railroad station in the south end of the township. The plat sits on the track. County history calls it the oil town of Adams County. A granary is still there. The train is why these thirteen lots exist.",
+    long: "",
+    names: ["Preble"]
+  },
+  {
+    id: "preble-peters",
+    name: "St. Peter's Lutheran",
+    lat: 40.8345,
+    lng: -85.0120,
+    radius: 600,
+    short: "St. Peter's Lutheran went up about 1878, northwest of the station. This township was German Lutheran and German Reformed ground. The church was here before Hoffman and Werling drew the lots.",
+    long: "",
+    names: ["St. Peter's Lutheran Church"]
+  },
 
 
 

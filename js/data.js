@@ -49758,7 +49758,101 @@ const STORIES = [
     short: "Aberdeen has a veterans memorial for the men and women of the village and Huntington Township who served in war and in peace. A second marker nearby is dedicated to the veterans of all wars. This was a border town in the Civil War. The ferry kept running. There is no battle I can put on these streets.",
     long: "",
     names: ["Huntington Township"]
+  },
+
+  {
+    id: "approach-ada",
+    name: "Ada",
+    lat: 40.768139,
+    lng: -83.825211,
+    radius: 5000,
+    layer: "approach",
+    short: "You are coming up on Ada. Hardin County railroad town. Ohio Northern University is here, and so is the factory that stitches the NFL footballs. If you drop into town, I'll start on Main Street.",
+    long: "",
+    names: ["Ada"]
+  },
+  {
+    id: "ada-founding",
+    name: "Ada",
+    lat: 40.768139,
+    lng: -83.825211,
+    radius: 900,
+    short: "William Mitchell bought the center of this ground in 1850. S. M. Johnson platted a village in 1853 and called it Johnstown, because the railroad was coming. Another Johnstown already had the post office name. The postmaster told them to use Ada. That was his daughter's name. The office opened in 1854. The village incorporated in 1861. Johnson ran a lumber mill, sold it, and later died running a paper mill in Lima.",
+    long: "",
+    names: ["S. M. Johnson", "William Mitchell", "Ada"]
+  },
+  {
+    id: "ada-railroad",
+    name: "Ada Passenger Depot",
+    lat: 40.769400,
+    lng: -83.823000,
+    radius: 700,
+    short: "Ada grew on the Ohio and Indiana Railroad, finished in 1854 between Crestline and Fort Wayne. The first passenger train came that year. The brick depot on East Central Avenue went up in 1887 and later served the Pennsylvania Railroad. It is on the National Register. The tracks made the town. The school and the factory came after.",
+    long: "",
+    names: ["Ohio and Indiana Railroad", "Pennsylvania Railroad"]
+  },
+  {
+    id: "ada-hog-creek",
+    name: "Hog Creek",
+    lat: 40.768139,
+    lng: -83.825211,
+    radius: 1200,
+    short: "Before Johnson platted a street, this was Shawnee reservation land. The 1817 treaty at the foot of the Maumee rapids set aside twenty-five square miles on Hog Creek, joined to the larger reserve at Wapakoneta. The Shawnee settlement sat on the creek near where Ada was later built. On August 8, 1831, at Wapakoneta, the Hog Creek and Wapakoneta Shawnee ceded those reserves and agreed to move west of the Mississippi. The railroad town sits on that ground.",
+    long: "",
+    names: ["Shawnee", "Hog Creek"]
+  },
+  {
+    id: "ada-onu",
+    name: "Ohio Northern University",
+    lat: 40.765550,
+    lng: -83.823333,
+    radius: 800,
+    short: "Henry Solomon Lehr founded the school in 1871 as the Northwestern Ohio Normal School, to train teachers. He had come out of the 76th Ohio Volunteer Infantry and was Ada's school superintendent from 1866 to 1871. In 1885 it became Ohio Normal University. The Methodist Episcopal Church took it in 1899. The name Ohio Northern University dates from 1903. On June 3, 1910, President William Howard Taft gave the commencement address near the marker at Main Street and College Avenue. The Hill Building went up in 1879. Lehr Memorial replaced the first normal-school building in 1915.",
+    long: "",
+    names: ["Henry Solomon Lehr", "William Howard Taft", "Ohio Northern University"]
+  },
+  {
+    id: "ada-mlk",
+    name: "Martin Luther King Jr.",
+    lat: 40.766783,
+    lng: -83.825967,
+    radius: 500,
+    short: "On January 11, 1968, Martin Luther King Jr. spoke in Taft Memorial Gymnasium on this ground. Ohio Northern was one of the last campuses he visited. He was killed in Memphis on April 4, four months later. The marker is at 417 South Gilbert Street. He told them he believed the country could come out of the midnight of inhumanity into a daybreak of freedom and justice.",
+    long: "",
+    names: ["Martin Luther King Jr."]
+  },
+  {
+    id: "ada-cannon",
+    name: "Railroad Park cannon",
+    lat: 40.769400,
+    lng: -83.823000,
+    radius: 600,
+    short: "The Civil War cannon in Railroad Park points toward Fort Sumter, where the first shots were fired. Bricks at the base name Union soldiers from Ada and Liberty Township. Henry Solomon Lehr is one of them. Ada War Memorial Park's stadium went up in 1922, with help from university students. Ohio Northern played there until Dial-Roberson Stadium opened on campus in 2004.",
+    long: "",
+    names: ["Henry Solomon Lehr"]
+  },
+  {
+    id: "ada-wilson",
+    name: "Wilson football factory",
+    lat: 40.772000,
+    lng: -83.819500,
+    radius: 700,
+    short: "The plant at 217 Liberty Street has made every NFL regular-season football since 1955, and every Super Bowl ball since 1969. The ball is called the Duke. Ohio-Kentucky Manufacturing started the work here in 1937, after a flood pushed the company off the Ohio River. Wilson took the plant over. Before that, the building had been a grain-hauler shop, a plan for a university engineering hall that the Depression killed, and a short-lived organ factory.",
+    long: "",
+    names: ["Wilson Sporting Goods", "The Duke"]
+  },
+  {
+    id: "ada-firemen",
+    name: "Volunteer firemen",
+    lat: 40.775850,
+    lng: -83.823650,
+    radius: 500,
+    short: "The Northwestern Ohio Volunteer Firemen's Association was organized in Ada in 1874, to look after the safety of volunteer fire companies. The marker is at 525 North Main Street, at the Ada-Liberty Township firehouse. A railroad town that burned easy decided the firemen needed their own association.",
+    long: "",
+    names: ["Northwestern Ohio Volunteer Firemen's Association"]
   }
+
+
 
 
 

@@ -9577,13 +9577,456 @@ name, when you want it, is Corning.",
     names: ["Cuyahoga Falls"]
   },
 
+  {
+    id: "cuyahoga-falls-northampton",
+    name: "Northampton",
+    lat: 41.1600,
+    lng: -81.5200,
+    radius: 80,
+    short: "The city's page says that on January 1, 1986, Cuyahoga Falls and Northampton Township became the first places in Ohio to merge by a vote of the people. The same page also calls the 1985 merger the first statutory merger of a city and an unincorporated township, and says the city nearly tripled, to about 27 square miles. The encyclopedia puts the referendum in 1985 and the merger in 1986. A 2012 legal-news piece says the voters approved it in 1984, and that the merger happened in November 1985, the same election that chose Don Robart mayor. I will not average 1984, 1985, and New Year's Day of 1986. I still do not have the yes and no.",
+    long: "",
+    names: ["Northampton"]
+  },
+  {
+    id: "cuyahoga-falls-prior",
+    name: "Simeon Prior",
+    lat: 41.1680,
+    lng: -81.5350,
+    radius: 70,
+    short: "Northampton was one of the sixteen original townships in Summit County. The encyclopedia says the first settler, Simeon Prior, named it for Northampton in Hampshire County, Massachusetts, and that the page still calls that place a village. When it was laid out it was Town 3, Range 11, in the Western Reserve, about 25 square miles. It never grew a village of its own. Akron and Cuyahoga Falls had been biting off the south end. A large piece had been bought for the Cuyahoga Valley National Recreation Area, which is now the national park, and the tax base went with it. The encyclopedia says the township joined the Falls so the future would be settled. I will not add a motive past that sentence.",
+    long: "",
+    names: ["Simeon Prior"]
+  },
+  {
+    id: "cuyahoga-falls-ward-eight",
+    name: "Ward Eight",
+    lat: 41.1550,
+    lng: -81.5100,
+    radius: 70,
+    short: "The township came in as Ward 8, and kept a zoning rule meant to hold onto some of the rural ground. Annexations had left a ragged line, including islands of the township sitting inside Akron. The two cities drew up a land trade to straighten the border. It was never approved. They do share a fire station that covers a piece of both. The encyclopedia says Robart was mayor from 1986 to 2013, and that a page is still needed for the claim that he pushed the merger for the land. I will not use the claim. The city's about 27 square miles is the city's sentence. The census box we already left as two smaller numbers. I will not average those either.",
+    long: "",
+    names: ["Don Robart"]
+  },
+  {
+    id: "cuyahoga-falls-blossom-line",
+    name: "Blossom",
+    lat: 41.1890,
+    lng: -81.5630,
+    radius: 200,
+    short: "Robart told a paper that Silver Lake and Howe Avenue were cow paths in his memory, and that those roads later held 150 million dollars of building. That figure is his. He also said the city takes a 3 percent entertainment tax from Blossom Music Center, and that when he became mayor Blossom was still in Northampton Township. Britannica puts the music center in the national park, about two miles north of the old city. In the park, and inside the township, are not the same sentence. I will not force them to be. The next paste is a store. In 1939 a dairyman named James Lawson opened one at his plant on Broad Boulevard to sell his own milk.",
+    long: "",
+    names: ["Blossom Music Center"]
+  },
 
+  {
+    id: "cuyahoga-falls-lawson",
+    name: "Lawson's",
+    lat: 41.1485,
+    lng: -81.5050,
+    radius: 70,
+    short: "In 1939 a dairyman named James Lawson, also called J. J., opened a store at his dairy plant on Broad Boulevard so he could sell his own milk. The city's encyclopedia line calls that the first Lawson's convenience store. The company history calls it a store at the dairy. I will not dress 1939 up as the shop people remember, with the chip dip and the chipped ham. Those come later, on the same pages, as what the Ohio stores sold from the 1960s into the middle of the 1980s. A photograph on a local history page shows a Lawson's on Portage Trail. That is not the Broad Boulevard plant. I will not make them one door.",
+    long: "",
+    names: ["James Lawson"]
+  },
+  {
+    id: "cuyahoga-falls-lawson-sale",
+    name: "The Sale",
+    lat: 41.1510,
+    lng: -81.4980,
+    radius: 60,
+    short: "Lawson's Milk Company grew into a chain, mostly in Ohio. Consolidated Foods bought him out in 1959. In 1962 Lawson died of injuries from a head-on crash on Graham Road, near his house in Stow. Stow is the next town, not this one. The page does not say who else was in the car. I will not add it. A reader of that same local page says the plant on Newberry Street had been the Falls Rubber Company. The article itself does not say it. I will not lock a rubber works onto a milk plant because a comment did.",
+    long: "",
+    names: ["Consolidated Foods"]
+  },
+  {
+    id: "cuyahoga-falls-dairy-mart",
+    name: "Dairy Mart",
+    lat: 41.1460,
+    lng: -81.4920,
+    radius: 60,
+    short: "Consolidated renamed itself Sara Lee in 1985. About the same time, the page says, the United States stores were sold to Dairy Mart, a smaller chain out of Enfield, Connecticut. Dairy Mart moved its headquarters here, took the Lawson's name off the stores, and ran them for what the page calls seventeen years. About is the page's word. I will not do the arithmetic and call the sale exactly 1985. In 2002 Alimentation Couche-Tard, of Laval, Quebec, bought the assets and the name. Most of those stores became Circle K. The page says many of them had been Lawson's, or stood in towns where Lawson's had been. It does not say every one.",
+    long: "",
+    names: ["Dairy Mart"]
+  },
+  {
+    id: "cuyahoga-falls-lawson-case",
+    name: "The Case",
+    lat: 41.1495,
+    lng: -81.4880,
+    radius: 50,
+    short: "Under Dairy Mart, the company history says, a manager in Ohio sued. She said selling pornography in the store subjected her to sexual and religious harassment. The American Family Association was in the case. The page calls it Stanley against Lawson Company, and says it was treated as a test of the First Amendment. The page says the court ruled for the company. It does not put the store in Cuyahoga Falls. I will not move it here. The next paste is the city's own electric system. A power-company page says council, in 1888, let the Falls Edison Electric Light and Power Company set poles for street lights. I have not checked a second page for that year.",
+    long: "",
+    names: ["Lawson's"]
+  },
 
+  {
+    id: "cuyahoga-falls-edison",
+    name: "Falls Edison",
+    lat: 41.1362,
+    lng: -81.4842,
+    radius: 50,
+    short: "The city's electric page says that in 1888 council passed a resolution letting the Falls Edison Electric Light and Power Company set poles for electric street lights, and thus the Cuyahoga Falls Light Department was formed. A 2012 page from American Municipal Power tells the same pole grant, calls the paperwork resolutions, plural, and then says the city began offering electric service that year. A franchise for street-light poles is not the same sentence as a city utility. And thus is the city's joining word. I will not pretend the pages proved the city was selling power to houses in 1888.",
+    long: "",
+    names: ["Falls Edison"]
+  },
+  {
+    id: "cuyahoga-falls-light-department",
+    name: "The Light Department",
+    lat: 41.1374,
+    lng: -81.4860,
+    radius: 50,
+    short: "The power-company page says the name changed in 1955 to the Cuyahoga Falls Electric System. The city's own page, as it stands, says Light Department for 1888 and Electric Department for now. It does not give me 1955, and it does not say when the city took the system over, if a private company had it first. I do not have that year. Today the city says it makes power with American Municipal Power, from water, wind, and combustion, enough for the houses and the shops. It does not say how many customers.",
+    long: "",
+    names: ["Cuyahoga Falls Electric System"]
+  },
+  {
+    id: "cuyahoga-falls-electric-1955",
+    name: "The 2012 Count",
+    lat: 41.1348,
+    lng: -81.4875,
+    radius: 50,
+    short: "The 2012 page says the rates were at least 38 percent under the investor-owned utilities around here. It says two 138-kilovolt substations tied to FirstEnergy, a peak of 240 megawatts, ten distribution substations, more than 223 miles of line, more than 3,500 transformers, and more than 24,000 customers. Those numbers are that page, in that year. The city page I have now does not repeat them. I will not carry 2012 into this year.",
+    long: "",
+    names: ["American Municipal Power"]
+  },
+  {
+    id: "cuyahoga-falls-treeline",
+    name: "Tree Line",
+    lat: 41.1355,
+    lng: -81.4810,
+    radius: 40,
+    short: "The city says that since 2001 it has held a Tree Line USA certificate, for cutting limbs without wrecking the trees and still keeping the lights on. It also says the system has a Reliable Public Power Provider mark from the American Public Power Association. The page does not say in what year that mark was given. The next paste is the telephone, and it is one woman's memory. Laura M. Hall says the first exchange opened in 1882, in a back room of the old Mercer Drug store, with a 50-wire board and, as she recalls, about 35 subscribers.",
+    long: "",
+    names: ["Cuyahoga Falls"]
+  },
 
+  {
+    id: "cuyahoga-falls-mercer-drug",
+    name: "Mercer Drug",
+    lat: 41.1338,
+    lng: -81.4835,
+    radius: 40,
+    short: "Laura M. Hall says the first telephone exchange here opened in 1882. The Central Union Company took a small room in the rear of the old Mercer Drug store. The board had fifty wires. As she recalls, there were about thirty-five subscribers. W. C. Hall was the first manager. A picture caption on the same page names A. L. Kollie, W. C. Burch, and E. L. Mackey at an office on Wetmore Street. I will not make that room the drugstore, and I will not make it the next office either.",
+    long: "",
+    names: ["Laura M. Hall"]
+  },
+  {
+    id: "cuyahoga-falls-apollo-block",
+    name: "The Apollo Block",
+    lat: 41.1348,
+    lng: -81.4848,
+    radius: 40,
+    short: "The room was too tight. Sometime in 1888 the office moved into the Apollo Block. Shortly before the move, Hall says, the manager resigned and she was given the exchange. She held it until January 1, 1897, and then went with what she calls the American Company. She writes that Ohio Bell was still operating its office in that block. Still is her tense. I do not have the year she wrote it. Early on, with Blake transmitters and grounded circuits, she says it was nearly impossible to talk to Akron, five miles off, because of the induction. After the streetcar climbed North Hill and later reached the Falls, the wires ran alongside the car line, and subscribers said they could hear the car and could not talk. I will not swear the Apollo Block is the Apollo Hall where the hotel guests once played.",
+    long: "",
+    names: ["Ohio Bell"]
+  },
+  {
+    id: "cuyahoga-falls-long-line",
+    name: "The Long Line",
+    lat: 41.1362,
+    lng: -81.4865,
+    radius: 40,
+    short: "Hall was asked to write about the American Telephone and Telegraph lines from New York to Chicago, for which she says Cuyahoga Falls was the main switching station. That is her the. Work west of Pittsburgh started in February 1891. She says the circuit was completed into Cuyahoga Falls that December, with twenty wires. Completed into this town is not the same as New York talking to Chicago. She puts the first demonstration between those two cities in 1893, at the World's Fair. The first call from here to New York, she says, was with a Mr. Watson of the New York office. James Doyle made the test. She spoke with Watson too. I will not promote him to anybody's famous Watson. Another local page says the office began as testing and switching, later became a relay, and at one time all of Akron's toll calls were finished here. A relay, and the main station, are not the same boast. I will not pick.",
+    long: "",
+    names: ["American Telephone and Telegraph"]
+  },
+  {
+    id: "cuyahoga-falls-second-portage",
+    name: "Second and Portage",
+    lat: 41.1352,
+    lng: -81.4818,
+    radius: 40,
+    short: "The other page says Miss Hall worked ten years with no vacation, about ten hours a day, Sundays and holidays included, and then went out to collect bills, find subscribers, or fix the lines. Hall's own dates make her the manager for a stretch that ends in 1897. I will not subtract them until they equal ten. Boys ran the night board until 1910. Then Maud E. Huren took the nights. In 1922 a new building went up at Second and Portage. The page says the operators were taken off, and the station was kept as a repeater and a test board. The new office was occupied in December 1922. No day. The same page says the American Telephone and Telegraph Company put a long-distance center here that year, and that cables of the national network pass through the repeaters. It also says the Falls was one of the most important centers of Ohio Bell in its own today. I will not move that today to this year. The next paste is the gorge crossing. A university page says the streetcar from Akron used a High Bridge built in 1876. A career-site timeline says a High Level Bridge opened in 1915. I will not call those the same span until a second page does.",
+    long: "",
+    names: ["Maud E. Huren"]
+  },
 
+  {
+    id: "cuyahoga-falls-high-bridge",
+    name: "Three High Bridges",
+    lat: 41.1190,
+    lng: -81.4980,
+    radius: 70,
+    short: "A university page says the streetcar from Akron into Cuyahoga Falls used a High Bridge built in 1876. The Beacon Journal, writing up a 1918 wreck, calls the Prospect Street Glens Bridge the High Bridge, and says that span was wood and iron from 1888, 325 feet long. A library catalog says the High Level Bridge was built in 1915, and that this one is the North Howard Street Extension, the road link between Akron and the Falls. The same library, on a different card, says the upper streetcar bridge over the gorge was also called the High Level Bridge, or the High Bridge, or the Gorge Bridge, or the Northern Ohio Traction bridge. I will not pick which boards were which. A career site that said 1915 was not wrong about a bridge. It was wrong if anybody thought it was the only one.",
+    long: "",
+    names: ["High Bridge"]
+  },
+  {
+    id: "cuyahoga-falls-mountain-line",
+    name: "The Mountain Line",
+    lat: 41.1210,
+    lng: -81.5010,
+    radius: 60,
+    short: "By 1894, the university page says, the Akron and Cuyahoga Falls Rapid Transit was using the bridge for the run from Akron out to Silver Lake. That run was called the Mountain Line. A second bridge, built before 1895, is where John Seiberling put streetcar track and ran a rival car up the west side of the river into downtown. By 1902 his company was the Northern Ohio Traction and Light Company, and the page says they built a new two-track bridge, 100 feet over the water. The library says the upper double-track bridge was built about 1903, and the lower one, a highway bridge with a single streetcar track, about 1895. I will not average 1902 and about 1903. Both bridges, the library says, stood near what is now Front Street, north of Cuyahoga Falls Avenue.",
+    long: "",
+    names: ["Northern Ohio Traction and Light"]
+  },
+  {
+    id: "cuyahoga-falls-glens-wreck",
+    name: "Car 350",
+    lat: 41.1178,
+    lng: -81.4955,
+    radius: 60,
+    short: "On June 11, 1918, after four in the afternoon, Northern Ohio Traction and Light car number 350 was on that Mountain Line. The Beacon says it was 42 feet long, built for 42 seats, and weighed 47,420 pounds. A young mother and her baby got off on the east side of the Glens Bridge. A two-man crew and four passengers stayed on. The car came down the Prospect hill, curved onto the 1888 bridge, and made it about halfway. Witnesses said the back wheels left the rail, the car swung north, and the iron rail gave way like brittle wood. It slid off backward, flipped, and hit the river. The university page says the wooden parts of its high bridge were replaced with steel in 1912. A wood-and-iron bridge still failing in 1918 is that page's steel sentence, or it is a different span. I will not decide. The extract I have stops at the water. I will not put a death count on a story that has not given me one.",
+    long: "",
+    names: ["Mountain Line"]
+  },
+  {
+    id: "cuyahoga-falls-bridges-after",
+    name: "After the Cars",
+    lat: 41.1230,
+    lng: -81.4935,
+    radius: 60,
+    short: "The university page says the streetcars were done around 1932. After that, the high bridge carried cars north and the lower bridge carried them south. In 1930 Front Street was straightened, which took out a bad curve on the Falls side. About 1980 the lower bridge was rebuilt for both directions, and the page says the high bridge was removed. That removal belongs to the gorge pair in that paragraph. It is not a sentence about the 1915 Howard Street bridge. A postcard transcription says that 1915 bridge stood 190 feet over the riverbed, carried State Route 8, and was replaced in 1949. I will not lock the feet or the year off a photo site. The next paste is 1912. The library says the traction company built the Gorge Dam that year, and the water covered a pleasure ground called High Bridge Glens. The university page says a power plant was finished on Front Street the same year. I will not call the dam and the plant the same building.",
+    long: "",
+    names: ["Front Street"]
+  },
 
+  {
+    id: "cuyahoga-falls-glens-park",
+    name: "High Bridge Glens",
+    lat: 41.1306,
+    lng: -81.4836,
+    radius: 50,
+    short: "A university page says High Bridge Glens and Caves Park opened in 1879. A marker on the ground says the same kind of park made this a tourist stop, and that visitors thought the glens were as beautiful as Niagara. That is the visitors, not a survey. The university page says that at the height of it the Cleveland, Mount Vernon and Columbus Railroad ran four express trains a day, and sixty cars a day, to the grounds. People danced, rode, ate, and walked a swinging bridge onto the Chuckery Trail, out to the Big Falls and a spot called Old Maid's Kitchen. A library catalog adds a dining room, a dance pavilion, a roller coaster, Fern Cave, Mirror Lake, and toy houses for children. A magazine quotes a man named McClure that the park drew as many as ten thousand people a day, when the town had about twenty-five hundred. Those counts are his. He also says the park is said to have had one of the first roller coasters in the country, a circular gravity railway. The marker drops the is-said and calls it one of the first. I will not.",
+    long: "",
+    names: ["High Bridge Glens"]
+  },
+  {
+    id: "cuyahoga-falls-glens-close",
+    name: "Three Closing Dates",
+    lat: 41.1275,
+    lng: -81.4890,
+    radius: 50,
+    short: "The university page says the park closed sometime around 1910, and not for one reason. As the town grew, the sewage went into the river, and the lower trails and caves stopped being a place you wanted to walk. Then the dam backed the water up over caves and trails. The library says the park ran from the late 1870s until 1912, when the Northern Ohio Traction and Light dam flooded the scenery. McClure says it closed in 1895. Around 1910, until 1912, and 1895 cannot all be the last day. A park can shut and the water can cover the ground later. I will not pick a year to make them fit. The flood of 1913, the university page says, tore out what stairs and trails were left. That flood is not the dam.",
+    long: "",
+    names: ["Cuyahoga River"]
+  },
+  {
+    id: "cuyahoga-falls-gorge-dam",
+    name: "The Gorge Dam",
+    lat: 41.1248,
+    lng: -81.4945,
+    radius: 60,
+    short: "The marker says a large dam was built over the Big Falls in 1912, for streetcar power and for cooling water at coal plants, and that it ruined the falls and flooded the park. A local page says the Northern Ohio Power and Light Company, not Traction and Light, built a plant that year at the southeast corner of the High Street car bridge, and a concrete dam 70 feet high on top of the falls, so the falls became the spillway. The university page says the electric plant was along Front Street in Akron, and the dam a little downriver. On top of the falls, and a little downriver, are not the same phrase. Seventy feet is one page. The company name is two pages. I will not average them. The same local page says a turbine house sat on the south bank, half a mile downstream, fed by a concrete pipe six feet across. In 1977 that pipe was taken out by helicopter. Later the plant was Ohio Edison's. As of that 2017 page, nobody claims the dam. I will not update the ownership past the page.",
+    long: "",
+    names: ["Ohio Edison"]
+  },
+  {
+    id: "cuyahoga-falls-chuckery",
+    name: "The Chuckery",
+    lat: 41.1288,
+    lng: -81.4868,
+    radius: 50,
+    short: "To build the dam and the turbine, the local page says, the old Chuckery ditch was filled in 1912 and a railroad laid on it, from Front Street west, to haul the material. The university page calls it a channel, and a spur for the hydro plant. Ditch and channel I will leave as the two words. A footbridge just west of the dam came out. The page says it had been the only place to walk the river between the Front Street car bridge and the covered bridge at Cuyahoga Street. The next paste is another park. McClure says Riverview Park opened in 1919 and took the place of the glens. I have that year on his page. I do not have it on a second one yet.",
+    long: "",
+    names: ["Chuckery"]
+  },
 
+  {
+    id: "cuyahoga-falls-riverview",
+    name: "Riverview Park",
+    lat: 41.1262,
+    lng: -81.4905,
+    radius: 50,
+    short: "McClure says Riverview Park opened in 1919 and took the place of the glens. A university page says the new park opened in 1920. I will not average them. That page puts it on the Cuyahoga Falls side of the gorge, not far from the old Big Falls and the dam that is there now, on land leased from Northern Ohio Traction and Light. It had a large dance hall, a restaurant, and a roller coaster the page calls half a mile long. People picnicked, boated, and heard free band concerts. An advertisement said it drew a better class of people, and the page says that meant no alcohol. A 2022 Beacon piece, announcing a talk by McClure, adds a merry-go-round, a roller rink, an aerial swing, a zoo, and a midway, and calls the park art deco. It does not give an opening year. A coaster database lists two wood coasters here, one with no name and one called the Sky Rocket, and says a newspaper fire makes it unlikely they stood at the same time. I will not hang the half-mile on either name.",
+    long: "",
+    names: ["Riverview Park"]
+  },
+  {
+    id: "cuyahoga-falls-sunday-dance",
+    name: "Sunday",
+    lat: 41.1272,
+    lng: -81.4886,
+    radius: 40,
+    short: "The university page says the town liked the park at first, and liked it less when the dancing moved to Sunday. When the lease was signed, Sunday dancing was not against the rule. The ordinance came later. Managers opened on Sunday anyway and paid a one-hundred-dollar fine on Monday. Then one manager was taken out in handcuffs, and the ballroom was vandalized. The page says it reopened under new management in May 1929. It does not give me that manager's name.",
+    long: "",
+    names: ["Riverview Park"]
+  },
+  {
+    id: "cuyahoga-falls-riverview-fires",
+    name: "Two Fires",
+    lat: 41.1254,
+    lng: -81.4924,
+    radius: 40,
+    short: "The same page says there were two fires, thirteen days apart. On January 17, 1927, the dance hall and three other buildings burned. The cause is not known. Under the pavilion, in storage, five alligators were kept through the winter. They died in that fire. On January 30 the roller rink and the Old Mill burned. Several boys said they had twisted paper into a torch so they could see to buckle their skates. A coaster database, citing the Plain Dealer, tells a different ruin. A fire started under the coaster, took the coaster and most of the park, and left the dance hall, the skating rink, and the carousel standing. A fire that destroys the dance hall, and a fire that leaves the dance hall standing, are not the same telling. I do not have a date on the newspaper version. I will not paste it onto January 17 or January 30.",
+    long: "",
+    names: ["Old Mill"]
+  },
+  {
+    id: "cuyahoga-falls-roseland",
+    name: "Roseland",
+    lat: 41.1236,
+    lng: -81.4962,
+    radius: 50,
+    short: "On December 29, 1929, the university page says, the Gorge Reservation was given to the Akron Metropolitan Park District, and the district inherited a lease with the Fairyland Amusement Company, which ran Roseland. Roseland closed in 1932, was given to the City of Akron, taken down, and put back up in Elizabeth Park. It lasted there almost thirty years and was razed in 1966. The page says Roseland. It does not say the coaster moved. The Beacon says the forgotten grounds are now inside Gorge Metro Park. I will not swear the lot lines match the lease. The next paste is the other end of the old streetcar run. The Mountain Line went out to Silver Lake. I do not yet have that park's opening year on two pages.",
+    long: "",
+    names: ["Roseland"]
+  },
 
+  {
+    id: "silver-lake-lodge",
+    name: "Silver Lake",
+    lat: 41.1535,
+    lng: -81.4610,
+    radius: 80,
+    short: "This is not a Cuyahoga Falls park that changed its name. A magazine says Ralph Lodge bought the land under the water on January 10, 1874, for 1,305 dollars, and thirty-five acres on the southwest shore the following June. A historical society says the purchase was the lake and thirty acres. I will not split the difference. The Ohio marker on Silver Lake Boulevard says the water was Wetmore's Pond, for Judge William Wetmore, a Connecticut Land Company agent, and that Ralph Hugh Lodge opened the amusement park on this ground in 1875. A Green Book history and Mary McClure's book notice both say 1876. The magazine says he spent about two years getting ready and then moved his family down from Cleveland. The grounds later became the Village of Silver Lake. If you are still on a Falls street, you are not in it yet.",
+    long: "",
+    names: ["Ralph Lodge"]
+  },
+  {
+    id: "silver-lake-rail",
+    name: "The Platform",
+    lat: 41.1488,
+    lng: -81.4685,
+    radius: 70,
+    short: "His son William said the early days were thin. Schools and churches came out now and then, and often the refreshment stand never opened. The magazine says the first real crowd waited until the early 1880s, when the Cleveland, Akron and Columbus railroad built a platform a mile and a half from the park, and that platform was in Cuyahoga Falls. In the 1890s the trolley from Akron was extended out to the grounds. That is the Mountain Line's far end, the one I named last time. The same magazine says the place grew into six hundred acres, with more than thirty attractions, and picked up the name the Coney Island of the West. McClure's notice uses that name too. Six hundred acres is the grown park, not the first purchase.",
+    long: "",
+    names: ["William Lodge"]
+  },
+  {
+    id: "silver-lake-peak",
+    name: "The Peak",
+    lat: 41.1552,
+    lng: -81.4638,
+    radius: 60,
+    short: "In the early 1900s, the magazine says, a day could bring ten to twenty thousand people, more than a hundred workers, and two to five thousand dollars at the gate. It had its own police, its own power, a water tower, and a sewer. The rides it names are a merry-go-round, a fun house, a pony track, and a figure-eight toboggan coaster. In 1902 the park sold stock, a thousand shares at one hundred dollars, and Ralph stayed president while William ran it. I do not have a page that says the shares all sold. A Green Book history says a giant dance pavilion opened in 1903, and that Black picnics were already being held by 1892, including seventy-seven tickets sold at the Wadsworth depot. The marker says the pavilion's dance floor was fifteen thousand square feet, and it also lists a freshwater aquarium, an airfield, and a Chautauqua. It does not date the floor to 1903. McClure says the aquarium is believed to have been the first public one in Ohio. Believed stays in the sentence. The marker says the Lodges bred black bears, and that the Smithsonian wrote the feat up in 1903. McClure says a backyard in the village still has the bear pits, and other yards still have rail from the little train.",
+    long: "",
+    names: ["Silver Lake Park"]
+  },
+  {
+    id: "silver-lake-close",
+    name: "The Last Season",
+    lat: 41.1522,
+    lng: -81.4562,
+    radius: 60,
+    short: "The magazine says the war finished it. On July 1, 1917, the Silver Lake Improvement Company bought the property for ten thousand dollars. The park stayed open through that summer and shut when the season ended. Buildings were moved or torn down. Boats, furniture, and silverware were auctioned. Most of the animals went to the Brookside zoo in Cleveland. The historical society says the park was sold in 1918 for houses. The marker says the family sold after the war cut the train crowds, and that the village incorporated on the site in 1918. A purchase in 1917 and a village in 1918 can both be true. The Green Book page says the last large Black outing it found was a 1912 picnic, and that the park closed two years later, in the war's decline. Two years after 1912 is not the season of 1917. I will not pick the year that makes the pages agree. The next paste is the other face of that marker. It calls the water Wetmore's Pond, and it has a line about a Native group in the War of 1812. I will not name them until I have the marker's word.",
+    long: "",
+    names: ["Silver Lake"]
+  },
+
+  {
+    id: "silver-lake-wetmore",
+    name: "Wetmore's Pond",
+    lat: 41.1524,
+    lng: -81.4597,
+    radius: 40,
+    short: "The marker at Silver Lake Boulevard and Hastings Road, which that page also calls Lee Road, says the water was Wetmore's Pond. Judge William Wetmore was an agent for the Connecticut Land Company. In 1808 he built a cabin over a spring-fed lake, and the marker says the lake was then in Portage County. A Beacon story adds his years, 1771 to 1827, says he came from Connecticut in 1804, and puts the family house on what is now Kent Road. It also says his cousin was Joshua Stow, the surveyor the town is named for. A cabin in 1808 and a house in 1804 are two sentences. I will not make them one building. The marker number is 20-77.",
+    long: "",
+    names: ["William Wetmore"]
+  },
+  {
+    id: "silver-lake-seneca",
+    name: "Likely Seneca",
+    lat: 41.1496,
+    lng: -81.4622,
+    radius: 60,
+    short: "The marker does not say the village is a proved fact. It says local lore records Wetmore's friendship and fair dealing with the Native people, likely Seneca, who had a populous village between the lake and the Cuyahoga River. Likely stays in the sentence. The same marker says the tribe left to join the British in the War of 1812, and later sided with the United States. The Beacon drops the likely and the lore. It says more than five hundred Seneca lived along the southern shore, left without warning when the war started, and never returned. Later sided with the United States, and never returned, cannot both be the whole story. Between the lake and the river is not the same phrase as the southern shore. I will not pick the page that sounds more certain. This pin is not the village.",
+    long: "",
+    names: ["Seneca"]
+  },
+  {
+    id: "silver-lake-name",
+    name: "The Name",
+    lat: 41.1542,
+    lng: -81.4572,
+    radius: 40,
+    short: "William R. Lodge, in a memoir called An Historical Anthology of Silver Lake, says the pond was renamed about 1855. Two young couples were in a carriage, coming back to Cuyahoga Falls from a concert at Western Reserve College in Hudson. The moon was on the water. The driver asked what bit of paradise it was. His friend said it was Stow Lake, or Wetmore's Pond. The driver said that henceforth it would be called Silver Lake. That is the memoir, by way of the Beacon. The same article says that when Ralph Lodge bought the lake in 1874, he officially christened it Silver Lake. A nickname in a carriage, and an official name nineteen years later, are not the same act. I will not throw either one out.",
+    long: "",
+    names: ["William R. Lodge"]
+  },
+  {
+    id: "silver-lake-ingot",
+    name: "The Ingot",
+    lat: 41.1508,
+    lng: -81.4554,
+    radius: 40,
+    short: "In March 1905, the Beacon says, George H. Lodge was wading in the lowered lake, in high boots, while the park was being built. He pulled a blackened ingot out of the muck, about a hundred pounds, pocked, and white metal under the crust. It looked like pig iron. He thought it was silver, and he found more billets four, six, and eight inches down. He called his brothers William, Louis, and Ralph. The article says a chemical test was never reported, and the family never said in public what the metal was. One newspaper theory tied the bars to the Battle of Tippecanoe and used the word exterminated. I will not use that word as history. Another theory said thieves robbed a freight car on the Atlantic and Great Western in the 1870s. Another put counterfeiters in an old barn in Ravenna in the 1830s. The Beacon also says the Lodge family found thousands of relics on the shore. That is the article. It is not a catalog. The next paste is a quieter one. Henry Howe, in 1891, describes steamers on this water, woods, and picnic grounds. I have that on one page so far.",
+    long: "",
+    names: ["George H. Lodge"]
+  },
+
+  {
+    id: "silver-lake-howe",
+    name: "Howe's Sentence",
+    lat: 41.1530,
+    lng: -81.4600,
+    radius: 50,
+    short: "I said the next paste would be Henry Howe. A map page says his Historical Collections of Ohio, the 1891 book, describes steamers on this water, woods, picnic grounds, and a railroad station nearby. That page does not quote him. I have not found the sentence. I will not put his words in my mouth, and I will not pretend he was standing here in 1891 because a later website said the year. What I do have are the boats that came after, and they are not one boat.",
+    long: "",
+    names: ["Henry Howe"]
+  },
+  {
+    id: "silver-lake-silver-queen",
+    name: "The Silver Queen",
+    lat: 41.1514,
+    lng: -81.4578,
+    radius: 40,
+    short: "A library postcard says the steamer Silver Queen was a second name. She started as the Mayflower of 1900. The card says she ran for ten years, and that after a few years she was called the Silver Queen. Ten years is the run. A few years is the new name. I will not make them the same date. A Beacon photograph, printed in 1976 from a 1975 negative, says on the back that she was built in 1900 and used until 1910, and then beached. The note calls the man on the forward top deck Peter Bey, an Indian, and the park policeman. It names no nation. The postcard title puts the boat at Cuyahoga Falls. The photograph title puts the park in Akron. The lake is in Silver Lake. I will not move it to make a caption happy.",
+    long: "",
+    names: ["Peter Bey"]
+  },
+  {
+    id: "silver-lake-chautauquan",
+    name: "The Chautauquan",
+    lat: 41.1546,
+    lng: -81.4618,
+    radius: 40,
+    short: "Another library card says the Chautauquan was the last steamer here, and the largest. Built in 1910 on the shore by the Lodge family. Two steel hulls, cigar-shaped, 85 feet long. Two decks, room for 600. A paddle wheel twelve feet across sat between the hulls, and plate glass let people watch it turn. She had her own power plant, a wireless, and a brass band. That same card dates the picture about 1880 to 1900. A boat built in 1910 cannot be in a picture from before she was built, unless the date is wrong. I will not fix the catalog. A Beacon note says she was built in 1910, used until 1918, and moved to Springfield Lake when the park was sold. The other card says Frank Baker dismantled her and took her there. I do not have 600 people on the Beacon note. I will not average it with any other count.",
+    long: "",
+    names: ["Chautauquan"]
+  },
+  {
+    id: "silver-lake-ten-cents",
+    name: "Ten Cents",
+    lat: 41.1522,
+    lng: -81.4632,
+    radius: 40,
+    short: "A postcard mailed July 3, 1913, shows a steamboat at the dock and a sign that a ride around the lake is ten cents, five cents for children. The card does not name the boat. I will not hang the fare on the Queen or the Chautauquan. The Beacon, using Mary McClure, says the grand pavilion went up in 1903 over the water so the boats could dock. The building was 90 by 236 feet. The dance floor inside it was 15,000 square feet, which is not the whole building. The old floor had been 20 by 30. McClure says the wood came in sixteen railcars from the Falls Lumber Company, with more than a million shingles. Lodge's boast, in that article, was that the floor was one of the largest in the country except perhaps a few on the Atlantic. The next paste is that lumber company. I have it, so far, as the place those sixteen cars came from. That is back in Cuyahoga Falls, and it is one page.",
+    long: "",
+    names: ["Falls Lumber"]
+  },
+
+  {
+    id: "cuyahoga-falls-lumber-cars",
+    name: "Sixteen Cars",
+    lat: 41.1336,
+    lng: -81.4844,
+    radius: 60,
+    short: "The only sentence I have on the wood is this. The Beacon, quoting Mary McClure, says the 1903 Silver Lake pavilion was built with sixteen railcars of lumber from the Falls Lumber Company, and more than a million shingles. No invoice. No owner. No street. I will not invent a mill to hold that order. The name Falls Lumber shows up again in this town, and again in Akron, and those are not automatically the same firm.",
+    long: "",
+    names: ["Falls Lumber"]
+  },
+  {
+    id: "cuyahoga-falls-lumber-1913",
+    name: "From the Bridge",
+    lat: 41.1344,
+    lng: -81.4836,
+    radius: 40,
+    short: "A library photograph from the flood of 1913 is titled Falls Lumber Company, Cuyahoga Falls. The view is from the Broad Street bridge. So a company by that name was standing in the Falls ten years after the pavilion. Same name, same town, a decade later, is not a deed. I will not swear the yard in the water is the yard that loaded the sixteen cars. This pin is the bridge in the title. It is not the office door.",
+    long: "",
+    names: ["Broad Street"]
+  },
+  {
+    id: "cuyahoga-falls-lumber-1965",
+    name: "Not the Mill",
+    lat: 41.1458,
+    lng: -81.5032,
+    radius: 40,
+    short: "A 1989 Beacon photograph shows a cabinet maker, Dennis Spardy, inside Falls Lumber and Millwork. The note says he had been there sixteen years. The description says that company was on East Tallmadge Avenue in Akron, that Falls Lumber was founded in 1965, and that Alex M. Alexander bought it in 1984, when the name grew to include millwork. A business listing puts a Falls Lumber and Millwork at 3479 State Road in Cuyahoga Falls and says it was founded in 1984. Founded in 1965, and founded in 1984, are two sentences. Akron and State Road are two addresses. I will not use the listing's sales figures. A company founded in 1965 cannot have shipped the pavilion wood in 1903. This pin is not the Akron shop, and it is not the State Road door.",
+    long: "",
+    names: ["Alex M. Alexander"]
+  },
+  {
+    id: "cuyahoga-falls-not-newberry",
+    name: "Not Newberry's Mill",
+    lat: 41.1326,
+    lng: -81.4856,
+    radius: 50,
+    short: "Do not hand the 1903 order to the first sawmill either. A Falls history column says that in 1825 Henry Newberry built a dam just below Broad Street, a sawmill on the west bank and an oil mill on the east. The same year a Stow and Wetmore dam, south of their 1812 dam, flooded the old village and the old mill site. The mills were taken down and put back up, and the column says that was the start of Cuyahoga Falls where it sits now. A library picture shows a later sawmill on land that Turner, Parks and Company bought from the Newberry and Sill families. The 1913 lumberyard photo is taken from the same bridge neighborhood. Neighborhood is not ownership. I will not give Newberry the sixteen cars, and I will not give him the 1965 store. The next paste is the flood those 1913 pictures are actually about. One lumberyard in the water is not the flood.",
+    long: "",
+    names: ["Henry Newberry"]
+  },
 
 
 

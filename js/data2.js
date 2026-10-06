@@ -8327,6 +8327,1255 @@ name, when you want it, is Corning.",
     long: "",
     names: ["Covington"]
   },
+  {
+    id: "approach-craig-beach",
+    name: "Craig Beach",
+    lat: 41.1000,
+    lng: -80.9800,
+    radius: 2000,
+    layer: "approach",
+    short: "You are coming up on Craig Beach, a village in Milton Township, Mahoning County, on the shore of Lake Milton. About 1,076 people live here. It sits in the Youngstown and Warren area. The box puts the village at 1.57 square miles, and it splits that almost in half, 0.78 land and 0.78 water. This is a lake town, not an ocean beach. The federal names file still tags the point as unincorporated, and it dates the incorporation to 1932. The encyclopedia calls it a village, and dates the incorporation to 1931. I will not average those. If you stay on the road, I'll start with the dam.",
+    long: "",
+    names: ["Craig Beach"]
+  },
+  {
+    id: "craig-beach-dam",
+    name: "The Dam",
+    lat: 41.1170,
+    lng: -80.9834,
+    radius: 60,
+    short: "In 1910 the city of Youngstown bought 3,416 acres along the Mahoning, in Milton Township. The encyclopedia says the plan was a water supply, a dam 2,800 feet long, holding 1,640 acres. A later account says the water was to cool the steel, and to hold a flood. I will not make those one purpose. Ward Craig, an entertainer, opened Craig's Landing so people could watch the dam go up. It became a stand for food and drink, a place to swim, docks for boats, and tables for a picnic. I do not have the year the dam was finished. I will not invent it.",
+    long: "",
+    names: ["Ward Craig"]
+  },
+  {
+    id: "craig-beach-martin",
+    name: "The Dance Hall",
+    lat: 41.1180,
+    lng: -80.9820,
+    radius: 40,
+    short: "In 1922 Craig formed a company and built an amusement park on the new lake. Rides, a dance hall, cottages to rent. The state's page adds a merry-go-round, a Ferris wheel, a ride called the Caterpillar, a penny arcade, and a lot for 3,000 cars. It also says Craig later pulled out of the company he started. Big bands played the hall in the 1930s. The encyclopedia says a singer who became Dean Martin got his start there. Another account says a man still called Crocetti took a dare and sang Oh Marie. I will not pick which telling is the start. The park's page says the village incorporated in 1931 so the hall could stay open on Sunday. A different page gives that Sunday fight to the mayor of Lake Milton, a woman named Pennola Jones. I will not make her the mayor of this village.",
+    long: "",
+    names: ["Dean Martin"]
+  },
+  {
+    id: "craig-beach-park",
+    name: "The Empty Midway",
+    lat: 41.1160,
+    lng: -80.9850,
+    radius: 50,
+    short: "The state's page says about ten families stayed through the winter, and that summer filled more than 500 cottages. That is not a census. The encyclopedia says the amusement park was closed by 1966. In 1986 Youngstown could not keep the dam, and the state took the lake. The reservoir was drained to fix the dam. In 1988 Lake Milton was dedicated as Ohio's 72nd state park. The midway is gone. What the state's page says is left is a marker about the dance hall. The estimate for 2023 is 1,063. I will not explain the drop from 1,076. The next town, when you want it, is Crestline.",
+    long: "",
+    names: ["Craig Beach"]
+  },
+
+  {
+    id: "approach-crestline",
+    name: "Crestline",
+    lat: 40.7600,
+    lng: -82.7600,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Crestline, a village in Jackson, Jefferson, and Sandusky townships. Most of it is in Crawford County. A small piece crosses into Richland. About 4,525 people live here. It is the third largest municipality in Crawford County. The lead calls it a village. One geography line calls it a city. I will not. The box puts it at 3.40 square miles, almost all land. The geography line puts it at 3.18. I will not average them. It sits near the headwaters of the Sandusky River. State Route 61 crosses the tracks in town. If you stay on the road, I'll start with the station, not the houses.",
+    long: "",
+    names: ["Crestline"]
+  },
+  {
+    id: "crestline-beeline",
+    name: "The Bee Line",
+    lat: 40.7822,
+    lng: -82.7597,
+    radius: 60,
+    short: "The village's page says the railroad came first. In 1850 the Cleveland, Columbus and Cincinnati, called the Bee Line, needed a stop between Shelby and Galion, thirteen miles with no town between them. The station went where the line crossed the Leesville road. The box says founded in 1851. The history says platted in 1852. A compiler says the post office opened in 1854. I will not make those one year. A journalist named J. A. Crever wrote that he found houses where, a few months before, it had been woods and fields. He counted two stores, five groceries, two steam sawmills, boot and shoe shops, mechanic shops, and a tavern. I do not have the year he came.",
+    long: "",
+    names: ["Crestline"]
+  },
+  {
+    id: "crestline-name",
+    name: "Crest Line",
+    lat: 40.7830,
+    lng: -82.7580,
+    radius: 40,
+    short: "Early settlers thought this was the watershed of the state. Water to the north ran to Lake Erie. Water to the south ran to the Ohio River. They called it Crest Line, two words. The village's page says the town was not on that line, and the name stuck anyway, and later became one word. The encyclopedia says it was just north of the divide, not on it. The same article also says people once thought this was the highest point in Ohio, and that the name came from the height. I will not say that it was. The box puts the ground at 1,152 feet. That is not a claim to be the highest.",
+    long: "",
+    names: ["Crestline"]
+  },
+  {
+    id: "crestline-lincoln",
+    name: "Four Seven",
+    lat: 40.7815,
+    lng: -82.7610,
+    radius: 50,
+    short: "After Abraham Lincoln was killed, a funeral train carried his body from Washington toward Springfield, Illinois. It left Washington on April 21, 1865, at half past noon, and the encyclopedia puts the distance at 1,654 miles. It reached Springfield on May 3. The same page records a stop here on April 29, 1865, at 4:07 in the morning. A later account says the train passed through. I will not add a crowd on the platform. In its railroad years this was a division point on the Pennsylvania line toward Fort Wayne and Chicago. The New York Central crossed that line here. The village's page says both railroads are still active. I do not have the older census table in front of me. I will not crown a year from a compiler. The next town, when you want it, is Creston.",
+    long: "",
+    names: ["Abraham Lincoln"]
+  },
+
+  {
+    id: "approach-creston",
+    name: "Creston",
+    lat: 40.9600,
+    lng: -81.9000,
+    radius: 2000,
+    layer: "approach",
+    short: "You are coming up on Creston, a village in Wayne County and Medina County. About 2,139 people live here. This is not Crestline. The encyclopedia does not say the name came from that other town, and I will not say it did. The box puts the ground at 2.19 square miles, all land. The geography line puts it at 2.26, also all land. I will not average them. The box puts the elevation at 991 feet. If you stay on the road, I'll start with the name it used first.",
+    long: "",
+    names: ["Creston"]
+  },
+  {
+    id: "creston-pike",
+    name: "Pike Station",
+    lat: 40.9767,
+    lng: -81.9000,
+    radius: 50,
+    short: "The encyclopedia says the place started in the 1860s, when a railroad was extended to this point. It does not name the railroad. An old name was Pike Station. A post office under that name opened in 1865. The name was changed to Creston in 1881. A later compiler says Isaac Wells plotted a map in 1870, that the place was named in 1880, and that it incorporated on June 2, 1899, with a mayor named Warden Wheeler. The same compiler also says the name year was 1881. I will not pick between the compiler and itself, and I will not lock any of that against the encyclopedia, which does not give an incorporation date. The pages I trust do not say why Pike Station became Creston.",
+    long: "",
+    names: ["Creston"]
+  },
+  {
+    id: "creston-count",
+    name: "The Count",
+    lat: 40.9775,
+    lng: -81.8985,
+    radius: 40,
+    short: "The census table starts at 584 in 1890. There is no line before that. Its high line is 2,171 in 2010. It is 2,139 in 2020. The estimate for 2023 is 2,138. One compiler reprints the same decades and does not match. It prints 1,995 for the year 2000. The encyclopedia prints 2,161. For 2020 that compiler's own addition of men and women comes to 2,139, while its headline prints 2,136. I will not average any of it. Another line prints 2,144 for 2023. I will not use that either.",
+    long: "",
+    names: ["Creston"]
+  },
+  {
+    id: "creston-lines",
+    name: "The Lines",
+    lat: 40.9755,
+    lng: -81.9015,
+    radius: 40,
+    short: "A later compiler lists three railroads through here, and a trolley from Cleveland to Wooster, and says one of the lines stopped in 1980. The encyclopedia does not name them. I will not put a company on the map that the main page does not name. I also will not repeat a story that this was first called Seville Station. That is the compiler again, and it is not in the encyclopedia. The next town, when you want it, is Cridersville.",
+    long: "",
+    names: ["Creston"]
+  },
+
+  {
+    id: "approach-cridersville",
+    name: "Cridersville",
+    lat: 40.6300,
+    lng: -84.1400,
+    radius: 2000,
+    layer: "approach",
+    short: "You are coming up on Cridersville, a village in Duchouquet Township, Auglaize County. It sits about halfway between Lima and Wapakoneta, and it touches Shawnee Township in Allen County. About 1,791 people live here. The page says the name is said CRY-ders-ville. The box puts the ground at 1.20 square miles, all land. The geography line puts it at 0.90, also all land. I will not average them. The box puts the elevation at 902 feet. If you stay on the road, I'll start with the family the name comes from.",
+    long: "",
+    names: ["Cridersville"]
+  },
+  {
+    id: "cridersville-crider",
+    name: "The Criders",
+    lat: 40.6541,
+    lng: -84.1392,
+    radius: 40,
+    short: "A marker on East Main Street says Ephraim and Polly Crider and their family founded the town in 1856. They platted it on the line the Dayton and Michigan Railroad was about to build. The marker says the railroad was finished in 1858, and then the village grew. A station let farmers ship extra crops and livestock, and let goods come in. Stores opened on Main Street. That is the marker. A later compiler adds an arrival in 1854, eighty acres, and an incorporation in 1903. The marker does not. I will not lock the compiler.",
+    long: "",
+    names: ["Ephraim Crider"]
+  },
+  {
+    id: "cridersville-school",
+    name: "The School",
+    lat: 40.6535,
+    lng: -84.1380,
+    radius: 30,
+    short: "The same marker says that by 1866 the town needed a school. The first one was a single room, on East Main Street, half a block west of a place now called Legacy Park. Ephraim Crider and a man named N. A. Murdock gave the land. It taught the children until 1875, when a two-story brick school, four rooms, went up on South Waverly Street. I will not add a count of the pupils. I do not have one.",
+    long: "",
+    names: ["Cridersville"]
+  },
+  {
+    id: "cridersville-count",
+    name: "The Count",
+    lat: 40.6550,
+    lng: -84.1405,
+    radius: 40,
+    short: "The census table starts at 167 in 1870. Its high line is 1,885 in 1990. It is 1,791 in 2020. The estimate for 2023 is 1,746. One compiler reprints the later years and does not match. It prints 1,906 for the year 2000. The encyclopedia prints 1,817. For 2020 that compiler's men and women add to 1,791, while its headline prints 1,796. I will not average them. The next town, when you want it, is Crooksville.",
+    long: "",
+    names: ["Cridersville"]
+  },
+
+  {
+    id: "approach-crooksville",
+    name: "Crooksville",
+    lat: 39.7400,
+    lng: -82.0950,
+    radius: 2000,
+    layer: "approach",
+    short: "You are coming up on Crooksville, a village in Perry County, on Moxahala Creek, off State Route 93. About 2,418 people live here. The page calls it the Clay City, and also Potteryland. The box and the geography line both put the ground at 1.64 square miles, 1.62 of it land. They write the water two ways. I will not fight over that. The box puts the elevation at 771 feet. If you stay on the road, I'll start with two men and a post office.",
+    long: "",
+    names: ["Crooksville"]
+  },
+  {
+    id: "crooksville-crooks",
+    name: "Crooks",
+    lat: 39.7583,
+    lng: -82.0950,
+    radius: 50,
+    short: "The village's page says Jacob Reed, a young man from the East, came onto this timber with his wife Lydia sometime between 1820 and 1825. That is not the post office. In 1870 Joseph Crooks bought a strip by the railroad and opened a store. The nearest post offices were at McCluney and Roseville, and no mail route came through. He asked to be postmaster. Washington said yes, and then said the name could not be Reed's, because a Reeds post office already existed in Ohio. They suggested Crooksville. His son, Guy E. Crooks, wrote that the suggestion pleased his father. The encyclopedia says the place was founded around 1874, by the postal service, at the request of Reed and Crooks. The village's sign says established 1874. I will not make 1825, 1870, and 1874 one year. Both pages still say the town has thrived for 126 years. Counted from 1874, that sentence belongs to about the year 2000. I will not pretend it was written now.",
+    long: "",
+    names: ["Joseph Crooks"]
+  },
+  {
+    id: "crooksville-clay",
+    name: "Bluebird",
+    lat: 39.7590,
+    lng: -82.0935,
+    radius: 40,
+    short: "The same history says the ground held deep veins of clay and of coal, and that farms around the Reed land kept small kilns for everyday pottery. The kilns and the clay sat in buildings that were not heated, so the work ran from spring to fall. That is where the nickname bluebird potteries comes from. Reed gave the railroad a concession, and a spur came onto his land. He built a warehouse for grain and called it Reed Station. The freight train carried a passenger car, and it stopped when someone flagged it. The encyclopedia says this was the home of Hull pottery, one of the best known in Ohio. It does not, in the lines I have, give me the years. I will not invent them. A county page says the clay here is the finest in the world for certain work. That is the county page. I will not lock it.",
+    long: "",
+    names: ["Hull"]
+  },
+  {
+    id: "crooksville-count",
+    name: "The Count",
+    lat: 39.7575,
+    lng: -82.0965,
+    radius: 40,
+    short: "In 1894 the history puts the population at about 800, and says the people then took the steps to incorporate. The census table starts at 835 in 1900. I will not treat those as the same count. Its high line is 3,311 in 1920. It is 2,418 in 2020. The estimate for 2023 is 2,402. A map page says the high school's nickname is the Ceramics, and that the building went up in 1988. In the middle of town, a park is called Reed's Station, for the founder. I will not turn a park sign into a second history. The next town, when you want it, is Croton.",
+    long: "",
+    names: ["Crooksville"]
+  },
+
+  {
+    id: "approach-croton",
+    name: "Croton",
+    lat: 40.2200,
+    lng: -82.6880,
+    radius: 1500,
+    layer: "approach",
+    short: "You are coming up on a village the encyclopedia files under Hartford, in Hartford Township, Licking County. The mail calls it Croton. About 404 people live here. This is not Croton, New York. The box puts the ground at 0.54 square miles, 0.53 of it land. The geography line puts it at 0.55, and calls all of that land. I will not average them. The box puts the elevation at 1,175 feet. If you stay on the road, I'll start with why the two names are not a mistake I can explain.",
+    long: "",
+    names: ["Croton"]
+  },
+  {
+    id: "croton-hartford",
+    name: "Hartford",
+    lat: 40.2394,
+    lng: -82.6883,
+    radius: 40,
+    short: "The village was laid out in 1824. It was named for Hartford, Connecticut, the home of a share of the early settlers. The encyclopedia says the post office is named Croton, even though the village is named Hartford. It does not say why. I will not invent a railroad, or another Hartford, to fill that hole. A post from the county historical society adds a settler named Daniel Poppleton in 1812, and says the plat was made by Ezekiel Wells and a man it spells Elijah Durfery. I will not correct that spelling, and I will not lock the society's post against the encyclopedia.",
+    long: "",
+    names: ["Hartford"]
+  },
+  {
+    id: "croton-count",
+    name: "The Count",
+    lat: 40.2400,
+    lng: -82.6870,
+    radius: 30,
+    short: "The census table starts at 106 in 1840. Its high line is 455 in 1970. It is 404 in 2020. The estimate for 2023 is also 404. One compiler says the peak was 425 in 1990, and prints 401 for 2020. The encyclopedia does not. I will not use the compiler. A census profile counts 208 men and 196 women. That adds to 404. I will not turn the addition into a second population.",
+    long: "",
+    names: ["Hartford"]
+  },
+  {
+    id: "croton-fair",
+    name: "The Fair",
+    lat: 40.2385,
+    lng: -82.6900,
+    radius: 40,
+    short: "The same society post says a Hartford Independent Fair began in 1857, and that it stood in for the county fair during the Depression. It says a railroad arrived in 1880, and that the township had electric light by 1940. None of that is in the encyclopedia's history, which is one sentence about the name. I will not promote the post to the record. The next village, when you want it, is Crown City. When the list reaches the letter H, this Hartford is already done.",
+    long: "",
+    names: ["Croton"]
+  },
+
+  {
+    id: "approach-crown-city",
+    name: "Crown City",
+    lat: 38.5700,
+    lng: -82.2910,
+    radius: 2000,
+    layer: "approach",
+    short: "You are coming up on Crown City, a village in Guyan Township, Gallia County, on the Ohio River. State Route 7 runs through it. About 424 people live here. The box puts the ground at 1.20 square miles, 1.16 of it land. The geography line agrees on those two figures and writes the water a hair differently. I will not fight over the rounding. The box puts the elevation at 650 feet. The encyclopedia has no history section in the lines I have. If you stay on the road, I'll start with the names the place used before this one.",
+    long: "",
+    names: ["Crown City"]
+  },
+  {
+    id: "crown-city-names",
+    name: "The Names",
+    lat: 38.5900,
+    lng: -82.2911,
+    radius: 50,
+    short: "A local history says the ground, and at one time the post office, was called Bay's Bottom. A newspaper in Gallipolis, dated March 18, 1869, says the new town had been known as Hell's Half Acre. I will not make those one name. The same history says people wanted the post office called Crown Point, and could not, because another Crown Point already existed in Ohio. It says Crown City was the name that replaced it, and that the village then took the office's name. It dates a post office here to August 19, 1847, before any town, and it quotes a postmaster, W. A. Lainer, that the Crown City office began on May 2, 1870. I will not collapse those two dates. The encyclopedia does not explain the name at all.",
+    long: "",
+    names: ["Crown City"]
+  },
+  {
+    id: "crown-city-rankin",
+    name: "Rankin's Lots",
+    lat: 38.5910,
+    lng: -82.2900,
+    radius: 40,
+    short: "That 1869 paper says Hiram Rankin cut his farm into town lots, twenty-one miles below Gallipolis and thirty-nine from Ironton. It counts a Sabbath school, a church, and a flour mill, and it says the neighborhood had Greasy Ridge behind it and a grant for a pike. A paper in 1875 puts the town twenty-seven miles below Gallipolis and seventeen above Huntington, and it counts twenty inhabitants, a mill, three stores, a hotel, and three cooper shops. I will not average twenty-one miles with twenty-seven, and I will not reconcile twenty inhabitants with the census. A later compiler says the village was founded in 1869 and incorporated that same year, and also says it was incorporated in 1874. The local history says a Dr. Alcorn led the incorporation, and gives no date. I will not pick a year the pages do not share.",
+    long: "",
+    names: ["Hiram Rankin"]
+  },
+  {
+    id: "crown-city-count",
+    name: "The Count",
+    lat: 38.5890,
+    lng: -82.2925,
+    radius: 40,
+    short: "The census table starts at 248 in 1880. Its high line is 513 in 1980. It is 424 in 2020. The estimate for 2023 is 421. The page photographs a Wesleyan church on State Route 7. I will not turn the picture into a founding date. The next town, when you want it, is Cumberland.",
+    long: "",
+    names: ["Crown City"]
+  },
+
+  {
+    id: "approach-cumberland",
+    name: "Cumberland",
+    lat: 39.8350,
+    lng: -81.6590,
+    radius: 1500,
+    layer: "approach",
+    short: "You are coming up on Cumberland, a village in Spencer Township, Guernsey County, about seventy miles east of Columbus. About 317 people live here. This is not Cumberland, Maryland, and it is not the island the county is named for. The county page says Guernsey County takes its name from the Isle of Guernsey. This village's page does not. Both lines put the ground at 0.49 square miles, all land, and they write the metric two ways. I will not fight over that. The box puts the elevation at 860 feet. If you stay on the road, I'll start with a name the encyclopedia will not swear to.",
+    long: "",
+    names: ["Cumberland"]
+  },
+  {
+    id: "cumberland-road",
+    name: "The Road",
+    lat: 39.8533,
+    lng: -81.6586,
+    radius: 40,
+    short: "The village was platted in 1828. The encyclopedia says it most likely was named for the Cumberland Road. Most likely is the page's own hedge. I will not turn it into a fact, and I will not say the village sits on that road. A post office has been here since 1829. A county history, quoted on a map page, adds the day and the man. It says the plat was April 24, 1828, on section 32, township 9, range 10, by James Bay, and it calls this the third town in the county for trade. The encyclopedia does not name James Bay. I will not pretend it does.",
+    long: "",
+    names: ["Cumberland Road"]
+  },
+  {
+    id: "cumberland-count",
+    name: "The Count",
+    lat: 39.8540,
+    lng: -81.6575,
+    radius: 30,
+    short: "The census table starts at 431 in 1850. Its high line is 636 in 1920. It is 317 in 2020, which is back near the first line. The estimate for 2023 is 312. One compiler reprints 1990 as 345. The encyclopedia prints 318. For the year 2000 the same compiler prints 405 and the encyclopedia prints 402. I will not average them. For 2020 the compiler's men and women add to 317, which matches the encyclopedia. I will not turn that addition into a second count.",
+    long: "",
+    names: ["Cumberland"]
+  },
+  {
+    id: "cumberland-bank",
+    name: "The Bank",
+    lat: 39.8525,
+    lng: -81.6595,
+    radius: 30,
+    short: "The page photographs a former bank and post office. It does not date the building. I will not invent a year for a picture. The next town, when you want it, is Custar.",
+    long: "",
+    names: ["Cumberland"]
+  },
+
+  {
+    id: "approach-custar",
+    name: "Custar",
+    lat: 41.2700,
+    lng: -83.8440,
+    radius: 1200,
+    layer: "approach",
+    short: "You are coming up on Custar, a village in Milton Township, Wood County. About 178 people live here. A directory says the name is said KUS-ter. The spelling is Custar, not Custer. The encyclopedia does not say this place is named for the general, and I will not say it. The ground is 0.25 square miles, all land. The geography line agrees. If you stay on the road, I'll start with the name it had when it was platted.",
+    long: "",
+    names: ["Custar"]
+  },
+  {
+    id: "custar-lewis",
+    name: "Lewisburg",
+    lat: 41.2847,
+    lng: -83.8439,
+    radius: 40,
+    short: "The village was first called Lewisburg. Under that name it was platted in 1865, for Frederick Lewis, the proprietor. A post office called Custar has been open since 1866. The encyclopedia does not say why Lewisburg became Custar. I will not fill that hole with a railroad man or a soldier. The page photographs Defiance Street, in the middle of town. I will not say the street is named for the city of Defiance. It does not say that.",
+    long: "",
+    names: ["Frederick Lewis"]
+  },
+  {
+    id: "custar-incorp",
+    name: "Forty-One",
+    lat: 41.2852,
+    lng: -83.8430,
+    radius: 30,
+    short: "The encyclopedia says the village was incorporated in 1881, and stops there. A county line, quoted on a map page, says it was incorporated on August 16, 1881, on a petition signed by forty-one residents, presented to the commissioners on June 8 of that year. The printed line puts a star on the word June. I will not erase the star, and I will not pretend the encyclopedia named the day.",
+    long: "",
+    names: ["Custar"]
+  },
+  {
+    id: "custar-count",
+    name: "The Count",
+    lat: 41.2840,
+    lng: -83.8450,
+    radius: 30,
+    short: "The census table starts at 248 in 1880. Its high line is 345 in 1910. It is 178 in 2020. The estimate for 2023 is also 178. One compiler prints 193 for 1990. The encyclopedia prints 209. For the year 2000 the compiler prints 202 and the encyclopedia prints 208. The later years match. I will not average the ones that do not. In late 2019 three grain silos here caught fire and blew. The page does not give me a count of the hurt. I will not invent one. The next place is Cuyahoga Falls. That one is a city. It will not fit in a single paste.",
+    long: "",
+    names: ["Custar"]
+  },
+
+  {
+    id: "approach-cuyahoga-falls",
+    name: "Cuyahoga Falls",
+    lat: 41.1800,
+    lng: -81.5000,
+    radius: 6000,
+    layer: "approach",
+    short: "You are coming up on Cuyahoga Falls, the second-largest city in Summit County, directly north of Akron. About 51,114 people live here. The page says the river's name can be said ky-uh-HO-guh or ky-uh-HOG-uh. The box puts the ground at 25.92 square miles, 25.80 of it land. The geography line puts it at 25.75, with 25.65 of land. I will not average them. The box puts the elevation at 1,040 feet. This is the first paste. The city will take more. If you stay on the road, I'll start with the name it did not keep.",
+    long: "",
+    names: ["Cuyahoga Falls"]
+  },
+  {
+    id: "cuyahoga-falls-manchester",
+    name: "Manchester",
+    lat: 41.1456,
+    lng: -81.4967,
+    radius: 80,
+    short: "The encyclopedia says William Wetmore founded the place in 1812, and that it was first called Manchester. It sat near the corner of what were then Northampton, Stow, Tallmadge, and Portage townships. The city's own page says Wetmore was developing land owned by Judge Joshua Stow of Middletown, Connecticut. Wetmore's page says he was born in that same town in 1771, came to Ohio in 1804 as Stow's land agent, and died in 1827. A city code calls him Stow's cousin. The encyclopedia does not. The town was renamed Cuyahoga Falls because other Manchesters already existed in Ohio, at the post office's request. One page puts that change in 1826. Britannica puts it in 1828. I will not pick the year.",
+    long: "",
+    names: ["William Wetmore"]
+  },
+  {
+    id: "cuyahoga-falls-falls",
+    name: "The Falls",
+    lat: 41.1330,
+    lng: -81.4970,
+    radius: 100,
+    short: "The name is the Cuyahoga and a series of falls along the city's south edge. The city's page says those falls ran about two miles and fell farther than Niagara. That is the city's sentence. I will not treat it as a measurement. Britannica says the scenic Big Falls were wiped out by a dam built in 1912, and that the Little Falls are what remain, next to downtown. A city code says that dam was fifty-seven feet, built in the gorge by the Northern Ohio Traction and Light company, for water power. The river's name, Britannica says, was given by the Iroquois, and it may mean crooked water. May is the page's hedge.",
+    long: "",
+    names: ["Cuyahoga River"]
+  },
+  {
+    id: "cuyahoga-falls-mills",
+    name: "The Mills",
+    lat: 41.1400,
+    lng: -81.4900,
+    radius: 60,
+    short: "The encyclopedia says that in 1812 Kelsey and Wilcox built a dam, then a flour mill, an oil mill, and a sawmill. Wetmore's page names them Francis Kelsey and Isaac Wilcox, and says he gave them permission during the War of 1812. It says it is said the lumber went into ships the army built at the portage. It is said. I will not lock it. A city code puts a Kelsey and Wilcox grist mill at 1809, a year the other pages do not use. In 1825 Wetmore and Stow, who held 210 acres with Portage Trail as the south line, set their sons and thirty men to a new dam, a gristmill, a sawmill, and paper and linseed mills. The city code says that new dam flooded the older one and pulled the village south. The next paste is the year the county named this place its seat, and then took it back.",
+    long: "",
+    names: ["Francis Kelsey"]
+  },
+
+  {
+    id: "cuyahoga-falls-seat",
+    name: "The Seat",
+    lat: 41.1456,
+    lng: -81.4967,
+    radius: 80,
+    short: "In 1841 the Summit County commissioners named Cuyahoga Falls the county seat. The legislature stepped in and put the seat to a vote of the people. Akron won, and Akron has kept it. The encyclopedia says that even in the time it held the name, Cuyahoga Falls never really worked as the county seat. The pages I have do not give the vote count. I will not invent one.",
+    long: "",
+    names: ["Akron"]
+  },
+  {
+    id: "cuyahoga-falls-charter",
+    name: "The Charter",
+    lat: 41.1480,
+    lng: -81.4900,
+    radius: 60,
+    short: "The village proper was first laid out in 1826, by Judge Richardson. The town was incorporated in 1836, taking 240 rods out of Stow and Tallmadge townships. I will not turn rods into miles. The line is ambiguous. In March 1851 a township of the same name was cut from the village limits, and the two then covered the same ground. The village council adjourned sine die, which means it set no day to come back, and the township ran the place until the municipal government returned on June 3, 1868. One reading of the same history says 1853, not 1851. I will not average them. Britannica dates the village to 1868 and the city to 1920. That 1868 date is the return, not the first charter. A city code says the 1836 town had 375 people. The city's own page puts 375 people in 1834. I will not make those one year.",
+    long: "",
+    names: ["Cuyahoga Falls"]
+  },
+  {
+    id: "cuyahoga-falls-count",
+    name: "The Count",
+    lat: 41.1400,
+    lng: -81.5000,
+    radius: 50,
+    short: "The census table starts at 1,516 in 1860. In 1920 it jumps from 4,020 to 10,200. I will not say that jump is the city charter. The charter year is Britannica's, not the census. The high line is 51,114 in 2020. The table dips to 43,708 in 1980 and climbs back. One reading of the estimate is 50,742 for 2023. A later reading of the same kind of table prints 50,975 for 2025. I will not average them.",
+    long: "",
+    names: ["Cuyahoga Falls"]
+  },
+  {
+    id: "cuyahoga-falls-portage",
+    name: "The Portage",
+    lat: 41.1350,
+    lng: -81.4840,
+    radius: 70,
+    short: "A city code says Wetmore called the place Manchester because he wanted a mill town like the English city of that name. It sat near two older trails, a branch of the Mahoning trail and the Portage Path. That path left the Cuyahoga for the Tuscarawas, and the Tuscarawas runs to the Ohio. The city's page says people traveling the river from the lakes toward the Mississippi got out at the falls and used what is now Portage Trail. I will not stitch those two sentences into one map. The same city page says that by 1840 this town had a wider mix of mills than any other settlement in Ohio. That is the city's claim. The next paste is the bridges on that trail, which the record does not agree how to count.",
+    long: "",
+    names: ["Portage Path"]
+  },
+
+  {
+    id: "cuyahoga-falls-bridges",
+    name: "The Bridges",
+    lat: 41.1360,
+    lng: -81.4840,
+    radius: 50,
+    short: "A local history of Portage Trail says the first wooden bridge went up in 1836, when a linseed mill on the east bank needed a span. The writer says most people count only two bridges before the humpback that stands now. He says the ordinances show another one. I will not pick his count over the town's. The pages do not meet.",
+    long: "",
+    names: ["Portage Trail"]
+  },
+  {
+    id: "cuyahoga-falls-covered",
+    name: "No Smoking",
+    lat: 41.1370,
+    lng: -81.4820,
+    radius: 40,
+    short: "That same account says that in November of 1840 the Portage Street bridge was unsafe for a team of horses, and the marshal was told to close it. The next month the trustees put 330 dollars to William Beal and Henry Scott for a new wooden covered bridge. When it was done, they made it an offense to smoke while crossing. The writer calls that the town's first no-smoking law. His own list dates that covered bridge to 1840. One sentence of his article dates the second bridge to 1841. I will not average a month.",
+    long: "",
+    names: ["William Beal"]
+  },
+  {
+    id: "cuyahoga-falls-glens",
+    name: "High Bridge Glens",
+    lat: 41.1250,
+    lng: -81.4930,
+    radius: 70,
+    short: "High Bridge Glens and Caves opened in 1879, on both sides of the river, from Front and Prospect south toward where a power plant later stood. A university note says the Cleveland, Mount Vernon and Columbus railroad ran four express trains a day, and sixty cars, to a park with bands, rides, restaurants, and a swinging bridge onto the Chuckery Trail. That trail went to the Big Falls and a spot called Old Maid's Kitchen, then back up Front Street. A magazine, quoting a local historian, adds a dance hall, a merry-go-round, bowling, a shooting gallery, and a wooden ferry. It says the park is said to have had one of the first roller coasters in the country, a circular gravity railway. Said. I will not lock it. The same historian puts a summer day at ten thousand visitors, against a town of about twenty-five hundred. The census near those years is in that neighborhood. I will not pretend he cited it.",
+    long: "",
+    names: ["High Bridge Glens"]
+  },
+  {
+    id: "cuyahoga-falls-glens-end",
+    name: "The Close",
+    lat: 41.1190,
+    lng: -81.4960,
+    radius: 60,
+    short: "The university note says the park closed sometime around 1910. Sewage in the river spoiled the lower caves. Then a dam for the traction company's plant backed water into the gorge, covered trails, and cut the Chuckery Trail off from the Big Falls. The flood of 1913 took the stairs that were left. The magazine says the park closed in 1895, years before that dam and that flood. I will not make 1895 and 1910 the same ending. The same historian says Riverview Park opened in the gorge in 1919 and was gone by the early 1930s. The iron bridge on Portage Trail shows on an atlas by 1867. By 1969 it was failing. A city engineer named McCormick tried to save the stone and iron span. He lost. It came down in March of 1970. The next paste is the church on that trail. The year of its first building is not one year.",
+    long: "",
+    names: ["High Bridge Glens"]
+  },
+
+  {
+    id: "cuyahoga-falls-stjohns",
+    name: "St. John's",
+    lat: 41.1365,
+    lng: -81.4855,
+    radius: 40,
+    short: "St. John's Episcopal was organized in 1830. The city's page says William Wetmore did it, and that they met in a schoolhouse at Front and Wadsworth. A downtown history says the first building was a shared log cabin near Wetmore Park, in Stow, and that this is the oldest Episcopal church in Summit County. I will not make the schoolhouse and the cabin the same room. The city's page says construction then started at the present site, Portage Trail and Second Street. It does not give that year.",
+    long: "",
+    names: ["William Wetmore"]
+  },
+  {
+    id: "cuyahoga-falls-church-square",
+    name: "Church Square",
+    lat: 41.1355,
+    lng: -81.4835,
+    radius: 40,
+    short: "The downtown history says the white frame church of 1835 was the first church in Church Square, on land Joshua Stow gave. A library catalog, under a photograph made sometime between about 1885 and 1900, says the church building was dedicated in 1836. I will not turn built and dedicated into one year, and I will not hang that dedication on the stone church that stands now. The same downtown page puts a bandstand about mid-block on Portage Trail in 1901. It does not say the stand is still there.",
+    long: "",
+    names: ["Joshua Stow"]
+  },
+  {
+    id: "cuyahoga-falls-wesleyans",
+    name: "The Wesleyans",
+    lat: 41.1345,
+    lng: -81.4820,
+    radius: 40,
+    short: "In 1846 a wood frame went up just north of the church, facing Second Street. The page says it was built by people who left the Methodist Episcopal church and called themselves Wesleyans. They soon broke up. About 1857 the building was sold to the school directors for a high school. In 1872 a new high school went up on Germaine Street, and the older rooms were used for the lower grades. The page calls that the old West Side school, and also the Lyceum. I will not decide which name won.",
+    long: "",
+    names: ["Cuyahoga Falls"]
+  },
+  {
+    id: "cuyahoga-falls-gothic",
+    name: "The Stone Church",
+    lat: 41.1335,
+    lng: -81.4848,
+    radius: 40,
+    short: "The downtown page says a frame church of 1846 was taken down in 1907 to clear the way for the late Gothic stone church of 1908 and 1909, the one that stands. The same page already used 1846 for the Wesleyan building that became a school. I will not make those one building. A parish wing went on the north in 1927. The south entry went on in 1958. The windows run from 1910 to 1967. The page says the building sits in the National Register and in the city's own downtown district. It does not give the year of the listing. The next paste is the house Wetmore built on Front at Portage Trail. It became a hotel, and the page does not say when.",
+    long: "",
+    names: ["St. John's Episcopal Church"]
+  },
+
+  {
+    id: "cuyahoga-falls-wetmore-house",
+    name: "The Corner",
+    lat: 41.1358,
+    lng: -81.4815,
+    radius: 40,
+    short: "The city's page says William Wetmore built his house at Front Street and Portage Trail, and that a short time later it was a hotel called the Perry House and the Clifford Inn. It gives no year. A history written for the Cuyahoga Falls Historical Society puts the building on the northwest corner, and says William Wetmore junior built it about 1826, as a store and a house. The founder and the son are not the same man. I will not pick which Wetmore. A short time later cannot be the 1880s, which is when those hotel names actually show up. I will not sand that down.",
+    long: "",
+    names: ["William Wetmore"]
+  },
+  {
+    id: "cuyahoga-falls-hotel-names",
+    name: "The Names",
+    lat: 41.1352,
+    lng: -81.4808,
+    radius: 40,
+    short: "The society's list says the building was stretched along Portage Trail from Front to Second, and used as a hotel and a stage stop. It starts as the American House, under Benjamin F. Hopkins, and the list of keepers after him is longer than I will read. Then the Upson, under Philo B. Upson, from 1869 to 1871. Then the Perry House, under John Perry, listed from 1881 to 1885. Then the Clifford House, also called the Clifford Inn, under George Marvin, listed from the late 1880s into 1902. A library catalog says the inn opened in the late 1880s and was owned by Marvin. That dates the name. It does not date the walls. I will not pretend it does.",
+    long: "",
+    names: ["John Perry"]
+  },
+  {
+    id: "cuyahoga-falls-clifford",
+    name: "The Clifford",
+    lat: 41.1346,
+    lng: -81.4818,
+    radius: 40,
+    short: "The society says the house was in business about a hundred and twenty years. In the good years, actors and musicians stayed there when they played a stage nearby called the Apollo Hall. The page does not tell me what the Apollo was beyond that. It says the hotel caught fire more than once in the late 1800s, was patched, and reopened. It does not date those fires. By the early 1940s the same account says the building was old and losing out to newer hotels. The extract I have stops there. I will not say when it came down.",
+    long: "",
+    names: ["Clifford Inn"]
+  },
+  {
+    id: "cuyahoga-falls-newbery",
+    name: "Newbery",
+    lat: 41.1338,
+    lng: -81.4795,
+    radius: 40,
+    short: "On that same city page, the first mayor is Henry Newbery, elected April 4, 1837. The same year a volunteer fire company was formed, and the page says it stayed volunteer until 1927. The first drugstore, the Heath, is on the page too, on Front near Portage, opened in the 1800s. No year. I will not invent one. The next paste is still on Front Street. The afternoon of July 31, 1940, near Hudson Drive, a one-car train called the Doodlebug was hit by a freight. The city's page gives a death count. I will not lock it until a second page is willing to say the same number.",
+    long: "",
+    names: ["Henry Newbery"]
+  },
+
+  {
+    id: "cuyahoga-falls-doodlebug",
+    name: "The Doodlebug",
+    lat: 41.1453,
+    lng: -81.4733,
+    radius: 50,
+    short: "On the afternoon of July 31, 1940, a Pennsylvania Railroad gasoline car, the kind this town called a doodlebug, was on the run from Hudson down to Akron. At Front Street and Hudson Drive it met a freight. The city's page says 43 passengers died. The encyclopedia says 46 people were on the car, three of them jumped, and everyone else on board died, which is the same 43. A catalog of the Interstate Commerce Commission report says the same 43, and says the gasoline tank blew. A paper that week says the coroner, R. E. Amos, first counted 41 and then added two. The same paper says a 44th death was laid to the crash. It does not give me the name. I will not pick 43 or 44.",
+    long: "",
+    names: ["Pennsylvania Railroad"]
+  },
+  {
+    id: "cuyahoga-falls-silver-lake",
+    name: "Silver Lake",
+    lat: 41.1475,
+    lng: -81.4715,
+    radius: 50,
+    short: "The encyclopedia says the car left Hudson at 5:49 in the evening, on a run it calls 13 miles. A paper that week calls the same line 15 miles from Hudson to Akron. I will not average them. The car had orders to wait on a siding at Silver Lake and let the freight pass. It did not take the siding. The paper quotes a man named Smith, saying the crew also rolled on without permission from the block operator at Hudson, and that the freight crew was not at fault. The encyclopedia times the hit at 5:58, and puts the combined speed still at 55 miles an hour. It says the freight was two locomotives, 73 cars, and a caboose, bound from Columbus toward Cleveland. A German retelling of the same wreck says one locomotive. I will not pick.",
+    long: "",
+    names: ["Silver Lake"]
+  },
+  {
+    id: "cuyahoga-falls-doodlebug-fire",
+    name: "The Fire",
+    lat: 41.1435,
+    lng: -81.4750,
+    radius: 50,
+    short: "The three who jumped were the engineer, the conductor, and another railroad man. They lived, and they were hurt. The encyclopedia says the lead engine went 12 feet into the car, the 350-gallon gasoline tank split, and the freight shoved the burning car more than 500 feet. Flames shot about 25 feet. The medical examiner said only nine people were killed by the blow. The rest burned. Firemen fought it for 45 minutes. The bodies took hours. I will not add a detail past that.",
+    long: "",
+    names: ["Doodlebug"]
+  },
+  {
+    id: "cuyahoga-falls-doodlebug-cause",
+    name: "The Cause",
+    lat: 41.1418,
+    lng: -81.4765,
+    radius: 50,
+    short: "The encyclopedia's own cause line says the crew failed to obey orders, possibly because of carbon monoxide. Possibly is the page's word. The commission catalog I have does not say carbon monoxide. I will not move that word onto a report I have not read. A German page says there is a memorial stone near the site. It does not say what the stone reads. The next paste is a quieter one. On January 1, 1986, this city and Northampton Township merged. The city's page says they were the first in Ohio to do that by a vote of the people. I do not have the tally yet.",
+    long: "",
+    names: ["Cuyahoga Falls"]
+  },
+
+  {
+    id: "approach-craig-beach",
+    name: "Craig Beach",
+    lat: 41.1000,
+    lng: -80.9800,
+    radius: 2000,
+    layer: "approach",
+    short: "You are coming up on Craig Beach, a village in Milton Township, Mahoning County, on the shore of Lake Milton. About 1,076 people live here. It sits in the Youngstown and Warren area. The box puts the village at 1.57 square miles, and it splits that almost in half, 0.78 land and 0.78 water. This is a lake town, not an ocean beach. The federal names file still tags the point as unincorporated, and it dates the incorporation to 1932. The encyclopedia calls it a village, and dates the incorporation to 1931. I will not average those. If you stay on the road, I'll start with the dam.",
+    long: "",
+    names: ["Craig Beach"]
+  },
+  {
+    id: "craig-beach-dam",
+    name: "The Dam",
+    lat: 41.1170,
+    lng: -80.9834,
+    radius: 60,
+    short: "In 1910 the city of Youngstown bought 3,416 acres along the Mahoning, in Milton Township. The encyclopedia says the plan was a water supply, a dam 2,800 feet long, holding 1,640 acres. A later account says the water was to cool the steel, and to hold a flood. I will not make those one purpose. Ward Craig, an entertainer, opened Craig's Landing so people could watch the dam go up. It became a stand for food and drink, a place to swim, docks for boats, and tables for a picnic. I do not have the year the dam was finished. I will not invent it.",
+    long: "",
+    names: ["Ward Craig"]
+  },
+  {
+    id: "craig-beach-martin",
+    name: "The Dance Hall",
+    lat: 41.1180,
+    lng: -80.9820,
+    radius: 40,
+    short: "In 1922 Craig formed a company and built an amusement park on the new lake. Rides, a dance hall, cottages to rent. The state's page adds a merry-go-round, a Ferris wheel, a ride called the Caterpillar, a penny arcade, and a lot for 3,000 cars. It also says Craig later pulled out of the company he started. Big bands played the hall in the 1930s. The encyclopedia says a singer who became Dean Martin got his start there. Another account says a man still called Crocetti took a dare and sang Oh Marie. I will not pick which telling is the start. The park's page says the village incorporated in 1931 so the hall could stay open on Sunday. A different page gives that Sunday fight to the mayor of Lake Milton, a woman named Pennola Jones. I will not make her the mayor of this village.",
+    long: "",
+    names: ["Dean Martin"]
+  },
+  {
+    id: "craig-beach-park",
+    name: "The Empty Midway",
+    lat: 41.1160,
+    lng: -80.9850,
+    radius: 50,
+    short: "The state's page says about ten families stayed through the winter, and that summer filled more than 500 cottages. That is not a census. The encyclopedia says the amusement park was closed by 1966. In 1986 Youngstown could not keep the dam, and the state took the lake. The reservoir was drained to fix the dam. In 1988 Lake Milton was dedicated as Ohio's 72nd state park. The midway is gone. What the state's page says is left is a marker about the dance hall. The estimate for 2023 is 1,063. I will not explain the drop from 1,076. The next town, when you want it, is Crestline.",
+    long: "",
+    names: ["Craig Beach"]
+  },
+
+  {
+    id: "approach-crestline",
+    name: "Crestline",
+    lat: 40.7600,
+    lng: -82.7600,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Crestline, a village in Jackson, Jefferson, and Sandusky townships. Most of it is in Crawford County. A small piece crosses into Richland. About 4,525 people live here. It is the third largest municipality in Crawford County. The lead calls it a village. One geography line calls it a city. I will not. The box puts it at 3.40 square miles, almost all land. The geography line puts it at 3.18. I will not average them. It sits near the headwaters of the Sandusky River. State Route 61 crosses the tracks in town. If you stay on the road, I'll start with the station, not the houses.",
+    long: "",
+    names: ["Crestline"]
+  },
+  {
+    id: "crestline-beeline",
+    name: "The Bee Line",
+    lat: 40.7822,
+    lng: -82.7597,
+    radius: 60,
+    short: "The village's page says the railroad came first. In 1850 the Cleveland, Columbus and Cincinnati, called the Bee Line, needed a stop between Shelby and Galion, thirteen miles with no town between them. The station went where the line crossed the Leesville road. The box says founded in 1851. The history says platted in 1852. A compiler says the post office opened in 1854. I will not make those one year. A journalist named J. A. Crever wrote that he found houses where, a few months before, it had been woods and fields. He counted two stores, five groceries, two steam sawmills, boot and shoe shops, mechanic shops, and a tavern. I do not have the year he came.",
+    long: "",
+    names: ["Crestline"]
+  },
+  {
+    id: "crestline-name",
+    name: "Crest Line",
+    lat: 40.7830,
+    lng: -82.7580,
+    radius: 40,
+    short: "Early settlers thought this was the watershed of the state. Water to the north ran to Lake Erie. Water to the south ran to the Ohio River. They called it Crest Line, two words. The village's page says the town was not on that line, and the name stuck anyway, and later became one word. The encyclopedia says it was just north of the divide, not on it. The same article also says people once thought this was the highest point in Ohio, and that the name came from the height. I will not say that it was. The box puts the ground at 1,152 feet. That is not a claim to be the highest.",
+    long: "",
+    names: ["Crestline"]
+  },
+  {
+    id: "crestline-lincoln",
+    name: "Four Seven",
+    lat: 40.7815,
+    lng: -82.7610,
+    radius: 50,
+    short: "After Abraham Lincoln was killed, a funeral train carried his body from Washington toward Springfield, Illinois. It left Washington on April 21, 1865, at half past noon, and the encyclopedia puts the distance at 1,654 miles. It reached Springfield on May 3. The same page records a stop here on April 29, 1865, at 4:07 in the morning. A later account says the train passed through. I will not add a crowd on the platform. In its railroad years this was a division point on the Pennsylvania line toward Fort Wayne and Chicago. The New York Central crossed that line here. The village's page says both railroads are still active. I do not have the older census table in front of me. I will not crown a year from a compiler. The next town, when you want it, is Creston.",
+    long: "",
+    names: ["Abraham Lincoln"]
+  },
+
+  {
+    id: "approach-creston",
+    name: "Creston",
+    lat: 40.9600,
+    lng: -81.9000,
+    radius: 2000,
+    layer: "approach",
+    short: "You are coming up on Creston, a village in Wayne County and Medina County. About 2,139 people live here. This is not Crestline. The encyclopedia does not say the name came from that other town, and I will not say it did. The box puts the ground at 2.19 square miles, all land. The geography line puts it at 2.26, also all land. I will not average them. The box puts the elevation at 991 feet. If you stay on the road, I'll start with the name it used first.",
+    long: "",
+    names: ["Creston"]
+  },
+  {
+    id: "creston-pike",
+    name: "Pike Station",
+    lat: 40.9767,
+    lng: -81.9000,
+    radius: 50,
+    short: "The encyclopedia says the place started in the 1860s, when a railroad was extended to this point. It does not name the railroad. An old name was Pike Station. A post office under that name opened in 1865. The name was changed to Creston in 1881. A later compiler says Isaac Wells plotted a map in 1870, that the place was named in 1880, and that it incorporated on June 2, 1899, with a mayor named Warden Wheeler. The same compiler also says the name year was 1881. I will not pick between the compiler and itself, and I will not lock any of that against the encyclopedia, which does not give an incorporation date. The pages I trust do not say why Pike Station became Creston.",
+    long: "",
+    names: ["Creston"]
+  },
+  {
+    id: "creston-count",
+    name: "The Count",
+    lat: 40.9775,
+    lng: -81.8985,
+    radius: 40,
+    short: "The census table starts at 584 in 1890. There is no line before that. Its high line is 2,171 in 2010. It is 2,139 in 2020. The estimate for 2023 is 2,138. One compiler reprints the same decades and does not match. It prints 1,995 for the year 2000. The encyclopedia prints 2,161. For 2020 that compiler's own addition of men and women comes to 2,139, while its headline prints 2,136. I will not average any of it. Another line prints 2,144 for 2023. I will not use that either.",
+    long: "",
+    names: ["Creston"]
+  },
+  {
+    id: "creston-lines",
+    name: "The Lines",
+    lat: 40.9755,
+    lng: -81.9015,
+    radius: 40,
+    short: "A later compiler lists three railroads through here, and a trolley from Cleveland to Wooster, and says one of the lines stopped in 1980. The encyclopedia does not name them. I will not put a company on the map that the main page does not name. I also will not repeat a story that this was first called Seville Station. That is the compiler again, and it is not in the encyclopedia. The next town, when you want it, is Cridersville.",
+    long: "",
+    names: ["Creston"]
+  },
+
+  {
+    id: "approach-cridersville",
+    name: "Cridersville",
+    lat: 40.6300,
+    lng: -84.1400,
+    radius: 2000,
+    layer: "approach",
+    short: "You are coming up on Cridersville, a village in Duchouquet Township, Auglaize County. It sits about halfway between Lima and Wapakoneta, and it touches Shawnee Township in Allen County. About 1,791 people live here. The page says the name is said CRY-ders-ville. The box puts the ground at 1.20 square miles, all land. The geography line puts it at 0.90, also all land. I will not average them. The box puts the elevation at 902 feet. If you stay on the road, I'll start with the family the name comes from.",
+    long: "",
+    names: ["Cridersville"]
+  },
+  {
+    id: "cridersville-crider",
+    name: "The Criders",
+    lat: 40.6541,
+    lng: -84.1392,
+    radius: 40,
+    short: "A marker on East Main Street says Ephraim and Polly Crider and their family founded the town in 1856. They platted it on the line the Dayton and Michigan Railroad was about to build. The marker says the railroad was finished in 1858, and then the village grew. A station let farmers ship extra crops and livestock, and let goods come in. Stores opened on Main Street. That is the marker. A later compiler adds an arrival in 1854, eighty acres, and an incorporation in 1903. The marker does not. I will not lock the compiler.",
+    long: "",
+    names: ["Ephraim Crider"]
+  },
+  {
+    id: "cridersville-school",
+    name: "The School",
+    lat: 40.6535,
+    lng: -84.1380,
+    radius: 30,
+    short: "The same marker says that by 1866 the town needed a school. The first one was a single room, on East Main Street, half a block west of a place now called Legacy Park. Ephraim Crider and a man named N. A. Murdock gave the land. It taught the children until 1875, when a two-story brick school, four rooms, went up on South Waverly Street. I will not add a count of the pupils. I do not have one.",
+    long: "",
+    names: ["Cridersville"]
+  },
+  {
+    id: "cridersville-count",
+    name: "The Count",
+    lat: 40.6550,
+    lng: -84.1405,
+    radius: 40,
+    short: "The census table starts at 167 in 1870. Its high line is 1,885 in 1990. It is 1,791 in 2020. The estimate for 2023 is 1,746. One compiler reprints the later years and does not match. It prints 1,906 for the year 2000. The encyclopedia prints 1,817. For 2020 that compiler's men and women add to 1,791, while its headline prints 1,796. I will not average them. The next town, when you want it, is Crooksville.",
+    long: "",
+    names: ["Cridersville"]
+  },
+
+  {
+    id: "approach-crooksville",
+    name: "Crooksville",
+    lat: 39.7400,
+    lng: -82.0950,
+    radius: 2000,
+    layer: "approach",
+    short: "You are coming up on Crooksville, a village in Perry County, on Moxahala Creek, off State Route 93. About 2,418 people live here. The page calls it the Clay City, and also Potteryland. The box and the geography line both put the ground at 1.64 square miles, 1.62 of it land. They write the water two ways. I will not fight over that. The box puts the elevation at 771 feet. If you stay on the road, I'll start with two men and a post office.",
+    long: "",
+    names: ["Crooksville"]
+  },
+  {
+    id: "crooksville-crooks",
+    name: "Crooks",
+    lat: 39.7583,
+    lng: -82.0950,
+    radius: 50,
+    short: "The village's page says Jacob Reed, a young man from the East, came onto this timber with his wife Lydia sometime between 1820 and 1825. That is not the post office. In 1870 Joseph Crooks bought a strip by the railroad and opened a store. The nearest post offices were at McCluney and Roseville, and no mail route came through. He asked to be postmaster. Washington said yes, and then said the name could not be Reed's, because a Reeds post office already existed in Ohio. They suggested Crooksville. His son, Guy E. Crooks, wrote that the suggestion pleased his father. The encyclopedia says the place was founded around 1874, by the postal service, at the request of Reed and Crooks. The village's sign says established 1874. I will not make 1825, 1870, and 1874 one year. Both pages still say the town has thrived for 126 years. Counted from 1874, that sentence belongs to about the year 2000. I will not pretend it was written now.",
+    long: "",
+    names: ["Joseph Crooks"]
+  },
+  {
+    id: "crooksville-clay",
+    name: "Bluebird",
+    lat: 39.7590,
+    lng: -82.0935,
+    radius: 40,
+    short: "The same history says the ground held deep veins of clay and of coal, and that farms around the Reed land kept small kilns for everyday pottery. The kilns and the clay sat in buildings that were not heated, so the work ran from spring to fall. That is where the nickname bluebird potteries comes from. Reed gave the railroad a concession, and a spur came onto his land. He built a warehouse for grain and called it Reed Station. The freight train carried a passenger car, and it stopped when someone flagged it. The encyclopedia says this was the home of Hull pottery, one of the best known in Ohio. It does not, in the lines I have, give me the years. I will not invent them. A county page says the clay here is the finest in the world for certain work. That is the county page. I will not lock it.",
+    long: "",
+    names: ["Hull"]
+  },
+  {
+    id: "crooksville-count",
+    name: "The Count",
+    lat: 39.7575,
+    lng: -82.0965,
+    radius: 40,
+    short: "In 1894 the history puts the population at about 800, and says the people then took the steps to incorporate. The census table starts at 835 in 1900. I will not treat those as the same count. Its high line is 3,311 in 1920. It is 2,418 in 2020. The estimate for 2023 is 2,402. A map page says the high school's nickname is the Ceramics, and that the building went up in 1988. In the middle of town, a park is called Reed's Station, for the founder. I will not turn a park sign into a second history. The next town, when you want it, is Croton.",
+    long: "",
+    names: ["Crooksville"]
+  },
+
+  {
+    id: "approach-croton",
+    name: "Croton",
+    lat: 40.2200,
+    lng: -82.6880,
+    radius: 1500,
+    layer: "approach",
+    short: "You are coming up on a village the encyclopedia files under Hartford, in Hartford Township, Licking County. The mail calls it Croton. About 404 people live here. This is not Croton, New York. The box puts the ground at 0.54 square miles, 0.53 of it land. The geography line puts it at 0.55, and calls all of that land. I will not average them. The box puts the elevation at 1,175 feet. If you stay on the road, I'll start with why the two names are not a mistake I can explain.",
+    long: "",
+    names: ["Croton"]
+  },
+  {
+    id: "croton-hartford",
+    name: "Hartford",
+    lat: 40.2394,
+    lng: -82.6883,
+    radius: 40,
+    short: "The village was laid out in 1824. It was named for Hartford, Connecticut, the home of a share of the early settlers. The encyclopedia says the post office is named Croton, even though the village is named Hartford. It does not say why. I will not invent a railroad, or another Hartford, to fill that hole. A post from the county historical society adds a settler named Daniel Poppleton in 1812, and says the plat was made by Ezekiel Wells and a man it spells Elijah Durfery. I will not correct that spelling, and I will not lock the society's post against the encyclopedia.",
+    long: "",
+    names: ["Hartford"]
+  },
+  {
+    id: "croton-count",
+    name: "The Count",
+    lat: 40.2400,
+    lng: -82.6870,
+    radius: 30,
+    short: "The census table starts at 106 in 1840. Its high line is 455 in 1970. It is 404 in 2020. The estimate for 2023 is also 404. One compiler says the peak was 425 in 1990, and prints 401 for 2020. The encyclopedia does not. I will not use the compiler. A census profile counts 208 men and 196 women. That adds to 404. I will not turn the addition into a second population.",
+    long: "",
+    names: ["Hartford"]
+  },
+  {
+    id: "croton-fair",
+    name: "The Fair",
+    lat: 40.2385,
+    lng: -82.6900,
+    radius: 40,
+    short: "The same society post says a Hartford Independent Fair began in 1857, and that it stood in for the county fair during the Depression. It says a railroad arrived in 1880, and that the township had electric light by 1940. None of that is in the encyclopedia's history, which is one sentence about the name. I will not promote the post to the record. The next village, when you want it, is Crown City. When the list reaches the letter H, this Hartford is already done.",
+    long: "",
+    names: ["Croton"]
+  },
+
+  {
+    id: "approach-crown-city",
+    name: "Crown City",
+    lat: 38.5700,
+    lng: -82.2910,
+    radius: 2000,
+    layer: "approach",
+    short: "You are coming up on Crown City, a village in Guyan Township, Gallia County, on the Ohio River. State Route 7 runs through it. About 424 people live here. The box puts the ground at 1.20 square miles, 1.16 of it land. The geography line agrees on those two figures and writes the water a hair differently. I will not fight over the rounding. The box puts the elevation at 650 feet. The encyclopedia has no history section in the lines I have. If you stay on the road, I'll start with the names the place used before this one.",
+    long: "",
+    names: ["Crown City"]
+  },
+  {
+    id: "crown-city-names",
+    name: "The Names",
+    lat: 38.5900,
+    lng: -82.2911,
+    radius: 50,
+    short: "A local history says the ground, and at one time the post office, was called Bay's Bottom. A newspaper in Gallipolis, dated March 18, 1869, says the new town had been known as Hell's Half Acre. I will not make those one name. The same history says people wanted the post office called Crown Point, and could not, because another Crown Point already existed in Ohio. It says Crown City was the name that replaced it, and that the village then took the office's name. It dates a post office here to August 19, 1847, before any town, and it quotes a postmaster, W. A. Lainer, that the Crown City office began on May 2, 1870. I will not collapse those two dates. The encyclopedia does not explain the name at all.",
+    long: "",
+    names: ["Crown City"]
+  },
+  {
+    id: "crown-city-rankin",
+    name: "Rankin's Lots",
+    lat: 38.5910,
+    lng: -82.2900,
+    radius: 40,
+    short: "That 1869 paper says Hiram Rankin cut his farm into town lots, twenty-one miles below Gallipolis and thirty-nine from Ironton. It counts a Sabbath school, a church, and a flour mill, and it says the neighborhood had Greasy Ridge behind it and a grant for a pike. A paper in 1875 puts the town twenty-seven miles below Gallipolis and seventeen above Huntington, and it counts twenty inhabitants, a mill, three stores, a hotel, and three cooper shops. I will not average twenty-one miles with twenty-seven, and I will not reconcile twenty inhabitants with the census. A later compiler says the village was founded in 1869 and incorporated that same year, and also says it was incorporated in 1874. The local history says a Dr. Alcorn led the incorporation, and gives no date. I will not pick a year the pages do not share.",
+    long: "",
+    names: ["Hiram Rankin"]
+  },
+  {
+    id: "crown-city-count",
+    name: "The Count",
+    lat: 38.5890,
+    lng: -82.2925,
+    radius: 40,
+    short: "The census table starts at 248 in 1880. Its high line is 513 in 1980. It is 424 in 2020. The estimate for 2023 is 421. The page photographs a Wesleyan church on State Route 7. I will not turn the picture into a founding date. The next town, when you want it, is Cumberland.",
+    long: "",
+    names: ["Crown City"]
+  },
+
+  {
+    id: "approach-cumberland",
+    name: "Cumberland",
+    lat: 39.8350,
+    lng: -81.6590,
+    radius: 1500,
+    layer: "approach",
+    short: "You are coming up on Cumberland, a village in Spencer Township, Guernsey County, about seventy miles east of Columbus. About 317 people live here. This is not Cumberland, Maryland, and it is not the island the county is named for. The county page says Guernsey County takes its name from the Isle of Guernsey. This village's page does not. Both lines put the ground at 0.49 square miles, all land, and they write the metric two ways. I will not fight over that. The box puts the elevation at 860 feet. If you stay on the road, I'll start with a name the encyclopedia will not swear to.",
+    long: "",
+    names: ["Cumberland"]
+  },
+  {
+    id: "cumberland-road",
+    name: "The Road",
+    lat: 39.8533,
+    lng: -81.6586,
+    radius: 40,
+    short: "The village was platted in 1828. The encyclopedia says it most likely was named for the Cumberland Road. Most likely is the page's own hedge. I will not turn it into a fact, and I will not say the village sits on that road. A post office has been here since 1829. A county history, quoted on a map page, adds the day and the man. It says the plat was April 24, 1828, on section 32, township 9, range 10, by James Bay, and it calls this the third town in the county for trade. The encyclopedia does not name James Bay. I will not pretend it does.",
+    long: "",
+    names: ["Cumberland Road"]
+  },
+  {
+    id: "cumberland-count",
+    name: "The Count",
+    lat: 39.8540,
+    lng: -81.6575,
+    radius: 30,
+    short: "The census table starts at 431 in 1850. Its high line is 636 in 1920. It is 317 in 2020, which is back near the first line. The estimate for 2023 is 312. One compiler reprints 1990 as 345. The encyclopedia prints 318. For the year 2000 the same compiler prints 405 and the encyclopedia prints 402. I will not average them. For 2020 the compiler's men and women add to 317, which matches the encyclopedia. I will not turn that addition into a second count.",
+    long: "",
+    names: ["Cumberland"]
+  },
+  {
+    id: "cumberland-bank",
+    name: "The Bank",
+    lat: 39.8525,
+    lng: -81.6595,
+    radius: 30,
+    short: "The page photographs a former bank and post office. It does not date the building. I will not invent a year for a picture. The next town, when you want it, is Custar.",
+    long: "",
+    names: ["Cumberland"]
+  },
+
+  {
+    id: "approach-custar",
+    name: "Custar",
+    lat: 41.2700,
+    lng: -83.8440,
+    radius: 1200,
+    layer: "approach",
+    short: "You are coming up on Custar, a village in Milton Township, Wood County. About 178 people live here. A directory says the name is said KUS-ter. The spelling is Custar, not Custer. The encyclopedia does not say this place is named for the general, and I will not say it. The ground is 0.25 square miles, all land. The geography line agrees. If you stay on the road, I'll start with the name it had when it was platted.",
+    long: "",
+    names: ["Custar"]
+  },
+  {
+    id: "custar-lewis",
+    name: "Lewisburg",
+    lat: 41.2847,
+    lng: -83.8439,
+    radius: 40,
+    short: "The village was first called Lewisburg. Under that name it was platted in 1865, for Frederick Lewis, the proprietor. A post office called Custar has been open since 1866. The encyclopedia does not say why Lewisburg became Custar. I will not fill that hole with a railroad man or a soldier. The page photographs Defiance Street, in the middle of town. I will not say the street is named for the city of Defiance. It does not say that.",
+    long: "",
+    names: ["Frederick Lewis"]
+  },
+  {
+    id: "custar-incorp",
+    name: "Forty-One",
+    lat: 41.2852,
+    lng: -83.8430,
+    radius: 30,
+    short: "The encyclopedia says the village was incorporated in 1881, and stops there. A county line, quoted on a map page, says it was incorporated on August 16, 1881, on a petition signed by forty-one residents, presented to the commissioners on June 8 of that year. The printed line puts a star on the word June. I will not erase the star, and I will not pretend the encyclopedia named the day.",
+    long: "",
+    names: ["Custar"]
+  },
+  {
+    id: "custar-count",
+    name: "The Count",
+    lat: 41.2840,
+    lng: -83.8450,
+    radius: 30,
+    short: "The census table starts at 248 in 1880. Its high line is 345 in 1910. It is 178 in 2020. The estimate for 2023 is also 178. One compiler prints 193 for 1990. The encyclopedia prints 209. For the year 2000 the compiler prints 202 and the encyclopedia prints 208. The later years match. I will not average the ones that do not. In late 2019 three grain silos here caught fire and blew. The page does not give me a count of the hurt. I will not invent one. The next place is Cuyahoga Falls. That one is a city. It will not fit in a single paste.",
+    long: "",
+    names: ["Custar"]
+  },
+
+  {
+    id: "approach-cuyahoga-falls",
+    name: "Cuyahoga Falls",
+    lat: 41.1800,
+    lng: -81.5000,
+    radius: 6000,
+    layer: "approach",
+    short: "You are coming up on Cuyahoga Falls, the second-largest city in Summit County, directly north of Akron. About 51,114 people live here. The page says the river's name can be said ky-uh-HO-guh or ky-uh-HOG-uh. The box puts the ground at 25.92 square miles, 25.80 of it land. The geography line puts it at 25.75, with 25.65 of land. I will not average them. The box puts the elevation at 1,040 feet. This is the first paste. The city will take more. If you stay on the road, I'll start with the name it did not keep.",
+    long: "",
+    names: ["Cuyahoga Falls"]
+  },
+  {
+    id: "cuyahoga-falls-manchester",
+    name: "Manchester",
+    lat: 41.1456,
+    lng: -81.4967,
+    radius: 80,
+    short: "The encyclopedia says William Wetmore founded the place in 1812, and that it was first called Manchester. It sat near the corner of what were then Northampton, Stow, Tallmadge, and Portage townships. The city's own page says Wetmore was developing land owned by Judge Joshua Stow of Middletown, Connecticut. Wetmore's page says he was born in that same town in 1771, came to Ohio in 1804 as Stow's land agent, and died in 1827. A city code calls him Stow's cousin. The encyclopedia does not. The town was renamed Cuyahoga Falls because other Manchesters already existed in Ohio, at the post office's request. One page puts that change in 1826. Britannica puts it in 1828. I will not pick the year.",
+    long: "",
+    names: ["William Wetmore"]
+  },
+  {
+    id: "cuyahoga-falls-falls",
+    name: "The Falls",
+    lat: 41.1330,
+    lng: -81.4970,
+    radius: 100,
+    short: "The name is the Cuyahoga and a series of falls along the city's south edge. The city's page says those falls ran about two miles and fell farther than Niagara. That is the city's sentence. I will not treat it as a measurement. Britannica says the scenic Big Falls were wiped out by a dam built in 1912, and that the Little Falls are what remain, next to downtown. A city code says that dam was fifty-seven feet, built in the gorge by the Northern Ohio Traction and Light company, for water power. The river's name, Britannica says, was given by the Iroquois, and it may mean crooked water. May is the page's hedge.",
+    long: "",
+    names: ["Cuyahoga River"]
+  },
+  {
+    id: "cuyahoga-falls-mills",
+    name: "The Mills",
+    lat: 41.1400,
+    lng: -81.4900,
+    radius: 60,
+    short: "The encyclopedia says that in 1812 Kelsey and Wilcox built a dam, then a flour mill, an oil mill, and a sawmill. Wetmore's page names them Francis Kelsey and Isaac Wilcox, and says he gave them permission during the War of 1812. It says it is said the lumber went into ships the army built at the portage. It is said. I will not lock it. A city code puts a Kelsey and Wilcox grist mill at 1809, a year the other pages do not use. In 1825 Wetmore and Stow, who held 210 acres with Portage Trail as the south line, set their sons and thirty men to a new dam, a gristmill, a sawmill, and paper and linseed mills. The city code says that new dam flooded the older one and pulled the village south. The next paste is the year the county named this place its seat, and then took it back.",
+    long: "",
+    names: ["Francis Kelsey"]
+  },
+
+  {
+    id: "cuyahoga-falls-seat",
+    name: "The Seat",
+    lat: 41.1456,
+    lng: -81.4967,
+    radius: 80,
+    short: "In 1841 the Summit County commissioners named Cuyahoga Falls the county seat. The legislature stepped in and put the seat to a vote of the people. Akron won, and Akron has kept it. The encyclopedia says that even in the time it held the name, Cuyahoga Falls never really worked as the county seat. The pages I have do not give the vote count. I will not invent one.",
+    long: "",
+    names: ["Akron"]
+  },
+  {
+    id: "cuyahoga-falls-charter",
+    name: "The Charter",
+    lat: 41.1480,
+    lng: -81.4900,
+    radius: 60,
+    short: "The village proper was first laid out in 1826, by Judge Richardson. The town was incorporated in 1836, taking 240 rods out of Stow and Tallmadge townships. I will not turn rods into miles. The line is ambiguous. In March 1851 a township of the same name was cut from the village limits, and the two then covered the same ground. The village council adjourned sine die, which means it set no day to come back, and the township ran the place until the municipal government returned on June 3, 1868. One reading of the same history says 1853, not 1851. I will not average them. Britannica dates the village to 1868 and the city to 1920. That 1868 date is the return, not the first charter. A city code says the 1836 town had 375 people. The city's own page puts 375 people in 1834. I will not make those one year.",
+    long: "",
+    names: ["Cuyahoga Falls"]
+  },
+  {
+    id: "cuyahoga-falls-count",
+    name: "The Count",
+    lat: 41.1400,
+    lng: -81.5000,
+    radius: 50,
+    short: "The census table starts at 1,516 in 1860. In 1920 it jumps from 4,020 to 10,200. I will not say that jump is the city charter. The charter year is Britannica's, not the census. The high line is 51,114 in 2020. The table dips to 43,708 in 1980 and climbs back. One reading of the estimate is 50,742 for 2023. A later reading of the same kind of table prints 50,975 for 2025. I will not average them.",
+    long: "",
+    names: ["Cuyahoga Falls"]
+  },
+  {
+    id: "cuyahoga-falls-portage",
+    name: "The Portage",
+    lat: 41.1350,
+    lng: -81.4840,
+    radius: 70,
+    short: "A city code says Wetmore called the place Manchester because he wanted a mill town like the English city of that name. It sat near two older trails, a branch of the Mahoning trail and the Portage Path. That path left the Cuyahoga for the Tuscarawas, and the Tuscarawas runs to the Ohio. The city's page says people traveling the river from the lakes toward the Mississippi got out at the falls and used what is now Portage Trail. I will not stitch those two sentences into one map. The same city page says that by 1840 this town had a wider mix of mills than any other settlement in Ohio. That is the city's claim. The next paste is the bridges on that trail, which the record does not agree how to count.",
+    long: "",
+    names: ["Portage Path"]
+  },
+
+  {
+    id: "cuyahoga-falls-bridges",
+    name: "The Bridges",
+    lat: 41.1360,
+    lng: -81.4840,
+    radius: 50,
+    short: "A local history of Portage Trail says the first wooden bridge went up in 1836, when a linseed mill on the east bank needed a span. The writer says most people count only two bridges before the humpback that stands now. He says the ordinances show another one. I will not pick his count over the town's. The pages do not meet.",
+    long: "",
+    names: ["Portage Trail"]
+  },
+  {
+    id: "cuyahoga-falls-covered",
+    name: "No Smoking",
+    lat: 41.1370,
+    lng: -81.4820,
+    radius: 40,
+    short: "That same account says that in November of 1840 the Portage Street bridge was unsafe for a team of horses, and the marshal was told to close it. The next month the trustees put 330 dollars to William Beal and Henry Scott for a new wooden covered bridge. When it was done, they made it an offense to smoke while crossing. The writer calls that the town's first no-smoking law. His own list dates that covered bridge to 1840. One sentence of his article dates the second bridge to 1841. I will not average a month.",
+    long: "",
+    names: ["William Beal"]
+  },
+  {
+    id: "cuyahoga-falls-glens",
+    name: "High Bridge Glens",
+    lat: 41.1250,
+    lng: -81.4930,
+    radius: 70,
+    short: "High Bridge Glens and Caves opened in 1879, on both sides of the river, from Front and Prospect south toward where a power plant later stood. A university note says the Cleveland, Mount Vernon and Columbus railroad ran four express trains a day, and sixty cars, to a park with bands, rides, restaurants, and a swinging bridge onto the Chuckery Trail. That trail went to the Big Falls and a spot called Old Maid's Kitchen, then back up Front Street. A magazine, quoting a local historian, adds a dance hall, a merry-go-round, bowling, a shooting gallery, and a wooden ferry. It says the park is said to have had one of the first roller coasters in the country, a circular gravity railway. Said. I will not lock it. The same historian puts a summer day at ten thousand visitors, against a town of about twenty-five hundred. The census near those years is in that neighborhood. I will not pretend he cited it.",
+    long: "",
+    names: ["High Bridge Glens"]
+  },
+  {
+    id: "cuyahoga-falls-glens-end",
+    name: "The Close",
+    lat: 41.1190,
+    lng: -81.4960,
+    radius: 60,
+    short: "The university note says the park closed sometime around 1910. Sewage in the river spoiled the lower caves. Then a dam for the traction company's plant backed water into the gorge, covered trails, and cut the Chuckery Trail off from the Big Falls. The flood of 1913 took the stairs that were left. The magazine says the park closed in 1895, years before that dam and that flood. I will not make 1895 and 1910 the same ending. The same historian says Riverview Park opened in the gorge in 1919 and was gone by the early 1930s. The iron bridge on Portage Trail shows on an atlas by 1867. By 1969 it was failing. A city engineer named McCormick tried to save the stone and iron span. He lost. It came down in March of 1970. The next paste is the church on that trail. The year of its first building is not one year.",
+    long: "",
+    names: ["High Bridge Glens"]
+  },
+
+  {
+    id: "cuyahoga-falls-stjohns",
+    name: "St. John's",
+    lat: 41.1365,
+    lng: -81.4855,
+    radius: 40,
+    short: "St. John's Episcopal was organized in 1830. The city's page says William Wetmore did it, and that they met in a schoolhouse at Front and Wadsworth. A downtown history says the first building was a shared log cabin near Wetmore Park, in Stow, and that this is the oldest Episcopal church in Summit County. I will not make the schoolhouse and the cabin the same room. The city's page says construction then started at the present site, Portage Trail and Second Street. It does not give that year.",
+    long: "",
+    names: ["William Wetmore"]
+  },
+  {
+    id: "cuyahoga-falls-church-square",
+    name: "Church Square",
+    lat: 41.1355,
+    lng: -81.4835,
+    radius: 40,
+    short: "The downtown history says the white frame church of 1835 was the first church in Church Square, on land Joshua Stow gave. A library catalog, under a photograph made sometime between about 1885 and 1900, says the church building was dedicated in 1836. I will not turn built and dedicated into one year, and I will not hang that dedication on the stone church that stands now. The same downtown page puts a bandstand about mid-block on Portage Trail in 1901. It does not say the stand is still there.",
+    long: "",
+    names: ["Joshua Stow"]
+  },
+  {
+    id: "cuyahoga-falls-wesleyans",
+    name: "The Wesleyans",
+    lat: 41.1345,
+    lng: -81.4820,
+    radius: 40,
+    short: "In 1846 a wood frame went up just north of the church, facing Second Street. The page says it was built by people who left the Methodist Episcopal church and called themselves Wesleyans. They soon broke up. About 1857 the building was sold to the school directors for a high school. In 1872 a new high school went up on Germaine Street, and the older rooms were used for the lower grades. The page calls that the old West Side school, and also the Lyceum. I will not decide which name won.",
+    long: "",
+    names: ["Cuyahoga Falls"]
+  },
+  {
+    id: "cuyahoga-falls-gothic",
+    name: "The Stone Church",
+    lat: 41.1335,
+    lng: -81.4848,
+    radius: 40,
+    short: "The downtown page says a frame church of 1846 was taken down in 1907 to clear the way for the late Gothic stone church of 1908 and 1909, the one that stands. The same page already used 1846 for the Wesleyan building that became a school. I will not make those one building. A parish wing went on the north in 1927. The south entry went on in 1958. The windows run from 1910 to 1967. The page says the building sits in the National Register and in the city's own downtown district. It does not give the year of the listing. The next paste is the house Wetmore built on Front at Portage Trail. It became a hotel, and the page does not say when.",
+    long: "",
+    names: ["St. John's Episcopal Church"]
+  },
+
+  {
+    id: "cuyahoga-falls-wetmore-house",
+    name: "The Corner",
+    lat: 41.1358,
+    lng: -81.4815,
+    radius: 40,
+    short: "The city's page says William Wetmore built his house at Front Street and Portage Trail, and that a short time later it was a hotel called the Perry House and the Clifford Inn. It gives no year. A history written for the Cuyahoga Falls Historical Society puts the building on the northwest corner, and says William Wetmore junior built it about 1826, as a store and a house. The founder and the son are not the same man. I will not pick which Wetmore. A short time later cannot be the 1880s, which is when those hotel names actually show up. I will not sand that down.",
+    long: "",
+    names: ["William Wetmore"]
+  },
+  {
+    id: "cuyahoga-falls-hotel-names",
+    name: "The Names",
+    lat: 41.1352,
+    lng: -81.4808,
+    radius: 40,
+    short: "The society's list says the building was stretched along Portage Trail from Front to Second, and used as a hotel and a stage stop. It starts as the American House, under Benjamin F. Hopkins, and the list of keepers after him is longer than I will read. Then the Upson, under Philo B. Upson, from 1869 to 1871. Then the Perry House, under John Perry, listed from 1881 to 1885. Then the Clifford House, also called the Clifford Inn, under George Marvin, listed from the late 1880s into 1902. A library catalog says the inn opened in the late 1880s and was owned by Marvin. That dates the name. It does not date the walls. I will not pretend it does.",
+    long: "",
+    names: ["John Perry"]
+  },
+  {
+    id: "cuyahoga-falls-clifford",
+    name: "The Clifford",
+    lat: 41.1346,
+    lng: -81.4818,
+    radius: 40,
+    short: "The society says the house was in business about a hundred and twenty years. In the good years, actors and musicians stayed there when they played a stage nearby called the Apollo Hall. The page does not tell me what the Apollo was beyond that. It says the hotel caught fire more than once in the late 1800s, was patched, and reopened. It does not date those fires. By the early 1940s the same account says the building was old and losing out to newer hotels. The extract I have stops there. I will not say when it came down.",
+    long: "",
+    names: ["Clifford Inn"]
+  },
+  {
+    id: "cuyahoga-falls-newbery",
+    name: "Newbery",
+    lat: 41.1338,
+    lng: -81.4795,
+    radius: 40,
+    short: "On that same city page, the first mayor is Henry Newbery, elected April 4, 1837. The same year a volunteer fire company was formed, and the page says it stayed volunteer until 1927. The first drugstore, the Heath, is on the page too, on Front near Portage, opened in the 1800s. No year. I will not invent one. The next paste is still on Front Street. The afternoon of July 31, 1940, near Hudson Drive, a one-car train called the Doodlebug was hit by a freight. The city's page gives a death count. I will not lock it until a second page is willing to say the same number.",
+    long: "",
+    names: ["Henry Newbery"]
+  },
+
+  {
+    id: "cuyahoga-falls-doodlebug",
+    name: "The Doodlebug",
+    lat: 41.1453,
+    lng: -81.4733,
+    radius: 50,
+    short: "On the afternoon of July 31, 1940, a Pennsylvania Railroad gasoline car, the kind this town called a doodlebug, was on the run from Hudson down to Akron. At Front Street and Hudson Drive it met a freight. The city's page says 43 passengers died. The encyclopedia says 46 people were on the car, three of them jumped, and everyone else on board died, which is the same 43. A catalog of the Interstate Commerce Commission report says the same 43, and says the gasoline tank blew. A paper that week says the coroner, R. E. Amos, first counted 41 and then added two. The same paper says a 44th death was laid to the crash. It does not give me the name. I will not pick 43 or 44.",
+    long: "",
+    names: ["Pennsylvania Railroad"]
+  },
+  {
+    id: "cuyahoga-falls-silver-lake",
+    name: "Silver Lake",
+    lat: 41.1475,
+    lng: -81.4715,
+    radius: 50,
+    short: "The encyclopedia says the car left Hudson at 5:49 in the evening, on a run it calls 13 miles. A paper that week calls the same line 15 miles from Hudson to Akron. I will not average them. The car had orders to wait on a siding at Silver Lake and let the freight pass. It did not take the siding. The paper quotes a man named Smith, saying the crew also rolled on without permission from the block operator at Hudson, and that the freight crew was not at fault. The encyclopedia times the hit at 5:58, and puts the combined speed still at 55 miles an hour. It says the freight was two locomotives, 73 cars, and a caboose, bound from Columbus toward Cleveland. A German retelling of the same wreck says one locomotive. I will not pick.",
+    long: "",
+    names: ["Silver Lake"]
+  },
+  {
+    id: "cuyahoga-falls-doodlebug-fire",
+    name: "The Fire",
+    lat: 41.1435,
+    lng: -81.4750,
+    radius: 50,
+    short: "The three who jumped were the engineer, the conductor, and another railroad man. They lived, and they were hurt. The encyclopedia says the lead engine went 12 feet into the car, the 350-gallon gasoline tank split, and the freight shoved the burning car more than 500 feet. Flames shot about 25 feet. The medical examiner said only nine people were killed by the blow. The rest burned. Firemen fought it for 45 minutes. The bodies took hours. I will not add a detail past that.",
+    long: "",
+    names: ["Doodlebug"]
+  },
+  {
+    id: "cuyahoga-falls-doodlebug-cause",
+    name: "The Cause",
+    lat: 41.1418,
+    lng: -81.4765,
+    radius: 50,
+    short: "The encyclopedia's own cause line says the crew failed to obey orders, possibly because of carbon monoxide. Possibly is the page's word. The commission catalog I have does not say carbon monoxide. I will not move that word onto a report I have not read. A German page says there is a memorial stone near the site. It does not say what the stone reads. The next paste is a quieter one. On January 1, 1986, this city and Northampton Township merged. The city's page says they were the first in Ohio to do that by a vote of the people. I do not have the tally yet.",
+    long: "",
+    names: ["Cuyahoga Falls"]
+  },
 
 
 

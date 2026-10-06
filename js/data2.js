@@ -5220,6 +5220,1055 @@ STORIES.push(
     long: "",
     names: ["Robert Caldwell"]
   },
+  {
+    id: "approach-caledonia",
+    name: "Caledonia",
+    lat: 40.6500,
+    lng: -82.9800,
+    radius: 2000,
+    layer: "approach",
+    short: "You are coming up on Caledonia, a village in Claridon Township, Marion County, on the old prairie called the Sandusky Plains. About 560 people live on a quarter of a square mile. It was platted in 1834 under another name. If you stay on the road, I'll start at the post office.",
+    long: "",
+    names: ["Caledonia"]
+  },
+  {
+    id: "caledonia-name",
+    name: "Van Buskirk",
+    lat: 40.6364,
+    lng: -82.9694,
+    radius: 150,
+    short: "The county notes say the place was platted in 1834 by surveyor Samuel Holmes, for the storekeeper William T. Farrington and others, and named Van Buskirk for Lawrence E. Van Buskirk, the postmaster. The name changed to Caledonia in 1835. Wikipedia says Caledonia is the old name for Scotland, and that a large share of the first settlers came from there. The county notes say the reason for the change is lost. I will give you both and not pick. The village incorporated in 1873. The count was 419 in 1870, 757 in 1890, 792 in 1970, and 560 in 2020.",
+    long: "",
+    names: ["Caledonia"]
+  },
+  {
+    id: "caledonia-rail",
+    name: "Five in the Morning",
+    lat: 40.6380,
+    lng: -82.9700,
+    radius: 150,
+    short: "Rail service started around 1851. The town sits about the same distance from Bucyrus, Galion, Marion, and Mount Gilead, and it shipped grain and livestock. The depot went up in 1857, between North Main and Water. A 1919 timetable shows the Big Four leaving at 5:08 in the morning, every day but Sunday, and the Erie leaving at 5:07 in the evening. That is the whole passenger day.",
+    long: "",
+    names: ["Caledonia"]
+  },
+  {
+    id: "caledonia-fire",
+    name: "Seventeen Buildings",
+    lat: 40.6360,
+    lng: -82.9690,
+    radius: 80,
+    short: "In 1883 a fire took more than seventeen buildings on the original square. They rebuilt it in the same shape. The town hall on the northeast corner held the offices, the firehouse, the jail, and the post office. Upstairs was a hall for medicine shows, plays, and farm exhibits. Underwood's store was on the square, and so were the halls of the Knights of Pythias and the Masons.",
+    long: "",
+    names: ["Caledonia"]
+  },
+  {
+    id: "caledonia-bridge",
+    name: "The Bridge That Moved",
+    lat: 40.6390,
+    lng: -82.9690,
+    radius: 100,
+    short: "The bowstring bridge on the north side of town was not built here. It was one of the twin bridges on Espyville Road, between Big Island and Green Camp, built in 1873, a steel arch with the floor hung from it like a bowstring. In 1976 they moved the 104-foot span eighteen miles to Caledonia. At the time it was said to be one of three bowstring bridges left in Ohio. It is on the National Register. The river by the prairie is the Whetstone, which is what people used to call the Olentangy.",
+    long: "",
+    names: ["Caledonia"]
+  },
+  {
+    id: "caledonia-anderson",
+    name: "The Harness Shop",
+    lat: 40.6368,
+    lng: -82.9688,
+    radius: 80,
+    short: "Sherwood Anderson spent several years of his childhood here. His father made harness. Anderson used the town in his 1926 book Tar: A Midwest Childhood. The longer story can go in the hole later.",
+    long: "",
+    names: ["Sherwood Anderson"]
+  },
+  {
+    id: "caledonia-native",
+    name: "The Prairie",
+    lat: 40.6400,
+    lng: -82.9650,
+    radius: 150,
+    short: "This is one of the few prairies in Ohio that the glacier left, on the Sandusky Plains. I do not have a native village name under the square, and I will not invent one. The grass is the older fact.",
+    long: "",
+    names: ["Caledonia"]
+  },
+  {
+    id: "caledonia-war",
+    name: "No Battlefield",
+    lat: 40.6362,
+    lng: -82.9696,
+    radius: 80,
+    short: "There is no fort and no battlefield in Caledonia. The fire of 1883 is the disaster on the record. I will not invent a battle on the square.",
+    long: "",
+    names: ["Caledonia"]
+  },
+
+  {
+    id: "approach-cambridge",
+    name: "Cambridge",
+    lat: 40.0400,
+    lng: -81.6200,
+    radius: 5000,
+    layer: "approach",
+    short: "You are coming up on Cambridge, the county seat of Guernsey County, at the crossing of Interstates 70 and 77. About 10,000 people live on a little more than six square miles. The town was platted in 1806 where a trace crossed Wills Creek. If you stay on the interstate, I'll start at the ferry.",
+    long: "",
+    names: ["Cambridge"]
+  },
+  {
+    id: "cambridge-trace",
+    name: "The Ferry",
+    lat: 40.0248,
+    lng: -81.5927,
+    radius: 250,
+    short: "In 1796 Ebenezer Zane was paid to cut a road from the Ohio River opposite Wheeling to the river opposite Maysville. Where that trace crossed Wills Creek, a ferry opened in 1798. The first bridge the legislature of the Northwest Territory authorized went up here in 1803. The town was platted in 1806 and became the county seat in 1810. A local account names Zaccheus Beatty and Jacob Gomber as the men who laid the lots, just east of the crossing. Another account says the land had been granted in 1801 to Zaccheus Biggs and Zaccheus Beatty. I will not pick. Historians have guessed the name came from Cambridge in Maryland or the one in Massachusetts. I will not pick that either.",
+    long: "",
+    names: ["Cambridge"]
+  },
+  {
+    id: "cambridge-guernsey",
+    name: "The Women Stopped",
+    lat: 40.0230,
+    lng: -81.5900,
+    radius: 200,
+    short: "Also in 1806, a party from the Isle of Guernsey, in the English Channel, camped here. The story is that the women refused to go any farther. A local account says fifteen or twenty families. The county, formed in 1810, was named for them. I will keep the refusal as a report, not a document.",
+    long: "",
+    names: ["Cambridge"]
+  },
+  {
+    id: "cambridge-road",
+    name: "Four Coaches a Day",
+    lat: 40.0250,
+    lng: -81.5880,
+    radius: 200,
+    short: "The National Road came through in 1828. By 1834 four stagecoach lines served the town every day. The first railroad arrived in 1854. By the 1880s Cambridge sat where the Baltimore and Ohio, the Cleveland and Marietta, and the National Road crossed. After the Civil War the factories made doors, metal roofing, furniture, and buggies. Gas and oil brought glass and pottery. The city is still known for the Cambridge Glass, Boyd Glass, and Mosser plants. Coal from the mines nearby fired the plants and the engines. The count was 766 in 1840, 16,129 in 1930, and 10,089 in 2020. Wills Creek flooded hard in late June 1998. I will not invent the damage.",
+    long: "",
+    names: ["Cambridge"]
+  },
+  {
+    id: "cambridge-boyd",
+    name: "Gomber Avenue",
+    lat: 40.0220,
+    lng: -81.5910,
+    radius: 120,
+    short: "William Lawrence Boyd lived on Gomber Avenue. He played Hopalong Cassidy in sixty-six films. The page says he lived here. It does not say he was born here, and I will not add that. The longer story can go in the hole later.",
+    long: "",
+    names: ["William Boyd"]
+  },
+  {
+    id: "cambridge-delaware",
+    name: "Fifty People",
+    lat: 40.0200,
+    lng: -81.5950,
+    radius: 200,
+    short: "A county history says the earliest people on this ground were a party of about fifty Delaware, on the south bank of Wills Creek around 1763. They were gone by the time Zane's men cut the trace, about thirty years later. I do not have their village name, and I will not invent one.",
+    long: "",
+    names: ["Cambridge"]
+  },
+  {
+    id: "cambridge-war",
+    name: "No Battlefield",
+    lat: 40.0240,
+    lng: -81.5910,
+    radius: 100,
+    short: "There is no fort and no battlefield on the square. The bridge of 1803 is a road, not a fight. I will not invent a battle at the ferry.",
+    long: "",
+    names: ["Cambridge"]
+  },
+
+  {
+    id: "approach-camden",
+    name: "Camden",
+    lat: 39.6450,
+    lng: -84.6600,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Camden, a village in Somers Township, Preble County, in the Dayton area. The village puts the count at about 1,980 people, on a little more than a square mile. It was laid out on the Fourth of July, 1818, under another name. If you stay on the road, I'll start at Dover.",
+    long: "",
+    names: ["Camden"]
+  },
+  {
+    id: "camden-names",
+    name: "Three Names",
+    lat: 39.6308,
+    lng: -84.6488,
+    radius: 200,
+    short: "The village history says the Hendricks family were the first settlers in, in 1803, on ground the same pages call old hunting country of the Miami. By 1818 there were enough people to plat a town. They called it Dover, and the plot was recorded on July 4, 1818. In 1824 they opened a post office and found Ohio already had a Dover. They took the name Newcomb, for George Newcomb, then a state senator. Ira K. Place, the first postmaster, became the first mayor when the town incorporated in 1831. Newcomb never stuck. One part of the village kept saying Dover. In 1835 they changed it again, to Camden, for the Revolutionary War battle at Camden, South Carolina. That fight was not here.",
+    long: "",
+    names: ["Camden"]
+  },
+  {
+    id: "camden-creek",
+    name: "Seven Mile",
+    lat: 39.6280,
+    lng: -84.6500,
+    radius: 200,
+    short: "Sawmills and grist mills stood on Seven Mile Creek. The first log school went up in 1820. The fire company was organized in 1866. The children go to the Preble Shawnee schools, and the mascot is the Arrows. In the fall the town holds the Black Walnut Festival. I will not invent a railroad to go with the creek.",
+    long: "",
+    names: ["Camden"]
+  },
+  {
+    id: "camden-wayne",
+    name: "Wayne Trace",
+    lat: 39.6320,
+    lng: -84.6460,
+    radius: 200,
+    short: "The village says settlers came in behind Anthony Wayne, and Wayne Trace Road still runs here, with a marker for the trail he cut north from Cincinnati. That road fed the forts farther north. It is not a battlefield in Camden. Mail riders were on the route by 1802. The local papers say the rural carriers were asked to whistle, so a farmer would not have to listen for the wagon. I will keep that as the town's own story.",
+    long: "",
+    names: ["Camden"]
+  },
+  {
+    id: "camden-native",
+    name: "No Village Name",
+    lat: 39.6310,
+    lng: -84.6490,
+    radius: 150,
+    short: "The village calls this Miami hunting ground, forest and creek, before the Hendricks family. I do not have a village name under the plat. The same page says one of the earliest known burials here is from 1777. I will not invent whose grave that is.",
+    long: "",
+    names: ["Camden"]
+  },
+
+  {
+    id: "approach-campbell",
+    name: "Campbell",
+    lat: 41.0900,
+    lng: -80.5800,
+    radius: 3000,
+    layer: "approach",
+    short: "You are coming up on Campbell, a city in eastern Mahoning County, on the Mahoning River, just southeast of Youngstown. The name is said KAM-el. About 7,900 people live on a little under four square miles. The place was a mill town called East Youngstown. If you stay on the highway, I'll start at the riverbank.",
+    long: "",
+    names: ["Campbell"]
+  },
+  {
+    id: "campbell-mill",
+    name: "East Youngstown",
+    lat: 41.0780,
+    lng: -80.5910,
+    radius: 300,
+    short: "In 1902 the Youngstown Iron Sheet and Tube Company put a plant on the river in Coitsville Township. The settlement that grew around it was called East Youngstown. That name is still on deeds from 1902 to 1926. The village incorporated in 1908. The plant, later the Campbell Works, had four blast furnaces, twelve open-hearth furnaces, two Bessemer converters, and mills for slabs, tubes, and bars. From 1937 to 1979 they shipped molten iron by rail from here to the company's Brier Hill works. The city is boxed in by Routes 289 and 616 and U.S. 422, with a short run to Interstate 680.",
+    long: "",
+    names: ["Campbell"]
+  },
+  {
+    id: "campbell-1916",
+    name: "The District Burned",
+    lat: 41.0770,
+    lng: -80.5890,
+    radius: 150,
+    short: "In 1916 the men at the East Youngstown plant struck over working conditions. The strike became a riot, and most of the business district burned. The National Guard put it down. Afterward the company built rows of concrete houses. The written account calls them the first prefabricated concrete houses in the world. I will not swear the word world. Many of the people who came to work the mill were Greek. I will not invent a church to stand in for them.",
+    long: "",
+    names: ["Campbell"]
+  },
+  {
+    id: "campbell-name",
+    name: "James Anson Campbell",
+    lat: 41.0790,
+    lng: -80.5900,
+    radius: 120,
+    short: "In 1926 the city took the name of James Anson Campbell. He was born in Ohltown, in Trumbull County, on September 11, 1854, grew up in Austintown, and went a year to Hiram College. The company was formed on November 28, 1900. He started as vice president and manager, and he was president from 1904 into a term the city counts as twenty-seven years. He never worked a heat of steel. The city says he was pleased they used his name. He died on September 20, 1933. The count was 8,235 in 2010 and 7,852 in 2020.",
+    long: "",
+    names: ["James Anson Campbell"]
+  },
+  {
+    id: "campbell-monday",
+    name: "Black Monday",
+    lat: 41.0760,
+    lng: -80.5880,
+    radius: 250,
+    short: "On September 19, 1977, the company shut the Campbell Works without warning and sent about 5,000 people home. The valley still calls that day Black Monday. The city page describes a later park on old Sheet and Tube ground at the Struthers works, about 120 acres and eleven buildings. That is next door, not this plant. I will not pretend the furnaces are still lit.",
+    long: "",
+    names: ["Campbell"]
+  },
+  {
+    id: "campbell-native",
+    name: "The River",
+    lat: 41.0750,
+    lng: -80.5930,
+    radius: 150,
+    short: "The mill sits on the Mahoning. I do not have a native village name under the furnaces, and I will not invent one. The river is older than the company.",
+    long: "",
+    names: ["Campbell"]
+  },
+
+  {
+    id: "approach-canal-fulton",
+    name: "Canal Fulton",
+    lat: 40.9050,
+    lng: -81.6100,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Canal Fulton, a city in Stark County, in the Canton and Massillon area, on the Tuscarawas River. About 5,300 people live on a little under three and a half square miles. It started as a village called Milan, on the west bank, in 1814. If you stay on the road, I'll start at that bank.",
+    long: "",
+    names: ["Canal Fulton"]
+  },
+  {
+    id: "canal-fulton-milan",
+    name: "Milan",
+    lat: 40.8890,
+    lng: -81.6000,
+    radius: 200,
+    short: "Milan was the first settlement west of the Tuscarawas in Stark County. It was named for Milan in Italy, platted by Matthew Rowland, who came by ox team, and recorded in Canton on March 23, 1814. There were seventy-nine lots, sold at auction in Canton. The streets ran with the compass. The canal, dug through here between 1826 and 1828, put a second town on the east bank. Milan kept its churches and a store that fed the canal crews, and in 1853 it was folded into Canal Fulton. The old plat is a neighborhood now.",
+    long: "",
+    names: ["Canal Fulton"]
+  },
+  {
+    id: "canal-fulton-fulton",
+    name: "Forty People",
+    lat: 40.8900,
+    lng: -81.5960,
+    radius: 200,
+    short: "Fulton was laid out on the east bank on May 16, 1826, by James Lathrop and William Christmas of Canton. Eighty-seven lots. The streets ran with the canal, not the compass. Two bridges tied it to Milan. In 1830, when the post office opened, the place had three warehouses, two taverns, two stores, seven houses, and forty people. In 1832 they stuck Canal on the front of the name. The city says it sounded livelier. Wikipedia says the Fulton is a local pioneer named Ben Fulton. I will not pick. The Ohio and Erie Canal was finished that same year. The figure given for the whole canal is 4.7 million dollars, not for this town.",
+    long: "",
+    names: ["Canal Fulton"]
+  },
+  {
+    id: "canal-fulton-merge",
+    name: "One Town",
+    lat: 40.8895,
+    lng: -81.5980,
+    radius: 150,
+    short: "In 1853 Canal Fulton, West Fulton, and Milan were made one town. I do not have a separate founding date for West Fulton, and I will not invent one. The first permanent school opened in 1850, and so did railroad service. I will not name a line I have not locked. The count was 1,048 in 1870, still about 1,500 in 1960, then 2,367 in 1970 and 5,325 in 2020. The canal town became a suburb.",
+    long: "",
+    names: ["Canal Fulton"]
+  },
+  {
+    id: "canal-fulton-trail",
+    name: "The Old Trail",
+    lat: 40.8880,
+    lng: -81.5970,
+    radius: 200,
+    short: "The city says the canal follows the valley of the Cuyahoga and the Tuscarawas, and that this valley was the main north-south trail in eastern Ohio before the ditch. I will not invent the nation that walked it, and I will not invent a village name under the towpath.",
+    long: "",
+    names: ["Canal Fulton"]
+  },
+
+  {
+    id: "approach-canal-winchester",
+    name: "Canal Winchester",
+    lat: 39.8600,
+    lng: -82.8300,
+    radius: 3000,
+    layer: "approach",
+    short: "You are coming up on Canal Winchester, a city in Fairfield and Franklin counties, a suburb of Columbus, on the old Ohio and Erie Canal. About 9,100 people live here, and the count has more than doubled since 2000. It was platted in 1828 as Winchester. If you stay on Route 33, I'll start at the cabin.",
+    long: "",
+    names: ["Canal Winchester"]
+  },
+  {
+    id: "canal-winchester-dove",
+    name: "Fifteen East Columbus",
+    lat: 39.8430,
+    lng: -82.8110,
+    radius: 150,
+    short: "The Chillicothe land office granted Henry Dove a 160-acre quarter on October 1, 1811. He built a log cabin where 15 East Columbus Street is now. In 1821 he split the land between his sons, Reuben and Jacob. He died in 1850. On November 5, 1828, Reuben Dove and John Coleman recorded the first plat of Winchester, in Violet Township, Fairfield County. Reuben named it for his father's hometown, Winchester, Virginia. The first lots ran on Columbus Street between High and Trine, and along High. The written account says the canal cut Reuben's wheat field, he wanted to sue the state, and the crews talked him into a town because the place sat halfway between Columbus and Lancaster. I will keep that as the account, not a court paper.",
+    long: "",
+    names: ["Reuben Dove", "Henry Dove"]
+  },
+  {
+    id: "canal-winchester-name",
+    name: "Five Other Winchesters",
+    lat: 39.8435,
+    lng: -82.8100,
+    radius: 120,
+    short: "The first canal boat came through in 1831. When the post office opened in 1841, the village added Canal to the name, because Ohio already had five other Winchesters. In 1851 it was annexed into Madison Township, Franklin County. The state signed the incorporation papers on May 31, 1866. There were 352 people in 1850, 4,478 in 2000, 7,101 in 2010, and 9,107 in 2020. The railroad arrived in 1869. An interurban line started in 1904. The grain elevator of O. P. Chaney, from 1879, and the 1894 depot are still in the historical society's yard, with a 1929 Chesapeake and Ohio caboose.",
+    long: "",
+    names: ["Canal Winchester"]
+  },
+  {
+    id: "canal-winchester-legend",
+    name: "Halloween",
+    lat: 39.8440,
+    lng: -82.8120,
+    radius: 100,
+    short: "A local legend says that on Halloween, October 31, 1841, two boys hitched horses to the post office of a place called Waterloo and dragged the foundation across the street into Winchester, and that is how this town got a post office. The city's own history does not say that. It says the name changed because of the other Winchesters. I will not let the prank replace the record. The prank can stay as a story people tell.",
+    long: "",
+    names: ["Canal Winchester"]
+  },
+  {
+    id: "canal-winchester-native",
+    name: "No Village Name",
+    lat: 39.8420,
+    lng: -82.8130,
+    radius: 150,
+    short: "I do not have a native village name under the wheat field. The canal follows the old valley. I will not invent a town here to fill the card.",
+    long: "",
+    names: ["Canal Winchester"]
+  },
+
+  {
+    id: "approach-canfield",
+    name: "Canfield",
+    lat: 41.0400,
+    lng: -80.7800,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Canfield, a city in Mahoning County, south of Youngstown. About 7,700 people live in the city. The township around it is larger. The tract was bought in 1798 and named two years later. If you stay on the road, I'll start at the land company.",
+    long: "",
+    names: ["Canfield"]
+  },
+  {
+    id: "canfield-name",
+    name: "Campfield",
+    lat: 41.0264,
+    lng: -80.7694,
+    radius: 200,
+    short: "In 1798 this was Township Number 1 in Range 3, bought from the Connecticut Land Company. The tract was 16,324 acres, on the southeast edge of the Western Reserve. Six men bought it. Most of it belonged to Judson Canfield, a land agent. The township was first called Campfield. On April 15, 1800 they voted to call it Canfield. The city calls him the founder. He owned the land. I will not say he cleared a field here. The first settlers came in right after the survey, mostly from Connecticut. By 1805 there were about seventeen houses, a store, and a school. Goods came by wagon about fifty-five miles from Pittsburgh, and later on the Beaver Canal. Germans arrived around 1805. Irish families arrived around 1852.",
+    long: "",
+    names: ["Judson Canfield"]
+  },
+  {
+    id: "canfield-seat",
+    name: "The Speaker's Vote",
+    lat: 41.0255,
+    lng: -80.7685,
+    radius: 120,
+    short: "Canfield was in Trumbull County until 1846, when Mahoning County was cut out. Canfield sat at the center, so it got the county seat that year. Youngstown wanted it. The village incorporated in 1849. The fight lasted about thirty years. The legislature voted in 1874 to move the seat to Youngstown. The city's history says the House speaker had to break a tie, Canfield sued, the case was tried here and appealed, and in 1875 the Ohio Supreme Court let Youngstown keep it. The old courthouse is still on the green. After that, Canfield went back to being a farm town.",
+    long: "",
+    names: ["Canfield"]
+  },
+  {
+    id: "canfield-fair",
+    name: "Cows on Broad Street",
+    lat: 41.0230,
+    lng: -80.7670,
+    radius: 200,
+    short: "The first Canfield Fair was one day, October 5, 1847. The stock was tied along Broad Street. The produce and the meetings were in the Congregational Church. They set aside 150 dollars for prizes. The Mahoning County Agricultural Society cleared 308 dollars. In 1851 the fair moved to the grounds on Route 46 and they built a fence so they could charge at the gate. The first junior fair was in 1853. By 1855 it took three days. The grounds were enlarged in 1867. The first superintendent was J. W. Canfield, a grandson of Judson. It is still held over Labor Day. I will not invent this year's gate.",
+    long: "",
+    names: ["Canfield"]
+  },
+  {
+    id: "canfield-native",
+    name: "No Village Name",
+    lat: 41.0280,
+    lng: -80.7700,
+    radius: 150,
+    short: "This ground was sold by the Connecticut Land Company as a numbered township. I do not have a native village name under the green, and I will not invent one.",
+    long: "",
+    names: ["Canfield"]
+  },
+
+  {
+    id: "approach-cardington",
+    name: "Cardington",
+    lat: 40.5150,
+    lng: -82.9000,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Cardington, a village in Morrow County, on the Whetstone River, southwest of the county seat at Mount Gilead. About 2,100 people live on two square miles. A cabin went up here in 1822. The town came later. If you stay on Route 42, I'll start at the river.",
+    long: "",
+    names: ["Cardington"]
+  },
+  {
+    id: "cardington-bunker",
+    name: "The Carding Mill",
+    lat: 40.4981,
+    lng: -82.8925,
+    radius: 150,
+    short: "A local history says Isaac Bunker came in the spring of 1822 with his wife and eleven children, from Peru Township, cut a road with eight or ten men, and built a cabin by the Whetstone, near where the East Main Street bridge is now. The village says that in 1824 Peleg Bunker and Horton Howard put a carding mill at the end of Fourth Street, for fulling and dressing cloth, and that the mill is where the name Cardington comes from. I will not invent a family tie between Isaac and Peleg. A post office was open by the late 1820s. A local account says 1826. Wikipedia says 1827. I will not pick.",
+    long: "",
+    names: ["Cardington"]
+  },
+  {
+    id: "cardington-plat",
+    name: "Sixty-Six Lots",
+    lat: 40.4975,
+    lng: -82.8935,
+    radius: 120,
+    short: "In 1836 Leumas Cook and John Shunk turned the property into a village. A genealogical note says Leumas spelled backward is Samuel. I will not treat that as his legal name. They had six houses, a sawmill at the east end, and a grist mill and two cabins at the west end. One street ran along the bank from the ford at Bunker's mill to the grist mill and out toward the Delaware road, which is Route 42 now. A cattail swamp sat in the middle. The plat had sixty-six lots and four streets. Center Street was the middle. The east line was the river, and a mill race ran west off it to the grist mill. The railroad arrived in 1854. The count was 292 in 1850 and 846 in 1860. It was 1,428 in 1890 and 2,079 in 2020. The shops that followed include a handle factory, a fireworks works, the Peck furniture factory, and a cabinet shop.",
+    long: "",
+    names: ["Leumas Cook", "John Shunk"]
+  },
+  {
+    id: "cardington-line",
+    name: "The Treaty Line",
+    lat: 40.4990,
+    lng: -82.8910,
+    radius: 150,
+    short: "A local history says the Greenville treaty line ran through this ground, and that an 1818 treaty opened the land north of that line. Bunker's cabin stood on the north side of it. I do not have a native village name under the mill, and I will not invent one. The line is the fact I can stand on.",
+    long: "",
+    names: ["Cardington"]
+  },
+  {
+    id: "cardington-tornado",
+    name: "Eight Hundred Trees",
+    lat: 40.4985,
+    lng: -82.8940,
+    radius: 150,
+    short: "The village calls June 13, 1981 the worst day it has had. A tornado came down Main Street and took century-old buildings, and it took about eight hundred trees. They stood still for a few hours, then a tree committee started putting the trees back. I will not invent a death count. There is no battlefield here. The tornado is the disaster on the record.",
+    long: "",
+    names: ["Cardington"]
+  },
+
+  {
+    id: "approach-carey",
+    name: "Carey",
+    lat: 40.9700,
+    lng: -83.4000,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Carey, a village in Wyandot County. About 3,600 people live on a little over two square miles. Two men laid it out in 1843 and named it for a judge. If you stay on the highway, I'll start at the plat.",
+    long: "",
+    names: ["Carey"]
+  },
+  {
+    id: "carey-plat",
+    name: "The Judge",
+    lat: 40.9525,
+    lng: -83.3824,
+    radius: 150,
+    short: "The village says its history starts in 1843, when R. M. Shuler and W. J. Buell laid the town out on land they owned. They named it for Judge John Carey, one of the first settlers in the region. The first business was a hotel that same year. Within two years there was a general store and a grocery. The village incorporated on June 2, 1858. Water came in 1894. The village says electricity started around 1909, and the sewers in 1938, as a WPA job. The count was 692 in 1870, 3,901 in 2000, and 3,565 in 2020. The village also says Carey was president of the Indiana, Bloomington and Western Railroad, which ran through town. I will not put that railroad in the year of the plat.",
+    long: "",
+    names: ["John Carey"]
+  },
+  {
+    id: "carey-shrine",
+    name: "The Rain Held",
+    lat: 40.9513,
+    lng: -83.3868,
+    radius: 120,
+    short: "The parish began in 1868 as St. Edward's. In 1875 a statue of Our Lady of Consolation was brought from Luxembourg. On May 24 it was carried in procession from Frenchtown, about seven miles. The shrine marker says more than a thousand people walked, the rain held off while they walked, and it poured once the statue was inside the church. I will tell that as the shrine's account. Pope Leo the Thirteenth set up a confraternity here in 1878. Franciscan friars have served it since 1912. A brick church was finished in 1924. Pope Paul the Sixth made it a minor basilica in 1971. The walk is still done on May 24. The public schools are the Carey Exempted Village district, and there is a Catholic school at the shrine.",
+    long: "",
+    names: ["Carey"]
+  },
+  {
+    id: "carey-wyandot",
+    name: "The Same Year",
+    lat: 40.9530,
+    lng: -83.3840,
+    radius: 150,
+    short: "The county is named for the Wyandot. Their reserve was around Upper Sandusky, the county seat, not this plat. They were removed in 1843, the same year Shuler and Buell laid Carey out. I will not invent a village name under the hotel. The year is the fact.",
+    long: "",
+    names: ["Carey"]
+  },
+  {
+    id: "carey-war",
+    name: "No Battlefield",
+    lat: 40.9520,
+    lng: -83.3830,
+    radius: 100,
+    short: "There is no fort and no battlefield on the square. I will not invent one to stand next to the shrine.",
+    long: "",
+    names: ["Carey"]
+  },
+
+  {
+    id: "approach-carlisle",
+    name: "Carlisle",
+    lat: 39.6000,
+    lng: -84.3400,
+    radius: 3000,
+    layer: "approach",
+    short: "You are coming up on Carlisle. The name is said KAR-lyle. It sits in Warren and Montgomery counties, so one side of town is counted with Cincinnati and the other with Dayton. About 5,500 people live on a little under four square miles. The railroad town came in 1850. The people were here before that. If you stay on the interstate, I'll start at the Jersey Settlement.",
+    long: "",
+    names: ["Carlisle"]
+  },
+  {
+    id: "carlisle-jersey",
+    name: "The Jersey Settlement",
+    lat: 39.5810,
+    lng: -84.3190,
+    radius: 200,
+    short: "The city says settlers from the East, many of them from New Jersey, took land west of the Great Miami and called the neighborhood the Jersey Settlement. A local history puts the first landowners around 1804 and thinks they were the Barkalow brothers, from the mouth of Twin Creek over toward the river. I will keep the brothers as what that history thinks, not as a deed I have read. Warren County itself was set off on March 24, 1803.",
+    long: "",
+    names: ["Carlisle"]
+  },
+  {
+    id: "carlisle-name",
+    name: "Thirty Lots",
+    lat: 39.5806,
+    lng: -84.3194,
+    radius: 150,
+    short: "Wikipedia says the railroad and a station arrived in 1850. A local account says George Carlisle, vice president of the Cincinnati, Hamilton and Dayton, bought about 150 acres from Benjamin DuBois and from Benjamin and George Conover, and cut it into thirty lots. He offered a triangle of ground for a literary-society hall if the people would call the place Carlisle. They did. The city says the society built the first town hall in 1856. A post office opened in 1852 and closed in 1961. The village incorporated in 1958, with John Homan as the first mayor. In 1987 the residents adopted a charter and hired Jeffrey E. Repp as the first city manager.",
+    long: "",
+    names: ["George Carlisle"]
+  },
+  {
+    id: "carlisle-status",
+    name: "Village, Then City",
+    lat: 39.5820,
+    lng: -84.3180,
+    radius: 100,
+    short: "The count was 197 in 1880 and 671 in 1960. Then the lines were drawn wider. It was 3,821 in 1970 and 5,121 in 2000, which made it a city. It fell to 4,915 in 2010 and went back to a village. It was 5,501 in 2020, and on October 20, 2021 it was a city again. I will not pretend the houses arrived in one year.",
+    long: "",
+    names: ["Carlisle"]
+  },
+  {
+    id: "carlisle-fort",
+    name: "The Earthwork",
+    lat: 39.5750,
+    lng: -84.3400,
+    radius: 250,
+    short: "Just west of town, in Twin Creek MetroPark, is a hilltop earthwork called Carlisle Fort. The account says it is 1,700 to 2,000 years old, and that people do not agree whether it was a fortress or a Hopewell ceremonial place. I will not call it a settler fort. There is no battlefield from the later wars on the square.",
+    long: "",
+    names: ["Carlisle"]
+  },
+
+  {
+    id: "approach-carroll",
+    name: "Carroll",
+    lat: 39.8200,
+    lng: -82.7200,
+    radius: 2000,
+    layer: "approach",
+    short: "You are coming up on Carroll, a village in Fairfield County, about seven miles north of Lancaster. About 500 people live on a little over half a square mile. It was laid out in 1829 where two canals met. If you stay on the road, I'll start at that junction.",
+    long: "",
+    names: ["Carroll"]
+  },
+  {
+    id: "carroll-canals",
+    name: "On the Bias",
+    lat: 39.8025,
+    lng: -82.7061,
+    radius: 120,
+    short: "William Tong, a contractor on the Ohio Canal, and his brother Oliver laid the town out in 1829. The Ohio Canal and the ditch that became the Hocking Canal came together here at an angle, so the streets were set on the bias. Market Street and Lock Street still say so. The village says this piece of canal was finished on September 4, 1838, the state bought the Lancaster Lateral that same year, and the water from here to Athens was then called the Hocking Canal. A later account says the whole canal, about fifty-six miles and more than twenty-six locks, was finished in 1843. I will not make those one date. Boats carried coal, salt, pig iron, and grain. The count was 187 in 1870, 641 in 1980, and 501 in 2020. The ditch is gone. The village is not.",
+    long: "",
+    names: ["William Tong", "Oliver Tong"]
+  },
+  {
+    id: "carroll-signer",
+    name: "The Last Signer",
+    lat: 39.8030,
+    lng: -82.7055,
+    radius: 80,
+    short: "The Tong brothers named it for Charles Carroll of Carrollton, in Maryland. He was born on September 20, 1737, a signer of the Declaration, and the last of the signers still alive when this town was platted. He never lived here. The village page says he died in Baltimore on November 14, 1833, and the same page also gives 1832. The date usually printed is November 14, 1832. I will not pick a year I have not settled. There is no battlefield on these streets. The name is the war card.",
+    long: "",
+    names: ["Charles Carroll"]
+  },
+  {
+    id: "carroll-river",
+    name: "Hock-Hocking",
+    lat: 39.8000,
+    lng: -82.7070,
+    radius: 150,
+    short: "The village says the stream just south of town was called the Hock-Hocking, and that the valley took its name from that. I do not have a native village under the lock, and I will not invent one. The river name is what I can say.",
+    long: "",
+    names: ["Carroll"]
+  },
+
+  {
+    id: "approach-carrollton",
+    name: "Carrollton",
+    lat: 40.5950,
+    lng: -81.1100,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Carrollton, a village in Carroll County, and the county seat. About 3,100 people live on a little under three square miles. It was platted in 1815 as Centreville, at a crossroads. If you stay on the road, I'll start at that crossing.",
+    long: "",
+    names: ["Carrollton"]
+  },
+  {
+    id: "carrollton-centreville",
+    name: "The Crossroads",
+    lat: 40.5786,
+    lng: -81.0908,
+    radius: 150,
+    short: "Peter Bohart laid the village out on October 4, 1815, and called it Centreville, because it sat where the Canton and Steubenville road crossed the road from New Lisbon to New Philadelphia. A local paper says he died in 1825, and that Isaac Atkinson, who had come from New Lisbon, bought the estate. Atkinson rode to Columbus on horseback and spent his own money to get a new county. Carroll County was cut on Christmas Day, 1832, out of Stark, Harrison, Jefferson, Columbiana, and Tuscarawas. The first county election was February 22, 1833, and 1,781 votes were cast. In 1836 Atkinson was elected the county's first man in the legislature. The name changed to Carrollton on February 24, 1834, for Charles Carroll of Carrollton, the last signer of the Declaration. The local paper says he had died a few weeks before the county was born. He never lived here. The count was 721 in 1860 and 3,087 in 2020.",
+    long: "",
+    names: ["Peter Bohart", "Isaac Atkinson", "Charles Carroll"]
+  },
+  {
+    id: "carrollton-mccook",
+    name: "The McCook House",
+    lat: 40.5790,
+    lng: -81.0915,
+    radius: 80,
+    short: "In the nineteenth century many of the Fighting McCooks lived in Carrollton. They were a family that sent a crowd of its men into the Union army. The house of Daniel McCook is on the national register. I will not invent a headcount of the sons, and I will not invent which room they left from. The house is the fact.",
+    long: "",
+    names: ["Daniel McCook"]
+  },
+  {
+    id: "carrollton-native",
+    name: "No Village Name",
+    lat: 40.5780,
+    lng: -81.0920,
+    radius: 120,
+    short: "This is hill country above the old roads. I do not have a native village name under the square, and I will not invent one.",
+    long: "",
+    names: ["Carrollton"]
+  },
+
+  {
+    id: "approach-casstown",
+    name: "Casstown",
+    lat: 40.0700,
+    lng: -84.1400,
+    radius: 2000,
+    layer: "approach",
+    short: "You are coming up on Casstown. The name is said KASS-town. It is a village in Lostcreek Township, Miami County, in the Dayton area. About 270 people live on a tenth of a square mile. It was laid out in 1832 under another name. If you stay on the road, I'll start there.",
+    long: "",
+    names: ["Casstown"]
+  },
+  {
+    id: "casstown-trimmen",
+    name: "Trimmensburgh",
+    lat: 40.0528,
+    lng: -84.1286,
+    radius: 80,
+    short: "The record says it was first called Trimmensburgh, laid out in 1832 by a man named Trimmens, and named for him. I do not have his first name, and I will not invent one. The name was changed to honor Lewis Cass. A post office called Casstown has been open since 1846. The count was 394 in 1850, 232 in 1860, and 270 in 2020. The stone Lutheran church is the building the maps show. I do not have the year it was raised.",
+    long: "",
+    names: ["Casstown"]
+  },
+  {
+    id: "casstown-cass",
+    name: "Lewis Cass",
+    lat: 40.0530,
+    lng: -84.1280,
+    radius: 60,
+    short: "Lewis Cass was born on October 9, 1782, and died on June 17, 1866. He was an army officer, a senator from Michigan, and he sat in the cabinets of Andrew Jackson and James Buchanan. He was the Democratic nominee for president in 1848. He owned slaves, and he argued that each state or territory should decide slavery for itself. He never lived on this tenth of a square mile. The village took his name. That is the whole of the tie I can prove.",
+    long: "",
+    names: ["Lewis Cass"]
+  },
+  {
+    id: "casstown-native",
+    name: "No Village Name",
+    lat: 40.0520,
+    lng: -84.1290,
+    radius: 80,
+    short: "The county is named for the Miami. I do not have a native village under Trimmensburgh, and I will not invent one. There is no fort and no battlefield on these streets.",
+    long: "",
+    names: ["Casstown"]
+  },
+
+  {
+    id: "approach-castalia",
+    name: "Castalia",
+    lat: 41.4200,
+    lng: -82.8200,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Castalia. The name is said kass-TAYL-ya. It is a village in western Erie County, on the old road toward Cedar Point. About 770 people live on about a square mile. A Wyandot town was here long before the plat. If you stay on Route 269, I'll start at the spring.",
+    long: "",
+    names: ["Castalia"]
+  },
+  {
+    id: "castalia-wyandot",
+    name: "Orontony",
+    lat: 41.4015,
+    lng: -82.8080,
+    radius: 200,
+    short: "By 1738 there was a Wyandot settlement here under Nicholas Orontony. The written account says that in 1748, after trouble with the French and closer trade with Pennsylvania, they burned the village and moved to the mouth of the Cuyahoga, where Cleveland is now. The village page also says a British force under Captain Dalzell destroyed a Wyandot village here in June of 1763. I will not make those one event. In 1760 Robert Rogers and his Rangers, coming back along the Tuscarawas trail, wrote that a spring here boiled out of the ground in a column three feet high, ten hogheads of water a minute. The Indians had used the cold water. It stays open when the other creeks freeze.",
+    long: "",
+    names: ["Nicholas Orontony"]
+  },
+  {
+    id: "castalia-snow",
+    name: "Cold Creek",
+    lat: 41.4020,
+    lng: -82.8070,
+    radius: 120,
+    short: "The village page says Docartus Snow of Vermont and others founded a settlement called Cold Creek in 1820. He built a log grist mill, the first in the Firelands, on the offer of a hundred acres. It could grind fifteen bushels of corn in a day. The same page says that on June 2, 1813, while the men were in the fields, the Snow and Butler houses were attacked. It names Snow's wife, dragged from a sickbed and killed on the trail, two little boys, and Julia Butler, four years old. It says the rest were taken to Detroit and let go the next fall, and that Snow's son is buried in the Castalia cemetery. I will not pretend 1813 and 1820 are the same year. The page does not settle when he arrived. The village was laid out in 1836 and named for Castalia, the spring in the old Greek stories. A fire in 1887 took most of the town. A cement mill opened in 1898 and at one time employed 150 men. It closed in 1932 and was taken down the next year. The count was about 1,050 in the 1970s and 774 in 2020.",
+    long: "",
+    names: ["Docartus Snow"]
+  },
+  {
+    id: "castalia-bluehole",
+    name: "Not Bottomless",
+    lat: 41.4059,
+    lng: -82.8069,
+    radius: 80,
+    short: "The village says Snow's mill dam pushed the underground water out in a new spring in 1820, and that cave-ins brought the Blue Hole to its present size by 1914. It is about seventy-five feet across. People called it bottomless. It is not. The measured depth is forty-three to forty-five feet. The water stays about forty-eight degrees. A later account says an underground stream sends about seven million gallons a day north into Sandusky Bay. From the 1920s to 1990 it was a tourist stop, and at the peak about 165,000 people a year paid to look at it, because Route 269 was the way to Cedar Point. It is on the grounds of a private trout club now, and you cannot walk up to it. A second blue pond, at the state fish hatchery, is the one the public can see. I will not call them the same hole.",
+    long: "",
+    names: ["Castalia"]
+  },
+
+  {
+    id: "approach-catawba",
+    name: "Catawba",
+    lat: 40.0150,
+    lng: -83.6400,
+    radius: 2000,
+    layer: "approach",
+    short: "You are coming up on Catawba. The name is said kuh-TAH-buh. It is a village in Clark County, in the Springfield area. About 245 people live on about a quarter of a square mile. It was laid out in 1838. This is not Catawba Island. That is a township on Lake Erie, named for a grape. If you stay on the road, I'll start at the plat.",
+    long: "",
+    names: ["Catawba"]
+  },
+  {
+    id: "catawba-plat",
+    name: "The Plat",
+    lat: 40.0001,
+    lng: -83.6222,
+    radius: 80,
+    short: "Catawba was laid out in 1838. A post office by that name has been open since 1839. I do not have the name of the man who drew the lots, and I will not invent one. The count was 318 in 1870, 355 in 1960, and 245 in 2020. It has never been a big town. In 2020 there were 123 households and 127 houses.",
+    long: "",
+    names: ["Catawba"]
+  },
+  {
+    id: "catawba-name",
+    name: "A Name From the Carolinas",
+    lat: 40.0005,
+    lng: -83.6215,
+    radius: 60,
+    short: "The town was named for the Catawba people. They are a nation of the Catawba River, in the Carolinas, not a nation of this township. Nobody has shown me a Catawba camp under these lots, and I will not invent one. The settlers liked the name. That is the tie I can prove.",
+    long: "",
+    names: ["Catawba"]
+  },
+  {
+    id: "catawba-war",
+    name: "No Battlefield",
+    lat: 40.0000,
+    lng: -83.6230,
+    radius: 80,
+    short: "Clark County has its own war ground, nearer Springfield. I will not drag that fight onto this village. There is no fort and no battlefield on these streets.",
+    long: "",
+    names: ["Catawba"]
+  },
+
+  {
+    id: "approach-cecil",
+    name: "Cecil",
+    lat: 41.2400,
+    lng: -84.6100,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Cecil. The name is said SEE-suhl. It is a village in Crane Township, Paulding County, about six miles north of Paulding. About 146 people live on a square mile and a half. The post office opened in 1866 under another name. A charcoal furnace stood a mile and a half south of town. If you stay on the road, I'll start at the name.",
+    long: "",
+    names: ["Cecil"]
+  },
+  {
+    id: "cecil-name",
+    name: "From Crane to Cecil",
+    lat: 41.2192,
+    lng: -84.6017,
+    radius: 120,
+    short: "A post office called Crane opened on December 31, 1866. The name changed to Cecil on June 8, 1868. The written account says the village was named for a railroad official. It does not give me his first name, and I will not invent one. Railroad Street is still on the map. The count was 169 in 1880, 348 in 1890, and 146 in 2020. The boom year was not the last year.",
+    long: "",
+    names: ["Cecil"]
+  },
+  {
+    id: "cecil-furnace",
+    name: "Twenty-Three Kilns",
+    lat: 41.1970,
+    lng: -84.6020,
+    radius: 200,
+    short: "A local account says Paulding Furnace was started in 1864 or 1865 by Evans, Rodgers and Company, for the old woods and for the Wabash Railroad and the Wabash and Erie Canal. Ore came from Lake Superior to Toledo, then here by canal or rail, and was smelted with charcoal. Henry Howe, touring in the late 1880s, put the works about a mile and a half south of Cecil. He described a brown building with a forty-foot stack, and beside it twenty-three kilns shaped like beehives, about fifteen feet high, brick and white with lime. He wrote that the furnace was not running. The same local account says that in 1887 it was leased and called the Bertha Furnace. I will not make those one sentence. A photograph in Howe's book is dated 1887.",
+    long: "",
+    names: ["Cecil"]
+  },
+  {
+    id: "cecil-rail",
+    name: "The First Train",
+    lat: 41.2180,
+    lng: -84.6000,
+    radius: 150,
+    short: "The furnace company first laid a short strap-iron track from Cecil past the kilns, to haul wood. In 1879 John Evans, the superintendent, and people from Paulding and Cecil built a standard-gauge line from Paulding up to the Wabash at Cecil. The first train ran into Paulding on September 1, 1880. In 1881 it became the Paulding and Cecil Railway, with S. Frank Eagle as president. It was sold in 1884. Howe later listed Cecil on two railroads, six miles north of the county seat. A local account also puts a stave mill here in the late 1880s, one of about sixteen in the county. The canal and the railroad are why the town exists. The kilns are why the woods do not.",
+    long: "",
+    names: ["John Evans"]
+  },
+  {
+    id: "cecil-swamp",
+    name: "No Battlefield",
+    lat: 41.2200,
+    lng: -84.6030,
+    radius: 150,
+    short: "This was Black Swamp. I do not have a native village name under Main Street, and I will not invent one. There is no fort and no battlefield in the village. The county is named for John Paulding, who helped take Major André in the Revolution. That fight was not here.",
+    long: "",
+    names: ["Cecil"]
+  },
+
+  {
+    id: "approach-cedarville",
+    name: "Cedarville",
+    lat: 39.7700,
+    lng: -83.8300,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Cedarville, a village in Greene County, in the Dayton area. About 4,300 people live on a little over a square mile. In 2020 the median age was 20.8 years. That is the college. The settlement is older than the school. If you stay on the road, I'll start at the old names.",
+    long: "",
+    names: ["Cedarville"]
+  },
+  {
+    id: "cedarville-names",
+    name: "Four Names",
+    lat: 39.7514,
+    lng: -83.8111,
+    radius: 150,
+    short: "Irish and Scottish settlers were here in 1799. A local page says the place was called Newport's Mill, then Hanna's Store, then the Burgh. The first official name was Milford, and it was platted under that name in 1816. The mail got tangled with Milford, near Cincinnati. A post office called Massies Creek opened in 1837. The name changed to Cedarville in 1843, for the cedar trees near the original site. The count was 688 in 1860 and 4,257 in 2020.",
+    long: "",
+    names: ["Cedarville"]
+  },
+  {
+    id: "cedarville-college",
+    name: "For the Crown and the Covenant",
+    lat: 39.7490,
+    lng: -83.8080,
+    radius: 200,
+    short: "The college says five men of the Reformed Presbyterian church established Cedarville College in 1887. The first building, now called Founders Hall, went up in 1895. A local page says the aim was to train preachers and missionaries, and it uses the old phrase, for the crown and the covenant. After the Second World War the school could not pay its way. In 1953 both boards agreed to hand it to the Baptist Bible Institute of Cleveland. James T. Jeremiah was called as president. In 2000 the name became Cedarville University. The census is the proof of what that did. In 1950 the village had 1,292 people. In 2020 it had 4,257, and only about 6 percent were 65 or older.",
+    long: "",
+    names: ["James T. Jeremiah"]
+  },
+  {
+    id: "cedarville-reid",
+    name: "The Opera House",
+    lat: 39.7520,
+    lng: -83.8120,
+    radius: 80,
+    short: "From the 1880s, public life in town centered on the opera house downtown. A local page dates the building to 1888. It is still standing, and it is on the national register. The same page says Whitelaw Reid lived in Cedarville. He was a newspaper publisher and a statesman, and he wrote Ohio in the War, the book of the state's regiments. I will not invent which room he wrote it in.",
+    long: "",
+    names: ["Whitelaw Reid"]
+  },
+  {
+    id: "cedarville-creek",
+    name: "Massies Creek",
+    lat: 39.7480,
+    lng: -83.8150,
+    radius: 150,
+    short: "The creek gave the post office its middle name. I do not have a native village under the cedar trees, and I will not invent one. There is no battlefield on these streets. A local page says the old railroad grade is now a bike trail. I will not invent the name of the railroad.",
+    long: "",
+    names: ["Cedarville"]
+  },
+
+  {
+    id: "approach-celina",
+    name: "Celina",
+    lat: 40.5800,
+    lng: -84.5800,
+    radius: 3000,
+    layer: "approach",
+    short: "You are coming up on Celina. The name is said suh-LY-nuh. It is the county seat of Mercer County, on the northwest shore of Grand Lake St. Marys, about fifty-eight miles from Dayton. About 10,900 people live on five square miles of land. James Watson Riley laid the town out in 1834. The lake beside it was dug for a canal. If you stay on the road, I'll start at the name.",
+    long: "",
+    names: ["Celina"]
+  },
+  {
+    id: "celina-riley",
+    name: "Salina, Spelled Over",
+    lat: 40.5550,
+    lng: -84.5625,
+    radius: 200,
+    short: "James Watson Riley established Celina in 1834. The city page says he was on his way through New York to get the plat lithographed, and he saw Salina, on Onondaga Lake near Syracuse, and liked the match. The spelling became Celina. The city itself calls the reason a legend: either the post office, or the way the streets sit. I will not pick. A chamber history says his father, Captain James Riley, laid out Willshire, and that the son later platted Van Wert and Paulding. It also says the first election here was in 1851 and the town was incorporated in 1860. I will not smooth those two dates. The county page says Celina was made the seat in 1839, after St. Marys. The city page says Celina became the seat in 1848, when Auglaize County was cut and St. Marys went with it. I will not make 1839 and 1848 the same year. The count was 222 in 1850 and 10,935 in 2020.",
+    long: "",
+    names: ["James Watson Riley"]
+  },
+  {
+    id: "celina-lake",
+    name: "Thirty-Five Cents and a Jigger",
+    lat: 40.5400,
+    lng: -84.5000,
+    radius: 800,
+    short: "The state park says work started in 1837 on a reservoir to hold the Miami and Erie Canal at five feet of water. Men dug it by hand. They were paid thirty-five cents a day and a jigger of whiskey, which was supposed to keep malaria off. It was finished in 1845. Thirteen thousand five hundred acres. The state says it was the largest man-made lake in the world when it was done. A feeder three miles long tied it to the canal. The west bank is the Celina side. The canal paid until the railroads in the 1870s. The lake was one of the first state parks, in 1949.",
+    long: "",
+    names: ["Celina"]
+  },
+  {
+    id: "celina-oil",
+    name: "Derricks on the Water",
+    lat: 40.5450,
+    lng: -84.5300,
+    radius: 400,
+    short: "The town had 1,346 people in 1880 and 2,702 in 1890. The city says oil and gas found in the 1880s did that. The park page says that by the late 1890s the lake was dotted with oil derricks, and that a pile of rocks near the middle marks the last producing well. On May 27, 2019, an EF3 tornado hit the town. One person was killed and eight were hurt. I will not invent the name.",
+    long: "",
+    names: ["Celina"]
+  },
+  {
+    id: "celina-war",
+    name: "Not Fort Recovery",
+    lat: 40.5500,
+    lng: -84.5700,
+    radius: 200,
+    short: "The county is named for Hugh Mercer, a doctor and a general in the Revolution. He did not die here. The county's battle ground is Fort Recovery, not this shore. I do not have a native village under the west bank, and I will not invent one. The water covered the creeks. The Girty post was at St. Marys, down the lake, not on this street.",
+    long: "",
+    names: ["Celina"]
+  },
+
+  {
+    id: "approach-centerburg",
+    name: "Centerburg",
+    lat: 40.3200,
+    lng: -82.7200,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Centerburg, a village in Hilliar Township, Knox County, about fourteen miles southwest of Mount Vernon. About 1,700 people live on about a square mile, on the North Fork of the Licking River. The signs say Heart of Ohio. The written account says near the geographical center, not on a pin. If you stay on the road, I'll start at the old spelling.",
+    long: "",
+    names: ["Centerburg"]
+  },
+  {
+    id: "centerburg-plat",
+    name: "Centreburgh",
+    lat: 40.3039,
+    lng: -82.6978,
+    radius: 120,
+    short: "Wikipedia says the town was laid out in 1830, and that it was first written Centreburgh. A local history page says Edward Harkness surveyed it and Stephen Sutton and Jacob Houck recorded it in 1830. The village's own page says Sutton and Houck platted it in 1834. I will not make 1830 and 1834 the same year. The local page says the name was chosen because it sat at the center of the township and near the center of the state, and that people here hoped it might become the capital. That was a hope, not a vote in Columbus. A post office has been open since 1835. The same page says the h was dropped sometime after 1893, and that this is supposedly the only Centerburg in the country. The count was 400 in 1880 and 1,690 in 2020.",
+    long: "",
+    names: ["Centerburg"]
+  },
+  {
+    id: "centerburg-stage",
+    name: "Six-Horse Teams",
+    lat: 40.3045,
+    lng: -82.6965,
+    radius: 80,
+    short: "The village page says the place took hold as a midway tavern on the stage line between Columbus and Mount Vernon. It was a stop for wagons and six-horse teams hauling goods between the Ohio River and the Great Lakes. That is the road story, before the railroad.",
+    long: "",
+    names: ["Centerburg"]
+  },
+  {
+    id: "centerburg-rail",
+    name: "The Depot Moved",
+    lat: 40.3055,
+    lng: -82.6950,
+    radius: 100,
+    short: "The Cleveland, Akron and Columbus Railroad reached town in 1873, and the depot was finished that year. A feed and grain mill went up in 1899 at 108 North Hartford Avenue for the Alsdorf and Pearson company. J. R. Alsdorf and Son ran it from 1900 to 1908, then sold it in November 1908 to T. D. Updike for four thousand dollars. In 1983, after a hundred and ten years, the trains stopped, and the depot was moved. The grade is now the Heart of Ohio Trail, about seventeen miles, from west of town to Mount Vernon.",
+    long: "",
+    names: ["Centerburg"]
+  },
+  {
+    id: "centerburg-land",
+    name: "Eighteen Voters",
+    lat: 40.3030,
+    lng: -82.6990,
+    radius: 150,
+    short: "A local page says this ground was surveyed in 1796 as military bounty land, warrants for men who had served in the Revolution. Hilliar Township was set up in August 1818. The first election was September 15, 1818. Eighteen men voted, and they voted as a block. I do not have a native village on the North Fork under this plat, and I will not invent one. There is no battlefield on Main Street. The Revolution paid for the land. It was not fought here.",
+    long: "",
+    names: ["Centerburg"]
+  },
+
+  {
+    id: "approach-centerville",
+    name: "Centerville",
+    lat: 39.6500,
+    lng: -84.1400,
+    radius: 3000,
+    layer: "approach",
+    short: "You are coming up on Centerville, a city in Washington Township, Montgomery County, about six miles south of Dayton. The census gives 24,240 people in 2020. The city page says 24,421. I will not make those the same number. The median age is about forty-eight. It was surveyed in February 1796, two months before Dayton. If you stay on the road, I'll start at the three brothers-in-law.",
+    long: "",
+    names: ["Centerville"]
+  },
+  {
+    id: "centerville-survey",
+    name: "Centreville, New Jersey",
+    lat: 39.6222,
+    lng: -84.1222,
+    radius: 200,
+    short: "After the Treaty of Greenville opened this ground, Aaron Nutt, Benjamin Archer, and Benjamin Robbins surveyed it in February 1796. They were brothers-in-law. They had come from New Jersey by way of Pennsylvania and Kentucky, onto land owned by John Cleves Symmes. Each took ground near Main and Franklin. Robbins took 160 acres northwest of the center, for the springs. He named the place for his hometown, Centreville, New Jersey, and he said it sat between two rivers. The Ohio spelling is Centerville. I do not have the year the letters changed, and I will not invent it. The state recognized the place in 1803. It was platted in 1805, incorporated as a town in 1830, and made a city on December 2, 1968.",
+    long: "",
+    names: ["Benjamin Robbins"]
+  },
+  {
+    id: "centerville-hole",
+    name: "The County's Name",
+    lat: 39.6400,
+    lng: -84.1500,
+    radius: 300,
+    short: "In 1796 Dr. John Hole came into this country. He had served in the Revolution under General Richard Montgomery. He was the first doctor in the area, and he is credited with naming Montgomery County for that general. Montgomery did not die here. Hole built a cabin northwest of the present city, in what became Washington Township, near the creek that took his name. The treaty that let the survey happen was signed at Greenville, not on Main Street.",
+    long: "",
+    names: ["John Hole"]
+  },
+  {
+    id: "centerville-stone",
+    name: "The Uncle's House",
+    lat: 39.6280,
+    lng: -84.1450,
+    radius: 80,
+    short: "The first houses were logs. Later they were stone, from the limestone under the town. The city says this is Ohio's largest collection of early stone buildings. The old center is the Four Corners, Main and Franklin, brick walks and limestone. The city says the Asahel Wright house was once home to the Wright brothers' great-uncle. The bicycle shop is in Dayton. It is not this house.",
+    long: "",
+    names: ["Asahel Wright"]
+  },
+  {
+    id: "centerville-war",
+    name: "No Battlefield",
+    lat: 39.6300,
+    lng: -84.1300,
+    radius: 200,
+    short: "I do not have a native village under the Four Corners, and I will not invent one. There is no fort and no battlefield on these streets. The county's name is a general who died in Canada. The fight that opened the land was not fought here.",
+    long: "",
+    names: ["Centerville"]
+  },
 
 
 

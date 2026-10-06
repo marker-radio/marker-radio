@@ -10027,6 +10027,744 @@ name, when you want it, is Corning.",
     long: "",
     names: ["Henry Newberry"]
   },
+  {
+    id: "cuyahoga-falls-flood-rain",
+    name: "9.55 Inches",
+    lat: 41.1338,
+    lng: -81.4840,
+    radius: 80,
+    short: "A Falls history page says that in March 1913, 9.55 inches of rain fell in a few days on ground frozen hard. The Cuyahoga peaked on Tuesday, March 25, and Wednesday, March 26. The page calls it Ohio's worst weather tragedy, and then says this town suffered relatively little beside the rest of the state. The town, it quotes, was practically tied up. An old state exhibit says the rain statewide ran 6 to 11 inches from March 23 to March 27, that 467 people died, and that more than 40,000 homes were flooded. A Cleveland history page says at least 428 died in Ohio, and that 20,000 homes were destroyed. Dead is not the same word as flooded, and 467 is not 428. I will not pick. Neither number is a Cuyahoga Falls count. The Falls page says the water left a mess and a few deaths in Akron. It does not name a person dead in this town.",
+    long: "",
+    names: ["Cuyahoga River"]
+  },
+  {
+    id: "cuyahoga-falls-flood-streets",
+    name: "Where It Sat",
+    lat: 41.1420,
+    lng: -81.4868,
+    radius: 90,
+    short: "The same page says the worst of it here was about 15 acres at the north end of Bailey Road, houses standing in the water. The Ruggles family, on Third Street, were taken off in a boat when it looked as if the house would go. The 1913 Cuyahoga Falls Reporter said the overflow from the Elmwood Heights allotment, and the water over Front Street at Roethig's Run, tore out sidewalks and dug holes in yards. Gaylord's Grove and the low ground west of Silver Lake went under by several feet, and the water kept on to Munroe Falls. These are not one neighborhood. This pin is not a door. On Tuesday morning, March 25, the water reached the girders under the Broad Boulevard Bridge, and the town roped off both ends. The flood photographs in the library say Broad Street bridge. Boulevard and Street I will not weld into one span.",
+    long: "",
+    names: ["Bailey Road"]
+  },
+  {
+    id: "cuyahoga-falls-flood-shutdowns",
+    name: "What Shut",
+    lat: 41.1328,
+    lng: -81.4852,
+    radius: 50,
+    short: "That same Tuesday morning, the page says, the Walsh Paper Mill shut because high water had damaged the wheel house. Turner, Vaughn and Taylor shut the next day. That is not the Turner, Parks and Company that bought land from the Newberry and Sill families. I will not make one Turner out of two names. Monday night, the power plant at the gorge flooded and the town's power went out. I will not decide which of the gorge buildings that was. We already refused to make them one plant. A break in a gas line west of Akron killed the gas here about 6:45 in the morning, the old Reporter said. Flooded cellars put the furnaces out. People cooked on old oil stoves, or on coal. Schools closed. The mail stopped.",
+    long: "",
+    names: ["Walsh Paper"]
+  },
+  {
+    id: "cuyahoga-falls-flood-not-the-picture",
+    name: "Not the Picture",
+    lat: 41.1282,
+    lng: -81.4902,
+    radius: 50,
+    short: "The lumberyard photograph is a view from the bridge. It is not the flood. A university page says this same water tore out what stairs and trails were left in the gorge. That is one sentence about the gorge, not the week. A 2013 news story quotes the city's service director, Valerie Wax Carr, that a new crest of 14.28 feet had passed an old mark of 11.8 feet from a century before. The 1913 page never gives a height. I will not pretend 11.8 was printed in 1913. The next paste is the Walsh Paper Mill. I have it, so far, as the mill that shut on the morning the water touched the girders. I do not have the wheel house on a second page.",
+    long: "",
+    names: ["Walsh Paper"]
+  },
+
+  {
+    id: "cuyahoga-falls-walsh-paper",
+    name: "Paper, Not Flour",
+    lat: 41.1364,
+    lng: -81.4862,
+    radius: 50,
+    short: "The flood page said the Walsh Paper Mill shut on the morning of March 25, 1913, because high water damaged the wheel house. I still do not have that wheel house on a second page. A grave memorial transcribes a 1910 city directory, which I have not held. It puts the Walsh Paper Company on River Street, and it puts the Walsh Milling Company, the Pearl Flour Mills, on Portage Street, with a planing mill and building supplies. Same man, two works, two streets. A library picture is titled Walsh Milling Company, and the caption says it was probably taken in the 1913 flood. Probably stays in the sentence. I will not move the paper mill onto the flour mill because the names share a Walsh. This pin is not River Street, and it is not Portage.",
+    long: "",
+    names: ["Walsh Paper"]
+  },
+  {
+    id: "cuyahoga-falls-walsh-dam",
+    name: "The Timber Dam",
+    lat: 41.1350,
+    lng: -81.4876,
+    radius: 40,
+    short: "A Falls history page says Walsh Mills used an older timber dam, north of the powerhouse, from the early part of the century until the 1913 flood destroyed it. A destroyed dam is not a damaged wheel house. I will not make them the same wreck. The page says that after the flood he moved the dam downstream and built a new dam and powerhouse in 1914, in concrete, jointly with the Falls Clutch Company. That company had replaced the Falls Rivet Company. In 1920 Walsh bought out the clutch company's rights. The same page says he seems to have taken the ground after 1900. Seems stays. Before him, it says, Loeser and Company had a rolling mill, Loeser, Clark and Company had the Pearl Mills, on the west bank, and the rivet works was on the east. I will not say he founded Pearl. The page, written in 2013, called the dam soon to be demolished. I will not pretend that sentence is still a schedule.",
+    long: "",
+    names: ["Walsh Mills"]
+  },
+  {
+    id: "cuyahoga-falls-cornelius-walsh",
+    name: "Cornelius",
+    lat: 41.1312,
+    lng: -81.4824,
+    radius: 40,
+    short: "The directory transcription calls him Cornelius M. Walsh. In 1910 the wife is Jenny, and the house is the east side of South Main. In 1930 she is Jennie M., and the house is 1852 Second Street. He is listed as president of the paper company, and of the Cuyahoga Falls Savings Bank in 1910, and of the Falls Banking Company in 1930. I will not merge the banks. A Beacon story and the dam page call his widow Jane. Jenny, Jennie, and Jane I will not correct into one spelling. He died in 1932. The grave page gives the year 1864 for his birth, and the burial is in Cuyahoga Falls. The dam page says he died without an heir. The Beacon says Jane set aside one hundred thousand dollars in her will for a school in his memory, that a relative let it sit more than ten years until it was two million, and that in 1955 the Jesuits and the diocese used it. The dam page says Jane died in 1965. A will acted on in 1955, and a death in 1965, do not sit in an easy order. I will not fix her year. This pin is not either house.",
+    long: "",
+    names: ["Cornelius Walsh"]
+  },
+  {
+    id: "cuyahoga-falls-walsh-jesuit",
+    name: "The Handshake",
+    lat: 41.1782,
+    lng: -81.4915,
+    radius: 60,
+    short: "The Beacon says the school was supposed to stand near St. Joe's, downtown. Instead, in 1955, the Reverend John McGrail bought fifty acres on the Conway farm, to the north. The deal, so the story goes, was a handshake with a farmer's wife. So the story goes stays. The diocese put in another million. Within six years the school was borrowing to make payroll. The dam page says that what Walsh Industries still owned when Jane died went to the city, urban renewal on the west bank and the Ackerman Expressway on the east, and that the plants had mostly stopped around 1953. I will not put the high school on the mill lot. The next paste is the staybolt works. A 1910 directory already lists the Falls Hollow Staybolt Company on Portage Street. The dam page says it was founded just after the flood. Both cannot be the founding. I will not pick.",
+    long: "",
+    names: ["Jane Walsh"]
+  },
+
+  {
+    id: "cuyahoga-falls-staybolt-year",
+    name: "Before or After",
+    lat: 41.1372,
+    lng: -81.4866,
+    radius: 40,
+    short: "A grave page transcribes a 1910 directory. I have not held the book. The transcription already lists the Falls Hollow Staybolt Company, hollow and solid staybolt bars, on Portage Street, same phone as the flour mill. A Falls history page says the company was founded just after the 1913 flood, that it was the most profitable of the Walsh plants, and that it took the most power. Just after 1913, and already in a 1910 list, cannot both be the founding. I will not pick, and I will not treat a transcription as the book. A library photograph dated July 1916 shows the works on the west bank of the Cuyahoga, north of Portage Trail. North of the trail is not the same words as Portage Street. This pin is not that door.",
+    long: "",
+    names: ["Falls Hollow Staybolt"]
+  },
+  {
+    id: "cuyahoga-falls-staybolt-iron",
+    name: "The Bars",
+    lat: 41.1346,
+    lng: -81.4878,
+    radius: 40,
+    short: "The history page says the plant made wrought-iron staybolts. A trade line quoted on that same page says the iron was the best hammered charcoal iron, and that the company guaranteed it equal to any brand, here or imported. Wrought and charcoal I will not melt into one word. The page says the rolls took piles of iron down to hollow bars eighty feet long, and the bars were cut into bolts that held the two sheets of a locomotive firebox. The dam beside the plant, it says, was the largest industrial hydroelectric works on the river, a fall of thirteen feet and two generators, and the current turned those rolls. A Patch post repeats this. It is the same essay, not a second witness. A catalog on a later photograph drops the word industrial and says it was the largest hydroelectric plant on the river. Largest of the industrial plants is not the largest plant of every kind.",
+    long: "",
+    names: ["Staybolt"]
+  },
+  {
+    id: "cuyahoga-falls-mansfield",
+    name: "Mansfield's Patent",
+    lat: 41.1334,
+    lng: -81.4848,
+    radius: 40,
+    short: "George Henry Mansfield, of Cuyahoga Falls, filed a patent on March 7, 1925, renewed it on February 3, 1928, and was issued number 1,693,487 on November 27, 1928. The claim is a way to roll hollow staybolt bars. Heat a hollow billet, put a refractory core inside, roll it down to staybolt size, and pull the core. He also claims a hollow pile made of curved sections, and a tube of refractory packed in it. The patent is in his own name. It does not say Walsh. It does not say Falls Hollow. I will not give the mill his process because he lived in the same town and worked the same shape of iron. This pin is not his house.",
+    long: "",
+    names: ["George Henry Mansfield"]
+  },
+  {
+    id: "cuyahoga-falls-staybolt-after",
+    name: "After the Rolls Stopped",
+    lat: 41.1358,
+    lng: -81.4884,
+    radius: 40,
+    short: "The history page says the staybolt company stopped producing in 1953, and that the powerhouse and most of the other Walsh plants closed around then. A Beacon photograph is titled as 1970 and dated May 25, 1976, published that July. The catalog says the turbine house was built in 1914, ran until about 1953, and had been made part of a restaurant at 2291 Riverfront Parkway. The catalog's own source note points back to the same dam page. So 1914 and 1953 in the caption are not a new document. The dam's title also carries the name LaFever. I do not have his first name, or what he built. The next paste is the Pearl Mills, the flour name on this bank before Walsh. I have Loeser, Clark and Company on one page. I will not yet say what they ground.",
+    long: "",
+    names: ["LaFever"]
+  },
+
+  {
+    id: "cuyahoga-falls-pearl-loeser",
+    name: "Two Firms, One Sentence",
+    lat: 41.1368,
+    lng: -81.4868,
+    radius: 40,
+    short: "The dam page says that before Walsh, Loeser and Company had a rolling mill, and Loeser, Clark and Company had the Pearl Mills, both on the west side of the river. The Falls Rivet Company was on the east bank. That is one sentence and two companies. A rolling mill is not a flour mill because they share a Loeser. The page gives no first names, and it says Walsh seems to have taken the ground after 1900. Seems stays. A photograph of the later power plant is labeled East Portage Trail. West bank, and East Portage Trail, I will not force into one door. This pin is not it.",
+    long: "",
+    names: ["Loeser"]
+  },
+  {
+    id: "cuyahoga-falls-pearl-flour",
+    name: "Flour Is Walsh's Word",
+    lat: 41.1360,
+    lng: -81.4854,
+    radius: 40,
+    short: "The 1910 directory transcription calls Walsh's works the Pearl Flour Mills, on Portage Street, with a planing mill and building supplies. A state directory of Ohio flour mills lists the Walsh Milling Company at Cuyahoga Falls, and does not list Loeser. So flour is on the name after Walsh. It is not on the sentence about Loeser, Clark and Company. I will not move the word backward. Pearl can be a flour brand, a barley, a paper finish. This town used the word. I still will not say what Loeser and Clark ground.",
+    long: "",
+    names: ["Pearl Flour"]
+  },
+  {
+    id: "cuyahoga-falls-loeser-paper",
+    name: "The Paper Loeser",
+    lat: 41.1322,
+    lng: -81.4842,
+    radius: 50,
+    short: "An 1881 county history puts a J. M. Loeser in a different trade. In 1879 he entered a paper firm with A. S. Deutsch and S. Levi, after George Dow and George Sacket retired. The firm had been organized by Robert R. Peebles, Dow, and Sacket, to make wrapping paper and colored paper for posters, handbills, and tobacco labels. The history says eight thousand pounds a day, steam and river water, buildings on the bank. The first building, it says, was a grist mill put up by Yockey, Vantine and Company, run for flour for some years, then bought by J. M. Smith and Company and turned into a paper mill. That grist mill is not called Pearl. J. M. Loeser the paper partner is the only Loeser I have a first name for. I will not paste him onto the rolling mill, or onto Pearl.",
+    long: "",
+    names: ["J. M. Loeser"]
+  },
+  {
+    id: "cuyahoga-falls-not-the-first-mill",
+    name: "Not the First Mill",
+    lat: 41.1476,
+    lng: -81.4906,
+    radius: 60,
+    short: "A library picture of an unnamed old mill says on the back that it helped feed both Federals and Confederates. No firm. No year. I will not hang that line on Pearl. The first grist mill in the books I have is earlier, and the books do not agree. Perrin's county history says Kelsey and Wilcox built a dam in 1812 where the railroad bridge crosses, and put up the village's first grist mill and sawmill. The city's own code, citing a bicentennial history, says Francis Kelsey and Isaac Wilcox built a grist mill in 1809 near Front Street and Bailey Road, and a dam in 1812 for a sawmill. Eighteen-oh-nine and eighteen-twelve are not the same year. Front and Bailey is not a sentence about the railroad bridge. The next paste is that first dam. I will not call it Pearl.",
+    long: "",
+    names: ["Kelsey"]
+  },
+
+  {
+    id: "cuyahoga-falls-kelsey-dam",
+    name: "Kelsey and Wilcox",
+    lat: 41.1498,
+    lng: -81.4892,
+    radius: 70,
+    short: "The historical society says that in 1812 Kelsey and Wilcox dammed the Cuyahoga for a flour mill, an oil mill, and a sawmill. Perrin's county history says the same year they dammed the river where the railroad bridge crosses, and built a grist mill and a sawmill, the first in the village. The oil mill, Perrin says, came after the War of 1812, when Stow and Wetmore bought the property. The city's code, citing a bicentennial history, gives the first names Francis Kelsey and Isaac Wilcox, puts a grist mill in 1809 near Front Street and Bailey Road, and puts the dam in 1812 for a sawmill only. A page on William Wetmore says that during the war, as Joshua Stow's agent, he gave those two men permission for a dam and a sawmill. It is said, that page says, the army used the lumber for ships at the Portage. It is said stays. Eighteen-oh-nine and eighteen-twelve are not the same year. Three mills, two mills, and a sawmill are not the same works. This pin is not Front and Bailey, and it is not the railroad bridge.",
+    long: "",
+    names: ["Francis Kelsey"]
+  },
+  {
+    id: "cuyahoga-falls-wetmore-1825",
+    name: "The Dam That Drowned It",
+    lat: 41.1384,
+    lng: -81.4856,
+    radius: 40,
+    short: "The city code says that in 1825 William Wetmore, the son, built a dam near Stow Avenue, just north of the Portage Trail bridge. It flooded the Kelsey and Wilcox dam to the north, and the village shifted south. His mills took lumber, grain, and linseed. Perrin says William Junior, for Stow and Wetmore, set thirty men to a dam where the upper one stood when that book was written, finished in a June, with a grist mill, a sawmill, and an oil mill, and that the first mills were taken down because the new dam drowned them. Perrin does not give me the year of that June in the lines I have. A town page says the old village was destroyed in 1826. Eighteen-twenty-five and eighteen-twenty-six I will not average. A Wetmore page says the sons William Junior and Henry, in 1825, also put up paper mills. Perrin dates the paper mill at 1830, on the east bank, the first sheet on December 8, and says the father was already dead. An 1898 picture caption says William Wetmore and Roger Newberry began the river land in 1825. The Falls column we already used says Roger never saw Ohio and died in 1813, and that his son Henry built the Broad Street dam. I will not correct Roger into Henry to make the caption behave.",
+    long: "",
+    names: ["William Wetmore"]
+  },
+  {
+    id: "cuyahoga-falls-manchester",
+    name: "Manchester",
+    lat: 41.1336,
+    lng: -81.4828,
+    radius: 50,
+    short: "The city code says William Wetmore was born in 1771 and died in 1827, Joshua Stow's cousin and land agent, here from Connecticut about 1804. By 1812 he had claimed two square miles and called the place Manchester, after the English mill town. A Wetmore page gives the days, September 16, 1771, and October 27, 1827, and says he and Stow held 210 acres with Portage Trail as the south line. Two square miles and 210 acres are not the same claim. I will not add them. The code says the river dropped more than 200 feet in two miles, and that below the falls a boat could still make Lake Erie. The code says by 1826 the name was Cuyahoga Falls, and Judge Elkanah Richardson platted the town. A town page says the post office asked for the new name because Ohio already had other Manchesters, and that the village was laid out in 1826. Incorporated in 1836. The code says 375 people. The town page says the bounds were 240 rods taken from Stow and Tallmadge, and that in 1853 the village council dissolved and the place was only a township until 1868. I will not turn rods into people.",
+    long: "",
+    names: ["Manchester"]
+  },
+  {
+    id: "cuyahoga-falls-paper-1830",
+    name: "December 8",
+    lat: 41.1348,
+    lng: -81.4834,
+    radius: 40,
+    short: "Hold the paper mill out of 1825. Perrin says Stow and Wetmore built it on the east side in 1830, and the first sheet came off on December 8. The father was dead by then, which fits a death in October 1827, and does not fit a man building paper mills in the year the other page prefers. A town page also says a sawmill was running near Gaylord's Grove in 1815, on another dam. That is not Kelsey's. The next paste is the paper mill itself. One page gives me December 8, 1830. Another folds paper into the dams of 1825. I will not pick a year by splitting the difference.",
+    long: "",
+    names: ["Stow"]
+  },
+
+  {
+    id: "cuyahoga-falls-paper-december",
+    name: "December 8, 1830",
+    lat: 41.1376,
+    lng: -81.4840,
+    radius: 40,
+    short: "Perrin says that in 1830 Stow and Wetmore, the father already dead, built a paper mill on the east side of the river, and the first sheet came off on December 8. Henry Wetmore's letter in that book says they finished in December, and that this was the first mill in the state to gather the pulp on a cylinder. He says three or four small hand mills in Ohio still dipped the pulp and shook it. The printed line is garbled. I will not clean it into a word he may not have written. Lane's later history says the mill stood near their dam, on the east bank, and that it is believed to have been the first in Ohio to make paper by machine instead of by hand. Believed is not Henry's flat claim, and Henry's claim is not a census of every mill in the state. A Wetmore page still folds paper into the dams of 1825. I will not average 1825 and December 8. This pin is the east side. It is not the west-bank works we have been calling Pearl.",
+    long: "",
+    names: ["Henry Wetmore"]
+  },
+  {
+    id: "cuyahoga-falls-rumrill",
+    name: "The Sheet He Carried",
+    lat: 41.1372,
+    lng: -81.4836,
+    radius: 40,
+    short: "Lane says the mill was finished with John Rumrill, a paper-maker from Springfield, Massachusetts, and that Rumrill himself ran that first sheet off the cylinder on December 8, 1830. When Lane wrote, Rumrill was still living in Cuyahoga Falls, past ninety. Lane relates, as a coincidence, that Henry, the business manager, was about to leave that same day for Franklin Mills to be married, and that he carried the sheet along to show. That evening he married Eliza Bradford Price at the house of her uncle, Captain William H. Price, then the only merchant there, and owner of a large part of the ground where Kent now stands. Franklin Mills is that town, not this one. Perrin does not tell the wedding. I will not move Lane's story into Henry's letter. This pin is not the house where they married.",
+    long: "",
+    names: ["John Rumrill"]
+  },
+  {
+    id: "cuyahoga-falls-paper-pulled-down",
+    name: "Pulled Down",
+    lat: 41.1370,
+    lng: -81.4844,
+    radius: 40,
+    short: "Henry's letter says Joshua Stow, of Middletown, Connecticut, was the partner, under the name Stow and Wetmores. In March 1837 Henry sold his interest to Stow. After that, he says, time wore out the frame and the timbers, and the mill was pulled down. Lane, writing later, says the remains were still visible on the bank. Pulled down, and still visible, can both be true if what showed was not a mill you could work. I will not put the building back up. When Lane wrote, Henry was ninety and Eliza was eighty-one. I will not turn those ages into a birth year.",
+    long: "",
+    names: ["Joshua Stow"]
+  },
+  {
+    id: "cuyahoga-falls-second-paper",
+    name: "Not the Second Mill",
+    lat: 41.1362,
+    lng: -81.4850,
+    radius: 40,
+    short: "The city code says that by the 1830s the town had two small paper mills. Lane says a flood in 1832 carried away the oil mill. It was rebuilt, run for a while as an oil mill by E. N. Sill and Ogden Wetmore, and afterward turned into a paper mill by Prentiss Dow and John Rumrill, and later run by Prentiss and George Dow. That is a second works, made out of an oil mill, and Rumrill's name is on both. I will not give the second one December 8. The next paste is that flood and that oil mill. I have the year 1832 from Lane. I do not yet have which dam it sat on.",
+    long: "",
+    names: ["Prentiss Dow"]
+  },
+
+  {
+    id: "cuyahoga-falls-oil-1832",
+    name: "The Mill the Water Took",
+    lat: 41.1340,
+    lng: -81.4846,
+    radius: 40,
+    short: "Perrin says that while Stow and Wetmore were building upstream in 1825, Henry Newberry was at work in the lower village. He built the dam that, when Perrin wrote, was Turner, Parks and Company's. The next year he put a sawmill on the west bank and an oil mill on the east. A flood in 1832 carried that oil mill away. Lane, writing of the dam as it stood in 1891 under Turner, Vaughn and Taylor, puts the sawmill and the linseed mill both in 1825, on that same dam. Eighteen-twenty-five and the next year are not the same season. An earlier Falls column puts Newberry's dam just below Broad Street, saw on the west, oil on the east. Turner, Parks, and Turner, Vaughn and Taylor, I will not make one firm because two books point them at a dam. This pin is not the Wetmore dam north of Portage. That one had its own linseed mill, and I will not give it this flood.",
+    long: "",
+    names: ["Henry Newberry"]
+  },
+  {
+    id: "cuyahoga-falls-oil-rebuilt",
+    name: "Rebuilt, Then Paper",
+    lat: 41.1336,
+    lng: -81.4842,
+    radius: 40,
+    short: "Both books say a new mill went up at once. E. N. Sill and Ogden Wetmore ran it as an oil mill. The initials match a Sill we have already met on Newberry's land. I will not spell out a name the flood page does not spell. Ogden is not Henry, and he is not William Junior. Then the order splits. Perrin says the mill was sold to John Rumrill, that Rumrill sold it to Prentiss Dow, and that Dow turned it into a paper mill. They ran it as Dow, Rumrill and Company, the partnership ended, and P. and G. Dow ran it after. Perrin says the building was finally removed. Lane says Prentiss Dow and John Rumrill converted it, and that Prentiss and George Dow ran it later. Sold, then converted, is not the same as converted together. Neither page gives a height for the water, or a death. I will not borrow those from 1913.",
+    long: "",
+    names: ["Ogden Wetmore"]
+  },
+  {
+    id: "cuyahoga-falls-other-oil",
+    name: "The Other Oil",
+    lat: 41.1386,
+    lng: -81.4854,
+    radius: 40,
+    short: "Do not let one flood collect every oil mill in town. Lane says that in 1825 and 1826, north of Portage Street, Stow and Wetmore's crew put up a sawmill, a grist mill, and a linseed mill of their own. A Falls column adds a paper mill there in 1826. We already have a first sheet dated December 8, 1830, and I will not average those years. Perrin also says Penfield and Starr ran an oil mill beside the woolen factory, near the later shops of Turner, Vaughn and Taylor. And he says an oil mill built by Cyrus Prentiss stood on the site of later works, and that Henry Wetmore made linseed oil there until 1863. Cyrus Prentiss is not Prentiss Dow. Until 1863 is not a mill the river took in 1832. This pin is the upper dam. It is not a door I can swear to.",
+    long: "",
+    names: ["Penfield"]
+  },
+  {
+    id: "cuyahoga-falls-1832-two-stories",
+    name: "Two Stories in One Year",
+    lat: 41.1332,
+    lng: -81.4838,
+    radius: 40,
+    short: "Lane uses 1832 for something else as well. He says Dr. Eliakim Crosby that year built the Cascade mill race from Middlebury toward Akron, and that the new power there pulled manufacturers off this river. A race in Akron is not a flood in the Falls. A town list Lane quotes, and does not date, still counts two paper mills and one oil mill in the same breath. So an oil mill was still grinding after a paper mill had been made out of Newberry's. I will not decide which of the survivors it was. The woolen factory beside Penfield and Starr burned. Perrin says the incendiary was spontaneous combustion. That line can wait. The next paste is the other oil mill. I have Cyrus Prentiss until 1863, and I have Penfield and Starr beside the woolen works, and I will not yet make them the same building.",
+    long: "",
+    names: ["Cyrus Prentiss"]
+  },
+
+  {
+    id: "cuyahoga-falls-penfield-starr",
+    name: "Beside the Woolen Mill",
+    lat: 41.1344,
+    lng: -81.4848,
+    radius: 40,
+    short: "Perrin says the first woolen factory in Cuyahoga Falls stood near the shops that, when he wrote, belonged to Turner, Vaughn and Taylor. The factory burned. He says the incendiary was spontaneous combustion. He gives no year. In the next breath he says an oil mill run by Penfield and Starr adjoined that woolen factory. The printed line breaks there. I do not have the rest of the sentence, so I will not give them a dam, a street, or a product beyond oil. This pin is not Newberry's east-bank mill, the one the 1832 flood took. Adjoining the woolen works is not the same as standing on his dam.",
+    long: "",
+    names: ["Penfield"]
+  },
+  {
+    id: "cuyahoga-falls-cyrus-prentiss",
+    name: "Until 1863",
+    lat: 41.1354,
+    lng: -81.4856,
+    radius: 50,
+    short: "Perrin says that on the site of these works there once stood an oil mill built by Cyrus Prentiss. The print breaks his name. I will not invent a middle initial to repair it. Henry Wetmore afterward used that mill for linseed oil until 1863, when it gave place to the works Perrin had already mentioned. The lines I have do not repeat that name. The next sentence in the book is the Cuyahoga Paper Company, organized in 1875. Before mentioned points backward, not at the next sentence. I will not hand the 1863 mill to the paper company to fill the hole. Henry had sold his interest in the first paper mill in 1837. Linseed until 1863 is a later job. It does not put him back in the mill of December 8. This pin is not a door. I do not have the site.",
+    long: "",
+    names: ["Cyrus Prentiss"]
+  },
+  {
+    id: "cuyahoga-falls-not-those-penfields",
+    name: "Not Those Penfields",
+    lat: 41.1338,
+    lng: -81.4840,
+    radius: 40,
+    short: "I went looking for a second page on Penfield and Starr. What came back was Daniel Penfield's mills on Irondequoit Creek in Penfield, New York, and a Lorain County settlement where Starrs married Penfields. Those are other towns. I will not borrow a sawmill, a soap factory, or a family tree to thicken this one. Prentiss Dow, who turned Newberry's rebuilt mill into paper, is not Cyrus Prentiss. Same first name is not the same man. Until a Falls page sits them in one building, Penfield and Starr, and Cyrus Prentiss, remain two oil mills, and the 1832 wreck remains a third.",
+    long: "",
+    names: ["Starr"]
+  },
+  {
+    id: "cuyahoga-falls-woolen-next",
+    name: "The Fire Can Wait",
+    lat: 41.1348,
+    lng: -81.4850,
+    radius: 40,
+    short: "Hold the woolen factory out of the oil. Perrin only uses it as a neighbor, and as a fire. Spontaneous combustion is his phrase for the cause, not a date. The next paste is that factory. It was the first woolen works in the Falls, near the later machine shops, and it burned. I still do not have the year, and I will not take one from a Penfield in another state.",
+    long: "",
+    names: ["Woolen mill"]
+  },
+
+  {
+    id: "cuyahoga-falls-woolen",
+    name: "The First Woolen Works",
+    lat: 41.1338,
+    lng: -81.4844,
+    radius: 40,
+    short: "Perrin says the first woolen factory in Cuyahoga Falls stood near the shops that, when he wrote, belonged to Turner, Vaughn and Taylor. It burned. He says the incendiary was spontaneous combustion. He does not give a year, and he does not give a builder. A second copy of that page, on a genealogy site, is the same book, page 491. It is not a second witness. The city code, citing Heintz, counts one woolen mill among the works of the 1830s. A count is not a founding day, and it is not the day of the fire. This pin is not those later shops. Perrin only says near them.",
+    long: "",
+    names: ["Woolen mill"]
+  },
+  {
+    id: "cuyahoga-falls-woodbine",
+    name: "Saved, Then Gone",
+    lat: 41.1342,
+    lng: -81.4848,
+    radius: 40,
+    short: "The sentence that broke across the page is finished now. Penfield and Starr's oil mill adjoined the woolen factory at the time of the fire, and it was saved. Perrin then says it has gone where the woodbine twineth. That is his phrase, not a date. Saved, and gone, are two times. I will not make the fire the thing that destroyed the oil mill. The mill outlived the factory, and then it vanished, and the book does not say how.",
+    long: "",
+    names: ["Penfield"]
+  },
+  {
+    id: "cuyahoga-falls-not-the-1834-fire",
+    name: "Not the 1834 Fire",
+    lat: 41.1330,
+    lng: -81.4840,
+    radius: 40,
+    short: "The next sentence is 1834, and it is not this factory. Mr. Vaughn built a foundry and a trip-hammer shop on the south side of what was, when Perrin wrote, the stone bridge, where the sawmill stands. That shop burned and was never rebuilt. I will not move 1834 back onto the woolen mill to fill the hole. In the same book the Variety Iron Works pass to Turner, Parks and Taylor, and in 1879 to Turner, Vaughn and Taylor. That 1879 is the date of a later firm. The woolen sentence only uses their name as a landmark. A library picture of their buildings is filed in the decades after the war. It is not a picture of the woolen factory. This pin is not the stone bridge.",
+    long: "",
+    names: ["Vaughn"]
+  },
+  {
+    id: "cuyahoga-falls-not-cleveland-wool",
+    name: "Not Those Fires",
+    lat: 41.1334,
+    lng: -81.4836,
+    radius: 40,
+    short: "I went looking for a year and found other wool. Cleveland's worsted mill, started in 1878, burned in an arson fire in 1993. A Falls plant on Marc Drive burned in December of 2012. Neither is a woolen factory on this river in Perrin's chapter. Just south of the 1834 foundry, the same page says, Isaac Lewis had a carriage shop. The building was later a paper mill, run by George E. Clarke and his nephew Seymour, and it too passed away. That is not this fire either. The next paste is Mr. Vaughn's foundry of 1834. I will not give him a first name until a page does.",
+    long: "",
+    names: ["Isaac Lewis"]
+  },
+
+  {
+    id: "cuyahoga-falls-vaughn-1834",
+    name: "Never Rebuilt",
+    lat: 41.1332,
+    lng: -81.4842,
+    radius: 40,
+    short: "Perrin says that in 1834 Mr. Vaughn built a foundry and a trip-hammer shop on the south side of what was, when he wrote, the stone bridge, where the sawmill stands. It burned and was never rebuilt. No first name. No year for the fire. A Falls page that starts from an 1860 directory also prints a later notice of the Variety Works, established in 1856, incorporated on January 11, 1889, with C. W. Vaughn as superintendent. I will not hand C. W. to the man of 1834. A shop that was never rebuilt is not a company that closed in 1971, and it is not the Sheraton that went up on that later site in 1990. A library picture of a foundry interior is filed with Vaughn Machinery, in the decades after the war. It is not this shop. A town marker says that by the 1850s a foundry made the town clock. I will not give the clock to a building that was never rebuilt. This pin is not the stone bridge. I do not have its modern name.",
+    long: "",
+    names: ["Vaughn"]
+  },
+  {
+    id: "cuyahoga-falls-isaac-lewis",
+    name: "Just South",
+    lat: 41.1326,
+    lng: -81.4840,
+    radius: 40,
+    short: "Perrin says that just south of Vaughn's shop, Isaac Lewis carried on a carriage shop. The building was later a paper mill, run by George E. Clarke and his nephew Seymour, and it passed away. Lane says Lewis was born in Utica, New York, on January 15, 1809, learned the wagon trade, married Maria Swartz on March 2, 1833, and settled in the Falls a few months after he came to Ohio that September. He worked at the trade until 1841, then boated on the Ohio Canal for ten years. Lane names the boats he ran, one after another: the Joshua Stow, the Joseph S. Lake, the Alice, and the Cuyahoga. He owned an eighth of the packets Akron and Cleveland, and he ran the Cleveland between Cleveland and Akron. In 1851 he went to the railroad. Lane says he brought the first train into Akron on July 1, 1852, and freighted the first lump coal by rail to Cleveland. On May 13, 1858, he opened a grocery in the Falls and kept it more than thirty years. An 1860 list names I. Lewis among the grocers. He died on September 2, 1891. Eighteen-forty-one is when he left the trade. It is not the date of Clarke's paper mill. This pin is not that building.",
+    long: "",
+    names: ["Isaac Lewis"]
+  },
+  {
+    id: "cuyahoga-falls-second-foundry-1834",
+    name: "The Other 1834",
+    lat: 41.1346,
+    lng: -81.4836,
+    radius: 50,
+    short: "Do not let one year make one shop. Perrin says that in 1834 Ogden Wetmore and B. R. Manchester also built a foundry and a machine shop, near where the brick paper mill stood when he wrote. They ran the foundry about two years. Then L. W. Butler took Manchester's place. In 1835 the Messrs. Bill leased the machine shop, later bought it, and used it until 1843, when fire destroyed it. In 1845 the Bills put up a brick foundry and machine shop, rented that to J. M. Smith and Company for a paper mill, and built a small shop across the street for themselves. Burned and never rebuilt is Vaughn. Burned in 1843, and brick in 1845, is the Bills. J. M. Smith is a name we have already met on a paper mill. I will not yet make this rental that mill. This pin is not Vaughn's, and it is not a door.",
+    long: "",
+    names: ["B. R. Manchester"]
+  },
+  {
+    id: "cuyahoga-falls-two-fires",
+    name: "Two Fires",
+    lat: 41.1336,
+    lng: -81.4846,
+    radius: 40,
+    short: "Hold the fires apart. Vaughn's has no date. The Bills' has 1843. The woolen factory's fire has no date either, and the oil mill beside it was saved. Three losses, and only one of them has a year. The next paste is Wetmore and Manchester's foundry, the other one of 1834. Theirs was leased, sold, burned in 1843, and replaced in brick. I will not average that with a shop that was never rebuilt, and I will not give Mr. Vaughn a first name off C. W.",
+    long: "",
+    names: ["Ogden Wetmore"]
+  },
+
+  {
+    id: "cuyahoga-falls-wetmore-manchester",
+    name: "The Other Foundry",
+    lat: 41.1348,
+    lng: -81.4838,
+    radius: 50,
+    short: "Perrin says that in 1834 Ogden Wetmore and B. R. Manchester built a foundry and a machine shop near where the brick paper mill stood when he wrote. They ran the foundry about two years. Then L. W. Butler took Manchester's place. An 1876 page says Manchester removed, and Butler became Wetmore's partner. That is the same handoff, told a little fuller. It is not Mr. Vaughn's shop on the south side of the stone bridge. The 1876 transcription spells that other man Yaughn. Perrin spells him Vaughn. A misread letter is possible. I will not make two founders out of V and Y, and I will not give either of them the initials C. W. Ogden is the name we already have on the oil mill after the 1832 flood. Two businesses are not yet two men. The city code, citing Heintz, speaks of a foundry in the 1830s, in the singular. This year had two. This pin is not the stone bridge, and it is not a door.",
+    long: "",
+    names: ["B. R. Manchester"]
+  },
+  {
+    id: "cuyahoga-falls-bills-1843",
+    name: "Consumed in 1843",
+    lat: 41.1350,
+    lng: -81.4834,
+    radius: 40,
+    short: "In 1835 the Messrs. Bill leased the machine shop. Perrin says they afterward bought it and used it until 1843, when fire destroyed it. The 1876 page says consumed by fire. Same year. No first names for the Bills. I will not invent brothers to fill Messrs. Vaughn's fire still has no year, and his shop was never rebuilt. This one has 1843, and it did not end the firm. This pin is not Vaughn's.",
+    long: "",
+    names: ["Bill"]
+  },
+  {
+    id: "cuyahoga-falls-bills-1845",
+    name: "Brick, Then a Lease",
+    lat: 41.1354,
+    lng: -81.4830,
+    radius: 40,
+    short: "In 1845 the Bills put up a brick building for a foundry and a machine shop. To rent it to J. M. Smith and Company for a paper mill, they built a small shop on the other side of the street for themselves. The lease was ten years. Before it ran out, Harrison and Hanford succeeded Smith, bought the property, and added to it until it was called the Empire Mill. Ten years from 1845 would be 1855, if the lease began the year the brick went up. Before its expiration is not a year I can print. J. M. Smith is a name we have already met on a paper mill made from a grist mill. A foundry rented out for paper is not that grist mill until a page says so. This pin is not the small shop across the street.",
+    long: "",
+    names: ["J. M. Smith"]
+  },
+  {
+    id: "cuyahoga-falls-empire-not-yet",
+    name: "1872 Is Later",
+    lat: 41.1344,
+    lng: -81.4840,
+    radius: 40,
+    short: "Hanford Brothers ran the Empire Mill until 1872, when it burned. That is a third fire. Not 1843, and not Vaughn's. The Bills took James Chamberlain as a partner, and for several years the shops ran as Bill and Chamberlain. To make room they removed the shops first built and put up large buildings opposite the Empire Mill. The shops first built, in that sentence, are not the 1834 shop the fire took in 1843. A building on Front Street that people call the Foundry went up in 1928. It is not this one. The next paste is the Empire Mill. I have Harrison and Hanford, I have Hanford Brothers, and I have a fire in 1872. I do not yet have a street.",
+    long: "",
+    names: ["James Chamberlain"]
+  },
+
+  {
+    id: "cuyahoga-falls-empire-night",
+    name: "September 18, 1872",
+    lat: 41.1342,
+    lng: -81.4832,
+    radius: 60,
+    short: "Lane says that about one in the morning, on September 18, 1872, fire was found in the large machine shop of Alford, Pitkin and Company, on the east side of Water Street. They were the successors of A. G. and H. W. Bill. Those are the initials Perrin never printed. A stiff breeze was up, and the town did not have the means to put it out. The shop was soon gone. Nearly across the street stood the fine new brick Empire Mill of Hanford Brothers, making fine cover papers, part two stories and part three above the basement. The wind was from the east. It carried the fire from the shop to the mill, and the mill was destroyed. Loss, thirty-two thousand dollars. Insurance, fourteen thousand. I will not subtract those and call the difference a fact the book forgot. Thomas O'Neil fell. A box broke his leg above the knee. James Peebles was overcome by the heat and carried home unconscious. Lane says both recovered. Perrin says the shops ran until that fire, and then disappeared with everything in them. He does not put Bill and Chamberlain on the door that night. This pin is Water Street as Lane names it. I do not have the modern corner, and I will not decide which side of the street the mill stood beyond his words, nearly across.",
+    long: "",
+    names: ["Hanford Brothers"]
+  },
+  {
+    id: "cuyahoga-falls-empire-rebuilt",
+    name: "Burned, Then Rebuilt",
+    lat: 41.1346,
+    lng: -81.4836,
+    radius: 50,
+    short: "Perrin stops at burned down. Lane says the mill was immediately rebuilt. After what he calls a great variety of vicissitude, the Empire, together with the Phoenix, was owned by George Sackett, and for several years was run by the Cuyahoga Paper Company. Vicissitude is his word. He does not list it. In October 1891 Lane counts the company at the Empire and the Phoenix, fine cover and wrapping papers, five tons a day when running full-handed, and then operating only in part. In Sackett's own sketch in the same book, the company makes every variety of print and colored papers. Cover and wrapping, and print and colored, are both Lane. I will not pick one line and throw the other out. Fine and new, the night of the fire, is not a claim that the walls were built in 1872. Harrison and Hanford had already added to the place until it was called the Empire. Added, and new, can both be true. I will not swear the brick of 1845 was the brick that burned.",
+    long: "",
+    names: ["George Sackett"]
+  },
+  {
+    id: "cuyahoga-falls-sackett-not-the-fire",
+    name: "The Man, Not the Night",
+    lat: 41.1350,
+    lng: -81.4840,
+    radius: 40,
+    short: "Lane says George Sackett was born in Warren, Connecticut, on January 6, 1821, son of Aaron and Huldah Tanner Sackett, and came with his parents to Tallmadge in 1838. He married Helen Williams of Cuyahoga Falls on September 5, 1848. She died on June 10, 1851. He married Fanny V. Grant on February 9, 1854. Their daughter Mary P. was born on January 3, 1867. He was elected county commissioner in October 1867. When Lane wrote, he was president of the paper company. A family page, not Lane, puts his death on July 12, 1907, in the Falls, and says he was buried at Oakwood. Lane could not have printed that. The same page gives him fourteen hundred acres. I will not move the farm onto Water Street. Helen was twenty-one years dead the night of the fire. I will not put her in it.",
+    long: "",
+    names: ["Helen Williams"]
+  },
+  {
+    id: "cuyahoga-falls-not-empire",
+    name: "Not This Mill",
+    lat: 41.1336,
+    lng: -81.4828,
+    radius: 40,
+    short: "I looked for Hanford and found a mill in East Meredith, New York, that took the name. That is not Water Street. A photograph in the Falls library is captioned as the old mill that helped feed both Federals and Confederates. The Empire, the night it burned, was making cover paper. I will not hang that caption here. Perrin's next sentence is a paper mill built by T. L. Miller, once standing on the east side of the canal. The canal is not this street. The next paste is the Phoenix. Lane pairs it with the rebuilt Empire, and in October 1891 both were running only in part. I do not yet have who built the Phoenix, or which side of the river it stood on.",
+    long: "",
+    names: ["Phoenix Mill"]
+  },
+
+  {
+    id: "cuyahoga-falls-smith-1853",
+    name: "November 25, 1853",
+    lat: 41.1338,
+    lng: -81.4858,
+    radius: 60,
+    short: "Lane says that on the night of November 25, 1853, the fine new paper mill of J. M. Smith and Company, on the west side of the river, burned entirely. It had been running only a few days. Mill, stock, and machinery were valued at twenty thousand dollars. About five thousand dollars' worth of machinery was saved. He calls the net loss about fifteen thousand. William A. Hanford was the Co. of the firm. He had applied for insurance. Lane's printed line says the papers were to have been executed the day, so the loss was total. A word is missing in that line. I will not insert next. Total, here, is the insurance. It is not the machinery he already said was saved. This is the west bank. It is not Water Street, and it is not the brick foundry the Bills rented to Smith in 1845. A fine new mill, a few days old, is a different sentence from a ten-year lease. This pin is not a door.",
+    long: "",
+    names: ["William A. Hanford"]
+  },
+  {
+    id: "cuyahoga-falls-phoenix-paper",
+    name: "Named After the Fire",
+    lat: 41.1342,
+    lng: -81.4854,
+    radius: 50,
+    short: "The west side mill, burned that November, was rebuilt at once by the same firm, and rechristened the Phoenix. The name belongs to the second building, not to the one that burned on the 25th. It passed to Hanford and Yeomans. At noon on October 30, 1867, it burned again. Loss, twenty-five to thirty thousand dollars. Insurance, about twelve thousand. Hanford and Yeomans rebuilt it, with what Lane calls first-class machinery. When he wrote, it was part of the plant the Cuyahoga Paper Company had been running for some years, together with the Empire, under George Sackett. In October 1891 both mills were running only in part. William A. Hanford was already the Co. the night of the first fire. I will not yet say he is the Hanford in Hanford and Yeomans. This pin is the same west bank. It is not a second door.",
+    long: "",
+    names: ["Hanford and Yeomans"]
+  },
+  {
+    id: "cuyahoga-falls-phoenix-not-harrison",
+    name: "The Partner Does Not Match",
+    lat: 41.1334,
+    lng: -81.4850,
+    radius: 40,
+    short: "Perrin has a paragraph that begins in the middle. Soon after, it was burned. Another mill went up at once, run by Harrison and Hanford, until that one burned. It was built again, used by those men, and then bought by the Cuyahoga Paper Company. I do not have the sentence that tells me what it was. If that it is the Phoenix, the partner does not match. Lane says Hanford and Yeomans. Perrin says Harrison and Hanford. Harrison and Hanford are already the men who bought the Empire property. I will not move them onto the west bank to make one firm. In 1854 Perrin counts three paper mills running in the Falls, and another going up, and five hundred twenty-five tons of paper in a year. That is the town. It is not the Phoenix alone.",
+    long: "",
+    names: ["Harrison and Hanford"]
+  },
+  {
+    id: "cuyahoga-falls-not-the-paper-phoenix",
+    name: "Not the Other Phoenix",
+    lat: 41.1346,
+    lng: -81.4828,
+    radius: 50,
+    short: "The page before the 1853 fire is a different loss. In 1851 the flour mill of Stow and Wetmore, on the east side of the river, north of Portage Street, was destroyed. Lane says it was believed to be the work of an incendiary. The loss is not stated. He says they were never rebuilt. That they is in the lines above, and I will not spend it on this flour mill until I have them. The flour mill is not the Phoenix. On the night of July 1, 1886, about half past ten, the Phoenix Lumber Company's planing mill burned, opposite the Empire, on the east side of the river. Fifty-three by one hundred twelve feet, with the sheds and the piles of lumber. Same first name. Other bank. Other trade. The next paste is that planing mill. I will not let it answer for the paper.",
+    long: "",
+    names: ["Phoenix Lumber"]
+  },
+
+  {
+    id: "cuyahoga-falls-planing-1886",
+    name: "July 1, 1886",
+    lat: 41.1344,
+    lng: -81.4824,
+    radius: 60,
+    short: "Lane says that about half past ten, on the night of July 1, 1886, the Phoenix Lumber Company's planing mill was totally destroyed. It stood opposite the Empire paper mill, on the east side of the river. Fifty-three by one hundred twelve feet, with the machinery, the sheds, and the piles of lumber. This is not the paper mill that was rechristened the Phoenix after November 25, 1853. That one was on the west bank. The Empire, this night, was considerably damaged. It was not destroyed. A mill that can be damaged in 1886 was standing, which fits Lane's saying that the Empire was rebuilt after 1872. He does not print a dollar for the Empire's damage. This pin is the east bank. It is not Water Street, and it is not a door.",
+    long: "",
+    names: ["Phoenix Lumber"]
+  },
+  {
+    id: "cuyahoga-falls-snyder-murphy",
+    name: "Buildings and Machinery",
+    lat: 41.1348,
+    lng: -81.4820,
+    radius: 40,
+    short: "Lane says the planing-mill buildings were owned by H. Snyder, and the machinery by J. H. Murphy, and that those two men were the lumber company. His print breaks Snyder's name. If the broken letter is a y, the name is Snyder. I will not swear the letter. Their joint loss was claimed at forty thousand dollars. Insurance, twelve thousand and fifty, and he adds the word only. Claimed is not the same as proved. The hollow-brick works of the estate of J. B. Harrison, where J. T. Davis made chains, were consumed. So was the house of Mrs. Edward Rockwell. The Harrison building loss was thirty-five hundred, insurance not stated. Davis lost five hundred, and Lane says no insurance. Mrs. Rockwell lost twelve hundred, insurance eight hundred. The Sterling Chain Company's buildings, owned by Turner, Vaughn and Taylor, were considerably damaged. Their loss was one hundred fifty dollars, covered. Davis's chains and Sterling's chains are two shops. J. B. Harrison is not yet the Harrison of Harrison and Hanford. This pin is not the house.",
+    long: "",
+    names: ["J. H. Murphy"]
+  },
+  {
+    id: "cuyahoga-falls-roman-candles",
+    name: "Supposed",
+    lat: 41.1340,
+    lng: -81.4816,
+    radius: 40,
+    short: "Lane says this fire was supposed to have been caused by Roman candles, fired from a passing train on the P., C. and T. road, in anticipation of the Fourth. July 1 is three days before the Fourth. Supposed is his word. I will not promote it to a fact. I will not expand those three initials tonight. The lines just above this fire are another one. A mayor asks Akron for a steamer, and the steamer is late. The losses in those lines belong to Cook, Knox, a lodge block, a dwelling, and Brainard. I will not paste them onto the planing mill. I do not have that other fire's date in the lines I kept.",
+    long: "",
+    names: ["P. C. and T."]
+  },
+  {
+    id: "cuyahoga-falls-rivet-next",
+    name: "Not the Paper",
+    lat: 41.1336,
+    lng: -81.4828,
+    radius: 40,
+    short: "Hold the two Phoenixes apart. Paper, west bank, named in the rebuild after 1853, burned again at noon in 1867. Lumber, east bank, opposite the Empire, gone on the night of July 1, 1886. The next sentence in Lane is a fire in the moulding department of the Falls Rivet Company, found at half past six in the evening, near the cupola stack. He supposes the fire caught from the stack. The printed date is broken. I will not guess the day. The next paste is that roof. I will read the date before I use it.",
+    long: "",
+    names: ["Falls Rivet"]
+  },
+
+  {
+    id: "cuyahoga-falls-rivet-1887",
+    name: "December 8, 1887",
+    lat: 41.1356,
+    lng: -81.4822,
+    radius: 70,
+    short: "The broken line reads clean in another copy of Lane. At half past six on the evening of December 8, 1887, the roof of the moulding department of the Falls Rivet Company was found on fire, near the cupola stack. He says it is supposed the fire caught from the stack. Supposed, again. The building was frame, a story and a half, and he prints the size as 32 by 120. He does not write the word feet. I will not add it. This is not the planing mill of July 1, 1886, and it is not the paper Phoenix. The date is the same book read again. It is not a second witness. This pin is not a door.",
+    long: "",
+    names: ["Falls Rivet"]
+  },
+  {
+    id: "cuyahoga-falls-roof-let-fall",
+    name: "They Let the Roof Fall",
+    lat: 41.1352,
+    lng: -81.4826,
+    radius: 40,
+    short: "The fire was beyond the bucket brigade, and beyond the hose on the steam pump that belonged to the works. They called Chief B. F. Manderbach of the Akron department. He came, as fast as Lane can say it, with steamer number one and its hose cart, fully manned. The Falls men cut away the supports and let the foundry roof fall in. That saved the main works. Akron was not needed. Lane calls those firemen the laddies. The owners, and the town, were grateful anyway. The company gave twenty dollars to the Firemen's Relief Fund. I will not turn the twenty dollars into a larger thanks than he printed.",
+    long: "",
+    names: ["B. F. Manderbach"]
+  },
+  {
+    id: "cuyahoga-falls-rivet-not-the-brick",
+    name: "Not the Brick Shop",
+    lat: 41.1360,
+    lng: -81.4818,
+    radius: 50,
+    short: "Besides the foundry, a storage shed next to it burned. Loss, twenty-two thousand dollars. Insurance, thirteen thousand. I will not subtract those and call the difference his. A Falls history page puts the Falls Rivet Company on the east bank, at a place Walsh later used, and says Falls Clutch replaced the rivet works. That is the company's ground. It is not a measurement of this frame room. A business page prints a later notice of a new three-story brick shop, 62 by 174, and about two hundred fifty hands. That brick is not a story-and-a-half frame. I will not put those hands under the roof they dropped. This pin is the east bank as that page has it. Not the shed.",
+    long: "",
+    names: ["Falls Clutch"]
+  },
+  {
+    id: "cuyahoga-falls-minor-fires-next",
+    name: "He Will Not List Them All",
+    lat: 41.1348,
+    lng: -81.4830,
+    radius: 40,
+    short: "A photograph of the Falls fire department is dated 1887, the year of this fire, and the men are posed with hand-drawn equipment. A portrait is not this night. Lane's night is a bucket brigade, the works' own pump, and Akron's steamer that was not used. After the rivet fire he says many smaller ones happened, and he cannot enumerate them all. He names five. The barn of J. F. Perry, seven hundred. The house of Orrin James, five hundred. The house of Mrs. Duerr, five hundred. The barn of John I. Jones, one thousand. The grocery of Callahan and Williams, fifteen hundred. No dates. No streets. The next paste is that list, and I will not make five lines into five lives. I will not give the frame shed to Walsh's dam of 1914.",
+    long: "",
+    names: ["Callahan and Williams"]
+  },
+
+  {
+    id: "cuyahoga-falls-five-losses",
+    name: "He Stops",
+    lat: 41.1339,
+    lng: -81.4845,
+    radius: 40,
+    short: "After the rivet fire, Lane says many smaller ones happened in the period of the fires he has just told, and that the losses were serious. He cannot enumerate them all, even if full data were at hand. Among them, in brief, he names five. That period runs at least from the flour mill of 1851 to December 8, 1887. I will not drop these five inside those years. In brief means he is not telling the story. This pin is the town in his book. It is not a door.",
+    long: "",
+    names: ["Cuyahoga Falls"]
+  },
+  {
+    id: "cuyahoga-falls-perry-james-duerr",
+    name: "Three, Then Two",
+    lat: 41.1341,
+    lng: -81.4841,
+    radius: 30,
+    short: "The barn of J. F. Perry, seven hundred dollars. The house of Orrin James, five hundred. The house of Mrs. Duerr, five hundred. The barn of John I. Jones, one thousand. The grocery of Callahan and Williams, fifteen hundred. No insurance figures. No streets. Two houses at the same dollar are not one house. A barn is not a house. J. F. stays J. F. John I. stays John I. Mrs. Duerr has no first name on this page. I will not give her one. This pin is not any of the five.",
+    long: "",
+    names: ["Orrin James"]
+  },
+  {
+    id: "cuyahoga-falls-not-those-names",
+    name: "Later Names",
+    lat: 41.1335,
+    lng: -81.4848,
+    radius: 30,
+    short: "I looked for the people. What came back were later lives. A Jones who died in the Falls in 2021 is not John I. Jones. A Duerr who died in 2003 is not Mrs. Duerr. A market fire in Munroe Falls in 2015 is not this grocery. Callahan and Williams is not George F. Callahan, the Front Street grocer in a mixed directory, until a page says they are the same. I will not move the fifteen hundred dollars onto Front Street. This pin is not that market, and it is not that directory.",
+    long: "",
+    names: ["Mrs. Duerr"]
+  },
+  {
+    id: "cuyahoga-falls-back-to-1851",
+    name: "The Sentence I Do Not Have",
+    lat: 41.1362,
+    lng: -81.4836,
+    radius: 40,
+    short: "I do not have Lane's next sentence after the grocery. I will not invent a sixth fire to keep the list going. The next paste goes back to one I set aside, so the paper Phoenix would not take it. In 1851 the flour mill of Stow and Wetmore, on the east side of the river, north of Portage Street, was destroyed. He says it was believed to be the work of an incendiary. The loss is not stated. The lines say they were never rebuilt, and I still have to see what they are. Set, and not rebuilt, is a different story from five dollars on a line.",
+    long: "",
+    names: ["Stow and Wetmore"]
+  },
+
+  {
+    id: "cuyahoga-falls-flour-1851",
+    name: "1851, Loss Not Stated",
+    lat: 41.1384,
+    lng: -81.4830,
+    radius: 70,
+    short: "Lane says that in 1851 the large flouring mill of Stow and Wetmores, on the east side of the river, north of Portage Street, was totally destroyed. He says it was believed to be the work of an incendiary. Believed is the word. The loss is not stated. He does not give a month or a night. The sentence just before this one says they were never rebuilt. They is not this mill. I do not have the buildings that pronoun points at, and I will not spend it here. This pin is the east bank, north of that street. It is not a door.",
+    long: "",
+    names: ["Stow and Wetmores"]
+  },
+  {
+    id: "cuyahoga-falls-henrys-fiend",
+    name: "Some Fiend, No Year",
+    lat: 41.1380,
+    lng: -81.4836,
+    radius: 40,
+    short: "Henry Wetmore, in Perrin, says that after he sold his interest to Joshua Stow in March 1837, time and decay wore out the paper-mill frame and it was pulled down. Some fiend burned the flouring mill. The oil mill was discontinued for want of seed. The fiend has no year. It sits in the years after 1837, which is where 1851 also sits. Lane says believed. Henry says fiend. I will not staple the year onto the fiend, and I will not put the want of seed on the fire. The paper mill in that sentence was pulled down. It was not burned. Henry was writing long after the night. So was Lane. Neither of them is a report from the morning after.",
+    long: "",
+    names: ["Henry Wetmore"]
+  },
+  {
+    id: "cuyahoga-falls-not-israel-james",
+    name: "Not Israel James",
+    lat: 41.1374,
+    lng: -81.4842,
+    radius: 40,
+    short: "On the first of April, 1825, Henry says he and his brother William cut the alders where Israel James's flouring mill was afterward erected. Afterward is not 1851. I will not give James this fire. The firm in Lane is Stow and Wetmores. A portrait page spells it Stow and Wetmore, and says Henry and Joshua Stow ran it for many years and later opened a store. Many years is not a deed for 1851. Henry had sold his interest in 1837. The name on the mill is not proof he still owned it. The city code puts William Junior's dam of 1825 near Stow Avenue, just north of the Portage Trail bridge. Lane puts the burned mill north of Portage Street. Near is not the same building. This pin is not the dam.",
+    long: "",
+    names: ["Israel James"]
+  },
+  {
+    id: "cuyahoga-falls-they-next",
+    name: "The Pronoun",
+    lat: 41.1388,
+    lng: -81.4826,
+    radius: 40,
+    short: "Perrin, writing of 1852, counts two grist mills in the village. That is the town the year after this fire. It is not a rebuild of this one, and it is not proof the mill stayed down. The next paste is the sentence I do not have, the one that ends in they were never rebuilt. I will read the buildings before I name them. I will not fill the blank with Israel James, and I will not fill it with the oil mill that stopped for want of seed.",
+    long: "",
+    names: ["Portage Street"]
+  },
+
+  {
+    id: "cuyahoga-falls-they-unread",
+    name: "The Sentence I Do Not Have",
+    lat: 41.1330,
+    lng: -81.4848,
+    radius: 30,
+    short: "The line just before the flour mill of 1851 ends in they were never rebuilt. I tried to read the buildings that they points at. The copies I could open did not give me that line. I will not name the buildings. I will not date them. They sit earlier on the page than the mill. That is all I know. This pin is the page. It is not a door.",
+    long: "",
+    names: ["Cuyahoga Falls"]
+  },
+  {
+    id: "cuyahoga-falls-not-those-fires",
+    name: "Not Those Fires",
+    lat: 41.1326,
+    lng: -81.4852,
+    radius: 30,
+    short: "A reading mixed the words with other mills. I will not use them. Not a flood. Not a fire in 1857. Not November 1, 1853, and not a furnace and a grocery and forty thousand dollars. Not the Little Cuyahoga. Not Seiberling. Not brick walls left standing. None of that is the sentence in front of Stow and Wetmores. If a later page really says one of those things, it will have to say it in its own words. I will not borrow it to fill a hole.",
+    long: "",
+    names: ["Stow and Wetmores"]
+  },
+  {
+    id: "cuyahoga-falls-flour-stays",
+    name: "The Flour Mill Stays",
+    lat: 41.1384,
+    lng: -81.4830,
+    radius: 40,
+    short: "The 1851 card does not change. Large flouring mill. Stow and Wetmores. East side of the river. North of Portage Street. Totally destroyed. Believed to be an incendiary. Loss not stated. Never rebuilt does not move onto that mill. Henry's fiend still has no year. Israel James is still afterward, in 1825, at the alders. This pin is the east bank, the same hedge as before. Not a door.",
+    long: "",
+    names: ["Portage Street"]
+  },
+  {
+    id: "cuyahoga-falls-hinde-next",
+    name: "The Next One I Can Read",
+    lat: 41.1318,
+    lng: -81.4844,
+    radius: 40,
+    short: "Until that sentence turns up, I will not invent a sixth fire and I will not invent these buildings. The next paste is one Lane does name, a few lines after the 1853 paper mill. For many years the bagging and twine factory of John Hinde and Sons, in the south part of the village, later the Glen Wire Mill property, was one of the prominent works of the Falls. It employed what he calls a large number of hands, and it used what he calls immense quantities of flax from the farms around. Large and immense are not counts. I do not yet have a year, a fire, or a street. I will read him before I add one. This pin is the south part of the village. It is not the mill.",
+    long: "",
+    names: ["John Hinde"]
+  },
+
 
 
 

@@ -6269,6 +6269,559 @@ STORIES.push(
     long: "",
     names: ["Centerville"]
   },
+  {
+    id: "approach-centerville-gallia",
+    name: "Centerville",
+    lat: 38.9100,
+    lng: -82.4600,
+    radius: 2000,
+    layer: "approach",
+    short: "You are coming up on the other Centerville. This one is a village in western Gallia County, on the Jackson County line, where State Route 279 meets U.S. 35. It is not the city south of Dayton. About 87 people live on a tenth of a square mile. The signs can say Centerville, Thurman, or Ridgeway. If you stay on the road, I'll start at the names.",
+    long: "",
+    names: ["Centerville"]
+  },
+  {
+    id: "centerville-gallia-names",
+    name: "Three Names",
+    lat: 38.8981,
+    lng: -82.4458,
+    radius: 60,
+    short: "The village is officially Centerville. It has also been spelled Centreville. People call it Thurman, and the Board on Geographic Names ruled for Thurman as the name of the place. I do not have the year of that ruling. It has also been called Ridgeway. A county name list says it was named because it sits halfway between Gallipolis and Jackson, and that the post office was named Thurman. That same list then gives two men. Under Centerville it says George Thurman. Under Thurman it says United States Senator Allen Thurman. I will not pick. The list itself warns that a lot of these stories have no paper left under them.",
+    long: "",
+    names: ["Centerville"]
+  },
+  {
+    id: "centerville-gallia-plat",
+    name: "The Welsh Plat",
+    lat: 38.8985,
+    lng: -82.4450,
+    radius: 50,
+    short: "Wikipedia says the village was platted in 1835, and that it was settled chiefly by Welsh immigrants. The county name list says Reuben Rambo and John Roof were early settlers, and that Rambo and Timothy Jones laid the town out in 1853, with William Preston surveying. I will not make 1835 and 1853 the same year. The county was named Gallia, the old name for Gaul, for the French who settled Gallipolis. This village was not that settlement. The people here, on the written account, were Welsh.",
+    long: "",
+    names: ["Reuben Rambo"]
+  },
+  {
+    id: "centerville-gallia-count",
+    name: "From 272 to 87",
+    lat: 38.8975,
+    lng: -82.4465,
+    radius: 50,
+    short: "The count was 272 in 1880. It fell to 96 in 1920, jumped to 251 in 1960, and was 87 in 2020, the same estimate three years later. That is the whole arc I can prove. I do not have a railroad name, a native village, or a battlefield on these lots, and I will not invent them. The Ohio River is not this street. It is down at Gallipolis.",
+    long: "",
+    names: ["Centerville"]
+  },
+
+  {
+    id: "approach-chagrin-falls",
+    name: "Chagrin Falls",
+    lat: 41.4500,
+    lng: -81.4000,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Chagrin Falls, a village in eastern Cuyahoga County, on the edge of Cleveland. About 4,200 people live on a little over two square miles. The town sits on the Chagrin River, at a drop in the middle of the village. It was laid out in 1837. If you stay on the road, I'll start at the name, which the village says is not settled.",
+    long: "",
+    names: ["Chagrin Falls"]
+  },
+  {
+    id: "chagrin-name",
+    name: "The Name Is Argued",
+    lat: 41.4311,
+    lng: -81.3886,
+    radius: 100,
+    short: "The village page says the name is heavily debated. One story says it is an Indian name for the river. One says Moses Cleaveland was annoyed by the sandbars and the shallow water. One says chagrin meant clear in a local dialect. A page about the falls adds a French trader. The village does not. I will not pick. What is written down is simpler. The place was laid out in 1837 and named for the falls on the river. It was incorporated in 1844, out of three townships in two counties. A count from 1842 gives 601 people and thirty businesses. The census was 1,016 in 1870, 4,848 in 1970, and 4,188 in 2020.",
+    long: "",
+    names: ["Chagrin Falls"]
+  },
+  {
+    id: "chagrin-mills",
+    name: "Nine Mills",
+    lat: 41.4305,
+    lng: -81.3895,
+    radius: 80,
+    short: "The village says it began as craftsmen from Massachusetts, and that nine mills ran on the river. A Cleveland history says the people were mostly from England and New England. Seth Henderson of Newburgh bought the ground at the falls. His house, built in 1834, later stood where a Christian Science church was put. From 1837 to 1870 the banks turned out axes, iron goods, paper, and woodenware, and the mills ground flour, wool, and lumber. George Fenkell, Noah Graves, and Charles Sears are the names on that account. The village was incorporated on March 12, 1844. Curtiss Bullard was elected mayor. In March 1845 a new township was cut from Solon and Orange so the town would sit in one county. That cut left a tooth in the straight line between Cuyahoga and Geauga.",
+    long: "",
+    names: ["Seth Henderson"]
+  },
+  {
+    id: "chagrin-falls-drop",
+    name: "Twenty Feet",
+    lat: 41.4298,
+    lng: -81.3905,
+    radius: 40,
+    short: "A page on the falls gives the drop as twenty feet and the crest as sixty. The water at the bottom runs from about two feet to about fifteen. The Cleveland history calls this the High Falls. The mills are why the village is here. The dam is still in the middle of town. I will not invent how many wheels were on the river at once beyond the nine the village counts.",
+    long: "",
+    names: ["Chagrin Falls"]
+  },
+  {
+    id: "chagrin-no-fight",
+    name: "No Battlefield",
+    lat: 41.4320,
+    lng: -81.3870,
+    radius: 150,
+    short: "I do not have a native village under the falls, and I will not invent one. The argument about the river's name is as close as the record gets, and it does not agree. There is no fort and no battlefield on these streets. The county line tooth is the mark the town left on the map.",
+    long: "",
+    names: ["Chagrin Falls"]
+  },
+
+  {
+    id: "approach-chardon",
+    name: "Chardon",
+    lat: 41.6000,
+    lng: -81.2200,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Chardon. The name is said SHAR-dun. It is the county seat of Geauga County, and the only city in the county, about ten miles south of Lake Erie, in the snow belt. About 5,200 people live here. The square was picked in 1808, before the town existed. If you stay on the road, I'll start at the man in Boston who owned the hill.",
+    long: "",
+    names: ["Chardon"]
+  },
+  {
+    id: "chardon-brooks",
+    name: "Four Hundred Dollars",
+    lat: 41.5797,
+    lng: -81.2069,
+    radius: 120,
+    short: "In 1808 the legislature's men chose an empty hill for the county seat. The city page quotes an old editor of the Painesville Telegraph. Nearly every man in Geauga County was thunderstruck. The land was Peter Chardon Brooks's. He lived in Boston. He did not move here. The city page says the plat was bought from him for four hundred dollars. Wikipedia says he donated the land for the square. I will not make a sale and a gift the same thing. The city says the hill had the name by 1810. Chardon is French for thistle. Other names written down and not used were Brookfield, Brookville, Marshall, and Chardonia. The township was set up in 1812, and the city celebrates that year. I will not make 1808, 1810, and 1812 one date. In 1812 the county still held the land that later became Lake County.",
+    long: "",
+    names: ["Peter Chardon Brooks"]
+  },
+  {
+    id: "chardon-paine",
+    name: "A Cabin for a Court",
+    lat: 41.5805,
+    lng: -81.2055,
+    radius: 60,
+    short: "The city page says Captain Edward Paine Jr. moved into a log cabin on the square. It was his house, and it was the first courthouse. The square is a New England common, the green in the middle and the court, the churches, and the schools around it. The city gives the population as 446 in 1840. The village was incorporated in 1851, split off from the township. When the 2000 census passed 5,000, the village became a city on April 29, 2001. The 2020 count was 5,242.",
+    long: "",
+    names: ["Edward Paine"]
+  },
+  {
+    id: "chardon-fire",
+    name: "The Square Burned",
+    lat: 41.5790,
+    lng: -81.2075,
+    radius: 50,
+    short: "On July 24 and 25, 1868, a fire started in Parlin Parkin's grocery and took the center of town. The courthouse, the post office, and many stores on the square were gone before it stopped. The square you see was built back after that. I will not invent which wall is older than the fire.",
+    long: "",
+    names: ["Chardon"]
+  },
+  {
+    id: "chardon-maple",
+    name: "Against Vermont",
+    lat: 41.5810,
+    lng: -81.2040,
+    radius: 80,
+    short: "The city's motto is home of the Geauga County Maple Festival. It started in 1926, to sell Ohio syrup against Vermont. A news account names a local merchant, Art Carlson, as the man with the idea. A festival page calls it the oldest maple festival in the country. It stopped for the war years, 1942 through 1945, and again in 2020 and 2021. It sits on the square the last full weekend in April, unless the snow pushes it. I do not have a native village under the green, and I will not invent one. There is no battlefield on the hill. The court was put here because the hill was empty.",
+    long: "",
+    names: ["Art Carlson"]
+  },
+
+  {
+    id: "approach-chatfield",
+    name: "Chatfield",
+    lat: 40.9700,
+    lng: -82.9500,
+    radius: 2000,
+    layer: "approach",
+    short: "You are coming up on Chatfield, a village in the center of Chatfield Township, northern Crawford County. About 200 people live on about three-tenths of a square mile. The main street is Sandusky Avenue, which is Route 4. The census starts at 298 in 1900 and was 205 in 2020. If you stay on the road, I'll start at the bog, because that is what the marker talks about.",
+    long: "",
+    names: ["Chatfield"]
+  },
+  {
+    id: "chatfield-bog",
+    name: "The Cranberry Bog",
+    lat: 40.9522,
+    lng: -82.9429,
+    radius: 80,
+    short: "A 1976 marker on Sandusky Avenue, a fifth of a mile north of the center, says this ground was a hunting country for centuries. Swamp forest of elm, ash, beech, pin oak, and maple stood on every side. East of here a cranberry bog sat under water most of the year. The marker says hunting camps on the headwaters of Sycamore Creek took game and cranberries. It does not name a tribe, and I will not add one. It says the wetlands still held game after most of the county was farmed. Drainage turned them into fields. That is the whole text.",
+    long: "",
+    names: ["Chatfield"]
+  },
+  {
+    id: "chatfield-name",
+    name: "Likely, Not Proven",
+    lat: 40.9511,
+    lng: -82.9419,
+    radius: 60,
+    short: "The township page says the name was likely for Silas and Oliver Chatfield, pioneer settlers. It says likely. A census puts an Oliver Chatfield in this township in 1830. He was born in New York in 1807, and he was in Illinois by 1850. I will not promote likely into certain, and I will not invent a brother's grave. A post office list puts an office here in 1834. I do not have the year the village was platted. The count fell from 298 in 1900 to 189 in 2010, then came back to 205 in 2020.",
+    long: "",
+    names: ["Oliver Chatfield"]
+  },
+  {
+    id: "chatfield-rail",
+    name: "A Line, No Name",
+    lat: 40.9600,
+    lng: -82.9400,
+    radius: 200,
+    short: "A photograph of the township shows a rail line in the fields north of the village. I do not have the company's name, and I will not guess it. There is no fort and no battlefield on Sandusky Avenue. The story the county put on a sign is the bog, the camps, and the ditches that dried them.",
+    long: "",
+    names: ["Chatfield"]
+  },
+
+  {
+    id: "approach-chauncey",
+    name: "Chauncey",
+    lat: 39.4200,
+    lng: -82.1500,
+    radius: 2000,
+    layer: "approach",
+    short: "You are coming up on Chauncey. The name is said CHAN-see. It is a village in Dover Township, Athens County, near where Sunday Creek runs into the Hocking River. About 960 people live on a little over half a square mile. It started as a salt town and became a coal town. If you stay on the road, I'll start at the men from Philadelphia.",
+    long: "",
+    names: ["Chauncey"]
+  },
+  {
+    id: "chauncey-salt",
+    name: "Twelve Thousand Five Hundred",
+    lat: 39.4020,
+    lng: -82.1313,
+    radius: 100,
+    short: "Wikipedia says the village was laid out in 1839 and named for Elihu Chauncey, a partner in a firm that owned the local salt springs. A post office has been here since 1838. The village page says that in 1838 Elihu Chauncey and Nicholas Biddle, capitalists from Philadelphia, partnered with Thomas Ewing and Sam Vinton and bought a salt works it calls Resolved Fuller, for twelve thousand five hundred dollars. It says they moved here. Wikipedia does not. I will not make a partner and a man who moved the same fact, and I will not make 1838 and 1839 the same year. The village says the first well was on Bailey Run Road, and that the wells shipped salt for more than fifty-three years, until a flood destroyed the last one. It does not give the year of that flood.",
+    long: "",
+    names: ["Elihu Chauncey"]
+  },
+  {
+    id: "chauncey-coal",
+    name: "Mine Twenty-Five",
+    lat: 39.4000,
+    lng: -82.1280,
+    radius: 150,
+    short: "The village page says that in 1890 people here went looking for coal money, and that in 1896 a coal man named William Jones took the chance. Wikipedia says that by the late nineteenth century the work had shifted to deep mines along Sunday Creek, and that the town filled with miners from across Appalachia. The village page says the New York Coal Company closed its mine here in 1952, and that was the end of coal in Chauncey. I do not have a count of the men in the hole, and I will not invent one.",
+    long: "",
+    names: ["William Jones"]
+  },
+  {
+    id: "chauncey-war",
+    name: "The Chauncey War",
+    lat: 39.3980,
+    lng: -82.1250,
+    radius: 120,
+    short: "In 1932 the miners struck against a wage cut. Wikipedia says it was the New York Coal Company, that they sabotaged track near Mine 25, that the National Guard came, that one miner was killed and several were hurt, and that people here call it the Chauncey War. The village page says that early on July 12, 1932, near Mine 25 of the Manhattan Coal Company and Nye Cemetery, miners blew up the New York Central railroad bridge, and that guardsmen and tear gas came from Nelsonville. A local account names the dead man as Parker, eighteen, a high school boy, and says the Guard lost nobody. The village page says a few lives were lost. I will not make one death and a few deaths the same number. The village page also says the strike brought suffrage. That word does not belong to a wage fight, and I will not repeat it as a fact.",
+    long: "",
+    names: ["Chauncey"]
+  },
+  {
+    id: "chauncey-boys",
+    name: "The Chauncey Boys",
+    lat: 39.4030,
+    lng: -82.1330,
+    radius: 80,
+    short: "A marker put up in 2022 names three local men who went to Parkersburg and Clarksburg, in what was still Virginia, and joined the regiment that became the First West Virginia Cavalry. Lieutenant Sidney Knowles, born in 1837, was killed at Gettysburg in 1863. He is in Nye Cemetery. Lieutenant Hiram Robinett, born in 1843, lived through the war and died of tuberculosis in 1868. He is in Nye Cemetery too. Private Robert Edwards, a doctor, born in 1844, practiced a short time in Zaleski and died of tuberculosis in 1869. He is in Mount Calvary Cemetery in Athens. I do not have a native village under Sunday Creek, and I will not invent one. The river still floods the low ground. Part of it has been turned into park.",
+    long: "",
+    names: ["Sidney Knowles"]
+  },
+
+  {
+    id: "approach-chesapeake",
+    name: "Chesapeake",
+    lat: 38.4400,
+    lng: -82.4700,
+    radius: 2000,
+    layer: "approach",
+    short: "You are coming up on Chesapeake, a village in Union Township, Lawrence County, where Symmes Creek runs into the Ohio River, across from Huntington, West Virginia. About 765 people live on a little over half a square mile, and part of that is water. The count was 541 in 1910 and 1,396 in 1960. If you stay on the road, I'll start at the two towns that were here before the name was.",
+    long: "",
+    names: ["Chesapeake"]
+  },
+  {
+    id: "chesapeake-two-towns",
+    name: "Lawrence City and Rockwood",
+    lat: 38.4281,
+    lng: -82.4564,
+    radius: 150,
+    short: "A county history says this village is two older places joined. West of the creek was Lawrence City. East of it was Rockwood. Other names show up in the old papers and were never towns: Washington, Frampton, Kounston, Symmes Run, Flemingsburg, and Lawrenceburg. A petition to incorporate the Village of Chesapeake was filed on December 26, 1907. The election was January 11, 1908, in the Lower School House. One hundred and two votes. Sixty-nine yes, thirty-three no. The journal entry is February 29, 1908. The same history also says the village was incorporated in 1907. I will not make those the same day. The first census, 1910, counted 132 households. Wikipedia's count of people that year is 541.",
+    long: "",
+    names: ["Chesapeake"]
+  },
+  {
+    id: "chesapeake-kounston",
+    name: "The Bridge That Did Not Come",
+    lat: 38.4300,
+    lng: -82.4650,
+    radius: 200,
+    short: "In 1873 Andrew P. Kouns advertised a town he wanted to call Kounston. He was betting the Chesapeake and Ohio would bridge the river from his lots into the new city of Huntington. The county history says the bridge did not connect. Kouns and C. P. Huntington sold the land, and it sat for more than thirty years. Huntington, the city across the river, is named for that Huntington. By 1887 the West Virginia Land Corporation held most of the ground. J. T. Egerton surveyed it in 1903 and it was called Lawrence City, a name that did not last. The Lawrence City Improvement Company started in 1906. Kouns, James Frampton, C. P. Huntington, and Edward Miller did not live to see the village. The history says Miller owned the sections that are the village now, back when the county was formed.",
+    long: "",
+    names: ["Andrew P. Kouns"]
+  },
+  {
+    id: "chesapeake-rockwood",
+    name: "Rockwood",
+    lat: 38.4260,
+    lng: -82.4480,
+    radius: 150,
+    short: "Rockwood is the east side. The Frampton family owned part of it. James R. Frampton sold lots, and then larger buyers came in. One was Benjamin Cory, a doctor from Ironton. He and others formed the Rockwood Mining Company. Thomas Gore surveyed the ground, and the plat was recorded in Ironton on October 7, 1874. That is the date the county history gives for the start of Rockwood. I do not have what the mine shipped, and I will not invent a coal seam.",
+    long: "",
+    names: ["Benjamin Cory"]
+  },
+  {
+    id: "chesapeake-river",
+    name: "The Word and the River",
+    lat: 38.4250,
+    lng: -82.4550,
+    radius: 200,
+    short: "Wikipedia says the word Chesapeake comes from an Algonquin name for a place where the water spreads out. The county history, which spent decades on this village, never says why the voters picked that word. The railroad in the story is the Chesapeake and Ohio. I will not decide that the village was named for the railroad. The Robert C. Byrd Bridge now runs from here into downtown Huntington. Wikipedia says it was once the only bridge from Ohio into that city, and that later bridges were built to the east side and the west side. I do not have those years. Route 7 crosses Symmes Creek on a Parker truss built in 1933, 348 feet, the main span 162. Dodge-Hussey of Columbus built it. The steel came from the Lackawanna Bridge Company in Buffalo. I do not have a native village at this mouth, and I will not invent one. There is no battlefield on these lots. The river and the creek are why the lots were worth a bet.",
+    long: "",
+    names: ["Chesapeake"]
+  },
+
+  {
+    id: "approach-cheshire",
+    name: "Cheshire",
+    lat: 38.9700,
+    lng: -82.1300,
+    radius: 2000,
+    layer: "approach",
+    short: "You are coming up on Cheshire. The name is said CHESH-er. This is the village in Gallia County, on the Ohio River, not the old crossroads by that name in Delaware County. About 123 people were counted in 2020, on a little under four-fifths of a square mile. Most of the old houses are gone. A power plant stands over what is left. If you stay on the road, I'll start at the name.",
+    long: "",
+    names: ["Cheshire"]
+  },
+  {
+    id: "cheshire-name",
+    name: "England, or New England",
+    lat: 38.9503,
+    lng: -82.1131,
+    radius: 80,
+    short: "Wikipedia says the village was named for the county of Cheshire in England, and that it was founded in 1811. A county name list says it was named for a county in England or a town in New England, and it does not pick. A 2012 news account says the old village was settled in the late eighteenth century and incorporated in 1953. I will not make those three dates one date. The census table shows 276 people in 1870, and the next number on it is 369 in 1960. It was 250 in 1990 and 221 in 2000.",
+    long: "",
+    names: ["Cheshire"]
+  },
+  {
+    id: "cheshire-buyout",
+    name: "Twenty Million",
+    lat: 38.9480,
+    lng: -82.1100,
+    radius: 150,
+    short: "By 2000 the village was living under sulfurous clouds and acid rain from the coal-fired Gavin plant, owned by American Electric Power. People hired lawyers and asked to be bought out. Wikipedia says the company looked and found no long-term injury from the cloud, and then decided it could use the ground. In 2002 the settlement was, in effect, a twenty-million-dollar buyout. Most of the 221 residents agreed to leave and to give up future claims against the company for property or health. A news account from ten years later says the offer, in April 2002, paid up to three and a half times the value of a house, and that the people who took it signed away the right to sue over their health. Scotty Lucas, who stayed, told a reporter he had never heard anybody say they were glad.",
+    long: "",
+    names: ["Cheshire"]
+  },
+  {
+    id: "cheshire-grass",
+    name: "The Dock That Was Not Built",
+    lat: 38.9520,
+    lng: -82.1160,
+    radius: 100,
+    short: "The company said it would tear the houses down and build a dock for coal barges. Wikipedia says that dock had not been started. By 2012 a reporter found most of the houses bulldozed and grass in the lots, and said that by most accounts the air was cleaner. In 2004 the people who stayed, and people around them, annexed ground about a mile north and west. That pulled some population back inside the line. The count was 132 in 2010 and 123 in 2020. The village still has a mayor and a council. I do not have a railroad name, a native village, or a battlefield on this bank, and I will not invent them. The river is why a town was put here. The plant is why most of it left.",
+    long: "",
+    names: ["Cheshire"]
+  },
+
+  {
+    id: "approach-chesterhill",
+    name: "Chesterhill",
+    lat: 39.5100,
+    lng: -81.8800,
+    radius: 2000,
+    layer: "approach",
+    short: "You are coming up on Chesterhill, a village in Marion Township, Morgan County. About 276 people live on a little over half a square mile. It was laid out in 1834. An 1886 county history spells it Chester Hill, two words. If you stay on the road, I'll start at who the first people were, because the pages do not tell the same story.",
+    long: "",
+    names: ["Chesterhill"]
+  },
+  {
+    id: "chesterhill-name",
+    name: "Chester, or Belmont",
+    lat: 39.4908,
+    lng: -81.8667,
+    radius: 80,
+    short: "Wikipedia says it was laid out in 1834 and named for Chester County, Pennsylvania, where a large share of the first settlers had lived. The village page says it was founded in 1834 by Quakers from Belmont County, who bought a hundred acres at one dollar each from the Ohio Company land office, for a farm town in Marion Township. I will not make Pennsylvania and Belmont the same place, and I will not decide whether one dollar each means one dollar an acre. An 1886 history says this township was Ohio Company land, and that it became part of Morgan County in 1845. It is the eighth township of the twelfth range. In 1834 the clearings were few, and nearly everybody lived on a creek.",
+    long: "",
+    names: ["Chesterhill"]
+  },
+  {
+    id: "chesterhill-railroad",
+    name: "Henman Cave",
+    lat: 39.4920,
+    lng: -81.8650,
+    radius: 100,
+    short: "Wikipedia says people escaping slavery were sheltered in Henman Cave, and by Quaker families, and it names Elias Bundy, Jesse Hiatt, and Nathan Morris. The village page says the Quakers were abolitionists and the town was a stop. It also says freedom seekers were protected by families already here, Black, white, and Native, from more than one tribe, and that those families were likely part of the work. It says likely. It does not name the tribes, and I will not add them. The old Quaker meeting house is still used. The village says the Ohio Historical Society recognizes it.",
+    long: "",
+    names: ["Elias Bundy"]
+  },
+  {
+    id: "chesterhill-lowell",
+    name: "Ten Weeks and the Wolves",
+    lat: 39.4800,
+    lng: -81.8500,
+    radius: 400,
+    short: "The village is not the first clearing. The 1886 history says Captain Thomas S. Lowell, from Massachusetts, settled in 1814 on Sharp's Fork of Federal Creek. He had been master of a ship trading to Spain and Portugal. The War of 1812 broke that trade. On November 18, 1814, he and his brother Russell and their families finished a trip that had taken ten weeks. Wolves killed the sheep. That cabin is twenty years older than the plat, and it is on the creek, not on the square. I will not move him into town.",
+    long: "",
+    names: ["Thomas S. Lowell"]
+  },
+  {
+    id: "chesterhill-count",
+    name: "Eight Hundred and Seventy-Six",
+    lat: 39.4890,
+    lng: -81.8680,
+    radius: 60,
+    short: "The same 1886 book says the coal here was good, and that it was mined only for local use. I will not turn that into a coal town. Wolf Creek drains the township. The census shows 480 people in 1900, 426 in 1950, then 876 in 1960, then 361 in 1970. I do not have a reason for that jump, and I will not invent a camp or a mine to explain it. The count was 276 in 2020. There is no battlefield on Marion Street. The war this town claims is the one fought by hiding people.",
+    long: "",
+    names: ["Chesterhill"]
+  },
+
+  {
+    id: "approach-chesterville",
+    name: "Chesterville",
+    lat: 40.4950,
+    lng: -82.7000,
+    radius: 2000,
+    layer: "approach",
+    short: "You are coming up on Chesterville. This is the village in Chester Township, Morrow County, on the Kokosing River, southeast of Mount Gilead. It is not Chesterhill. About 191 people live on about a fifth of a square mile. A local account calls it the oldest town in the county. The county itself was not formed until 1848. If you stay on the road, I'll start at the survey.",
+    long: "",
+    names: ["Chesterville"]
+  },
+  {
+    id: "chesterville-dates",
+    name: "Eighteen Twenty-Nine",
+    lat: 40.4778,
+    lng: -82.6817,
+    radius: 60,
+    short: "Wikipedia says the village was laid out in 1829 and named for Chester Township, and that the post office opened in 1832. A local account says Joseph Vance surveyed the ground in 1807, and that Evan and Charity Holt were the first white people in the new town the next year. A 2018 news account, citing a county history, says the township was formed in 1808, while this ground was still in Knox County, and that the first election was April 25, 1812. Another account says the township was formed in 1812. I will not make 1808 and 1812 the same year. That second account says Enos Miles arrived around 1815, and that he laid out the village fifteen years later. Fifteen years after 1815 is 1830. Wikipedia says 1829. I will not pick.",
+    long: "",
+    names: ["Enos Miles"]
+  },
+  {
+    id: "chesterville-miles",
+    name: "The House at the South Edge",
+    lat: 40.4760,
+    lng: -82.6820,
+    radius: 40,
+    short: "Miles was a surveyor, a teacher, an innkeeper, and a businessman. His house, built in the 1830s, still stands at the south edge of town. In 1838 he put up a four-story brick academy and hoped the town would be a school town. A carding mill here wove coverlets with a mark and the town's name in the cloth. A local account says most of the early people were Welsh. A news account calls one early man, Edward Evans, the Welshman, and names David Miller and James McCracken with him. It says William Dodd was the first justice of the peace, and Rufus Dodd the first assessor, and that the county paid three dollars for the assessing. The old north-south road was a corduroy, on the line of Route 314. Route 95 is the road that runs through town. The township, not the village, was counted at 778 in 1830 and 1,620 in 1850. The village itself was 407 in 1850.",
+    long: "",
+    names: ["Enos Miles"]
+  },
+  {
+    id: "chesterville-seat",
+    name: "The Seat Went Elsewhere",
+    lat: 40.4790,
+    lng: -82.6800,
+    radius: 80,
+    short: "In 1845 Chesterville, Marengo, and Mount Gilead each wanted to be the seat of a new county. In 1848 the compromise left the seat at Mount Gilead. The county was named Morrow, for Governor Jeremiah Morrow. A local account says the railroad then went to the seat and passed this town by. It does not name the company, and I will not guess it. After that, this town got smaller and Mount Gilead got larger. The census table shows 407 people in 1850, 1,563 in 1860, and 282 in 1870. I do not have a reason for that one fat year, and I will not invent a camp to explain it. The count was 191 in 2020. There is no battlefield on the Kokosing here. The fight this town lost was over a courthouse.",
+    long: "",
+    names: ["Jeremiah Morrow"]
+  },
+
+  {
+    id: "approach-chickasaw",
+    name: "Chickasaw",
+    lat: 40.4500,
+    lng: -84.5100,
+    radius: 2000,
+    layer: "approach",
+    short: "You are coming up on Chickasaw, a village in the northern part of Marion Township, Mercer County. About 358 people live on a little under a quarter of a square mile, all of it land. It was laid out in 1838. The church in town is Precious Blood. If you stay on the road, I'll start at the name, because the name is not the same thing as a village of that nation.",
+    long: "",
+    names: ["Chickasaw"]
+  },
+  {
+    id: "chickasaw-name",
+    name: "The Name, Not the Town",
+    lat: 40.4364,
+    lng: -84.4939,
+    radius: 50,
+    short: "Wikipedia says it was laid out in 1838 and named after the Chickasaw tribe. A local page is more specific. It says the name came from the Big and Little Chickasaw who lived in this area, and that John Nutter and James Brooks laid the village out and surveyed it on July 27, 1838. The post office opened in 1840. The village was incorporated in 1890. The Chickasaw nation's country was in the South, not in Marion Township. I do not have a town of that nation on this ground, and I will not invent one. I will not turn a borrowed name into a camp.",
+    long: "",
+    names: ["Chickasaw"]
+  },
+  {
+    id: "chickasaw-saloons",
+    name: "Eight Saloons",
+    lat: 40.4370,
+    lng: -84.4940,
+    radius: 40,
+    short: "The same local page says the first settlers came from England and Ireland, and that in the 1840s German Catholics came by the Miami and Erie Canal and settled in the area. I will not put the canal down the main street. It says many of them hunted, trapped, and cut timber. It says the town was rough, with eight saloons, and that it had the first jail in Mercer County. The church that stands here now is Precious Blood. I do not have the year it was built, and I will not guess it.",
+    long: "",
+    names: ["Chickasaw"]
+  },
+  {
+    id: "chickasaw-rail",
+    name: "Fifty-Nine, Then Three Hundred and Ten",
+    lat: 40.4360,
+    lng: -84.4900,
+    radius: 80,
+    short: "The local page says the Cincinnati, Hamilton and Dayton Railroad was built through here in 1880, and that the town grew after it. It lists a brickyard, a hardware store, three hotels, a flour mill, a handle company, a general store, a blacksmith, a harness shop, a wagon factory, a monument shop, a doctor's office, a sawmill, a machine shop, a grain elevator, a depot, a livery, and a bank. The census shows 59 people in 1880 and 310 in 1900. It fell to 141 in 1940, rose to 381 in 1980, dropped to 290 in 2010, and was 358 in 2020. The same page says that before the Civil War an Underground Railroad stop stood on the east edge of town, that it was the last stop, that people were on their own the next day, and that many stayed and worked for the farmers. It does not name the house or the person who hid them. Mercer County is not the last ground before Canada. I will not make that sentence the end of the road.",
+    long: "",
+    names: ["Chickasaw"]
+  },
+
+  {
+    id: "approach-chilo",
+    name: "Chilo",
+    lat: 38.8100,
+    lng: -84.1500,
+    radius: 2000,
+    layer: "approach",
+    short: "You are coming up on Chilo. The name is given two ways, SHY-lo and CHY-lo. It is a village in Franklin Township, Clermont County, on the Ohio River. About 71 people live on a quarter of a square mile, and part of that is water. U.S. 52 runs through it. It was not always called Chilo. If you stay on the road, I'll start at the first name.",
+    long: "",
+    names: ["Chilo"]
+  },
+  {
+    id: "chilo-name",
+    name: "Mechanicsburgh",
+    lat: 38.7933,
+    lng: -84.1372,
+    radius: 40,
+    short: "Wikipedia says it was platted in 1816 as Mechanicsburgh. A post office called Mechanicsburg, without the h, opened in 1819. In 1820 an act of the Ohio legislature changed the village name to Chilo. I do not have the page that says why they picked that word, and I will not invent a person or a country to explain it. Another list says a post office under the name Chilo opened in 1823. I will not make 1819 and 1823 the same office.",
+    long: "",
+    names: ["Chilo"]
+  },
+  {
+    id: "chilo-boats",
+    name: "Thirty Houses",
+    lat: 38.7940,
+    lng: -84.1360,
+    radius: 50,
+    short: "An 1833 gazetteer says that by the 1830s the river work here was building boats, and that the place had swelled to several hundred people, more than thirty houses, and two stores. The census, when it starts, does not show that crowd. It shows 147 in 1860, 160 in 1870, and 200 in 1880. The next number on the published table is 174 in 1970. The years between are not on it, and I will not fill them in.",
+    long: "",
+    names: ["Chilo"]
+  },
+  {
+    id: "chilo-lock",
+    name: "Lock Thirty-Four",
+    lat: 38.7920,
+    lng: -84.1380,
+    radius: 60,
+    short: "This was the site of Lock 34 on the Ohio until the 1960s, when Meldahl Dam was built nearby and the lock was no longer the way through. The old lock building is the Ohio River Museum, run by the Clermont County parks. The count was 97 in 2000, 63 in 2010, and 71 in 2020. I do not have a native village on this bank, and I will not invent one. There is no battlefield in the record I have. The river is the reason the plat was worth making, and the reason a lock was worth building, and the reason the lock was abandoned.",
+    long: "",
+    names: ["Chilo"]
+  },
+
+  {
+    id: "approach-chippewa-lake",
+    name: "Chippewa Lake",
+    lat: 41.0900,
+    lng: -81.9200,
+    radius: 2000,
+    layer: "approach",
+    short: "You are coming up on Chippewa Lake, a village in Medina County, on the lake of the same name. It used to be called Chippewa-on-the-Lake. It was incorporated in 1920. About 654 people live on a quarter of a square mile. The old amusement park is on the shore, in Lafayette Township. The village and the park are not the same lot. If you stay on the road, I'll start at the name.",
+    long: "",
+    names: ["Chippewa Lake"]
+  },
+  {
+    id: "chippewa-lake-name",
+    name: "The Lake and the Ice",
+    lat: 41.0736,
+    lng: -81.9047,
+    radius: 80,
+    short: "Wikipedia says the name comes from the Ojibwe, the people the English called Chippewa. A local history says native people came here to hunt and fish. It does not name a town of that nation on this shore, and I will not invent one. The same history says the lake was cut by glaciers, that the first settlers arrived during the War of 1812, and that before refrigeration men cut ice on the lake and shipped it as far as Philadelphia. Cottage places grew up around the water. It names Gloria Glens, Briarwood Beach, and Chippewa-on-the-Lake. Gloria Glens is its own village. I will not fold it into this one.",
+    long: "",
+    names: ["Chippewa Lake"]
+  },
+  {
+    id: "chippewa-lake-park",
+    name: "Closed at the End of the Season",
+    lat: 41.0680,
+    lng: -81.9100,
+    radius: 200,
+    short: "The historical society says that by 1878 Mac Beach, from Seville, had a full amusement park on the shore, and that his son Parker later took it over. Wikipedia says that in the 1880s Oscar Townsend and the Cleveland, Lorain and Wheeling Railroad built a resort here that became Chippewa Lake Park, that the Depression and the end of the interurban hurt it, and that Parker Beach bought it in 1937. I will not make Beach and Townsend the same man, and I will not decide whether taking the reins and buying the park are the same year. Both accounts agree on the end. It closed after the 1978 season and did not open again. A newspaper said it had just marked a hundred years, and that it drew people from 1878 to 1978.",
+    long: "",
+    names: ["Parker Beach"]
+  },
+  {
+    id: "chippewa-lake-after",
+    name: "The Wheel in the Weeds",
+    lat: 41.0700,
+    lng: -81.9080,
+    radius: 150,
+    short: "The society says Medina County schools closed one day each spring for Nickel Day, spelled with a k on their page. Company picnics came from Akron, Cleveland, Canton, Wooster, and Medina. A launch called Miss Chippewa carried as many as fifty people around the lake. Two speedboats were named Dynamite and Firecracker. A 2020 news account says twenty thousand people came over the Fourth of July weekend in 1892, and that the ballroom later booked Benny Goodman, Glenn Miller, Guy Lombardo, and Lawrence Welk. After 1978 the rides sat. A horror film, Closed for the Season, shot scenes there in 2008. In 2020 the Medina County Park District agreed to buy the ninety-five acres for 2.1 million dollars. The asking price had been 3.7 million. The plan was to keep the Ferris wheel. I will not tell you the nature park is finished, because I do not have that date. The Oaks Lodge, on what had been Townsend's estate, is still a restaurant. The census of the village, not the park, shows 22 people in 1930 and 271 in 1990, then 823 in 2000. I do not have a reason for that jump. The count was 654 in 2020. There is no battlefield on this shore.",
+    long: "",
+    names: ["Chippewa Lake"]
+  },
 
 
 

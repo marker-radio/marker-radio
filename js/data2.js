@@ -4336,6 +4336,890 @@ STORIES.push(
     long: "",
     names: ["Brunswick"]
   },
+  {
+    id: "approach-buchtel",
+    name: "Buchtel",
+    lat: 39.4700,
+    lng: -82.1900,
+    radius: 2000,
+    layer: "approach",
+    short: "You are coming up on Buchtel, a village in York Township in Athens County and Ward Township in Hocking County, just northeast of Nelsonville, on Snow Fork of Monday Creek. It was laid out in 1877 for the coal and the iron. About 520 people live on half a square mile. In 1910 there were 1,180. If you stay on the state road, I'll start at the company.",
+    long: "",
+    names: ["Buchtel"]
+  },
+  {
+    id: "buchtel-company",
+    name: "Akron Iron",
+    lat: 39.4633,
+    lng: -82.1811,
+    radius: 200,
+    short: "Wikipedia says the town was laid out in 1876 and named for John R. Buchtel, a representative of the Akron Iron Company, which owned a large amount of land in the Hocking Valley. A post office called Buchtel has been open since 1879. A cyclopedia of 1893 calls him a philanthropist, born in Greene Township in Summit County, and says a thrifty village with his name was one result of his coal and iron work down here. He is the same man the college in Akron was named for. I do not have the year this village incorporated, and I will not invent it. Wikipedia prints Bessemer as an older name and marks it unsourced. I will not use it.",
+    long: "",
+    names: ["John R. Buchtel"]
+  },
+  {
+    id: "buchtel-1884",
+    name: "The Pinkertons",
+    lat: 39.4640,
+    lng: -82.1820,
+    radius: 150,
+    short: "The village was built for the mines. In 1884 the miners struck. The company hired Pinkerton guards to bring in replacement workers. The union men called them blacklegs. A photograph shows the guards walking them in. Wikipedia says strikes like this one often came with violence. I do not have a locked count of who was hurt in Buchtel, and I will not invent one. A letter quoted on a biography page says the furnace here was making 40 to 50 tons of number-one iron a day, the mines were running, and the slack was a shortage of railroad flats. The same letter says a new hot blast nearly went up when the bleeder on the furnace choked. I will not name a railroad the page does not name.",
+    long: "",
+    names: ["Buchtel"]
+  },
+  {
+    id: "buchtel-count",
+    name: "After the Peak",
+    lat: 39.4625,
+    lng: -82.1800,
+    radius: 150,
+    short: "The census found 417 people in 1880, four years after the plat. The published table then jumps to 1910. I will not invent 1890 or 1900. In 1910 there were 1,180, and in 1920 there were 1,178. In 1930 there were 799. It was 569 in 1950 and 518 in 2020. A 2023 estimate says 513. The coal left. The people mostly left with it.",
+    long: "",
+    names: ["Buchtel"]
+  },
+  {
+    id: "buchtel-spring",
+    name: "The Watering Trough",
+    lat: 39.4650,
+    lng: -82.1780,
+    radius: 80,
+    short: "A local account says people still stop for a spring by State Route 78 that they call the watering trough. The water comes out of an abandoned mine shaft that has been dammed. I will not invent who dammed it, or what the water tests at. The church in the old photographs is Saint Mary of the Hills. I do not have a locked year for it.",
+    long: "",
+    names: ["Buchtel"]
+  },
+  {
+    id: "buchtel-native",
+    name: "No Village Name",
+    lat: 39.4660,
+    lng: -82.1850,
+    radius: 150,
+    short: "Snow Fork runs into Monday Creek, and Monday Creek runs into the Hocking. I do not have a native village name under the company plat. I will not invent one.",
+    long: "",
+    names: ["Buchtel"]
+  },
+  {
+    id: "buchtel-war",
+    name: "No Battlefield",
+    lat: 39.4630,
+    lng: -82.1830,
+    radius: 100,
+    short: "There is no fort and no battlefield in Buchtel. The fight on the record is the 1884 strike. I will not turn a mine guard into a battle.",
+    long: "",
+    names: ["Buchtel"]
+  },
+  {
+    id: "approach-buckeye-lake",
+    name: "Buckeye Lake",
+    lat: 39.9500,
+    lng: -82.5000,
+    radius: 4000,
+    layer: "approach",
+    short: "You are coming up on Buckeye Lake. The water is a reservoir in Fairfield, Licking, and Perry counties. The village is only Fairfield and Licking, about 2,500 people on two square miles. The lake was built for the canal. The village was incorporated in 1980. If you stay on the interstate, I'll start at the swamp.",
+    long: "",
+    names: ["Buckeye Lake"]
+  },
+  {
+    id: "buckeye-lake-summit",
+    name: "The Licking Summit",
+    lat: 39.9311,
+    lng: -82.4922,
+    radius: 400,
+    short: "Wikipedia says that as early as the 1750s this ground was a great swamp called Buffalo Lick, and the main trails between the Ohio River and the Miami towns went past it. A local account says Hopewell and Adena people camped on the way to the mounds in Licking County. I will not turn that into a village name. Between 1826 and 1830 they built a dike across the South Fork of the Licking River, so the Ohio and Erie Canal would have water at its high point, the Licking Summit. They called the pond the Licking Summit Reservoir. In 1894 the legislature renamed it Buckeye Lake. A local account says that same act treated the old canal reservoirs as public parks. I will stay with the rename, which is locked.",
+    long: "",
+    names: ["Buckeye Lake"]
+  },
+  {
+    id: "buckeye-lake-park",
+    name: "The Park",
+    lat: 39.9280,
+    lng: -82.4850,
+    radius: 250,
+    short: "After the canals died, the lake became a resort. Wikipedia says an amusement park and the businesses around it thrived and then declined as the century went on. I will not invent the year the park closed, or the name of a dance hall I have not locked. In 1949 the lake was named a state park. Cottages that had been summer places became houses. The census for the village starts late, because there was no village yet. It was 2,986 in 1990, 3,049 in 2000, and 2,520 in 2020.",
+    long: "",
+    names: ["Buckeye Lake"]
+  },
+  {
+    id: "buckeye-lake-leases",
+    name: "Leased Ground",
+    lat: 39.9330,
+    lng: -82.4900,
+    radius: 200,
+    short: "For most of its life this was not a town. A homeowners' history says almost every house except the farms sat on leased land. The families who owned the cottage additions were the law. It names Bounds, Myer, Neel, Rosebraugh, Elliott, and Carlin. If you were too loud, the neighbors called the landowner. In the Bounds addition that was Margaret Bounds. The village could not incorporate until there were enough people who actually owned their lots. That happened when the state sold the leased land on the North Bank, and the Neel and Myer families sold theirs. The village dates from 1980. Older canal towns on this water, Millersport, Thornport, and Hebron, are not this village.",
+    long: "",
+    names: ["Buckeye Lake"]
+  },
+  {
+    id: "buckeye-lake-dam",
+    name: "The Dam",
+    lat: 39.9200,
+    lng: -82.4800,
+    radius: 300,
+    short: "In March 2015 the Huntington District of the Army Corps was paid 140,000 dollars to inspect the dam. The review found weaknesses and said the lake was in imminent danger of a failure. They rebuilt it in three years, under a budget of 107 million dollars. The ribbon was cut on November 8, 2018. The water you are looking at is being held by that job.",
+    long: "",
+    names: ["Buckeye Lake"]
+  },
+  {
+    id: "buckeye-lake-native",
+    name: "Buffalo Lick",
+    lat: 39.9350,
+    lng: -82.5000,
+    radius: 300,
+    short: "Buffalo Lick is the name on the record, a swamp the trails went past. I do not have a native town under the cottages. I will not invent one, and I will not move a Licking County mound onto this dike.",
+    long: "",
+    names: ["Buckeye Lake"]
+  },
+  {
+    id: "buckeye-lake-war",
+    name: "No Battlefield",
+    lat: 39.9300,
+    lng: -82.4950,
+    radius: 150,
+    short: "There is no fort and no battlefield at Buckeye Lake. The fight on the record is water. First they dammed a swamp for a canal. Then they spent 107 million dollars so the dam would not give way. I will not invent a battle on the South Fork.",
+    long: "",
+    names: ["Buckeye Lake"]
+  },
+  {
+    id: "approach-buckland",
+    name: "Buckland",
+    lat: 40.6300,
+    lng: -84.2550,
+    radius: 2000,
+    layer: "approach",
+    short: "You are coming up on Buckland, a village in Auglaize County, on the railroad between Wapakoneta and St. Marys. It was platted in 1872 as White Feather, or Whitefeather. The name on the sign is from 1891. About 230 people live on a third of a square mile or less. In 1910 there were 364. If you stay on the state road, I'll start at the chief.",
+    long: "",
+    names: ["Buckland"]
+  },
+  {
+    id: "buckland-white-feather",
+    name: "White Feather",
+    lat: 40.6277,
+    lng: -84.2593,
+    radius: 150,
+    short: "A county marker at Cemetery Road and Main Street says the Shawnee chief Na-Wa-Ba-She-Ka, White Feather, lived in a town on both sides of the Auglaize River. A north-south trail ran through that town on the east bank, and through an Indian field that was already called old in 1832. The field lay across the river from this plat. The village was first called White Feather because it sat near that town. The railroad marker is less careful. It says the chief once lived at this site. I will stay with the county marker. Near is not the same as on top of.",
+    long: "",
+    names: ["White Feather"]
+  },
+  {
+    id: "buckland-1891",
+    name: "May 14, 1891",
+    lat: 40.6244,
+    lng: -84.2603,
+    radius: 120,
+    short: "In 1872 John Gochenour and Josiah Clawson platted 30 lots, north and south of a railroad that was still coming. On July 24, 1873, the line was finished to St. Marys and chartered as the Lake Erie and Western. The county marker says the name changed on May 14, 1891, for General Buckland of Fremont, one of the men who pushed the railroad. The railroad marker says Colonel Ralph Buckland, and that the rename came with the incorporation. Same man. Same year. I will not pick the rank. Wikipedia only says a man named Buckland who was credited with the railroad. The census starts at 349 in 1900. It peaked at 364 in 1910, fell to 258 in 1920, and was 233 in 2020.",
+    long: "",
+    names: ["Ralph Buckland"]
+  },
+  {
+    id: "buckland-railroad",
+    name: "The Mail Contract",
+    lat: 40.6235,
+    lng: -84.2590,
+    radius: 100,
+    short: "The Vanderbilts, who owned the Lake Shore and Michigan Southern, bought the Lake Erie and Western in 1879 and ran it poorly, on purpose, to kill the competition. The Clayton Act of 1914 made them sell it. It went to the Van Sweringen brothers of Cleveland, who owned the Nickel Plate. On October 16, 1964, the Nickel Plate went into the Norfolk and Western. The line now belongs to the R. J. Corman company. The station here was an agent station into the middle of the 1950s. The last passenger train that stopped on a schedule was in 1951, when they lost the mail contract and ended the trains. Two passenger trains kept running, and they stopped here only if you asked.",
+    long: "",
+    names: ["Buckland"]
+  },
+  {
+    id: "buckland-fort",
+    name: "Not Fort Amanda",
+    lat: 40.6260,
+    lng: -84.2580,
+    radius: 100,
+    short: "Fort Amanda is about three and a half miles from this marker. It is a War of 1812 post on the Auglaize, and it is not this village. There is a mystery stone a few steps from the White Feather marker. I do not have a locked reading of what it says, and I will not invent one. The children here go to school in Wapakoneta.",
+    long: "",
+    names: ["Buckland"]
+  },
+  {
+    id: "buckland-native",
+    name: "The Field Across the River",
+    lat: 40.6280,
+    lng: -84.2620,
+    radius: 200,
+    short: "White Feather's town is the native place on this road, and the marker puts it on both banks, with an old field across the river from the plat. I will not invent a second village under Main Street.",
+    long: "",
+    names: ["White Feather"]
+  },
+  {
+    id: "buckland-war",
+    name: "No Battlefield",
+    lat: 40.6240,
+    lng: -84.2610,
+    radius: 80,
+    short: "There is no battlefield in Buckland. The war post is Fort Amanda, down the river. I will not move it onto the 30 lots.",
+    long: "",
+    names: ["Buckland"]
+  },
+  {
+    id: "approach-bucyrus",
+    name: "Bucyrus",
+    lat: 40.8100,
+    lng: -83.0200,
+    radius: 4000,
+    layer: "approach",
+    short: "You are coming up on Bucyrus, the county seat of Crawford County, on the Sandusky River, about 28 miles west of Mansfield. About 11,700 people live here. The town was laid out in 1821. The name was already on the papers, and nobody has agreed since on what it means. If you stay on the highway, I'll start at the eighteen people who got here first.",
+    long: "",
+    names: ["Bucyrus"]
+  },
+  {
+    id: "bucyrus-norton",
+    name: "October 1819",
+    lat: 40.8060,
+    lng: -82.9730,
+    radius: 250,
+    short: "The historical society says Samuel Norton, from Pennsylvania, reached this ground in October 1819 with eighteen people. Himself and his wife Mary. Daughters Louisa, Catherine, and Elizabeth. Sons Rensselaer, Warren, and Waldo. Mary's brother Albigence Bucklin, his wife, their six children, and an adopted daughter, Polly. In 1821 and 1822 Norton and Colonel James Kilbourne laid out the town. Kilbourne is the man who founded Worthington. He wanted a name no place on earth had used, and the contract with Norton already spelled it Bucyrus. He lived from 1770 to 1850.",
+    long: "",
+    names: ["Samuel Norton", "James Kilbourne"]
+  },
+  {
+    id: "bucyrus-name",
+    name: "Beautiful Cyrus",
+    lat: 40.8070,
+    lng: -82.9720,
+    radius: 150,
+    short: "Wikipedia says the origin is not certain. One theory is beautiful, plus Cyrus the Great. Another is Busiris, a city in ancient Egypt. The local society is firmer and still not sure. It says some people say Cyrus the Persian was a favorite of Kilbourne's, the country was beautiful, and he put bu in front of the name and declared it should mean beautiful Cyrus. He got the part he wanted. There is still no other Bucyrus.",
+    long: "",
+    names: ["Bucyrus"]
+  },
+  {
+    id: "bucyrus-court",
+    name: "The First Court",
+    lat: 40.8050,
+    lng: -82.9740,
+    radius: 120,
+    short: "The first court in Crawford County sat in July 1826 in the house of Lewis Cary, on the south bank of the Sandusky, with Judge Ebenezer Lane presiding. Bucyrus was made the county seat in 1830. Kilbourne gave the lots for the first courthouse and was its architect, and the society says he copied the style of the Ohio statehouse. That is the first building. I will not tell you the one standing now is his.",
+    long: "",
+    names: ["Lewis Cary", "Ebenezer Lane"]
+  },
+  {
+    id: "bucyrus-foundry",
+    name: "The Shovel Company Left",
+    lat: 40.8080,
+    lng: -82.9700,
+    radius: 200,
+    short: "The Bucyrus Foundry and Manufacturing Company started here in 1880. It is the predecessor of Bucyrus International, the firm that built the big mining shovels. It moved to Wisconsin in 1893. The shovels were not made on this river after that. The Dostal Brothers Brewery started in 1902, run by John M. and George A. Dostal. I do not have the year it closed. Wikipedia says D. Picking and Company still makes copper kettles and timpani here, and it marks that sentence unsourced. I will not invent a founding year for it. The town throws a bratwurst festival. The picture on the record is the 2004 parade. I will not invent the first year.",
+    long: "",
+    names: ["Bucyrus"]
+  },
+  {
+    id: "bucyrus-count",
+    name: "The Middle of Everywhere",
+    lat: 40.8065,
+    lng: -82.9750,
+    radius: 200,
+    short: "The motto on the seal is the small city in the middle of everywhere. The count was about 13,800 in 1990, about 13,200 in 2000, 12,386 in 2010, and 11,684 in 2020. It is the largest city in the county, and it has been getting smaller. The city sits in four townships: Bucyrus, Holmes, Liberty, and Whetstone.",
+    long: "",
+    names: ["Bucyrus"]
+  },
+  {
+    id: "bucyrus-native",
+    name: "No Village Name",
+    lat: 40.8040,
+    lng: -82.9760,
+    radius: 200,
+    short: "The river is the Sandusky. I do not have a native village name under Kilbourne's plat. The county is named for William Crawford. His death was not here, and I will not move it onto the south bank.",
+    long: "",
+    names: ["Bucyrus"]
+  },
+  {
+    id: "bucyrus-war",
+    name: "No Battlefield",
+    lat: 40.8075,
+    lng: -82.9710,
+    radius: 150,
+    short: "There is no fort and no battlefield in Bucyrus. Kilbourne had been a soldier in the War of 1812, and a congressman, before he named this town. The war was not fought on these lots.",
+    long: "",
+    names: ["James Kilbourne"]
+  },
+  {
+    id: "approach-burbank",
+    name: "Burbank",
+    lat: 40.9900,
+    lng: -82.0100,
+    radius: 2000,
+    layer: "approach",
+    short: "You are coming up on Burbank, a village in Wayne County, on Killbuck Creek, between Wooster and Lodi. About 300 people live on a third of a square mile. It was laid out in 1844 under another name. If you stay on the road, I'll start at the mix-up.",
+    long: "",
+    names: ["Burbank"]
+  },
+  {
+    id: "burbank-bridgeport",
+    name: "Not That Bridgeport",
+    lat: 40.9842,
+    lng: -81.9989,
+    radius: 150,
+    short: "The Wayne County library says John Naftzger laid out the plans for Bridgeport, this Bridgeport, in 1844. They renamed it Burbank because people mixed it up with a Bridgeport on the Ohio River. I do not have the man the new name honors, and I will not invent him. The county history dates the village to December 3, 1868. The first meeting under the name Burbank was in January 1869. The 1870 census found 258 people.",
+    long: "",
+    names: ["John Naftzger"]
+  },
+  {
+    id: "burbank-railroad",
+    name: "Near Burbank",
+    lat: 40.9830,
+    lng: -82.0000,
+    radius: 150,
+    short: "A Wayne County Democrat note from 1891 says workers started, on a Monday, near Burbank, on the Killbuck Valley railroad between Wooster and Lodi. The paper spelled the creek Kilbuck. I do not have the day the first train stopped here, and I will not invent one. The plat is older than that note. The railroad did not found the town.",
+    long: "",
+    names: ["Burbank"]
+  },
+  {
+    id: "burbank-count",
+    name: "Two Hundred and Seven",
+    lat: 40.9850,
+    lng: -81.9970,
+    radius: 100,
+    short: "The count sat in a narrow band for a century. It was 331 in 1890, 351 in 1910, and 393 in 1950, the peak. It was 289 in 1990 and 279 in 2000. In 2010 it fell to 207. In 2020 it was 296. A 2023 estimate says 293. I do not have a locked reason for the drop or the rebound, and I will not invent one. The zip code, 44214, covers ground in Canaan Township and in Congress Township. The village is the small part.",
+    long: "",
+    names: ["Burbank"]
+  },
+  {
+    id: "burbank-native",
+    name: "The Creek's Name",
+    lat: 40.9860,
+    lng: -82.0020,
+    radius: 150,
+    short: "Killbuck Creek carries the name of a Delaware chief. A local history index lists him that way. I do not have a village of his under Naftzger's plat, and I will not invent one.",
+    long: "",
+    names: ["Killbuck"]
+  },
+  {
+    id: "burbank-war",
+    name: "No Battlefield",
+    lat: 40.9840,
+    lng: -81.9960,
+    radius: 80,
+    short: "There is no fort and no battlefield in Burbank. The fight on the record is a name. Bridgeport was already taken, down on the Ohio River. I will not invent a battle on this creek.",
+    long: "",
+    names: ["Burbank"]
+  },
+  {
+    id: "approach-burgoon",
+    name: "Burgoon",
+    lat: 41.2750,
+    lng: -83.2550,
+    radius: 2000,
+    layer: "approach",
+    short: "You are coming up on Burgoon, a village in Sandusky Township, Sandusky County. The name is said BUR-goon. About 180 people live on an eighth of a square mile. A post office by this name has been open since 1873. If you stay on the county road, I'll start at the man on the sign.",
+    long: "",
+    names: ["Burgoon"]
+  },
+  {
+    id: "burgoon-name",
+    name: "Isadore H. Burgoon",
+    lat: 41.2672,
+    lng: -83.2486,
+    radius: 120,
+    short: "Wikipedia says the village is named for Isadore H. Burgoon, a railroad official. An exhibit on him is at the Rutherford B. Hayes Presidential Center in Fremont, the county seat, not in this village. I do not have a locked year for the plat, and I will not invent which railroad he worked for, or who sold the lots. The post office is the date I can stand on. It opened in 1873. The 1880 census found 110 people.",
+    long: "",
+    names: ["Isadore H. Burgoon"]
+  },
+  {
+    id: "burgoon-elevator",
+    name: "The Elevator",
+    lat: 41.2665,
+    lng: -83.2490,
+    radius: 80,
+    short: "The picture on the record is a community grain elevator. This was a place to put the corn on a train. I do not have the year the elevator went up, or the year the last train stopped, and I will not invent them. The census table skips from 1880 to 1920. I will not fill the gap. In 1920 there were 208. The peak was 267 in 1940. It was 172 in 2010 and 183 in 2020. A 2023 estimate says 178.",
+    long: "",
+    names: ["Burgoon"]
+  },
+  {
+    id: "burgoon-native",
+    name: "No Village Name",
+    lat: 41.2680,
+    lng: -83.2470,
+    radius: 100,
+    short: "I do not have a native village name under the elevator. The county takes its name from the river, and the river is not this plat. I will not invent a town here to fill the card.",
+    long: "",
+    names: ["Burgoon"]
+  },
+  {
+    id: "burgoon-war",
+    name: "No Battlefield",
+    lat: 41.2670,
+    lng: -83.2500,
+    radius: 80,
+    short: "There is no fort and no battlefield in Burgoon. Fort Stephenson is in Fremont, with the Hayes papers. I will not move it onto these lots.",
+    long: "",
+    names: ["Burgoon"]
+  },
+  {
+    id: "approach-burkettsville",
+    name: "Burkettsville",
+    lat: 40.3600,
+    lng: -84.6300,
+    radius: 2000,
+    layer: "approach",
+    short: "You are coming up on Burkettsville, a village on the line between Mercer County and Darke County. The name is said BUR-ketts-vil. About 270 people live on a fifth of a square mile. The plat is 1876. Main Street is the county line. If you stay on the state road, I'll start at the sawmill.",
+    long: "",
+    names: ["Burkettsville"]
+  },
+  {
+    id: "burkettsville-burkett",
+    name: "The Marker Spells It Issac",
+    lat: 40.3519,
+    lng: -84.6382,
+    radius: 150,
+    short: "An Ohio Historical Society marker on the county-line road says the place was founded in 1876 by Issac Burkett, spelled with one s, a blind sawmill owner. Wikipedia does not name him. It says the town started when the railroad was extended to this point, and the site was platted in 1876. I will not pick which fact founded it. I also will not name the railroad. The sources I trust do not. A post office opened in 1881 and was still open in 2026. The zip is 45310.",
+    long: "",
+    names: ["Isaac Burkett"]
+  },
+  {
+    id: "burkettsville-church",
+    name: "The Mercer Side",
+    lat: 40.3531,
+    lng: -84.6425,
+    radius: 100,
+    short: "Saint Bernard's Catholic Church stands on the Mercer County side of Main Street. Cross the street and you are in Darke County. I do not have a locked year for the church, and I will not invent one. A veterans memorial for the parish is about four-tenths of a mile off. The census starts late. It was 236 in 1910, fell to 155 in 1930, peaked at 295 in 1980, and was 272 in 2020. A 2023 estimate says 265.",
+    long: "",
+    names: ["Burkettsville"]
+  },
+  {
+    id: "burkettsville-not-fort",
+    name: "Not Fort Recovery",
+    lat: 40.3525,
+    lng: -84.6400,
+    radius: 100,
+    short: "The marker's mailing address is Fort Recovery. That is the next town, not this one. The battle people mean when they say Fort Recovery was not fought on these lots. The Cranberry Prairie marker is about four miles off. I will not move either story onto Main Street.",
+    long: "",
+    names: ["Burkettsville"]
+  },
+  {
+    id: "burkettsville-native",
+    name: "No Village Name",
+    lat: 40.3540,
+    lng: -84.6450,
+    radius: 100,
+    short: "I do not have a native village name under the sawmill. This is the till plain. I will not invent a town on the county line to fill the card.",
+    long: "",
+    names: ["Burkettsville"]
+  },
+  {
+    id: "burkettsville-war",
+    name: "No Battlefield",
+    lat: 40.3530,
+    lng: -84.6410,
+    radius: 80,
+    short: "There is no fort and no battlefield in Burkettsville. The war post is Fort Recovery. I will not drag it across the county line.",
+    long: "",
+    names: ["Burkettsville"]
+  },
+  {
+    id: "approach-burton",
+    name: "Burton",
+    lat: 41.4800,
+    lng: -81.1500,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Burton, a village in Geauga County, on the old Connecticut Western Reserve. About 1,400 people live on a little more than a square mile. The first family got here on June 21, 1798. The green was platted the same summer. If you stay on the state road, I'll start at the name.",
+    long: "",
+    names: ["Burton"]
+  },
+  {
+    id: "burton-name",
+    name: "Titus Street's Son",
+    lat: 41.4706,
+    lng: -81.1448,
+    radius: 200,
+    short: "In 1796 surveyors for the Connecticut Land Company marked a square five miles on a side and called it Range 7, Township 7. A landowner's party reached the northwest corner of that square on June 15, 1798. Thomas Umberfield, the marker also spells him Umberville, brought his family to the center on June 21. The marker says they built a log cabin southwest of the spring at the end of Spring Street. A local timeline says the house went up on July 6. I will not collapse the two dates. Titus Street owned the biggest parcel, and he named the township for his son, Burton. Many of the people who followed him were from Cheshire, Connecticut.",
+    long: "",
+    names: ["Titus Street", "Thomas Umberfield"]
+  },
+  {
+    id: "burton-green",
+    name: "October 5, 1803",
+    lat: 41.4708,
+    lng: -81.1450,
+    radius: 120,
+    short: "The green was platted on July 10, 1798, and the original owners gave it to the township on October 5, 1803. The marker says it was used as a pasture, a militia drill ground, a Fourth of July ground, a place for early farm shows, and a place to sugar the maples. Two mills were running by 1800. A public school opened in 1803. The Burton Academy was finished in 1806. I will not tell you what became of the academy. The first child born here was Riley Honey, on the last day of 1798. The first bridge over the Cuyahoga, south of town, was started on July 12, 1798.",
+    long: "",
+    names: ["Burton"]
+  },
+  {
+    id: "burton-station",
+    name: "Two Miles Off",
+    lat: 41.4680,
+    lng: -81.1480,
+    radius: 200,
+    short: "The Baltimore and Ohio station was built in 1874, two miles away, at Burton Station, with money raised by subscription. A wagon ran twice a day between the village and the depot. The railroad did not found this town. The town was seventy-six years old when the station went up. The village incorporated in 1895. The first election was April 1. George H. Ford was the first mayor. An opera house opened in 1890 and later became the firehouse. In 1894 the Burton Telephone Company strung a line with six stations.",
+    long: "",
+    names: ["Burton"]
+  },
+  {
+    id: "burton-maple",
+    name: "The Sugar Camp",
+    lat: 41.4695,
+    lng: -81.1440,
+    radius: 150,
+    short: "In 1874 the residents set out a maple grove in Burton Park. In 1931 the Chamber of Commerce had a log sugar camp built at the south end of the park. A local timeline calls it the first municipal maple house in the country. I will leave the claim at that. Century Village, run by the Geauga Historical Society, sits by the green. The society was organized here in 1873. The village count was 480 in 1880 and 1,407 in 2020. Routes 168 and 700 come together just south of the square and end at Route 87.",
+    long: "",
+    names: ["Burton"]
+  },
+  {
+    id: "burton-native",
+    name: "No Village Name",
+    lat: 41.4720,
+    lng: -81.1460,
+    radius: 150,
+    short: "I do not have a native village name under the green. The square was drawn in 1796 by men working for a Connecticut company. I will not invent a town they surveyed over.",
+    long: "",
+    names: ["Burton"]
+  },
+  {
+    id: "burton-war",
+    name: "The Green Was the Drill Ground",
+    lat: 41.4704,
+    lng: -81.1452,
+    radius: 80,
+    short: "There is no battlefield in Burton. The militia drilled on the green. That is the war record I can lock. On May 7, 1944, they dedicated the Burton Memorial Forest for the people who served in the Second World War. I will not invent a fight on the square.",
+    long: "",
+    names: ["Burton"]
+  },
+  {
+    id: "approach-butler",
+    name: "Butler",
+    lat: 40.6000,
+    lng: -82.4400,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Butler, a village in Worthington Township, Richland County, about nineteen miles south of Mansfield, on the Clear Fork. About 940 people live on a little more than a square mile. The plat is 1848, and the name on the plat was not Butler. If you stay on the road, I'll start at the post office.",
+    long: "",
+    names: ["Butler"]
+  },
+  {
+    id: "butler-names",
+    name: "Independence",
+    lat: 40.5887,
+    lng: -82.4258,
+    radius: 200,
+    short: "Daniel Spohn laid out Independence on January 12, 1848, on the northwest quarter of section 20. People called it Spohntown. An old county account says they also called it Squeelgut. Thomas B. Andrews, a squire, picked Independence because the merchants in Bellville did not want a rival, and he wanted the name to say so. The post office was already called Butler, for General William O. Butler of Kentucky, a hero of the Mexican War and the man who ran for vice president with Lewis Cass in 1848. Andrews was the first postmaster, and the office was in his house, before the town was laid out. The scrapbook says the village stayed Independence for more than forty years. Wikipedia says the name changed in the 1870s. I will not pick the year.",
+    long: "",
+    names: ["Daniel Spohn", "Thomas B. Andrews", "William O. Butler"]
+  },
+  {
+    id: "butler-railroad",
+    name: "In and Out to the West",
+    lat: 40.5895,
+    lng: -82.4280,
+    radius: 150,
+    short: "The town was laid out on the line of the Mansfield and Sandusky City railroad, which was being pushed on toward Newark. That line became the Baltimore and Ohio. Wikipedia dates the railroad at 1853, five years after the plat, so do not picture a train on opening day. The same page says the track enters town and leaves it toward the west, and calls that unique in the country. I will tell you the curve. I will not swear it is the only one. The same page says two passenger trains hit each other here in 1872, eight people were killed, and forty were hurt. I will leave the wreck at those numbers and not invent the cause. The village incorporated in 1877. The first mayor was J. M. McLaughlin. An old text calls George W. McBee the present mayor. He is not.",
+    long: "",
+    names: ["Butler"]
+  },
+  {
+    id: "butler-mills",
+    name: "The Clear Fork",
+    lat: 40.5850,
+    lng: -82.4200,
+    radius: 250,
+    short: "D. J. Rummel built a grist mill on the Clear Fork below town about 1850. The account that mentions it says the mill was still running, and so was the Kanaga mill, later Plank's, a mile above town, after other country mills had quit. I do not have a locked year for the last sack of flour, and I will not invent one. The count was 394 in 1880, fell to 266 in 1890, jumped to 567 in 1900, peaked at 1,052 in 1970, and was 941 in 2020.",
+    long: "",
+    names: ["Butler"]
+  },
+  {
+    id: "butler-helltown",
+    name: "Not Helltown, Not Yet",
+    lat: 40.5900,
+    lng: -82.4240,
+    radius: 200,
+    short: "Wikipedia's early history says this ground was a Delaware hunting place the Indians called Helltown. Helltown is a real Delaware town in the Clear Fork country. I have not locked it to Spohn's quarter-section, and I will not move it onto the plat. Joseph Craig is called the first settler on that same page, with a land grant from President Monroe in 1823. I will not build a story on it until a better source does.",
+    long: "",
+    names: ["Butler"]
+  },
+  {
+    id: "butler-war",
+    name: "The General Was Not Here",
+    lat: 40.5880,
+    lng: -82.4260,
+    radius: 100,
+    short: "There is no fort and no battlefield in Butler. The war hero on the post office was William O. Butler of Kentucky. He did not fight here. I will not invent a battle on the Clear Fork to match the name.",
+    long: "",
+    names: ["William O. Butler"]
+  },
+  {
+    id: "approach-butlerville",
+    name: "Butlerville",
+    lat: 39.3100,
+    lng: -84.0800,
+    radius: 2000,
+    layer: "approach",
+    short: "You are coming up on Butlerville, a village in Harlan Township, Warren County. About 155 people live on a tenth of a square mile. Abram B. Butler laid it out on April 20, 1838, on a turnpike that was still being built. If you stay on the road, I'll start at the man and the road.",
+    long: "",
+    names: ["Butlerville"]
+  },
+  {
+    id: "butlerville-plat",
+    name: "The Goshen Road",
+    lat: 39.3017,
+    lng: -84.0903,
+    radius: 120,
+    short: "The 1882 county history says Butler laid the town on the Goshen, Wilmington and Columbus Turnpike while the road was still going in. He added lots on September 8, 1839, and again on May 17, 1841. On November 19, 1844, J. W. Doughman added the ground south of the old patent line and named that plat Texas. I will not invent why he picked the name. The village incorporated in 1851. It was the only incorporated village in the township. The first election was March 11, 1851. The mayor was Sullivan F. Stevens. A post office had already opened in 1833, five years before the plat, and it closed in 1905. The phone exchange is still Butlerville. The mail comes through Pleasant Plain.",
+    long: "",
+    names: ["Abram B. Butler", "J. W. Doughman"]
+  },
+  {
+    id: "butlerville-church",
+    name: "Two Churches",
+    lat: 39.3020,
+    lng: -84.0895,
+    radius: 80,
+    short: "The first church in town was a frame Methodist Episcopal church on Back Street, about 1839. The same society built the brick church on Main Street in 1857. That is the building in the picture. The count was 208 in 1850, fell to 68 in 1930, rose to 231 in 2000, and was 155 in 2020. The children go to the Little Miami schools.",
+    long: "",
+    names: ["Butlerville"]
+  },
+  {
+    id: "butlerville-native",
+    name: "No Village Name",
+    lat: 39.3030,
+    lng: -84.0910,
+    radius: 100,
+    short: "I do not have a native village name under Butler's plat. This is Warren County, Little Miami country. I will not invent a town on the turnpike to fill the card.",
+    long: "",
+    names: ["Butlerville"]
+  },
+  {
+    id: "butlerville-war",
+    name: "No Battlefield",
+    lat: 39.3015,
+    lng: -84.0900,
+    radius: 80,
+    short: "There is no fort and no battlefield in Butlerville. The fight on the record is a name on a plat. Texas is the south end of the village, not a war. I will not invent a battle on Main Street.",
+    long: "",
+    names: ["Butlerville"]
+  },
+  {
+    id: "approach-byesville",
+    name: "Byesville",
+    lat: 39.9900,
+    lng: -81.5400,
+    radius: 4000,
+    layer: "approach",
+    short: "You are coming up on Byesville, a village in Jackson Township, Guernsey County, on Wills Creek, just south of Cambridge. The name is said BYZE-vil. About 2,400 people live on a little more than a square mile. It was platted in 1856 as a mill town. By 1910 it had three thousand people. If you stay on the interstate, I'll start at the mill.",
+    long: "",
+    names: ["Byesville"]
+  },
+  {
+    id: "byesville-bye",
+    name: "Bye's Mill",
+    lat: 39.9731,
+    lng: -81.5458,
+    radius: 200,
+    short: "The village site and the history both say it was platted in 1856 and named for Jonathan Bye, who owned a mill here. The nickname on the record is Bye's Mill. The same pages say it incorporated in 1881. The box at the top of the page says 1882. I will not pick. Interstate 77, Route 209, and Route 821 cross the village. Interstate 70 is about two miles north. The Columbus and Ohio River Railroad is the line the page still lists.",
+    long: "",
+    names: ["Jonathan Bye"]
+  },
+  {
+    id: "byesville-coal",
+    name: "Twenty-Five to Three Thousand",
+    lat: 39.9720,
+    lng: -81.5480,
+    radius: 250,
+    short: "The census table lists 35 people in 1850, before the plat, and 25 in 1870. In 1890 there were 789. In 1900 there were 1,267. In 1910 there were 3,156. That jump is the coal field. I will not invent a mine name or a disaster to decorate it. A local write-up says the Byesville Museum keeps that history, and the town still holds Jonathan Bye Days. The count has come down since the peak. It was 2,364 in 2020. The picture of West Main Street is from about 1910, the fat year.",
+    long: "",
+    names: ["Byesville"]
+  },
+  {
+    id: "byesville-christian",
+    name: "Herbert F. Christian",
+    lat: 39.9740,
+    lng: -81.5440,
+    radius: 150,
+    short: "The village page lists Herbert F. Christian, a soldier given the Medal of Honor. I will not invent the fight or the date. It also lists Dom Capers, who coached in the National Football League, and the poet Dzvinia Orlowsky. The names are a hole. A longer telling can go in later.",
+    long: "",
+    names: ["Herbert F. Christian", "Dom Capers"]
+  },
+  {
+    id: "byesville-creek",
+    name: "Wills Creek",
+    lat: 39.9700,
+    lng: -81.5500,
+    radius: 200,
+    short: "The village is drained by Wills Creek. I do not have a native village name under Bye's mill, and I will not invent one. Salt Fork State Park is nearby. It is not this plat.",
+    long: "",
+    names: ["Byesville"]
+  },
+  {
+    id: "byesville-war",
+    name: "No Battlefield",
+    lat: 39.9735,
+    lng: -81.5460,
+    radius: 100,
+    short: "There is no fort and no battlefield in Byesville. The war record I can lock is a man from here, not a fight on Main Street. I will not move a battle onto Wills Creek.",
+    long: "",
+    names: ["Byesville"]
+  },
+  {
+    id: "approach-cadiz",
+    name: "Cadiz",
+    lat: 40.2900,
+    lng: -81.0200,
+    radius: 4000,
+    layer: "approach",
+    short: "You are coming up on Cadiz, the county seat of Harrison County. The name is said KAD-iss, not the way they say the city in Spain. About 3,000 people live on nearly nine square miles. It was founded in 1803 where two roads from Pennsylvania met. If you stay on the highway, I'll start at those roads.",
+    long: "",
+    names: ["Cadiz"]
+  },
+  {
+    id: "cadiz-roads",
+    name: "Two Roads",
+    lat: 40.2720,
+    lng: -80.9956,
+    radius: 250,
+    short: "Cadiz was founded in 1803 at the junction of the roads coming west from Pittsburgh and from Washington, Pennsylvania, and named for Cádiz, Spain. Harrison County was formed in 1813, and this town became the seat. By 1840 there were 1,028 people. By 1846 there were four churches and twenty-one stores. The Steubenville and Indiana Railroad, a line that became part of the Pennsylvania, opened into Cadiz on June 11, 1854. By 1880 the count had nearly doubled, and the town had three newspapers and three banks.",
+    long: "",
+    names: ["Cadiz"]
+  },
+  {
+    id: "cadiz-railroad-freedom",
+    name: "The Other Railroad",
+    lat: 40.2730,
+    lng: -80.9970,
+    radius: 200,
+    short: "In the early and middle years of the nineteenth century, several families here kept stations on the Underground Railroad and moved people toward Canada. The village history calls Cadiz a portal. I will not invent the names of the houses. The railroad with tracks came later, in 1854. Do not mix the two.",
+    long: "",
+    names: ["Cadiz"]
+  },
+  {
+    id: "cadiz-ground",
+    name: "Oil, Then Coal, Then Gas",
+    lat: 40.2700,
+    lng: -80.9900,
+    radius: 300,
+    short: "The first work was farms and the things you make from farms. In 1889 a short oil boom started with a shipment of 120 barrels from Green Township, nearby. Coal, underground and on the surface, was the industry through most of the twentieth century. The written account says the MarkWest plant opened in 2012 and was built to handle more than 180 million cubic feet of gas a day, sent by pipeline toward Mont Belvieu, Texas. I will not update the volume. The count was 3,353 in 2010 and 3,051 in 2020.",
+    long: "",
+    names: ["Cadiz"]
+  },
+  {
+    id: "cadiz-gable",
+    name: "Charleston Street",
+    lat: 40.2715,
+    lng: -80.9965,
+    radius: 120,
+    short: "William Clark Gable was born here on February 1, 1901, upstairs in a two-family house on Charleston Street. His father, William Henry Gable, had come from Pennsylvania to work the oil. His mother, Adeline Hershelman, died on November 14 of that same year. In 1903 his father took him to Hopedale, seven miles northeast. He was two. The king of Hollywood is a Cadiz birth, not a Cadiz life. The longer story can go in the hole later.",
+    long: "",
+    names: ["Clark Gable"]
+  },
+  {
+    id: "cadiz-native",
+    name: "No Village Name",
+    lat: 40.2740,
+    lng: -80.9940,
+    radius: 200,
+    short: "I do not have a native village name under the courthouse square. The town sits on the ridge between the Pennsylvania roads. I will not invent a town the surveyors built over.",
+    long: "",
+    names: ["Cadiz"]
+  },
+  {
+    id: "cadiz-war",
+    name: "No Battlefield",
+    lat: 40.2725,
+    lng: -80.9950,
+    radius: 100,
+    short: "There is no fort and no battlefield on the square. The freedom record here is the Underground Railroad, not a line of infantry. I will not invent a battle to match the Spanish name.",
+    long: "",
+    names: ["Cadiz"]
+  },
+  {
+    id: "approach-cairo",
+    name: "Cairo",
+    lat: 40.8400,
+    lng: -84.0900,
+    radius: 2000,
+    layer: "approach",
+    short: "You are coming up on Cairo, a village in Monroe Township, Allen County, about six miles north of Lima. The name is said KAIR-oh, not the way they say the city in Egypt. About 500 people live on a quarter of a square mile. It was platted in 1848 as West Cairo. If you are on the new Route 30, the town is a mile north of you. I'll start at the old crossroads.",
+    long: "",
+    names: ["Cairo"]
+  },
+  {
+    id: "cairo-name",
+    name: "West Cairo",
+    lat: 40.8308,
+    lng: -84.0844,
+    radius: 150,
+    short: "It was platted in 1848 as West Cairo. A post office by that name opened in 1852. The office did not drop the West until 1922. I do not have a locked reason for the name, and I will not invent one. The village was organized on April 12, 1875, on a petition that includes George Harpster. The count was 316 in 1880, peaked at 596 in 1980, and was 517 in 2020.",
+    long: "",
+    names: ["Cairo"]
+  },
+  {
+    id: "cairo-highway",
+    name: "The Road Moved",
+    lat: 40.8290,
+    lng: -84.0850,
+    radius: 150,
+    short: "The town sat where the old east-west Route 30, the Lincoln Highway, crossed the north-south Route 65, called Ottawa Road. Lima is about six miles south. Columbus Grove is about six miles north. Gomer is about five miles west, still on the old Lincoln Highway. In the 1970s Route 30 was rebuilt about a mile south of town. The east-west street in Cairo is Main Street now. The highway that made the crossroads does not come through it.",
+    long: "",
+    names: ["Cairo"]
+  },
+  {
+    id: "cairo-native",
+    name: "No Village Name",
+    lat: 40.8320,
+    lng: -84.0830,
+    radius: 100,
+    short: "I do not have a native village name under Main Street. This is farm country north of Lima. I will not invent a town at the crossroads to fill the card.",
+    long: "",
+    names: ["Cairo"]
+  },
+  {
+    id: "cairo-war",
+    name: "No Battlefield",
+    lat: 40.8305,
+    lng: -84.0840,
+    radius: 80,
+    short: "There is no fort and no battlefield in Cairo. The name is not a war. I will not invent a fight on the Lincoln Highway.",
+    long: "",
+    names: ["Cairo"]
+  },
+  {
+    id: "approach-caldwell",
+    name: "Caldwell",
+    lat: 39.7600,
+    lng: -81.5200,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Caldwell, the county seat of Noble County, on the West Fork of Duck Creek, about twenty-three miles north of Marietta. About 1,700 people live on a little under a square mile. The town was founded in 1857 because a man gave the land. If you stay on the road, I'll start at the family.",
+    long: "",
+    names: ["Caldwell"]
+  },
+  {
+    id: "caldwell-seat",
+    name: "The Gift",
+    lat: 39.7445,
+    lng: -81.5136,
+    radius: 200,
+    short: "Robert Caldwell came from Chester County, Pennsylvania, to the Northwest Territory in 1795. In 1809 the family bought and cleared land along Duck Creek. In 1832 his son Samuel and Sarah Brownrigg Caldwell built the house that is now the Ball-Caldwell homestead. Samuel pushed for Noble County, and the county was formed in 1851. When the towns fought over the seat, he offered a piece of the farm if the seat would sit on it. It did, in 1857. The commissioners named the town Caldwell. A local account says Sarahsville lost by about 150 votes, and that the farm belonged to Joseph and Samuel Caldwell. I will not swear the margin. The house went to Edmund and Elizabeth Ball in 1920, went on the National Register in 1980, and was bought back by Robert and Mary Ann Ball in 1983.",
+    long: "",
+    names: ["Samuel Caldwell", "Robert Caldwell"]
+  },
+  {
+    id: "caldwell-oil",
+    name: "They Were After Salt",
+    lat: 39.7420,
+    lng: -81.5160,
+    radius: 250,
+    short: "An old state history says people here were drilling for salt in 1814, on the edge of what is now town, and struck oil instead. Noble County calls that the first oil well in the United States. I will not. They were after salt. The well drilled on purpose for oil is Drake's, in Pennsylvania, in 1859. What I can lock is the census. There were 318 people in 1870, 602 in 1880, and 1,248 in 1890. Then it fell to 927 in 1900. In 1886 the town had four newspaper offices, three churches, one bank, and a woolen mill that employed twenty-five people making blankets. The Pennsylvania Railroad got here in the 1870s. The count peaked at 2,082 in 1970 and was 1,691 in 2020.",
+    long: "",
+    names: ["Caldwell"]
+  },
+  {
+    id: "caldwell-native",
+    name: "Duck Creek",
+    lat: 39.7460,
+    lng: -81.5120,
+    radius: 150,
+    short: "The town sits on the West Fork of Duck Creek. I do not have a native village name under the courthouse, and I will not invent one. The creek is the older road.",
+    long: "",
+    names: ["Caldwell"]
+  },
+  {
+    id: "caldwell-war",
+    name: "A Teamster, Not a Battle",
+    lat: 39.7440,
+    lng: -81.5140,
+    radius: 100,
+    short: "There is no fort and no battlefield in Caldwell. A local account says Robert Caldwell was a teamster in the Revolutionary War, in Pennsylvania, before he came west. That is not a fight on Duck Creek. I will not invent one.",
+    long: "",
+    names: ["Robert Caldwell"]
+  },
 
 
 

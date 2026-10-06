@@ -6822,6 +6822,505 @@ STORIES.push(
     long: "",
     names: ["Chippewa Lake"]
   },
+  {
+    id: "approach-christiansburg",
+    name: "Christiansburg",
+    lat: 40.0700,
+    lng: -84.0400,
+    radius: 2000,
+    layer: "approach",
+    short: "You are coming up on Christiansburg, a village in Jackson Township, Champaign County. This is not the Christiansburg in Virginia. About 505 people live on a little under a quarter of a square mile, all of it land. The two published figures for that area do not match, and I will not average them. It was platted in 1817. If you stay on the road, I'll start at the man the county history calls the founder.",
+    long: "",
+    names: ["Christiansburg"]
+  },
+  {
+    id: "christiansburg-howell",
+    name: "Joshua Howell",
+    lat: 40.0567,
+    lng: -84.0256,
+    radius: 50,
+    short: "A county history says Joshua Howell came from Virginia in 1808 with his wife Mary and eight children, Joshua, John, Thomas, James, Daniel, Jeremiah, Abigail, and Nancy. He settled on section 31, and part of that section is inside the village now. He and his sons built a log cabin and cleared enough ground to feed that family. The same book says a man named Wilson was in the township in the spring of 1805, built a cabin on section 36, and later sold part of it to the Howells, and that this ground also became part of the village. Howell founded the plat. Wilson was on the ground first. Wikipedia says the plat of 1817 was named for Christiansburg, Virginia, the home of a first settler. The Virginia town was named for Colonel William Christian. He did not move to Jackson Township. The name did.",
+    long: "",
+    names: ["Joshua Howell"]
+  },
+  {
+    id: "christiansburg-mail",
+    name: "The Mail Stops at the Box",
+    lat: 40.0570,
+    lng: -84.0250,
+    radius: 40,
+    short: "A post office called Christiansburg has been open since 1833. Wikipedia says the office inside the village limits is boxes only. The carrier does not come to the door. You get a box, or you do not get the mail. The village was incorporated in 1835. The county history says the Howells are said to have set out the first apple orchard in the county, and that trees from it were still bearing in the 1870s. It says they are said to have. I will not make that the first tree in Champaign County.",
+    long: "",
+    names: ["Christiansburg"]
+  },
+  {
+    id: "christiansburg-count",
+    name: "Seven Hundred and Eighty-Eight",
+    lat: 40.0550,
+    lng: -84.0260,
+    radius: 40,
+    short: "The same history says the first railroad across Jackson Township was the Detroit, Toledo and Ironton. The year in the copy I can read is broken, so I will not give you one, and I will not put a depot on the square. The census table for the village starts at 473 in 1920, rises to 788 in 1960, and was 505 in 2020. I do not have a reason for that peak. There is no battlefield in the record I have. The war this name comes from was fought in Virginia, by a man who never lived here.",
+    long: "",
+    names: ["Christiansburg"]
+  },
+
+  {
+    id: "approach-circleville",
+    name: "Circleville",
+    lat: 39.6200,
+    lng: -82.9600,
+    radius: 5000,
+    layer: "approach",
+    short: "You are coming up on Circleville, the county seat of Pickaway County, on the Scioto River, about twenty-five miles south of Columbus. About 13,927 people live here. The name is not a boast. In 1810 the town was laid out in a circle, on top of an older earthwork. The circle is gone. The name stayed. If you stay on the road, I'll start at the walls.",
+    long: "",
+    names: ["Circleville"]
+  },
+  {
+    id: "circleville-walls",
+    name: "Eleven Hundred Feet",
+    lat: 39.6006,
+    lng: -82.9460,
+    radius: 200,
+    short: "Wikipedia says the earthwork was Hopewell, built in the early centuries of the Common Era, a circle about 1,100 feet across, and that the town was built inside it. A map account says the works stood at the meeting of the Scioto and Hargus Creek, and that there was a square as well as a double circle. A local paper, quoting a state marker, says the Reverend David Jones described a circle 1,100 feet across and a square to a Boston magazine. The paper's wording of the square is the kind that can mean 900 feet on a side, or 900 square feet, and those are not the same thing. I will not pick the bad reading. I do not have the name of the people who built the walls, beyond the word Hopewell, and I will not invent a town that was still standing in 1810. What was standing was the dirt.",
+    long: "",
+    names: ["Circleville"]
+  },
+  {
+    id: "circleville-plat",
+    name: "Two Hundred Acres",
+    lat: 39.6010,
+    lng: -82.9450,
+    radius: 80,
+    short: "On January 12, 1810, the assembly created Pickaway County. On February 19 it named David Bradford, George Jackson, and John Pollock to pick the county seat. On July 25 it put Daniel Dreisbach in charge of buying the land and laying out the lots. Some pages spell him Dresbach. The land belonged to Jacob Zeiger, his son, and Samuel Watt. Dreisbach bought 200 acres. The price in the record is a range, 800 to 900 dollars, and I will not turn that into one number. He put the streets in circles, to follow the walls, with straight streets running out from the middle. The courthouse stood in the center. One account says that courthouse was eight-sided. I will not make that the only shape if the other pages do not.",
+    long: "",
+    names: ["Daniel Dreisbach"]
+  },
+  {
+    id: "circleville-squared",
+    name: "They Squared the Circle",
+    lat: 39.6000,
+    lng: -82.9465,
+    radius: 100,
+    short: "In the late 1830s people asked the legislature to let them turn the circle into a grid. Wikipedia says that in March 1838 the assembly allowed a quadrant to be changed if the owners in that quarter agreed, and that a Circleville Squaring Company was formed to do it. A newspaper, citing an 1880 county history, puts the southeast approval in March 1837 and the northwest in September 1837, the northeast in 1849, and a court order on the southwest in 1854. Another account, citing the historian John Reps, puts the southeast in March 1839, the northwest in September 1839, the northeast in 1849, and the last of it in 1856. I will not make 1837 and 1839 the same year, and I will not make 1854 and 1856 the same year. The work took more than one decade, a quarter of the town at a time. Streets came up. Buildings moved. A local historian, Wally Higgins, said the canal had pulled the shops away from the old center, and that Edson B. Olds saw that a square town would make more lots to sell. Higgins said the old residents fought it and the businessmen wanted the money. Almost all of the earthwork came down with the circle.",
+    long: "",
+    names: ["Edson B. Olds"]
+  },
+  {
+    id: "circleville-name-only",
+    name: "A Circle in Name Only",
+    lat: 39.5990,
+    lng: -82.9470,
+    radius: 60,
+    short: "You can drive the grid. You cannot drive the circle. The courthouse is not sitting on that mound. The walls are not there to measure. What is left of the plan is the name, and a marker that has to tell you what the street map no longer shows. This is the first batch for this city. The canal, the river road, the people, and the plains are not in it yet.",
+    long: "",
+    names: ["Circleville"]
+  },
+
+  {
+    id: "circleville-measure",
+    name: "Nine Hundred Feet on a Side",
+    lat: 39.6006,
+    lng: -82.9460,
+    radius: 80,
+    short: "The county's own page settles the figure I would not guess. It says the circle was about 1,140 feet across, and the square beside it was more than 900 feet on a side. Wikipedia had said 1,100. I will not average them. The same page says the county's name comes from Piqua, Pickaweeke, Peckawee, or some other spelling of a Shawnee band that had settled on the Pickaway Plains. It does not mean clear water. The act that created the county was passed January 12, 1810, and it took effect on March 1.",
+    long: "",
+    names: ["Pickaway"]
+  },
+  {
+    id: "circleville-charlotte",
+    name: "Camp Charlotte",
+    lat: 39.5381,
+    lng: -82.8436,
+    radius: 400,
+    short: "This pin is not the square in Circleville. A 1928 marker near Leistville, on Route 56, says that near this spot, in October 1774, Lord Dunmore, the governor of Virginia, made a treaty with Cornstalk of the Shawnee and allied tribes. The camp was named Charlotte, for the queen of England. A 2024 news account of the state marker says the fight that came first was at Point Pleasant, now in West Virginia, on October 10, 1774, where Cornstalk led Shawnee and Delaware against troops under Andrew Lewis. After that fight the nations went north to towns on the Pickaway Plains, and Dunmore camped here to make peace. The account says the treaty ended Dunmore's War and made the Ohio River the line. I will not call Point Pleasant the first battle of the Revolution. That fight was not fought on this road.",
+    long: "",
+    names: ["Cornstalk"]
+  },
+  {
+    id: "circleville-logan",
+    name: "The Elm",
+    lat: 39.5520,
+    lng: -82.9480,
+    radius: 800,
+    short: "Logan was a Mingo leader. Tradition says he would not come to the treaty, and that the speech later called Logan's Lament was given under an elm southeast of Circleville. A township page says the tree was said to be the place, that it was once among the largest elms in the country, and that disease killed it in 1964. The ground is a state memorial now. Logan Elm Village, south of the city on U.S. 23, takes its name from the tree. It is not a second Circleville, and the elm is not Camp Charlotte. I will not put Logan under the tree and Cornstalk at the same stake.",
+    long: "",
+    names: ["Logan"]
+  },
+  {
+    id: "circleville-canal",
+    name: "The Feeder",
+    lat: 39.6050,
+    lng: -82.9500,
+    radius: 150,
+    short: "The Ohio and Erie Canal was built between 1825 and 1832, from Cleveland to Portsmouth. A state plat map shows a Circleville feeder as well as the main canal in this county. I do not have the day the water first reached this town, and I will not use 1825 for that. What a local historian already said still stands. When the canal came, the new shops opened toward it, and the old center of the circle went quiet. That is part of why they squared the town. I do not have the first railroad into Circleville locked, and I will not name a company to fill the silence.",
+    long: "",
+    names: ["Circleville"]
+  },
+  {
+    id: "circleville-lewis",
+    name: "The Last Building on the Circle",
+    lat: 39.6015,
+    lng: -82.9445,
+    radius: 40,
+    short: "Ted Lewis was born Theodore Leopold Friedman on June 6, 1890, at 132 West Main Street, one of five sons of Benjamin and Pauline Friedman. They kept Friedman's Bazaar at 121 and 123 West Main. He never legally changed his name. A museum account says a theater in the Carolinas billed him as Lewis because it fit the sign, and he kept it. The museum says his first paid singing job was at the Electric Nickelodeon in 1906, four dollars a week. A state marker says he was on stages around Ohio at seventeen, opened his own cabaret in New York in 1918, and died in New York in 1971. The cane, the dented top hat, and the line 'Is everybody happy?' are the marker's, not mine. He performed at the first Pumpkin Show, in 1903. With his wife Adah Becker Lewis he bought the ground for Ted Lewis Park. The museum, opened in 1977, is in the only building left that stood on the original circle. The railroad is still the hole. That is the next batch, if the record will hold it.",
+    long: "",
+    names: ["Ted Lewis"]
+  },
+
+  {
+    id: "circleville-east-rail",
+    name: "The Road That Came First",
+    lat: 39.5995,
+    lng: -82.9520,
+    radius: 150,
+    short: "This is not the north-and-south line. A local history says that in 1835 people here wanted a railroad between Cincinnati and the Ohio Canal, and that the Cincinnati, Wilmington and Zanesville was incorporated in 1851. Wanting a road is not the same as having one. Another account says that company was finished from Morrow to Zanesville by 1856, and that Circleville was on it. The same local history says the name became the Cincinnati and Muskingum Valley, that the stations in this county were Circleville, Kinderhook, Woodlyn, Atlanta, and New Holland, and that the passenger station and the freight station in this city stood on or near Ohio Street. One account says the line was foreclosed in 1863 and reorganized as the Cincinnati and Zanesville. The Pennsylvania takeover is not one year. A railroad history says 1870. The local history says 1873. Passenger trains, that history says, ran until sometime between 1925 and 1930. The line was abandoned in 1976. The concrete piers of the bridge are still in the Scioto. I do not have the day the first train stopped at Ohio Street.",
+    long: "",
+    names: ["Circleville"]
+  },
+  {
+    id: "circleville-scioto-valley",
+    name: "Fifty-Six Pound Rail",
+    lat: 39.6040,
+    lng: -82.9440,
+    radius: 150,
+    short: "The Scioto Valley Railroad was organized in February 1875. A 1952 history of the line says it was completed between Columbus, Circleville, and Chillicothe in 1876, and that it reached Chillicothe from Columbus in July of that year. It was standard gauge, laid with 56-pound rail. The same history says the Scioto Valley ceased to exist in July 1890, when the Norfolk and Western bought it. A radio story put that takeover early in the twentieth century. That does not match 1890, and I will not use it. This is the line that still crosses the streets the city argues about. It is not the first railroad. The east-and-west road was already here.",
+    long: "",
+    names: ["Circleville"]
+  },
+  {
+    id: "circleville-railroad-people",
+    name: "What the Marker Says",
+    lat: 39.6006,
+    lng: -82.9460,
+    radius: 60,
+    short: "A state marker says that between 1835 and 1860 several people in Circleville worked the Underground Railroad. It names the clergymen William Hanby and Immanuel Buchwalter, the businessman Phillip Doddridge, and a Black workman, George Stanhope, also spelled Stanup. It says that after the Fugitive Slave Act of 1850, Colonel Samuel Moore of Circleville became active. It says the Moore House, at Court and Mound, and the Doddridge House, at the southwest corner of Scioto and Mound, are two stations that have survived. It also says Benjamin Hanby, who lived from 1833 to 1867 and wrote the song 'My Darling Nellie Gray,' spent nine of his growing years in this town. It does not say he wrote the song here, and it does not say he was born here. Darlene Weaver, of the Pickaway County Historical Society, has said there is no letter, no diary, and no firsthand account that any of those rooms were used that way. I will not turn the marker into a proof the society says it does not have. Mound Street is the street that remembers the circle. The houses are a claim, not a demonstration.",
+    long: "",
+    names: ["Benjamin Hanby"]
+  },
+  {
+    id: "circleville-closed",
+    name: "What This City Will Hold",
+    lat: 39.6010,
+    lng: -82.9465,
+    radius: 40,
+    short: "The circle, the squaring, the plains, the treaty camp, the elm, the canal, the two railroads, and the man who would not change his name from Friedman. That is what the record will hold for Circleville. I do not have a battle fought in these streets. I do not have a date for the first train at the depot. The next town, when you want it, is Clarington.",
+    long: "",
+    names: ["Circleville"]
+  },
+
+  {
+    id: "approach-clarington",
+    name: "Clarington",
+    lat: 39.7900,
+    lng: -80.8700,
+    radius: 2000,
+    layer: "approach",
+    short: "You are coming up on Clarington, a village in Salem Township, Monroe County, on the Ohio River. About 280 people live on a little more than a square mile of land, with a strip of water in the village limits. The far shore was Virginia when this county was organized. It is West Virginia now. The county was named for James Monroe. This village was not. If you stay on the road, I'll start at the daughter.",
+    long: "",
+    names: ["Clarington"]
+  },
+  {
+    id: "clarington-clarinda",
+    name: "Clarinda",
+    lat: 39.7728,
+    lng: -80.8708,
+    radius: 50,
+    short: "Howe's historical collections say David Pierson laid the town out in 1822 and named it for his daughter Clarinda. Other names on the lists are Sunfish, for the creek, and on one list Clearington. A local memory page also says Clarindatown. I will not make those a second plat. In 1833 the place was described as two stores, one tavern, one physician, and ten houses. That is the town before the river made it busy.",
+    long: "",
+    names: ["Clarinda"]
+  },
+  {
+    id: "clarington-boats",
+    name: "The Liberty",
+    lat: 39.7700,
+    lng: -80.8720,
+    radius: 80,
+    short: "By the middle of the 1800s the page says it was a river port of nearly 1,500 people, with a cigar factory, a blacksmith, restaurants, lodgings, and a boat yard. Mozena Brothers built western-river packet boats near the mouth of Sunfish Creek. The boat the page calls the most famous is the Liberty, built in 1912. A mural of it, by Ruston Baker, is in town. By the late 1920s the building of boats was falling off, and the Mozenas sold to Cook Brothers and Thomas. Barges and small gas-powered ferries were still built here until 1941. I do not have a census table between that crowd of nearly 1,500 and the 280 people counted in 2020, and I will not invent the years in between.",
+    long: "",
+    names: ["Clarington"]
+  },
+  {
+    id: "clarington-river",
+    name: "The Last Port, If the Line Is Real",
+    lat: 39.7680,
+    lng: -80.8710,
+    radius: 60,
+    short: "Wikipedia says Clarington was the last port on the Ohio before you crossed the Mason-Dixon line a few miles south of town. The line you actually meet here is the river. The other bank is West Virginia. I will not teach the Mason-Dixon as the border of this village. J. Mack Gamble, a writer and river historian, lived his life here. I do not have his years, and I will not invent them. The Ohio Valley River Museum in town keeps the boat story. There is no battlefield in the record I have. The work was on the water. The next town, when you want it, is Clarksville.",
+    long: "",
+    names: ["J. Mack Gamble"]
+  },
+
+  {
+    id: "approach-clarksburg",
+    name: "Clarksburg",
+    lat: 39.5200,
+    lng: -83.1600,
+    radius: 2000,
+    layer: "approach",
+    short: "You are coming up on Clarksburg, a village in Ross County. This is not Clarksville, and it is not Chillicothe, the county seat. About 409 people live on a little under a fifth of a square mile, all of it land. The two published figures for that area do not match, and I will not average them. If you stay on the road, I'll start at the man the town is named for.",
+    long: "",
+    names: ["Clarksburg"]
+  },
+  {
+    id: "clarksburg-clark",
+    name: "George Clark",
+    lat: 39.5058,
+    lng: -83.1544,
+    radius: 40,
+    short: "Wikipedia says the first permanent settlement here was about 1800, and that George Clark platted the village in 1817 and gave it his name. That is the record I will use. Another page calls the founder Colonel William Clark, gives him the years 1780 to 1824, and moves the plat to 1816. I will not make those the same man, and I will not move the year. I do not have a railroad, a canal, or a battlefield locked for this village, and I will not borrow one from the page I am refusing.",
+    long: "",
+    names: ["George Clark"]
+  },
+  {
+    id: "clarksburg-count",
+    name: "Five Hundred and Fifty-Eight",
+    lat: 39.5060,
+    lng: -83.1540,
+    radius: 40,
+    short: "The census table starts at 308 in 1880. It rises to 551 in 1900 and 558 in 1910, then falls to 420 in 1920. It was 523 in 1990, 516 in 2000, 455 in 2010, and 409 in 2020. I do not have a reason for the peak, or for the drop after 1910. I will not blame a railroad I cannot name.",
+    long: "",
+    names: ["Clarksburg"]
+  },
+  {
+    id: "clarksburg-school",
+    name: "The School on the Caption",
+    lat: 39.5055,
+    lng: -83.1550,
+    radius: 40,
+    short: "An older description of the village labels a site as the Clarksburg and Deerfield Township high school, and dates it from 1893 to 1965. I will not turn a caption into the reason the school closed, and I will not make Deerfield the legal township line just because the school used the name. The same pages show a park called Zurmehly. I do not have when it was given, or who Zurmehly was. There is no battle in the record I will trust. The next town, when you want it, is Clarksville.",
+    long: "",
+    names: ["Clarksburg"]
+  },
+
+  {
+    id: "approach-clarksville",
+    name: "Clarksville",
+    lat: 39.4200,
+    lng: -83.9900,
+    radius: 2000,
+    layer: "approach",
+    short: "You are coming up on Clarksville, a village in Vernon Township, Clinton County. This is not Clarksburg, and it is not the unincorporated Clarksville in Perry County. About 534 people live on about half a square mile. A little of that is water. The land is published as both 0.47 and 0.46 of a square mile, and I will not average them. The county seat is Wilmington. This village is not named for the governor the county is named for. If you stay on the road, I'll start at the wife.",
+    long: "",
+    names: ["Clarksville"]
+  },
+  {
+    id: "clarksville-sarah",
+    name: "Sarah Clark Hadley",
+    lat: 39.4017,
+    lng: -83.9831,
+    radius: 40,
+    short: "The county says the village was platted in 1816. Wikipedia says it was laid out in 1816 and named for Sarah Clark Hadley, the wife of an early settler. I do not have the husband's first name, and I will not invent one. Clinton County was created on February 19, 1810, from pieces of Highland and Warren, and the law took effect on March 1. In August of 1810 the county was named for George Clinton of New York, who was vice president. Sarah Clark Hadley is not that Clinton. Main Street here is State Route 350.",
+    long: "",
+    names: ["Sarah Clark Hadley"]
+  },
+  {
+    id: "clarksville-count",
+    name: "Five Hundred and Eighty-Three",
+    lat: 39.4020,
+    lng: -83.9830,
+    radius: 40,
+    short: "The census table starts at 389 in 1870. It falls to 339 in 1890, rises to 465 in 1900, and reaches 583 in 1960. It was 548 in 2010 and 534 in 2020. I do not have a reason for that peak. I do not have a railroad, a canal, or a battlefield locked for this village, and I will not borrow one to explain the count.",
+    long: "",
+    names: ["Clarksville"]
+  },
+  {
+    id: "clarksville-library",
+    name: "The Branch Library",
+    lat: 39.4015,
+    lng: -83.9825,
+    radius: 40,
+    short: "The village is served by the Clinton-Massie branch of the Wilmington Public Library. That is a library, not a fort, and not a marker I can turn into a war story. The record for this place is the year, the woman's name, and the count. The next town, when you want it, is Clay Center.",
+    long: "",
+    names: ["Clarksville"]
+  },
+
+  {
+    id: "approach-clay-center",
+    name: "Clay Center",
+    lat: 41.5800,
+    lng: -83.3600,
+    radius: 2000,
+    layer: "approach",
+    short: "You are coming up on Clay Center, a village in Ottawa County. About 262 people live on about a square mile, all of it land. The area is published as both 1.01 and 1.04 square miles, and I will not average them. This is not Genoa, the village to the south. If you stay on the road, I'll start at the man who wanted the middle.",
+    long: "",
+    names: ["Clay Center"]
+  },
+  {
+    id: "clay-center-clark",
+    name: "Billy Clark",
+    lat: 41.5635,
+    lng: -83.3635,
+    radius: 40,
+    short: "A marker at Main Street and Fifth Street says the town was established on February 23, 1871, by William Clark, called Billy, and that he named it Clay Center because it was then the center of the township. Wikipedia says the same man was a land speculator, and that he thought a town in the middle would grow faster than Genoa. Ottawa County was founded in 1840. Allen Township did not exist yet. It was the northern half of a larger Clay Township. The townships split in 1888, and Clay Center went with Allen. The county historical society, as another page quotes it, says Clark had come from Port Clinton, sold wood to the railroad, then opened a store, then platted the village on his own land. I do not have the railroad's name, and I will not invent one.",
+    long: "",
+    names: ["William Clark"]
+  },
+  {
+    id: "clay-center-hall",
+    name: "The Hall They Built in Genoa",
+    lat: 41.5640,
+    lng: -83.3630,
+    radius: 40,
+    short: "Wikipedia says that in 1883 Clay Township and Genoa talked about a new town hall, and that the township helped build it in downtown Genoa instead of here, at the geographic center. The page marks that sentence as needing a citation. It also says local tradition blames that choice for the split of the township a few years later, and it marks the tradition the same way. I will not turn a story that still needs a source into the reason Allen Township exists. Genoa is a different village. It is not this one.",
+    long: "",
+    names: ["Clay Center"]
+  },
+  {
+    id: "clay-center-count",
+    name: "The Missing Years",
+    lat: 41.5630,
+    lng: -83.3640,
+    radius: 40,
+    short: "The census table shows 147 people in 1880. The next number it prints is 590 in 1950. It does not show 1890, 1900, 1910, 1920, 1930, or 1940. I will not fill those years. After 1950 the count falls: 446 in 1960, 370 in 1970, 327 in 1980, 289 in 1990, 294 in 2000, 276 in 2010, and 262 in 2020. Markers stand here for an old village grade school and for veterans. I do not have the words on those stones, and I will not invent a battle to explain them. The next town, when you want it, is Clayton.",
+    long: "",
+    names: ["Clay Center"]
+  },
+
+  {
+    id: "approach-clayton",
+    name: "Clayton",
+    lat: 39.8400,
+    lng: -84.3300,
+    radius: 5000,
+    layer: "approach",
+    short: "You are coming up on Clayton, a city in Montgomery County, on the Dayton side of Interstate 70. About 13,310 people live on about eighteen and a half square miles, almost all of it land. It was a village of 713 people in 1990. The next census, in 2000, counted 13,347. That is not a baby boom. In 1998 the village joined the rest of Randolph Township and became a city. If you stay on the highway, I'll start at the older name.",
+    long: "",
+    names: ["Clayton"]
+  },
+  {
+    id: "clayton-salem",
+    name: "Salem",
+    lat: 39.8689,
+    lng: -84.3292,
+    radius: 80,
+    short: "Wikipedia says Clayton was platted in 1816, and that it was called Salem then. The federal place-names file lists Salem as another name for this spot, and a place-names research file also lists Salem Pike. I will not make those a second town. The same page says the place suffered when the National Road went around it. I do not have the mile it missed by, and I will not invent one. I also do not have the year Salem became Clayton.",
+    long: "",
+    names: ["Salem"]
+  },
+  {
+    id: "clayton-traction",
+    name: "The Traction Stop",
+    lat: 39.8695,
+    lng: -84.3280,
+    radius: 80,
+    short: "The encyclopedia says the city was named for John Clayton, a veteran of the War of 1812, and it marks that sentence as needing a source. I will not give him a regiment. What the page does say, without that warning, is that in 1906 the place became a stop on the Dayton Northern Traction Line. That was an electric line between towns, not a steam railroad, and I do not have the company that took it over. The city's own page says the city was established in 1998 by the merger of the village and Randolph Township. The encyclopedia says the city annexed the rest of the township that year. I will not pretend those are different events, and I will not pretend the legal word is settled.",
+    long: "",
+    names: ["John Clayton"]
+  },
+  {
+    id: "clayton-count",
+    name: "Seven Hundred and Thirteen",
+    lat: 39.8680,
+    lng: -84.3300,
+    radius: 60,
+    short: "The census of the old village is 466 in 1950, 550 in 1960, 773 in 1970, 752 in 1980, and 713 in 1990. Then the map changed, and the count became 13,347 in 2000, 13,209 in 2010, and 13,310 in 2020. The city's page says 13,269. I will not average it with the census. There is no battlefield in the record I have. Cleveland is already in the file, so the next new town, when you want it, is Cleveland Heights.",
+    long: "",
+    names: ["Clayton"]
+  },
+
+  {
+    id: "approach-cleveland-heights",
+    name: "Cleveland Heights",
+    lat: 41.5100,
+    lng: -81.6100,
+    radius: 4000,
+    layer: "approach",
+    short: "You are coming up on Cleveland Heights, a city in Cuyahoga County, about six miles east of downtown Cleveland. The encyclopedia says it covers about eight square miles. Cleveland is on the west. East Cleveland is on the north. South Euclid and University Heights are on the east. Shaker Heights is on the south. None of those is this city. About 45,312 people lived here in 2020. The count was 61,813 in 1960. If you stay on the road, I'll start at the subdivision, not the skyline.",
+    long: "",
+    names: ["Cleveland Heights"]
+  },
+  {
+    id: "cleveland-heights-euclid",
+    name: "Euclid Heights",
+    lat: 41.5050,
+    lng: -81.5800,
+    radius: 200,
+    short: "The encyclopedia says that in 1895 Patrick Calhoun, with a substantial loan from John D. Rockefeller, laid out what became the first piece of this city. It was the Euclid Heights subdivision, north of Cedar Road and west of Coventry Road. From the 1890s this was a streetcar suburb. About 1890 a town center was forming at what is now Mayfield and Superior. I do not have a plat of a village older than that, and I will not invent one.",
+    long: "",
+    names: ["Patrick Calhoun", "John D. Rockefeller"]
+  },
+  {
+    id: "cleveland-heights-city",
+    name: "August 9, 1921",
+    lat: 41.5097,
+    lng: -81.5633,
+    radius: 150,
+    short: "It was organized as a hamlet in 1901 and incorporated as a village in 1903, with about 1,500 people. The village set up a volunteer fire department and a public school system. The schools began in the old East Cleveland district school, built in 1882, on Superior Road at Euclid Heights. It became a city on August 9, 1921. The census table says 2,955 people in 1910 and 15,236 in 1920. Another sentence on the same page says 15,396 in 1920. I will not average them. The table then says 50,945 in 1930, 54,992 in 1940, 59,141 in 1950, and 61,813 in 1960. Between 1920 and 1930 the city more than tripled. The encyclopedia's round numbers, 3,000 to 55,000 from 1910 to 1940, are the same climb.",
+    long: "",
+    names: ["Cleveland Heights"]
+  },
+  {
+    id: "cleveland-heights-cain",
+    name: "The First Zoning Law",
+    lat: 41.5120,
+    lng: -81.5600,
+    radius: 120,
+    short: "Frank C. Cain was mayor from 1914 to 1945. Under him the city passed what the encyclopedia calls Ohio's first zoning ordinance, in 1921. The next year it adopted the council and city-manager plan. A Georgian Revival city hall, built in 1924, was torn down in 1986. The new hall was built at Severance Town Center. Severance Center itself opened in 1963 on the estate of John L. Severance, at South Taylor and Mayfield, and the encyclopedia says it was built after a long argument. I do not have the argument, and I will not invent the sides.",
+    long: "",
+    names: ["Frank C. Cain", "John L. Severance"]
+  },
+  {
+    id: "cleveland-heights-parks",
+    name: "Two Names for the Creek",
+    lat: 41.5070,
+    lng: -81.5680,
+    radius: 150,
+    short: "A bond issue in 1916 started a park system the encyclopedia puts at 135 acres. Forest Hill Park had been the summer home of John D. Rockefeller. His son gave it to the city in 1938. Cleveland Heights and East Cleveland run it together. Cumberland Park is dated 1925. Cain Park was made by the Works Progress Administration in the 1930s. One account says it follows Dugway Creek, partly put in a culvert. Another says the ravine is Doan Brook. I will not pick a creek. In 1934 a high-school drama teacher, Dina Evans, put on a play outdoors and called the place Cain Park, for the mayor. The encyclopedia says the Alma and Evans theaters opened in 1938. Another account says the amphitheater, about 3,000 seats, was built in 1938 by the city and the WPA, with money that included Rockefeller's, and that an indoor theater came in 1944. I will not make those one date.",
+    long: "",
+    names: ["Dina Evans", "John D. Rockefeller"]
+  },
+  {
+    id: "cleveland-heights-count",
+    name: "Near Parity",
+    lat: 41.5000,
+    lng: -81.5750,
+    radius: 200,
+    short: "Beginning in the 1920s, the encyclopedia says, largely Jewish neighborhoods grew in what became Coventry Village, and later around South Taylor Road south of Cedar. After documented cases of realtors doing people wrong, two groups were formed to open the housing: a real-estate advisory committee to the state, and the Heights Community Congress in 1972. I do not have the case files, and I will not invent a street. The census falls after the peak: 60,767 in 1970, 56,438 in 1980, 54,052 in 1990, 49,958 in 2000, 46,121 in 2010, and 45,312 in 2020. The encyclopedia's figure for the 1980s, 56,907, does not match that 1980 line. For 2000 it says 26,229 white residents and 20,873 Black residents, in a city of 49,958, and calls that near parity. I will not call it even. This city is not finished. The next paste stays here.",
+    long: "",
+    names: ["Cleveland Heights"]
+  },
+
+  {
+    id: "cleveland-heights-1892",
+    name: "Eighteen Ninety-Two or Ninety-Five",
+    lat: 41.5030,
+    lng: -81.5820,
+    radius: 150,
+    short: "The first card used the encyclopedia, which dates Patrick Calhoun's Euclid Heights subdivision to 1895. The city's own history page dates the Euclid Heights allotment to 1892, and bounds it by Mayfield, Coventry, and Cedar, out to the city line. I will not average 1892 and 1895. The city page adds that Calhoun brought a streetcar up Cedar Hill and opened the Euclid Golf Club to draw Cleveland's wealthy families. The first nine holes opened in 1900, between Cedar and Euclid Heights Boulevard. Land to the south was later leased from John D. Rockefeller to make it eighteen holes. That leased land was developed as the Euclid Golf allotment, now on the National Register. I do not have the year the course closed.",
+    long: "",
+    names: ["Patrick Calhoun", "John D. Rockefeller"]
+  },
+  {
+    id: "cleveland-heights-forest-hill",
+    name: "The Deeds",
+    lat: 41.5200,
+    lng: -81.5500,
+    radius: 200,
+    short: "The city says Rockefeller bought a water-cure hotel in 1873, on land that is now Forest Hill Park. The cure failed. He made the hotel his summer house, named it Forest Hill, and added carriage paths, ponds, bridges, and a golf course, until the holding was about 700 acres. The historical society says the mansion was called the Homestead, and that it burned in 1917. In October 1929, weeks before the stock-market crash, the Rockefellers and the city reached a deal to build on the estate. Barton R. Deming was the developer. Andrew J. Thomas was the architect. About 600 houses were planned, in one style, along curving streets, with Monticello Boulevard as the main road, plus apartments and the Heights Rockefeller Building. The deeds were not open. Covenants forbade transferring the houses to Jews or to African Americans. The park gift of 1938, already in the file, is a different act from this housing plan. I will not make them the same.",
+    long: "",
+    names: ["John D. Rockefeller", "Barton R. Deming", "Andrew J. Thomas"]
+  },
+  {
+    id: "cleveland-heights-school",
+    name: "The School on Lee",
+    lat: 41.5020,
+    lng: -81.5650,
+    radius: 80,
+    short: "The encyclopedia says the first high school opened in 1904, on Lee Road just north of Euclid Heights Boulevard. The high school that is still there was built at Cedar and Lee in 1926, and renovated in 2017. The first public library opened in 1911, inside Coventry Elementary School. At the same time as Calhoun, the city page says, M. M. Brown was laying out Mayfield Heights, between Mayfield, Coventry, Euclid Heights Boulevard, and Superior, and the Walton brothers were laying out Cedar Heights, at Grandview. Cedar Glen was widened by 300 percent because the growth was coming. I do not have the year of that widening.",
+    long: "",
+    names: ["Cleveland Heights"]
+  },
+  {
+    id: "cleveland-heights-freeway",
+    name: "The Road on Lee",
+    lat: 41.5100,
+    lng: -81.5650,
+    radius: 150,
+    short: "In December 1963 the county engineer, Albert S. Porter, made public a plan for the Clark Freeway. One leg would have run east and west through the Shaker Lakes. Another would have run north and south on Lee Road, cutting this city in two, and the account of the fight says it would have endangered three public schools, a library, two churches, two parks, a shopping street, and the houses beside them. Harry Volk, who published the suburban Sun papers, fought the plan. I do not have the vote that killed it, and I will not invent the night. The road was not built. Lee Road is still a street. This is as far as I will go on Cleveland Heights without inventing the shops on Coventry. The holes stay open: the two years for Calhoun, and the missing vote. The next town, when you want it, is Cleves.",
+    long: "",
+    names: ["Albert S. Porter", "Harry Volk"]
+  },
+
 
 
 

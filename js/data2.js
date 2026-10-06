@@ -7320,7 +7320,561 @@ STORIES.push(
     long: "",
     names: ["Albert S. Porter", "Harry Volk"]
   },
+  {
+    id: "approach-cleves",
+    name: "Cleves",
+    lat: 39.1750,
+    lng: -84.7400,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Cleves, a village in Miami Township, Hamilton County, on the west side of Cincinnati. About 3,414 people live on 1.61 square miles, 1.54 of it land. The village sits between the Great Miami River and the Ohio. North Bend is the village on its southern line, and North Bend is what stands between Cleves and the Ohio. This is not Symmes Township. That township is in the other corner of the county, and it is a different place with the same man's name. The motto on the page is Heart of the Three Rivers Valley. The page names two of the rivers. I will not guess the third. If you stay on the road, I'll start at the date that does not fit.",
+    long: "",
+    names: ["Cleves"]
+  },
+  {
+    id: "cleves-symmes",
+    name: "Eighteen Eighteen",
+    lat: 39.1631,
+    lng: -84.7517,
+    radius: 50,
+    short: "Wikipedia says the village was founded in 1818 and named for John Cleves Symmes, and that he lived here, laid out the original town site, and sold the lots. The grave record says he was born on July 21, 1742, and died on February 26, 1814. A man who died in 1814 did not plat a town in 1818. Both sentences can live if he laid out the lots before he died and 1818 is a later date for the village. I have not seen the plat, and I will not pick a year I cannot show. His daughter Anna married William Henry Harrison. The president's house is not here.",
+    long: "",
+    names: ["John Cleves Symmes", "Anna Harrison"]
+  },
+  {
+    id: "cleves-grave",
+    name: "The Stone in North Bend",
+    lat: 39.1550,
+    lng: -84.7500,
+    radius: 40,
+    short: "Symmes is buried at Congress Green Cemetery in North Bend, the next village south, not in Cleves. The same account says he landed in Miami Township in 1789 and platted North Bend, forty-eight lots. The stone says he made the first settlement between the Miami rivers. That is the stone. I will not move the grave, the forty-eight lots, or the president into this village to make the name sound bigger. Cleves took his middle name. North Bend took the man.",
+    long: "",
+    names: ["John Cleves Symmes"]
+  },
+  {
+    id: "cleves-count",
+    name: "Eight Hundred and Thirty-Six",
+    lat: 39.1635,
+    lng: -84.7510,
+    radius: 40,
+    short: "The census table starts at 836 in 1880. It is 1,227 in 1890, 1,454 in 1920, 1,981 in 1950, and 2,076 in 1960. It dips to 2,044 in 1970, then 2,208 in 1990, 2,790 in 2000, 3,234 in 2010, and 3,414 in 2020. An 1869 atlas of the village shows a railroad. I do not have the company's name, and I will not invent one. There is no battle in the record I will use. The next town, when you want it, is Clifton.",
+    long: "",
+    names: ["Cleves"]
+  },
 
+  {
+    id: "approach-clifton",
+    name: "Clifton",
+    lat: 39.8100,
+    lng: -83.8200,
+    radius: 2000,
+    layer: "approach",
+    short: "You are coming up on Clifton, a village that sits in both Greene County and Clark County, about twenty-four miles east of downtown Dayton. This is not the Clifton neighborhood in Cincinnati. About 131 people live here. The area is published as 0.17 of a square mile in one place and 0.19 in another, and I will not average them. State Route 343 ends here. The Little Miami River and the Clifton Gorge preserve are south and west of the houses. If you stay on the road, I'll start at the names, then the mill.",
+    long: "",
+    names: ["Clifton"]
+  },
+  {
+    id: "clifton-names",
+    name: "Cliff Town",
+    lat: 39.7972,
+    lng: -83.8258,
+    radius: 40,
+    short: "A newspaper account says a Revolutionary War soldier, Owen Davis, built a mill here, and that the settlement was called Davis Mills. Wikipedia says that as early as 1827 the place was called Patterson's Mills. The same newspaper says Davis sold the mill to Robert Patterson around 1810, and that Patterson renamed the village Cliff Town, later shortened to Clifton. It also says Robert Patterson was the father of John Henry Patterson, who founded National Cash Register in Dayton. I will not move that company to this gorge. Wikipedia says Clifton was platted in 1840 and named for the cliffs. A post office called Clifton has been open since 1832, eight years before the plat.",
+    long: "",
+    names: ["Owen Davis", "Robert Patterson"]
+  },
+  {
+    id: "clifton-mill",
+    name: "The Mill That Cannot Be All Three",
+    lat: 39.7965,
+    lng: -83.8270,
+    radius: 40,
+    short: "One list of dates says the first mill was 1802, the second 1841, and the mill standing now 1869. A comment on the same page says Owen Davis built the first mill in 1815, that it burned in 1840, and that John Patterson built the next one in 1841. The newspaper says the mill was built in 1802, six stories, and that it sent flour and cornmeal to Union soldiers. A building put up in 1869 cannot have fed an army in the early 1860s. The flour, if the story is true, came from an earlier mill on this site. I will not put it in the building you can see. The Armstrong family is said to have run a mill here for about twenty years. Isaac Preston's family is said to have milled from 1889 until the wheels stopped in 1948. One account says Paul Carroll bought it in March 1960 and started the cornmeal again. Another says Robert Heller restored the water power in 1962 and it ran again from 1963. I will not pick the man who turned it back on.",
+    long: "",
+    names: ["Clifton Mill"]
+  },
+  {
+    id: "clifton-count",
+    name: "Three Hundred and Ten",
+    lat: 39.7975,
+    lng: -83.8250,
+    radius: 30,
+    short: "The census starts at 258 in 1850 and peaks at 310 in 1880. It is 214 in 1920, 182 in 1980, 152 in 2010, and 131 in 2020. Wikipedia dates a covered bridge at the mill to 1886 and an opera house to 1893. The page also calls the mill one of the largest water-powered grist mills still in existence. That is the page's claim. I have not measured it. There is no battle in the record I will use. The gorge is a preserve, not a war story I am willing to invent. The next town, when you want it, is Clinton, the village in Summit County. Not Clintonville.",
+    long: "",
+    names: ["Clifton"]
+  },
+
+  {
+    id: "approach-clinton",
+    name: "Clinton",
+    lat: 40.9450,
+    lng: -81.6300,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Clinton, a village in Franklin Township, in the southwest corner of Summit County, inside the Akron metro. This is not the Clintonville neighborhood in Columbus, and it is not Clinton County. About 1,197 people live on 3.68 square miles, 3.59 of it land. The village sits on the Tuscarawas River. A National Register nomination says today's Clinton is three older places: Clinton, Pumroy, and Orradeen. If you stay on the road, I'll start at the name, then the canal.",
+    long: "",
+    names: ["Clinton"]
+  },
+  {
+    id: "clinton-savannah",
+    name: "Savannah",
+    lat: 40.9260,
+    lng: -81.6330,
+    radius: 80,
+    short: "One account says the place was first called Savannah, and that it was laid out under that name in 1816. The National Register nomination says William Harvey laid out Clinton that same year, on the northwest corner of section 32, west of where the canal and the railroad later ran. I will not decide which name was on the plat. The nomination says the village is believed to be named for DeWitt Clinton, the New York governor who wanted canals. Believed is the word it uses. I will not make it a fact. William and Francis Pumroy laid out their own piece, on the same section, in 1837. A writer named Bierce says that in 1837 the three places were together called Clinton. I do not have a year for Orradeen.",
+    long: "",
+    names: ["William Harvey", "DeWitt Clinton", "William Pumroy"]
+  },
+  {
+    id: "clinton-canal",
+    name: "Opened Here in 1828",
+    lat: 40.9291,
+    lng: -81.6293,
+    radius: 60,
+    short: "A Summit Metro Parks marker on North Street says the village was founded in 1816 and flourished after the Ohio and Erie Canal opened here in 1828. It calls Clinton a distribution point for coal, grain, and produce, with blacksmiths, groceries, saloons, hotels, warehouses, and the Clinton Milling Company. The nomination says the canal was under construction from 1825 to 1832, and that this town shipped wheat and coal on to the mills. I will not call 1828 the year the whole canal was finished. The marker says the railroad arrived in 1852. I do not have the company's name, and I will not invent one. The same stone says the town kept both the boats and the trains until the flood of 1913. I do not have a death count for this village, and I will not borrow one from another town.",
+    long: "",
+    names: ["Clinton"]
+  },
+  {
+    id: "clinton-count",
+    name: "Warwick",
+    lat: 40.9180,
+    lng: -81.6400,
+    radius: 80,
+    short: "The census table for the village starts at 305 in 1910. It is 312 in 1920, 404 in 1930, 367 in 1940, and 397 in 1950. Then it is 924 in 1960. I will not invent the reason it more than doubled. The nomination says today's limits also take in Warwick, a town about a mile southwest that existed from 1900 to 1953. I do not have Warwick's population, so I will not say those people are the missing half. After that the count is 1,335 in 1970, 1,175 in 1990, 1,337 in 2000, 1,214 in 2010, and 1,197 in 2020. There is no battle in the record I will use. The next town, when you want it, is Cloverdale.",
+    long: "",
+    names: ["Warwick"]
+  },
+
+  {
+    id: "approach-cloverdale",
+    name: "Cloverdale",
+    lat: 41.0300,
+    lng: -84.3000,
+    radius: 2000,
+    layer: "approach",
+    short: "You are coming up on Cloverdale, a village in Perry Township, Putnam County. About 170 people live here. One official figure puts the village at 0.62 of a square mile, almost all land. Another puts it at 0.57, with 0.56 of land. I will not average them. This is not a neighborhood of a larger city. If you stay on the road, I'll start at the name that may belong to a different spot.",
+    long: "",
+    names: ["Cloverdale"]
+  },
+  {
+    id: "cloverdale-evansville",
+    name: "Evansville",
+    lat: 41.0192,
+    lng: -84.3033,
+    radius: 40,
+    short: "Wikipedia says Cloverdale was first called Evansville, and that it was platted under that name in 1877, when the railroad was extended to that point. A Putnam County history says the place was surveyed and platted in 1892 by E. W. Dimock, for W. H. Mozier, E. M. Mozier, Tunis Truax, Nora Truax, Austin Combs, and Mary Combs. A county list says Evansville was set in 1877 and that the name changed in 1891, and it places Evansville north of Cloverdale, near the river, on the Toledo, Delaware and Indianapolis Railroad. I will not make a town north of here into this village just because the encyclopedia uses the old name. I will not pick 1877 or 1892.",
+    long: "",
+    names: ["Evansville", "E. W. Dimock"]
+  },
+  {
+    id: "cloverdale-junction",
+    name: "Drucilla",
+    lat: 41.0185,
+    lng: -84.3040,
+    radius: 40,
+    short: "The county history puts Cloverdale at the junction of the Clover Leaf and the Tangent, which is the Findlay, Fort Wayne and Western. Wikipedia says the present name most likely comes from the Clover Leaf, and that the railroad passed through a nearby junction. Most likely, and nearby, are the words it uses. I will not tighten them. In 1892 the post office here was called Drucilla. A county note also spells it Drusilla, and one line calls that an Indian name. I will not repeat that as fact. The village was incorporated as Cloverdale on April 11, 1902. The post office took the name Cloverdale on April 4, 1906. A county list also has Evansport, changed to Cloverdale about 1900. I do not have a clean year for a place called Caskaid in this township, and I will not give this village a founding date of 1824.",
+    long: "",
+    names: ["Cloverdale"]
+  },
+  {
+    id: "cloverdale-count",
+    name: "Three Hundred and Four",
+    lat: 41.0170,
+    lng: -84.3030,
+    radius: 40,
+    short: "The census starts at 222 in 1910. It is 180 in 1920, 227 in 1930, and it peaks at 304 in 1980. Then 270 in 1990, 201 in 2000, 168 in 2010, and 170 in 2020. On November 17, 2013, an EF-2 tornado hit the south end of the village. Trees and power lines came down. A church lost walls and roof. A house nearby lost a wall. I do not have a death count, and I will not invent one. There is no battle in the record I will use. The next town, when you want it, is Clyde, the city in Sandusky County.",
+    long: "",
+    names: ["Cloverdale"]
+  },
+
+  {
+    id: "approach-clyde",
+    name: "Clyde",
+    lat: 41.3100,
+    lng: -83.0200,
+    radius: 4000,
+    layer: "approach",
+    short: "You are coming up on Clyde, a city in Sandusky County, about eight miles southeast of Fremont. About 6,294 people lived here in 2020. Another compilation says 6,308. I will not average them. Wikipedia says that in the 1700s the Wyandot were in this part of Ohio. A local history says the spot where the town grew was a meeting of two trails, one south from Lower Sandusky and one that became the Western Reserve and Maumee Turnpike, toward the fort at what is now Fremont. That fight was not here. If you stay on the road, I'll start at the cabin and the whiskey.",
+    long: "",
+    names: ["Clyde"]
+  },
+  {
+    id: "clyde-whiskey",
+    name: "A Barrel of Whiskey",
+    lat: 41.3100,
+    lng: -82.9980,
+    radius: 80,
+    short: "During the War of 1812, Samuel Pogue drove a stake by a spring in the west part of what is now Clyde, and meant to come back when the war ended. He came back in 1820 and found Jesse Benton already in a cabin on the land. Benton gave up the claim for a barrel of whiskey. Pogue lived in Benton's cabin until he died in 1828. A library account says Benton came in 1820, that the claim was about eighty acres in the southeast quarter of section 14, and that the spring ran into a creek later called Sucker Run. Wikipedia gives Benton the title of first settler, and says the Pogue claim is not entirely wrong. I will not pick a winner.",
+    long: "",
+    names: ["Jesse Benton", "Samuel Pogue"]
+  },
+  {
+    id: "clyde-name",
+    name: "Witcher's Tavern",
+    lat: 41.3100,
+    lng: -82.9906,
+    radius: 50,
+    short: "The corners took the name Hamer's Corners from a two-story log tavern, thirty-six by twenty-six feet. Hamer quit the place in 1838. About 1832, two coaches each way, four horses each, stopped here every day, until the railroads came. A man named Miller laid his farm out in streets after Hamer told him he would not cut up his own land. In 1851 P. B. Beery, from New York, had a store at the corners, and he and Hamer then platted their triangle. Those plats say Addition to Centerville. A plat by George R. Brown says Addition to Clyde. Another, by J. L. Ames, says Centerville again. In 1852 a meeting at Witcher's tavern partly settled it. Names in the room included Plainville, Livonia, and Ayer. O. P. Woodward had lived in Clyde, New York, and the town took that name. It is said the teamsters stopping at the tavern were allowed to help. I do not have the year the village incorporated.",
+    long: "",
+    names: ["Clyde"]
+  },
+  {
+    id: "clyde-mcpherson",
+    name: "Second, or Highest",
+    lat: 41.3090,
+    lng: -82.9780,
+    radius: 120,
+    short: "James Birdseye McPherson was born in Clyde on November 14, 1828. He finished first in the West Point class of 1853, with Philip Sheridan, John Schofield, and John Bell Hood. He commanded the Army of the Tennessee. On July 22, 1864, in the Battle of Atlanta, he was shot in the back and killed, facing Hood, his old classmate. His encyclopedia page calls him the second-highest-ranking Union officer killed in the war. A marker here calls him the highest. I will not pick. An 1888 sketch says the log house where he was born, and the blacksmith shop where his father worked, both stand inside McPherson Cemetery, where he is buried. A later guide puts a house of his at 300 East McPherson Highway and says that house is on the National Register. I will not make those the same building. The same sketch says the caricaturist James Albert Wales was born here in 1852, died in 1886, and is buried in that cemetery.",
+    long: "",
+    names: ["James Birdseye McPherson", "James Albert Wales"]
+  },
+  {
+    id: "clyde-winesburg",
+    name: "Not a Map",
+    lat: 41.3100,
+    lng: -82.9910,
+    radius: 40,
+    short: "Sherwood Anderson lived here as a boy. One account says from 1884 to 1895. In 1919 he published Winesburg, Ohio. Wikipedia says this town served as inspiration for the setting. A state marker says Clyde and small-town Ohio are behind many of the stories. The book is not a map of these streets, and I will not point at a house and give you a character's name. Early in the century the Elmore company built brass-era cars here. General Motors took it over in 1909. The work moved to Detroit in 1919. An 1888 sketch puts the population at 2,380 in 1880, and names three railroads by initials: the L. S. and M. S., the B. and W., and the W. and L. E. I will not expand the middle one. The holes stay open: the incorporation year, that railroad, and which house is the birth cabin. The next town, when you want it, is Coal Grove.",
+    long: "",
+    names: ["Sherwood Anderson", "Elmore"]
+  },
+
+  {
+    id: "approach-coal-grove",
+    name: "Coal Grove",
+    lat: 38.5200,
+    lng: -82.6500,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Coal Grove, a village in Upper Township and Perry Township, Lawrence County, on the Ohio River. It borders Ironton. Ashland, Kentucky, is on the other bank. About 1,889 people live on 2.04 square miles, 1.91 of it land. One page puts the ground at 600 feet. The names file puts it at 571. I will not average them. Two bridges tie the village to Ashland. This is not Coalton, and the iron furnaces people mean when they say this river are mostly Ironton and Hanging Rock. I do not have a furnace I can put inside this village. If you stay on the road, I'll start at the old name.",
+    long: "",
+    names: ["Coal Grove"]
+  },
+  {
+    id: "coal-grove-petersburg",
+    name: "Petersburg",
+    lat: 38.5028,
+    lng: -82.6439,
+    radius: 80,
+    short: "Wikipedia says the place was once Petersburg, or Petersburgh. A names file also has Coalgrove, from an 1895 map. I do not have the year it was laid out, and I will not invent one. The census table starts at 506 in 1890, so the village was here by then. The same names file still tags the spot as an unincorporated place. The census counts it as a village. I will not decide which label is in charge.",
+    long: "",
+    names: ["Petersburg"]
+  },
+  {
+    id: "coal-grove-bridge",
+    name: "The Ferry",
+    lat: 38.4970,
+    lng: -82.6450,
+    radius: 100,
+    short: "The crossing replaced the Winona Ferry. On July 21, 1926, the Coal Grove and Ashland Bridge company was incorporated by Thomas Boggess, S. S. Willis, O. E. Irish, E. K. Riley, and Minnie M. G. Grimes. The Army engineers approved the bridge on July 24, 1928. On November 13, 1929, the company turned the franchise over to the Kentucky highway commission. The bridge opened on August 6, 1931. Tolls came off on August 5, 1941, and the span was named for Ben M. Williamson. The last car toll was paid by N. W. Dendy. The last person who walked across and paid was John Howard Jr. In May 1985 the Simeon Willis Bridge opened beside it, for traffic bound for Ohio. The older bridge then carried the cars bound for Kentucky.",
+    long: "",
+    names: ["Ben Williamson", "Winona Ferry"]
+  },
+  {
+    id: "coal-grove-count",
+    name: "Forty-Nine Buildings",
+    lat: 38.5030,
+    lng: -82.6460,
+    radius: 60,
+    short: "The Ironton Register of August 13, 1891, said the village had put up forty-nine stores and houses in two years. I will not read the list. On January 16, 1902, the same paper reported a fire that put twenty-two families out of their homes. It does not say anyone died, and I will not add a death. The count is 1,191 in 1900, 2,181 in 1930, and 2,961 in 1960. Then it falls: 2,251 in 1990, 2,027 in 2000, and 1,889 in 2020. In June 2019 a load of sodium permanganate went into a broken water pipe and turned the water light pink. I do not have the amount. There is no battle in the record I will use. The next town, when you want it, is Coalton.",
+    long: "",
+    names: ["Coal Grove"]
+  },
+
+  {
+    id: "approach-coalton",
+    name: "Coalton",
+    lat: 39.1250,
+    lng: -82.6100,
+    radius: 2000,
+    layer: "approach",
+    short: "You are coming up on Coalton, a village in Jackson County, on State Route 93. About 445 people live here. One official figure puts the village at 0.56 of a square mile, all land. Another puts it at 0.55. I will not average them. A political page calls it a city. It is a village. Wikipedia says the name comes from Coal Township. A historic nomination says it was platted in 1877 as Eurekaville. If you stay on the road, I'll start at the mines, then the store.",
+    long: "",
+    names: ["Coalton"]
+  },
+  {
+    id: "coalton-eureka",
+    name: "Eurekaville",
+    lat: 39.1117,
+    lng: -82.6108,
+    radius: 50,
+    short: "The nomination says Eurekaville was laid out in 1877 on the Ohio Southern Railroad, to serve the coal mines, and that it was at once one of the important mining towns of southern Ohio. By 1884 the name was Coalton. That same account gives the town about 1,500 people and eight mines inside the limits. A geological report puts the Ohio Southern and the Toledo, Cincinnati and St. Louis together here, and says nine firms were mining at that meeting of the tracks. South and west of the village the coal sat above the creeks. Half a mile west, on Pigeon Creek, it went under the valley, and east of there the Coalton coal was a shaft mine. The census peaks at 1,625 in 1900. It is 1,111 in 1910, 790 in 1920, 648 in 1960, and 445 in 2020. I do not have the year the last mine shut, and I will not invent it.",
+    long: "",
+    names: ["Eurekaville"]
+  },
+  {
+    id: "coalton-register",
+    name: "The Store",
+    lat: 39.1115,
+    lng: -82.6110,
+    radius: 30,
+    short: "The Miners' Supply Store was probably built about 1880, on lot 48, after the Patterson family bought it. John H. Patterson, a Dartmouth man born in 1844, ran the store with his coal mine. In about three years the store sold a hundred and fifty thousand dollars of goods and lost three thousand. He bought two crude wooden cash registers from Dayton. They had no drawer. They punched a paper roll. A photograph from the 1930s says the first National Cash Register was used in this store. The nomination is narrower. He used the machines here. He did not build them here. In 1884 he bought the Dayton company that made them, the National Manufacturing Company, for sixty-five hundred dollars. He told his partner that what was good for this little store would be good for every retail store in the world. He was not born in Coalton. I will not move his birth here.",
+    long: "",
+    names: ["John H. Patterson"]
+  },
+  {
+    id: "coalton-englishville",
+    name: "Englishville",
+    lat: 39.1130,
+    lng: -82.6070,
+    radius: 40,
+    short: "A place called Englishville sits inside the village. I do not have its own story. A county history says William Wilds taught a school about 1820 in a log house on the Adam Sell place, near Coalton. Near is the word. The village was not platted until 1877. The geological report names mines in this district: Wilson's, Hall's, Morgan and Jones, the Kelley, the Western, the Sterling, Southern Ohio, the Garfield, and Adam Scott's Cannel Bank. I will not pretend I have stood at each opening. There is no battle in the record I will use. The next town, when you want it, is Coldwater.",
+    long: "",
+    names: ["Englishville"]
+  },
+
+  {
+    id: "approach-coldwater",
+    name: "Coldwater",
+    lat: 40.5100,
+    lng: -84.6280,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Coldwater, a village in Butler Township, Mercer County. This is not Coldwater, Michigan. About 4,774 people live here. One official figure puts the village at 1.99 square miles, 1.94 of it land. Another puts it at 1.97, with 1.92 of land. I will not average them. The name is the creek. The old name is a storekeeper. If you stay on the road, I'll start there, then the church, then the factory that did not begin in this town.",
+    long: "",
+    names: ["Coldwater"]
+  },
+  {
+    id: "coldwater-buzzard",
+    name: "Buzzard's Glory",
+    lat: 40.4947,
+    lng: -84.6288,
+    radius: 60,
+    short: "Wikipedia says the place was founded in 1838 and first called Buzzard's Glory, for David Buzzard, who kept a general store. A state marker on North Second Street says the same, and that it was incorporated as Coldwater in 1883. The village was platted in 1859. A post office has been open here since 1847, twelve years before the plat and thirty-six years before the incorporation. The name Coldwater is the nearby creek. I will not treat 1838, 1847, 1859, and 1883 as one event.",
+    long: "",
+    names: ["David Buzzard"]
+  },
+  {
+    id: "coldwater-trinity",
+    name: "Three Families",
+    lat: 40.4839,
+    lng: -84.6250,
+    radius: 50,
+    short: "A parish paper says that after the Civil War this was mostly German farm families, and that in 1867 three of them asked Father Jacob Rengele, at St. Mary in Philothea, about three miles up the road, to come and say Mass. Archbishop John Baptist Purcell approved the parish. It was named Holy Trinity because three families started it. They bought a corner lot for a dollar. The first church was dedicated in 1868. The church that stands now was built in 1898. The pastor says the same architect designed St. Henry's church in St. Henry. That is his sentence. The paper counts about sixteen hundred households in the parish, not in the village.",
+    long: "",
+    names: ["Holy Trinity"]
+  },
+  {
+    id: "coldwater-newidea",
+    name: "Not Invented Here",
+    lat: 40.4800,
+    lng: -84.6300,
+    radius: 80,
+    short: "The parish paper says manure spreaders put Coldwater on the map, under the name New Idea. The invention was not here. In Maria Stein, a page credits an 1899 patent to John M. Kramer, Fred Heckman, and Henry Synck, and then credits Joseph Oppenheim with a practical spreader in 1900. Oppenheim died in 1901 and is buried in Maria Stein. That same page says the works were built in Maria Stein, and also says the company was renamed in 1899, which is before the invention it just dated. I will not straighten those years. It does say the company moved to Coldwater in 1908, because a railhead was here. I do not have the railroad's name. The Coldwater plant closed in 1999. The village count is 1,515 in 1900, 974 in 1920, 3,702 in 1950, and 4,774 in 2020. I will not say the spreader hired every new person. There is no battle in the record I will use. The next town, when you want it, is College Corner.",
+    long: "",
+    names: ["New Idea", "Joseph Oppenheim"]
+  },
+
+  {
+    id: "approach-college-corner",
+    name: "College Corner",
+    lat: 39.5600,
+    lng: -84.7900,
+    radius: 2000,
+    layer: "approach",
+    short: "You are coming up on College Corner, about five miles northwest of Oxford. The Ohio village sits in Oxford Township, Butler County, and Israel Township, Preble County. Across the state line is West College Corner, a town in Indiana, and the census does not add them together. Ohio counted 387 people here in 2020, on 0.26 of a square mile. Indiana counted 545 in the town on the other side of the street. In 1810 the Ohio legislature set aside this survey township for the state college that became Miami University. The village takes its name from the northwest corner of that College Township. If you stay on the road, the line is the story.",
+    long: "",
+    names: ["College Corner"]
+  },
+  {
+    id: "college-corner-line",
+    name: "Before Indiana Was a State",
+    lat: 39.5683,
+    lng: -84.8108,
+    radius: 40,
+    short: "Wikipedia says the Ohio side was settled in 1811 and laid out in 1837. Ohio was already a state. Indiana became a state in 1816. A newspaper says the town was here before the ground to the west had the name Indiana. That is too neat. The Indiana Territory already had the name. A county historical society says the original plat was all in Butler County, and later additions crossed into Preble County and into Union County, Indiana. I will not pick a single year the town became two governments. West College Corner takes its name from this Ohio village. People say College Corner for both. The census does not.",
+    long: "",
+    names: ["West College Corner"]
+  },
+  {
+    id: "college-corner-gym",
+    name: "The Stripe",
+    lat: 39.5680,
+    lng: -84.8120,
+    radius: 40,
+    short: "The school district says the building sits on the state line, and the center of the gym is that line. A newspaper says the first schoolhouse went up in 1893, on ground in both states, and that the present building is 1926, with the midcourt stripe on the border. A man from the class of 1969 said you could shoot from one state and score in the other. The district page says the two sides have schooled children together for 111 years, and also says the high school grades left in 1972 for Union High School in Liberty, Indiana. I will not make 111 and 1972 into one sum. In 1995 a federal magistrate set up a joint district, nine trustees, Ohio and Indiana, running under Indiana law. The district says it is the last joint district on this border, and possibly the last in the country. Possibly is the word it uses.",
+    long: "",
+    names: ["College Corner"]
+  },
+  {
+    id: "college-corner-count",
+    name: "Two Diplomas",
+    lat: 39.5675,
+    lng: -84.8090,
+    radius: 40,
+    short: "The Ohio count starts at 378 in 1900, peaks at 468 in 1950, and is 387 in 2020. The Indiana town starts at 290 in 1890, peaks at 709 in 1970, and is 545 in 2020. I will not add them. People who went to the old school say an Indiana child got an Indiana diploma and an Ohio child got an Ohio one. A county society says Ambrose Burnside worked here as a tailor in 1835, under John Leach. He was born in 1824, so that would make him a boy. I will not improve the story. There is no battle in the record I will use. The next town, when you want it, is Collinsville, the village in Butler County.",
+    long: "",
+    names: ["Ambrose Burnside"]
+  },
+
+  {
+    id: "approach-collinsville",
+    name: "Collinsville",
+    lat: 39.5000,
+    lng: -84.6100,
+    radius: 2000,
+    layer: "approach",
+    short: "You are coming up on Collinsville, an unincorporated crossroads in southeastern Milford Township, Butler County, where U.S. 127 meets State Route 73. It is a former village. I do not have the year it incorporated, or the year it quit being one. It still has a post office, ZIP 45004. This is not Collinsville, Illinois. The census does not count this place by itself, so I will not give you a population. If you stay on the road, I'll start at the wagon-maker.",
+    long: "",
+    names: ["Collinsville"]
+  },
+  {
+    id: "collinsville-collins",
+    name: "The Wagon-Maker",
+    lat: 39.5153,
+    lng: -84.6094,
+    radius: 40,
+    short: "The township history says that in 1802 Matthew Richardson, from Maryland, entered the land that is now Collinsville and sold the first lot to Charles Collins, an English wagon-maker. The town is named for him. Wikipedia says the place was laid out in 1802, and calls Collins a first settler. A first lot and a plat are not the same sentence, and I will not make them one. The same township page puts Conrad Darr and Robert and William Ogle in Section 28 that year. That section is not this crossroads. Darr laid out Darrtown in 1814. I will not move those families here.",
+    long: "",
+    names: ["Charles Collins"]
+  },
+  {
+    id: "collinsville-school",
+    name: "The Irish Teacher",
+    lat: 39.5150,
+    lng: -84.6100,
+    radius: 40,
+    short: "The township says the Seven-Mile Presbyterian Church was established in Collinsville in 1810. Seven Mile is a different village. I am using the township's words, and I will not move the building. In 1818 the first schoolhouse here had a fireplace and a brick chimney. The first teacher was an Irishman, William Hewett. After him came William Simpson, Moses Dougherty, and William McMechan. A second schoolhouse went up in 1838. A Methodist Episcopal church was organized in 1843 and is listed as active until 1870. One compiler says the post office opened in 1836, and says he does not have a founding date. I will not trade 1802 for 1836.",
+    long: "",
+    names: ["William Hewett"]
+  },
+  {
+    id: "collinsville-count",
+    name: "Not the Township",
+    lat: 39.5145,
+    lng: -84.6085,
+    radius: 40,
+    short: "The township page counts 1,501 people in 1820, 1,808 in 1830, and 1,868 in 1840. Those numbers are Milford Township, which also holds Darrtown and Somerville. They are not Collinsville. The roads and the fire service here are the township's. Emergency medical service comes from Seven Mile. I do not have a battle at this corner, and I will not borrow one from Hamilton. The next town, when you want it, is Columbiana.",
+    long: "",
+    names: ["Collinsville"]
+  },
+
+  {
+    id: "approach-columbiana",
+    name: "Columbiana",
+    lat: 40.8800,
+    lng: -80.7000,
+    radius: 3500,
+    layer: "approach",
+    short: "You are coming up on Columbiana, a city of about 6,559 people. Most of it is in Fairfield Township, Columbiana County. A northern piece is in Beaver Township, Mahoning County, and a small piece to the east is in Unity Township, still in Columbiana County. The name is the county's. The county was named for Christopher Columbus, and the city took the county's name. This is not the city of Columbus. That one is already in. If you stay on the road, I'll start at the square.",
+    long: "",
+    names: ["Columbiana"]
+  },
+  {
+    id: "columbiana-square",
+    name: "Fifty-Eight Lots",
+    lat: 40.8806,
+    lng: -80.6750,
+    radius: 50,
+    short: "The city page says Joshua Dixon settled here in 1802, and that he and William Heald laid the town out in 1805. A 2016 account says the same plat, three years after Dixon's family arrived, with Heald as the surveyor. Two streets, Main and Main Cross, which is now Park Avenue. Fifty-eight lots, priced from twenty-five to thirty dollars. The square is still Main and Park. That account says only two buildings from the original lots are left. The village incorporated in 1837. The city page stops there and jumps to the year 2000, when it became a city. The historical society says the 1837 incorporation was undone five years later, and that the village incorporated again in 1857. I will not erase either sentence.",
+    long: "",
+    names: ["Joshua Dixon", "William Heald"]
+  },
+  {
+    id: "columbiana-railroad",
+    name: "The Flattest Land",
+    lat: 40.8780,
+    lng: -80.6750,
+    radius: 80,
+    short: "The city page says that by 1831 the place had a railroad and three stores. Beverly Richardson, of the historical society, dates the railroad to 1856, the Pittsburgh, Fort Wayne and Chicago, later part of the Pennsylvania, across the south side of town. She says that line put the town on the map, because the road wanted the flattest land, and the trade had been going through New Lisbon, which is now Lisbon. I will not make 1831 and 1856 the same year. In 1846 Mahoning County was cut out, and a town that had sat near the middle of Columbiana County found the county line running through it. A newspaper says that around 1840 this was one of the first places in the country with mail brought to the house. That is the paper's claim. I will not improve it.",
+    long: "",
+    names: ["Columbiana"]
+  },
+  {
+    id: "columbiana-firestone",
+    name: "Not the Factory",
+    lat: 40.8850,
+    lng: -80.6700,
+    radius: 80,
+    short: "Harvey S. Firestone was born and raised here. In 1900 he founded the Firestone tire company in Akron. The factory is not in this city. In 1933 he and his wife, Idabelle Smith Firestone, gave 53 acres for a park, and Firestone Park opened in 1935. The city page calls that park 68 acres. I will not average 53 and 68. The family memorial is in Columbiana Cemetery. The Jones-Bowman House, built in 1842, is believed to have been a stop on the Underground Railroad. Believed is the word. I will not name a conductor I do not have. The count is 1,174 in 1860, 870 in 1870, 2,114 in 1920, 4,961 in 1990, 5,635 in 2000, and 6,559 in 2020. I will not explain the 1870 drop. The next town, when you want it, is Columbus Grove. Columbus itself is already in.",
+    long: "",
+    names: ["Harvey S. Firestone"]
+  },
+
+  {
+    id: "approach-columbus-grove",
+    name: "Columbus Grove",
+    lat: 40.9050,
+    lng: -84.0600,
+    radius: 2000,
+    layer: "approach",
+    short: "You are coming up on Columbus Grove, a village in Pleasant Township, Putnam County, where State Routes 12 and 65 cross. People call it the Grove, and also Axe-Handle Junction. About 2,160 people live here. One official figure puts the village at 1.24 square miles, 1.23 of it land. Another puts it at 1.08, all land. I will not average them. This is not Columbus, and it is not Grove City. The village site calls it the second-largest town in the county. If you stay on the road, I'll start at the name.",
+    long: "",
+    names: ["Columbus Grove"]
+  },
+  {
+    id: "columbus-grove-fruchey",
+    name: "The Sugar Grove",
+    lat: 40.9206,
+    lng: -84.0597,
+    radius: 50,
+    short: "The village site says Captain Frederick Fruchey laid the town out in 1842. The county history says December of that year, and that Benjamin Dunning surveyed it. One old scan spells the captain Eruchey. I am using Fruchey. Wikipedia says a large share of the first settlers came from Columbus, and that is why the name was picked. The county book adds a second reason. It calls the site a famous Indian sugar grove. It does not name a nation, and I will not supply one. The first tavern was James Pier's, a hewed-log house, three rooms below and two above. A first log house is in that book under a name the scan garbles. I will not guess the builder.",
+    long: "",
+    names: ["Frederick Fruchey"]
+  },
+  {
+    id: "columbus-grove-caboose",
+    name: "The Caboose",
+    lat: 40.9190,
+    lng: -84.0580,
+    radius: 60,
+    short: "A post office has used this name since 1862. The village incorporated in 1864. The county book says John J. Baker and others did it, and the first mayor was David Jones, the first clerk S. B. McHenry. The Dayton and Michigan Railroad came through in 1859 and ran a first train on July 12. In 1882 the Pittsburgh, Akron and Western was built. In 1895 the Lima Northern. In 1887, on his goodwill tour, President Grover Cleveland made an unplanned speech here from a train caboose. I do not have the words, and I will not invent them.",
+    long: "",
+    names: ["Grover Cleveland"]
+  },
+  {
+    id: "columbus-grove-handles",
+    name: "The Handles",
+    lat: 40.9210,
+    lng: -84.0610,
+    radius: 50,
+    short: "The county history, without a year I will swear to, says a normal year shipped 325 cars of livestock, 450 of grain, hay, and straw, 200 of sugar beets, and 68 more, including eggs, dressed poultry, wool, and handles. The nickname Axe-Handle Junction sits next to that last word. I will not build a factory out of a freight list. The count is 118 in 1850. There is no 1860 line on the table I am using. It is 1,392 in 1880, 1,935 in 1900, 2,313 in 1980, and 2,160 in 2020. Another compiler's list does not match those years, so I will not crown a peak. On June 29, 2012, a windstorm damaged a downtown business badly enough to make the national news. I do not have the shop's name. The next town, when you want it, is Commercial Point.",
+    long: "",
+    names: ["Columbus Grove"]
+  },
+
+  {
+    id: "approach-commercial-point",
+    name: "Commercial Point",
+    lat: 39.8100,
+    lng: -83.0260,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Commercial Point, a village in Scioto Township, Pickaway County, on U.S. 23. This is not Circleville, and it is not a point on the river at Portsmouth. About 3,078 people live here. In 1990 the count was 405. One line in the record puts the village at 1.13 square miles, all land. The box at the top of the same page puts it at 3.75, of which 3.74 is land. I will not average them. The town has two old names, and neither of them is Commercial Point. If you stay on the road, I'll start with the store.",
+    long: "",
+    names: ["Commercial Point"]
+  },
+  {
+    id: "commercial-point-beckett",
+    name: "Beckett's Store",
+    lat: 39.7867,
+    lng: -83.0256,
+    radius: 50,
+    short: "The village's own history says Wiley H. Beckett came from eastern Virginia in 1829 and settled on 238 acres west of the present town. In 1841 he laid out a town and named it Genoa. In 1844 he opened the first store. The post office was first called Beckett's Store. I will not move the 238 acres onto the plat. The plat is 1841. The store is 1844. The acres are the farm he settled, west of where the village sits now.",
+    long: "",
+    names: ["Wiley H. Beckett"]
+  },
+  {
+    id: "commercial-point-rome",
+    name: "Rome and Genoa",
+    lat: 39.7870,
+    lng: -83.0200,
+    radius: 60,
+    short: "James H. Burnley, also from Virginia, arrived in 1832 and laid out a second town east of Genoa. He called it Rome. That is the village history, and it is also the first half of the encyclopedia. The encyclopedia then says that as the two towns grew, Rome became the western half and Genoa the eastern half. East, and then west. I will not decide which sentence to keep. Genoa was incorporated in 1851, and Rome was taken into it. In 1872 the village was renamed Commercial Point. A list of old names still carries Beckett's Store, Genoa, and Rome.",
+    long: "",
+    names: ["James H. Burnley"]
+  },
+  {
+    id: "commercial-point-count",
+    name: "From Two Hundred",
+    lat: 39.7850,
+    lng: -83.0280,
+    radius: 50,
+    short: "The census table I am using starts at 154 in 1870. It is 207 in 1940, 405 in 1990, 776 in 2000, 1,582 in 2010, and 3,078 in 2020. Another compiler's rebased counts do not match those years, so I will not average them. In 2020 the median age was 32 and a half. About a third of the people were under 18. I do not have a canal stop or a battle I will put in this village. Scioto Township is not the canal town on the Ohio River. The next town, when you want it, is Conesville.",
+    long: "",
+    names: ["Commercial Point"]
+  },
 
 
 

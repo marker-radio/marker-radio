@@ -7875,6 +7875,460 @@ STORIES.push(
     long: "",
     names: ["Commercial Point"]
   },
+  {
+    id: "approach-conesville",
+    name: "Conesville",
+    lat: 40.2000,
+    lng: -81.8920,
+    radius: 2000,
+    layer: "approach",
+    short: "You are coming up on Conesville, a village in Franklin Township, Coshocton County, on the Muskingum River. About 328 people live here. One official figure puts the village at 0.14 of a square mile, all land. Another puts it at 0.16, all land. I will not average them. This is not the city of Coshocton. The name is probably a distiller's. The stacks that used to stand just east of the houses are down. If you stay on the road, I'll start with the fire.",
+    long: "",
+    names: ["Conesville"]
+  },
+  {
+    id: "conesville-cone",
+    name: "The Distillery",
+    lat: 40.1850,
+    lng: -81.8919,
+    radius: 40,
+    short: "The record says the village is most likely named for Beebe Stewart Cone. Most likely is the word it uses. In 1847 he and three other men, unnamed, put up a sizable distillery on the west side of the Muskingum. Houses for the workers went up beside it, and a few small businesses. The distillery burned in 1857. Cone quit the business and moved to Muscatine County, Iowa. A man named James Beebe rebuilt it. That one burned too, a few years later. I do not have the second year.",
+    long: "",
+    names: ["Beebe Stewart Cone"]
+  },
+  {
+    id: "conesville-delaney",
+    name: "Delaneysville",
+    lat: 40.1845,
+    lng: -81.8930,
+    radius: 40,
+    short: "Before 1840 a man named Delaney bought land here and meant to call the place Delaneysville. The record gives him no first name, and it says the plan failed as an incorporated town. I will not invent the year or the reason. One compiler, who says he does not have a founding date, puts the post office at 1851. That is between the distillery and the fire. I will not trade 1847 for 1851.",
+    long: "",
+    names: ["Delaneysville"]
+  },
+  {
+    id: "conesville-plant",
+    name: "The Stacks",
+    lat: 40.1861,
+    lng: -81.8786,
+    radius: 150,
+    short: "The coal plant stood just east of the village, in the same township, cooled by the river. The first unit came on in 1957, under Columbus and Southern Ohio Electric, a forerunner of American Electric Power. Later units followed in 1959, 1962, 1973, 1976, and 1978. At the end it was rated 2,005 megawatts. The units did not die on one day. The first two closed in 2005, another in 2012, two more on May 31, 2019, and the last on April 29, 2020. The village page says the plant was demolished in 2021. The census table starts at 466 people in 1950, before the plant, and is 328 in 2020. I will not blame the stacks for that drop. Another compiler prints 327. I will not average it. There is no battle in the record I will use. The next town, when you want it, is Congress, the village in Wayne County.",
+    long: "",
+    names: ["Conesville Power Plant"]
+  },
+
+  {
+    id: "approach-congress",
+    name: "Congress",
+    lat: 40.9100,
+    lng: -82.0560,
+    radius: 1500,
+    layer: "approach",
+    short: "You are coming up on Congress, a village in Wayne County. About 132 people live here, on 0.16 of a square mile, all land. This is not the Congress in Washington. The township around the village is also named Congress, and that count is a different number, in the thousands. The village has no post office of its own. The mail uses West Salem's ZIP, 44287. West Salem is another village in the same township. If you stay on the road, I'll start with the old name.",
+    long: "",
+    names: ["Congress"]
+  },
+  {
+    id: "congress-waynesburg",
+    name: "Waynesburg",
+    lat: 40.9253,
+    lng: -82.0558,
+    radius: 40,
+    short: "The county record says this place was first called Waynesburg. Peter Emery surveyed it. Philip Gates and David Newcomer laid it out on March 6, 1827. The plat and the certificate were recorded on March 27. That is the county history of 1878. I will not move the surveyor into the list of men who laid the town out, and I will not make the two March dates into one.",
+    long: "",
+    names: ["Philip Gates", "David Newcomer"]
+  },
+  {
+    id: "congress-name",
+    name: "The Hole in the Name",
+    lat: 40.9250,
+    lng: -82.0540,
+    radius: 40,
+    short: "I do not have the year the name changed from Waynesburg to Congress, and I do not have the reason. I will not borrow one. There is still a Waynesburg in Stark County, and another in Pennsylvania. I will not say this village changed its name to get out of their way. The township carries the name Congress. The precise reason for that name is not in the record I will use. West Salem, laid out later, is the place with the post office. A piece of Burbank sits in the township too. None of those counts is this village.",
+    long: "",
+    names: ["Waynesburg"]
+  },
+  {
+    id: "congress-count",
+    name: "One Hundred Thirty-Two",
+    lat: 40.9245,
+    lng: -82.0570,
+    radius: 40,
+    short: "The census table starts at 309 in 1870. It is 123 in 1920, 205 in 1970, 192 in 2000, 185 in 2010, and 132 in 2020. The estimate for 2023 is still 132. I will not explain the drop. There is no railroad, no canal, and no battle in the record I will use. The next town, when you want it, is Conneaut.",
+    long: "",
+    names: ["Congress"]
+  },
+
+  {
+    id: "approach-conneaut",
+    name: "Conneaut",
+    lat: 41.9300,
+    lng: -80.6500,
+    radius: 6000,
+    layer: "approach",
+    short: "You are coming up on Conneaut, the northernmost city in Ohio, on Lake Erie at the mouth of Conneaut Creek. Pennsylvania is the next fence east. About 12,318 people live here, on 26.42 square miles of land. The city page rounds that to 27, and calls it one of the largest cities in the state by area, not by people. Interstate 90 cuts the city. U.S. 20 and State Route 7 do too. This is not Ashtabula. If you stay on the road, I'll start with a word nobody agrees on.",
+    long: "",
+    names: ["Conneaut"]
+  },
+  {
+    id: "conneaut-name",
+    name: "River of Fish, or Not",
+    lat: 41.9376,
+    lng: -80.5763,
+    radius: 80,
+    short: "The name is a Seneca word. The city page says the meaning is disputed, and that the favorite reading is river of many fish. Another account gives two readings, river of large-mouth fish, or place of late snows. I will not pick one. A Mississauga village stood at or near here about 1747. Mississauga is not Seneca. I will not fold them into one people. The city page says the place was first called Salem. Another page says New Salem. The land around it was called Lakeville from 1944 to 1964, and a merger made the city you are in. The trail under the road is older than any of those names.",
+    long: "",
+    names: ["Conneaut"]
+  },
+  {
+    id: "conneaut-landing",
+    name: "July Fourth",
+    lat: 41.9500,
+    lng: -80.5600,
+    radius: 100,
+    short: "A harbor account says that about July 3, 1796, fifty-two surveyors landed, and on July 4 they started a storehouse. It calls the harbor the Plymouth Rock of Ohio. That is the account's phrase. I will not adopt it. Another account calls the 1796 camp Fort Independence, under Moses Cleaveland, spelled the old way, and says Thomas Montgomery and Aaron Wright settled the harbor for good in 1799. The encyclopedia says the storehouse was 1796 and the permanent settlement was 1798. I will not make 1798 and 1799 the same year, or the storehouse and the fort the same building. One page incorporates the town in 1832. Another says a village in 1834 and a city in 1902. In 1833 it is described with a printing office, one meeting house, two taverns, and several stores.",
+    long: "",
+    names: ["Moses Cleaveland"]
+  },
+  {
+    id: "conneaut-hulett",
+    name: "The Unloaders",
+    lat: 41.9700,
+    lng: -80.5500,
+    radius: 200,
+    short: "Docks were first paid for in 1825. The first dredging was in 1837. The same harbor account says this was the best port on this shore until 1869, and also that almost nothing was done from 1865 to 1888. I will not repair that. A railroad from the coal fields reached the harbor in 1888, and the Pittsburgh and Lake Erie finished in 1890. The city says the Pittsburgh and Conneaut Dock, now Canadian National, is where the Hulett ore unloaders were born. I will use its words and not add an inventor. The port still loads iron ore for the mills at Pittsburgh, including the Edgar Thomson works. The city names three railroads, Norfolk Southern, CSX, and the Bessemer and Lake Erie, and it calls CSX the old Nickel Plate. The Nickel Plate is not CSX. I will not repeat that as fact. The count I will use is 12,485 in 2000, 12,841 in 2010, and 12,318 in 2020. The next town, when you want it, is Continental.",
+    long: "",
+    names: ["Conneaut"]
+  },
+
+  {
+    id: "approach-continental",
+    name: "Continental",
+    lat: 41.0850,
+    lng: -84.2725,
+    radius: 2000,
+    layer: "approach",
+    short: "You are coming up on Continental, a village in Monroe Township, Putnam County. About 1,102 people live here. This is not a name for the continent. The box at the top of the record puts the village at 1.22 square miles, 1.20 of it land. The geography line puts it at 0.91, of which 0.89 is land. I will not average them. The mail uses two ZIP codes, 45831 and 45837. If you stay on the road, I'll start with the name it was not allowed to keep.",
+    long: "",
+    names: ["Continental"]
+  },
+  {
+    id: "continental-maurice",
+    name: "Maurice City",
+    lat: 41.1003,
+    lng: -84.2725,
+    radius: 50,
+    short: "The encyclopedia says the town was platted in 1888 under the name Maurice City, and that several months later it was incorporated as Continental. A later compiler dates the plat to June 15, 1886, says George Skinner filed it for A. V. Rice, and says Maurice honored Rice's daughter Mary. That compiler then puts the new name in 1899. Several months is not eleven years, and Maurice is not Mary. I will not repair either sentence. I do not have a reason for the word Continental that I will lock.",
+    long: "",
+    names: ["Maurice City"]
+  },
+  {
+    id: "continental-count",
+    name: "The Count",
+    lat: 41.0990,
+    lng: -84.2700,
+    radius: 40,
+    short: "The census table I am using starts at 895 in 1890. It is 1,104 in 1900, 1,214 in 1990, and 1,102 in 2020. Other compilers print different counts for the years in between, including a 2020 figure of 1,101 against a line of their own that says 1,102. I will not average them. I do not have a railroad, a canal, or a battle I will pin to this village. The next town, when you want it, is Convoy.",
+    long: "",
+    names: ["Continental"]
+  },
+
+  {
+    id: "approach-convoy",
+    name: "Convoy",
+    lat: 40.9170,
+    lng: -84.7300,
+    radius: 2000,
+    layer: "approach",
+    short: "You are coming up on Convoy, a village in Tully Township, Van Wert County, on U.S. 30. About 1,012 people live here, on 0.56 of a square mile, all land. This is not a line of trucks. The village sits near the edge of the Black Swamp. The earliest land entries in the township are the late 1830s. If you stay on the road, I'll start with a town in Ireland.",
+    long: "",
+    names: ["Convoy"]
+  },
+  {
+    id: "convoy-ireland",
+    name: "The Irish Town",
+    lat: 40.9175,
+    lng: -84.7050,
+    radius: 50,
+    short: "The encyclopedia says the village was platted in 1854, and named for Convoy, Ireland, the home of a first settler. It does not name him. A later compiler names Robert Nesbitt, says he and James Pettit platted the town on June 16, 1854, and spells a Gaelic form of the Irish town. I will not lock those names from a compiler. The village's own page says a hamlet here in the 1860s. That is not 1854. I will not make them the same year. A post office has used this name since 1872. The village incorporated in 1874.",
+    long: "",
+    names: ["Convoy"]
+  },
+  {
+    id: "convoy-staves",
+    name: "Twenty Thousand Staves",
+    lat: 40.9160,
+    lng: -84.7040,
+    radius: 50,
+    short: "The village page says the Pittsburgh, Fort Wayne and Chicago Railroad was finished through the county in 1855, and that is what opened the township. The settlement moved off an old Native American trail and sat down by the tracks. The page does not name a nation. I will not supply one. In 1872 a stave mill was cutting 20,000 staves a day. South of it, a hoop mill made the bands for wooden barrels. There was lumber, and there was a market. Later the town turned from staves to grain. I will not invent the year of that turn.",
+    long: "",
+    names: ["Convoy"]
+  },
+  {
+    id: "convoy-count",
+    name: "The Count",
+    lat: 40.9185,
+    lng: -84.7060,
+    radius: 40,
+    short: "The census table starts at 386 in 1880. It is 690 in 1900, 1,200 in 1990, and 1,012 in 2020. The estimate for 2023 is 1,000. I will not crown 1990. A user note says two fires took the business district in the early twentieth century. I will not use a note I cannot lock. There is no battle in the record I will use. The next town, when you want it, is Coolville.",
+    long: "",
+    names: ["Convoy"]
+  },
+
+  {
+    id: "approach-coolville",
+    name: "Coolville",
+    lat: 39.2300,
+    lng: -81.8000,
+    radius: 2000,
+    layer: "approach",
+    short: "You are coming up on Coolville, a village in Troy Township, Athens County. It sits on the west bank of the Hocking River, a few miles above where that river meets the Ohio. The road that misses the houses is U.S. 50, State Route 32, and State Route 7, the same bypass, on the north side. State Route 144 stays on the near bank. The lead line says 452 people in 2020. The table and the box say 454. I will not average them. One figure puts the village at one square mile. Another puts it at 0.85. I will not average those either. If you stay on the road, I'll start with the man, not the joke.",
+    long: "",
+    names: ["Coolville"]
+  },
+  {
+    id: "coolville-cooley",
+    name: "Simeon Cooley",
+    lat: 39.2192,
+    lng: -81.7989,
+    radius: 50,
+    short: "In 1818 Simeon W. Cooley platted the town, and it is named for him. Cooley, not cool. The village incorporated in 1835. By the 1830s it had two stores, a gristmill, and a sawmill. A page notes the odd name and points at three neighbors, Torch and Frost in this county, and Snowville in Meigs County. I will not say anybody planned a set. Those are other places. The name I will lock is the surveyor's.",
+    long: "",
+    names: ["Simeon W. Cooley"]
+  },
+  {
+    id: "coolville-roots",
+    name: "The Store",
+    lat: 39.2190,
+    lng: -81.7975,
+    radius: 40,
+    short: "Roots General and Feed store was built in 1846. The page says it still stands, a remodeled house with a business front. The same page says a bank of the late 1800s on Main Street is now the village hall, and then it marks that sentence as needing a citation. I will not use it. The river under the bank was once called the Hockhocking. I will not turn that into a second name for the village.",
+    long: "",
+    names: ["Coolville"]
+  },
+  {
+    id: "coolville-count",
+    name: "The Count",
+    lat: 39.2185,
+    lng: -81.8005,
+    radius: 40,
+    short: "The census table starts at 334 in 1870. It is 443 in 1960, 672 in 1970, 663 in 1990, and 454 in 2020. I will not explain the jump. The estimate for 2023 is 445. There is no battle in the record I will use. Two names sit earlier in the alphabet than this one, Coal Grove and Coalton. I passed them. The next new
+name, when you want it, is Corning.",
+    long: "",
+    names: ["Coolville"]
+  },
+
+  {
+    id: "approach-corning",
+    name: "Corning",
+    lat: 39.6200,
+    lng: -82.0880,
+    radius: 2000,
+    layer: "approach",
+    short: "You are coming up on Corning, a village in Perry County, on Sunday Creek. About 488 people live here, on 0.43 of a square mile, all land. This is not the glass city in New York. The county page says the village was established in 1878. The encyclopedia starts the coal story in 1879. I will not make those the same year. State Route 13 is the road the record photographs. If you stay on it, I'll start with the name it had before the coal.",
+    long: "",
+    names: ["Corning"]
+  },
+  {
+    id: "corning-ferrara",
+    name: "Ferrara",
+    lat: 39.6017,
+    lng: -82.0875,
+    radius: 50,
+    short: "The town was first called Ferrara, and it farmed the Sunday Creek valley. In 1879 the Atlantic and Lake Erie Railway finished the Moxahala tunnel. By 1880 Joseph Rodgers had sold more than 8,000 acres along the creek to the Ohio Central Coal Company. New York money came in, and the camp was renamed Corning. I do not have the man that new name honors. I will not borrow one from the New York railroad family. A post office has used Corning since 1880. The county page says many people here still make a living in oil. I will not turn that into a count.",
+    long: "",
+    names: ["Ferrara"]
+  },
+  {
+    id: "corning-war",
+    name: "September Nineteenth",
+    lat: 39.6025,
+    lng: -82.0860,
+    radius: 50,
+    short: "The page calls this one of the most lawless towns in the state, and it reaches for Tombstone and Deadwood. I will not use that as a measurement. On September 19, 1880, the Ohio National Guard fought white coal miners who were trying to drive out African American miners just arrived. The page calls it the Battle of Corning, or the Corning War, and says it was the first time the Guard shed blood in defense of the state. I will use that sentence and not add a body count. In 1884 the same account tells a church fight, Father Bernard O'Boylan against a saloon keeper named Andy McDevitt. It calls that the Corning Church War. I will not invent who won.",
+    long: "",
+    names: ["Corning"]
+  },
+  {
+    id: "corning-mercer",
+    name: "The Mercer Hotel",
+    lat: 39.6010,
+    lng: -82.0885,
+    radius: 40,
+    short: "After the strikes of the early 1890s, the page says Corning was an unofficial seat of a fight inside the new United Mine Workers. At the Mercer Hotel, Ohio and West Virginia miners met, and Richard L. Davis was refused a meal. He was an African American miner and organizer from Rendville. In 1895 the hotel was the first business in Ohio punished under the state's law against that refusal. The page calls the incident a high-water mark of the color line. That is the page's phrase. The count starts at 270 in 1880, is 1,628 in 1920, and is 488 in 2020. The estimate for 2023 is 485. I will not crown 1920. The next town, when you want it, is Cortland.",
+    long: "",
+    names: ["Richard L. Davis"]
+  },
+
+  {
+    id: "approach-cortland",
+    name: "Cortland",
+    lat: 41.3100,
+    lng: -80.7200,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Cortland, a city in Trumbull County, on the eastern shore of Mosquito Creek Lake. About 7,105 people live here. This is not Cortland, New York. Other compilers print 7,107 and 7,086 for the same census. I will not average them. The ground was Bazetta Township, a 17,247-acre tract the Connecticut Land Company offered in 1795, cut into a hundred parcels. That count is the township's, not the city's. If you stay on the road, I'll start with the Bacon family.",
+    long: "",
+    names: ["Cortland"]
+  },
+  {
+    id: "cortland-bacon",
+    name: "Baconsburg",
+    lat: 41.3322,
+    lng: -80.7194,
+    radius: 60,
+    short: "The city's page says Edward Scoffield and John Budd bought land in Bazetta in 1804 and 1805, and were the first to stay. The encyclopedia says Samuel Bacon acquired land along the Mahoning in 1807, and in 1816 traded it for a lumber mill. The city's other page says Samuel moved to the township in 1816, and the family ran a sawmill from 1816 to 1850. I will not make 1807 and 1816 the same arrival. A dam of 1809 fed the mill, and only in the spring, when the water was up. Enos Bacon, Samuel's son, opened a store and platted lots. The settlement was called Baconsburg. The railroaders later called the stop the same thing, because of how many Bacons lived there.",
+    long: "",
+    names: ["Samuel Bacon"]
+  },
+  {
+    id: "cortland-gates",
+    name: "Minister Gates",
+    lat: 41.3330,
+    lng: -80.7180,
+    radius: 50,
+    short: "One city page says the railroad was laid in 1868, and four trains stopped. The other city page says the village became real in 1874, when the first railroad built a depot. I will not pick. The same first page says incorporation took four years and landed on May 7, 1873. The encyclopedia agrees on 1873. Minister Gates, the page says, had some weight in town by then, and he gave the new village the name of his old home in New York. The encyclopedia says that name was Cortland. I do not have the minister's first name. There were two livery stables, a smithy, and two hotels. I will not turn the stables into a count of horses.",
+    long: "",
+    names: ["Cortland"]
+  },
+  {
+    id: "cortland-cheese",
+    name: "The Cheese Factory",
+    lat: 41.3315,
+    lng: -80.7210,
+    radius: 50,
+    short: "The Methodist Episcopal church was organized in 1820. A cheese factory opened in 1875. The Union School was built in 1877. A town hall went up in 1874 and was replaced in 1986. By 1882 the city's page counts 614 people, three churches, and two newspapers. That 614 is the page's number, not a census line I will lock against the later table. The city's other page says the first work was farming, and the rest of the work served the farms: flour, cheese, dairy, canning, and lumber. The page says that by 1812 most of the Native people had left. It names no nation. I will not supply one. The next town, when you want it, is Corwin.",
+    long: "",
+    names: ["Cortland"]
+  },
+
+  {
+    id: "approach-corwin",
+    name: "Corwin",
+    lat: 39.5250,
+    lng: -84.0800,
+    radius: 1500,
+    layer: "approach",
+    short: "You are coming up on Corwin, a village in Wayne Township, Warren County, just east of Waynesville, on the other side of the Little Miami. About 484 people live here. This is not the governor. It is the village that took his name. The box puts the ground at 0.33 of a square mile, all land. The geography line puts it at 0.35. I will not average them. Another compiler prints 491 people for 2020, and a line of its own that says 484. I will not average those either. If you stay on the road, I'll start with a name the founders almost did not use.",
+    long: "",
+    names: ["Corwin"]
+  },
+  {
+    id: "corwin-johnstown",
+    name: "Not Johnstown",
+    lat: 39.5256,
+    lng: -84.0656,
+    radius: 40,
+    short: "The village's page says John Johnson and Joel W. Johnson founded the place in 1844, waiting on the Little Miami Railroad. The name Johnstown was considered. They named it Corwin instead, for Thomas Corwin of Lebanon. The encyclopedia calls him the fifteenth governor of Ohio. I will not add the rest of his offices. By 1845 the railroad had been built from Cincinnati through here, on the way to Xenia. The Waynesville depot stood in Corwin. The village's page is plain that this is not Waynesville. They shared the trade. They did not share the name.",
+    long: "",
+    names: ["Thomas Corwin"]
+  },
+  {
+    id: "corwin-depot",
+    name: "The Depot",
+    lat: 39.5250,
+    lng: -84.0665,
+    radius: 40,
+    short: "The same page says this was one of the busiest depots on the Little Miami, for people and for freight. The Pan Handle Hotel stood just off the tracks, opposite the depot, for riders of the Pan Handle Express who were going to Waynesville or to Miami Cemetery. I will use the page's words and not explain the railroad's owners. Hiram Kilbon's general store sat on the tracks, and his house was built onto the back of it. The page also counts two grain elevators, a sawmill, a blacksmith shop, two water towers, stockyards, and a Union Sunday School. A post office used this name from 1898 until 1918. I will not invent why it closed.",
+    long: "",
+    names: ["Corwin"]
+  },
+  {
+    id: "corwin-count",
+    name: "The Count",
+    lat: 39.5265,
+    lng: -84.0645,
+    radius: 40,
+    short: "The census table I am using starts at 135 in 1870. It has no line for 1890. It is 326 in 1950, 225 in 1990, and 484 in 2020. The estimate for 2023 is 516. I will not explain the jumps, and I will not crown a year. A later compiler dates a hamlet here to April 3, 1895, and counts 227 people. I will not lock that against a census table that skips the decade. The record photographs a council house and a jail. I will not date the building. The next town, when you want it, is Coshocton.",
+    long: "",
+    names: ["Corwin"]
+  },
+
+  {
+    id: "approach-coshocton",
+    name: "Coshocton",
+    lat: 40.2400,
+    lng: -81.8600,
+    radius: 3000,
+    layer: "approach",
+    short: "You are coming up on Coshocton, the seat of Coshocton County, about 63 miles east-northeast of Columbus. About 11,050 people live in the city. The county around it counted 36,612. Do not mix those. Two rivers meet here. The Walhonding and the Tuscarawas make the Muskingum. The county's page says the name, in the Lenape language, has been translated as union of waters, or as black bear crossing. Those are not the same thing. I will not pick. The box puts the city at 8.17 square miles, 8 of it land. The geography line puts it at 8.20, of which 8.08 is land. I will not average them. If you stay on the road, I'll start with the town that was burned.",
+    long: "",
+    names: ["Coshocton"]
+  },
+  {
+    id: "coshocton-goschachgunk",
+    name: "Goschachgunk",
+    lat: 40.2611,
+    lng: -81.8567,
+    radius: 80,
+    short: "The city's page says Lenape people settled here in the late 1770s, and that the ones who sided with the new United States stayed at a place then called Gosch-ach-gunk. A missionary's diary spells a German form, Goschachgünk. I will not make those one spelling. White Eyes, then a leader of the Lenape, signed the Treaty of Fort Pitt in 1778. The page says the Lenape hoped the treaty would keep them safe, and that he promised scouts to the rebel colonists. In April 1781, Colonel Daniel Brodhead of the Continental Army ignored it. The page says he first destroyed the Moravian Lenape settlement of Indaochaic, also called Lichtenau, and then destroyed the Lenape town here. I will not add a count of the dead. An older copy of the article names a founder and a number who moved. The current page does not. I will not lock the older copy.",
+    long: "",
+    names: ["White Eyes"]
+  },
+  {
+    id: "coshocton-tuscarawas",
+    name: "Tuscarawas",
+    lat: 40.2615,
+    lng: -81.8550,
+    radius: 60,
+    short: "American colonists called the place Tuscarawas, after the river, and laid it out under that name in 1802. The legislature made it the county seat in 1811, and the town took the name Coshocton. The county was formed on January 31, 1810, from pieces of Muskingum and Tuscarawas counties, and organized in 1811. The box on the county's page says founded April 1, 1811. The city's box says established 1811. I will not make 1802, 1810, and 1811 the same year.",
+    long: "",
+    names: ["Coshocton"]
+  },
+  {
+    id: "coshocton-roscoe",
+    name: "Roscoe",
+    lat: 40.2764,
+    lng: -81.8767,
+    radius: 70,
+    short: "Across the Muskingum, James Calder laid out a town in 1816 and called it Caldersburgh, after himself. The page says he had gone broke, kept a piece of land on that bank, and figured farmers would rather trade with him than pay twenty-five cents for the ferry into Coshocton. In 1830 two citizens asked the legislature to rename it Roscoe, for William Roscoe, an English writer and abolitionist. On August 21, 1830, the canal boat Monticello landed. The page calls Roscoe the fourth largest wheat port on the Ohio and Erie Canal. I will use that as the page's claim. State Route 16 runs where the canal bed was. The historic district sits at Whitewoman and High streets. I will not explain the first of those names. The city's census table starts at 333 in 1830. Its high line is 13,747 in 1970. It is 11,050 in 2020. I will not crown 1970. The next town, when you want it, is Covington.",
+    long: "",
+    names: ["James Calder"]
+  },
+
+  {
+    id: "approach-covington",
+    name: "Covington",
+    lat: 40.1000,
+    lng: -84.3500,
+    radius: 2000,
+    layer: "approach",
+    short: "You are coming up on Covington, a village in Newberry Township, Miami County, inside the Dayton area. About 2,548 people live here. This is not Covington, Kentucky. The west edge follows the Stillwater River and Greenville Creek. High Street is State Route 41 and State Route 48. The box puts the village at 1.40 square miles, 1.37 of it land. The geography line puts it at 1.35, of which 1.32 is land. I will not average them. If you stay on the road, I'll start with the names it used before this one.",
+    long: "",
+    names: ["Covington"]
+  },
+  {
+    id: "covington-stillwater",
+    name: "Stillwater",
+    lat: 40.1222,
+    lng: -84.3514,
+    radius: 50,
+    short: "The village was laid out in 1816. Before this name, it was called Friendship, Newberry, and Stillwater. Newberry is also the township. I will not treat those as the same fact. A post office called Stillwater opened in 1825. The village incorporated as Covington in 1835. The post office took that name in 1836. I will not make those one year. The pages I am using do not say who Covington honors. I will not borrow a general, or the Kentucky city, to fill the hole. The village's page says Michael Ingle was the first settler, and that his grave is in Highland Cemetery. It does not give me the year he came.",
+    long: "",
+    names: ["Michael Ingle"]
+  },
+  {
+    id: "covington-rowdy",
+    name: "Fort Rowdy",
+    lat: 40.1206,
+    lng: -84.3548,
+    radius: 40,
+    short: "The encyclopedia and the village both say the 1835 incorporation sits on the site of Fort Rowdy, of 1793. They do not say who built it. A marker put up in 2021 by the local historical society says General Anthony Wayne built the fort that year. It says the fort ran from the marker south to Wright Street and west to the Stillwater, and that it was abandoned after the Treaty of Greenville. That is the marker. It is not the encyclopedia. I will not add a garrison, or a fight, that neither one records.",
+    long: "",
+    names: ["Fort Rowdy"]
+  },
+  {
+    id: "covington-count",
+    name: "The Count",
+    lat: 40.1235,
+    lng: -84.3500,
+    radius: 40,
+    short: "The census table starts at 1,010 in 1870. Its high line is 2,610 in 1980. It is 2,548 in 2020. The estimate for 2023 is 2,598. One compiler prints 2,656 for the year 2000. The encyclopedia prints 2,559. I will not average them. On Fulknor Road, a 1953 history points at rock walls built by Greely Fulknor. The page says much of the stone has been stolen. I will not turn a farm wall into a fort. The next town, when you want it, is Craig Beach.",
+    long: "",
+    names: ["Covington"]
+  },
+
+
 
 
 

@@ -15674,6 +15674,16 @@ name, when you want it, is Corning.",
     names: ["Nickel Plate Road"]
   },
 
+  {
+    id: "convoy-nesbitt",
+    name: "The Man on the Stone",
+    lat: 40.9387,
+    lng: -84.6991,
+    radius: 40,
+    short: "The Ireland card would not lock a compiler's names. A marker on Pollock Road, put up by the town, calls Robert Nesbitt the man who named Convoy. It says he was born in Convoy, Donegal, in December 1810, and that he and James Pettit platted this village on June 16, 1854. The stone spells a Gaelic form, Conmhaigh. I will not swear the Irish. The transcription I am reading dates his 120 acres to 1939. He was born in 1810. A family page prints 1839. I will not sand the digit. At 47 he married Catherine Byers. He was a justice of the peace for nine years. He died of typhoid pneumonia on May 1, 1879, at 68 years and seven months, and he is buried at Sugar Ridge Cemetery. The town restored the stone and rededicated it on July 4, 2010. A man from Convoy, Ireland, Ray Bonar, was there. The same marker calls this the western end of the Lincoln Highway in Ohio. I have not walked that milepost. A local history says the stage road north of town had been an old trail, and that the coach never came into the village. It still does not name a nation. John Lare kept the Tully post office in his house from February 3, 1851. That is not the Convoy office of 1872.",
+    long: "",
+    names: ["Robert Nesbitt", "James Pettit"]
+  },
 
 
 

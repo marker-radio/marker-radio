@@ -15093,7 +15093,16 @@ name, when you want it, is Corning.",
     long: "",
     names: ["Nye Cemetery"]
   },
-
+  {
+    id: "chesapeake-bridge",
+    name: "The Spire",
+    lat: 38.4286,
+    lng: -82.4528,
+    radius: 40,
+    short: "The river card left the bridge years blank. Huntington's first bridge over the Ohio opened in 1926. The Mount Vernon Bridge Company built it. It was about half a mile long, with a roadway 22 feet wide and a sidewalk of 8. Gothic peaks. Four spires, two tons each. From 1926 until 1968 it was the only bridge from Ohio into that city. The West 17th Street bridge opened in 1968. Tolls stayed on both until 1978. The East Huntington bridge opened in 1985. The old 6th Street bridge closed in the summer of 1993. It was blown down on July 17, 1995. The bridge that carries Robert C. Byrd's name was started on April 30, 1991. One account says it opened November 5, 1994. Another says November 6. I will not make those the same day. Governor Gaston Caperton of West Virginia put the senator's name on it. One of the old spires was given to Chesapeake by the Mahan Bridge Company. It stands at the town hall, where Route 7 meets this bridge. The stone is at 3rd Avenue and Route 527.",
+    long: "",
+    names: ["Robert C. Byrd", "Gaston Caperton"]
+  },
 
 
 

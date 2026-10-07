@@ -15510,7 +15510,16 @@ name, when you want it, is Corning.",
     long: "",
     names: ["Enoch Wood", "John H. Patterson"]
   },
-
+  {
+    id: "coldwater-rail",
+    name: "Three Lines on the Sheet",
+    lat: 40.4825,
+    lng: -84.6285,
+    radius: 70,
+    short: "The factory card would not name the railhead of 1908. A map of this ground drawn that year shows the Cincinnati, Hamilton and Dayton, the Cincinnati Northern, and the Lake Erie and Western. I will not hand all three to this village. A mural plaque downtown names the Nickel Plate. A 1980 photograph is captioned as the Lake Erie and Western, Nickel Plate, and Norfolk and Western depot. The Nickel Plate took the Lake Erie and Western. I have not seen the deed that put the New Idea works on a siding, and I do not have the depot's corner, so this pin is the town, not the platform. The same plaque names Ralph Weigel, a major leaguer, and it names the Weamer brothers' butter tubs, Buckeye Overalls, and the Pet Milk plant. Those are the plaque's words. I still will not straighten the years of the spreader.",
+    long: "",
+    names: ["Nickel Plate", "Ralph Weigel"]
+  },
   
 );
 

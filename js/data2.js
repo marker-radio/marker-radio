@@ -15215,6 +15215,28 @@ name, when you want it, is Corning.",
     long: "",
     names: ["Parker Beach"]
   },
+  {
+    id: "christiansburg-grave",
+    name: "Not Buried Here",
+    lat: 40.0770,
+    lng: -84.0211,
+    radius: 60,
+    short: "The founder card left Joshua Howell in the village. One account says he was born in Botetourt County, Virginia, in 1745, and that what he gave the Revolution was cattle and food, not a line on a muster roll. I have not seen the roll. He and Mary left Christiansburg, Virginia, which is how this town got the name. The same account says they later followed a son to Delaware County. Mary died in 1835. Joshua died on July 2, 1836. Both are in Collins Cemetery there, not in this township. Honey Creek Cemetery, also called Upper Honey Creek, is a mile north of the village on North Elm Tree Road. Another list files it under St. Paris. I do not have Howell in it, and I will not move the stone.",
+    long: "",
+    names: ["Joshua Howell"]
+  },
+  {
+    id: "christiansburg-southern",
+    name: "December 1893",
+    lat: 40.0585,
+    lng: -84.0280,
+    radius: 80,
+    short: "The count card would not give you a year for the railroad, because the copy was broken. The name Detroit, Toledo and Ironton is the later one. The line that came north from Springfield was the Ohio Southern. It started the extension in December 1892 and finished it to Lima in December 1893, with a bridge over the Great Miami at Quincy. It was in receivership on May 9, 1895. A station list puts an Ohio Southern depot at Rosewood, not on this square. I will not move it.",
+    long: "",
+    names: ["Ohio Southern"]
+  },
+
+
 
 
 

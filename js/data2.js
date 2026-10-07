@@ -14900,6 +14900,48 @@ name, when you want it, is Corning.",
     long: "",
     names: ["Centerburg"]
   },
+ {
+    id: "centerville-asahel",
+    name: "26 North Main",
+    lat: 39.6290,
+    lng: -84.1587,
+    radius: 40,
+    short: "The historical society says the stone house at 26 North Main went up in 1806. Asahel Wright bought it on August 16, 1816, for one hundred and fifty dollars. He was the first man on the deed. The house was already standing. He was born in New Hampshire in 1786, came here with his parents in 1814, kept a store, and died on October 23, 1842. He is buried at Bethel Church Cemetery in Huber Heights, not in this yard. His younger brother, Daniel Wright Junior, was the grandfather of Wilbur and Orville. I already told you this town has the old stone houses. I will not count them again.",
+    long: "",
+    names: ["Asahel Wright", "Daniel Wright"]
+  },
+  {
+    id: "centerville-sugarcreek",
+    name: "The Old Burying Ground",
+    lat: 39.6367,
+    lng: -84.1579,
+    radius: 80,
+    short: "At 288 North Main is the old Centerville cemetery, at the Sugar Creek Baptist church. The marker says the first recorded meeting was November 2, 1799. In 1802 they bought the ground from Aaron Nutt, and by 1803 a meeting house stood on the west side of the graves. On July 4, 1807, the trustees told Benjamin Robbins and Whitely Hatfield to lay off a burial ground. The stone says veterans of the Revolution are here. It does not give me their names, and I will not invent them.",
+    long: "",
+    names: ["Benjamin Robbins", "Whitely Hatfield", "Aaron Nutt"]
+  },
+  {
+    id: "centerville-cemetery",
+    name: "Ten Acres",
+    lat: 39.6303,
+    lng: -84.1545,
+    radius: 80,
+    short: "In 1867 the Washington Township trustees bought ten acres for a public cemetery. This is the one still in use, and the only one in the township that does not belong to a church. A family plot here has a burial from 1829. The marker says there are almost 2,300 graves. The gate is off Maple Avenue, east of East Ridgeway.",
+    long: "",
+    names: ["Centerville"]
+  },
+  {
+    id: "centerville-whipp",
+    name: "The Hidden Room",
+    lat: 39.6575,
+    lng: -84.1598,
+    radius: 80,
+    short: "At the southeast corner of Whipp Road and Far Hills, a brick farmhouse was believed to have gone up about 1820, possibly built by Jacob Whipp. A tornado hit it in 1955. Before they tore it down, the family moved a cabinet in the cellar and found a door. Behind it was a room about twelve by fourteen feet, under the front porch, brick walls, painted murals, a dirt floor. Another door led to a second room, and from that a brick tunnel ran south to Hole's Creek. A branch of it ran west, under Route 48. I am telling you what was found in the house. I am not telling you it was proved to be a station on the Underground Railroad. The house is gone. The corner is what you can still drive.",
+    long: "",
+    names: ["Jacob Whipp"]
+  },
+
+
 
 
 

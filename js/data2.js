@@ -15489,7 +15489,16 @@ name, when you want it, is Corning.",
     long: "",
     names: ["Cincinnati and Muskingum Valley"]
   },
-
+  {
+    id: "coal-grove-monitor",
+    name: "The School Keeps the Name",
+    lat: 38.4956,
+    lng: -82.6459,
+    radius: 50,
+    short: "The approach would not put a furnace inside this village. A column in the Ironton Tribune says Bird, Peters and Company, who also owned Lawrence Furnace, built the Monitor iron works here, and that it failed. John Peters took the land, built a fire-brick plant with other men, and had the post office named Petersburgh. Monitor School still carries the furnace. I am pinning the school, not a stack. The same column says the Scioto Valley Railway laid track from Portsmouth to Petersburg in 1881, and that in 1889 the Chicago Lumber Company built what was reportedly the largest sawmill in the nation, just above the mouth of Ice Creek, and ran it until 1918. I do not have that mouth, and I will not move the mill onto the schoolyard. It dates electric lights to 1890 at the Yellow Poplar plant. I will not make that the same mill. The county society says a post office on this ground opened in 1830, and that the passenger ferry Winona began on April 25, 1849. I still do not have the year the village was laid out.",
+    long: "",
+    names: ["John Peters", "Monitor"]
+  },
 
 
   

@@ -15601,6 +15601,28 @@ name, when you want it, is Corning.",
     long: "",
     names: ["Wiley H. Beckett", "James H. Burnley"]
   },
+  {
+    id: "conesville-boats",
+    name: "Two Towns, One Name",
+    lat: 40.1848,
+    lng: -81.8925,
+    radius: 40,
+    short: "The distillery card says the fire of 1857 sent Beebe Stewart Cone to Muscatine County, Iowa. A history of that county, written in 1879, says he went in the fall of 1854. I will not make those years the same. That book says he was born June 25, 1812, in North Wilbraham, Massachusetts, and that he married Lucinda Davison on February 4, 1836. It says he ran a store here and a line of canal boats on the Ohio Canal. I will not draw the canal onto a street I have not seen. It says he helped get the Pan Handle railroad to this ground, and that a town was laid out on his land and called Conesville. That is his claim. I have not seen the track. In March 1870 he laid out a second Conesville, in Iowa, after a railroad put a station on his land there. The Ohio record still says James Beebe rebuilt the distillery and that it burned a few years later. I still do not have that year, and I still do not have Delaney's first name.",
+    long: "",
+    names: ["Beebe Stewart Cone", "Lucinda Davison"]
+  },
+  {
+    id: "conesville-stacks",
+    name: "Not One Sunday",
+    lat: 40.1848,
+    lng: -81.8805,
+    radius: 100,
+    short: "The plant card says the stacks were demolished in 2021. A Coshocton paper says three of them, 805 feet, came down on a Sunday morning in December 2021. Two more stacks and three boilers came down on a Saturday in August 2023. Boiler 4 had already fallen in November 2022. The paper calls the plant 2,085 megawatts. The earlier card says 2,005. I will not average them. It says the plant once employed 525 people and 150 contractors. Frontier Group took the ground in June 2021 and named an industrial park that August, with a 50-megawatt solar field in the plan. The paper says the plant closed in May 2020. The earlier card dates the last unit to April 29, 2020. I will not sand those down to one day.",
+    long: "",
+    names: ["Conesville Power Plant"]
+  },
+
+
 
 
 

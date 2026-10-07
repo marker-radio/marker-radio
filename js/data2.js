@@ -14760,6 +14760,37 @@ name, when you want it, is Corning.",
     long: "",
     names: ["Castalia State Fish Hatchery", "John Hoyt"]
   },
+  {
+    id: "catawba-dawson",
+    name: "Dawson's Land",
+    lat: 40.0003,
+    lng: -83.6228,
+    radius: 100,
+    short: "The county history says Catawba was laid out in 1838 by Cass and Marsh, on land owned by George Dawson. I still do not have the first names of Cass and Marsh, and I will not invent them. The village sits in the northwest of Pleasant Township, on the old road from Vienna to Mechanicsburg, about fourteen miles from Springfield, on the crest of a ridge. The same book says there were two churches and a graded school. It does not name the churches. I will not guess which steeple is which.",
+    long: "",
+    names: ["George Dawson", "Cass", "Marsh"]
+  },
+  {
+    id: "catawba-hunter",
+    name: "Dr. Hunter",
+    lat: 40.0008,
+    lng: -83.6210,
+    radius: 80,
+    short: "The same county history says Dr. M. R. Hunter was the doctor in Catawba for half a century. It also names J. E. Bumgardner as mayor. I do not have the years on Hunter's stone, and I will not invent them.",
+    long: "",
+    names: ["M. R. Hunter", "J. E. Bumgardner"]
+  },
+  {
+    id: "catawba-station",
+    name: "Three Miles Northwest",
+    lat: 40.0294,
+    lng: -83.6517,
+    radius: 400,
+    short: "The railroad did not run through this village. The county history says the nearest tracks were the Big Four, at Catawba Station, about three miles northwest. That station is in Champaign County, not in this plat. It began as a stop and a shipping point, and it never grew past that. I will not move the depot onto these lots.",
+    long: "",
+    names: ["Catawba Station", "Big Four"]
+  },
+
 
 
 

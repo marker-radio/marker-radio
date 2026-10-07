@@ -15194,7 +15194,16 @@ name, when you want it, is Corning.",
     long: "",
     names: ["Little Chickasaw Creek"]
   },
-
+  {
+    id: "chilo-powerhouse",
+    name: "October 6, 1925",
+    lat: 38.7897,
+    lng: -84.1320,
+    radius: 40,
+    short: "The lock card left the year blank. The powerhouse is at 521 County Park Road, two tenths of a mile south of U.S. 52. The Army Corps of Engineers dedicated Lock and Dam 34 on October 6, 1925. Families who worked the lock lived on the grounds. The park's own page says this place saw the flood of 1937. I do not have the crest on this bank, and I will not borrow one from Cincinnati. The lock was taken out of service in 1964, after Meldahl was built downstream. The ground is now a park of 39 acres. The old operations building was opened again as a museum on August 27, 2005. The same page names Crooked Run Nature Preserve with this park. I do not have a separate gate for the preserve.",
+    long: "",
+    names: ["Lock 34"]
+  },
 
 
 

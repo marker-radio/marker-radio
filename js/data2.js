@@ -15459,6 +15459,38 @@ name, when you want it, is Corning.",
     names: ["James Birdseye McPherson", "Rodger W. Young", "George Burton Meek"]
   },
 
+  {
+    id: "clarksville-hadley",
+    name: "William Hadley",
+    lat: 39.4030,
+    lng: -83.9845,
+    radius: 40,
+    short: "The wife card left the husband unnamed. A memorial for William Hadley says he was born on December 20, 1768, in Chatham County, North Carolina, and that he married Sarah Clark on October 13, 1791, at Cane Creek Meeting, then in Orange County. It says he laid the town out in 1816, forty-four lots, each sixty-six feet by one hundred and thirty-two, and named it for her family. The tax list that year charged him twenty-one dollars and eighty-seven cents on nine hundred and seventy-two acres near Todd's Fork. He died on December 5, 1842. The same page says he and Sarah are probably at Springfield Friends, in Adams Township, and that the first Quakers often left no stone. I will not tell you I have seen one. That grave is not on Main Street.",
+    long: "",
+    names: ["William Hadley", "Sarah Clark Hadley"]
+  },
+  {
+    id: "clarksville-soldier",
+    name: "The Other William",
+    lat: 39.4023,
+    lng: -83.9753,
+    radius: 50,
+    short: "Do not put the founder in this yard. A later William Hadley was born in this village on December 1, 1840. He served in Company B of the 88th Ohio. He died of pneumonia on May 18, 1926, and was buried here on May 21, section 1, lot 298, grave 12. His wife was Farinda. The cemetery book calls his father Samuel. The death certificate says Joshua. I will not pick. He is not the man who platted the town.",
+    long: "",
+    names: ["William Hadley"]
+  },
+  {
+    id: "clarksville-rail",
+    name: "The Depot With No Company",
+    lat: 39.4005,
+    lng: -83.9810,
+    radius: 80,
+    short: "The count card had no railroad. The Cincinnati and Muskingum Valley ran from Morrow to Wilmington, and this village sits on that way, along Todd's Fork. A station list says a new depot was built here in 1905 and does not name the company. I will not name it for them. A later note says that after April 1976 the Baltimore and Ohio used the piece from Wilmington down to a pipe company here, at eight miles an hour, and that the work was shifted to a spur at Cuba in late 1981. I do not have the pipe company's name.",
+    long: "",
+    names: ["Cincinnati and Muskingum Valley"]
+  },
+
+
 
   
 );

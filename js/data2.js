@@ -15500,6 +15500,16 @@ name, when you want it, is Corning.",
     names: ["John Peters", "Monitor"]
   },
 
+  {
+    id: "coalton-corner",
+    name: "Main and Second",
+    lat: 39.1116,
+    lng: -82.6106,
+    radius: 25,
+    short: "The store card never said which corner. The National Register nomination puts the Miners' Supply Store at the southwest corner of Main and Second. It was later the hardware store of Enoch Wood and Sons, and it was listed in 1977. The nomination dates John H. Patterson from 1844 to 1922. He was still not born here. Englishville is still only a name inside the village. I do not have its story, and I will not invent one. I still do not have the year the last mine shut.",
+    long: "",
+    names: ["Enoch Wood", "John H. Patterson"]
+  },
 
   
 );

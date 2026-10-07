@@ -15134,6 +15134,16 @@ name, when you want it, is Corning.",
     names: ["Kyger Creek"]
   },
 
+  {
+    id: "chesterhill-meeting",
+    name: "Chesterfield",
+    lat: 39.4874,
+    lng: -81.8637,
+    radius: 40,
+    short: "The meeting house is on Coal Street, Route 555, on the right as you go east. The marker, put up in 2003, says this village was first called Chesterfield. The people who still meet here kept that name for the meeting. The stone says the house was built in 1834, and that the first monthly meeting was held here on October 21, 1839. The meeting's own page says the house was built in 1839. I will not make those the same year. Elias Bundy is named as a conductor. You already have his name. The legend on the stone is that nobody hidden here was ever taken. I will not turn a legend into a count. A Quaker-built house at Marion Street and Route 555 holds the Multicultural Genealogical Center. I do not have that corner pinned.",
+    long: "",
+    names: ["Chesterfield", "Elias Bundy"]
+  },
 
 
 

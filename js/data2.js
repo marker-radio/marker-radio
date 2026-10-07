@@ -15685,6 +15685,16 @@ name, when you want it, is Corning.",
     names: ["Robert Nesbitt", "James Pettit"]
   },
 
+  {
+    id: "coolville-bridge",
+    name: "The Far Bank",
+    lat: 39.2243,
+    lng: -81.7919,
+    radius: 40,
+    short: "The Cooley card says Simeon W. Cooley platted the town in 1818, and that the village incorporated in 1835. A marker at Main Street and First Street says the mill and the dam were built in 1815 by Asahel Cooley, and it calls him the founder. A county history says the settlement was begun in 1814 by Simeon and his son Heman, who built a mill, and that the town incorporated in 1855. I will not make Asahel, Simeon, and Heman the same man, and I will not make 1835 and 1855 the same year. The marker says a covered bridge went up here in 1840, two lanes wide, beside that mill. It carried State Route 144 to the railroad at Coolville Station, on the east side of the Hocking. A new bridge replaced it in 1930. The sign dates that bridge 1930 to 2006. I still will not use the sentence about the old bank. It is still marked as needing a source.",
+    long: "",
+    names: ["Asahel Cooley", "Simeon W. Cooley", "Heman Cooley"]
+  },
 
 
 

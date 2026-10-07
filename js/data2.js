@@ -15520,6 +15520,28 @@ name, when you want it, is Corning.",
     long: "",
     names: ["Nickel Plate", "Ralph Weigel"]
   },
-  
+    {
+    id: "college-corner-rail",
+    name: "Ten Trains",
+    lat: 39.5690,
+    lng: -84.8115,
+    radius: 40,
+    short: "The line card never named a railroad. The 1905 history of Butler County says College Corner was a station on the Cincinnati, Hamilton and Indianapolis, with ten passenger trains a day. That is the book's count for that year. It says the first school was a hewed-log house near the depot. I do not have the platform, so this pin is not the track. The same book puts Tobias Miller's tannery in this part of the country from 1815 to 1837, and a sawmill of his that cut lumber for Miami University. The village was not platted until 1837. I will not set the tan yard on the plat. It also says the Tallewanda mineral springs are near the village. Near is the word.",
+    long: "",
+    names: ["Cincinnati, Hamilton and Indianapolis"]
+  },
+  {
+    id: "college-corner-bell",
+    name: "The Bell Is Still Here",
+    lat: 39.5725,
+    lng: -84.8151,
+    radius: 40,
+    short: "A marker at Indiana Street and the state line says Ohio and Indiana built the first Union School on the line in 1893, and that a new building was designed in 1925 and dedicated on December 21, 1926. An addition came in 2004. The bell from the 1893 school stands on the south side. A center stone sits on the line, with an Ohio doorway and an Indiana doorway. The marker counts 111 years to that addition. The district page still says the high school grades left in 1972 for Union High School in Liberty. Those are not the same clock, and I will not add them. Two county books still disagree about Ambrose Burnside. One says he tailored here in 1835, in John Leach's shop. The other says before 1835, and calls him a promising young man. He was born in 1824. I will not fix the memory.",
+    long: "",
+    names: ["Union School", "Ambrose Burnside"]
+  },
+
+
+
 );
 

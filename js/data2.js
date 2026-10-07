@@ -15541,6 +15541,16 @@ name, when you want it, is Corning.",
     names: ["Union School", "Ambrose Burnside"]
   },
 
+  {
+    id: "collinsville-church",
+    name: "Eight Rods West",
+    lat: 39.5151,
+    lng: -84.6085,
+    radius: 35,
+    short: "The school card would not move the Seven-Mile Presbyterian Church. The 1882 history says it was organized at Collinsville in 1810, a frame house about thirty by forty feet, and that it stood eight rods west of the church then standing. Matthew Richardson gave two acres, graveyard included. The seats were slabs from James Young's sawmill. Daniel Corson lined the hymns. Matthew J. Richardson pitched the tunes. Francis Monfort was one of the first ministers. Seven Mile, the other village, is not this corner. A 1916 account says a Mennonite congregation here probably dates from the split of 1835, under King and Goldsmith, and that after 1909 they no longer used their share of the Presbyterian house. Probably is the word. I still do not have the year this crossroads incorporated, or the year it stopped being a village, and I still do not have a railroad.",
+    long: "",
+    names: ["Matthew Richardson", "Francis Monfort"]
+  },
 
 
 );

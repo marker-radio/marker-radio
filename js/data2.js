@@ -15305,7 +15305,16 @@ name, when you want it, is Corning.",
     long: "",
     names: ["Lake Shore and Michigan Southern"]
   },
-
+  {
+    id: "clayton-1841",
+    name: "Another Salem",
+    lat: 39.8692,
+    lng: -84.3275,
+    radius: 50,
+    short: "The Salem card would not say when the name changed. The city's own film says the first plat was seventy-five lots, in 1816, around Rattlesnake Creek, and that this ground is the old village. It says the post office made them drop Salem in 1841, because Ohio already had a Salem, and that they took the name of John Clayton, a local soldier who died in the War of 1812. The encyclopedia still marks that claim as needing a source. I will not give him a regiment, and I will not put a battlefield on this creek. The same film says the rest of Randolph Township voted to merge in 1998. The encyclopedia says the city annexed it. I still will not pick the legal word.",
+    long: "",
+    names: ["John Clayton", "Salem"]
+  },
 
 
 

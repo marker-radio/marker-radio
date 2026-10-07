@@ -15032,17 +15032,26 @@ name, when you want it, is Corning.",
     names: ["Baltimore and Ohio"]
   },
 
-
-
-
-
-
-
-
-
-
-
-
+  {
+    id: "chatfield-diamond",
+    name: "The Diamond",
+    lat: 40.9575,
+    lng: -82.9380,
+    radius: 80,
+    short: "The old card left the railroad unnamed. A list of Crawford County stations says the Chatfield depot served two lines, the Northern Ohio, later the Akron, Canton and Youngstown, and the Columbus, Sandusky and Hocking. I will not make them one company. The building stood east of Route 4, in the southwest corner of the diamond, where the tracks crossed. I do not have the year of the first train, and I will not invent it.",
+    long: "",
+    names: ["Northern Ohio Railroad", "Columbus, Sandusky and Hocking"]
+  },
+  {
+    id: "chatfield-lutheran",
+    name: "The Old Cemetery",
+    lat: 40.9392,
+    lng: -82.9468,
+    radius: 80,
+    short: "South of the village is the old Chatfield Lutheran cemetery. It is also called the Lutheran cemetery. About seventy stones are recorded there. I do not have the year of the first burial, and I will not read you a name I have not seen.",
+    long: "",
+    names: ["Chatfield"]
+  },
 
 
 

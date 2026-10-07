@@ -15205,6 +15205,16 @@ name, when you want it, is Corning.",
     names: ["Lock 34"]
   },
 
+  {
+    id: "chippewa-lake-tumblebug",
+    name: "Tumble Bug",
+    lat: 41.0696,
+    lng: -81.8987,
+    radius: 60,
+    short: "The after card would not tell you the nature park was finished. A piece of it is open. The park district's page says the Tumble Bug Trailhead, at 5796 Longacre Lane, has been open since May 15. I do not have the year printed on that sentence. The page is a 2025 page. There is parking, a restroom, a shelter twenty feet by twenty-eight, and a half-mile gravel loop. The path to the Ferris wheel is still closed. I will not tell you the wheel was saved. A paper on June 25, 2020, says the district bought about 94 acres and did not print a price. The next day's paper says 95 acres and 2.1 million dollars. I will not make those the same survey. That account also says Parker Beach leased the park in 1936 and bought it from his father in 1937, and that it was sold again in 1969, to Continental Business Enterprises. The Big Dipper went up in 1925. People later just called it the Coaster. It ran until the closing. In 2007 the district had already bought the lake itself, 340 acres. That is the water, not the rides.",
+    long: "",
+    names: ["Parker Beach"]
+  },
 
 
 

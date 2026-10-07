@@ -15235,6 +15235,27 @@ name, when you want it, is Corning.",
     long: "",
     names: ["Ohio Southern"]
   },
+  {
+    id: "clarksburg-zurmehly",
+    name: "Brown's Chapel",
+    lat: 39.4889,
+    lng: -83.0983,
+    radius: 80,
+    short: "The school card would not say who Zurmehly was. Paul Zurmehly was born on the family farm here on March 17, 1934, son of John R. Zurmehly and Thelma Carter Zurmehly. He finished Clarksburg High School in 1952, while that building was still the school. He farmed, and he collected old tractors. He married Charlotte Jordan on June 24, 1953. She died on October 8, 2015. He died on August 9, 2020. The grave is at Brown's Chapel, about three miles east of the village. One directory gives the road number as 2085. I will not swear the stone is on that exact step. The park in town uses the family name. I will not say they gave it for him.",
+    long: "",
+    names: ["Paul Zurmehly"]
+  },
+  {
+    id: "clarksburg-cleary",
+    name: "The Book Leaves the Names Out",
+    lat: 39.5064,
+    lng: -83.1508,
+    radius: 40,
+    short: "A 2013 history of this village and Deerfield Township, by Barbara Cleary, tells three stories the older cards do not. A man from here, after the Civil War, became a riverboat captain and married a famous entertainer on the river. The notice does not give either name, and I will not guess them. John Hill, a Civil War soldier from here, wrote of escaping a Confederate prison in Virginia and walking the mountains back to this town. The notice does not name the prison. John McDonald's survey party had a deadly meeting with native people. The notice does not say the fight was inside the plat. I will not move it onto High Street.",
+    long: "",
+    names: ["John Hill", "John McDonald"]
+  },
+
 
 
 

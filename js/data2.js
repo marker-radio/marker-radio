@@ -14609,8 +14609,56 @@ name, when you want it, is Corning.",
     long: "",
     names: ["Freeport"]
   },
-
-
+ {
+    id: "carroll-junction-marker",
+    name: "The Junction Marker",
+    lat: 39.7994,
+    lng: -82.7017,
+    radius: 120,
+    short: "On Center Street, just north of Canal Street, there is an Ohio historical marker, number 7-23. The Carroll Area Historical Society and the Ohio Historical Society put it up in 2008. This is the only place in Fairfield County where two canals met. People here called it the Junction. The marker says the last canal boat passed through Carroll in 1897.",
+    long: "",
+    names: ["Carroll Area Historical Society", "Ohio Historical Society"]
+  },
+  {
+    id: "carroll-interurban",
+    name: "Scioto Valley Traction",
+    lat: 39.8040,
+    lng: -82.7080,
+    radius: 400,
+    short: "After the canal, the electric cars came. The Scioto Valley Traction Company started running in 1904. Its Lancaster line ran from Canal Winchester to Carroll, and from Carroll on to Lancaster. Lockville was on the way in. It used a third rail, not a steam engine. Passenger service ended on September 30, 1930. I will not invent a depot on a corner I cannot point to.",
+    long: "",
+    names: ["Scioto Valley Traction Company"]
+  },
+  {
+    id: "carroll-jeffries",
+    name: "Jim Jeffries",
+    lat: 39.8174,
+    lng: -82.7072,
+    radius: 600,
+    short: "James J. Jeffries was born on April 15, 1875, in a log cabin near the corner of Carroll Northern Road and Basil Western Road, north of the village. His parents were Alexis Jeffries and Rebecca Boyer. The family left for California when he was about six or seven. He won the world heavyweight title from Bob Fitzsimmons in 1899 and retired undefeated in 1905. They called him the Boilermaker. In 1910 he came back to fight Jack Johnson and lost. He died on March 3, 1953, and he is buried in Inglewood, California, not here.",
+    long: "",
+    names: ["James J. Jeffries", "Alexis Jeffries", "Rebecca Boyer"]
+  },
+  {
+    id: "carroll-lockville-park",
+    name: "Lockville Canal Park",
+    lat: 39.8175,
+    lng: -82.7364,
+    radius: 350,
+    short: "North of the village, at 5895 Pickerington Road, is Lockville Canal Park, a Fairfield County park. Three Ohio and Erie locks are still here: Lock South 11, Lock South 12, also called Tenant Lock, and Lock South 13, called Rowe Lock. Hartman Number 2 covered bridge stands with them. Its stone says July 1862, Samuel Boyle, contractor. The 1913 flood broke most of the southern canal. These walls stayed.",
+    long: "",
+    names: ["Lockville Canal Park", "Samuel Boyle", "Hartman Number 2 Covered Bridge"]
+  },
+  {
+    id: "carroll-titanic",
+    name: "The Titanic",
+    lat: 39.7990,
+    lng: -82.7009,
+    radius: 150,
+    short: "Azbell Hall went up in 1832 on East Canal Street. It was a hotel, a social hall, and for a time the only tavern in town. In the 1960s people in Carroll nicknamed it the Titanic, because the basement kept flooding. The Carroll Area Historical Society is the one that writes that name down. It is apartments now. I will not add a ghost. The flood was enough.",
+    long: "",
+    names: ["Azbell Hall"]
+  },
 
 
 

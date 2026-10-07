@@ -15053,6 +15053,47 @@ name, when you want it, is Corning.",
     names: ["Chatfield"]
   },
 
+  {
+    id: "chauncey-rail",
+    name: "Two Names for the Track",
+    lat: 39.4005,
+    lng: -82.1335,
+    radius: 120,
+    short: "An 1883 history of the Hocking Valley says Chauncey sat on the Ohio Central, at the end of the Sunday Creek valley, between the Hocking and the creek. The account of the 1932 strike calls the bridge the miners blew up a New York Central bridge. I will not make those one company, and I will not tell the explosion again. I do not have a depot still standing, and I will not invent the year of the first train.",
+    long: "",
+    names: ["Ohio Central", "New York Central"]
+  },
+  {
+    id: "chauncey-park",
+    name: "The Mine Is a Park",
+    lat: 39.4059,
+    lng: -82.1362,
+    radius: 80,
+    short: "A marker at the Chauncey-Dover trailhead says the ground under Chauncey Community Park was the New York Coal Company mine. The same hole was also called the Baileys mine, the Chauncey mine, and Mine 25, or 255. I will not make those four names four mines. The last coal here stopped in 1952. The marker says the town went quiet. The park and the trailhead are what is on that ground now.",
+    long: "",
+    names: ["New York Coal Company"]
+  },
+  {
+    id: "chauncey-flood",
+    name: "1913",
+    lat: 39.3990,
+    lng: -82.1300,
+    radius: 150,
+    short: "Sunday Creek runs into the Hocking on the low ground under the village, and the water has always come up. A local account says no flood here was worse than 1913. That flood killed 428 people in Ohio. I do not have a Chauncey count, and I will not borrow the state's number. The salt card says a flood took the last salt well. It does not give a year. I will not decide that the year was 1913.",
+    long: "",
+    names: ["Chauncey"]
+  },
+  {
+    id: "chauncey-nye",
+    name: "Nye Cemetery",
+    lat: 39.4053,
+    lng: -82.1261,
+    radius: 100,
+    short: "Nye Cemetery is on the hill east of Route 13. A grave list puts the gate at 12 Monroe Street. Another reading of the same yard sits a short walk west. A township trustee said a fire burned the burial records. What is left is the stones you can still read. I already told you two of the Chauncey Boys are in this yard. I will not read their names again.",
+    long: "",
+    names: ["Nye Cemetery"]
+  },
+
 
 
 

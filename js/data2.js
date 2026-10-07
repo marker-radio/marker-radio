@@ -10764,8 +10764,3851 @@ name, when you want it, is Corning.",
     long: "",
     names: ["John Hinde"]
   },
+  {
+    id: "approach-cuyahoga-heights-oh",
+    name: "Cuyahoga Heights",
+    lat: 41.4362,
+    lng: -81.6531,
+    radius: 5000,
+    layer: "approach",
+    short: "You are coming up on Cuyahoga Heights. A small village on the Cuyahoga, just southeast of Cleveland, between the river and the mills. In 1918 the farmers kept the industry and let the houses stay in Newburgh Heights. If you drop into the valley, I'll start on the canal and the secession.",
+    long: "",
+    names: ["Cuyahoga Heights"]
+  },
+  {
+    id: "cuyahoga-heights-secession",
+    name: "The Shed Vote",
+    lat: 41.4350,
+    lng: -81.6518,
+    radius: 900,
+    short: "The village's own history says it was cut out of Newburgh Heights in 1918. Farms were being cut into lots, taxes were rising, and Mayor Anton Linek of Newburgh Heights would not fix the trouble on East 71st and East 49th. Jesse W. Hammersley, who lived at 4940 East 71st, got twenty-five people into a shed. They voted to form Willow Township, the step the law required before a village. On February 2, 1918, fifty-nine people voted in the cold. On March 16, Joseph F. Schmidt, a bachelor whose family had been on the same homestead sixty years, was elected the first mayor. This pin is the village. It is not the shed.",
+    long: "",
+    names: ["Jesse W. Hammersley", "Joseph F. Schmidt"]
+  },
+  {
+    id: "cuyahoga-heights-hall",
+    name: "They Took the Hall",
+    lat: 41.4262,
+    lng: -81.6415,
+    radius: 400,
+    short: "The village history makes a point of this. The part that left took the richest ground, and it took the village hall with it. Four of the five square miles of old Newburgh went with Cuyahoga Heights. There was a lawsuit over the hall. The village says it won, and that the case went to the Ohio Supreme Court. I do not have the case name, so I will not invent one. One page names the February trustees as Clinton Gordon, a Mr. Clapp, Joseph F. Schmidt, and R. D. Kerr. Another page names a later set, Clinton W. Gerdon among them. I will not decide those are the same men. The hall pin is the public hall as the map has it now. Not the 1918 door.",
+    long: "",
+    names: ["Anton Linek"]
+  },
+  {
+    id: "cuyahoga-heights-canal",
+    name: "Two Locks",
+    lat: 41.4430,
+    lng: -81.6620,
+    radius: 800,
+    short: "The Ohio Canal was built from 1825 to 1832. The village centennial puts one lock on old Harvard Avenue, by the farm of Philip Huy, and another at Canal Road and East 71st. It says the English and the Germans built the locks and the bridges, and the Irish dug the canal, and that many of the diggers died. It does not give a number. The boats carried rock from the Independence quarries, coal from southern Ohio, and farm goods toward the lake. The Baltimore and Ohio through the valley took the freight. Before the First World War the last boats were picnic trips to Zimmerman's Grove at Rockside Road, which is the next bend, not a door in this village. This pin is the valley. Not a lock wall.",
+    long: "",
+    names: ["Ohio Canal", "Philip Huy"]
+  },
+  {
+    id: "cuyahoga-heights-powder",
+    name: "Powder by the Lock",
+    lat: 41.4480,
+    lng: -81.6680,
+    radius: 700,
+    short: "In 1817 Edmond Rathbun came in a sleigh and bought forty-four acres near the five-mile lock. By 1818 he had a hundred twenty-five. He sold in 1854 and went to Solon. The centennial puts the Austin Powder Company, in 1879, on a hundred thirty acres by that same lock. Thirty men. Four hundred kegs a day. It was Austin and Sons from 1833, incorporated in 1868, and it stood on land that was still Newburgh Township. The village did not exist yet. California Powder came in 1877, dynamite, forty hands. Acid works sent carboys of spent sulfuric acid up the canal, past the powder mills, three seasons a year. The centennial says the place could have been very dangerous. I did not find a blast on these pages. I will not add one. This pin is the lock country. Not a mill door.",
+    long: "",
+    names: ["Austin Powder", "Edmond Rathbun"]
+  },
+  {
+    id: "cuyahoga-heights-mills",
+    name: "Why the Mills Stayed",
+    lat: 41.4300,
+    lng: -81.6480,
+    radius: 1200,
+    short: "The encyclopedia says the village kept the industry and the farms, and Newburgh Heights kept the houses. The draw was the river, the New York Central, the Willow Freeway, and later the crossing of I-77 and I-480, plus lumber, sand, and gas. The New York Central ran the Marcy Yards. The Newburgh and South Shore ran on East 71st. The Cleveland Railway kept its car shops on Harvard between East 42nd and East 49th. Plants named on the pages include American Steel and Wire, Republic, Alcoa on Harvard, Standard Oil, Reliance Electric, Ferro, Ohio Crankshaft, and Benjamin Moore. In 1967 the count was about sixty-four industries and eighteen trucking firms, and about eight hundred people. I will not turn that list into one gate. East 71st was also Ohio Route 21, and weekend traffic jammed at the old bridge over the river and the canal.",
+    long: "",
+    names: ["Alcoa", "New York Central"]
+  },
+  {
+    id: "cuyahoga-heights-people",
+    name: "Who Came",
+    lat: 41.4330,
+    lng: -81.6550,
+    radius: 800,
+    short: "Before the village, the centennial counts more than sixty families on this ground in 1850. English, German, and a few Welsh and Irish. Farms, the Landon house, a blacksmith. The encyclopedia says that by the nineteen-sixties many of the residents traced back to Italians and Poles who settled in the nineteen-twenties. The 2000 census, for what a census is worth, put Polish ancestry first and Italian second. The school still serves this village plus Brooklyn Heights and Valley View. Schmidt and Hammersley are the names on the secession. Rathbun is the name on the lock. I do not have a grave on these pages. I will not invent one.",
+    long: "",
+    names: ["Cuyahoga Heights"]
+  },
+  {
+    id: "cuyahoga-heights-towpath",
+    name: "The Towpath",
+    lat: 41.4405,
+    lng: -81.6585,
+    radius: 700,
+    short: "The park on this ground is the Ohio and Erie Canal Reservation. The CanalWay Center is the door onto the Towpath Trail. The reservation opened in 1999. The canal under it is the same ditch as the locks at Harvard and at East 71st. The picnic boats are gone. The towpath is what the valley kept. This pin is the reservation, not a bench.",
+    long: "",
+    names: ["Towpath Trail", "CanalWay"]
+  },
+  {
+    id: "cuyahoga-heights-not-invented",
+    name: "What I Will Not Add",
+    lat: 41.4368,
+    lng: -81.6560,
+    radius: 500,
+    short: "I do not have a named Native village on these pages, so I will not invent one. The river was the old road through this valley. That is as far as I will go. I do not have a battlefield here either. The war story I can stand on is the canal and the mills that fed the lake cities, not a fight. I also do not have a ghost story. The local tale that is actually written down is the sober one. They left Newburgh Heights, they took the hall, and they left a powder mill beside boats full of acid. The next village on your list is Cygnet.",
+    long: "",
+    names: ["Cuyahoga River"]
+  },
 
+  {
+    id: "approach-cygnet-oh",
+    name: "Cygnet",
+    lat: 41.2406,
+    lng: -83.6436,
+    radius: 4000,
+    layer: "approach",
+    short: "You are coming up on Cygnet. A small village in Bloom Township, Wood County, on the old oil ground of the Black Swamp. It was Pleasant View before the wells. The name is pronounced sig-net. I have not read a page that says why they picked it. If you come in on Cygnet Road, I'll start with the boom, and then the blast.",
+    long: "",
+    names: ["Cygnet"]
+  },
+  {
+    id: "cygnet-three-dates",
+    name: "Three Dates",
+    lat: 41.2401,
+    lng: -83.6369,
+    radius: 400,
+    short: "Wikipedia says it was platted in 1883 as Pleasant View, and that a post office called Cygnet has been open since 1883. It was incorporated in 1889. The historical marker on Cygnet Road, east of Jackson Street, says established in 1885, rich in oil history. I will not collapse 1883, 1885, and 1889 into one year. A local memory page says that before the oil there were three or four houses, and that a Toledo real estate firm bought the ground, changed the name, and sold it on. The firm is not named. I will not name it. This pin is the marker. Not the plat.",
+    long: "",
+    names: ["Pleasant View"]
+  },
+  {
+    id: "cygnet-boom-count",
+    name: "Three Thousand, or Six Hundred",
+    lat: 41.2412,
+    lng: -83.6448,
+    radius: 500,
+    short: "That same memory page says the village jumped to more than three thousand people, in houses built in a day for about a hundred dollars, and that the houses were soaked with oil. Thirteen saloons. A wild town. Meals as high as two dollars and fifty cents. The census does not say three thousand. It counted six hundred seventy people in 1890, and eight hundred ninety-six in 1900. In 2020 it counted five hundred forty-three. Boom crowds get missed. I will not pick the bigger number and throw the census out. Both stay. This pin is the village. Not a saloon.",
+    long: "",
+    names: ["Cygnet"]
+  },
+  {
+    id: "cygnet-pipeline",
+    name: "A Mile an Hour",
+    lat: 41.2394,
+    lng: -83.6422,
+    radius: 700,
+    short: "The railroad through here was the Toledo and Ohio Central, Toledo to Lima, through Bowling Green, Cygnet, North Baltimore, and Findlay, with a spur to Jerry City. By July 1888 a memory page puts a pipeline three hundred six miles long, from Cygnet to South Chicago. It says the oil moved about a mile an hour, and that a full pipe held sixty-five thousand barrels. Later lines ran east to Cleveland and on to Olean, New York. A 2022 paper calls the pumping station of 1888 the largest in the world for a time. That is the paper's phrase. I have not seen the record that proves the world. A tank farm is still on the edge of town. This pin is the railroad ground. Not a pipe joint.",
+    long: "",
+    names: ["Toledo and Ohio Central"]
+  },
+  {
+    id: "cygnet-fire-1891",
+    name: "January 30, 1891",
+    lat: 41.2408,
+    lng: -83.6455,
+    radius: 400,
+    short: "Wikipedia says much of the village was damaged by a fire on January 30, 1891. The New York Times headline the next day says three lives were lost, and a large portion of the town of Cygnet was destroyed. I have the headline. I have not read the story. I will not give you a cause, a street, or the names of the three. This fire is not the blast of 1897. This pin is the village. Not the block that burned.",
+    long: "",
+    names: ["Cygnet"]
+  },
+  {
+    id: "cygnet-nitro-1897",
+    name: "September 7, 1897",
+    lat: 41.2404,
+    lng: -83.6430,
+    radius: 450,
+    short: "Wikipedia dates a nitroglycerin explosion to September 7, 1897, and says at least six people were killed. A memory page says September 8. The New York Times is dated September 8, which fits a blast on the 7th. I will not average the days. An Ann Arbor paper of September 16 says a hundred twenty quarts were let down a well, the gas lit, and the flame set off more glycerin in the wagons. One wagon held another hundred twenty quarts. It says the National Supply building was demolished, and that a hole was left where the wagons stood. Not a whole pane of glass in town. Eight buildings a total wreck. The known dead, in that damaged print, are Sam Barber, Allen Fallis, John Thompson, Charles Dartel, Henry Lansdale, and a boy named Havens. The type is bad. The spellings may be off. I will not clean them up. A dollar figure in that column is unreadable. I will not guess it.",
+    long: "",
+    names: ["Sam Barber", "Havens"]
+  },
+  {
+    id: "cygnet-later-telling",
+    name: "The Later Telling",
+    lat: 41.2416,
+    lng: -83.6424,
+    radius: 350,
+    short: "A Toledo television story, told about a hundred twenty years later, says it was mid-afternoon, that Samuel Barber of the Indiana Torpedo Company shot the Grants well, and that women and children on the street were hurt. It says six were killed at once, and that C. Havens was the boy. The memory page says the blast destroyed every building on the town square and shook the county. The 1897 paper says eight buildings wrecked, and every house shaken. Those are not the same sentence. I will not stretch eight buildings into the whole square. This pin is not the Grants well. I do not have its door.",
+    long: "",
+    names: ["Indiana Torpedo Company"]
+  },
+  {
+    id: "cygnet-swan-park",
+    name: "The Lost Capsule",
+    lat: 41.2398,
+    lng: -83.6460,
+    radius: 400,
+    short: "There is a World War II veterans memorial in the village. I do not have the names on it, and there was no battle here. The local story that is written down is quieter. On July 24, 1960, at the seventy-fifth homecoming, they buried a time capsule in Water Park, now Swan Park. Newspapers, papers, and oil-field relics, the mayor told a 2022 reporter. They have looked with a metal detector. The spot is lost. A second capsule from a hundredth anniversary is in the ground too. I will not tell you which anniversary the hundredth counts. This pin is the village. Not the hole.",
+    long: "",
+    names: ["Swan Park"]
+  },
+  {
+    id: "cygnet-not-invented",
+    name: "What I Will Not Add",
+    lat: 41.2420,
+    lng: -83.6410,
+    radius: 400,
+    short: "There is no river in this village on the pages I read. The water under it was the swamp, and then the oil in the Trenton limestone. A Blade caption calls that field the first major one in North America, an arc from near Toledo toward Indianapolis. That is the caption. I will not make it bigger. I do not have a named Native town here, so I will not invent one. The boom story of thirteen saloons and hundred-dollar houses is as close as these pages come to a legend, and it is already in the cards. The next place on your list is Cynthiana.",
+    long: "",
+    names: ["Black Swamp"]
+  },
 
+  {
+    id: "approach-cynthiana-oh",
+    name: "Cynthiana",
+    lat: 39.1736,
+    lng: -83.3486,
+    radius: 3000,
+    layer: "approach",
+    short: "You are coming up on Cynthiana. An unincorporated hamlet in Perry Township, Pike County, on State Route 41, about a mile from the Highland County line. The 1884 county history calls it a pretty little village on rich ground. Baker's Fork of Brush Creek runs near it. If you come in on the highway, I'll start with the name, because the Kentucky town of the same name is a different story.",
+    long: "",
+    names: ["Cynthiana"]
+  },
+  {
+    id: "cynthiana-the-name",
+    name: "Anna and Cynthia",
+    lat: 39.1738,
+    lng: -83.3482,
+    radius: 400,
+    short: "The 1884 history says the hamlet was laid out between 1835 and 1840 by David Eubanks, brother of Rhoda and Rebecca Eubanks. He named it for his wife, Anna, and his daughter, Cynthia. A list says the post office opened in 1839. In 1884, L. C. Wilson was postmaster, and the office was kept in Rigdon's store. A current note says the office is gone and the mail goes to Bainbridge. I do not have the closing day, so I will not invent one. The name is said sin-thee-ANN-uh. This pin is the crossroads. Not the store.",
+    long: "",
+    names: ["David Eubanks", "Anna", "Cynthia"]
+  },
+  {
+    id: "cynthiana-not-kentucky",
+    name: "Not the Kentucky Town",
+    lat: 39.1732,
+    lng: -83.3492,
+    radius: 300,
+    short: "Kentucky has a Cynthiana too, on the South Fork of the Licking. A chamber page there says Robert Harrison named that town for two daughters, Cynthia and Anna. Do not bring that man, or those two girls, across the river. The Ohio book says wife and daughter, and the man is David Eubanks. He died in Missouri on August 21, 1857, aged seventy-four. The book does not say why he left. I will not guess. This pin is Pike County. Not Harrison County, Kentucky.",
+    long: "",
+    names: ["David Eubanks"]
+  },
+  {
+    id: "cynthiana-main-street",
+    name: "Main Street, 1884",
+    lat: 39.1742,
+    lng: -83.3478,
+    radius: 350,
+    short: "The book says the principal street was called Main, and that the town sat nearly on the four points of the compass, in the northeast corner of the township. It lists J. W. Rigdon and Head Brothers, general stores. M. W. Dunham, grocery. Mrs. S. M. Kerns, millinery. N. Ralph, shoe shop. John Martino, shoe store, and the same name as the lawyer. Daniel Bryan, blacksmith. Albert Caplinger, gun shop. J. T. Traber, marble yard. Davis Rish, chair and repair shop. W. O. Greenfield had a blacksmith shop on the east side, and G. W. Kelley a tan-yard on that side. Population about one hundred seventy-five. In 1850 it had been one hundred thirty-four. Those are the book's counts. A modern box-code page that says twenty-two is counting a mail drop, not this street. This pin is not a door on Main.",
+    long: "",
+    names: ["J. W. Rigdon"]
+  },
+  {
+    id: "cynthiana-creek",
+    name: "Baker's Fork",
+    lat: 39.1728,
+    lng: -83.3500,
+    radius: 600,
+    short: "Baker's Fork of Brush Creek runs near the place. That is the water on the page. I do not have a mill dam, a bridge date, or a flood. Perry Township is mentioned about 1825. Pike County was taken in 1815 from Adams, Ross, and Scioto. Those are the county and the township, not the day the hamlet was laid out. In 1812 a tannery stood somewhere in the township, probably the first in the county. John Ferneau, father of Daniel Ferneau, ran it. The book does not put that tannery inside the hamlet. The hamlet was not laid out yet. Kelley's tan-yard, on the east side in 1884, is a later yard. I will not make them the same shop. This pin is the fork. Not a vatting tub.",
+    long: "",
+    names: ["Brush Creek", "John Ferneau"]
+  },
+  {
+    id: "cynthiana-churches",
+    name: "Four Churches",
+    lat: 39.1746,
+    lng: -83.3488,
+    radius: 400,
+    short: "The United Brethren organized in 1820, fifteen members, Reverend William Steward. For years they met in houses and the old log schoolhouse. In 1839 they built a frame church in the north part of the hamlet. Sixteen years later they took it down and built a brick chapel on the same ground. The Methodist Episcopal society organized in 1841, Reverend Henry Horton, about twenty-five members. A log church went up in the north part in 1843. A brick church in the south part in 1853, under Reverend Joseph Trimble, eighty-five members. In March 1882 that brick church burned. They borrowed the Presbyterian church. The Presbyterians had organized May 7, 1846, and built in 1849. Christian Union organized in 1864, Reverend J. Givens, twenty-five members, and built in 1868. I have the pastors and the trustees in the book. I do not have which of these buildings is still standing. This pin is the village. Not a pulpit.",
+    long: "",
+    names: ["Henry Horton"]
+  },
+  {
+    id: "cynthiana-school",
+    name: "Sixty-Seven Scholars",
+    lat: 39.1734,
+    lng: -83.3474,
+    radius: 300,
+    short: "The book counts seven school districts in the township. Number three is Cynthiana School. Teachers E. G. Tener and Miss Nana Jones. Sixty-seven scholars. That is the only school count I have for the hamlet. I will not turn sixty-seven into a graduating class, and I will not invent a bell. The physicians in town were W. S. Little and J. W. Little. This pin is not the schoolhouse.",
+    long: "",
+    names: ["Nana Jones"]
+  },
+  {
+    id: "cynthiana-not-invented",
+    name: "What I Will Not Add",
+    lat: 39.1724,
+    lng: -83.3480,
+    radius: 400,
+    short: "The 1884 chapter does not give this hamlet a railroad, a battlefield, or a named Native town. I will not add them to sound finished. The pioneers it lists belong to the township, and I will not move every name onto Main Street. The local fact that is actually written down is a small one, and it is enough. A man named a crossroads for his wife and his daughter, and in 1882 the brick Methodist church burned and the congregation sat with the Presbyterians. The next place on your list is Dalton.",
+    long: "",
+    names: ["Perry Township"]
+  },
+
+  {
+    id: "approach-dalton-oh",
+    name: "Dalton",
+    lat: 40.7994,
+    lng: -81.7036,
+    radius: 4000,
+    layer: "approach",
+    short: "You are coming up on Dalton. A village in Sugar Creek Township, Wayne County, on the old Lincoln Highway. The Dal is said like the Dal in Dallas. It was three small plats before it was one town. Dover, Sharon, and Middletown. If you come in on Main Street, I'll start with those three, and then the fire that took the street.",
+    long: "",
+    names: ["Dalton"]
+  },
+  {
+    id: "dalton-three-plats",
+    name: "Three Plats",
+    lat: 40.7988,
+    lng: -81.6951,
+    radius: 700,
+    short: "The county history, as the library copies it from Douglass, says Dover was surveyed October 16, 1817, by A. Porter, for the Reverend James Adams. Forty-six lots. Sharon was surveyed March 29, 1828, by C. W. Christmas. Thirty lots. Middletown was laid out by Jacob Switzer and John Jameson, and surveyed by William Henderson on December 27, 1828. Fifty-four in-lots and eleven out-lots. The Ohio Memory page, from the village historical society, moves two of those days. Dover becomes October 16, 1818. Sharon becomes May 29, 1828. Middletown stays December 27. I will not pick a winner. Wikipedia calls them rival villages and says they merged in 1855. One highway page spells it Middleton, without the w. This Dover is not the canal city of Dover, farther south. This pin is the village. Not a lot corner.",
+    long: "",
+    names: ["James Adams", "Jacob Switzer"]
+  },
+  {
+    id: "dalton-eighty-two",
+    name: "Eighty-Two Names",
+    lat: 40.7998,
+    lng: -81.7044,
+    radius: 500,
+    short: "The same memory page says the three plats sat within about two miles of each other. On May 30, 1856, eighty-two people signed a petition to incorporate. The library page says the village was incorporated on August 14, 1856. The petition and the incorporation are not the same day. Wikipedia's 1855 is a third date. I will not average them. The census counted four hundred twelve people in 1870. In 2020 it counted one thousand nine hundred twenty-seven. This pin is not the petition.",
+    long: "",
+    names: ["Dalton"]
+  },
+  {
+    id: "dalton-firsts",
+    name: "The First Names Are Thin",
+    lat: 40.8004,
+    lng: -81.7022,
+    radius: 400,
+    short: "Douglass, by way of the library, says a man named Freeman had the first tavern. The first physician was Dr. Watson. Mr. Johnson had the first store. The first church was Presbyterian. The post office came in 1825. The first postmaster was Benjamin Nowee. Those are the names as printed. Freeman, Watson, and Johnson have no first names on this page. I will not supply them. Nowee is an odd spelling. I will not correct it. This pin is the village. Not the tavern.",
+    long: "",
+    names: ["Benjamin Nowee"]
+  },
+  {
+    id: "dalton-fire-1894",
+    name: "Main Street, 1894",
+    lat: 40.7990,
+    lng: -81.7010,
+    radius: 400,
+    short: "A Lincoln Highway page says Dalton had a major fire in 1894, and that it destroyed almost every building on Main Street. Almost every is that page's phrase. I do not have a month, a night, a death count, or a cause. I will not add them. The bandstand on that street was still there about 1925, and the same page says it is still maintained. This pin is Main Street. Not the building that burned.",
+    long: "",
+    names: ["Main Street"]
+  },
+  {
+    id: "dalton-lincoln-highway",
+    name: "The Concrete Posts",
+    lat: 40.7986,
+    lng: -81.7060,
+    radius: 800,
+    short: "The highway page says Dalton has been on the Lincoln Highway since 1913. Two concrete posts stand in town, neither of them exactly where it first stood. One is at Main and Mill. The other is about a mile farther on Main. A third, at Kohler Road, about four miles west, is one of three posts in Ohio still at or near the old spot. The page also says this was the first Ohio town bypassed by a superhighway, back in the nineteen-fifties, ahead of Mansfield and Canton. Believe it or not is the page's own warning. I will not swear the first. This pin is the highway. Not a post.",
+    long: "",
+    names: ["Lincoln Highway"]
+  },
+  {
+    id: "dalton-eagle-hotel",
+    name: "The Eagle Hotel",
+    lat: 40.7996,
+    lng: -81.6988,
+    radius: 400,
+    short: "East of the center of town, the historical society keeps a museum in the old Eagle Hotel and Tavern. The highway page says it was built of logs in 1821. You see it by appointment. I do not have the builder's name. I will not invent one. The countryside around the village is Amish country now. Buggies use the library lot. That is not the same as saying the 1817 plat was Amish. The first church on the page is Presbyterian. This pin is the east side of town. Not the log door.",
+    long: "",
+    names: ["Eagle Hotel"]
+  },
+  {
+    id: "dalton-not-invented",
+    name: "What I Will Not Add",
+    lat: 40.8010,
+    lng: -81.7000,
+    radius: 400,
+    short: "These pages do not give Dalton a railroad, a canal, a battlefield, or a named Native town. The township is called Sugar Creek. I do not have a mill or a dam on it, so I will not describe one. The village page lists Chris Kirkpatrick of the group NSYNC among its people. I have not read a birth line, so I will not invent one. The story that is actually written down is the joining of three plats, and a Main Street that burned in 1894 and came back as the Lincoln Highway. The next place on your list is Damascus.",
+    long: "",
+    names: ["Sugar Creek Township"]
+  },
+
+  {
+    id: "approach-damascus-oh",
+    name: "Damascus",
+    lat: 40.9042,
+    lng: -80.9522,
+    radius: 3500,
+    layer: "approach",
+    short: "You are coming up on Damascus. An unincorporated crossroads on the line of Mahoning and Columbiana counties, where U.S. 62 meets State Routes 173 and 534. Goshen Township on the Mahoning side. Butler Township on the Columbiana side. About five miles west of Salem. The 2020 census counted four hundred eighteen people. This is not the Damascus on the Maumee, near Liberty Center. If you come in on 62, I'll start with the plat, and then the burying ground.",
+    long: "",
+    names: ["Damascus"]
+  },
+  {
+    id: "damascus-not-the-maumee",
+    name: "Not the River Town",
+    lat: 40.9048,
+    lng: -80.9510,
+    radius: 400,
+    short: "A marker in Henry County tells a different Damascus. Prairie des Mascoutins. Kickapoo. A trader named Samuel Vance. The Wabash and Erie Canal. Captain Logan, wounded in 1812. None of that is this crossroads. Do not bring the Maumee story east. This village was platted in 1808. Wikipedia says the name comes from the old city of Damascus, in Syria. It does not say who chose it, or why a Quaker crossroads took a Syrian name. I will not guess. This pin is U.S. 62. Not the Maumee.",
+    long: "",
+    names: ["Damascus"]
+  },
+  {
+    id: "damascus-howard-plat",
+    name: "Horton Howard, 1808",
+    lat: 40.9036,
+    lng: -80.9534,
+    radius: 400,
+    short: "A Goshen Township history says the village was platted and laid out by Horton Howard in 1808. The same history says Thomas French was in Damascus in 1805, and that his brother Elijah followed him. That is three years before the plat. Anthony Morris is recorded in section thirty-one in 1804. The history does not put Morris inside the village. I will not move him. Wikipedia says the place was built up chiefly by Quakers. I do not have Horton Howard's own reason for the name. This pin is the village. Not his door.",
+    long: "",
+    names: ["Horton Howard", "Thomas French"]
+  },
+  {
+    id: "damascus-burying-ground",
+    name: "Lot 17",
+    lat: 40.9007,
+    lng: -80.9556,
+    radius: 250,
+    short: "The marker at the Friends church, Walnut and Morris, says the Friends Burying Grounds stood on Lot 17. Oldest cemetery in Butler Township. The dates on the marker are 1807 to 1843. The church needed the ground. In 2001 and 2002, Professor John White of Youngstown State, with students and volunteers, took up one hundred eighteen people. No stones were found that could name them. They were buried again in Damascus Cemetery on Valley Road, one block east. I will not invent a name for a grave that had none. This pin is the church corner. Not a stone.",
+    long: "",
+    names: ["Friends Burying Grounds"]
+  },
+  {
+    id: "damascus-post-office",
+    name: "The Post Office, 1828",
+    lat: 40.9040,
+    lng: -80.9528,
+    radius: 300,
+    short: "The township history says Damascus was made a post office in 1828, and that the first postmaster was James B. Bruff. Another page says John B. Bruff. I will not decide which is the misprint. Wikipedia agrees on the year, 1828, and says the office is still here, ZIP 44619. James Bruff, without the middle initial, is also in the township history as a man who came in 1822 and married Sarah, daughter of Anthony Morris. I will not swear he is the postmaster. This pin is the village. Not the office.",
+    long: "",
+    names: ["James B. Bruff"]
+  },
+  {
+    id: "damascus-academy",
+    name: "The Academy",
+    lat: 40.9044,
+    lng: -80.9488,
+    radius: 400,
+    short: "The township history says Damascus Academy was founded in 1857. In 1885 the Friends' Church had it chartered under the laws of Ohio, and it stayed under their care. The history puts the school at the east end of the village, and says the Stark Electric Railroad ran through. That is a trolley line, not a story I can stretch into a steam depot. I do not have a fare, a wreck, or the year the cars stopped. A photograph is labeled Damascus Grade School, 1902. I do not have the builder. The district now is West Branch. This pin is the east end. Not a classroom.",
+    long: "",
+    names: ["Damascus Academy"]
+  },
+  {
+    id: "damascus-not-invented",
+    name: "What I Will Not Add",
+    lat: 40.9052,
+    lng: -80.9540,
+    radius: 400,
+    short: "A community page lists John C. Gaunt, a soldier and a Medal of Honor man. I have not read the citation. I will not describe a battle I have not read, and I will not put it in this village. These pages give this Damascus no creek, no canal, and no Native town of its own. The Native story and the War of 1812 story belong to the other Damascus, and they stay there. What is written down here is a Quaker plat, a burying ground of one hundred eighteen unnamed dead, and a school the Friends chartered in 1885. The next place on your list is Danville.",
+    long: "",
+    names: ["Damascus"]
+  },
+
+  {
+    id: "approach-danville-oh",
+    name: "Danville",
+    lat: 40.4472,
+    lng: -82.2614,
+    radius: 3500,
+    layer: "approach",
+    short: "You are coming up on Danville. A village in Union Township, Knox County, on U.S. 62, about fifteen miles northeast of Mount Vernon. The village calls itself the gateway to Amish country. The 2020 census counted one thousand nineteen people. The old town and the town you drive through are not the same plat. If you come in on 62, I'll start with the Sapps, and then the year nobody can fix.",
+    long: "",
+    names: ["Danville"]
+  },
+  {
+    id: "danville-the-year",
+    name: "1813, or 1818",
+    lat: 40.4476,
+    lng: -82.2608,
+    radius: 400,
+    short: "Wikipedia and the village say the original Danville was laid out in 1813 by George Sapp, senior, and Robert Waddell, and named for Daniel Sapp, a soldier in the War of 1812. A county history, as a map page quotes it, says the exact day cannot be fixed. Jonathan Sapp, son of George senior, put it as late as 1818. The common claim was 1813 or 1814. That history spells the other founder Waddle, without the second e. A park page says George Sapp founded it in 1813 and that George was the veteran. The name pages say Daniel was the soldier. I will not make the father and the son the same man, and I will not pick the year. There was no battle here. The war is only the reason for the name. This pin is the village. Not a lot stake.",
+    long: "",
+    names: ["George Sapp", "Daniel Sapp", "Robert Waddell"]
+  },
+  {
+    id: "danville-sapps-settlement",
+    name: "Sapp's Settlement",
+    lat: 40.4468,
+    lng: -82.2622,
+    radius: 400,
+    short: "A 2012 county plan says the place was first called Sapp's Settlement, after four brothers who came in 1806 from western Maryland. Daniel was one of them. Union Township is one of the original four townships of Knox County. The plan says the Sapps were part of the early Catholic settlement here. The first post office in the eastern part of the county opened at Danville in 1824. I do not have the first postmaster. I will not invent one. This pin is not the 1806 cabin.",
+    long: "",
+    names: ["Sapp"]
+  },
+  {
+    id: "danville-st-luke",
+    name: "St. Luke",
+    lat: 40.4470,
+    lng: -82.2596,
+    radius: 300,
+    short: "A park page says St. Luke Catholic parish was founded here in 1820, and calls it the second oldest parish in the state. The village says the same about the parish, and does not argue the year. The county plan calls Father Lamy the founding priest, and says he later became Archbishop of Santa Fe, the priest in Willa Cather's novel. Lamy was not a priest in 1820. I will not put him in that year. Wikipedia says he served as a missionary in northern Ohio and established the Catholic church in the village. Established and founded in 1820 are not the same sentence. I will not glue them. This pin is the church the pages are talking about. Not a pew.",
+    long: "",
+    names: ["St. Luke", "Jean-Baptiste Lamy"]
+  },
+  {
+    id: "danville-rail-and-sheep",
+    name: "The Depot and the Sheep",
+    lat: 40.4464,
+    lng: -82.2630,
+    radius: 500,
+    short: "The park page says the town stood still until the railroad, and then it had two dry-goods stores, a grocery and clothing store, a hardware, a hotel, a blacksmith, a copper shop, and a post office. Copper shop is the page's phrase. I will not correct it to cooper. The railroad was the Cleveland, Akron and Columbus. The passenger depot is now the Danville Feed and Supply. Passenger service stopped in 1950. The page says a stockyard specialized in sheep, and that Knox County was mapped with more sheep than any county east of the Mississippi. That is the page. I have not seen the map. It also says a turkey hatchery was the largest industry in the valley. Rossville, which one page calls Rosstown, was laid out when the railroad was finished. Buckeye City was laid out in 1880. Wikipedia says the modern village began in 1923, when those two were joined to Danville. The census went from three hundred eighty-three in 1920 to seven hundred sixty-four in 1930. The census does not say why. This pin is the old depot ground. Not a sheep pen.",
+    long: "",
+    names: ["Cleveland, Akron and Columbus Railway"]
+  },
+  {
+    id: "danville-jelloway",
+    name: "Little Jelloway",
+    lat: 40.4484,
+    lng: -82.2588,
+    radius: 600,
+    short: "The water on the park page is Little Jelloway Creek, along the trail. I do not have a mill or a flood. The rail bed is a trail now. The Kokosing Gap Trail ends here, and the Mohican Valley Trail starts. That trail runs about four and a half miles toward Brinkhaven and the Bridge of Dreams, at the Holmes County line. The bridge is the next stretch. It is not a building in this village. U.S. 62, the plan says, runs from Niagara Falls to El Paso. That is the road you are on. It is not a Danville invention. This pin is the trailhead. Not the bridge.",
+    long: "",
+    names: ["Little Jelloway Creek", "Kokosing Gap Trail"]
+  },
+  {
+    id: "danville-raccoon",
+    name: "The Raccoon Dinner",
+    lat: 40.4480,
+    lng: -82.2618,
+    radius: 300,
+    short: "The county plan says the village is known for the Danville-Howard Turkey Festival, and for a raccoon dinner held each February. I do not have the year either one started, or a menu. I will not invent them. The motto on the sign is the gateway to Amish country. That is the country around the village now. The 1806 settlers on these pages are Catholics from Maryland, not an Amish plat. This pin is the village. Not a table.",
+    long: "",
+    names: ["Danville"]
+  },
+  {
+    id: "danville-not-invented",
+    name: "What I Will Not Add",
+    lat: 40.4460,
+    lng: -82.2600,
+    radius: 300,
+    short: "These pages do not give Danville a battlefield, a canal, or a named Native town. I will not add them. A page lists Robert M. Nevin, a congressman from 1901 to 1905. I have not read where he was born, so I will not put a birth in this village. What is written down is a settlement of four brothers, a parish dated to 1820, a depot that became a feed store, and a February dinner of raccoon. The next place on your list is Darbydale.",
+    long: "",
+    names: ["Union Township"]
+  },
+
+  {
+    id: "approach-darbydale-oh",
+    name: "Darbydale",
+    lat: 39.8544,
+    lng: -83.1794,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Darbydale. An unincorporated place in Pleasant Township, Franklin County, on the north side of Big Darby Creek, about fourteen miles southwest of downtown Columbus. The 2020 census counted seven hundred sixty-eight people. It was a village from 1954 until the end of 1985. Before that, the name was Little Pennsylvania. If you come in from the creek side, I'll start with the names that will not sit still.",
+    long: "",
+    names: ["Darbydale"]
+  },
+  {
+    id: "darbydale-three-names",
+    name: "Three Names",
+    lat: 39.8548,
+    lng: -83.1786,
+    radius: 500,
+    short: "The Southwest Franklin County Historical Society says the early names cannot be officially confirmed, except by residents and newspaper pieces. An 1872 map shows Harrisburg, and does not show Darbydale. One early name was likely Chenoweth Mills, because settlements took the name of a nearby grist mill. The Chenoweth family owned most of the land around Harrisburg and north to what is now Osprey Lake at Darbydale. Little Pennsylvania likely came into use by 1838. In 1933 residents signed a petition to change the unincorporated area from Little Pennsylvania to Darbydale. Likely is the society's word. I will not promote it to certain. This pin is the place. Not the 1872 map.",
+    long: "",
+    names: ["Little Pennsylvania", "Chenoweth"]
+  },
+  {
+    id: "darbydale-school",
+    name: "A Hundred and One Years",
+    lat: 39.8536,
+    lng: -83.1804,
+    radius: 400,
+    short: "The society says a one-room log school opened in 1838, in the Pennsylvania School District. It says the school operated one hundred one years and closed in 1938. Count it yourself. I will not repair the arithmetic. Mina Rider was the last teacher. The log house was replaced by a one-room plank building, painted white. A third school was brick. When that closed, the students went to Harrisburg. I do not have the year of the brick school. This pin is not the schoolhouse.",
+    long: "",
+    names: ["Mina Rider"]
+  },
+  {
+    id: "darbydale-mill",
+    name: "The North Bank",
+    lat: 39.8528,
+    lng: -83.1820,
+    radius: 700,
+    short: "Big Darby Creek is a tributary of the Scioto. By 1872, the society says, Thomas Chenoweth, eldest son of Elijah and Rachel Chenoweth, ran a grist mill on the north bank, just north of where Opossum Road and the Harrisburg-Georgesville road met. That is a Chenoweth mill. It is not Samuel Dyer's mill. Dyer's stood in 1805 at the forks of Little Darby and Big Darby, between Georgesville and New Georgesville, and the society calls that the first mill north of Chillicothe. Do not move Dyer's mill to this crossroads. The brothers Thomas and Elijah Chenoweth, from Maryland, are the first settlers the society names in the township. The township was organized in 1807. I do not have a cabin door in Darbydale. This pin is the north bank. Not a millstone.",
+    long: "",
+    names: ["Thomas Chenoweth", "Big Darby Creek"]
+  },
+  {
+    id: "darbydale-village",
+    name: "Thirty-One Years a Village",
+    lat: 39.8552,
+    lng: -83.1774,
+    radius: 400,
+    short: "In 1954 the settlement incorporated as the village of Darbydale. Paul Muir was the first mayor. Charles Helwagen followed. The society says Helwagen tried to get the place ready for growth, and met considerable opposition. Wikipedia dates the end to December 27, 1985. The society says the residents voted in 1985, and that many complained the ballot language was confusing, so people who wanted to stay a village voted to give it up. I do not have the tally. I will not invent one. After that, Pleasant Township trustees had the government. This pin is the place. Not a ballot.",
+    long: "",
+    names: ["Paul Muir", "Charles Helwagen"]
+  },
+  {
+    id: "darbydale-mayor-kell",
+    name: "A Note from the Pastor",
+    lat: 39.8540,
+    lng: -83.1768,
+    radius: 350,
+    short: "The society says one of the last mayors was John W. Kell, known around Ohio for mayor's court. In 1974 he was tired of seeing the same people. Instead of jail or a fine, he ordered them to church. Over five years he put more than fifty people on probation, on the condition that they attend a church of their choice, and bring a note from the pastor each week. The society says several sought counseling so they would not have to stand in that court again. I have not read a ruling that says whether a mayor could do this. I will not supply one. This pin is not the court.",
+    long: "",
+    names: ["John W. Kell"]
+  },
+  {
+    id: "darbydale-old-name",
+    name: "The Name That Stayed",
+    lat: 39.8508,
+    lng: -83.2006,
+    radius: 400,
+    short: "Little Pennsylvania Cemetery is still on the map, west of the houses, under the old name. I do not have a list of who is in it. I will not invent a stone. The mail ZIP is 43123. A post office is marked historical on an old map. I do not have the day it opened or the day it closed. These pages give Darbydale no railroad, no battlefield, and no named Native town. Harrisburg's hotels and stagecoaches belong to Harrisburg. The story that is written down here is a school, a petition in 1933, and a village that voted itself out. The next place on your list is De Graff.",
+    long: "",
+    names: ["Little Pennsylvania Cemetery"]
+  },
+
+  {
+    id: "approach-de-graff-oh",
+    name: "De Graff",
+    lat: 40.3128,
+    lng: -83.9167,
+    radius: 3500,
+    layer: "approach",
+    short: "You are coming up on De Graff. A village in Logan County, in Miami and Pleasant townships, where State Routes 235 and 508 meet. The 2020 census counted one thousand two hundred fifty people. The official spelling is De Graff, with a space. The village writes DeGraff. Other pages use De Graft, Degraff, and Degraft. I will not pick one. If you come in on 235, I'll start with Old Town, which is not this intersection.",
+    long: "",
+    names: ["De Graff"]
+  },
+  {
+    id: "degraff-old-town",
+    name: "Old Town",
+    lat: 40.2983,
+    lng: -83.9227,
+    radius: 800,
+    short: "The village timeline says that in 1700 Miami and Shawnee people came here and built a village called Old Town, about a mile and a half southwest of today's De Graff, on Stony Creek. Seventeen hundred is a round year. I will not treat it as a diary date. A Logan County marker, now missing, stood on the northeast abutment of the Stony Creek bridge and said Oldtown Shawnee village, a quarter mile north, meeting place of Simon Kenton and Tecumseh, 1806. The title called it the site of an 1806 war council. A mile and a half and a quarter mile are not the same distance. I will not average them. A second marker, about five hundred feet south, named Oldtown and Curry's blockhouse. It is missing too. I do not have what Kenton and Tecumseh said. This pin is the old bridge. Not a council fire.",
+    long: "",
+    names: ["Old Town", "Tecumseh", "Simon Kenton"]
+  },
+  {
+    id: "degraff-treaty-line",
+    name: "The Line, and Who Stayed",
+    lat: 40.3050,
+    lng: -83.9200,
+    radius: 600,
+    short: "The same timeline says that in 1795 Logan, Black Hoof, Buckongahelas, and Tarhe signed the Treaty of Greenville, and that Tecumseh and Captain Lewis refused. It says people were moved north of the treaty line, and that Captain Lewis and his people stayed at Old Town. The spelling of those chiefs wobbles from page to page. I am using the timeline's names, not correcting them. I have not read the treaty text in front of you. I will not add a speech. This pin is not Greenville. Greenville is another town.",
+    long: "",
+    names: ["Captain Lewis", "Black Hoof"]
+  },
+  {
+    id: "degraff-boggs-mills",
+    name: "The Boggs Land",
+    lat: 40.3136,
+    lng: -83.9154,
+    radius: 500,
+    short: "In 1805 John Boggs of Pickaway County bought five hundred three acres, the site of the later village. By 1826 his son William came with a wife and a child, and an old friend of John's who had been given land. They built cabins. William built a sawmill below his cabin in 1833. In 1840 Joseph Shriver built a flour mill and was the first miller. He later built the elevator. The timeline says the first white child born in De Graff was William Wolfe, son of John and Nancy Wolfe, in 1845. The plat is 1850. I will not move the birth to fit the plat, and I will not pretend the village existed in 1845 under that name. In 1848 a cemetery association formed. The Murphey family gave five acres. This pin is the village. Not the sawmill.",
+    long: "",
+    names: ["William Boggs", "Joseph Shriver"]
+  },
+  {
+    id: "degraff-bee-line",
+    name: "The Bee Line",
+    lat: 40.3122,
+    lng: -83.9176,
+    radius: 450,
+    short: "In 1850 Colonel Andrew De Graff surveyed routes for the Bee Line, also called the Bellefontaine Line, and he and William Boggs surveyed the town. It was named for the engineer. Wikipedia says only that it was named for a railroad official. John Koke and Samuel Gilfillen platted about sixty lots, a third of them southeast of the track. Koke could not carry the contract, and the land went back. I do not have the year of that failure. In 1851 J. K. Askin opened the first store. In 1852 the railroad arrived. The women of the town fed the railroad men and were given a ride. More than two hundred people took part. The first church was Presbyterian, and the timeline says every denomination used it. The line was fully running by the early eighteen-sixties. Arrival and fully running are not the same year. This pin is the track. Not a dinner table.",
+    long: "",
+    names: ["Andrew De Graff", "Bee Line"]
+  },
+  {
+    id: "degraff-1864",
+    name: "A Mayor, Two Spellings",
+    lat: 40.3130,
+    lng: -83.9148,
+    radius: 350,
+    short: "The village incorporated in 1864. The timeline spells the first mayor A. J. Lippencott. Another village page spells him A. J. Lippincott, and names Mathias Wolf as recorder. I will not decide the p's. Aaron Mitchell, called Old Uncle Ben, bought wheat with Boggs's help, and the page says De Graff became one of the best grain markets in the county. The timeline says the 132nd was mostly men and boys from Logan County. I do not have a battle for them on this page, so I will not give you one. Greenwood is the cemetery name the timeline adopts. The census counted six hundred twenty-four people in 1870. This pin is the village. Not a wheat sack.",
+    long: "",
+    names: ["A. J. Lippincott"]
+  },
+  {
+    id: "degraff-centennial",
+    name: "Queen of 1850",
+    lat: 40.3124,
+    lng: -83.9160,
+    radius: 300,
+    short: "In May 1950 the village held a four-day centennial, counted from the 1850 plat, not from the 1864 incorporation. The history center says thousands came. Mrs. Lester Rairdon was crowned Queen of 1850. Miss Ellen Corwin was Queen of 1950. Men who would not grow beards bought a shaving permit for a dollar, then played basketball against the bearded men. There was a greased pig. Henry L. Madden took third in the parade as an 1849 gold hunter, with a burro, a pick, and a live monkey. I will not add what the monkey did. This pin is the street. Not a float.",
+    long: "",
+    names: ["Ellen Corwin"]
+  },
+  {
+    id: "degraff-not-invented",
+    name: "What I Will Not Add",
+    lat: 40.3142,
+    lng: -83.9188,
+    radius: 400,
+    short: "Stony Creek is the water. I do not have a flood. Quincy had trouble while this town grew on Boggs's money. That is the page's sentence. I will not tell Quincy's story here. I will not put a canal in this village. The Native town is Old Town, and the markers that said so are gone. What is written down is a railroad engineer's name, a dinner for the track gang in 1852, and a centennial that crowned a queen for a year the town was only a survey. The next place on your list is Deersville.",
+    long: "",
+    names: ["Stony Creek"]
+  },
+
+  {
+    id: "approach-deersville-oh",
+    name: "Deersville",
+    lat: 40.3083,
+    lng: -81.1881,
+    radius: 2000,
+    layer: "approach",
+    short: "You are coming up on Deersville. A village in Franklin Township, Harrison County, about twelve miles west of Cadiz. Main Street is the old pike, also called Deersville Ridge Road. The 2020 census counted sixty-nine people. In 1880 it had counted three hundred eighty-two, the high number in the table I have. This is not Tappan. Tappan is about two miles north, under the lake. If you come in on the ridge, I'll start with the plat.",
+    long: "",
+    names: ["Deersville"]
+  },
+  {
+    id: "deersville-cramblett",
+    name: "John Cramblett's Plat",
+    lat: 40.3078,
+    lng: -81.1875,
+    radius: 300,
+    short: "The marker on Main Street, a tenth of a mile east of Rock Street, says John Cramblett platted Deersville on November 25, 1815. The National Register form puts that plat in the southeast corner of section twenty-five. Franklin Township was surveyed in 1802, a year before statehood, and organized in 1807. The town was laid out as a pike town. One long street, alleys, and outlots. That shape is still the shape. A post office called Deersville has been open since 1828. I do not have the first postmaster. This pin is the marker. Not a lot corner.",
+    long: "",
+    names: ["John Cramblett"]
+  },
+  {
+    id: "deersville-moravian-trail",
+    name: "The Moravian Trail",
+    lat: 40.3086,
+    lng: -81.1888,
+    radius: 400,
+    short: "The Register form, quoting a published history, says this ridge was a trail used by Delaware and Wyandot people before white settlement, and that it took the name Moravian Trail from missionaries who used it as early as the seventeen-sixties. There is a Moravian Trail marker within shouting distance of the village sign. I have not read that marker's text, so I will not pretend I have. The village marker says the place peaked before the Civil War, as a stop on the stagecoach road between Wheeling and Wooster. The Register says the good years were the eighteen-thirties to the eighteen-fifties, because wagons here were on a way to the Ohio and Erie Canal, off to the west, and because the mail routes came through. The census peak is later, in 1880. A commercial peak and a head count are not the same peak. This pin is the street. Not a stage.",
+    long: "",
+    names: ["Moravian Trail"]
+  },
+  {
+    id: "deersville-railroad-missed",
+    name: "The Railroad Went North",
+    lat: 40.3092,
+    lng: -81.1868,
+    radius: 400,
+    short: "The Register says railroad service reached Harrison County in the mid-eighteen-sixties, when the Steubenville and Indiana was built across the northern part of the county. That line tied Pittsburgh to Columbus and later became a Pennsylvania Railroad road between New York and St. Louis. Northern part of the county means it did not come down this ridge. I will not give Deersville a depot. The stage town was left on the pike. This pin is the village. Not a track.",
+    long: "",
+    names: ["Steubenville and Indiana Railroad"]
+  },
+  {
+    id: "deersville-auld",
+    name: "The Hills of Ohio",
+    lat: 40.3074,
+    lng: -81.1892,
+    radius: 300,
+    short: "The marker says Alexander Auld, a songwriter, lived near the community in the nineteenth century. Near is the marker's word. I will not move him onto Main Street. It says his songbooks sold about seven hundred thousand copies. His best-known song was The Hills of Ohio, and from time to time it was talked about as a state song. Talked about is not chosen. Ohio's state song is not this one. I will not sing you a verse I have not read. This pin is the village. Not his house.",
+    long: "",
+    names: ["Alexander Auld"]
+  },
+  {
+    id: "deersville-hazlett",
+    name: "The Second General",
+    lat: 40.3080,
+    lng: -81.1860,
+    radius: 300,
+    short: "The marker says Major General Harry F. Hazlett was the second Harrison County native to reach that rank. It says George A. Custer was the first. Custer was from New Rumley, in this county, not from Deersville. Do not put his birth on this street. The marker also says Deersville was a cultural center, with schools, a library, and churches, and that it took part in prohibition and in the anti-slavery movement. It does not give me a meeting, a vote, or a name. I will not invent a station on the Underground Railroad. It says that, for its size, the village produced more Harrison County officials than any other community. That is the marker's claim. I have not counted them. This pin is the sign. Not a courthouse.",
+    long: "",
+    names: ["Harry F. Hazlett"]
+  },
+  {
+    id: "deersville-not-tappan",
+    name: "Tappan Is the Next Town",
+    lat: 40.3546,
+    lng: -81.2080,
+    radius: 500,
+    short: "About two miles north, on U.S. 250, a marker says Tappan was platted by John Marshall on March 4, 1837. Do not bring that plat down the ridge. The same marker says a colony of freed people once stood two miles outside Tappan, with its own school, church, and cemetery. That is Tappan's sentence, not Deersville's. Most of Tappan's buildings were torn down or moved in the late nineteen-thirties for Tappan Dam. Mary Jobe Akeley is listed on the Deersville page as an author, explorer, conservationist, and photographer. The Tappan marker claims her too, and spells the last name Ackley. A joint marker with Hazlett stands about a quarter mile from the Deersville sign. I have not read her expeditions. I will not invent a mountain. This pin is Tappan. Not Main Street.",
+    long: "",
+    names: ["Tappan", "Mary Jobe Akeley"]
+  },
+  {
+    id: "deersville-not-invented",
+    name: "What I Will Not Add",
+    lat: 40.3070,
+    lng: -81.1884,
+    radius: 250,
+    short: "A database field on the village marker says October 1782. That month is not on the inscription I read. I will not hang a massacre on a field in a database. These pages give Deersville no creek dam of its own, no battlefield, and no depot. What is written down is a pike town platted in 1815, a stage road between Wheeling and Wooster, and a railroad that chose the north of the county instead. The next place on your list is Dellroy.",
+    long: "",
+    names: ["Deersville"]
+  },
+
+  {
+    id: "approach-dellroy-oh",
+    name: "Dellroy",
+    lat: 40.5550,
+    lng: -81.1992,
+    radius: 3000,
+    layer: "approach",
+    short: "You are coming up on Dellroy. A village in Monroe Township, western Carroll County, where State Routes 39 and 542 meet. The sign says small town paradise. The 2020 census counted two hundred sixty-eight people. In 1880 it had counted six hundred sixty-four. The lake at your elbow is Atwood. The town under that lake is not this one. If you come in on 39, I'll start with Cannonsburg, which is what they called it first.",
+    long: "",
+    names: ["Dellroy"]
+  },
+  {
+    id: "dellroy-cannonsburg-plat",
+    name: "Thirty-Six Lots",
+    lat: 40.5554,
+    lng: -81.1984,
+    radius: 350,
+    short: "A local history page quotes an old Free Press piece. It says Cannonsburg was laid out by Philip Crabs. William McCulley made the survey on October 2, 1849, on the west side of the southeast quarter of section thirty-six. Thirty-six lots, each sixty feet by one hundred twenty. The plat spelling is Cannonsburgh, with an h. The village site drops the h. I will not fix it. Crabs is the spelling in that quotation. I will not add a b to make it Crabbs. This pin is the village. Not a lot stake.",
+    long: "",
+    names: ["Philip Crabs", "William McCulley"]
+  },
+  {
+    id: "dellroy-two-names",
+    name: "The Town and the Post Office",
+    lat: 40.5546,
+    lng: -81.1998,
+    radius: 300,
+    short: "The same piece says that in 1876 the town was still Cannonsburgh and the post office was Leavitt, also spelled Leavitte, and that the two names ought to be made one. The history site says that happened on February 27, 1878, when the name became Dellroy. Colonel William Brown kept the first store. Samuel Allen kept the first tavern. John P. Miller and Samuel Semple had the first post office, in Brown's store. The 1876 count was one hundred sixty-five people. The 1880 census says six hundred sixty-four. I will not explain the jump. The office is still here, on East Main Street. This pin is not the old counter.",
+    long: "",
+    names: ["William Brown", "Samuel Allen"]
+  },
+  {
+    id: "dellroy-royal-dell",
+    name: "A Royal Dell",
+    lat: 40.5558,
+    lng: -81.2006,
+    radius: 300,
+    short: "Wikipedia says the origin of the name Dellroy is disputed, and then it stops. The local page gives two stories, and both of them turn on the phrase royal dell. One says Frances, called the daughter of President Grover Cleveland, said it from a train. The other says a traveling salesman said it after a night in a hotel. Here is the trouble. The name was changed in February 1878. Cleveland was not president until 1885. Frances Folsom was his wife, not his daughter. Their daughter Ruth was not born until 1891. A president's daughter cannot have named a town in 1878. I will not pick the salesman either. He has no name. This pin is the village. Not a train window.",
+    long: "",
+    names: ["Dellroy"]
+  },
+  {
+    id: "dellroy-great-trail",
+    name: "The Great Trail",
+    lat: 40.5564,
+    lng: -81.1976,
+    radius: 500,
+    short: "The village site says the place grew up on the Great Trail, the old trade path from the forks of the Ohio River up toward Lake Erie. Carroll County was formed in 1832 out of pieces of five counties. I do not have a Native town at this junction, so I will not name one. The village also calls Cannonsburg a railroad town, and the name story puts a girl on a train. I do not have the railroad's name on these pages. I will not invent the company. This pin is the road. Not a trail marker.",
+    long: "",
+    names: ["Great Trail"]
+  },
+  {
+    id: "dellroy-atwood-lake",
+    name: "The Town Under the Lake",
+    lat: 40.5528,
+    lng: -81.2024,
+    radius: 800,
+    short: "The village site says Atwood Lake was a flood-control dam, finished in 1936, priced at one point four million dollars, with twenty-eight miles of shore. It says the water covered the original town of Atwood, and that Dellroy became the eastern door to the lake. Atwood is not Dellroy. Do not tell this village's story as if the houses on the bottom were these houses. Another page says two cemeteries stayed above the water, and that a railroad bed shows when the lake drops. I have not seen that. I will not describe a station in the mud. This pin is the shore. Not a roof.",
+    long: "",
+    names: ["Atwood Lake"]
+  },
+  {
+    id: "dellroy-not-invented",
+    name: "What I Will Not Add",
+    lat: 40.5542,
+    lng: -81.1988,
+    radius: 250,
+    short: "A careless page says this place was Cottonville, named for Della Lawrence, with a covered bridge and a cotton mill. That is not the history the village or the old newspaper tells. I will not use it. Wikipedia says the town is decorated every Halloween. That is a present custom, not a founding. What is written down is a thirty-six-lot plat in 1849, a post office that did not match the town's name, and a lake that took a different village. The next place on your list is Delphos.",
+    long: "",
+    names: ["Dellroy"]
+  },
+
+  {
+    id: "approach-delphos-oh",
+    name: "Delphos",
+    lat: 40.8431,
+    lng: -84.3391,
+    radius: 4500,
+    layer: "approach",
+    short: "You are coming up on Delphos. A city about fourteen miles northwest of Lima and thirteen miles east of Van Wert. The canal is the county line. East of it is Allen County. West of it is Van Wert County. The 2020 census counted seven thousand one hundred seventeen people. In 1850 it had counted three hundred seventy-four. This was not one town. If you come in on U.S. 30, I'll start with the four names.",
+    long: "",
+    names: ["Delphos"]
+  },
+  {
+    id: "delphos-four-towns",
+    name: "Four Towns, Then a Name",
+    lat: 40.8448,
+    lng: -84.3399,
+    radius: 500,
+    short: "The city says Delphos was four little towns. Howard, to the northwest, was founded by Samuel Forrer and named for his wife's family. I do not have her name. Section Ten was to the east. West Bredeick Street was the Ferdinand Bredeick family, south of Howard. East Bredeick was Father John Otto Bredeick. A fifth place, Marble Town, was Colonel John M. C. Marble, called the city's first millionaire. It never stood on its own. In 1851 the four agreed on one name. A 1917 history says Father Bredeick suggested Delphos at a meeting, and the jealousy stopped. I do not have why he picked that word. I will not supply a Greek story. The marker on North Main says only that the Reverend John O. and Ferdinand Bredeick founded it in 1845. A caption says the start was the early eighteen-fifties, when East Bredeick and Howard merged. Three starts. I will not pick. This pin is the canal museum marker. Not a town line.",
+    long: "",
+    names: ["John Otto Bredeick", "Ferdinand Bredeick", "Howard"]
+  },
+  {
+    id: "delphos-section-ten",
+    name: "Section Ten",
+    lat: 40.8456,
+    lng: -84.3378,
+    radius: 450,
+    short: "The city says Section Ten was a plat bought from Christoph Moenning by Oramel Bliss, Benjamin Franklin Hillister, and Samuel Pettit. Hillister is the city's spelling. A 1953 marker says Section Ten was named for a section of the canal. A land section and a canal section are not the same sentence. The 1917 history says Ferdinand Bredeick made the first plat, on the west bank, and that John Otto came a couple of years later and laid out the east. A county history says both plats were 1845, John on the east side of the county line, Ferdinand on the west, surveyed by Elias Everett. I will not make those the same year. Another marker says the priest bought and founded the area in 1840. The city says a settlement stood between 1836 and 1842, and that German pioneers came between 1832 and 1846. Canal workers first, then merchants, then mills. I will not make the Germans and the canal hands the same people. This pin is the east side. Not a deed.",
+    long: "",
+    names: ["Section Ten", "Oramel Bliss"]
+  },
+  {
+    id: "delphos-first-houses",
+    name: "The First Houses",
+    lat: 40.8442,
+    lng: -84.3412,
+    radius: 400,
+    short: "The county history says Ferdinand Bredeick put up the first house on the village site. Henry Menckhans put up the first frame house. Captain McCune put up the first brick. In 1845 E. N. Morton built the first sawmill. In 1847 he built the first grist mill. In 1840, in Washington Township, ten men voted, and Thomas W. Bowdle was elected justice of the peace. That is the township, not the city election. The city incorporated in 1851. The first city election was March 3. Colonel Lester Bliss was mayor. Smith Talbott was recorder. I will not fold Lester Bliss into Oramel Bliss. This pin is the old site. Not a millstone.",
+    long: "",
+    names: ["Henry Menckhans", "E. N. Morton"]
+  },
+  {
+    id: "delphos-july-fourth",
+    name: "July Fourth, 1845",
+    lat: 40.8472,
+    lng: -84.3403,
+    radius: 400,
+    short: "The Miami and Erie was opened from end to end in 1845. Ground had been broken on July 21, 1825, just below Middletown, by DeWitt Clinton. The marker gives the length as two hundred forty-eight point eight miles, and says that here, on the Loramie Summit, the water stood five hundred twelve feet above Lake Erie. Navigation had begun on November 28, 1827, farther south. At the peak, about four hundred boats. The first boat through Delphos, the marker says, came on July 4, 1845, with Governor Bebb aboard. William Bebb did not take office until the next year. The marker is early by a title. Farmers hauled in from miles out. The marker says this port was rivaled, in the west, only by Fort Wayne. That is the marker. The same stone says this piece of canal is one of three still intact. I will not name the other two. Official operation ended in 1877. Pieces were still used into the early nineteen-hundreds. This pin is the canal. Not a lock gate.",
+    long: "",
+    names: ["Miami and Erie Canal", "William Bebb"]
+  },
+  {
+    id: "delphos-railroad",
+    name: "The Iron Came by Boat",
+    lat: 40.8464,
+    lng: -84.3384,
+    radius: 500,
+    short: "In 1854 the Ohio and Indiana Railroad was built from Crestline to Fort Wayne. The 1917 history says it is now part of the Pennsylvania Company's main line. The iron for that track came down the canal from Toledo. Two boats carried most of it. Their names were Seneca Chief and Damsel. The marker says that railroad shifted the trade, and that the rapid growth of Delphos abated. The census does not abate. Three hundred seventy-four people in 1850. Four hundred twenty-five in 1860. One thousand six hundred sixty-seven in 1870. Three thousand eight hundred fourteen in 1880. The city says that by 1879 more than a hundred factories were at work. A canal peak and a factory town can both be true. I will not erase either sentence. This pin is the railroad. Not a boat.",
+    long: "",
+    names: ["Ohio and Indiana Railroad", "Seneca Chief"]
+  },
+  {
+    id: "delphos-lincoln-highway",
+    name: "The Lincoln Highway",
+    lat: 40.8470,
+    lng: -84.3410,
+    radius: 450,
+    short: "The city says that by 1912 Delphos sat on the first transcontinental paved highway, the Lincoln Highway. The Lincoln Highway was organized in 1913. It was a named line of roads, not a finished pavement from ocean to ocean. U.S. 30 follows that line through here now. I will not move 1913 back to 1912, and I will not call the city a liar for the sentence it printed. This pin is the highway. Not a brick.",
+    long: "",
+    names: ["Lincoln Highway"]
+  },
+  {
+    id: "delphos-not-invented",
+    name: "What I Will Not Add",
+    lat: 40.8424,
+    lng: -84.3368,
+    radius: 350,
+    short: "These pages do not give Delphos a battlefield, a Native town, or a reason for the name beyond a priest at a meeting. I will not add an oracle. What is written down is four settlements on a canal, a boat on the Fourth of July in 1845, and railroad iron that arrived by water. The next place on your list is Delta.",
+    long: "",
+    names: ["Delphos"]
+  },
+  {
+    id: "approach-delta-oh",
+    name: "Delta",
+    lat: 41.5750,
+    lng: -84.0025,
+    radius: 3500,
+    layer: "approach",
+    short: "You are coming up on Delta. A village in Fulton County, in the Maumee River's watershed. Bad Creek runs through it. The 2020 census counted three thousand three hundred sixteen people. A history printed in 1877 counted about fifteen hundred. A post office called Delta has been open since 1837. I do not have the reason for the name. If you come in on Main Street, I'll start with the woods, not the charter.",
+    long: "",
+    names: ["Delta"]
+  },
+  {
+    id: "delta-six-mile-woods",
+    name: "Six Mile Woods",
+    lat: 41.5742,
+    lng: -84.0012,
+    radius: 500,
+    short: "An 1877 county history, quoting the Delta Avalanche, says it is generally conceded that the first settler in what was then called the Six Mile Woods was a Mr. Meeker, in the fall of 1833. He cut a place where S. H. Cately later lived. In the spring of 1834 William Fewlas and his brother came from Long Island. James McQuillin, the book says, was the first on the ground where the village stands, sometime in 1834. He also put a sawmill on the creek, not far from where H. E. Bassett later lived. The book does not name that creek. I will not swear it is Bad Creek, though Bad Creek is the stream through the village now. Generally conceded is the book's own hedge. This pin is the village. Not Meeker's clearing.",
+    long: "",
+    names: ["James McQuillin", "Six Mile Woods"]
+  },
+  {
+    id: "delta-not-a-village-yet",
+    name: "Not a Village Yet",
+    lat: 41.5739,
+    lng: -83.9972,
+    radius: 350,
+    short: "A 1976 marker on East Main, now gone and not to be replaced, called Delta the first village in Fulton County, and dated it 1834. Fulton County was not organized until 1850. The 1877 book says sixty residents petitioned, and the village was incorporated on August 3, 1863. William Critzer was mayor. Charles Cullen was clerk. The council was D. H. Pettys, J. T. Gates, A. M. Carpenter, O. T. Clark, and Simon Zimmerman. Wikipedia says established that same day, and incorporated about 1863. A settlement, a post office, and a charter are three different things. This pin is the old marker's corner. Not a seal.",
+    long: "",
+    names: ["William Critzer"]
+  },
+  {
+    id: "delta-plank-road",
+    name: "Ten Cents",
+    lat: 41.5746,
+    lng: -83.9984,
+    radius: 400,
+    short: "The 1877 book says the roads were bad and the village grew slowly until about 1850, when a plank road was laid from here to Toledo. The removed marker says the plank road from Toledo to West Unity opened in 1853, and the toll was ten cents. About 1850 and 1853 are not the same year. I will not average them. A flour mill came after the road. Brick blocks replaced the log houses. By the time that book was written, the plank road's place had been taken by the Air Line division of the Lake Shore and Michigan Southern. I do not have the year the rails arrived. A directory for 1867 counts one flour mill, one sawmill, and one shingle mill. Rufus S. Merrill is named postmaster in that directory. That does not make him the first. This pin is Main Street. Not a toll gate.",
+    long: "",
+    names: ["Lake Shore and Michigan Southern"]
+  },
+  {
+    id: "delta-king-farm",
+    name: "The King Farm",
+    lat: 41.5590,
+    lng: -84.0015,
+    radius: 600,
+    short: "A monument on Route 109, south of County Road F, says William and Elizabeth King and their children bought section twenty-four on June 4, 1834, in the Six Mile Woods, after selling land in Ireland. The children named are James, John, Elizabeth, Jane, Mary, Catherine, and William. The marker says the son William hated slavery. It also says he bought enslaved people, as rector of Mathews Academy at Louisiana College and for his own plantation, and that he inherited others when his wife and daughter died in Edinburgh. Both sentences are on the stone. I will not drop one to clean the other. He studied at New College of the Free Church of Scotland, which the marker calls an anti-slavery church. This pin is the monument. Not the farmhouse.",
+    long: "",
+    names: ["William King", "Elizabeth King"]
+  },
+  {
+    id: "delta-fifteen-months",
+    name: "Fifteen Months",
+    lat: 41.5596,
+    lng: -84.0022,
+    radius: 500,
+    short: "The same stone says that on May 5, 1848, the Reverend King and fifteen enslaved people left East Feliciana, Louisiana. It gives the road as the Mississippi, the Ohio to Cincinnati, the Ohio canal to Toledo, then overland to the King farm, which it calls a known Underground Railroad station. It says the house had become a Sabbath center, with services in the barn, and that brothers John and William then established the First Presbyterian Church of Delta. It says the fifteen, now called freed, stayed with the King families for fifteen months. King went on to Canada and laid out the Elgin Settlement, the Buxton mission, in Raleigh Township, Kent County, Ontario. On November 28, 1849, the marker says, he and they were the first settlers there. It calls Buxton the most successful colony of its kind. That is the stone's judgment. It says Harriet Beecher Stowe put King and his wife, Mary Phares, into the novel Dred. I have not read that novel for you. I do not have the names of the fifteen. This pin is the monument. Not Buxton.",
+    long: "",
+    names: ["Buxton", "Mary Phares"]
+  },
+  {
+    id: "delta-not-invented",
+    name: "What I Will Not Add",
+    lat: 41.5762,
+    lng: -84.0122,
+    radius: 300,
+    short: "There is no canal through Delta. The canal in this story ended at Toledo. In Greenlawn Cemetery a 1923 monument is dedicated to the soldiers of all wars. I will not read you every plaque. These pages do not tell me why the town is called Delta, and they do not give me a Native village in the Six Mile Woods. What is written down is a clearing in 1833, a charter in 1863, a plank road with two dates, and a farm the marker calls a station on the way to Canada. The next place on your list is Dennison.",
+    long: "",
+    names: ["Delta"]
+  },
+
+  {
+    id: "approach-dennison-oh",
+    name: "Dennison",
+    lat: 40.3978,
+    lng: -81.3272,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Dennison. A village in Tuscarawas County, in Mill and Union townships. Uhrichsville is the next town, not this yard. The 2020 census counted two thousand seven hundred nine people. In 1920 it had counted five thousand five hundred twenty-four. The depot is still standing. The shops around it are not. If you come in on the old Panhandle, I'll start with the water stop.",
+    long: "",
+    names: ["Dennison"]
+  },
+  {
+    id: "dennison-water-stop",
+    name: "A Hundred Miles",
+    lat: 40.3966,
+    lng: -81.3294,
+    radius: 450,
+    short: "The village says coal and the railroad made this place, because it sits about halfway between Pittsburgh and Columbus, a hundred miles from each, and a steam engine wanted water on about that spacing. The museum says an engine only went a hundred miles before it needed coal, water, and a new crew, and that the site was chosen for that. A marker says the Steubenville and Indiana was chartered in 1849, opened in 1855, and taken into the Pennsylvania system in 1870. The museum says that 1855 line became the Pittsburgh, Cincinnati and St. Louis in 1868. I will not make 1868 and 1870 the same year. In 1864 that railroad began the shops here. The museum calls 1864 the founding, as a water stop. The Dennison Land Company laid out the town in 1865. The census already counted eight hundred twenty-eight people in 1870. The village was incorporated in 1873 and named for Governor William Dennison. He had been governor in the first years of the Civil War, not in 1873. The depot went up that same year, because passenger traffic wanted a station. A plat, a water stop, and a charter are three dates. This pin is the depot. Not a survey stake.",
+    long: "",
+    names: ["William Dennison", "Steubenville and Indiana Railroad"]
+  },
+  {
+    id: "dennison-altoona",
+    name: "Altoona of the Panhandle",
+    lat: 40.3954,
+    lng: -81.3310,
+    radius: 600,
+    short: "The marker calls the yard the Altoona of the Panhandle. It had foundries, machine shops, and two roundhouses. The village says the Pittsburgh, Cincinnati and St. Louis put the country's largest shops here, on forty acres. Largest is the village's word. At the turn of the century the museum counts twenty-one passenger trains a day, twenty-one freights, and three thousand railroad employees. The village says the same three thousand at the peak, in the roundhouses, the turntables, and the foundries. It says the village became a freight and passenger terminal and the headquarters of the Panhandle Division, on the direct line from New York to St. Louis. The Pennsylvania Railroad took the company in. Later the line was Conrail's. I will not tell you which roundhouse stood on which side. This pin is the old yard. The depot is the only railroad building left in those forty acres.",
+    long: "",
+    names: ["Panhandle Division", "Pennsylvania Railroad"]
+  },
+  {
+    id: "dennison-coal",
+    name: "Mines South of Town",
+    lat: 40.3908,
+    lng: -81.3286,
+    radius: 700,
+    short: "The village says the Dennison Coal Company had mines south of town. That is the sentence. I do not have a shaft, a seam, or a year. I will not invent a cave-in. The coal and the water together are why the shops sat here. This pin is south of the village. Not a tipple.",
+    long: "",
+    names: ["Dennison Coal Company"]
+  },
+  {
+    id: "dennison-after-the-peak",
+    name: "After 1920",
+    lat: 40.3986,
+    lng: -81.3258,
+    radius: 400,
+    short: "The census peak on the table I have is 1920, five thousand five hundred twenty-four. By 1930 it was four thousand five hundred twenty-nine. The village says a strike in 1922 marked the end of the good years. It does not give me the strike's name. A later article adds diesel engines and the automobile. I will not pretend those are one cause. The last passenger train was in 1968. The village bought the depot from Conrail in 1984. The marker says it was restored and reopened in 1989, in memory of the railroaders, the travelers, and the service men and women who came through the doors. It is on the National Register, and it is a National Historic Landmark. In 1992 the Ohio Central brought freight back, as the Columbus and Ohio River Railroad. The village says Genesee and Wyoming run the line now. This pin is the village. Not a diesel.",
+    long: "",
+    names: ["Conrail"]
+  },
+  {
+    id: "dennison-dreamsville",
+    name: "Dreamsville",
+    lat: 40.3972,
+    lng: -81.3288,
+    radius: 350,
+    short: "Wikipedia says that in the first war the Red Cross ran a canteen from a boxcar. The museum says Dennison was a canteen town in both wars. I will not describe that boxcar. In the second war the marker says the Salvation Army Servicemen's Canteen ran all day, every day, from March 1942 to April 1946, and that more than one point three million soldiers got food and a word. The museum's dates are tighter. March 19, 1942, to April 8, 1946. It says Lucille Nussdorfer started it, and the Salvation Army came in after. It counts three thousand nine hundred eighty-seven volunteers, six hundred one thousand five hundred twenty hours, and one million three hundred nineteen thousand four hundred thirty-nine dollars. It says they never closed and never ran out of food or money. That is the museum. The marker's nickname is Dreamsville, Ohio. The village and the museum say Dreamsville, U.S.A. The village says the soldiers took it from a Glenn Miller song about an ideal small town. I do not have the title of that song. I will not guess it. This pin is the depot. Not a sandwich.",
+    long: "",
+    names: ["Lucille Nussdorfer", "Dreamsville"]
+  },
+  {
+    id: "dennison-not-invented",
+    name: "What I Will Not Add",
+    lat: 40.3994,
+    lng: -81.3246,
+    radius: 300,
+    short: "These pages give Dennison no battlefield and no Native town. I will not borrow Uhrichsville to fill the gap. What is written down is a water stop between Pittsburgh and Columbus, a yard that called itself the Altoona of the Panhandle, and a depot that fed troop trains for four years. The next place on your list is Deshler.",
+    long: "",
+    names: ["Dennison"]
+  },
+
+  {
+    id: "approach-deshler-oh",
+    name: "Deshler",
+    lat: 41.2075,
+    lng: -83.9056,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Deshler. A village in Henry County, about forty-five miles southwest of Toledo. The streets are laid around the railroad. The 2020 census counted one thousand five hundred eighty-eight people. A newspaper in 1968 called it a village of about two thousand. That was not a census. Two main lines still cross here. The depot does not. If you come in on the diamond, I'll start with the man who owned the ground.",
+    long: "",
+    names: ["Deshler"]
+  },
+  {
+    id: "deshler-john-deshler",
+    name: "The Owner's Name",
+    lat: 41.2070,
+    lng: -83.9044,
+    radius: 400,
+    short: "Wikipedia says Deshler was platted in 1873 and named for John G. Deshler, the original owner of the town site. A post office has been here since 1872, a year before the plat. The village was incorporated in 1876. A local page gives the day as April 30. The encyclopedia does not. I do not have John Deshler's trade, or where he lived. I will not make him a banker to fill the hole. This pin is the village. Not his deed.",
+    long: "",
+    names: ["John G. Deshler"]
+  },
+  {
+    id: "deshler-diamond",
+    name: "The Diamond",
+    lat: 41.2065,
+    lng: -83.9019,
+    radius: 350,
+    short: "The encyclopedia says that since the early nineteen-hundreds the Baltimore and Ohio was the town's living, and that Deshler was called the Crossroads of the B and O. It says the Detroit and Toledo to Cincinnati line crossed the Chicago to Washington main line. A local page says the first crossing was the Dayton and Michigan and the Baltimore and Ohio, and that mergers later made it the B and O from Toledo to Cincinnati crossing the B and O from Chicago to Willard. Washington and Willard are not the same end of the road. I will not pick one sentence and throw out the other. The second depot stood on Main Street, in the north corner of the diamond. It was torn down on August 11, 2022. An earlier depot last shows on a fire-insurance map in 1915. The 1923 map shows the newer one in the same place. The freight house sat across the tracks to the north. C S X runs both lines now. The encyclopedia says about fifty to seventy trains a day. People still come to watch them from Crossroads Park, and a camera watches the diamond. This pin is where the passenger station was. Not a train.",
+    long: "",
+    names: ["Baltimore and Ohio Railroad"]
+  },
+  {
+    id: "deshler-corn-city",
+    name: "The Corn City",
+    lat: 41.2082,
+    lng: -83.9064,
+    radius: 350,
+    short: "A local page says the town is known in the region as the Corn City. It says the name got onto signs, and onto the Corn City Bar, which is gone. I do not have a year for the nickname, or a reason better than the fields. I will not invent a festival. This pin is the village. Not a grain elevator.",
+    long: "",
+    names: ["Deshler"]
+  },
+  {
+    id: "deshler-bring-us-together",
+    name: "Bring Us Together",
+    lat: 41.2068,
+    lng: -83.9032,
+    radius: 400,
+    short: "On October 22, 1968, Richard Nixon spoke from the back of a campaign train. The New York Times says Vicki Lynne Cole, thirteen, an eighth grader, had gone to the fire station after school with her friend Rita Bowman to be a Nixonette. She picked a hand-lettered sign up off the ground. The words were Bring Us Together Again. Someone teased her that it was about boys. She laughed and lowered it. After the train left in the dusk, she threw the sign away. Nixon, in his victory speech on November 6, remembered a sign in Deshler that said Bring Us Together. He dropped the word Again. He said the town was little, and that he supposed five times its population was there. He did not say her name that night. She came forward after. At the 1969 inaugural parade she carried a recreation of the sign, not the one she had thrown away. In 1994 she said that when he left, the country was more divided than ever. A local newscast says he used the line in the inaugural speech and invited her family. The speech I can cite is the victory speech. I will not glue the two. Her mother taught third grade. Her father had a church of about three hundred here, a smaller church in Hoytville, six miles east, and worked with migrant workers in Head Start. This pin is the village. Not the train step.",
+    long: "",
+    names: ["Vicki Lynne Cole", "Richard Nixon"]
+  },
+  {
+    id: "deshler-names-only",
+    name: "Names I Will Not Stretch",
+    lat: 41.2088,
+    lng: -83.9048,
+    radius: 300,
+    short: "The encyclopedia has a photograph of Ronald Reagan in Deshler in 1984. The caption does not say why he came. I will not invent a speech. The same page lists Jerry Fosnow, Marc Krauss, and Rich Reese as ballplayers, Willard Rhodes as an ethnomusicologist, and Harold McMaster as a scientist and inventor. Those are labels. I do not have their Deshler years on the page I read. The names are here so a later story can find them. This pin is the village. Not a biography.",
+    long: "",
+    names: ["Harold McMaster", "Ronald Reagan"]
+  },
+  {
+    id: "deshler-not-invented",
+    name: "What I Will Not Add",
+    lat: 41.2058,
+    lng: -83.9072,
+    radius: 300,
+    short: "These pages give Deshler no canal, no battlefield, and no Native town. The diamond is still here. The depot is not. What is written down is a post office in 1872, a plat in 1873, a crossing of two railroads, and a sign a girl picked up off the ground. The next place on your list is Dexter City.",
+    long: "",
+    names: ["Deshler"]
+  },
+
+  {
+    id: "approach-dexter-city-oh",
+    name: "Dexter City",
+    lat: 39.6592,
+    lng: -81.4739,
+    radius: 1800,
+    layer: "approach",
+    short: "You are coming up on Dexter City. A village in Noble County, mostly in Jefferson Township, with a piece of the lots in Jackson. It sits on the West Fork of Duck Creek. The name says city. The 2020 census counted eighty-one people. In 1900 it had counted two hundred seventy-eight, the high number on the table I have. South Olive is two miles north, on the same old railroad. That is not this plat. If you come in on the creek, I'll start with August 5, 1870.",
+    long: "",
+    names: ["Dexter City"]
+  },
+  {
+    id: "dexter-city-plat",
+    name: "August Fifth",
+    lat: 39.6596,
+    lng: -81.4732,
+    radius: 250,
+    short: "A Noble County history says the town site was laid off into lots on August 5, 1870, by R. W. St. John, surveyor, for Hiram Flanders, the proprietor. Another county book uses the same day and the same two men. The clearer book then counts the additions. David McKee's first, lots twenty to thirty-three, surveyed by George Bell on February 11, 1871. McKee's second, lots thirty-three to forty-one, on March 12, 1875. John Smithson's, lots forty-one to forty-nine, on April 18, 1876. J. J. Shriver's seven lots, surveyed by William Lowe on December 29, 1877. U. J. Cheshire's, surveyed by St. John again on April 20, 1882. A modern map still prints McKee, Smithson, and Flanders as street names. I have not walked them. This pin is the village. Not a lot corner.",
+    long: "",
+    names: ["Hiram Flanders", "R. W. St. John"]
+  },
+  {
+    id: "dexter-city-sullivan",
+    name: "Two Houses Already",
+    lat: 39.6588,
+    lng: -81.4746,
+    radius: 250,
+    short: "Wikipedia says the town was named for Dexter W. Sullivan, an early settler. One county book says he put up the first building after the plat was surveyed. The other says he was a well-known resident, and that two houses already stood here before the town was located. I will not throw out the houses to make him first, and I will not throw out the first-building sentence. The scan breaks the names of those two houses. I will not guess them. The same broken page says someone was the first hotel keeper. I will not hang that job on Sullivan. This pin is the village. Not a cabin.",
+    long: "",
+    names: ["Dexter W. Sullivan"]
+  },
+  {
+    id: "dexter-city-mckee",
+    name: "The First Store",
+    lat: 39.6594,
+    lng: -81.4748,
+    radius: 200,
+    short: "The Watkins history says David McKee opened the first store in 1871, in the building that was later E. P. Sullivan's store. The second store was Campbell and Brown. The third was Thomas La Mott's hardware. One county book says McKee's was the second building, and that he put a stock of goods in it as soon as it was finished, and so was the first merchant. The first postmaster was Oscar W. Hussey. That book says the office was established in 1872. A post-office list says Dexter City opened in 1871. I will not average the year. This pin is the village. Not a counter.",
+    long: "",
+    names: ["David McKee", "Oscar W. Hussey"]
+  },
+  {
+    id: "dexter-city-railroad",
+    name: "The Summer the Track Arrived",
+    lat: 39.6584,
+    lng: -81.4734,
+    radius: 400,
+    short: "Both books put the town on the Cleveland and Marietta Railroad. One says the road was finished to this point about the time the lots were laid off, which is 1870. The other says the track was completed here in the summer of 1871, and that the railroad built the town. It says Dexter was nearly its then size within three years. The first book says the boom came from the railroad and the adjacent oil field, and then the place settled. I do not have the name of a well. I will not borrow the Thorla well from Caldwell. I do not have what company, if any, still runs a train through here. This pin is the old line. Not a well.",
+    long: "",
+    names: ["Cleveland and Marietta Railroad"]
+  },
+  {
+    id: "dexter-city-three-hundred-fifty",
+    name: "About Three Hundred Fifty",
+    lat: 39.6600,
+    lng: -81.4740,
+    radius: 250,
+    short: "The Watkins history says the town was incorporated in 1882. It says that in its own time Dexter City had one church, a good school, and about three hundred fifty people. The census high I can read is two hundred seventy-eight, in 1900. I will not make three hundred fifty and two hundred seventy-eight the same count. An Odd Fellows lodge, number four hundred ninety-six, was instituted on August 22, 1871. The charter names are G. J. Lund, Albert Tilton, Aaron Haines, L. D. Webber, W. P. Warren, James Burton, O. W. Hussey, and John B. Sammons. The book also names Dr. J. W. Kraps. The encyclopedia's picture is a Methodist church. The old book only says one church. I will not swear they are the same building. This pin is the village. Not a lodge hall.",
+    long: "",
+    names: ["Dexter City"]
+  },
+  {
+    id: "dexter-city-not-invented",
+    name: "What I Will Not Add",
+    lat: 39.6578,
+    lng: -81.4752,
+    radius: 200,
+    short: "These pages give Dexter City no battlefield and no Native town. South Olive, laid out in August 1871 with thirteen lots, is the next stop up the railroad, not this one. What is written down is a plat on August 5, 1870, a store in 1871, and a railroad that two books date a year apart. The next place on your list is Dillonvale.",
+    long: "",
+    names: ["Dexter City"]
+  },
+  {
+    id: "approach-dillonvale-jefferson-oh",
+    name: "Dillonvale",
+    lat: 40.1986,
+    lng: -80.7756,
+    radius: 1800,
+    layer: "approach",
+    short: "You are coming up on Dillonvale, in Jefferson County. Not the Dillonvale in Belmont County. This one sits in the valley under Mount Pleasant, in Mount Pleasant and Smithfield townships, on Short Creek. State Routes 150 and 152 meet here. The church on that corner is Saint Adalbert. I do not have the year of the parish. The 2020 census counted five hundred eighty-nine people. A local history says that when the village incorporated, in 1902, it had two thousand, and that it was the fourth largest town in the county. The census I can read starts in 1910, at one thousand five hundred nineteen. The high on that table is one thousand six hundred fifty-two, in 1940. I will not make two thousand and those counts the same number. If you come down off the hill, I'll start with a name that did not stick.",
+    long: "",
+    names: ["Dillonvale"]
+  },
+  {
+    id: "dillonvale-annadelphia",
+    name: "Annadelphia",
+    lat: 40.1994,
+    lng: -80.7748,
+    radius: 350,
+    short: "The village site says founded in 1816. Wikipedia says it was laid out in 1816 under the name Annadelphia. A local history is plainer. Nathan Updegraff, from Winchester, Virginia, platted it in February 1816, and the town was not occupied then. I do not have why he called it Annadelphia. I will not invent a woman named Anna. The same page says he later started a flour and feed mill in a four-story stone building in Mount Pleasant Township, and the Pioneer Paper Mill. Later, and in the township, is not the empty plat. The Updegraff-Barkhurst mill burned in 1903. Mount Pleasant, on the hill, is a different town. I will not move its story down into this valley. This pin is the valley. Not the 1816 stakes.",
+    long: "",
+    names: ["Nathan Updegraff", "Annadelphia"]
+  },
+  {
+    id: "dillonvale-thirty-three-lots",
+    name: "Thirty-Three Lots",
+    lat: 40.1982,
+    lng: -80.7762,
+    radius: 300,
+    short: "In February 1889, the local history says, thirty-three more lots were surveyed. The name was changed to Dillon, for an official of the Wheeling and Lake Erie Railroad, and then changed again to Dillonvale. I do not have that official's first name, or why vale was added. Wikipedia says nothing much became of the town until the railroad came through in 1889, when a new plat was made and the names Dillon, and later Dillonvale, were adopted. A post office was established in 1889. The railroad, the new lots, and the post office are the start that filled the valley. The 1816 date on the village sign is the empty plat. This pin is the village. Not a lot pin.",
+    long: "",
+    names: ["Dillonvale"]
+  },
+  {
+    id: "dillonvale-yard",
+    name: "The Yard",
+    lat: 40.1976,
+    lng: -80.7770,
+    radius: 400,
+    short: "The local history says the Wheeling and Lake Erie opened in 1889 and gave the town its growth. Several hundred men worked in the Dillonvale yard. The town was also the terminal of the Lake Erie, Alliance and Wheeling branch of the New York Central. The page says the Wheeling and Lake Erie became part of the Nickel Plate, and then of the Norfolk and Southern system. That is the page's chain. I will not redraw the corporate tree. This pin is the old yard. Not a roundhouse.",
+    long: "",
+    names: ["Wheeling and Lake Erie Railroad"]
+  },
+  {
+    id: "dillonvale-thousand-tons",
+    name: "A Thousand Tons a Day",
+    lat: 40.1968,
+    lng: -80.7742,
+    radius: 500,
+    short: "The Wheeling and Lake Erie Coal Company leased six thousand acres along Short Creek, in Smithfield, Dillonvale, Mount Pleasant, and Warren townships. The local history says Dillonvale was the principal mining point. The mine opened in 1893. The daily capacity was one thousand tons. It says hundreds of men and women and children worked for the coal mines. Worked for is the sentence. I will not send the children underground on a guess. This pin is the valley. Not a tipple.",
+    long: "",
+    names: ["Wheeling and Lake Erie Coal Company"]
+  },
+  {
+    id: "dillonvale-twenty-three-saloons",
+    name: "Twenty-Three Saloons",
+    lat: 40.1990,
+    lng: -80.7768,
+    radius: 250,
+    short: "The First National Bank of Dillonvale started around 1901. By 1910 its deposits were two hundred fifty thousand dollars. The page says that bank is now the Steel Valley Bank. Bradt's department store burned in 1905. Mercer's drug store is dated 1906. There was also Jones drug store, and Robert Humpreville, jeweler and optician. That is the spelling on the page. Two livery stables, the Barkhurst Hotel. Twenty-three saloons. The page says the town dried up only temporarily, during prohibition in 1908. National prohibition was not 1908. I will not move their date. The doctors were Dr. Mercer and Dr. McMillen, who came in 1890. The lodges named are the Dames of Malta, the Knights of Pythias, the Redmen, and the Eagles. This pin is the village. Not a bar.",
+    long: "",
+    names: ["Dillonvale"]
+  },
+  {
+    id: "dillonvale-schools",
+    name: "A School Before the Town",
+    lat: 40.2000,
+    lng: -80.7750,
+    radius: 300,
+    short: "The same local history says schools in the area organized a graded system and a village high school in 1861. That is twenty-eight years before the railroad, and before anyone lived on the Annadelphia plat. In the area is the page's own limit. I will not put that school inside an empty town. A brick building of about 1907 had ten rooms and an auditorium, two rooms for high school. The first class graduated in 1911. In 1921 a building went up behind it, and within a year the first one burned. A new building was started in August 1924, sixteen rooms, an auditorium for seven hundred fifty. A bank building was moved behind it for industrial arts. The page says all three were still standing, in disarray, by the city building. In 1926 the grades had more than six hundred, and the high school one hundred twenty-five. This pin is the school ground. Not the 1861 term.",
+    long: "",
+    names: ["Dillonvale"]
+  },
+  {
+    id: "dillonvale-not-invented",
+    name: "What I Will Not Add",
+    lat: 40.1972,
+    lng: -80.7736,
+    radius: 250,
+    short: "These pages give this Dillonvale no battlefield and no Native town. I will not borrow Mount Pleasant's Quakers to fill the valley. What is written down is an empty plat in 1816, a railroad and a new name in 1889, and a mine that the page rated at a thousand tons a day. The next place on your list is the other Dillonvale, in Belmont County.",
+    long: "",
+    names: ["Dillonvale"]
+  },
+  {
+    id: "approach-dillonvale-hamilton-oh",
+    name: "Dillonvale",
+    lat: 39.2172,
+    lng: -84.4031,
+    radius: 2000,
+    layer: "approach",
+    short: "You are coming up on the other Dillonvale. This one is in Sycamore Township, Hamilton County, north of Cincinnati. It is not the village under Mount Pleasant, and it is not in Belmont County. I said Belmont last time. That was wrong. This Dillonvale is not a village. It is a census-designated place. The census counted three thousand four hundred thirty-six people here in 2020, and three thousand seven hundred sixteen in 2000. A census table I have also lists four thousand two hundred nine in 1990 and three thousand four hundred seventy-four in 2010. It has never had a mayor. If you are on the interstate, I'll start with the builder, not a mine.",
+    long: "",
+    names: ["Dillonvale"]
+  },
+  {
+    id: "dillonvale-hamilton-builders",
+    name: "Dillon Builders",
+    lat: 39.2178,
+    lng: -84.4024,
+    radius: 400,
+    short: "Wikipedia gives this place one sentence of history. Dillonvale started as a housing subdivision planned and built by Dillon Builders in the nineteen-forties. I do not have the builder's first name. I do not have the month, or the plat-book page. I will not borrow a page number from a site I don't trust. A neighborhood count says about eighty-eight percent of the houses went up between 1940 and 1969. That is a housing study, not a charter. I will not say these were G.I. Bill houses. The page does not say that. This pin is the subdivision. Not a town square.",
+    long: "",
+    names: ["Dillon Builders"]
+  },
+  {
+    id: "dillonvale-hamilton-not-a-town",
+    name: "Not a Town",
+    lat: 39.2164,
+    lng: -84.4040,
+    radius: 400,
+    short: "Sycamore Township is the government. Dillonvale is the name the census uses so it can count the houses. The geographic survey entered it as a census place. That does not make it incorporated. There is no railroad story on the page, no coal mine, no post office date, and no church I can put a year on. Kenwood is the nearer name on the map. I will not tell you Kenwood's history and call it this place. This pin is the census line. Not a city hall.",
+    long: "",
+    names: ["Sycamore Township"]
+  },
+  {
+    id: "dillonvale-hamilton-not-invented",
+    name: "What I Will Not Add",
+    lat: 39.2184,
+    lng: -84.4016,
+    radius: 300,
+    short: "The seven kinds of story do not all live here. No plat from the eighteen-hundreds, no river landing, no battlefield, no Native town on the page I can cite, and no local legend I am willing to invent so the card is not short. What is written down is a subdivision from the nineteen-forties, still unincorporated, still losing people slowly since 1990. The Jefferson County Dillonvale is the one with the railroad and the mine. This one only shares the name. The next place on your list is Donnelsville.",
+    long: "",
+    names: ["Dillonvale"]
+  },
+  {
+    id: "approach-donnelsville-oh",
+    name: "Donnelsville",
+    lat: 39.9153,
+    lng: -83.9431,
+    radius: 1800,
+    layer: "approach",
+    short: "You are coming up on Donnelsville. A village in Bethel Township, Clark County, in the Springfield area. The old National Road is the main street. The plat says the town sits eight miles west of Springfield. The 2020 census counted two hundred fifty-five people. The high on the table I have is three hundred four, in 2010. In 1850 it was one hundred ninety-six. If you are on the old road, I'll start with two dates that do not match.",
+    long: "",
+    names: ["Donnelsville"]
+  },
+  {
+    id: "donnelsville-two-dates",
+    name: "1830 or 1836",
+    lat: 39.9158,
+    lng: -83.9424,
+    radius: 250,
+    short: "Wikipedia says Donnelsville was platted in 1830 by James Donnel, and named for him. A post office called Donnelsville was established in 1840. The plat copied by the Medway Area Historical Society says something else. It was laid out by James Donnels and Abraham Smith, on the National Road, in sections three and four, township three, range nine, of the land between the Miami rivers. Surveyed August 9, 1836, by Reuben Miller, county surveyor, Andrew Thompson the deputy. Received September 15. Recorded September 24, 1836. The recorder's name on that copy reads G. Handenhott. I will not correct the spelling. I will not throw out 1830 to save 1836, or the other way around. The office in 1840 is after both dates. This pin is the village. Not a survey stake.",
+    long: "",
+    names: ["James Donnels", "Abraham Smith"]
+  },
+  {
+    id: "donnelsville-national-road",
+    name: "Main Street Is the Road",
+    lat: 39.9148,
+    lng: -83.9436,
+    radius: 300,
+    short: "The same plat says the lots run five poles east and west and eight poles north and south. A stone with a cross on it was planted at the southwest corner of lot number one, as the beginning. Main Street is the National Road, and it is eighty feet wide. Hampton Street is sixty feet. Harrison Street is three poles. The west alley is twenty-eight feet. The east alley is one pole. The other streets and alleys sit at right angles to Main. I have not looked for the stone. This pin is the old road through the village. Not the stone.",
+    long: "",
+    names: ["National Road"]
+  },
+  {
+    id: "donnelsville-1844",
+    name: "Smith's Addition",
+    lat: 39.9162,
+    lng: -83.9442,
+    radius: 250,
+    short: "The same copy certifies an addition of lots laid out by Abraham Smith, surveyed on the second and third of August, 1844. It starts at a stone marked A on the plat, in section four. I do not have the 1859 addition a later page talks about, so I will not date it. James Donnels and Abraham Smith are the two names on the first plat. The encyclopedia names only James, and spells him Donnel, without the s. I will not pick a spelling. This pin is the village. Not the added lots.",
+    long: "",
+    names: ["Abraham Smith"]
+  },
+  {
+    id: "donnelsville-the-count",
+    name: "Never a Big Town",
+    lat: 39.9150,
+    lng: -83.9418,
+    radius: 250,
+    short: "The census table I have starts at one hundred ninety-six in 1850, then two hundred thirty-three in 1860. There is no 1870 line. One hundred ninety-four in 1880. Two hundred forty-three in 1890. Two hundred in 1900. The low is one hundred sixty-six, in 1920. The high is three hundred four, in 2010. Then two hundred fifty-five again in 2020. A road town that never got much bigger than the first count. I do not have a railroad station inside the village. I will not move one here from two miles away. This pin is the village. Not a depot.",
+    long: "",
+    names: ["Donnelsville"]
+  },
+  {
+    id: "donnelsville-not-invented",
+    name: "What I Will Not Add",
+    lat: 39.9142,
+    lng: -83.9448,
+    radius: 200,
+    short: "A church stands on Main Street in the encyclopedia's picture. I do not have the year, or the denomination, from a page I trust. I will not put Jonathan Donnels here in 1795. That story is not on the plat or in the encyclopedia sentence. The creek that carries the family name is a different card, and I do not have a mill on it. What is written down is the National Road, eighty feet wide, and a plat the books date six years apart. The next place on your list is Doylestown.",
+    long: "",
+    names: ["Donnelsville"]
+  },
+  {
+    id: "approach-doylestown-oh",
+    name: "Doylestown",
+    lat: 40.9697,
+    lng: -81.6958,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Doylestown, in Wayne County. Not the one in Pennsylvania. This village sits on a hill in Chippewa Township, about thirteen miles southwest of Akron. Most of the town, including the old commercial block, is around twelve hundred fifty feet up. Silver Creek drains the east side. Mill Creek drains the north and west. Chippewa Creek drains the south and takes both of the others. The 2020 census counted three thousand fifty-one people. A local history says the count passed one thousand by 1896. That is not a census year. If you come in on Portage Street, I'll start with the man who would not sell the north side.",
+    long: "",
+    names: ["Doylestown"]
+  },
+  {
+    id: "doylestown-christmas-survey",
+    name: "Recorded on Christmas",
+    lat: 40.9702,
+    lng: -81.6952,
+    radius: 300,
+    short: "Wikipedia says Thomas Frederick, from Lancaster, Pennsylvania, put a homestead here in 1813. William Doyle, the man the town is named for, arrived in 1827 and bought fifty acres from Frederick and two other early settlers. He brought five families from Pennsylvania. On December 9, 1827, Charles Christmas, one of those five, surveyed forty lots. The survey was recorded on Christmas Day. Doyle, with help from another of the families, built the first building, a log cabin tavern. A Wayne County newspaper says the carpenter was John Montgomery, another Pennsylvania friend, and that the lots were sixty-six by one hundred ninety-eight feet, one chain by three. Twenty lots on each side of Portage Street. An acre at the square was cut into four plots. The newspaper says Frederick would not sell any more land to the north, and the village could not grow that way until Doyle left. Wikipedia's sentence says Franklin owned that north side. I will not invent a second man to reconcile the names. This pin is the old square. Not the tavern.",
+    long: "",
+    names: ["William Doyle", "Charles Christmas", "Thomas Frederick"]
+  },
+  {
+    id: "doylestown-portage",
+    name: "The Portage Street",
+    lat: 40.9692,
+    lng: -81.6964,
+    radius: 400,
+    short: "The encyclopedia says Doyle laid the forty lots at the crossing of two Native trails, on the hilltop. The newspaper is more particular about one of them. It says Portage Street was part of the portage path that ran from Akron to Wooster. I do not have the name of the second trail. The Beacon Journal says Chippewa Township takes its name from the Chippewa, and that they called this valley Nibrara, meaning beautiful valley. That translation is the newspaper's. I will not swear it. The hollow just downhill to the southeast was called Nibrara, and later Pleasant Valley, before the mines renamed it. This pin is Portage Street. Not a trail marker.",
+    long: "",
+    names: ["Chippewa"]
+  },
+  {
+    id: "doylestown-brick-and-school",
+    name: "Brick, Then a School",
+    lat: 40.9706,
+    lng: -81.6946,
+    radius: 300,
+    short: "In 1834, the encyclopedia says, Abraham Franks built a brick kiln a quarter mile southwest of the village. Other kilns came and went. Longer yards opened around the town in 1867, 1872, and 1886. In 1836 the village set up a board of education and bought ground from Frederick at what is now Portage and Gates, for a school. About ten years later a brick school replaced the wood one, and they built it taller through the eighteen-fifties. The Wayne County library says the village was incorporated on August 6, 1867. Saints Peter and Paul: the encyclopedia's picture says the church on that campus was built in 1877. I do not have the year the congregation started. In 1909 they dynamited an 1884 school on High Street and built another, with the Collinwood school fire of 1908 in mind. Hazel Harvey School went up in 1956. I do not have who Hazel Harvey was. This pin is the village. Not the kiln.",
+    long: "",
+    names: ["Doylestown"]
+  },
+  {
+    id: "doylestown-rogues-hollow",
+    name: "Rogues' Hollow",
+    lat: 40.9658,
+    lng: -81.6908,
+    radius: 700,
+    short: "Samuel Chidester settled the valley southeast of the hill. Small coal had already been taken. In 1840 David Galehouse opened a commercial mine, and Pleasant Valley became Rogues' Hollow. The encyclopedia says drinking and lawlessness came in with the miners, and that between 1840 and 1940, when the last mine closed, at least one hundred two mines had operated. I will not name a brothel. A newspaper uses that word. The count of the mines is the sentence I can stand on. This pin is the hollow. Not the square on the hill.",
+    long: "",
+    names: ["David Galehouse", "Rogues' Hollow"]
+  },
+  {
+    id: "doylestown-mowers",
+    name: "The Mower Works",
+    lat: 40.9690,
+    lng: -81.6972,
+    radius: 350,
+    short: "John Seiberling came in 1860 to build a factory for a mowing machine that raked its own hay. The next year Excelsior Mowers and Droppers was in the village. The plant was modernized in 1887, as the mines were slowing. A fire in 1901 knocked the mower works down. I will not make him the founder of a tire company. The page I have is about mowers. Aluminum shops replaced some of the lost work in the eighteen-nineties and after 1900. Midwest Container started in 1946. As of 2023 the encyclopedia still had it here, under the name Mid-West Poly Pak. There is a Doughboy statue in town. I do not have the year it went up. The same man, William Doyle, is credited with starting Rittman. That is a different town. This pin is the village. Not the factory.",
+    long: "",
+    names: ["John Seiberling"]
+  },
+  {
+    id: "doylestown-not-invented",
+    name: "What I Will Not Add",
+    lat: 40.9712,
+    lng: -81.6938,
+    radius: 300,
+    short: "The Beacon says Jeffrey Dahmer's family lived in Doylestown when his brother David was born. That is the sentence. I will not tell the rest. These pages give the village no battlefield. The trails are the Native story I can cite, and I will not invent a town that stood on the hill before Frederick. What is written down is a forty-lot plat recorded on Christmas Day, 1827, a mine in the hollow in 1840, and a road that was already a portage. The next place on your list is Dresden.",
+    long: "",
+    names: ["Doylestown"]
+  },
+  {
+    id: "approach-dresden-oh",
+    name: "Dresden",
+    lat: 40.1242,
+    lng: -82.0083,
+    radius: 2200,
+    layer: "approach",
+    short: "You are coming up on Dresden. A village in Muskingum County, in Jefferson and Cass townships, where Wakatomika Creek meets the Muskingum. The town site says the creek is the northern edge, and that a Shawnee village called Wakatomika stood near here. The creek took the name. The 2020 census counted one thousand six hundred fifty people. The nickname on the encyclopedia is Basket Village. The basket-shaped headquarters people picture is in Newark, not in this town. If you come in along the river, I'll start with a plat the books do not date the same way.",
+    long: "",
+    names: ["Dresden", "Wakatomika"]
+  },
+  {
+    id: "dresden-german-lots",
+    name: "Lot Four, Lot Fifty-Three",
+    lat: 40.1248,
+    lng: -82.0076,
+    radius: 300,
+    short: "The town's own page, and the encyclopedia, say Dresden was laid out in 1817. A local book, quoted in the Zanesville paper, says absentee German owners laid it out that year. I do not have their names in the paragraph I can read. Lot four was reserved for a school. Lot fifty-three was the market house. Out lot forty-seven was to be a cemetery. A one-place study says the plat was 1819, and that the town was incorporated in 1825. I will not average 1817 and 1819. The same paper says a Cass settlement here lost the county seat to Zanesville. The encyclopedia's history says Jonathan Cass settled in 1799 and claimed four thousand acres. I will not follow his son off to Michigan. This pin is the village. Not the market house.",
+    long: "",
+    names: ["Jonathan Cass"]
+  },
+  {
+    id: "dresden-adams-and-lemert",
+    name: "The Mill and the Store",
+    lat: 40.1256,
+    lng: -82.0090,
+    radius: 350,
+    short: "Seth Adams is dated three ways. The encyclopedia says he had a corn-cracker mill on Wakatomika Creek in 1804. The town site says that in 1812 he kept Merino sheep brought from Spain, in or near Dresden, and that he planted the first tomatoes here from seed out of New Orleans. A one-place study puts a cracker mill of his in 1808. I will not pick the year. Laban Lemert opened the first store in a log house in 1817, the same year as the plat on the town's page. In 1818 John Cordray kept a tavern in a log cabin, on the ground later occupied by the Akeroyd House. In 1822 Lemert went into distilling. By 1833 Henry and Benjamin Roop, from Buffalo, New York, were competing with him. This pin is the village. Not the mill dam.",
+    long: "",
+    names: ["Seth Adams", "Laban Lemert"]
+  },
+  {
+    id: "dresden-side-cut",
+    name: "The Canal Missed",
+    lat: 40.1280,
+    lng: -82.0064,
+    radius: 600,
+    short: "The book says that at one count the town was thirty log cabins and one hundred twenty-eight people, and that nine people died in one week. It does not name the sickness in the lines I have. Draining a swamp started in 1827 and was not finished until 1851. In 1828 they resurveyed, widened the streets, and added alleys, because they thought the Ohio Canal would come through. It missed them. A side cut, about four miles, was then dug to the Muskingum. The paper says 1832, a trough over Wakatomika Creek, and three locks down to the river. The encyclopedia says the side cut was ready in 1831. I will not average the year. The main line of the canal, in the township, the encyclopedia dates from 1822 to 1829. The state date people repeat is July 4, 1825. I will not make those the same shovel. This pin is the side cut. Not a lock wall.",
+    long: "",
+    names: ["Ohio and Erie Canal"]
+  },
+  {
+    id: "dresden-three-incorporation-dates",
+    name: "March Eighth or Ninth",
+    lat: 40.1236,
+    lng: -82.0088,
+    radius: 250,
+    short: "The paper says the town fathers decided to incorporate in 1832, the year of the side cut in that account. The town's page says incorporated on March 9, 1835. The encyclopedia's lead says March 9. A sentence in the same history says March 8. The one-place study says 1825. Four claims. I will not vote. On July 30, 1838, A. Deffenbaugh put out the first issue of the Dresden Chronicle. A telephone exchange was started in the spring of 1901. The first subscribers were on in November. This pin is the village. Not a newspaper office.",
+    long: "",
+    names: ["Dresden"]
+  },
+  {
+    id: "dresden-longaberger",
+    name: "The Baskets",
+    lat: 40.1230,
+    lng: -82.0072,
+    radius: 400,
+    short: "The town page and the encyclopedia agree on this part. The Longaberger Company started here in 1919, in the J. W. Longaberger family, making maple splint baskets by hand. It grew to nearly two thousand people, and the pages call it the largest maker of handmade baskets in the country. The company was liquidated in 2018. Dresden claims the world's largest basket, and says Guinness said so. The basket-shaped office is in Newark. I will not put that building on this street. Saint Ann is the Catholic church in the encyclopedia's picture. The history lists a Catholic frame church in 1847 and a brick one in 1890. I will not swear those are the walls you are looking at. This pin is the village. Not the Newark basket.",
+    long: "",
+    names: ["J. W. Longaberger", "Longaberger"]
+  },
+  {
+    id: "dresden-not-invented",
+    name: "What I Will Not Add",
+    lat: 40.1264,
+    lng: -82.0102,
+    radius: 300,
+    short: "These pages give Dresden no battlefield I can put a date on. Wakatomika is the Native town they name, and I will not invent the day it was left. What is written down is a plat in 1817 or 1819, a canal that missed the town and then a side cut that found the river, and a basket shop that started in 1919. The next place on your list is Dunkirk.",
+    long: "",
+    names: ["Dresden"]
+  },
+  
+  {
+    id: "approach-delta-oh",
+    name: "Delta",
+    lat: 41.5750,
+    lng: -84.0025,
+    radius: 3500,
+    layer: "approach",
+    short: "You are coming up on Delta. A village in Fulton County, in the Maumee River's watershed. Bad Creek runs through it. The 2020 census counted three thousand three hundred sixteen people. A history printed in 1877 counted about fifteen hundred. A post office called Delta has been open since 1837. I do not have the reason for the name. If you come in on Main Street, I'll start with the woods, not the charter.",
+    long: "",
+    names: ["Delta"]
+  },
+  {
+    id: "delta-six-mile-woods",
+    name: "Six Mile Woods",
+    lat: 41.5742,
+    lng: -84.0012,
+    radius: 500,
+    short: "An 1877 county history, quoting the Delta Avalanche, says it is generally conceded that the first settler in what was then called the Six Mile Woods was a Mr. Meeker, in the fall of 1833. He cut a place where S. H. Cately later lived. In the spring of 1834 William Fewlas and his brother came from Long Island. James McQuillin, the book says, was the first on the ground where the village stands, sometime in 1834. He also put a sawmill on the creek, not far from where H. E. Bassett later lived. The book does not name that creek. I will not swear it is Bad Creek, though Bad Creek is the stream through the village now. Generally conceded is the book's own hedge. This pin is the village. Not Meeker's clearing.",
+    long: "",
+    names: ["James McQuillin", "Six Mile Woods"]
+  },
+  {
+    id: "delta-not-a-village-yet",
+    name: "Not a Village Yet",
+    lat: 41.5739,
+    lng: -83.9972,
+    radius: 350,
+    short: "A 1976 marker on East Main, now gone and not to be replaced, called Delta the first village in Fulton County, and dated it 1834. Fulton County was not organized until 1850. The 1877 book says sixty residents petitioned, and the village was incorporated on August 3, 1863. William Critzer was mayor. Charles Cullen was clerk. The council was D. H. Pettys, J. T. Gates, A. M. Carpenter, O. T. Clark, and Simon Zimmerman. Wikipedia says established that same day, and incorporated about 1863. A settlement, a post office, and a charter are three different things. This pin is the old marker's corner. Not a seal.",
+    long: "",
+    names: ["William Critzer"]
+  },
+  {
+    id: "delta-plank-road",
+    name: "Ten Cents",
+    lat: 41.5746,
+    lng: -83.9984,
+    radius: 400,
+    short: "The 1877 book says the roads were bad and the village grew slowly until about 1850, when a plank road was laid from here to Toledo. The removed marker says the plank road from Toledo to West Unity opened in 1853, and the toll was ten cents. About 1850 and 1853 are not the same year. I will not average them. A flour mill came after the road. Brick blocks replaced the log houses. By the time that book was written, the plank road's place had been taken by the Air Line division of the Lake Shore and Michigan Southern. I do not have the year the rails arrived. A directory for 1867 counts one flour mill, one sawmill, and one shingle mill. Rufus S. Merrill is named postmaster in that directory. That does not make him the first. This pin is Main Street. Not a toll gate.",
+    long: "",
+    names: ["Lake Shore and Michigan Southern"]
+  },
+  {
+    id: "delta-king-farm",
+    name: "The King Farm",
+    lat: 41.5590,
+    lng: -84.0015,
+    radius: 600,
+    short: "A monument on Route 109, south of County Road F, says William and Elizabeth King and their children bought section twenty-four on June 4, 1834, in the Six Mile Woods, after selling land in Ireland. The children named are James, John, Elizabeth, Jane, Mary, Catherine, and William. The marker says the son William hated slavery. It also says he bought enslaved people, as rector of Mathews Academy at Louisiana College and for his own plantation, and that he inherited others when his wife and daughter died in Edinburgh. Both sentences are on the stone. I will not drop one to clean the other. He studied at New College of the Free Church of Scotland, which the marker calls an anti-slavery church. This pin is the monument. Not the farmhouse.",
+    long: "",
+    names: ["William King", "Elizabeth King"]
+  },
+  {
+    id: "delta-fifteen-months",
+    name: "Fifteen Months",
+    lat: 41.5596,
+    lng: -84.0022,
+    radius: 500,
+    short: "The same stone says that on May 5, 1848, the Reverend King and fifteen enslaved people left East Feliciana, Louisiana. It gives the road as the Mississippi, the Ohio to Cincinnati, the Ohio canal to Toledo, then overland to the King farm, which it calls a known Underground Railroad station. It says the house had become a Sabbath center, with services in the barn, and that brothers John and William then established the First Presbyterian Church of Delta. It says the fifteen, now called freed, stayed with the King families for fifteen months. King went on to Canada and laid out the Elgin Settlement, the Buxton mission, in Raleigh Township, Kent County, Ontario. On November 28, 1849, the marker says, he and they were the first settlers there. It calls Buxton the most successful colony of its kind. That is the stone's judgment. It says Harriet Beecher Stowe put King and his wife, Mary Phares, into the novel Dred. I have not read that novel for you. I do not have the names of the fifteen. This pin is the monument. Not Buxton.",
+    long: "",
+    names: ["Buxton", "Mary Phares"]
+  },
+  {
+    id: "delta-not-invented",
+    name: "What I Will Not Add",
+    lat: 41.5762,
+    lng: -84.0122,
+    radius: 300,
+    short: "There is no canal through Delta. The canal in this story ended at Toledo. In Greenlawn Cemetery a 1923 monument is dedicated to the soldiers of all wars. I will not read you every plaque. These pages do not tell me why the town is called Delta, and they do not give me a Native village in the Six Mile Woods. What is written down is a clearing in 1833, a charter in 1863, a plank road with two dates, and a farm the marker calls a station on the way to Canada. The next place on your list is Dennison.",
+    long: "",
+    names: ["Delta"]
+  },
+
+  {
+    id: "approach-dennison-oh",
+    name: "Dennison",
+    lat: 40.3978,
+    lng: -81.3272,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Dennison. A village in Tuscarawas County, in Mill and Union townships. Uhrichsville is the next town, not this yard. The 2020 census counted two thousand seven hundred nine people. In 1920 it had counted five thousand five hundred twenty-four. The depot is still standing. The shops around it are not. If you come in on the old Panhandle, I'll start with the water stop.",
+    long: "",
+    names: ["Dennison"]
+  },
+  {
+    id: "dennison-water-stop",
+    name: "A Hundred Miles",
+    lat: 40.3966,
+    lng: -81.3294,
+    radius: 450,
+    short: "The village says coal and the railroad made this place, because it sits about halfway between Pittsburgh and Columbus, a hundred miles from each, and a steam engine wanted water on about that spacing. The museum says an engine only went a hundred miles before it needed coal, water, and a new crew, and that the site was chosen for that. A marker says the Steubenville and Indiana was chartered in 1849, opened in 1855, and taken into the Pennsylvania system in 1870. The museum says that 1855 line became the Pittsburgh, Cincinnati and St. Louis in 1868. I will not make 1868 and 1870 the same year. In 1864 that railroad began the shops here. The museum calls 1864 the founding, as a water stop. The Dennison Land Company laid out the town in 1865. The census already counted eight hundred twenty-eight people in 1870. The village was incorporated in 1873 and named for Governor William Dennison. He had been governor in the first years of the Civil War, not in 1873. The depot went up that same year, because passenger traffic wanted a station. A plat, a water stop, and a charter are three dates. This pin is the depot. Not a survey stake.",
+    long: "",
+    names: ["William Dennison", "Steubenville and Indiana Railroad"]
+  },
+  {
+    id: "dennison-altoona",
+    name: "Altoona of the Panhandle",
+    lat: 40.3954,
+    lng: -81.3310,
+    radius: 600,
+    short: "The marker calls the yard the Altoona of the Panhandle. It had foundries, machine shops, and two roundhouses. The village says the Pittsburgh, Cincinnati and St. Louis put the country's largest shops here, on forty acres. Largest is the village's word. At the turn of the century the museum counts twenty-one passenger trains a day, twenty-one freights, and three thousand railroad employees. The village says the same three thousand at the peak, in the roundhouses, the turntables, and the foundries. It says the village became a freight and passenger terminal and the headquarters of the Panhandle Division, on the direct line from New York to St. Louis. The Pennsylvania Railroad took the company in. Later the line was Conrail's. I will not tell you which roundhouse stood on which side. This pin is the old yard. The depot is the only railroad building left in those forty acres.",
+    long: "",
+    names: ["Panhandle Division", "Pennsylvania Railroad"]
+  },
+  {
+    id: "dennison-coal",
+    name: "Mines South of Town",
+    lat: 40.3908,
+    lng: -81.3286,
+    radius: 700,
+    short: "The village says the Dennison Coal Company had mines south of town. That is the sentence. I do not have a shaft, a seam, or a year. I will not invent a cave-in. The coal and the water together are why the shops sat here. This pin is south of the village. Not a tipple.",
+    long: "",
+    names: ["Dennison Coal Company"]
+  },
+  {
+    id: "dennison-after-the-peak",
+    name: "After 1920",
+    lat: 40.3986,
+    lng: -81.3258,
+    radius: 400,
+    short: "The census peak on the table I have is 1920, five thousand five hundred twenty-four. By 1930 it was four thousand five hundred twenty-nine. The village says a strike in 1922 marked the end of the good years. It does not give me the strike's name. A later article adds diesel engines and the automobile. I will not pretend those are one cause. The last passenger train was in 1968. The village bought the depot from Conrail in 1984. The marker says it was restored and reopened in 1989, in memory of the railroaders, the travelers, and the service men and women who came through the doors. It is on the National Register, and it is a National Historic Landmark. In 1992 the Ohio Central brought freight back, as the Columbus and Ohio River Railroad. The village says Genesee and Wyoming run the line now. This pin is the village. Not a diesel.",
+    long: "",
+    names: ["Conrail"]
+  },
+  {
+    id: "dennison-dreamsville",
+    name: "Dreamsville",
+    lat: 40.3972,
+    lng: -81.3288,
+    radius: 350,
+    short: "Wikipedia says that in the first war the Red Cross ran a canteen from a boxcar. The museum says Dennison was a canteen town in both wars. I will not describe that boxcar. In the second war the marker says the Salvation Army Servicemen's Canteen ran all day, every day, from March 1942 to April 1946, and that more than one point three million soldiers got food and a word. The museum's dates are tighter. March 19, 1942, to April 8, 1946. It says Lucille Nussdorfer started it, and the Salvation Army came in after. It counts three thousand nine hundred eighty-seven volunteers, six hundred one thousand five hundred twenty hours, and one million three hundred nineteen thousand four hundred thirty-nine dollars. It says they never closed and never ran out of food or money. That is the museum. The marker's nickname is Dreamsville, Ohio. The village and the museum say Dreamsville, U.S.A. The village says the soldiers took it from a Glenn Miller song about an ideal small town. I do not have the title of that song. I will not guess it. This pin is the depot. Not a sandwich.",
+    long: "",
+    names: ["Lucille Nussdorfer", "Dreamsville"]
+  },
+  {
+    id: "dennison-not-invented",
+    name: "What I Will Not Add",
+    lat: 40.3994,
+    lng: -81.3246,
+    radius: 300,
+    short: "These pages give Dennison no battlefield and no Native town. I will not borrow Uhrichsville to fill the gap. What is written down is a water stop between Pittsburgh and Columbus, a yard that called itself the Altoona of the Panhandle, and a depot that fed troop trains for four years. The next place on your list is Deshler.",
+    long: "",
+    names: ["Dennison"]
+  },
+
+  {
+    id: "approach-deshler-oh",
+    name: "Deshler",
+    lat: 41.2075,
+    lng: -83.9056,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Deshler. A village in Henry County, about forty-five miles southwest of Toledo. The streets are laid around the railroad. The 2020 census counted one thousand five hundred eighty-eight people. A newspaper in 1968 called it a village of about two thousand. That was not a census. Two main lines still cross here. The depot does not. If you come in on the diamond, I'll start with the man who owned the ground.",
+    long: "",
+    names: ["Deshler"]
+  },
+  {
+    id: "deshler-john-deshler",
+    name: "The Owner's Name",
+    lat: 41.2070,
+    lng: -83.9044,
+    radius: 400,
+    short: "Wikipedia says Deshler was platted in 1873 and named for John G. Deshler, the original owner of the town site. A post office has been here since 1872, a year before the plat. The village was incorporated in 1876. A local page gives the day as April 30. The encyclopedia does not. I do not have John Deshler's trade, or where he lived. I will not make him a banker to fill the hole. This pin is the village. Not his deed.",
+    long: "",
+    names: ["John G. Deshler"]
+  },
+  {
+    id: "deshler-diamond",
+    name: "The Diamond",
+    lat: 41.2065,
+    lng: -83.9019,
+    radius: 350,
+    short: "The encyclopedia says that since the early nineteen-hundreds the Baltimore and Ohio was the town's living, and that Deshler was called the Crossroads of the B and O. It says the Detroit and Toledo to Cincinnati line crossed the Chicago to Washington main line. A local page says the first crossing was the Dayton and Michigan and the Baltimore and Ohio, and that mergers later made it the B and O from Toledo to Cincinnati crossing the B and O from Chicago to Willard. Washington and Willard are not the same end of the road. I will not pick one sentence and throw out the other. The second depot stood on Main Street, in the north corner of the diamond. It was torn down on August 11, 2022. An earlier depot last shows on a fire-insurance map in 1915. The 1923 map shows the newer one in the same place. The freight house sat across the tracks to the north. C S X runs both lines now. The encyclopedia says about fifty to seventy trains a day. People still come to watch them from Crossroads Park, and a camera watches the diamond. This pin is where the passenger station was. Not a train.",
+    long: "",
+    names: ["Baltimore and Ohio Railroad"]
+  },
+  {
+    id: "deshler-corn-city",
+    name: "The Corn City",
+    lat: 41.2082,
+    lng: -83.9064,
+    radius: 350,
+    short: "A local page says the town is known in the region as the Corn City. It says the name got onto signs, and onto the Corn City Bar, which is gone. I do not have a year for the nickname, or a reason better than the fields. I will not invent a festival. This pin is the village. Not a grain elevator.",
+    long: "",
+    names: ["Deshler"]
+  },
+  {
+    id: "deshler-bring-us-together",
+    name: "Bring Us Together",
+    lat: 41.2068,
+    lng: -83.9032,
+    radius: 400,
+    short: "On October 22, 1968, Richard Nixon spoke from the back of a campaign train. The New York Times says Vicki Lynne Cole, thirteen, an eighth grader, had gone to the fire station after school with her friend Rita Bowman to be a Nixonette. She picked a hand-lettered sign up off the ground. The words were Bring Us Together Again. Someone teased her that it was about boys. She laughed and lowered it. After the train left in the dusk, she threw the sign away. Nixon, in his victory speech on November 6, remembered a sign in Deshler that said Bring Us Together. He dropped the word Again. He said the town was little, and that he supposed five times its population was there. He did not say her name that night. She came forward after. At the 1969 inaugural parade she carried a recreation of the sign, not the one she had thrown away. In 1994 she said that when he left, the country was more divided than ever. A local newscast says he used the line in the inaugural speech and invited her family. The speech I can cite is the victory speech. I will not glue the two. Her mother taught third grade. Her father had a church of about three hundred here, a smaller church in Hoytville, six miles east, and worked with migrant workers in Head Start. This pin is the village. Not the train step.",
+    long: "",
+    names: ["Vicki Lynne Cole", "Richard Nixon"]
+  },
+  {
+    id: "deshler-names-only",
+    name: "Names I Will Not Stretch",
+    lat: 41.2088,
+    lng: -83.9048,
+    radius: 300,
+    short: "The encyclopedia has a photograph of Ronald Reagan in Deshler in 1984. The caption does not say why he came. I will not invent a speech. The same page lists Jerry Fosnow, Marc Krauss, and Rich Reese as ballplayers, Willard Rhodes as an ethnomusicologist, and Harold McMaster as a scientist and inventor. Those are labels. I do not have their Deshler years on the page I read. The names are here so a later story can find them. This pin is the village. Not a biography.",
+    long: "",
+    names: ["Harold McMaster", "Ronald Reagan"]
+  },
+  {
+    id: "deshler-not-invented",
+    name: "What I Will Not Add",
+    lat: 41.2058,
+    lng: -83.9072,
+    radius: 300,
+    short: "These pages give Deshler no canal, no battlefield, and no Native town. The diamond is still here. The depot is not. What is written down is a post office in 1872, a plat in 1873, a crossing of two railroads, and a sign a girl picked up off the ground. The next place on your list is Dexter City.",
+    long: "",
+    names: ["Deshler"]
+  },
+
+  {
+    id: "approach-dexter-city-oh",
+    name: "Dexter City",
+    lat: 39.6592,
+    lng: -81.4739,
+    radius: 1800,
+    layer: "approach",
+    short: "You are coming up on Dexter City. A village in Noble County, mostly in Jefferson Township, with a piece of the lots in Jackson. It sits on the West Fork of Duck Creek. The name says city. The 2020 census counted eighty-one people. In 1900 it had counted two hundred seventy-eight, the high number on the table I have. South Olive is two miles north, on the same old railroad. That is not this plat. If you come in on the creek, I'll start with August 5, 1870.",
+    long: "",
+    names: ["Dexter City"]
+  },
+  {
+    id: "dexter-city-plat",
+    name: "August Fifth",
+    lat: 39.6596,
+    lng: -81.4732,
+    radius: 250,
+    short: "A Noble County history says the town site was laid off into lots on August 5, 1870, by R. W. St. John, surveyor, for Hiram Flanders, the proprietor. Another county book uses the same day and the same two men. The clearer book then counts the additions. David McKee's first, lots twenty to thirty-three, surveyed by George Bell on February 11, 1871. McKee's second, lots thirty-three to forty-one, on March 12, 1875. John Smithson's, lots forty-one to forty-nine, on April 18, 1876. J. J. Shriver's seven lots, surveyed by William Lowe on December 29, 1877. U. J. Cheshire's, surveyed by St. John again on April 20, 1882. A modern map still prints McKee, Smithson, and Flanders as street names. I have not walked them. This pin is the village. Not a lot corner.",
+    long: "",
+    names: ["Hiram Flanders", "R. W. St. John"]
+  },
+  {
+    id: "dexter-city-sullivan",
+    name: "Two Houses Already",
+    lat: 39.6588,
+    lng: -81.4746,
+    radius: 250,
+    short: "Wikipedia says the town was named for Dexter W. Sullivan, an early settler. One county book says he put up the first building after the plat was surveyed. The other says he was a well-known resident, and that two houses already stood here before the town was located. I will not throw out the houses to make him first, and I will not throw out the first-building sentence. The scan breaks the names of those two houses. I will not guess them. The same broken page says someone was the first hotel keeper. I will not hang that job on Sullivan. This pin is the village. Not a cabin.",
+    long: "",
+    names: ["Dexter W. Sullivan"]
+  },
+  {
+    id: "dexter-city-mckee",
+    name: "The First Store",
+    lat: 39.6594,
+    lng: -81.4748,
+    radius: 200,
+    short: "The Watkins history says David McKee opened the first store in 1871, in the building that was later E. P. Sullivan's store. The second store was Campbell and Brown. The third was Thomas La Mott's hardware. One county book says McKee's was the second building, and that he put a stock of goods in it as soon as it was finished, and so was the first merchant. The first postmaster was Oscar W. Hussey. That book says the office was established in 1872. A post-office list says Dexter City opened in 1871. I will not average the year. This pin is the village. Not a counter.",
+    long: "",
+    names: ["David McKee", "Oscar W. Hussey"]
+  },
+  {
+    id: "dexter-city-railroad",
+    name: "The Summer the Track Arrived",
+    lat: 39.6584,
+    lng: -81.4734,
+    radius: 400,
+    short: "Both books put the town on the Cleveland and Marietta Railroad. One says the road was finished to this point about the time the lots were laid off, which is 1870. The other says the track was completed here in the summer of 1871, and that the railroad built the town. It says Dexter was nearly its then size within three years. The first book says the boom came from the railroad and the adjacent oil field, and then the place settled. I do not have the name of a well. I will not borrow the Thorla well from Caldwell. I do not have what company, if any, still runs a train through here. This pin is the old line. Not a well.",
+    long: "",
+    names: ["Cleveland and Marietta Railroad"]
+  },
+  {
+    id: "dexter-city-three-hundred-fifty",
+    name: "About Three Hundred Fifty",
+    lat: 39.6600,
+    lng: -81.4740,
+    radius: 250,
+    short: "The Watkins history says the town was incorporated in 1882. It says that in its own time Dexter City had one church, a good school, and about three hundred fifty people. The census high I can read is two hundred seventy-eight, in 1900. I will not make three hundred fifty and two hundred seventy-eight the same count. An Odd Fellows lodge, number four hundred ninety-six, was instituted on August 22, 1871. The charter names are G. J. Lund, Albert Tilton, Aaron Haines, L. D. Webber, W. P. Warren, James Burton, O. W. Hussey, and John B. Sammons. The book also names Dr. J. W. Kraps. The encyclopedia's picture is a Methodist church. The old book only says one church. I will not swear they are the same building. This pin is the village. Not a lodge hall.",
+    long: "",
+    names: ["Dexter City"]
+  },
+  {
+    id: "dexter-city-not-invented",
+    name: "What I Will Not Add",
+    lat: 39.6578,
+    lng: -81.4752,
+    radius: 200,
+    short: "These pages give Dexter City no battlefield and no Native town. South Olive, laid out in August 1871 with thirteen lots, is the next stop up the railroad, not this one. What is written down is a plat on August 5, 1870, a store in 1871, and a railroad that two books date a year apart. The next place on your list is Dillonvale.",
+    long: "",
+    names: ["Dexter City"]
+  },
+  {
+    id: "approach-dillonvale-jefferson-oh",
+    name: "Dillonvale",
+    lat: 40.1986,
+    lng: -80.7756,
+    radius: 1800,
+    layer: "approach",
+    short: "You are coming up on Dillonvale, in Jefferson County. Not the Dillonvale in Belmont County. This one sits in the valley under Mount Pleasant, in Mount Pleasant and Smithfield townships, on Short Creek. State Routes 150 and 152 meet here. The church on that corner is Saint Adalbert. I do not have the year of the parish. The 2020 census counted five hundred eighty-nine people. A local history says that when the village incorporated, in 1902, it had two thousand, and that it was the fourth largest town in the county. The census I can read starts in 1910, at one thousand five hundred nineteen. The high on that table is one thousand six hundred fifty-two, in 1940. I will not make two thousand and those counts the same number. If you come down off the hill, I'll start with a name that did not stick.",
+    long: "",
+    names: ["Dillonvale"]
+  },
+  {
+    id: "dillonvale-annadelphia",
+    name: "Annadelphia",
+    lat: 40.1994,
+    lng: -80.7748,
+    radius: 350,
+    short: "The village site says founded in 1816. Wikipedia says it was laid out in 1816 under the name Annadelphia. A local history is plainer. Nathan Updegraff, from Winchester, Virginia, platted it in February 1816, and the town was not occupied then. I do not have why he called it Annadelphia. I will not invent a woman named Anna. The same page says he later started a flour and feed mill in a four-story stone building in Mount Pleasant Township, and the Pioneer Paper Mill. Later, and in the township, is not the empty plat. The Updegraff-Barkhurst mill burned in 1903. Mount Pleasant, on the hill, is a different town. I will not move its story down into this valley. This pin is the valley. Not the 1816 stakes.",
+    long: "",
+    names: ["Nathan Updegraff", "Annadelphia"]
+  },
+  {
+    id: "dillonvale-thirty-three-lots",
+    name: "Thirty-Three Lots",
+    lat: 40.1982,
+    lng: -80.7762,
+    radius: 300,
+    short: "In February 1889, the local history says, thirty-three more lots were surveyed. The name was changed to Dillon, for an official of the Wheeling and Lake Erie Railroad, and then changed again to Dillonvale. I do not have that official's first name, or why vale was added. Wikipedia says nothing much became of the town until the railroad came through in 1889, when a new plat was made and the names Dillon, and later Dillonvale, were adopted. A post office was established in 1889. The railroad, the new lots, and the post office are the start that filled the valley. The 1816 date on the village sign is the empty plat. This pin is the village. Not a lot pin.",
+    long: "",
+    names: ["Dillonvale"]
+  },
+  {
+    id: "dillonvale-yard",
+    name: "The Yard",
+    lat: 40.1976,
+    lng: -80.7770,
+    radius: 400,
+    short: "The local history says the Wheeling and Lake Erie opened in 1889 and gave the town its growth. Several hundred men worked in the Dillonvale yard. The town was also the terminal of the Lake Erie, Alliance and Wheeling branch of the New York Central. The page says the Wheeling and Lake Erie became part of the Nickel Plate, and then of the Norfolk and Southern system. That is the page's chain. I will not redraw the corporate tree. This pin is the old yard. Not a roundhouse.",
+    long: "",
+    names: ["Wheeling and Lake Erie Railroad"]
+  },
+  {
+    id: "dillonvale-thousand-tons",
+    name: "A Thousand Tons a Day",
+    lat: 40.1968,
+    lng: -80.7742,
+    radius: 500,
+    short: "The Wheeling and Lake Erie Coal Company leased six thousand acres along Short Creek, in Smithfield, Dillonvale, Mount Pleasant, and Warren townships. The local history says Dillonvale was the principal mining point. The mine opened in 1893. The daily capacity was one thousand tons. It says hundreds of men and women and children worked for the coal mines. Worked for is the sentence. I will not send the children underground on a guess. This pin is the valley. Not a tipple.",
+    long: "",
+    names: ["Wheeling and Lake Erie Coal Company"]
+  },
+  {
+    id: "dillonvale-twenty-three-saloons",
+    name: "Twenty-Three Saloons",
+    lat: 40.1990,
+    lng: -80.7768,
+    radius: 250,
+    short: "The First National Bank of Dillonvale started around 1901. By 1910 its deposits were two hundred fifty thousand dollars. The page says that bank is now the Steel Valley Bank. Bradt's department store burned in 1905. Mercer's drug store is dated 1906. There was also Jones drug store, and Robert Humpreville, jeweler and optician. That is the spelling on the page. Two livery stables, the Barkhurst Hotel. Twenty-three saloons. The page says the town dried up only temporarily, during prohibition in 1908. National prohibition was not 1908. I will not move their date. The doctors were Dr. Mercer and Dr. McMillen, who came in 1890. The lodges named are the Dames of Malta, the Knights of Pythias, the Redmen, and the Eagles. This pin is the village. Not a bar.",
+    long: "",
+    names: ["Dillonvale"]
+  },
+  {
+    id: "dillonvale-schools",
+    name: "A School Before the Town",
+    lat: 40.2000,
+    lng: -80.7750,
+    radius: 300,
+    short: "The same local history says schools in the area organized a graded system and a village high school in 1861. That is twenty-eight years before the railroad, and before anyone lived on the Annadelphia plat. In the area is the page's own limit. I will not put that school inside an empty town. A brick building of about 1907 had ten rooms and an auditorium, two rooms for high school. The first class graduated in 1911. In 1921 a building went up behind it, and within a year the first one burned. A new building was started in August 1924, sixteen rooms, an auditorium for seven hundred fifty. A bank building was moved behind it for industrial arts. The page says all three were still standing, in disarray, by the city building. In 1926 the grades had more than six hundred, and the high school one hundred twenty-five. This pin is the school ground. Not the 1861 term.",
+    long: "",
+    names: ["Dillonvale"]
+  },
+  {
+    id: "dillonvale-not-invented",
+    name: "What I Will Not Add",
+    lat: 40.1972,
+    lng: -80.7736,
+    radius: 250,
+    short: "These pages give this Dillonvale no battlefield and no Native town. I will not borrow Mount Pleasant's Quakers to fill the valley. What is written down is an empty plat in 1816, a railroad and a new name in 1889, and a mine that the page rated at a thousand tons a day. The next place on your list is the other Dillonvale, in Belmont County.",
+    long: "",
+    names: ["Dillonvale"]
+  },
+  {
+    id: "approach-dillonvale-hamilton-oh",
+    name: "Dillonvale",
+    lat: 39.2172,
+    lng: -84.4031,
+    radius: 2000,
+    layer: "approach",
+    short: "You are coming up on the other Dillonvale. This one is in Sycamore Township, Hamilton County, north of Cincinnati. It is not the village under Mount Pleasant, and it is not in Belmont County. I said Belmont last time. That was wrong. This Dillonvale is not a village. It is a census-designated place. The census counted three thousand four hundred thirty-six people here in 2020, and three thousand seven hundred sixteen in 2000. A census table I have also lists four thousand two hundred nine in 1990 and three thousand four hundred seventy-four in 2010. It has never had a mayor. If you are on the interstate, I'll start with the builder, not a mine.",
+    long: "",
+    names: ["Dillonvale"]
+  },
+  {
+    id: "dillonvale-hamilton-builders",
+    name: "Dillon Builders",
+    lat: 39.2178,
+    lng: -84.4024,
+    radius: 400,
+    short: "Wikipedia gives this place one sentence of history. Dillonvale started as a housing subdivision planned and built by Dillon Builders in the nineteen-forties. I do not have the builder's first name. I do not have the month, or the plat-book page. I will not borrow a page number from a site I don't trust. A neighborhood count says about eighty-eight percent of the houses went up between 1940 and 1969. That is a housing study, not a charter. I will not say these were G.I. Bill houses. The page does not say that. This pin is the subdivision. Not a town square.",
+    long: "",
+    names: ["Dillon Builders"]
+  },
+  {
+    id: "dillonvale-hamilton-not-a-town",
+    name: "Not a Town",
+    lat: 39.2164,
+    lng: -84.4040,
+    radius: 400,
+    short: "Sycamore Township is the government. Dillonvale is the name the census uses so it can count the houses. The geographic survey entered it as a census place. That does not make it incorporated. There is no railroad story on the page, no coal mine, no post office date, and no church I can put a year on. Kenwood is the nearer name on the map. I will not tell you Kenwood's history and call it this place. This pin is the census line. Not a city hall.",
+    long: "",
+    names: ["Sycamore Township"]
+  },
+  {
+    id: "dillonvale-hamilton-not-invented",
+    name: "What I Will Not Add",
+    lat: 39.2184,
+    lng: -84.4016,
+    radius: 300,
+    short: "The seven kinds of story do not all live here. No plat from the eighteen-hundreds, no river landing, no battlefield, no Native town on the page I can cite, and no local legend I am willing to invent so the card is not short. What is written down is a subdivision from the nineteen-forties, still unincorporated, still losing people slowly since 1990. The Jefferson County Dillonvale is the one with the railroad and the mine. This one only shares the name. The next place on your list is Donnelsville.",
+    long: "",
+    names: ["Dillonvale"]
+  },
+  {
+    id: "approach-donnelsville-oh",
+    name: "Donnelsville",
+    lat: 39.9153,
+    lng: -83.9431,
+    radius: 1800,
+    layer: "approach",
+    short: "You are coming up on Donnelsville. A village in Bethel Township, Clark County, in the Springfield area. The old National Road is the main street. The plat says the town sits eight miles west of Springfield. The 2020 census counted two hundred fifty-five people. The high on the table I have is three hundred four, in 2010. In 1850 it was one hundred ninety-six. If you are on the old road, I'll start with two dates that do not match.",
+    long: "",
+    names: ["Donnelsville"]
+  },
+  {
+    id: "donnelsville-two-dates",
+    name: "1830 or 1836",
+    lat: 39.9158,
+    lng: -83.9424,
+    radius: 250,
+    short: "Wikipedia says Donnelsville was platted in 1830 by James Donnel, and named for him. A post office called Donnelsville was established in 1840. The plat copied by the Medway Area Historical Society says something else. It was laid out by James Donnels and Abraham Smith, on the National Road, in sections three and four, township three, range nine, of the land between the Miami rivers. Surveyed August 9, 1836, by Reuben Miller, county surveyor, Andrew Thompson the deputy. Received September 15. Recorded September 24, 1836. The recorder's name on that copy reads G. Handenhott. I will not correct the spelling. I will not throw out 1830 to save 1836, or the other way around. The office in 1840 is after both dates. This pin is the village. Not a survey stake.",
+    long: "",
+    names: ["James Donnels", "Abraham Smith"]
+  },
+  {
+    id: "donnelsville-national-road",
+    name: "Main Street Is the Road",
+    lat: 39.9148,
+    lng: -83.9436,
+    radius: 300,
+    short: "The same plat says the lots run five poles east and west and eight poles north and south. A stone with a cross on it was planted at the southwest corner of lot number one, as the beginning. Main Street is the National Road, and it is eighty feet wide. Hampton Street is sixty feet. Harrison Street is three poles. The west alley is twenty-eight feet. The east alley is one pole. The other streets and alleys sit at right angles to Main. I have not looked for the stone. This pin is the old road through the village. Not the stone.",
+    long: "",
+    names: ["National Road"]
+  },
+  {
+    id: "donnelsville-1844",
+    name: "Smith's Addition",
+    lat: 39.9162,
+    lng: -83.9442,
+    radius: 250,
+    short: "The same copy certifies an addition of lots laid out by Abraham Smith, surveyed on the second and third of August, 1844. It starts at a stone marked A on the plat, in section four. I do not have the 1859 addition a later page talks about, so I will not date it. James Donnels and Abraham Smith are the two names on the first plat. The encyclopedia names only James, and spells him Donnel, without the s. I will not pick a spelling. This pin is the village. Not the added lots.",
+    long: "",
+    names: ["Abraham Smith"]
+  },
+  {
+    id: "donnelsville-the-count",
+    name: "Never a Big Town",
+    lat: 39.9150,
+    lng: -83.9418,
+    radius: 250,
+    short: "The census table I have starts at one hundred ninety-six in 1850, then two hundred thirty-three in 1860. There is no 1870 line. One hundred ninety-four in 1880. Two hundred forty-three in 1890. Two hundred in 1900. The low is one hundred sixty-six, in 1920. The high is three hundred four, in 2010. Then two hundred fifty-five again in 2020. A road town that never got much bigger than the first count. I do not have a railroad station inside the village. I will not move one here from two miles away. This pin is the village. Not a depot.",
+    long: "",
+    names: ["Donnelsville"]
+  },
+  {
+    id: "donnelsville-not-invented",
+    name: "What I Will Not Add",
+    lat: 39.9142,
+    lng: -83.9448,
+    radius: 200,
+    short: "A church stands on Main Street in the encyclopedia's picture. I do not have the year, or the denomination, from a page I trust. I will not put Jonathan Donnels here in 1795. That story is not on the plat or in the encyclopedia sentence. The creek that carries the family name is a different card, and I do not have a mill on it. What is written down is the National Road, eighty feet wide, and a plat the books date six years apart. The next place on your list is Doylestown.",
+    long: "",
+    names: ["Donnelsville"]
+  },
+  {
+    id: "approach-doylestown-oh",
+    name: "Doylestown",
+    lat: 40.9697,
+    lng: -81.6958,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Doylestown, in Wayne County. Not the one in Pennsylvania. This village sits on a hill in Chippewa Township, about thirteen miles southwest of Akron. Most of the town, including the old commercial block, is around twelve hundred fifty feet up. Silver Creek drains the east side. Mill Creek drains the north and west. Chippewa Creek drains the south and takes both of the others. The 2020 census counted three thousand fifty-one people. A local history says the count passed one thousand by 1896. That is not a census year. If you come in on Portage Street, I'll start with the man who would not sell the north side.",
+    long: "",
+    names: ["Doylestown"]
+  },
+  {
+    id: "doylestown-christmas-survey",
+    name: "Recorded on Christmas",
+    lat: 40.9702,
+    lng: -81.6952,
+    radius: 300,
+    short: "Wikipedia says Thomas Frederick, from Lancaster, Pennsylvania, put a homestead here in 1813. William Doyle, the man the town is named for, arrived in 1827 and bought fifty acres from Frederick and two other early settlers. He brought five families from Pennsylvania. On December 9, 1827, Charles Christmas, one of those five, surveyed forty lots. The survey was recorded on Christmas Day. Doyle, with help from another of the families, built the first building, a log cabin tavern. A Wayne County newspaper says the carpenter was John Montgomery, another Pennsylvania friend, and that the lots were sixty-six by one hundred ninety-eight feet, one chain by three. Twenty lots on each side of Portage Street. An acre at the square was cut into four plots. The newspaper says Frederick would not sell any more land to the north, and the village could not grow that way until Doyle left. Wikipedia's sentence says Franklin owned that north side. I will not invent a second man to reconcile the names. This pin is the old square. Not the tavern.",
+    long: "",
+    names: ["William Doyle", "Charles Christmas", "Thomas Frederick"]
+  },
+  {
+    id: "doylestown-portage",
+    name: "The Portage Street",
+    lat: 40.9692,
+    lng: -81.6964,
+    radius: 400,
+    short: "The encyclopedia says Doyle laid the forty lots at the crossing of two Native trails, on the hilltop. The newspaper is more particular about one of them. It says Portage Street was part of the portage path that ran from Akron to Wooster. I do not have the name of the second trail. The Beacon Journal says Chippewa Township takes its name from the Chippewa, and that they called this valley Nibrara, meaning beautiful valley. That translation is the newspaper's. I will not swear it. The hollow just downhill to the southeast was called Nibrara, and later Pleasant Valley, before the mines renamed it. This pin is Portage Street. Not a trail marker.",
+    long: "",
+    names: ["Chippewa"]
+  },
+  {
+    id: "doylestown-brick-and-school",
+    name: "Brick, Then a School",
+    lat: 40.9706,
+    lng: -81.6946,
+    radius: 300,
+    short: "In 1834, the encyclopedia says, Abraham Franks built a brick kiln a quarter mile southwest of the village. Other kilns came and went. Longer yards opened around the town in 1867, 1872, and 1886. In 1836 the village set up a board of education and bought ground from Frederick at what is now Portage and Gates, for a school. About ten years later a brick school replaced the wood one, and they built it taller through the eighteen-fifties. The Wayne County library says the village was incorporated on August 6, 1867. Saints Peter and Paul: the encyclopedia's picture says the church on that campus was built in 1877. I do not have the year the congregation started. In 1909 they dynamited an 1884 school on High Street and built another, with the Collinwood school fire of 1908 in mind. Hazel Harvey School went up in 1956. I do not have who Hazel Harvey was. This pin is the village. Not the kiln.",
+    long: "",
+    names: ["Doylestown"]
+  },
+  {
+    id: "doylestown-rogues-hollow",
+    name: "Rogues' Hollow",
+    lat: 40.9658,
+    lng: -81.6908,
+    radius: 700,
+    short: "Samuel Chidester settled the valley southeast of the hill. Small coal had already been taken. In 1840 David Galehouse opened a commercial mine, and Pleasant Valley became Rogues' Hollow. The encyclopedia says drinking and lawlessness came in with the miners, and that between 1840 and 1940, when the last mine closed, at least one hundred two mines had operated. I will not name a brothel. A newspaper uses that word. The count of the mines is the sentence I can stand on. This pin is the hollow. Not the square on the hill.",
+    long: "",
+    names: ["David Galehouse", "Rogues' Hollow"]
+  },
+  {
+    id: "doylestown-mowers",
+    name: "The Mower Works",
+    lat: 40.9690,
+    lng: -81.6972,
+    radius: 350,
+    short: "John Seiberling came in 1860 to build a factory for a mowing machine that raked its own hay. The next year Excelsior Mowers and Droppers was in the village. The plant was modernized in 1887, as the mines were slowing. A fire in 1901 knocked the mower works down. I will not make him the founder of a tire company. The page I have is about mowers. Aluminum shops replaced some of the lost work in the eighteen-nineties and after 1900. Midwest Container started in 1946. As of 2023 the encyclopedia still had it here, under the name Mid-West Poly Pak. There is a Doughboy statue in town. I do not have the year it went up. The same man, William Doyle, is credited with starting Rittman. That is a different town. This pin is the village. Not the factory.",
+    long: "",
+    names: ["John Seiberling"]
+  },
+  {
+    id: "doylestown-not-invented",
+    name: "What I Will Not Add",
+    lat: 40.9712,
+    lng: -81.6938,
+    radius: 300,
+    short: "The Beacon says Jeffrey Dahmer's family lived in Doylestown when his brother David was born. That is the sentence. I will not tell the rest. These pages give the village no battlefield. The trails are the Native story I can cite, and I will not invent a town that stood on the hill before Frederick. What is written down is a forty-lot plat recorded on Christmas Day, 1827, a mine in the hollow in 1840, and a road that was already a portage. The next place on your list is Dresden.",
+    long: "",
+    names: ["Doylestown"]
+  },
+  {
+    id: "approach-dresden-oh",
+    name: "Dresden",
+    lat: 40.1242,
+    lng: -82.0083,
+    radius: 2200,
+    layer: "approach",
+    short: "You are coming up on Dresden. A village in Muskingum County, in Jefferson and Cass townships, where Wakatomika Creek meets the Muskingum. The town site says the creek is the northern edge, and that a Shawnee village called Wakatomika stood near here. The creek took the name. The 2020 census counted one thousand six hundred fifty people. The nickname on the encyclopedia is Basket Village. The basket-shaped headquarters people picture is in Newark, not in this town. If you come in along the river, I'll start with a plat the books do not date the same way.",
+    long: "",
+    names: ["Dresden", "Wakatomika"]
+  },
+  {
+    id: "dresden-german-lots",
+    name: "Lot Four, Lot Fifty-Three",
+    lat: 40.1248,
+    lng: -82.0076,
+    radius: 300,
+    short: "The town's own page, and the encyclopedia, say Dresden was laid out in 1817. A local book, quoted in the Zanesville paper, says absentee German owners laid it out that year. I do not have their names in the paragraph I can read. Lot four was reserved for a school. Lot fifty-three was the market house. Out lot forty-seven was to be a cemetery. A one-place study says the plat was 1819, and that the town was incorporated in 1825. I will not average 1817 and 1819. The same paper says a Cass settlement here lost the county seat to Zanesville. The encyclopedia's history says Jonathan Cass settled in 1799 and claimed four thousand acres. I will not follow his son off to Michigan. This pin is the village. Not the market house.",
+    long: "",
+    names: ["Jonathan Cass"]
+  },
+  {
+    id: "dresden-adams-and-lemert",
+    name: "The Mill and the Store",
+    lat: 40.1256,
+    lng: -82.0090,
+    radius: 350,
+    short: "Seth Adams is dated three ways. The encyclopedia says he had a corn-cracker mill on Wakatomika Creek in 1804. The town site says that in 1812 he kept Merino sheep brought from Spain, in or near Dresden, and that he planted the first tomatoes here from seed out of New Orleans. A one-place study puts a cracker mill of his in 1808. I will not pick the year. Laban Lemert opened the first store in a log house in 1817, the same year as the plat on the town's page. In 1818 John Cordray kept a tavern in a log cabin, on the ground later occupied by the Akeroyd House. In 1822 Lemert went into distilling. By 1833 Henry and Benjamin Roop, from Buffalo, New York, were competing with him. This pin is the village. Not the mill dam.",
+    long: "",
+    names: ["Seth Adams", "Laban Lemert"]
+  },
+  {
+    id: "dresden-side-cut",
+    name: "The Canal Missed",
+    lat: 40.1280,
+    lng: -82.0064,
+    radius: 600,
+    short: "The book says that at one count the town was thirty log cabins and one hundred twenty-eight people, and that nine people died in one week. It does not name the sickness in the lines I have. Draining a swamp started in 1827 and was not finished until 1851. In 1828 they resurveyed, widened the streets, and added alleys, because they thought the Ohio Canal would come through. It missed them. A side cut, about four miles, was then dug to the Muskingum. The paper says 1832, a trough over Wakatomika Creek, and three locks down to the river. The encyclopedia says the side cut was ready in 1831. I will not average the year. The main line of the canal, in the township, the encyclopedia dates from 1822 to 1829. The state date people repeat is July 4, 1825. I will not make those the same shovel. This pin is the side cut. Not a lock wall.",
+    long: "",
+    names: ["Ohio and Erie Canal"]
+  },
+  {
+    id: "dresden-three-incorporation-dates",
+    name: "March Eighth or Ninth",
+    lat: 40.1236,
+    lng: -82.0088,
+    radius: 250,
+    short: "The paper says the town fathers decided to incorporate in 1832, the year of the side cut in that account. The town's page says incorporated on March 9, 1835. The encyclopedia's lead says March 9. A sentence in the same history says March 8. The one-place study says 1825. Four claims. I will not vote. On July 30, 1838, A. Deffenbaugh put out the first issue of the Dresden Chronicle. A telephone exchange was started in the spring of 1901. The first subscribers were on in November. This pin is the village. Not a newspaper office.",
+    long: "",
+    names: ["Dresden"]
+  },
+  {
+    id: "dresden-longaberger",
+    name: "The Baskets",
+    lat: 40.1230,
+    lng: -82.0072,
+    radius: 400,
+    short: "The town page and the encyclopedia agree on this part. The Longaberger Company started here in 1919, in the J. W. Longaberger family, making maple splint baskets by hand. It grew to nearly two thousand people, and the pages call it the largest maker of handmade baskets in the country. The company was liquidated in 2018. Dresden claims the world's largest basket, and says Guinness said so. The basket-shaped office is in Newark. I will not put that building on this street. Saint Ann is the Catholic church in the encyclopedia's picture. The history lists a Catholic frame church in 1847 and a brick one in 1890. I will not swear those are the walls you are looking at. This pin is the village. Not the Newark basket.",
+    long: "",
+    names: ["J. W. Longaberger", "Longaberger"]
+  },
+  {
+    id: "dresden-not-invented",
+    name: "What I Will Not Add",
+    lat: 40.1264,
+    lng: -82.0102,
+    radius: 300,
+    short: "These pages give Dresden no battlefield I can put a date on. Wakatomika is the Native town they name, and I will not invent the day it was left. What is written down is a plat in 1817 or 1819, a canal that missed the town and then a side cut that found the river, and a basket shop that started in 1919. The next place on your list is Dunkirk.",
+    long: "",
+    names: ["Dresden"]
+  },
+  {
+    id: "approach-dunkirk-oh",
+    name: "Dunkirk",
+    lat: 40.7881,
+    lng: -83.6428,
+    radius: 1800,
+    layer: "approach",
+    short: "You are coming up on Dunkirk. A village in Blanchard Township, Hardin County. The name is Dunkirk, New York, not the port in France, and not the evacuation of 1940. That name was already on the plat. The 2020 census counted seven hundred seventy-four people. The table I have starts in 1880, at one thousand three hundred eleven, which is the high. The 2023 estimate is seven hundred fifty-seven. About six hundredths of a square mile inside the village is water. I will not tell you which pond. If you are on Main Street, I'll start with the day the plat was acknowledged.",
+    long: "",
+    names: ["Dunkirk"]
+  },
+  {
+    id: "dunkirk-april-ninth",
+    name: "April 9, 1852",
+    lat: 40.7886,
+    lng: -83.6422,
+    radius: 250,
+    short: "The 1883 history of Hardin County says Dunkirk was the only town in the township. It was surveyed and laid off into lots, streets, and alleys by R. D. Millar, the county surveyor, for Hugh D. Miller. The plat was acknowledged April 9, 1852. A 1910 county history, which the encyclopedia cites, says it was platted in 1852 when the railroad was extended to that point, and named after Dunkirk, New York. A later page says the surveyor was E. D. Millar and gives a lot count. The 1883 book says R. D. Millar, and it does not give me a lot count in the lines I have. I will keep the initial that book printed. This pin is the village. Not the survey stake.",
+    long: "",
+    names: ["Hugh D. Miller", "R. D. Millar"]
+  },
+  {
+    id: "dunkirk-fort-wayne-line",
+    name: "The Railroad, Then the People",
+    lat: 40.7874,
+    lng: -83.6434,
+    radius: 400,
+    short: "The same 1883 history says the Pittsburgh, Fort Wayne and Chicago Railroad was completed in 1854, and soon after the town began to improve. A post office has operated since 1854. The first family in the town was George Kinsey. The second was John Watters. Anderson Watters was the first child born in the village, in 1858. That is six years after the plat. I will not recap every company that later ran the same tracks. This pin is the railroad through town. Not a depot.",
+    long: "",
+    names: ["Pittsburgh, Fort Wayne and Chicago Railroad"]
+  },
+  {
+    id: "dunkirk-fifty-nine",
+    name: "Fifty-Nine Voters",
+    lat: 40.7890,
+    lng: -83.6416,
+    radius: 250,
+    short: "The town was incorporated on the petition of fifty-nine resident voters. W. D. Edgar and Isaiah Larkins took it to the county commissioners. The petition was granted, and the village was organized under the name Dunkirk, on September 4, 1867. The first addition had already been on the books. Samuel H. Packer, September 6, 1852, and Packer again on May 26, 1856. Then Archibald Gardner in 1857. Miller himself filed more than one addition. So did Hugh Hueston. The 1883 list runs through 1880. I will not read every name on it. In 2006 the state named Dunkirk as a possible junction for a high-speed rail plan called the Ohio Hub. Those trains were not built. This pin is the village. Not a ballot.",
+    long: "",
+    names: ["Dunkirk"]
+  },
+  {
+    id: "dunkirk-not-invented",
+    name: "What I Will Not Add",
+    lat: 40.7870,
+    lng: -83.6410,
+    radius: 250,
+    short: "These pages give Dunkirk no battlefield, no canal, and no Native town I can cite. The township carries the Blanchard name. I will not put the river through the square on a guess. What is written down is a plat acknowledged April 9, 1852, a railroad finished in 1854, and fifty-nine voters in 1867. The next place on your list is Dupont.",
+    long: "",
+    names: ["Dunkirk"]
+  },
+
+  {
+    id: "approach-dupont-oh",
+    name: "Dupont",
+    lat: 41.0547,
+    lng: -84.3011,
+    radius: 1600,
+    layer: "approach",
+    short: "You are coming up on Dupont. A village in Perry Township, Putnam County. The 2020 census counted two hundred twelve people. The estimate for 2023 is two hundred six. In 1880, before it was a village, the count was one hundred sixty-five. In 1890 it was five hundred thirty-one. That is the high on the census table. A county history says that at the height there were about seven hundred. I will not make seven hundred a census. The encyclopedia's picture is a Stick-Eastlake cottage on River Street. I will not name the river from the street. This is not a company town. If you come in on the old railroad, I'll start with the mail, which was here before the plat.",
+    long: "",
+    names: ["Dupont"]
+  },
+  {
+    id: "dupont-weekly-mail",
+    name: "Once a Week",
+    lat: 41.0552,
+    lng: -84.3004,
+    radius: 250,
+    short: "The 1915 history of Putnam County says a post office called Dupont was established in 1864. That is thirteen years before the plat. The mail route then ran from Ottawa to Charloe, twenty-six miles, and it was traveled once a week. The same book says Dupont was for many years the largest town in the township. The county recorder lists it in Perry Township. This pin is the village. Not a mail sack.",
+    long: "",
+    names: ["Dupont"]
+  },
+  {
+    id: "dupont-narrow-gauge",
+    name: "The Narrow Gauge",
+    lat: 41.0542,
+    lng: -84.3018,
+    radius: 350,
+    short: "The encyclopedia says Dupont was platted in 1877, when the Toledo, Delphos, and Indianapolis Railway was extended to that point. The county history says that railroad was narrow gauge, and that it was built through the village in 1877. It was named in honor of Rear Admiral S. F. Dupont of the United States Navy. The encyclopedia spells him Samuel Francis Du Pont, and says he was an admiral in the Mexican War. The village dropped the space and the capital P. The powder company carries the same family name. These pages do not say the company laid out the town. I will not retell his later war. This pin is the old narrow-gauge line. Not a company gate.",
+    long: "",
+    names: ["Samuel Francis Du Pont"]
+  },
+  {
+    id: "dupont-dimock",
+    name: "The First Mayor",
+    lat: 41.0556,
+    lng: -84.3008,
+    radius: 250,
+    short: "In 1888 the whole route was changed to standard gauge, and the county history says it was then known as the Toledo, St. Louis and Kansas City Railroad. Dupont was incorporated the same year. E. W. Dimock was chosen the first mayor. The book says the village began to grow, and that its prosperity seemed assured, and then it says that occasionally the healthiest child fails to become the strongest man. This pin is the village. Not a mayor's chair.",
+    long: "",
+    names: ["E. W. Dimock"]
+  },
+  {
+    id: "dupont-stave-mills",
+    name: "The Timber Ran Out",
+    lat: 41.0538,
+    lng: -84.3024,
+    radius: 400,
+    short: "At the height, the same history counts two stave mills doing an extensive business, two hotels, a tile mill, sawmills, an axe-handle factory, and five general stores. Then the timber failed, and the stave factories left. That was the first blow, and they had been the chief industry. The second blow was the Nickel Plate, built across the Clover Leaf at Continental, not here. The last step in that account was the Findlay, Fort Wayne and Western, through Cloverdale, two and a half miles south of the village. The work went to other towns. The census after 1890 falls almost every decade until 1930, then never really gets the old number back. Two hundred twelve in 2020 is close to the one hundred sixty-five of 1880. This pin is the village. Not a stave mill.",
+    long: "",
+    names: ["Dupont"]
+  },
+  {
+    id: "dupont-not-invented",
+    name: "What I Will Not Add",
+    lat: 41.0560,
+    lng: -84.2996,
+    radius: 250,
+    short: "These pages give Dupont no battlefield and no Native town I can cite. What is written down is a weekly mail in 1864, a narrow-gauge plat in 1877, an admiral's name, and stave mills that left when the timber did. The next place on your list is East Canton.",
+    long: "",
+    names: ["Dupont"]
+  },
+
+  {
+    id: "approach-east-canton-oh",
+    name: "East Canton",
+    lat: 40.7889,
+    lng: -81.2850,
+    radius: 2000,
+    layer: "approach",
+    short: "You are coming up on East Canton. A village in Osnaburg Township, Stark County, in the Canton and Massillon area. It was called Osnaburg until the First World War. The 2020 census counted one thousand five hundred twenty-one people. The table I have starts in 1900, at five hundred fifty-eight. The high is one thousand seven hundred forty-two, in 1990. The federal names file says incorporated in 1880. I have not seen the ordinance. Settlers here expected the county seat. Canton got it. If you are on the old Nassau Street, I'll start with two plat dates.",
+    long: "",
+    names: ["East Canton", "Osnaburg"]
+  },
+  {
+    id: "east-canton-leper-dates",
+    name: "1806 or About 1807",
+    lat: 40.7882,
+    lng: -81.2842,
+    radius: 300,
+    short: "The Osnaburg Historical Society says East Canton was laid out in 1806, the second village in Stark County, and that it rivaled Canton until Canton was chosen county seat in 1808. The same post says that in 1805 Osnaburg already had three times as many people as Canton, plus a store, a tavern, a tanyard, a hatter's shop, and log cabins. That is a year before the plat date in the same post. I will not fix it. A township history, quoted by the encyclopedia, says James Leeper laid out the town of Osnaburg about 1807, and that settlers located nearby expecting it to be the county seat. An 1875 plat map still shows the name Osnaburg. This pin is the village. Not the county courthouse.",
+    long: "",
+    names: ["James Leeper"]
+  },
+  {
+    id: "east-canton-osnabruck",
+    name: "March 21, 1918",
+    lat: 40.7894,
+    lng: -81.2856,
+    radius: 250,
+    short: "The society says the origin of the name Osnaburg is not definitely known. The guess is the town of Osnabrück, near Hanover, because so many settlers were German, or Pennsylvania Dutch from German families. The post spells the guess without the mark over the u. I will not swear the translation of a guess. The encyclopedia says the village changed its name during the nineteen-tens. One writeup of the census says 1910 still listed Osnaburg, and 1920 listed East Canton. The society gives the day: March 21, 1918, and ties the change to the First World War. I do not have the vote. The postal file also used the spelling Osnaburgh. This pin is the village. Not a German city.",
+    long: "",
+    names: ["Osnaburg"]
+  },
+  {
+    id: "east-canton-mills",
+    name: "Little Sandy and the Fire",
+    lat: 40.7900,
+    lng: -81.2834,
+    radius: 400,
+    short: "Before a mill stood in the township, the society says people took grain to Slussers' and Nichols mills on the Nimishillen. The first grist mill in the township was Peter Boyer, also written Byers, about 1814. The next was Daniel Laird, on Little Sandy. The first sawmill was Abram Baer, also written Abraham Bair. A sawmill at the northeast corner of Nassau and Wood burned about 1880. The fire was hot enough to break the windows in the Reed property across the street. I will not name a cider press. The sentence I have does not name it. This pin is the village. Not the mill.",
+    long: "",
+    names: ["Nimishillen"]
+  },
+  {
+    id: "east-canton-werner",
+    name: "The Werner Inn",
+    lat: 40.7876,
+    lng: -81.2862,
+    radius: 250,
+    short: "The village says the Wheeling and Lake Erie brought passengers through in the late eighteen-hundreds. The Werner Inn stands at the corner of state routes forty-four and one hundred seventy-two. It was a tavern in the eighteen-hundreds. The Osnaburg Historical Society owns it now, at 131 Nassau Street East, and keeps furnishings of that period. Another inn of the same years stands across the street and is privately owned. I do not have its name. Village hall is at 130 Cedar Street South. The village says it was built in 1890, remodeled in 1905, 1966, and 2002, and that the old part, with the bell tower, is still the mayor's office. Some buildings on Nassau Street's business row went up in 1844: stores, hotels, blacksmiths, pool halls, meat markets. The walls are still there. The businesses are not the old ones. This pin is the inn corner. Not the bell.",
+    long: "",
+    names: ["Werner Inn", "Wheeling and Lake Erie"]
+  },
+  {
+    id: "east-canton-not-invented",
+    name: "What I Will Not Add",
+    lat: 40.7910,
+    lng: -81.2868,
+    radius: 300,
+    short: "The encyclopedia says the village was founded with the help of Mallory Paige, and that a statue in memory of her stands at the Ward house. I do not have her years. I will not make her the sole founder. The society names Samuel Witter of the township, a Civil War soldier held at Andersonville and at Libby Prison, who escaped from Libby about 1864, and whose heel had been shot off. That is the township, not a battle in this street. These pages give the village no Native town I can cite, and no canal. What is written down is a plat about 1806 or 1807 that lost the county seat, and a name that changed on March 21, 1918. The next place on your list is East Cleveland.",
+    long: "",
+    names: ["Mallory Paige"]
+  },
+
+  {
+    id: "approach-east-cleveland-oh",
+    name: "East Cleveland",
+    lat: 41.5307,
+    lng: -81.5785,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on East Cleveland. A city in Cuyahoga County, about seven miles from downtown Cleveland. It sits against University Circle and Glenville on the west, Collinwood on the north, and Cleveland Heights on the east and south. The Cleveland encyclopedia says it occupies three square miles. The 2020 census counted thirteen thousand seven hundred ninety-two people. The 2024 estimate is thirteen thousand four hundred two. The peak on these pages is forty thousand forty-seven, in 1950. An earlier village of this same name was formed in 1866 and annexed by Cleveland in 1872. This city is the later one. If you are on Euclid Avenue, I'll start with Nine Mile Creek.",
+    long: "",
+    names: ["East Cleveland"]
+  },
+  {
+    id: "east-cleveland-nine-mile",
+    name: "Nine Mile Creek",
+    lat: 41.5360,
+    lng: -81.5680,
+    radius: 500,
+    short: "Collamer was the section of today's city from Lakeview on the west to Ivanhoe on the east. The Cleveland encyclopedia says a tannery and a gristmill were started in 1812 by David Crocker, near Collamer Street and Euclid, where Nine Mile Creek crossed. It was called Nine Mile Creek, or Euclid Village, until 1850, when it was named for Judge Jacob Collamer, postmaster general under Zachary Taylor. Ministers lived there in such numbers that people called it Saints' Row. From 1870 to 1879, that article says, Collamer was the largest grape-shipping point in the United States, ahead of Dover, Ohio. Britannica says farmers settled the site in 1801 and the township was organized in 1805. The city article says the township was organized in 1845, out of Cleveland, Newburgh, Euclid, and Warrensville. The Collamer article says 1847. I will not average three dates. A city page says the place was partly founded by Scottish immigrants, and that the names Shaw, McIlrath, and Eddy are still here. I will not build a clan out of three surnames. This pin is Euclid. Not the mill.",
+    long: "",
+    names: ["David Crocker", "Jacob Collamer", "Nine Mile Creek"]
+  },
+  {
+    id: "east-cleveland-charter",
+    name: "East of Chicago",
+    lat: 41.5315,
+    lng: -81.5795,
+    radius: 400,
+    short: "The village was incorporated in 1895. Gas and water went in. Euclid Avenue was paved. Streetcars came out from Cleveland. The city charter came in 1911. The count was about ten thousand in 1910. Cleveland tried to annex it in 1910 and again in 1916. Both times the city said no. A charter drafted in 1915, and adopted in 1916, let women vote in municipal elections. The encyclopedia says that was then the only such franchise east of Chicago. A city page says east of the Mississippi, and it marks the line as needing a citation. I will not use that line. In 1918 the city took a city manager. Most of the houses went up in the nineteen-tens and the nineteen-twenties. Shops gathered where Euclid meets Superior, Taylor, and Lee. In 1920 the count was over twenty-seven thousand. National Bindery Company was here in 1905. Talk of joining Cleveland came up again in 2016 and did not happen. This pin is the city. Not a ballot.",
+    long: "",
+    names: ["East Cleveland"]
+  },
+  {
+    id: "east-cleveland-nela",
+    name: "Nela Park",
+    lat: 41.5411,
+    lng: -81.5608,
+    radius: 450,
+    short: "Nela Park is on Noble Road. The entrance the register gives is 1975 Noble. Nela is the National Electric Lamp Association. Franklin Terry and Burton Tremaine conceived the park about 1910. Construction started in 1911, after the lamp company went into General Electric. The site is a plateau the encyclopedia puts at two hundred thirty-four feet above Lake Erie. Wallis and Goodwillie of New York designed it, Georgian Revival, and the Austin Company built it, with utility tunnels underground. Most of the major buildings are from 1911 to 1921. The Nela page calls it the first industrial park in the world. The Cleveland encyclopedia says one of the earliest, if not the first. I will not erase either sentence. It went on the National Register in 1975. The campus is about ninety-two acres. Albert Einstein visited in 1921, with Ernest Fox Nichols. The page names Marvin Pipkin for light-bulb work done here. I will not list his patents. In March 2022, GE Lighting sold the park to an affiliate of Phoenix Investors, of Milwaukee. This pin is the park. Not a bulb.",
+    long: "",
+    names: ["Nela Park", "General Electric", "Franklin Terry", "Burton Tremaine"]
+  },
+  {
+    id: "east-cleveland-forest-hill",
+    name: "Forest Hill",
+    lat: 41.5325,
+    lng: -81.5685,
+    radius: 500,
+    short: "Forest Hill was John D. Rockefeller's summer estate. In 1929 and 1930 his son laid out a housing tract on it. The encyclopedia says only eighty-one of six hundred planned houses were built before the Depression. In 1938 the Rockefellers gave Forest Hill Park to East Cleveland and to Cleveland Heights. The park is still shared. Huron Road Hospital moved out from downtown Cleveland in 1931, on land the Rockefellers contributed, and it closed in 2011. In the nineteen-sixties a building boom filled Forest Hill lots with ranch houses and with towers. Forest Park Tower, twenty-seven stories, is 1963. Crystal Tower, twenty-two stories, is 1964. Two rapid-transit stations opened here in 1954. Part of an older railroad grade, the Lakeview and Collamer, was later used by the rapid line toward Public Square. This pin is the city side of the park. Not the mansion gate.",
+    long: "",
+    names: ["John D. Rockefeller", "Forest Hill"]
+  },
+  {
+    id: "east-cleveland-the-count",
+    name: "From Forty Thousand",
+    lat: 41.5288,
+    lng: -81.5820,
+    radius: 600,
+    short: "The count peaked at forty thousand forty-seven in 1950. It fell about five percent in the next decade, then came back to about thirty-nine thousand six hundred by 1970. The encyclopedia says the city was two percent Black in 1960 and sixty-seven percent in 1970, a fast move out of Glenville. In 1980, eighty-six percent of thirty-six thousand nine hundred fifty-seven people were African American. That article ranks it second among major suburbs in the country, after East St. Louis. By 1990 the count was thirty-three thousand ninety-six. By 2000 it was twenty-seven thousand two hundred seventeen. Britannica's 2010 figure is seventeen thousand eight hundred forty-three. The encyclopedia, writing about 2018, says about seventeen thousand people, ninety-three percent African American, a poverty rate of forty-two percent, and it calls the city the poorest municipality in Ohio. It names redlining, people leaving, and the mortgage crisis of 2007 to 2010. I will not add a crime rate the page does not give me. Many of the old Euclid Avenue houses became small businesses, motels, and fast food. The encyclopedia's nickname for that stretch is Funeral Row. The 2020 count is thirteen thousand seven hundred ninety-two. I do not have a newer ranking to put against the 2018 one. This pin is the city. Not a headline.",
+    long: "",
+    names: ["East Cleveland"]
+  },
+  {
+    id: "east-cleveland-not-invented",
+    name: "What I Will Not Add",
+    lat: 41.5342,
+    lng: -81.5755,
+    radius: 400,
+    short: "The East Cleveland Theater was founded in 1968. That is the sentence I have, not a review. These pages give the city no battlefield I can date. The Native story of this lakeshore is older than Collamer, and I will not invent a town on Noble Road. What is written down is a mill in 1812, a village in 1895 that refused to join Cleveland, a lamp park started in 1911, a Rockefeller estate cut up in 1929, and a city that went from forty thousand to under fourteen thousand. The next place on your list is East Liverpool.",
+    long: "",
+    names: ["East Cleveland"]
+  },
+
+  {
+    id: "approach-east-liverpool-oh",
+    name: "East Liverpool",
+    lat: 40.6197,
+    lng: -80.5786,
+    radius: 2800,
+    layer: "approach",
+    short: "You are coming up on East Liverpool. A city in Columbiana County, on the Ohio River, about forty-five miles south of Youngstown and about forty miles west of Pittsburgh. Bridges run to Newell and to Chester, in West Virginia. This is the corner where Ohio, Pennsylvania, and West Virginia meet. The 2020 census counted nine thousand nine hundred fifty-eight people. The historical society's table peaks at twenty-four thousand two hundred seventeen, in 1950. A football book guesses twenty-five thousand seven hundred thirty for 1955. That is not a census. Britannica gives eleven thousand one hundred ninety-five for 2010. The society's table prints eleven thousand eleven. I will not average them. If you are on the river, I'll start with a man who bought the land before the town had one name.",
+    long: "",
+    names: ["East Liverpool"]
+  },
+  {
+    id: "east-liverpool-fawcett",
+    name: "St. Clair, Then Fawcettstown",
+    lat: 40.6220,
+    lng: -80.5760,
+    radius: 400,
+    short: "Britannica says Thomas Fawcett, an Irish Quaker, founded the place in 1798. The historical society says that in November 1797 he officially acquired nearly eleven hundred acres in sections twenty-three and twenty-four, along the river, from Isaac Craig. Craig was an Irishman, a colonel in the Revolution, who had commanded Fort Pitt. A 1937 booklet says Fawcett settled here in 1789. Three dates. I will not pick. In 1802 he platted a town called St. Clair, for Arthur St. Clair, then governor of the Northwest Territory. The land was still Jefferson County. People called it Fawcettstown. Thomas Fawcett died in 1820. His grandson, William G. Smith, came back from Wheeling and Pittsburgh that same year. This pin is the river town. Not the deed.",
+    long: "",
+    names: ["Thomas Fawcett", "Arthur St. Clair"]
+  },
+  {
+    id: "east-liverpool-the-east",
+    name: "Why It Is East",
+    lat: 40.6205,
+    lng: -80.5805,
+    radius: 300,
+    short: "By 1816 John Fawcett, Daniel Moore, and James Pemberton had bought two hundred acres of the Fawcett land, laid out an addition, and renamed the town Liverpool. Britannica compresses that. It says the place became a village in 1834 and was then renamed for Liverpool, England. The local pages split the work. Liverpool is 1816. East is 1834, because Liverpool Township in Medina County did not want the confusion. The same year the legislature made it an incorporated village. Phillip Cooper was the first mayor. Liverpool had no church building until 1834, when the Episcopalians put one up on West Fourth, on ground those three developers gave. Presbyterians had built the county's first church at Longs Run in 1800. That is not this street. The city charter, Britannica says, is 1882. This pin is the village. Not Medina County.",
+    long: "",
+    names: ["John Fawcett", "Phillip Cooper"]
+  },
+  {
+    id: "east-liverpool-bennett-kiln",
+    name: "The First Kiln",
+    lat: 40.6188,
+    lng: -80.5755,
+    radius: 300,
+    short: "James Bennett was an English potter from Derbyshire, born in 1812. In 1839 he was walking from Cincinnati toward Pittsburgh and stopped here. The society says he had been a packer in a yellow-ware pottery, found clay that would do, and with Anthony Kearns, Benjamin Harker, George Hollingsworth, and George Thomas built a shop twenty feet by forty, near the river at the foot of Second Street. The first kiln was fired in 1840. Isaac Knowles bought two crates and took them downriver on a trading boat. Bennett peddled the rest by wagon and cleared two hundred fifty dollars. He sent to England for his brothers Daniel, Edwin, and William, and for Edward Tunnicliffe, a dishmaker. The society says they made yellow ware until 1845, then moved to Birmingham, Pennsylvania, and later to Baltimore. His own page says he relocated to Pittsburgh in 1844. I will not average the year. The museum says his mark is on a yellow-ware spittoon, and that no dye was added. The local clay ran from pale buff to bright yellow. The society says yellow ware was first made in America here. The museum says Bennett was the first to call the brown manganese glaze Rockingham, not the first to make it. The glaze was already named for the Marquis of Rockingham's pottery at Swinton, in Yorkshire. I will not give him the invention. This pin is the foot of Second Street. Not a kiln.",
+    long: "",
+    names: ["James Bennett", "Isaac Knowles"]
+  },
+  {
+    id: "east-liverpool-crockery",
+    name: "Crockery City",
+    lat: 40.6175,
+    lng: -80.5810,
+    radius: 700,
+    short: "The town's nickname on the local page is Crockery City. Bennett's page says Ceramic City, and Pottery Capital of America. One account says eighty-five firms, at one time or another, made two-thirds of the national output from 1880 to 1950, and that more than three hundred potteries worked in the district across the years. In 1887 the city had twenty-one general-ware potteries and two thousand five hundred fifty-eight workers. In 1923 seventeen firms had seven thousand workers, two hundred seventy kilns, and twenty-five million dollars of output. The district is not only this city. It takes in Wellsville, and Chester and Newell across the river in West Virginia. Three plants are named as still working in the area: American Mug and Stein, Hall China, and Homer Laughlin. Laughlin's plant is in Newell. I will not move it to Ohio. The count followed the kilns. About five hundred people in 1840. Twenty thousand three hundred eighty-seven in 1910. Twenty-four thousand two hundred seventeen in 1950. Nine thousand nine hundred fifty-eight in 2020. This pin is the city. Not one factory gate.",
+    long: "",
+    names: ["East Liverpool", "Homer Laughlin"]
+  },
+  {
+    id: "east-liverpool-not-invented",
+    name: "What I Will Not Add",
+    lat: 40.6240,
+    lng: -80.5725,
+    radius: 400,
+    short: "Charles Pretty Boy Floyd was killed by F.B.I. agents on October 22, 1934, on a farm outside the city. I will not put that shooting on a downtown corner. The Museum of Ceramics is here. I will not invent the building it sits in. A branch of Kent State opened in 1965. The New Cumberland Locks and Dam are at Stratton, a few miles downstream, not in this street. Beaver Creek State Park is seven miles north. These pages give the city no battlefield I can date from the town plat. What is written down is a river purchase in 1797 or 1798, the name Liverpool in 1816, the word East in 1834, and one kiln in 1840 that pulled a whole district after it. The next place on your list is East Palestine.",
+    long: "",
+    names: ["East Liverpool"]
+  },
+
+  {
+    id: "approach-east-palestine-oh",
+    name: "East Palestine",
+    lat: 40.8392,
+    lng: -80.5467,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on East Palestine. A village in Columbiana County, on the Ohio and Pennsylvania line, about twenty miles south of Youngstown and about forty miles northwest of Pittsburgh. The 2020 census counted four thousand seven hundred sixty-one people. The village's own page says about five thousand. One page says the name PAL-uh-styne. Another says PAL-uh-steen. I will not pick your vowel. Market Street is state route one hundred seventy. If you are on that street, I'll start with Mechanicsburg, which is what they called it first.",
+    long: "",
+    names: ["East Palestine"]
+  },
+  {
+    id: "east-palestine-mechanicsburg",
+    name: "Mechanicsburg",
+    lat: 40.8398,
+    lng: -80.5475,
+    radius: 350,
+    short: "The encyclopedia says Thomas McCalla and William Grate platted the town in 1828, and that it was first called Mechanicsburg. In 1833 it was renamed for the region of Palestine. The same page says that was part of a habit in this country of Bible names: Enon Valley, Medina, New Galilee, and Salem. Palestine, Ohio, was already a town in the west of the state, so when this place incorporated, in 1875, it took the word East. The village's own history page squeezes that. It says the town was founded in 1828 as Mechanicsburg, and that it was incorporated as a city in 1875 and renamed East Palestine then. It does not mention 1833. The encyclopedia says the incorporation was reclassified as a city in 1920. I will not make 1875 do three jobs. This pin is the village. Not the other Palestine.",
+    long: "",
+    names: ["Thomas McCalla", "William Grate"]
+  },
+  {
+    id: "east-palestine-four-track",
+    name: "Four Tracks",
+    lat: 40.8384,
+    lng: -80.5452,
+    radius: 500,
+    short: "By 1920, the encyclopedia says, the railroad plant here was the four-track Pennsylvania Railroad. Within a mile of the corporation, switches of the Pittsburgh, Lisbon and Western connected with the Pittsburgh and Lake Erie and with the New York Central. The village page says coal and the railroad brought industry, and it names ceramics, pottery, porcelain, and automobile tires. It does not name the plants. It also says an orchard economy started and is still here. In 2004 the Arbor Day Foundation listed the village as a Tree City. A community page names two streams through town, Leslie Run and Sulphur Run. I will not put a factory on either creek from a sentence that does not. This pin is the old four-track line. Not a roundhouse.",
+    long: "",
+    names: ["Pennsylvania Railroad"]
+  },
+  {
+    id: "east-palestine-milepost-49",
+    name: "Milepost 49.5",
+    lat: 40.8360,
+    lng: -80.5227,
+    radius: 600,
+    short: "On February 3, 2023, about 8:54 in the evening, eastbound Norfolk Southern train 32N derailed at milepost 49.5 on the Fort Wayne Line, in the Keystone Division. The safety board says thirty-eight freight cars left the rails. Early news said about fifty cars, and fourteen of them vinyl chloride. I am using the board, not the first stories. A preliminary report, which it said could change, put the speed at about forty-seven miles an hour. The limit there was fifty. The weather in that report was ten degrees, dark and clear. Eleven tank cars of hazardous material caught fire, and the fire damaged twelve more cars that had not derailed. No one was reported hurt in the wreck or in the emergency response that followed. That sentence is not a finding about anyone's health a year later. The board does not give me that. This pin is the one printed with the early map. The board's location is the milepost. I have not surveyed the difference.",
+    long: "",
+    names: ["Norfolk Southern"]
+  },
+  {
+    id: "east-palestine-vent-and-burn",
+    name: "February 6",
+    lat: 40.8364,
+    lng: -80.5215,
+    radius: 700,
+    short: "Five tank cars were carrying vinyl chloride monomer, listed as UN1086, a flammable gas under pressure. The board says those five cars were not torn open in the wreck itself. Over the next day, four of them sat in the fire and let material out through their pressure valves. That stopped on the afternoon of February 4. The preliminary report says the five cars, numbers 28 through 31 and 55, held one hundred fifteen thousand five hundred eighty gallons, and that on February 5 the temperature in one car was still rising. The fear was a polymerization reaction and an explosion. The later board page does not repeat the gallon figure. I will not pretend it did. On the advice of the railroad and its contractors, the incident commander widened the evacuation and ordered a vent and burn of all five cars. The board says he was not told that the company that shipped the vinyl chloride had disagreed. A contractor hired by the railroad cut the cars at 4:37 on the afternoon of February 6 and set the load on fire. The first evacuation was one mile, about two thousand people. It was then stretched to a mile by two miles. I will not name the gases in that plume. The sentences I have from the board do not list them. This pin is the line. Not a house.",
+    long: "",
+    names: ["East Palestine"]
+  },
+  {
+    id: "east-palestine-not-invented",
+    name: "What I Will Not Add",
+    lat: 40.8410,
+    lng: -80.5490,
+    radius: 350,
+    short: "The post office was built in 1937, as a New Deal building. That is the caption I have. The village page says Delaware and Wyandot people were here first, and that settlers came late in the eighteenth century. It gives no town and no year. I will not invent either. I will not tell you the creeks are clean, and I will not tell you they are not. What is written down is a plat in 1828 called Mechanicsburg, the word East in 1875 because another Palestine already had the name, four Pennsylvania tracks by 1920, and a wreck at milepost 49.5 on February 3, 2023. The next place on your list is East Sparta.",
+    long: "",
+    names: ["East Palestine"]
+  },
+
+  {
+    id: "approach-east-sparta-oh",
+    name: "East Sparta",
+    lat: 40.6625,
+    lng: -81.3722,
+    radius: 1800,
+    layer: "approach",
+    short: "You are coming up on East Sparta. A village in Pike Township, in southern Stark County, in the Canton and Massillon area. It sits on Nimishillen Creek, a short way north of the Tuscarawas County line. The 2020 census counted seven hundred forty-nine people. The estimate for 2023 is seven hundred forty-three. On the table I have, the count starts at six hundred ninety in 1940 and peaks at nine hundred sixty-one in 1960. The infobox says the village covers one point eight two square miles, all land. The geography line on the same page says one point six eight, all land. I will not average them. If you are in the old center, I'll start with a plat that is six days younger than the township.",
+    long: "",
+    names: ["East Sparta"]
+  },
+  {
+    id: "east-sparta-janney",
+    name: "March 22, 1815",
+    lat: 40.6632,
+    lng: -81.3714,
+    radius: 300,
+    short: "A local paper, written for the two-hundredth year, says Pike Township was organized on March 16, 1815, and named for General Zebulon Montgomery Pike. The first township election was that April, at the house of Henry Bordner. Bordner and Philip Seffert were chosen officers. On March 22, Amos Janney, a Quaker and a surveyor, laid out a plat, took it to the Stark County recorder, and called it Sparta, for the city in Greece. The encyclopedia says the same thing in fewer words. It was laid out in 1815 under the name Sparta. Janney had a sawmill and a gristmill in the township. The paper says he invented friction rollers, and calls them the forgotten forerunner of the roller bearing. I do not have a patent number. He later moved to Indiana. George Young and his wife Catherine had already come into the township in 1806 and settled near a sulfur spring. George built the first brick house in the township in 1830, at the corner of Downing and Briggle. That is the township, not the day of the plat. This pin is the village. Not the spring.",
+    long: "",
+    names: ["Amos Janney", "George Young"]
+  },
+  {
+    id: "east-sparta-pierce",
+    name: "Pierce, Then East",
+    lat: 40.6620,
+    lng: -81.3730,
+    radius: 250,
+    short: "The town was on the books in 1815 and had no post office until 1854. When the office came, it was named Pierce, for President Franklin Pierce, who was in office then. The paper says the railroad wanted the town itself called Pierce, so freight would not go to the other Sparta, in Morrow County. The railroad settled on East Sparta. I will not invent the year of that change. The census table I have does not start until 1940. These pages do not give me an incorporation day, and I will not borrow one from a page that does not show its source. This pin is the village. Not a mail sack.",
+    long: "",
+    names: ["Franklin Pierce"]
+  },
+  {
+    id: "east-sparta-bloomery",
+    name: "South Industry",
+    lat: 40.6612,
+    lng: -81.3706,
+    radius: 400,
+    short: "The paper says the water and the railroad made the place an industrial town. Luther Drury put up a bloomery, a furnace that makes malleable iron straight from the ore, and a forge for wrought iron. The ore came from Slabtown, which the paper places at what is now North Industry, on the south side of Canton. North Industry's nickname for this town was South Industry. The Cleveland, Terminal and Valley Railroad reached East Sparta about 1882, and the paper says that brought on the coal mining. About is the paper's word. I will not make it a day. The same piece names storekeepers, including Michael Muckley in the eighteen-nineties, in flour, food, and lumber. I will not read you the rest of the directory. This pin is the village. Not the furnace.",
+    long: "",
+    names: ["Luther Drury"]
+  },
+  {
+    id: "east-sparta-town-pump",
+    name: "The Town Pump",
+    lat: 40.6636,
+    lng: -81.3728,
+    radius: 200,
+    short: "Before there was a water department, the paper says, a town pump stood here for years. People who lived here used it, and so did people passing through, and there was a tin cup. The encyclopedia's picture is that pump, dressed for Christmas. A later sentence on the same page says the Towne Pump Tavern, built in 1909, burned on July 28, 2017. The spellings are not the same. I will not swear the cup and the tavern were one building. On June 3, 2015, a water tower the page calls seventy years old was taken down. I will not turn seventy into a construction date. This pin is the middle of the village. Not the cup.",
+    long: "",
+    names: ["East Sparta"]
+  },
+  {
+    id: "east-sparta-not-invented",
+    name: "What I Will Not Add",
+    lat: 40.6644,
+    lng: -81.3740,
+    radius: 250,
+    short: "I will not tell you the streets were named for animals, and I will not tell you Sparta was laid out to rival Athens, Ohio. Those sentences are not in the paper or in the encyclopedia page I used. These pages give the village no battlefield and no Native town I can cite. What is written down is a Quaker's plat on March 22, 1815, a post office in 1854 that would not stay Sparta, a bloomery, and a pump with a tin cup. The next place on your list is Eaton.",
+    long: "",
+    names: ["East Sparta"]
+  },
+
+  {
+    id: "approach-eaton-oh",
+    name: "Eaton",
+    lat: 39.7439,
+    lng: -84.6366,
+    radius: 2800,
+    layer: "approach",
+    short: "You are coming up on Eaton. The county seat of Preble County, about twenty-four miles west of Dayton. The encyclopedia says the 2020 census counted eight thousand three hundred seventy-five people, and the 2023 estimate is eight thousand three hundred one. Another census table prints eight thousand three hundred ninety for 2020. I will not average them. The county was formed on February 15, 1808, out of Butler and Montgomery, and named for Edward Preble, a naval officer in the Revolution and against the Barbary pirates. In 2020 the county counted forty thousand nine hundred ninety-nine people. Seven Mile Creek and Crystal Lake are in the city. If you are on the square, I'll start with the man who filed the plat.",
+    long: "",
+    names: ["Eaton", "Edward Preble"]
+  },
+  {
+    id: "eaton-bruce",
+    name: "February 20, 1806",
+    lat: 39.7446,
+    lng: -84.6360,
+    radius: 300,
+    short: "William Bruce founded and platted Eaton in 1806. An old directory says he acknowledged the plat on February 20. The historical marker says he was born in Virginia in 1762, came to Ohio in 1793, and in 1806 bought nearly two thousand acres from the government. He was a Revolutionary War veteran. He built the first sawmill and the first gristmill, and the grave marker calls it the first merchant mill. He gave ground for the public square, churches, a school, and a cemetery, and he sold lots cheap to get people to stay. He died in 1830 and is buried in Mound Hill Cemetery. The marker was put up in 2006. This pin is the square. Not the grave.",
+    long: "",
+    names: ["William Bruce"]
+  },
+  {
+    id: "eaton-the-name",
+    name: "Not a Town in England",
+    lat: 39.7434,
+    lng: -84.6372,
+    radius: 250,
+    short: "Bruce named the town for William Eaton. The encyclopedia says Eaton was United States consul general at Tunis from 1797 to 1803, and commander of American forces in the First Barbary War. The marker calls him a general, a veteran of the Tripolitan War, and dates that war from 1800 to 1805. The marker says streets took the names of other men from that war: Somers, Decatur, and Israel. The encyclopedia adds Barron and Wadsworth, and it includes the Second Barbary War. I will not tell you what Barron or Wadsworth did. I do not have those sentences. On the plat, square A was for the courthouse. Square B, twelve poles on a side, was for an academy. Squares C and D were for churches, and Bruce wrote that they were not to be graveyards. Lot E was the burying ground, split in six. The first hotel was David E. Hendricks, in the spring of 1806. The first store was Cornelius Vanausdal, in 1806 or 1807. The first Court of Common Pleas sat on August 23, 1808. By 1846 the town had a thousand people, at the junction of two turnpikes. The page does not name the roads. This pin is the square. Not Tunis.",
+    long: "",
+    names: ["William Eaton"]
+  },
+  {
+    id: "eaton-fort-st-clair",
+    name: "November 6, 1792",
+    lat: 39.7383,
+    lng: -84.6545,
+    radius: 400,
+    short: "Fort St. Clair is older than the plat. The marker in the park, at 395 Camden Road, says regulars and militia under General James Wilkinson built this supply post in March 1792, for Anthony Wayne's campaign, after disastrous expeditions in 1790 and 1791. The marker does not, in the lines I have, say who the fort was named for. I will not guess. It stood by a spring the marker calls fine, a palisade one hundred twenty feet square, with a bastion at each corner. William Henry Harrison, later president, was in the detachment that built it. He did not command it. On November 6, 1792, the marker says Miami chief Little Turtle and about two hundred warriors hit a camp of Kentucky militia under Major John Adair, outside the fort. Six Kentuckians died. The marker says an unknown number of the attackers died. The six were buried fifty paces west of the fort, under what the marker calls the Whispering Oak. The city says a fenced enclosure west of the fort site still marks those graves. In 1922 a monument went up on the one hundred thirtieth anniversary. In 1923 the state made a memorial on seventy-seven acres. This pin is the park. Not the square.",
+    long: "",
+    names: ["Little Turtle", "John Adair", "William Henry Harrison", "Fort St. Clair"]
+  },
+  {
+    id: "eaton-cholera",
+    name: "1849 and 1859",
+    lat: 39.7452,
+    lng: -84.6354,
+    radius: 350,
+    short: "In 1849 the encyclopedia says Eaton had a cholera outbreak. About half the people left. Of the six hundred who stayed, one hundred twenty died. Those are the page's numbers. I will not turn them into a rate the page did not print. In June 1859 a fire burned thirteen of the main businesses. The loss was put at forty to fifty thousand dollars. The page says incendiaries set it. I will not name a person the page does not. The courthouse was scorched and left brown. This pin is the town. Not a ward list.",
+    long: "",
+    names: ["Eaton"]
+  },
+  {
+    id: "eaton-not-invented",
+    name: "What I Will Not Add",
+    lat: 39.7428,
+    lng: -84.6380,
+    radius: 300,
+    short: "I will not put the National Road through this square. The page says two turnpikes and does not name them. I will not tell you which nation, besides the Miami, was in the fight on November 6. The marker says Little Turtle and about two hundred warriors, and it stops there. What is written down is a fort in March 1792, a plat acknowledged on February 20, 1806, a county named for a naval officer in 1808, and a square Bruce set aside for a courthouse. The next place on your list is Edison.",
+    long: "",
+    names: ["Eaton"]
+  },
+
+  {
+    id: "approach-edison-oh",
+    name: "Edison",
+    lat: 40.5583,
+    lng: -82.8633,
+    radius: 1500,
+    layer: "approach",
+    short: "You are coming up on Edison. A village in Gilead Township, Morrow County, on the west side of Mount Gilead, the county seat. The census says it covers twenty-nine hundredths of a square mile, all land. In 2020 it counted four hundred twenty-two people. The estimate for 2023 is four hundred forty-one. On the table I have, the count starts at one hundred fifty-two in 1880 and peaks at five hundred sixty-nine in 1970. The village offices are on Boundary Street. If you are by the tracks, I'll start with the names, because there are four of them.",
+    long: "",
+    names: ["Edison"]
+  },
+  {
+    id: "edison-four-names",
+    name: "Not the Inventor",
+    lat: 40.5578,
+    lng: -82.8628,
+    radius: 250,
+    short: "The village's own page says it was first West Gilead. A railroad note says it was first known as Mount Gilead Station, and that by the time the tracks were down the name was Gilead Station. The encyclopedia says it was formerly Gilead Station, and later Levering. A station note says Levering Station was for State Senator Allen Levering, and that the name collided with another Levering, in Knox County. The present name is for Thomas Alva Edison, the inventor. He did not live here. I will not put a laboratory on Boundary Street. The dates do not match. The encyclopedia says a post office called Gilead Station opened in 1874, and the name became Edison in 1881. The village page's own recollection says the first post office was 1877, I. T. McLain postmaster, and that a petition changed Levering Station to Edison in 1882, because of the Knox County office. I will not average 1874 with 1877, or 1881 with 1882. This pin is the village. Not Menlo Park.",
+    long: "",
+    names: ["Thomas Edison", "Allen Levering"]
+  },
+  {
+    id: "edison-mozier",
+    name: "He Bought the Lots Back",
+    lat: 40.5588,
+    lng: -82.8640,
+    radius: 200,
+    short: "The village page says that on July 23, 1851, Luther Mozier laid the town out, soon after the railroad was finished. He did not like the way the place was being improved. He had the town discontinued and bought back the lots he had sold. In April 1876 he laid it out again. By then, that page says, the railroad was calling it Levering Station. He gave the ground for the depot and was the agent for many years. He built the first house. The first dry-goods store was John Tucker's. The first grocery was Davenport Rogers. The first grain warehouse was Young and Harrison. The first commencement, in 1889 and 1890, was at the Methodist Church. Clarence Mosier and Mary Hartly were the first graduates. That is the spelling on the page. This pin is the village. Not the lots he bought back.",
+    long: "",
+    names: ["Luther Mozier"]
+  },
+  {
+    id: "edison-the-station-moved",
+    name: "They Dragged the Depot",
+    lat: 40.5572,
+    lng: -82.8620,
+    radius: 250,
+    short: "A station note says the Cleveland, Columbus, Cincinnati and Indianapolis built a depot here about 1850, and that trains started in February 1851. The same note calls the first building a C.C.C. station. I will not mash those initials into one company. It stood on the west side of the track, across from Vine Street. The first agent was Luther D. Mozier. The line crossed his land. He or his family kept the agency for the next seventy-five years. About 1880 the railroad wanted the depot where the Big Four met the Toledo and Ohio Central. A steam locomotive was hitched to the building and it was slid, slowly, up the tracks. Records of the New York Central, which later owned both lines, date the combined station at 1891. I will not tell you a wrecking crew took it down in 1963. That sentence, on the page I used, belongs to a different station. This pin is the tracks. Not the engine.",
+    long: "",
+    names: ["Luther Mozier"]
+  },
+  {
+    id: "edison-not-invented",
+    name: "What I Will Not Add",
+    lat: 40.5592,
+    lng: -82.8650,
+    radius: 200,
+    short: "These pages give the village no battlefield, no fort, and no Native town I can cite. Mount Gilead is the next town east, and I will not tell you its story from this side of the line. What is written down is a plat on July 23, 1851 that the founder bought back, a second plat in April 1876, a depot dragged up the rails about 1880, and a name taken from an inventor who never lived here. The next place on your list is Eldorado.",
+    long: "",
+    names: ["Edison"]
+  },
+
+  {
+    id: "approach-eldorado-oh",
+    name: "Eldorado",
+    lat: 39.9042,
+    lng: -84.6753,
+    radius: 1400,
+    layer: "approach",
+    short: "You are coming up on Eldorado. A village in Monroe Township, Preble County, in the Dayton area. Not the county seat. That is Eaton. The census says it covers twenty-three hundredths of a square mile, all land. In 2020 it counted four hundred fifty-eight people. The estimate for 2023 is four hundred fifty-three. On the table I have, the count starts at three hundred thirty-seven in 1880, bottoms at two hundred ninety-two in 1930, and peaks at five hundred forty-nine in 1990. One page says the name EL-duh-RAY-doh. Another says EL-door-AH-doh. I will not pick. There is another Eldorado in Butler County. This pin is Preble. If you are on Main Street, I'll start with eighteen lots.",
+    long: "",
+    names: ["Eldorado"]
+  },
+  {
+    id: "eldorado-mcwhinney",
+    name: "Eighteen Lots",
+    lat: 39.9048,
+    lng: -84.6746,
+    radius: 200,
+    short: "An 1881 county history says the first man to build here was Leroy McWhinney. In 1852 he put up a house, a store, a mill, a depot, and a grain warehouse. He owned the land. He platted the town, and he named it. The book does not say why he chose Eldorado. I will not borrow the story of a golden city. The plat was recorded on December 31, 1852. The scan of his signature is muddy. It looks like L. R. McWhinney. I will not invent the middle name. At the recording there were only eighteen lots. Later additions, the book says, were made by A. C. Ford, Henry Lawrence, and Samuel Banfill. The Ford line is smudged. I will not clean it into a different name. The village sits in the southeastern part of section five. This pin is Main Street. Not the deed.",
+    long: "",
+    names: ["Leroy McWhinney"]
+  },
+  {
+    id: "eldorado-hamburgh",
+    name: "Hamburgh",
+    lat: 39.8905,
+    lng: -84.6753,
+    radius: 400,
+    short: "The same book says the first place here that you could call a town was Hamburgh, a mile south of Eldorado. That is the spelling on the page, with the H. Samuel Adams built the first store there, on ground later owned by Mrs. Polly Kitson. The church interest started at Hamburgh, and the first churches were built there. Then the railroad came through the north part of the township. Business moved to Eldorado. Hamburgh was left empty. I will not tell you a stone still marks the store. The book does not. This pin is about a mile south. Not the village you are in.",
+    long: "",
+    names: ["Samuel Adams"]
+  },
+  {
+    id: "eldorado-two-railroads",
+    name: "May 13, 1872",
+    lat: 39.9036,
+    lng: -84.6760,
+    radius: 250,
+    short: "The book says the growth was due entirely to the Dayton and Western railroad. It also says that from 1870, Matthew T. McWhinney was the agent here for the Pittsburgh, St. Louis and Cincinnati, and for the American Express. I will not tell you those are the same tracks. The page uses both names and does not join them. He was born in Jackson Township in 1842, married Mary A. Wilder of Worcester, Massachusetts, in 1860, and from 1870 kept a general store and bought grain and wool. The book puts that trade at twelve thousand dollars a year. Eldorado is the only incorporated town the book counts in Monroe Township. The incorporation is May 13, 1872. The first officers were not elected until 1876. He was the first mayor, and he served until 1878. A gazetteer says a post office opened in 1854. I do not have the appointment. This pin is the village. Not the depot.",
+    long: "",
+    names: ["Matthew McWhinney"]
+  },
+  {
+    id: "eldorado-not-invented",
+    name: "What I Will Not Add",
+    lat: 39.9054,
+    lng: -84.6738,
+    radius: 200,
+    short: "I will not hang this name on the Barbary War. That naming habit belongs to Eaton and to the county, and this book does not use it here. I will not name the second mayor. The line that says there was one, in 1879, does not, in the piece I have, give me a clean name. These pages give the village no battlefield and no Native town I can cite. What is written down is eighteen lots recorded on the last day of 1852, a mile-south store that the railroad emptied, and a mayor who was also the station agent. The next place on your list is Elgin.",
+    long: "",
+    names: ["Eldorado"]
+  },
+
+  {
+    id: "approach-elgin-oh",
+    name: "Elgin",
+    lat: 40.7428,
+    lng: -84.4761,
+    radius: 1200,
+    layer: "approach",
+    short: "You are coming up on Elgin. A village in York Township, in the southeast corner of Van Wert County. Not the county seat. That is Van Wert. The census says the village covers twenty-three hundredths of a square mile, all land. In 2020 it counted forty-nine people. The estimate for 2023 is forty-five. On the table I have, the count starts at two hundred eight in 1900 and never gets that high again. In 2010 there were fifty-seven people and twenty-two houses. The encyclopedia's picture is a grain elevator. I do not have the year it was built. If you are on Main Street, I'll start with a name the post office would not allow.",
+    long: "",
+    names: ["Elgin"]
+  },
+  {
+    id: "elgin-yorktown",
+    name: "Yorktown",
+    lat: 40.7432,
+    lng: -84.4756,
+    radius: 200,
+    short: "The county historical society, in a post, says the story starts with York Township. In 1835 Jonathan VanEman was the first to buy land in what that post calls Elgin. That is the later name. By 1859, church was being held in the log schoolhouse. The post says that in that time the village took the name Yorktown. There was already a Yorktown post office, so the name Elgin was chosen. The post does not say why Elgin, and it does not give the year of the change. I will not invent a watch, a county in Scotland, or a man. This pin is the village. Not the log school.",
+    long: "",
+    names: ["Jonathan VanEman"]
+  },
+  {
+    id: "elgin-oil",
+    name: "Two Hundred and Eight",
+    lat: 40.7424,
+    lng: -84.4766,
+    radius: 250,
+    short: "The same post says the first plat was recorded in 1883, and the incorporation in 1897. In 1883 the Chicago and Atlantic came through. A depot went up on the north side of the tracks, on the west side of Main Street. The post says the line was later bought by the Chicago-Erie, and that by 1916 it was double track. I will not add the merger dates the post left out. It says that four years late the population was between two hundred and three hundred, many of them here for an oil boom. The sentence is missing a letter. I will not turn it into a year. The first census on the table is 1900, and the number is two hundred eight. By 1910 it was one hundred twenty-nine. By 1960 it was eighty. The post does not name a well. I will not name one. This pin is Main Street. Not a derrick.",
+    long: "",
+    names: ["Elgin"]
+  },
+  {
+    id: "elgin-not-invented",
+    name: "What I Will Not Add",
+    lat: 40.7436,
+    lng: -84.4750,
+    radius: 200,
+    short: "Around 1897, the post says, Elgin left the township schools and built a two-room village school. In 1905 it went back. The post says probably because the oil boom was running out and the enrollment was falling. Probably is their word. I will keep it. These pages give the village no battlefield and no Native town I can cite. I will not tell you the capture of Major André on this street. That is the county's name, not this depot. What is written down is a purchase in 1835, a name the mail would not share, a plat and a railroad in 1883, and forty-nine people in 2020. The next place on your list is Elida.",
+    long: "",
+    names: ["Elgin"]
+  },
+  {
+    id: "approach-elida-oh",
+    name: "Elida",
+    lat: 40.7867,
+    lng: -84.1989,
+    radius: 1800,
+    layer: "approach",
+    short: "You are coming up on Elida. Say it ee-LY-duh. A village in American Township, Allen County, in the Lima area. Not the county seat. The infobox says one point one seven square miles, all land. The geography line on the same page says one point two two. I will not average them. In 2020 it counted one thousand nine hundred twenty-three people. The estimate for 2023 is one thousand nine hundred. On the table I have, the count starts at five hundred thirty-three in 1870, falls to three hundred two in 1880, and doubles between 1950 and 1960, from six hundred seven to one thousand two hundred fifteen. A post office called Elida opened in 1854 and closed in 1959. The village did not close with it. If you are on Main Street, I'll start with the man who owned the farm.",
+    long: "",
+    names: ["Elida"]
+  },
+  {
+    id: "elida-griffith",
+    name: "Hawg Creek",
+    lat: 40.7874,
+    lng: -84.1980,
+    radius: 300,
+    short: "The school district's history says Griffith John married Rachael Miller on February 20, 1817. She was the daughter of George and Mary Miller. Mary was a Custer. In 1831 the family moved into German Township, in Allen County. That page says the township was changed to American Township in 1918. It does not say why. I will not fill it in. The same page says Jacob Turkeyfoot, called there an Indian brave, was their guide. It gives no nation and no town. I will not assign one. The village's own page says he carved a homestead from one hundred sixty acres along Hawg Creek, and that is the spelling they use, and that he built a sugar camp. The school page says that in time he owned one thousand six hundred forty acres. I will not make those the same field. He farmed and raised hogs. He and Rachael had thirteen children, and the school page says he gave each surviving adult eighty acres. He was a county commissioner for a term. That page says he was a Whig until 1840 and then a Democrat, and it adds, in parentheses, present-day Republican Party. I will not pass that parenthesis on. The two names did not trade places. This pin is the village. Not the creek.",
+    long: "",
+    names: ["Griffith John", "Jacob Turkeyfoot"]
+  },
+  {
+    id: "elida-the-brother",
+    name: "A Brother's Name",
+    lat: 40.7860,
+    lng: -84.1996,
+    radius: 250,
+    short: "In 1852 the Pittsburgh, Fort Wayne and Chicago was laid through his land. The school page says he was the only man between Lima and Delphos who gave the company a right of way, and that he got the contract to build a mile of roadbed through his own farm. The village page says he built that mile himself. A contract and a shovel are not the same sentence. In the fall of 1852 he platted the village and gave lots for the Evangelical Lutheran church and the Methodist church. Both pages say he named it for his brother, Elida John. The school page gives the brother's birthday, August 29, 1805, and stops. The village page calls the brother an abolitionist and a conductor on the Underground Railroad, and says he never lived to see the town. Those sentences are not in the school history I have. I will not put a station in a house the page does not show. This pin is Main Street. Not a depot on the line to Canada.",
+    long: "",
+    names: ["Elida John"]
+  },
+  {
+    id: "elida-murray",
+    name: "1878",
+    lat: 40.7870,
+    lng: -84.1974,
+    radius: 200,
+    short: "The village was incorporated in 1878. The school page says R. R. Murray was the first mayor. The same page says a man named Myers had the first grocery, in part of his house, and lived in the rest. The house stood on Main Street and was later moved to a back street. I do not have his first name. I will not invent one. This pin is Main Street. Not the grocery.",
+    long: "",
+    names: ["Elida"]
+  },
+  {
+    id: "elida-not-invented",
+    name: "What I Will Not Add",
+    lat: 40.7856,
+    lng: -84.2002,
+    radius: 250,
+    short: "I will not tell you why the count fell by almost half between 1870 and 1880. The table prints the numbers and does not print a cause. I will not tell you why the post office shut in 1959. These pages give the village no battlefield. The one Native name I have is a guide in 1831, and nothing more. What is written down is a plat in the fall of 1852, a brother's name, a mile of railroad bed, and a grocery that moved off Main Street. The next place on your list is Elliston.",
+    long: "",
+    names: ["Elida"]
+  },
+
+  {
+    id: "approach-elliston-oh",
+    name: "Elliston",
+    lat: 41.5476,
+    lng: -83.2802,
+    radius: 1200,
+    layer: "approach",
+    short: "You are coming up on Elliston. Not a village with a census of its own. A populated place in Benton Township, Ottawa County, on the Genoa map, about six hundred feet above the lake plain. A gazetteer says the name EL-iss-tun. There is another Elliston in Hamilton County. This pin is Ottawa. The postal code printed for it is 43432, the same code that list gives Graytown, about a mile east. Elmore is about five miles south. I do not have a population. If you are at the crossing, I'll start with what the county genealogical society actually wrote, which is not much.",
+    long: "",
+    names: ["Elliston"]
+  },
+  {
+    id: "elliston-the-tracks",
+    name: "Most Likely the 1850s",
+    lat: 41.5473,
+    lng: -83.2805,
+    radius: 250,
+    short: "The Ottawa County Genealogical Society says the area was settled by the eighteen-sixties, and that it most likely started in the eighteen-fifties, along the railroad tracks. Most likely is their hedge. I will keep it. They do not name the railroad. I will not borrow the Toledo, Norwalk and Cleveland from Elmore's line on the same page. A post office was established on March 12, 1872. A separate gazetteer says an Elliston post office opened in 1872 and closed in 1981. I will not swear those are one continuous office. I do not have the appointment papers. A map puts an Elliston post office on these same coordinates, and a cemetery about half a mile off. I do not have the stones. This pin is the crossing. Not a deed.",
+    long: "",
+    names: ["Elliston"]
+  },
+  {
+    id: "elliston-not-invented",
+    name: "What I Will Not Add",
+    lat: 41.5482,
+    lng: -83.2794,
+    radius: 200,
+    short: "The same county page names Benton, Blackberry Corner, Eber, and Middleton as other spots on these roads. I will not tell you their stores and their vacated lots as if they were Elliston. Nobody on these pages says who Elliston was, or why the name, or the day of a plat. I will not invent a man named Ellis. What is written down is a settlement along the tracks by the eighteen-sixties, and a post office dated March 12, 1872. The next place on your list is Elmore.",
+    long: "",
+    names: ["Elliston"]
+  },
+
+  {
+    id: "approach-elmore-oh",
+    name: "Elmore",
+    lat: 41.4762,
+    lng: -83.2958,
+    radius: 1800,
+    layer: "approach",
+    short: "You are coming up on Elmore. A village on the Portage River, split between Ottawa County and Sandusky County. The Ottawa side is counted with Toledo. The Sandusky side is counted with Fremont. The census says one thousand three hundred seventy people in 2020. In 2025 the mayor, Thomas Jackson, told a television reporter one thousand three hundred eighty. I will not average them. A gazetteer says the name EL-more, and that a post office opened in 1852. The post office on the map is at 328 Rice Street. The land is tabletop flat. This used to be the Black Swamp. If you are at the river, I'll start with a plat that was not the first house.",
+    long: "",
+    names: ["Elmore"]
+  },
+  {
+    id: "elmore-foster",
+    name: "October 2, 1851",
+    lat: 41.4758,
+    lng: -83.2964,
+    radius: 250,
+    short: "The county genealogical society says John H. Foster platted Elmore in 1851, when the Toledo, Norwalk and Cleveland came through an existing residential area on the Portage River. The encyclopedia says it was surveyed and platted on October 2, 1851, and does not, in the lines I have, name Foster. I will not glue those into one sentence the pages did not write. The encyclopedia says it is believed the river's name comes from men portaging canoes around the shallows. Believed is the page's word. It says Native people lived in this swamp until the nineteenth century, and it does not name a nation. I will not borrow one. It says German settlers, in the first half of the eighteen-hundreds, drained the ground and cut the timber. These pages do not say who the village was named for. I will not invent a son. This pin is the river. Not a trading post I cannot cite.",
+    long: "",
+    names: ["John H. Foster"]
+  },
+  {
+    id: "elmore-plank-road",
+    name: "The Plank Road",
+    lat: 41.4749,
+    lng: -83.2957,
+    radius: 300,
+    short: "The encyclopedia says sawmills nearby cut the planks for a muddy plank road between Fremont and Perrysburg, the road now designated United States 20. I will not tell you the planks were numbered 20 in 1851. The Ohio Turnpike later took the through traffic. The page says the building of that road in the nineteen-fifties hit every town along United States 20, and it points at abandoned motels and restaurants along the course. It does not name a closed motel in Elmore. I will not point at one. This pin is the old road. Not the toll booth.",
+    long: "",
+    names: ["Elmore"]
+  },
+  {
+    id: "elmore-the-car",
+    name: "The Elmore Car",
+    lat: 41.4755,
+    lng: -83.2948,
+    radius: 200,
+    short: "The encyclopedia says the Elmore automobile was first made here, and that it was one of the first companies William C. Durant bought when he formed General Motors. Then the factory was moved to Clyde. A 2025 television story says an original Elmore car sits in the Harris-Elmore Library, that the company was bought in 1908 and dropped as a line a few years later, and that the mayor says from 1909 to 1911 it was one of the official taxis in Washington. About one thousand two hundred cars a year is the story's figure. I do not have the factory book. The same story starts a sentence about a tragedy, a few years later, that got into novels read across the country. The extract I have does not finish the sentence. I will not guess the death. The library's local archive was collected by Grace Luebke. This pin is the village. Not Clyde.",
+    long: "",
+    names: ["Elmore"]
+  },
+  {
+    id: "elmore-not-invented",
+    name: "What I Will Not Add",
+    lat: 41.4768,
+    lng: -83.2942,
+    radius: 250,
+    short: "In 1968 the town's school merged with Woodville. The bulldogs became the Woodmore Wildcats. The television story puts a graduating class at eighty-five to ninety. The Portage River Festival is the fourth Sunday in June, and there is another gathering on Labor Day weekend. I will not tell you Elmore lost a vote to be the county seat. That claim is not in the pages I am willing to use. What is written down is a plat on October 2, 1851, on a river where people already lived, a plank road toward Fremont, and a car that left for Clyde. The next place on your list is Elmwood Place.",
+    long: "",
+    names: ["Elmore"]
+  },
+
+  {
+    id: "approach-elmwood-place-oh",
+    name: "Elmwood Place",
+    lat: 39.1856,
+    lng: -84.4892,
+    radius: 1200,
+    layer: "approach",
+    short: "You are coming up on Elmwood Place. A village in Hamilton County, in the Mill Creek valley. Except for a piece that touches St. Bernard, Cincinnati has it surrounded. The census says thirty-two hundredths of a square mile, all land, and two thousand eighty-seven people in 2020. That is about sixty-five hundred people to the square mile. The estimate for 2023 is two thousand fifty-five. On the table I have, the count starts at two thousand five hundred thirty-two in 1900, peaks at four thousand five hundred sixty-two in 1930, and has fallen since. The encyclopedia's picture is Vine Street. The postal code is 45216. The schools are shared with St. Bernard. If you are on Vine, I'll start with 1875, not with the army.",
+    long: "",
+    names: ["Elmwood Place"]
+  },
+  {
+    id: "elmwood-place-1875",
+    name: "1875",
+    lat: 39.1860,
+    lng: -84.4886,
+    radius: 200,
+    short: "The encyclopedia says Elmwood Place was laid out in 1875, and incorporated in 1890. A county-history line, quoted in a later map note, says the men who laid it out were Frank L. Whetstone and L. C. Hopkins. I have the sentence. I do not have the page. A 2021 village report says the incorporation was 1890 in the prose, and 1889 in a fact table. I will not average them. The encyclopedia says the place was built up chiefly by German Catholics. The same 2021 report says residents still talk about that, and then it says the first church was the Union Sabbath school, started in 1878, which became Union Chapel in 1882. Those two sentences can both sit on the table. I will not make the first church Catholic to match the other page. I will not tell you the name comes from elm trees. A 1946 booklet is called Elm Tree Days. A title is not an origin. This pin is Vine Street. Not a deed.",
+    long: "",
+    names: ["Frank Whetstone", "L. C. Hopkins"]
+  },
+  {
+    id: "elmwood-place-wayne",
+    name: "Not a Founding",
+    lat: 39.1850,
+    lng: -84.4900,
+    radius: 300,
+    short: "That 2021 report quotes Mildred Schulze, librarian at the Elmwood Place branch in 1946. Her booklet says that on October 7, 1793, General Anthony Wayne and his men left what the report prints as Cap Hobson's Choice, at Cincinnati, and followed an old trace up Mill Creek Valley toward Lockland. The camp at Cincinnati is Camp Hobson's Choice. I will not invent a captain. The report calls this the first event here with white people. It is a march through the valley, eighty-two years before anybody platted a village. I will not tell you Wayne laid out Elmwood Place. This pin is the valley. Not a camp.",
+    long: "",
+    names: ["Anthony Wayne"]
+  },
+  {
+    id: "elmwood-place-vine",
+    name: "Vine Street",
+    lat: 39.1854,
+    lng: -84.4894,
+    radius: 200,
+    short: "The report says the eighteen-eighties brought St. Matthew Evangelical and Reformed, Elmwood Presbyterian, Elmwood Methodist Episcopal, and St. Aloysius Catholic. The eighteen-nineties brought the First Baptist Church, attended by members of the Black community, and St. Peter's Episcopal. Elmwood Pilgrim started in 1922. Highland Avenue Baptist opened in 1937. Residents told the interviewers there wasn't an empty storefront on Vine Street, and that this was the only self-sustaining community on that corridor, with its own doctors, beauty shops, dry goods, and hardware. That is memory, not a directory. The report's industry line reads Tool, Steel, Gear and Pinion. I will not swear that is one sign over one door. The railroad is still in the valley. This pin is Vine Street. Not a factory gate.",
+    long: "",
+    names: ["Elmwood Place"]
+  },
+  {
+    id: "elmwood-place-not-invented",
+    name: "What I Will Not Add",
+    lat: 39.1864,
+    lng: -84.4880,
+    radius: 200,
+    short: "In 2020 the census counted the village fifty-seven point eight percent white and twenty-seven percent Black, with the rest split among the other lines. I will not tell you a cause for the drop from four thousand five hundred sixty-two. The table does not. I will not mix this village up with any other Elmwood. What is written down is a plat in 1875, a ring of churches, a street people remember as full, and a city that grew around a third of a square mile and did not take it. The next place on your list is Empire.",
+    long: "",
+    names: ["Elmwood Place"]
+  },
+
+  {
+    id: "approach-empire-oh",
+    name: "Empire",
+    lat: 40.5111,
+    lng: -80.6247,
+    radius: 1400,
+    layer: "approach",
+    short: "You are coming up on Empire. A village in Knox Township, Jefferson County, on the Ohio River, in the Weirton and Steubenville area. Not the county seat. That is Steubenville. A 1910 county history puts it three miles above the Toronto station, at the mouth of Jeremy's Run. The census says three-tenths of a square mile, all land. In 2020 it counted two hundred thirty-two people. The estimate for 2023 is two hundred twenty-five. On the table I have, the count starts at four hundred forty-one in 1890, peaks at seven hundred three in 1930, and has fallen since. A post office called Empire has been open since 1886. The village incorporated in 1897. If you are on the riverbank, I'll start with the stumps, not with the name on the sign.",
+    long: "",
+    names: ["Empire"]
+  },
+  {
+    id: "empire-stumptown",
+    name: "Stumptown",
+    lat: 40.5118,
+    lng: -80.6240,
+    radius: 200,
+    short: "The same book says the origin of the name Jeremy's Run is forgotten. A grove of sugar maples here was one of the famous camps in the county. When it was cleared, the place was named Stumptown. One bad scan of that book reads Slumptown. A later village program also says Stumptown. I will keep the stumps. In 1821 Alexander Stewart, senior, bought from a man named Buttenburg the part of town lying above Stewart Street. Lewis K. McCoy, the book says, later got a large tract on the south side, through a lucky investment in a lottery ticket. It does not name the lottery. A 1988 village program flips the sides, and it respells the seller. I will not pick a side of the street. This pin is the run. Not a maple.",
+    long: "",
+    names: ["Lewis K. McCoy", "Alexander Stewart"]
+  },
+  {
+    id: "empire-shanghai",
+    name: "Shanghai",
+    lat: 40.5106,
+    lng: -80.6254,
+    radius: 250,
+    short: "Captain James Young, a sailor, came in 1850 with a collection of Shanghai chickens, probably the first in the county. The hamlet took that name. Probably is the book's word. I will not stretch it to the whole country. His house stood close to where the Cleveland and Pittsburgh depot later stood, in a big yard. When the railroad came, the house was moved a short way east and later much altered. W. Stanley lived in it. In 1855 Abraham Peters kept a tavern there. For a while the town was Olive City, for the youngest daughter of Lewis K. McCoy. The book does not give her more than that. In the fall of 1856 the railroad arrived. The officials, the book says, did not fancy the name Shanghai, or perhaps they wanted to compliment McCoy, who had given them a right of way. They named the station for him. The next year he laid out lots fifty by one hundred feet, and streets sixty feet wide. The precinct still voted under the old name, Shanghai. Samuel Henry was the first to build on the new plat. This pin is the old depot ground. Not a henhouse.",
+    long: "",
+    names: ["James Young", "Samuel Henry"]
+  },
+  {
+    id: "empire-not-invented",
+    name: "What I Will Not Add",
+    lat: 40.5122,
+    lng: -80.6236,
+    radius: 200,
+    short: "The encyclopedia's list of names is Shanghai, McCoy's Station, Olive City, and Empire. It leaves out Stumptown. A county genealogy page adds an Empire Sewer Pipe Company in 1885, and says that is when City was dropped. The 1910 book, in the pages I have, does not say that. I will not let a pipe works name the town. I will not tell you a coal mine here. The county had coal. These pages do not put a tipple on this street. What is written down is a sugar camp, a lottery ticket, a sailor's chickens, a station named for the man who gave the right of way, and a village that incorporated in 1897. The next place on your list is Enon.",
+    long: "",
+    names: ["Empire"]
+  },
+
+  {
+    id: "approach-enon-oh",
+    name: "Enon",
+    lat: 39.8703,
+    lng: -83.9331,
+    radius: 1800,
+    layer: "approach",
+    short: "You are coming up on Enon. Say it EE-nun. A village in Mad River Township, Clark County, in the Springfield area. Not the county seat. The village's own page puts it seven and a half miles southwest of Springfield, on the old Springfield and Dayton turnpike. The census says one point two nine square miles, all land. In 2020 it counted two thousand four hundred forty-nine people. The estimate for 2023 is two thousand four hundred thirty-seven. A gazetteer has two thousand six hundred thirty-eight in 2000, and two thousand four hundred fifteen in 2010. I do not have the older table. A post office called Enon has been open since 1838. The one on the map is at 27 North Xenia Drive. The encyclopedia's picture is the side of a mound. If you are on the turnpike, I'll start with the name.",
+    long: "",
+    names: ["Enon"]
+  },
+  {
+    id: "enon-springs",
+    name: "Abundance of Springs",
+    lat: 39.8708,
+    lng: -83.9324,
+    radius: 250,
+    short: "The village page says the name means abundance of springs, and that from 1817 to 1838 this was a farming center. The encyclopedia says the village is named for the river Aenon, in Israel, the place in the story where John the Baptist baptized people. I will not mash those into one sentence the pages did not write. On May 19, 1838, Ezra Baker and Elnathan Corey platted the site. Lots one through sixty were approved on June 18. The page says the town was dedicated when the Springfield and Dayton road was laid out. It does not give that road a year. The village was incorporated on March 15, 1850. The encyclopedia's box says established 1850. That is the incorporation, not the plat. The first settlers in the township, the page says, came sometime before 1798. It does not name them. I will not. This pin is the village. Not a spring.",
+    long: "",
+    names: ["Ezra Baker", "Elnathan Corey"]
+  },
+  {
+    id: "enon-mound",
+    name: "The Knob",
+    lat: 39.8696,
+    lng: -83.9340,
+    radius: 200,
+    short: "The encyclopedia says the Enon Adena Mound, also called the Knob Prairie Mound, is the second largest conical burial mound in Ohio, and that it stands in the village. It is believed to have been built by the Adena. Believed is the page's word. It says the mound was reportedly used for a lookout by George Rogers Clark during the Battle of Piqua. Reportedly stays. I will not fight that battle on this knob. The village page says three groups lived in this area before the settlers. It names the Adena first, then the Hopewell, and it points at excavations of the Campbell mounds for that second name. Last, it says, were the Shawnee, at Old Piqua, where George Rogers Clark Park is now. That park is not this street. The page also says the village sat on a trail between Old Piqua and Old Chillicothe. I will not invent a village of either name inside the plat. This pin is the mound. Not the park.",
+    long: "",
+    names: ["Enon"]
+  },
+  {
+    id: "enon-not-invented",
+    name: "What I Will Not Add",
+    lat: 39.8712,
+    lng: -83.9316,
+    radius: 250,
+    short: "The encyclopedia says Gus Grissom lived here with his family while he was stationed at Wright-Patterson. It does not give the house or the years. It says Enon is the headquarters of the Speedway chain. I will not tell you the corporate history. It says that in 1973 the Gideon's Trust Loyal Orange Lodge was established here, to mark Ulster Scots and Orange heritage. I will not preach it. I will not tell you the height of the mound. I do not have it in the lines I am using. What is written down is a plat on May 19, 1838, a name tied either to springs or to a river in a gospel, and a knob the book calls the second largest of its kind in the state. The next place on your list is Etna.",
+    long: "",
+    names: ["Gus Grissom"]
+  },
+
+  {
+    id: "approach-etna-oh",
+    name: "Etna",
+    lat: 39.9574,
+    lng: -82.6816,
+    radius: 1600,
+    layer: "approach",
+    short: "You are coming up on Etna. Not a village with a charter. An unincorporated place in Etna Township, Licking County, counted as its own census place since 2010. The county seat is Newark, about twenty miles northeast. The census says one thousand two hundred nine people in 2020. The box says sixty-two hundredths of a square mile, with a sliver of water. The geography line on the same page says seven-tenths, with more water. I will not average them. United States 40, the old National Road, is the north edge. Interstate 70 is the south edge. Columbus is about eighteen miles west. Zanesville is about thirty-five east. The postal code printed here is 43062, and the encyclopedia puts Pataskala in parentheses beside it. The pin I am using is the historical marker at Pike Street and Liberty Street. If you are on the Pike, I'll start with Carthage.",
+    long: "",
+    names: ["Etna"]
+  },
+  {
+    id: "etna-carthage",
+    name: "Carthage",
+    lat: 39.9578,
+    lng: -82.6824,
+    radius: 250,
+    short: "The township page says this ground was not settled until 1815, when John Williams took what later was called the Matthews farm. The same page spells the man who laid out the town Lyman Terrell in the prose, and Lyman Terrill in the timeline. A historical marker spells him Lyman Turrill, and says he came from Vermont. I will not pick a spelling. The timeline says that in 1831 he bought one hundred fifty-seven acres from Isaiah Brown, platted seventy-nine lots, set aside land for the public equal to eight lots, and called the town Carthage. It was still Lima Township. In 1832 Abraham Gantz bought the first lot for three dollars. The marker says lots sold from three dollars to five. In 1833 he platted fifty-three more lots on the east side. The encyclopedia says Carthage was laid out in 1832, while the National Road was being built to this point. A line on the township page says Etna, as laid out, was nine and a half miles long and two and a half wide. That is the size of a township, not of seventy-nine lots. I will not tell you the town was nine miles long. This pin is the Pike. Not a deed.",
+    long: "",
+    names: ["Lyman Terrell", "Abraham Gantz"]
+  },
+  {
+    id: "etna-the-volcano",
+    name: "The Highest Point",
+    lat: 39.9570,
+    lng: -82.6808,
+    radius: 200,
+    short: "The township page says he renamed Carthage Etna, after the volcano in Sicily, when he was told this was the highest point between Jacksontown and Columbus. The marker adds that he heard it from a West Point graduate who was surveying the National Road. The marker does not name the graduate. The encyclopedia says the present name comes from Etna Township, and it does not mention a volcano. The township was formed in 1833. The marker says from Harrison and Lima. The township timeline says from Lima. The first election, the township page says, was at the house of John Henthron on June 22, 1833. The marker says Mr. Henthorn kept a tavern, and that the pioneers gathered in his bar room to found the town. A long two-story house, north side of the Pike, about seventy-five yards west of the Main Street that leads to Pataskala. I will not make Henthron and Henthorn two men, and I will not swear they are one. The box puts the elevation at one thousand seventy feet. The sentence under it says one thousand sixty-nine. This pin is the marker. Not Sicily.",
+    long: "",
+    names: ["Etna"]
+  },
+  {
+    id: "etna-not-invented",
+    name: "What I Will Not Add",
+    lat: 39.9582,
+    lng: -82.6812,
+    radius: 250,
+    short: "The marker says that in 1834 a cholera epidemic moving along the National Road nearly emptied the town. Nearly is the word. I do not have a death list. The township page says a daily pony express ran the Pike in 1836 and 1837, at ten miles an hour. That is not the riders of 1860. A post office, the encyclopedia says, has been called Etna since 1833. The township page says since 1830. I will not average them. I will not tell you this place incorporated. The census does not list it as a village. What is written down is a plat called Carthage, a new name taken from a height or from a township or from both, a tavern on the north side of the Pike, and a sickness in 1834. The next place on your list is Euclid.",
+    long: "",
+    names: ["Etna"]
+  },
+
+  {
+    id: "approach-euclid-oh",
+    name: "Euclid",
+    lat: 41.5956,
+    lng: -81.5192,
+    radius: 3500,
+    layer: "approach",
+    short: "You are coming up on Euclid. A city in Cuyahoga County, on the south shore of Lake Erie, on Cleveland's east side. Not the county seat. The census says forty-nine thousand six hundred ninety-two people in 2020, and calls it the fourth largest city in the county. The encyclopedia's box says founded in 1796. That is the year the township was mapped, not a city hall. The village came out of the township in 1903. The city dates from 1930. Old city hall, the encyclopedia's picture says, is faced with Euclid bluestone. If you are on the lake plain, I'll start with the surveyors.",
+    long: "",
+    names: ["Euclid"]
+  },
+  {
+    id: "euclid-the-surveyors",
+    name: "A Dollar an Acre",
+    lat: 41.5964,
+    lng: -81.5184,
+    radius: 400,
+    short: "The Encyclopedia of Cleveland History says forty-one surveyors for the Connecticut Land Company were camped at Conneaut Creek, and wanted more than their contracts, because the work was nearly intolerable. On September 30, 1796, Moses Cleaveland wrote them a new contract. They would buy a township of twenty-five square miles, at a dollar an acre. Each man got a piece of lakefront, and a farm back in the hills. They had to clear land, put up houses, sow wheat and grass, and settle a set number of families within three years. They named it Euclid, for the Greek mathematician, called on that page the patron saint of surveyors. The city's own history page tells the same bargain, and then it says the township was more than thirty-five square miles. I will not average twenty-five and thirty-five. The township was incorporated in 1809. Its old lines ran from about East 140th Street to near Winchester Road, and from the lake down toward Cedar Road. Cleveland, East Cleveland, Cleveland Heights, South Euclid, Lyndhurst, and Richmond Heights were later cut out of it. Nottingham, on the northwest, incorporated on its own on August 15, 1899, and is now inside Cleveland. This pin is the lake plain. Not Conneaut.",
+    long: "",
+    names: ["Moses Cleaveland", "Euclid"]
+  },
+  {
+    id: "euclid-who-was-first",
+    name: "Who Was First",
+    lat: 41.5948,
+    lng: -81.5202,
+    radius: 300,
+    short: "The encyclopedia says the township was first settled in 1797. The general page says the first sparse settlement was in 1798, and that the real settlement began in the spring of 1804. The city's page credits David Dille, a lieutenant out of a Virginia company in the Revolutionary War, as the founder of the township, and says he built a log cabin on the west bank of Euclid Creek. The general page names the first settlers inside what is now the city: Joseph and Chloe Burke, David and Mary Dille, William and Jamima Coleman, and their children. It spells her Jamima. I will not correct it to Jemima, and I will not make Dille the only cabin. Farming, fishing, quarries, sawmills, and shipbuilding carried the township. The city page adds saltworks, a gristmill, wheat, and table grapes. After the Civil War the lake plain was known for vineyards. Another page says more than two hundred acres of them in the eighteen-eighties. This pin is Euclid Creek. Not a vineyard.",
+    long: "",
+    names: ["David Dille", "Joseph Burke", "William Coleman"]
+  },
+  {
+    id: "euclid-the-case",
+    name: "Euclid versus Ambler",
+    lat: 41.5950,
+    lng: -81.5176,
+    radius: 400,
+    short: "The village incorporated on February 14, 1903, out of the northeast of the township. The encyclopedia says one thousand six hundred forty people lived there then. In 1914 Cleveland took a strip off the west side, and the page says that cut the village to ten square miles. I will not swear the line is still ten. It became a city in 1930. By 1940 the count was seventeen thousand eight hundred sixty-six. The page says that is more than a thousand percent. The numbers are the ones I just gave you. The peak it records is seventy-one thousand five hundred fifty-two in 1970. The flat ground and the railroads, the lines now called CSX and Norfolk Southern, pulled in the factories. The biggest build was during and after the Second World War, in the corridor between St. Clair and Euclid Avenue. In 1922 the village passed a zoning ordinance to hold industry back. Ambler Realty sued. In 1926 the Supreme Court, in Euclid versus Ambler, held that zoning was constitutional. The city's page calls its planners pioneers of modern zoning, for separating the shops and the plants from the houses. That is the boast. The case is the fight. I will not turn a lawsuit against a factory into a compliment. This pin is the corridor. Not the courthouse.",
+    long: "",
+    names: ["Euclid"]
+  },
+  {
+    id: "euclid-not-invented",
+    name: "What I Will Not Add",
+    lat: 41.5968,
+    lng: -81.5168,
+    radius: 300,
+    short: "The general page says Charles F. Brush created the arc lamp here in 1876, and that George Sweigert invented the cordless telephone here in 1969. Those are the sentences. I do not have the shop or the patent in front of me. In the early nineteen-eighties the encyclopedia still counted more than one hundred forty firms, among them Euclid Incorporated, the Fisher Body division of General Motors, Lincoln Electric, and Reliance Electric. It says the plants have since thinned out. Using a 2018 estimate of forty-six thousand nine hundred forty-six, it said the city had lost more than a third of its people since 1970. The 2020 census is higher than that estimate. I will not update their fraction. I will not tell you the story of Euclid Avenue in Cleveland. That street is not this city. What is written down is a dollar an acre in 1796, a name taken from a mathematician, a village in 1903, and a lawsuit in 1926 that the whole country still cites when it talks about a zoning map. The next place on your list is Evendale.",
+    long: "",
+    names: ["Charles Brush", "George Sweigert"]
+  },
+
+  {
+    id: "approach-evendale-oh",
+    name: "Evendale",
+    lat: 39.2475,
+    lng: -84.4272,
+    radius: 2200,
+    layer: "approach",
+    short: "You are coming up on Evendale. Say it EE-ven-dale. A village in Hamilton County, in the Cincinnati area, on the Mill Creek. Not the county seat. The census says two thousand six hundred sixty-nine people in 2020. The estimate for 2023 is two thousand six hundred thirty. On the table I have, the count starts at seven hundred seventy-three in 1960, peaks at three thousand one hundred seventy-five in 1990, and has eased off since. The geography line says four point seven four square miles, all land. The density figure sits nearer four point seven seven. I will not average them. The elevation in the box is five hundred seventy-one feet. The encyclopedia prints two postal codes, 45215 and 45241. A map of the municipal building, at 10500 Reading Road, prints 45234. I will not pick. If you are on Reading Road, I'll start with a mill, not with a jet.",
+    long: "",
+    names: ["Evendale"]
+  },
+  {
+    id: "evendale-cunningham",
+    name: "The Crossroads",
+    lat: 39.2566,
+    lng: -84.4193,
+    radius: 300,
+    short: "The village's own plan says James Cunningham had eight hundred forty acres south of what is now Glendale-Milford Road, as early as 1789, and that he put a gristmill and a sawmill on the Mill Creek soon after. Soon after is the plan's phrase. I will not date the mill to 1789. By 1860 there were enough people to build a school. It opened in 1862, on the northeast corner of Reading and Glendale-Milford. The ground between Reading and Sharonville was almost all farms. That crossroads school was the center of a place that was not yet a village. These pages do not say who Evendale was named for. I will not invent a person. This pin is the corner. Not a millstone.",
+    long: "",
+    names: ["James Cunningham"]
+  },
+  {
+    id: "evendale-the-engines",
+    name: "Two Factories",
+    lat: 39.2490,
+    lng: -84.4220,
+    radius: 500,
+    short: "Do not make these one building. The village plan says the first factory was the Tennessee Corporation, in 1925, near the southwest corner of Glendale-Milford and Reading, making fertilizer, on the rail line. By 1948 that plant had been sold to AutoLite, and General Electric was leasing part of it for jet-engine work. A 2009 company history tells a second site. The yellow-brick buildings were put up in the Second World War as the Wright Aeronautical piston-engine factory. Orville Wright was at the ribbon cutting. The factory closed in 1945, when the war ended. In 1948 the Gas Turbine Division came down from Lynn, Massachusetts, into the old Wright plant. The company says that division, in Lynn, had built America's first jet engine in 1942. The first jet was not built here. The division moved here. In 2009 the company said the place covered four hundred acres and ten big buildings, that it was the aviation headquarters, and that the CFM56 was assembled here. The encyclopedia now says GE Aerospace and the Formica Corporation are headquartered in the village. I will not tell you the Formica story. I do not have it. This pin is the plant ground. Not Lynn.",
+    long: "",
+    names: ["Orville Wright"]
+  },
+  {
+    id: "evendale-the-lawsuit",
+    name: "The Neighbors Sued",
+    lat: 39.2520,
+    lng: -84.4240,
+    radius: 300,
+    short: "The village plan says the people of the place already called Evendale voted to incorporate in 1950, and that the new lines took in the old Wright plant and a cluster of other defense shops. Reading, Lockland, and Lincoln Heights sued to undo it. The suit was denied in 1951. The plan says the new village had three hundred sixty people. That is not the 1960 census. In 1953 Evendale wrote its first plan and its first zoning code. The plan quotes the code as giving Evendale the most restrictive residential zoning of any village in the county. Houses had to be single-family, and detached, on lots of at least half an acre. This pin is the village. Not Lockland.",
+    long: "",
+    names: ["Evendale"]
+  },
+  {
+    id: "evendale-not-invented",
+    name: "What I Will Not Add",
+    lat: 39.2482,
+    lng: -84.4260,
+    radius: 250,
+    short: "I will not tell you twenty-seven thousand people worked in the Wright plant. That figure is not in the pages I am willing to use. I will not give you a day in December for the charter. The plan gives the vote, and the year the neighbors lost. A trail marker on Gorman Heritage Farm Lane is about Morgan's men spreading out from Sharonville. I will not fight that raid on this street. What is written down is a mill on the creek, a school at the crossroads in 1862, a piston-engine factory that closed in 1945, a jet division that moved in from Massachusetts, and a village the neighbors tried to stop. The next place on your list is Fairfax.",
+    long: "",
+    names: ["Evendale"]
+  },
+
+  {
+    id: "approach-fairfax-oh",
+    name: "Fairfax",
+    lat: 39.1433,
+    lng: -84.3961,
+    radius: 1400,
+    layer: "approach",
+    short: "You are coming up on Fairfax. A village in Hamilton County, a suburb of Cincinnati. Not the county seat. The census says one thousand seven hundred sixty-eight people in 2020. The estimate for 2023 is one thousand seven hundred forty-three. A census compilation has one thousand nine hundred ninety-one in 1990, one thousand nine hundred thirty-eight in 2000, and one thousand six hundred ninety-nine in 2010. The box says seventy-eight hundredths of a square mile, all land. The geography line says seventy-six hundredths. I will not average them. The elevation in the box is five hundred forty-five feet. Cincinnati is on the north, the west, and the south. Mariemont is on the east and the south. A piece of Columbia Township is still on the south. If you are on the pike, I'll start with 1955.",
+    long: "",
+    names: ["Fairfax"]
+  },
+  {
+    id: "fairfax-1955",
+    name: "To Keep Cincinnati Out",
+    lat: 39.1428,
+    lng: -84.3962,
+    radius: 250,
+    short: "The encyclopedia says Fairfax incorporated as a village in 1955, to head off annexation by Cincinnati, and that it stayed inside Columbia Township after it incorporated. A real-estate page says the year was 1951. That same page dates Mariemont's incorporation to 1941. A historical marker dates Mariemont to July 12, 1949. I will not use that page as the clock. These pages do not say who Fairfax was named for. I will not invent a lord, or a county in Virginia. Columbia, the first settlement in the old township, sat on the Ohio River near where Lunken Airport is now. That is not this village. The township's story starts in 1791. The village's charter does not. This pin is the village. Not the river landing.",
+    long: "",
+    names: ["Fairfax"]
+  },
+  {
+    id: "fairfax-the-creek",
+    name: "Upper and Lower",
+    lat: 39.1436,
+    lng: -84.3954,
+    radius: 250,
+    short: "Little Duck Creek runs through the village, then to Duck Creek, then to the Little Miami, then to the Ohio. The creek splits the town into what the people here call Lower Fairfax and Upper Fairfax. That is the geography the encyclopedia is willing to put inside the line. A real-estate page, telling the township's story, talks about a Civil War camp of more than five hundred acres on the Little Miami, beside the railroad, with more than fifty thousand soldiers passing through. It does not put that camp on this street. I will not move it here, and I will not name it. This pin is the creek. Not the camp.",
+    long: "",
+    names: ["Fairfax"]
+  },
+  {
+    id: "fairfax-not-invented",
+    name: "What I Will Not Add",
+    lat: 39.1440,
+    lng: -84.3968,
+    radius: 200,
+    short: "On January 1, 2010, the village left Columbia Township by forming a paper township. That is a township drawn on the same lines as the village, so the bigger township no longer holds it. The encyclopedia says the reason was, in part, city residents' low tax contribution compared with their influence on township elections. Those are its words. I will not rewrite them into a cleaner motive. A Cincinnati paper, in June and November of 2009, wrote about the vote. I have the citations. I do not have the articles. What is written down is a village in 1955, a creek that cuts it in two, and a paper township in 2010. The next place on your list is Fairport Harbor.",
+    long: "",
+    names: ["Fairfax"]
+  },
+
+  {
+    id: "approach-fairport-harbor-oh",
+    name: "Fairport Harbor",
+    lat: 41.7478,
+    lng: -81.2731,
+    radius: 1800,
+    layer: "approach",
+    short: "You are coming up on Fairport Harbor. A village in Painesville Township, Lake County, on Lake Erie, at the mouth of the Grand River. A far east suburb of Cleveland. Not the county seat. That is Painesville. The census says three thousand one hundred eight people in 2020. The estimate for 2023 is three thousand eighty-one. The postal code on the encyclopedia is 44077. The village has two lights, and they are not the same building. One of them, the encyclopedia says, stands in the township, not inside the village line. If you are on the river mouth, I'll start with Grandon.",
+    long: "",
+    names: ["Fairport Harbor"]
+  },
+  {
+    id: "fairport-grandon",
+    name: "Grandon",
+    lat: 41.7367,
+    lng: -81.2672,
+    radius: 300,
+    short: "The village page says the Connecticut Land Company sent surveyors here in 1796 and 1797, and sold the ground mostly to men from New England. On May 16, 1812, Captain Abraham Skinner, Samuel Huntington, and a few others laid out the town of Grandon, on land deeded to Samuel Fowler in 1798. A historical marker says it was surveyed in 1812 as Grandon, on an Erie village site. The marker's own postal line says Painesville. I will not move the pin into the city. The encyclopedia says that when the town incorporated in 1836, the name was changed to Fairport, and that Fairport is a commendatory name. That means a name chosen to praise the place, not a family. It says the current name, Fairport Harbor, was adopted in 1959. The village page says the Village of Fairport was incorporated on March 14, 1836, and then it says the word Harbor was added in 1823. Eighteen twenty-three is before eighteen thirty-six. I will not fix their clock. A marker, an encyclopedia, and the village's own page are three different stories of the same name. This pin is the marker. Not a deed.",
+    long: "",
+    names: ["Abraham Skinner", "Samuel Huntington", "Samuel Fowler"]
+  },
+  {
+    id: "fairport-the-lights",
+    name: "Two Lights",
+    lat: 41.7570,
+    lng: -81.2773,
+    radius: 250,
+    short: "Keep them apart. The village page says Jonathan Goldsmith built the first lighthouse and the keeper's house in 1825. The Coast Guard says the station was established in 1825, and that the tower you can still climb was first lit in 1871. Sandstone and brick. Berea sandstone, left its natural color. Conical. A third-order Fresnel lens. A page on that tower says it is sixty feet tall, with the keeper's house separate, and that it was built in the village. It was deactivated in 1925. Not automated. The Coast Guard says it is not operating. A letter-writing campaign stopped a plan to tear the tower down and use the house. In 1945 the Coast Guard gave the light to the town. The house is the marine museum. That page calls it the first of its kind in the country. Those are its words. The old light went on the National Register on November 5, 1971. The replacement is the west breakwater light, a light and a foghorn, finished in 1925, automated in 1948. The encyclopedia says that one is in Painesville Township, and that the Coast Guard still runs it. The village page talks about the Coast Guard no longer staying in the lighthouse quarters. That sentence blurs the two. I will not. This pin is the 1871 tower. Not the breakwater.",
+    long: "",
+    names: ["Jonathan Goldsmith"]
+  },
+  {
+    id: "fairport-not-invented",
+    name: "What I Will Not Add",
+    lat: 41.7486,
+    lng: -81.2740,
+    radius: 300,
+    short: "The village page says the earliest evidence of people here points to the Erie, sometimes called the Cat people, from early in the sixteen hundreds until about 1650 to 1654, when the Iroquois destroyed Erie villages. About, and points to, stay. I will not name the village. The same page says that in 1831 this became the first federally sponsored port on Lake Erie. First is their word. The encyclopedia says that after the federal money the port took in iron ore for the steel mills nearby, and that Finns, Hungarians, and Slovaks came in. It says the port still works, at a smaller size. It says the Diamond Alkali Company operated here from 1912 to 1976. I will not tell you the rest of that company's story. It is not in these lines. There is a Finnish Heritage Museum. I will not invent the year it opened. What is written down is a plat called Grandon on May 16, 1812, a light in 1825, a stone tower in 1871, and a harbor whose name the pages will not date the same way. The next place on your list is Farmersville.",
+    long: "",
+    names: ["Fairport Harbor"]
+  },
+
+  {
+    id: "approach-farmersville-oh",
+    name: "Farmersville",
+    lat: 39.6786,
+    lng: -84.4275,
+    radius: 1400,
+    layer: "approach",
+    short: "You are coming up on Farmersville. Say it FAR-merz-vil. A village in Jackson Township, Montgomery County, in the Dayton area. Not the county seat. The census says nine hundred seventy-five people in 2020. The estimate for 2023 is nine hundred seventy-three. The box says seventy-one hundredths of a square mile, all land. The geography line says seventy-two hundredths. I will not average them. The box puts the elevation at eight hundred sixty-nine feet. A gazetteer says eight hundred sixty. The postal code is 45325. The encyclopedia's picture is a Masonic temple. I will not tell you the lodge. I do not have it. If you are on the main street, I'll start with the name.",
+    long: "",
+    names: ["Farmersville"]
+  },
+  {
+    id: "farmersville-the-name",
+    name: "A Farming District",
+    lat: 39.6790,
+    lng: -84.4268,
+    radius: 250,
+    short: "The encyclopedia says the village was platted in 1832, and named for its location in a farming district. It does not name the man who laid it out. It says the village was incorporated in 1849. A post office opened in 1833, and the page says it was still operating after 2000. It does not say whether the window is open now. A later summary names a storekeeper, and dates the charter to March 7, 1845, four years before the encyclopedia. That same summary prints a census that does not match the table I am using. I will not take the man, or the earlier year, from a page that cannot keep the count. This pin is the village. Not a deed.",
+    long: "",
+    names: ["Farmersville"]
+  },
+  {
+    id: "farmersville-the-table",
+    name: "The Jump",
+    lat: 39.6782,
+    lng: -84.4282,
+    radius: 200,
+    short: "The census table starts at three hundred twelve in 1870. In 1880 it says seven hundred ninety-four. In 1890 it says four hundred seventy-two. The page prints the drop as forty percent. It does not say why the town more than doubled, or why it then lost it. I will not invent a railroad, a fire, or a bad count. After that the table stays under five hundred until 1950, then climbs. The high number on this table is one thousand nine in 2010. A rebased compilation prints different figures for 1990 and 2000. I am staying with the encyclopedia's table. This pin is the count. Not a cause.",
+    long: "",
+    names: ["Farmersville"]
+  },
+  {
+    id: "farmersville-not-invented",
+    name: "What I Will Not Add",
+    lat: 39.6794,
+    lng: -84.4270,
+    radius: 200,
+    short: "I will not tell you this is sixteen miles from Dayton. That distance is not in the encyclopedia. I will not tell you who platted the lots. The page I trust does not say. What is written down is a plat in 1832, a name taken from the farms around it, a charter in 1849, a post office in 1833, and a census that jumps and then falls without an explanation. The next place on your list is Fayette.",
+    long: "",
+    names: ["Farmersville"]
+  },
+
+  {
+    id: "approach-fayette-oh",
+    name: "Fayette",
+    lat: 41.6728,
+    lng: -84.3283,
+    radius: 1500,
+    layer: "approach",
+    short: "You are coming up on Fayette. A village in Gorham Township, Fulton County. Not the county seat. That is Wauseon. Not Fayette County. That is a different place. The county was named for Robert Fulton, the steamboat man. This village was not. The census says one thousand three hundred five people in 2020. The estimate for 2023 is one thousand two hundred eighty-five. The box says ninety-seven hundredths of a square mile, all land. The geography line says ninety-eight hundredths. I will not average them. The elevation in the box is seven hundred ninety-four feet. The postal code is 43521. If you are on the main street, I'll start with the township.",
+    long: "",
+    names: ["Fayette"]
+  },
+  {
+    id: "fayette-gorham",
+    name: "Two Gorhams",
+    lat: 41.6734,
+    lng: -84.3276,
+    radius: 300,
+    short: "A local history page gives you two stories, and it does not pick. One says Gorham Township was incorporated in 1837 and named for Gorham Cottrell, a settler in 1835, and that his son Erastus was the first postmaster. The other says the township was named for Elisha Gorham, a settler who petitioned the commissioners of Lucas County. Fulton County was not a county yet. The encyclopedia says the county was created on April 1, 1850, out of Henry, Lucas, and Williams. The local page says February 28, 1850. I will not average the spring. The same local page says a post office called Gorham was set up in 1839 at the home of Erastus Cottrell, at Cottrell's Corners, and that in 1854 it was moved to Fayette and the name was changed. It names Dr. Joseph O. Allen as postmaster for a number of years. The encyclopedia says a post office called Fayette has been in operation since 1873. I will not make 1854 and 1873 the same year. The local page says the Cottrell settlement, in 1839, was the beginning of the place, and that the village line later sat a mile or so past their land. This pin is the village. Not the cabin.",
+    long: "",
+    names: ["Gorham Cottrell", "Erastus Cottrell", "Elisha Gorham", "Joseph Allen"]
+  },
+  {
+    id: "fayette-the-plat",
+    name: "June 23, 1852",
+    lat: 41.6722,
+    lng: -84.3290,
+    radius: 250,
+    short: "The local page, quoting an old abstract, says the surveyor John I. Schnall started laying out lots on February 26, 1852, and that Israel Mattern announced the lots would be sold on June 23, 1852, for a village called Fayette. It then says that in his family story, it was his suggestion to name the place for Fayette, New York, where many of the early people had come from. His. The sentence sits next to Mattern. I will not swear the family meant him, and not the surveyor. The encyclopedia does not tell this story at all. It says the village was incorporated in 1872, when the railroad was extended to that point. It does not name the railroad. A later summary dates the charter to August 7, 1873. I will not take that day from a summary I have already watched get other towns wrong. This pin is the plat. Not the depot.",
+    long: "",
+    names: ["John Schnall", "Israel Mattern"]
+  },
+  {
+    id: "fayette-not-invented",
+    name: "What I Will Not Add",
+    lat: 41.6730,
+    lng: -84.3288,
+    radius: 250,
+    short: "The census table starts at five hundred seventy-nine in 1880, and it climbs into the nine hundreds. In 1930 it prints three hundred forty-seven. In 1940 it prints nine hundred twelve. The page marks the drop as sixty-three percent, and the rebound as more than double. It does not say why. I will not invent a line change, a miscount, or a plague. The high number on this table is one thousand three hundred forty, in 2000. I will not tell you the town was once called Parker's Corners. That name is not in the pages I am willing to use. What is written down is a post office in a house in 1839, a sale of lots on June 23, 1852, a name taken from a town in New York if the family story is right, and a charter in 1872 tied to a railroad the encyclopedia will not name. The next place on your list is Fayetteville.",
+    long: "",
+    names: ["Fayette"]
+  },
+
+  {
+    id: "approach-fayetteville-oh",
+    name: "Fayetteville",
+    lat: 39.1853,
+    lng: -83.9319,
+    radius: 1200,
+    layer: "approach",
+    short: "You are coming up on Fayetteville. A village in Perry Township, Brown County. Not the county seat. That is Georgetown. The census says three hundred seventeen people in 2020. The estimate for 2023 is three hundred ten. The box says forty-seven hundredths of a square mile, all land. The geography line says fifty-two hundredths. I will not average them. The elevation in the box is nine hundred forty-five feet. The village prints a motto, the Crossroads of America. I will not tell you it is the only one. Pike Street, in the pictures, is U.S. 50. A copy of the box prints the postal code 45118. If you are on the pike, I'll start with 1818.",
+    long: "",
+    names: ["Fayetteville"]
+  },
+  {
+    id: "fayetteville-mcgroarty",
+    name: "An Irishman",
+    lat: 39.1856,
+    lng: -83.9314,
+    radius: 200,
+    short: "The encyclopedia says the village was founded in 1818 by an Irish immigrant named Cornelius McGroarty, and incorporated in 1868. It does not say who he named it for. I will not give you the Marquis de Lafayette. Brown County was created on March 1, 1818, out of Adams and Clermont, and named for Major General Jacob Brown, wounded at Lundy's Lane in the War of 1812. Same year. Not the same story. The county seat is Georgetown, and that is where Jesse Root Grant had a tannery, and where the boy who became president grew up. I will not move that boy here. In 1883 the page says the village had two churches, two schools, two hotels, several stores and saloons, and two drug stores. The pictures include St. Patrick Catholic Church and a Methodist church. I will not tell you the Irish founder built either one. Nobody on these pages says that. This pin is the village. Not a church door.",
+    long: "",
+    names: ["Cornelius McGroarty"]
+  },
+  {
+    id: "fayetteville-the-fork",
+    name: "The Bend",
+    lat: 39.1848,
+    lng: -83.9324,
+    radius: 250,
+    short: "The encyclopedia says the village sits on a bend of the East Fork of the Little Miami River. That is the water. It does not name a mill, a dam, or a flood. I will not add one. There is a branch of the Brown County Public Library, a cemetery, a high school, and a township park, in the pictures. I will not invent their dates. This pin is the bend. Not a millrace.",
+    long: "",
+    names: ["Fayetteville"]
+  },
+  {
+    id: "fayetteville-not-invented",
+    name: "What I Will Not Add",
+    lat: 39.1858,
+    lng: -83.9320,
+    radius: 200,
+    short: "The census table starts at three hundred seventeen in 1850. That is the same number it prints for 2020. It skips 1890. I will not fill the hole. The high number on this table is four hundred seventy-eight, in 1980. A rebased compilation prints different figures, and on 2020 it prints three hundred fourteen in one line and three hundred seventeen in another. I am staying with the encyclopedia. What is written down is an Irishman in 1818, a charter in 1868, a bend in the river, and a motto the village likes. The next place on your list is Felicity.",
+    long: "",
+    names: ["Fayetteville"]
+  },
+
+  {
+    id: "approach-felicity-oh",
+    name: "Felicity",
+    lat: 38.8389,
+    lng: -84.0983,
+    radius: 1200,
+    layer: "approach",
+    short: "You are coming up on Felicity. A village in Franklin Township, Clermont County. Not the county seat. That is Batavia. The county was named for Clermont-Ferrand, in France, not for this street. The census says six hundred fifty-one people in 2020. The estimate for 2023 is six hundred fifty-six. The box says twenty-six hundredths of a square mile, all land. The geography line says twenty-seven hundredths. I will not average them. The elevation in the box is nine hundred twenty-two feet. The postal code is 45120. The town sits on the crossing of State Route 133 and State Route 222. The encyclopedia's picture is Walnut Lane, with Felicity Lodge on the left. I will not tell you the lodge. If you are on the crossing, I'll start with the survey.",
+    long: "",
+    names: ["Felicity"]
+  },
+  {
+    id: "felicity-the-fees",
+    name: "The Bryan and Carter Survey",
+    lat: 38.8392,
+    lng: -84.0978,
+    radius: 200,
+    short: "The village's own page says that on December 25, 1787, John O'Bannon and his assistants, Captain Morgan Bryan and Major Nicholas Carter, soldiers of the Continental line, surveyed six hundred acres in Franklin Township. It says the village sits on the Bryan and Carter survey. On October 17, 1806, Thomas Fee bought two hundred acres of the Bryan survey. In September of that same year, his brother William bought four hundred acres of the Carter survey, and deeded a part of it to his partner, Peter Hastings. In 1818 William became the owner of his brother's two hundred acres. The page says the village was laid out on that ground. Seventy-two lots. Twenty-two and a half acres. Six streets, set to the compass. On May 28, 1819, William platted lots 73 through 105. On January 21, 1836, Fee and Hastings added thirty-four and three-quarters acres, lots 105 through 216. The page counts lot 105 twice. I will not fix their numbers. The encyclopedia says the town was laid out in 1817. The village page does not print that year. I will not average 1817 and 1819. This pin is the plat. Not a survey chain.",
+    long: "",
+    names: ["William Fee", "Thomas Fee", "Peter Hastings", "Morgan Bryan", "Nicholas Carter"]
+  },
+  {
+    id: "felicity-the-name",
+    name: "Margaret's Word",
+    lat: 38.8385,
+    lng: -84.0988,
+    radius: 200,
+    short: "The village page says the place was called Feestown, the manner of the day, and that when the legislature incorporated it on March 14, 1836, William Fee let his daughter Margaret name it. She chose Felicity. The page says that means a place of peace and happiness. The encyclopedia does not print her name. It says the town was changed to Felicity at the request of Fee's daughter. It also says it is said that Felicity was a corruption of Feel City, an earlier name. It is said. I will not make that a fact. The same encyclopedia says a post office called Feestown opened in 1811, and the name was changed to Felicity in 1829. That is seven years before the charter the village page uses for Margaret's naming. The village page says the first post office was established in 1823. Three clocks. I will not wind them into one. This pin is the name. Not a letter.",
+    long: "",
+    names: ["Margaret Fee", "William Fee"]
+  },
+  {
+    id: "felicity-not-invented",
+    name: "What I Will Not Add",
+    lat: 38.8390,
+    lng: -84.0986,
+    radius: 200,
+    short: "The census table starts at nine hundred fifty-six in 1860. The high number is one thousand forty-seven, in 1880. By 1900 it prints six hundred ninety-five. The village page says that by the nineteen hundreds the town boasted of being the second largest village in the county, with over twelve hundred people. The boast is not the census. I will not raise the table to match the boast. A rebased compilation prints six hundred forty-five for 2020 in one line and six hundred fifty-one in another. I am staying with the encyclopedia. George Washington owned land in this county. I will not put him on this street. What is written down is a survey on Christmas Day of 1787, two brothers named Fee, a daughter's word, and a post office the pages will not date. The next place on your list is Fletcher.",
+    long: "",
+    names: ["Felicity"]
+  },
+
+  {
+    id: "approach-fletcher-oh",
+    name: "Fletcher",
+    lat: 40.1417,
+    lng: -84.1119,
+    radius: 1200,
+    layer: "approach",
+    short: "You are coming up on Fletcher. A village in Brown Township, Miami County, east of Piqua, in the Dayton area. Not the county seat. That is Troy. The sentence and the census table say four hundred fifty-one people in 2020. The box says four hundred fifty-eight, and it uses that same number for the 2023 estimate. I will not average them. A rebased compilation prints four hundred fifty in one column, and its own count of men and women adds to four hundred fifty-one. The area, in the box and in the geography line, is thirty-one hundredths of a square mile, all land. The elevation is one thousand fifty-three feet. The postal code on the box is 45326. The post office itself closed in 2010. The town is crossed by U.S. 36 and State Route 589. If you are on 36, I'll start with the name.",
+    long: "",
+    names: ["Fletcher"]
+  },
+  {
+    id: "fletcher-the-name",
+    name: "Which Samuel",
+    lat: 40.1420,
+    lng: -84.1114,
+    radius: 180,
+    short: "The encyclopedia says the village was platted in 1830, and named for Samuel Fletcher, a local storekeeper. A 1909 history of Brown Township says John L. Malloy laid it out in 1830, and that the village was named Fletcher in 1814. Sixteen years before the plat. That page does not say who it was named for. It says the first store was kept by Samuel Dougherty, a mixed stock from shoe pegs to liquor, and that Samuel Crane set up against him, and that Isaac Dukemineer later built a brick store. It never mentions a Samuel Fletcher. I will not make the storekeeper and the first merchant the same man. I will not invent why a name would be walking around in 1814. The encyclopedia does not give a year for the charter. I will not invent one. This pin is the village. Not a store ledger.",
+    long: "",
+    names: ["Samuel Fletcher", "John Malloy", "Samuel Dougherty"]
+  },
+  {
+    id: "fletcher-lost-creek",
+    name: "Lost Creek",
+    lat: 40.1412,
+    lng: -84.1124,
+    radius: 200,
+    short: "The encyclopedia says the village is drained by the East Branch of Lost Creek and the West Branch of Lost Creek. It does not name a mill. I will not add one. The 1909 page says the Pennsylvania lines crossed the township from east to west and tapped two towns, Fletcher and Conover. I will not build Conover here. It says Fletcher was the only incorporated town in the township, that it had a school, churches, a town hall, fraternal societies, and a grain elevator. It says the population then was about four hundred. The census prints three hundred seventy-five in 1900 and three hundred seventy-six in 1910. About four hundred is the old page's number. A post office had been open since 1831. It closed in 2010. The box still prints a postal code. This pin is the creek. Not the elevator.",
+    long: "",
+    names: ["Fletcher"]
+  },
+  {
+    id: "fletcher-not-invented",
+    name: "What I Will Not Add",
+    lat: 40.1418,
+    lng: -84.1120,
+    radius: 150,
+    short: "The census table starts at two hundred forty-six in 1850. It skips 1890. I will not fill the hole. The high number on the table is five hundred sixty-nine, in 1960. A five-year survey prints seven hundred nineteen people, plus or minus one hundred ninety-six. That is a different kind of count. I will not set it beside the census as if it were the same door. What is written down is a plat in 1830, a name the pages will not date, two branches of a creek called Lost, and a post office that shut in 2010. The next place on your list is Flushing.",
+    long: "",
+    names: ["Fletcher"]
+  },
+
+  {
+    id: "approach-flushing-oh",
+    name: "Flushing",
+    lat: 40.1481,
+    lng: -81.0644,
+    radius: 1400,
+    layer: "approach",
+    short: "You are coming up on Flushing. A village in Flushing Township, Belmont County. Not the Flushing in New York. Not the county seat. That is St. Clairsville. A picture of the old main street looks that way, down State Route 331. The census says eight hundred thirty people in 2020. The estimate for 2023 is eight hundred seven. The box and the geography line both say sixty-one hundredths of a square mile, all land. The elevation is one thousand two hundred seventy-three feet. The postal code is 43977. The encyclopedia's picture is the Underground Railroad Museum on High Street. I will not tell you what is inside. I do not have it in these lines. If you are on High Street, I'll start with the plat.",
+    long: "",
+    names: ["Flushing"]
+  },
+  {
+    id: "flushing-foulke",
+    name: "November 9, 1813",
+    lat: 40.1484,
+    lng: -81.0639,
+    radius: 200,
+    short: "The county's own page, and a news page, say Jesse Foulke laid the village out on November 9, 1813, and that he named it. They say he taught the first school and kept the first store. They do not say who, or what, he named it for. I will not import a town in Holland, or one in New York. An old township history says Flushing Township was organized on March 14, 1817, out of Kirkwood and Union, and that the township took its name from the village, not the other way around. The first election was held in the village on the first Monday of April, 1817. The encyclopedia says the village was incorporated in 1849. The tourism page says the same. A news page printed in 2026 says the village was incorporated on February 23, 1949, with a population of three hundred twelve. Three hundred twelve sits next to the 1850 count of three hundred twenty-five. It does not sit next to 1950, when the table says one thousand one hundred fifty-eight. I will not change their year for them. This pin is the plat. Not the charter.",
+    long: "",
+    names: ["Jesse Foulke"]
+  },
+  {
+    id: "flushing-the-coal",
+    name: "Mules and a Railroad",
+    lat: 40.1476,
+    lng: -81.0652,
+    radius: 250,
+    short: "The old township history says coal was abundant, and that it was burned at home, because there was as yet no rail to a market. It says the farmers' business was sheep, and the merino was the breed that fit the ground. The tourism page says that changed in the early nineteen hundreds, when the Cleveland, Lorain and Wheeling Railway came into the southwest end of town and the small mines became a business. It names the Old Glory, later called the Tunnel Mine because it sat near the railroad tunnel, and the Massillon-Belmont, the Kennon, and the Rosemary. It says the men averaged a dollar ninety-seven to two dollars and thirty cents a day, and that mules pulled the coal cars. I will not tell you the year the mines shut. It is not on the page. The same tourism page says the Society of Friends, the Quakers, were established here in 1818, and were at one time the strongest denomination. The news page says the Methodists built the first church in 1821, on Northwest Street, and that the cemetery is still there. I will not make those one building. This pin is the railroad end of town. Not the cemetery.",
+    long: "",
+    names: ["Flushing"]
+  },
+  {
+    id: "flushing-not-invented",
+    name: "What I Will Not Add",
+    lat: 40.1482,
+    lng: -81.0648,
+    radius: 200,
+    short: "The census table starts at three hundred twenty-five in 1850. It skips 1860. In 1870 it prints two hundred six. The old township page splits that same two hundred six into one hundred ninety-five white and eleven colored. I will not explain the drop, and I will not fill 1860. The high number on the table is one thousand two hundred sixty-six, in 1980. A rebased compilation prints eight hundred thirty-five for 2020 in one column, and its count of men and women adds to eight hundred thirty. I am staying with the encyclopedia. What is written down is a plat on November 9, 1813, a township named for the village, a charter the pages date a hundred years apart, and a coal road that was not there yet when the old history was written. The next place on your list is Forest.",
+    long: "",
+    names: ["Flushing"]
+  },
+
+  {
+    id: "approach-forest-oh",
+    name: "Forest",
+    lat: 40.8050,
+    lng: -83.5117,
+    radius: 1800,
+    layer: "approach",
+    short: "You are coming up on Forest. A village in Hardin County and in Wyandot County. Not a county seat. Hardin's seat is Kenton. Wyandot's is Upper Sandusky. A compilation lists only Hardin, and Jackson Township. I will not erase the second county. The census says one thousand three hundred fifty people in 2020. The estimate for 2023 is one thousand three hundred thirty-one. The box says one and forty-four hundredths square miles, all land. The geography line says one and sixty-one hundredths. I will not average them. The elevation in the box is nine hundred twenty-nine feet. The postal code is 45843. Downtown, in the pictures, is Lima Street. On April 8, 2024, the moon stood over this village for almost four minutes. The encyclopedia says that was one of the longer stretches of the total eclipse. I will not tell you it was the longest. If you are on Lima Street, I'll start with the railroad.",
+    long: "",
+    names: ["Forest"]
+  },
+  {
+    id: "forest-gormley",
+    name: "March 13, 1855",
+    lat: 40.8054,
+    lng: -83.5112,
+    radius: 250,
+    short: "The encyclopedia says a post office has been open here since 1854, that the village was platted in 1855 when the railroad was extended to that point, and that it was incorporated in 1865. It does not name the man. It does not name the railroad. It says the village most likely was named because the town site was a forest. Most likely. An old record, quoted on a map page, says John A. Gormley laid the town out on March 13, 1855, on the newly built railroad, now the Pennsylvania, and that the village had a steady growth from the first. The census table does not stay on one slope. A highway page says it was founded in 1855 as a rail stop, and named for the forest that stood there in a wide tall-grass prairie. That page is more certain than the encyclopedia. I will not sand them into one sentence. This pin is the plat. Not a tree.",
+    long: "",
+    names: ["John Gormley"]
+  },
+  {
+    id: "forest-the-highway",
+    name: "The Lincoln Highway",
+    lat: 40.8046,
+    lng: -83.5122,
+    radius: 250,
+    short: "A highway page puts Forest on the Lincoln Highway, and it prints a postcard that says so. It also says the town was on that road from 1913 to 1919. I will not tell you the road left in 1919. The line is not that clear. The same page says a freight depot was turned into a branch library, at 102 West Lima Street, and that Gormley Park sits between Mary Street and Speidel Street, with the historical society's log cabin in it. The park carries the platter's name. The page does not say it was named for him. I will not glue them. The same page calls Devil's Backbone, on County Road 155, the sacred burial ground of the Glacial Kame people, and it adds a legend of buried gold. I will not open the ground. I will not tell you the gold is there. This pin is the old road. Not a grave.",
+    long: "",
+    names: ["Forest"]
+  },
+  {
+    id: "forest-not-invented",
+    name: "What I Will Not Add",
+    lat: 40.8052,
+    lng: -83.5120,
+    radius: 200,
+    short: "The census table starts at nine hundred eighty-seven in 1880. The high number is one thousand six hundred thirty-three, in 1980. A rebased compilation prints one thousand three hundred fifty-four for 2020 in one column, and its count of men and women adds to one thousand three hundred fifty. I am staying with the encyclopedia. A five-year survey prints one thousand two hundred eighty-six. That is a different kind of count. I will not set it beside the census. I will not use a map page that prints one thousand four hundred forty-four for 2020. What is written down is a post office in 1854, a plat on March 13, 1855, a charter in 1865, a name the encyclopedia will only call likely, and four minutes of a dark sun. The next place on your list is Fort Jennings.",
+    long: "",
+    names: ["Forest"]
+  },
+
+  {
+    id: "approach-fort-jennings-oh",
+    name: "Fort Jennings",
+    lat: 40.9069,
+    lng: -84.2997,
+    radius: 1400,
+    layer: "approach",
+    short: "You are coming up on Fort Jennings. A village in Jennings Township, Putnam County. Not the county seat. That is Ottawa. The census says five hundred twenty-five people in 2020. The estimate for 2023 is the same five hundred twenty-five. The box says fifty-seven hundredths of a square mile in all, fifty-six hundredths of it land. The geography line says fifty-three hundredths in all, and fifty-two hundredths land. I will not average them. The elevation is seven hundred forty-eight feet. The postal code is 45844. The encyclopedia's picture is Memorial Hall, the community center. I will not tell you the hall. If you are on the main street, I'll start with the sentence that does not work.",
+    long: "",
+    names: ["Fort Jennings"]
+  },
+  {
+    id: "fort-jennings-the-marker",
+    name: "October, 1812",
+    lat: 40.9074,
+    lng: -84.2992,
+    radius: 200,
+    short: "The encyclopedia says the first settlement was made around 1850, and that the village was incorporated in 1881. Then it says the name came from a pioneer Virginia Hellman built near the site in 1812. That sentence does not parse. I will not invent a woman named Virginia Hellman. The marker on North Water Street, which is State Route 190, says that on September 21, 1812, Colonel William Jennings and his regiment of Kentucky riflemen were ordered by General William Henry Harrison to cut a road from Fort Barbee, at St. Marys, to a point midway between there and Defiance, and to build a fort. It says the post was finished on this site in October 1812, and named for the man who built it. It says Colonel Poague, who built Fort Amanda, later carried that road on to Fort Winchester, and that the Auglaize valley became a supply line, by boat and wagon in summer and by sled in winter. A book from 1905 spells the river Auglaise, and says the village still keeps the colonel's name. This pin is the village. The marker is the one on Water Street.",
+    long: "",
+    names: ["William Jennings", "William Henry Harrison"]
+  },
+  {
+    id: "fort-jennings-two-heres",
+    name: "Two Markers",
+    lat: 40.9105,
+    lng: -84.3064,
+    radius: 200,
+    short: "A second marker stands at 480 Fourth Street. It says an 1812 fort was built here for Harrison by Colonel Jennings. The database puts that stone about six-tenths of a mile from the one on Water Street. Both of them say here. I will not pick a corner for you. The Water Street marker says the town was founded in 1847. The encyclopedia says the first settlement was around 1850. I will not average those years. The census already counts one hundred sixty-four people in 1880, the year before the charter the encyclopedia dates to 1881. Other stones stand nearby, including one dated September 26, 1942, and one for twelve unknown soldiers. I will not tell you those stories. I do not have the words. This pin is the Fourth Street marker. Not the other one.",
+    long: "",
+    names: ["Fort Jennings"]
+  },
+  {
+    id: "fort-jennings-not-invented",
+    name: "What I Will Not Add",
+    lat: 40.9070,
+    lng: -84.3002,
+    radius: 180,
+    short: "The census table starts at one hundred sixty-four in 1880. The high number is five hundred thirty-eight, in 1980. Then it falls, and by 2020 it is back near that old high. A census profile confirms the five hundred twenty-five. I will not tell you the fort was abandoned in 1815. That year is not on the marker. I will not tell you the stockade is under the pavement. What is written down is an order on September 21, a fort finished in October of 1812, a town the marker dates to 1847, a charter in 1881, and a sentence in the encyclopedia that names a pioneer who is not a person. The next place on your list is Fort Loramie.",
+    long: "",
+    names: ["Fort Jennings"]
+  },
+
+  {
+    id: "approach-fort-loramie-oh",
+    name: "Fort Loramie",
+    lat: 40.3481,
+    lng: -84.3706,
+    radius: 1800,
+    layer: "approach",
+    short: "You are coming up on Fort Loramie. A village in Shelby County, on Loramie Creek, which runs to the Great Miami. Not the county seat. That is Sidney. Not Fort Laramie, out west. The census says one thousand five hundred ninety people in 2020. The estimate for 2023 is one thousand five hundred eighty-six. A rebased compilation prints one thousand six hundred two in one column, and its count of men and women adds to one thousand five hundred ninety. I am staying with the encyclopedia. The box says one and three hundredths square miles, all land. The geography line says ninety-six hundredths. I will not average them. The elevation is nine hundred fifty-three feet. The postal code is 45845. The picture is St. Michael's Catholic Church. The town was called Berlin until 1911. If you are on the main street, I'll start with a Frenchman, not with the church.",
+    long: "",
+    names: ["Fort Loramie", "Berlin"]
+  },
+  {
+    id: "fort-loramie-the-store",
+    name: "The Frenchman's Store",
+    lat: 40.3520,
+    lng: -84.3700,
+    radius: 400,
+    short: "The local history says that in 1769 Pierre Loramie, a French-Canadian fur trader, built a post just north of where the village is now, and traded with the Wyandot and the Shawnee. The village page says he was possibly a Jesuit. The encyclopedia does not. It calls him Pierre-Louis de Lorimier, usually anglicized to Peter Loramie, a fur trader, a British Indian agent, and a Shawnee agitator, and it puts his father in the business. I will not make him a priest. Both local pages say that in the 1782 campaign of George Rogers Clark, Colonel Benjamin Logan burned the post. The encyclopedia adds that it was November, that Logan had a hundred and fifty men, and that Lorimier escaped west across the Mississippi. That history section is flagged as needing citations. A trail page says the Shawnee used the post to stage attacks in the Revolutionary War. The local pages say he traded with them. I will not pick a verb for you. This pin is north of town, where the pages put the store. Not the church.",
+    long: "",
+    names: ["Pierre Loramie", "Benjamin Logan"]
+  },
+  {
+    id: "fort-loramie-the-fort",
+    name: "Nothing Remains",
+    lat: 40.3510,
+    lng: -84.3710,
+    radius: 300,
+    short: "The historical association says the site sat empty until 1795. After Fallen Timbers, in August of 1794, Anthony Wayne ordered a fort there as a supply depot for Fort Adams, Fort Defiance, and Fort Wayne. It says he started with a stockade and then wanted a blockhouse and storehouses, finished in December 1795. The encyclopedia and a trail page put that fort on the portage between the St. Marys River and Loramie Creek, half a mile north of the present town, and they say it was one of the marks in the Treaty of Greenville. The village page says Wayne ordered the fort after that treaty, and that it was abandoned as a garrison in 1812. The historical association and the encyclopedia say the opposite about the war. They say it was a supply stop in 1812, and that in 1815 the United States sold it to James Furrow, who made a post office and a tavern out of the buildings. The business was closed by 1820. The encyclopedia says the ground today is a farm of the heirs of James Furrow, and that nothing remains of the fort or the trading post. The village page says the Furrows, plural. I will not show you a stockade. This pin is the old site. Not a wall.",
+    long: "",
+    names: ["Anthony Wayne", "James Furrow"]
+  },
+  {
+    id: "fort-loramie-berlin",
+    name: "Berlin",
+    lat: 40.3484,
+    lng: -84.3702,
+    radius: 250,
+    short: "The encyclopedia says Jonathan Counts surveyed a town nearby in 1837, that the lots were auctioned, and that the name was Berlin. The village page tells the same story and does not print the year. It says the Miami and Erie Canal was begun in 1836 and opened in 1841, that German immigrants came to dig it and then stayed, and that the first flour mill and Willman's general store both opened in 1858. The encyclopedia says canal boats carried the limestone for St. Michael's, begun in 1849, after a log church of 1838, and rebuilt in 1881. It says the canal stopped in 1909, and that a large part of the town was destroyed in the flood of 1913. That section is still flagged for citations. A trail page says that by the time the name was changed to Fort Loramie, in 1911, the canal through the middle of town had been made into a park, and that Lake Loramie is the reservoir that once fed the ditch. The census table starts at four hundred fifty-seven in 1890. The low number after that is four hundred twenty-seven, in 1930. I will not invent a charter year. Nobody on these pages prints one. What is written down is a store in 1769, a fort in 1795, a town called Berlin, and a name that waited until 1911. The next place on your list is Fort Recovery.",
+    long: "",
+    names: ["Jonathan Counts", "Berlin"]
+  },
+  {
+    id: "approach-fort-recovery-oh",
+    name: "Fort Recovery",
+    lat: 40.4119,
+    lng: -84.7764,
+    radius: 1800,
+    layer: "approach",
+    short: "You are coming up on Fort Recovery. A village in Mercer County, in Gibson Township and in Recovery Township, in the southwest corner of the county, near Indiana. Not the county seat. That is Celina. The census says one thousand five hundred one people in 2020. A census profile confirms that number. The estimate for 2024 is one thousand four hundred seventy-four. The box says one and a quarter square miles in all, and one and twenty-four hundredths of it land. The elevation is nine hundred forty-two feet. The postal code is 45846. The Wabash River passes through the village. The village page puts the headwaters a few miles south. I will not make those one sentence. The picture is the victory monument. If you are near it, I'll start with November, not with the stone.",
+    long: "",
+    names: ["Fort Recovery"]
+  },
+  {
+    id: "fort-recovery-november",
+    name: "November 4, 1791",
+    lat: 40.4124,
+    lng: -84.7758,
+    radius: 250,
+    short: "The encyclopedia says that in 1791 Arthur St. Clair, governor of the Northwest Territory, led an army north from Fort Washington toward Kekionga, to break the Western Confederacy. Kekionga is not this street. It is where Fort Wayne stands now. In the early morning of November 4, the army was destroyed here, near the headwaters of the Wabash. The fort article names the leaders on the other side as the Miami chief Michikinikwa, called Little Turtle, and the Shawnee chief Weyapiersenwah, called Blue Jacket. It says the loss ended St. Clair's military career, and that Congress investigated it. The village history says it remains the greatest loss by the United States Army to a Native force. I will not invent a count of the dead. Wayne came late in 1793 with three hundred men and had a fort built on that ground on purpose. On December 25 they knew the place by the unburied dead. A private named George Will wrote that they had to move bones to make room for their beds. The fort article says the work ran from late 1793 and was finished in March 1794. This pin is the battlefield. Not a bed.",
+    long: "",
+    names: ["Arthur St. Clair", "Little Turtle", "Blue Jacket"]
+  },
+  {
+    id: "fort-recovery-june",
+    name: "June 30, 1794",
+    lat: 40.4120,
+    lng: -84.7770,
+    radius: 200,
+    short: "The fort article says a detachment of Wayne's Legion held this place on June 30, 1794, against a combined Native force. The village history adds a few British officers, and says the Legion took high casualties and still held, in part because the men had recovered cannons St. Clair lost in 1791. The village's own about page says the defense was General Wayne's. The fort article does not put him inside the stockade that morning. I will not move him. Wayne did use the fort as a step toward Fallen Timbers, in August 1794. The fort was one of the marks in the Treaty of Greenville, in 1795. The village page says the town sits on the northwest corner of that treaty line. The fort article says the post was abandoned in 1796. The village page says there has been a continuous settlement here since 1793, when Wayne built the fort on the bank of the Wabash. I will not fill the years between an abandoned fort and a census that starts in 1870. The fort article puts the old work within two miles of the line that became the Indiana border. This pin is the fort. Not a garrison still standing.",
+    long: "",
+    names: ["Anthony Wayne"]
+  },
+  {
+    id: "fort-recovery-not-invented",
+    name: "What I Will Not Add",
+    lat: 40.4116,
+    lng: -84.7768,
+    radius: 200,
+    short: "The village page says there is a state museum, a stockade, and a monument one hundred one feet tall, a replica of the shape of the Washington Monument, built by Congress in 1912 over the graves of nine hundred United States soldiers who died in the battles here. I will not tell you the Washington Monument is in Mercer County. I will not tell you I counted the nine hundred. The same page says the village was incorporated in 1858. I will not name the man who platted it. I do not have him on a page I trust. The census table starts at eighty-nine people in 1870. By 1890 it prints four hundred fifty-six. I will not explain that jump. The high number on the table is the 2020 count. A compilation's older years do not match the encyclopedia, and I will not use them. Its 2020 column says one thousand four hundred ninety-eight, and its own count of men and women adds to one thousand five hundred one. What is written down is a defeat on November 4, bones on Christmas, a fort finished in March, a fight on June 30, and a town chartered in 1858. The next place on your list is Frankfort.",
+    long: "",
+    names: ["Fort Recovery"]
+  },
+
+  {
+    id: "approach-frankfort-oh",
+    name: "Frankfort",
+    lat: 39.4064,
+    lng: -83.1833,
+    radius: 1400,
+    layer: "approach",
+    short: "You are coming up on Frankfort. A village in Concord Township, Ross County, along the North Fork of Paint Creek. Not Frankfort in Kentucky. Not the county seat. That is Chillicothe, and an old paper says Chillicothe people call this direction down, and the trip home up. The census says one thousand eighty-four people in 2020. The estimate for 2023 is one thousand one hundred seven. A rebased compilation prints one thousand one hundred sixteen in one column, and its count of men and women adds to one thousand eighty-four. I am staying with the encyclopedia. The box says half a square mile, all land. The geography line says fifty-six hundredths. I will not average them. The elevation is seven hundred forty-two feet. The postal code is 45628. The picture looks north at Main Street and Springfield Street. If you are on Springfield, I'll start with two names for one town.",
+    long: "",
+    names: ["Frankfort"]
+  },
+  {
+    id: "frankfort-oldtown",
+    name: "Oldtown",
+    lat: 39.4037,
+    lng: -83.1846,
+    radius: 200,
+    short: "The encyclopedia says the place was first called Oldtown, laid out under that name in 1816. A post office called Old Town opened in 1817. The encyclopedia says that post office took the name Frankfort in 1834, and that the village was incorporated in 1827. It does not say the town was renamed in 1827. A marker on Springfield Street, and a twin of it on the other side of town, says a Shawnee village in 1774, Oldtown founded by John McNeill in 1816, and Frankfort in 1827. A Chillicothe paper from September 15, 1882, says the village was laid out by John McNeil, one L, in 1816, and that it kept the name Oldtown until it was incorporated in 1827, when the name was changed to Frankfort. I will not sand 1827 and 1834 into one year. I will not pick how many L's are in McNeil. I will not tell you why anyone chose the name Frankfort. Nobody on these pages says. This pin is the marker at 145 Springfield Street. The other stone says the same words.",
+    long: "",
+    names: ["John McNeill", "Oldtown"]
+  },
+  {
+    id: "frankfort-chillicothe",
+    name: "Old Chillicothe",
+    lat: 39.4060,
+    lng: -83.1838,
+    radius: 250,
+    short: "The 1882 paper says the Shawnee called this place old Chillicothe, and that the whites turned that into Oldtown, because, the paper says, Chillicothe was the Indian name for town. I will not swear the translation. I will not move the county seat here. Chillicothe the city is a different place, and there was more than one Shawnee town by that name. The marker puts a Shawnee village in 1774 and then a founding by McNeill in 1816. I will not make him the founder of the Shawnee town. The same paper says Frankfort sat fourteen miles up a narrow-gauge railroad, that a hack ran one mile over to Roxabel, and that the town then had about seven hundred people. The census prints five hundred forty-eight in 1880 and six hundred sixty-seven in 1890. About seven hundred is the paper's number. It also says relics and mounds still turned up in the plow. I will not name a mound I have not read. This pin is the creek. Not a grave I invented.",
+    long: "",
+    names: ["Frankfort"]
+  },
+  {
+    id: "frankfort-not-invented",
+    name: "What I Will Not Add",
+    lat: 39.4066,
+    lng: -83.1830,
+    radius: 180,
+    short: "The census table starts at five hundred fifty-three in 1850. The low number after that is five hundred nineteen, in 1870. It skips 1830 and 1840. I will not fill them. The village is served by the Adena schools, with Concord, Union, and Deerfield townships. That is a school district, not a founding. What is written down is a plat in 1816, a post office in 1817, a charter in 1827, and a post office name that the encyclopedia does not change until 1834. Franklin, the city in Warren County, is already on your list from the interstate work. I am not writing it again. The next place is Fredericksburg.",
+    long: "",
+    names: ["Frankfort"]
+  },
+
+  {
+    id: "approach-fredericksburg-oh",
+    name: "Fredericksburg",
+    lat: 40.6772,
+    lng: -81.8725,
+    radius: 1200,
+    layer: "approach",
+    short: "You are coming up on Fredericksburg. A village in Salt Creek Township, Wayne County, in the south of the county. Not Fredericksburg in Virginia. Not the county seat. That is Wooster. The village page says it sits between two county seats and does not name the other one. The census says four hundred nine people in 2020. The village page says the same four hundred nine, in one hundred forty-five households. The estimate for 2023 is four hundred five. The box says thirty-two hundredths of a square mile, all land. The geography line says thirty-four hundredths. I will not average them. The elevation is nine hundred eighty-one feet. The postal code is 44627. The encyclopedia's picture is a wash where buggies and cars both stop. I will not tell you a story the caption does not tell. If you are on Mill Street, I'll start with the man the town is named for.",
+    long: "",
+    names: ["Fredericksburg"]
+  },
+  {
+    id: "fredericksburg-jacob",
+    name: "November 27, 1824",
+    lat: 40.6776,
+    lng: -81.8720,
+    radius: 180,
+    short: "The encyclopedia and the village page agree on one sentence. Jacob Frederick platted the village in 1824, and it was named for him. The county library's history page is tighter. It says he laid the village out on November 27, 1824, and that the plat and the certificate were recorded on November 30, page 450, volume 3, in the recorder's office at Wooster. It says he was an associate judge of Wayne County as early as 1826. I will not tell you a case he heard. I will not tell you the year the village was incorporated. Nobody on these pages prints a charter. This pin is the plat. Not a courthouse.",
+    long: "",
+    names: ["Jacob Frederick"]
+  },
+  {
+    id: "fredericksburg-the-school",
+    name: "The Freddies",
+    lat: 40.6768,
+    lng: -81.8730,
+    radius: 180,
+    short: "The village page and the encyclopedia agree on the old building. A schoolhouse went up in 1891 at a cost of twenty thousand dollars. It was the high school for Salt Creek Local until 1955, when Salt Creek, Paint, and East Union, in Wayne County, and Prairie, in Holmes County, joined as Southeast Local, and Waynedale High School opened. The teams were the Freddies. The village page says they won basketball and baseball titles in the old Wayne County B league, and that they were one of the smallest schools in it. The same page dates the additions: a gym, an auditorium, and classrooms in 1923, a farm shop on the west side in 1941, two rooms in 1967, and three classrooms and two restrooms in 1989. Then the pages split. The village says the children now go to Fredericksburg Elementary through sixth grade, then John R. Lea Middle School, then Waynedale High. The encyclopedia says Waynedale Elementary through fifth, Waynedale Middle, then the high school. I will not pick a door. This pin is the 1891 building. Not a roster.",
+    long: "",
+    names: ["Fredericksburg"]
+  },
+  {
+    id: "fredericksburg-not-invented",
+    name: "What I Will Not Add",
+    lat: 40.6774,
+    lng: -81.8728,
+    radius: 150,
+    short: "The census table starts at five hundred seventy-three in 1850. That is more people than live here now. The high number is six hundred one, in 1970. A rebased compilation prints four hundred six for 2020 in one column, and its count of men and women adds to four hundred nine. I am staying with the encyclopedia. The village page says two large factories and does not name them in the lines I have. I will not guess. The town hall, on the village's own notice, is at 288 North Mill Street. What is written down is a plat on November 27, a recording three days later, a school in 1891, and a village that was larger before the Civil War than it is today. The next place on your list is Fredericktown.",
+    long: "",
+    names: ["Fredericksburg"]
+  },
+
+  {
+    id: "approach-fredericktown-oh",
+    name: "Fredericktown",
+    lat: 40.4786,
+    lng: -82.5486,
+    radius: 2000,
+    layer: "approach",
+    short: "You are coming up on Fredericktown. A village in Knox County. Not the Fredericktown in Columbiana County, which is an unincorporated place in St. Clair Township, laid out in 1833 by a man named George Frederick and once called Saint Clair. This one is the village. Not the county seat. That is Mount Vernon. The local pages call this Knox County's largest village. I will not rank the others for you. The census says two thousand six hundred forty-eight people in 2020. The estimate for 2023 is two thousand six hundred nineteen. The box says two and eight hundredths square miles in all, and one and ninety-eight hundredths of it land. The geography line says two and seven hundredths, and one and ninety-seven hundredths land. I will not average them. The elevation is one thousand eighty-three feet. The postal code is 43019. The motto they print is, it can be done in a small town. The picture is Main Street. If you are on it, I'll start with a mill, not a motto.",
+    long: "",
+    names: ["Fredericktown"]
+  },
+  {
+    id: "fredericktown-kerr",
+    name: "Fifty Acres and a Mill",
+    lat: 40.4790,
+    lng: -82.5482,
+    radius: 250,
+    short: "The encyclopedia says the village was platted in 1807 and named for Frederick, Maryland, the home of a first settler. It does not name him. The historical society and the fire district do. They say John Kerr, who ran the first mill, platted it in 1807. They say Lucas Sullivant, the Virginian who laid out Franklinton, later Columbus, held four thousand acres here and gave Kerr fifty of them if he would build a mill. They say the ground was mostly unbroken woods, crossed by two Indian trails, with a small Quaker settlement to the west. A tour page says the trails crossed the North Branch of the Kokosing, and that in the fall of 1807 Kerr built a dam, a log house, and started cracking corn. The same local pages say William Y. Farquhar surveyed the plat for Kerr, then settled, along with his brother, whom they also initial W. Y., and a cousin, Henry Roberts. I will not pretend those initials are two different men. The tour page says Kerr named the town for his home in Maryland. I will not tell you he was a Quaker because a tour page later mixes those Friends with the Amish. They are not the same. The encyclopedia's caption puts the first mill where the grain elevator stands. This pin is the mill. Not a church.",
+    long: "",
+    names: ["John Kerr", "Lucas Sullivant", "William Farquhar"]
+  },
+  {
+    id: "fredericktown-the-charter",
+    name: "March 22, 1850",
+    lat: 40.4782,
+    lng: -82.5490,
+    radius: 220,
+    short: "The local history says the first road through the village was built in 1809, the Upper Fredericktown to Mount Vernon road. It says John Garrison opened the first store in 1812. It says a post office came in 1828, and about then a school went up near a blockhouse and lasted about twenty years, until a brick building. It says that after a war, the blockhouse was used as a school and as a church. The lines I have do not name the war. I will not guess. The same pages say that by 1840 the population was five hundred, and that the village was the market for the northwest quarter of the county, at the corner of four townships: Middlebury, Berlin, Wayne, and Morris. The census prints four hundred forty-four for 1840, and one hundred sixty-one for 1830. I will not average five hundred and four hundred forty-four. They say the village was incorporated on March 22, 1850, and that the first election was in May. The mayor was George W. Woodcock. They also name a recorder, Thomas A. Reed, a marshal, Payton Anderson, a treasurer, Thomas V. Parker, and four trustees: George Heister, George Moore, William Gibson, and Archibald Greenlee. The encyclopedia does not print the charter at all. This pin is the incorporation. Not a ballot I counted.",
+    long: "",
+    names: ["George Woodcock", "John Garrison"]
+  },
+  {
+    id: "fredericktown-not-invented",
+    name: "What I Will Not Add",
+    lat: 40.4788,
+    lng: -82.5488,
+    radius: 200,
+    short: "The historical society says a clock seventeen feet tall, the Webb C. Ball clock, stands in front of the municipal building, restored and running, and that it was brought back for a bicentennial. I will not tell you Ball's life. I do not have it on the lines I read. The census table starts at one hundred sixty-one in 1830. The high number is the 2020 count. I will not fill 1810 or 1820. What is written down is a plat in 1807, a road in 1809, a store in 1812, a post office in 1828, and a charter on March 22, 1850. The next place on your list is Freeport.",
+    long: "",
+    names: ["Fredericktown", "Webb Ball"]
+  },
+
+  {
+    id: "approach-freeport-oh",
+    name: "Freeport",
+    lat: 40.2111,
+    lng: -81.2686,
+    radius: 1400,
+    layer: "approach",
+    short: "You are coming up on Freeport. A village in Freeport Township, Harrison County. Not Freeport in Maine. Not Oregonia, in Warren County, which used to be called Freeport. Not the county seat. That is Cadiz. The county is named for William Henry Harrison. The census says three hundred twenty-one people in 2020. The estimate for 2023 is three hundred fifteen. A rebased compilation prints three hundred twenty-two in one column, and its count of men and women adds to three hundred twenty-one. I am staying with the encyclopedia. The box and the geography line agree: six-tenths of a square mile, all land. The elevation is one thousand seventeen feet. The postal code is 43973. The picture is the John Reaves House, on the public square, and it is on the National Register. If you can see the square, I'll start with a plat that is older than the county.",
+    long: "",
+    names: ["Freeport"]
+  },
+  {
+    id: "freeport-the-plat",
+    name: "March 7, 1810",
+    lat: 40.2114,
+    lng: -81.2682,
+    radius: 200,
+    short: "The encyclopedia says the village was laid out in 1810, and that a post office has been here since 1814. It does not name the men. A map page quotes an old line: platted by William Melton, Daniel Easly, and Jonathan Bogue, the plat filed in Tuscarawas County on March 7, 1810, and filed in Harrison County later. I have not opened that book. Harrison County was formed on February 1, 1813, out of Jefferson and Tuscarawas. If the date on that line is right, the village was on paper three years before the county had a name. The house article spells the second man Daniel Easley, and it says he settled at this site about 1804, after he came from Virginia. I will not pick Easly or Easley for you. I will not tell you the year the village was incorporated. Nobody on these pages prints a charter. This pin is the plat. Not a deed I have held.",
+    long: "",
+    names: ["Daniel Easley", "William Melton"]
+  },
+  {
+    id: "freeport-reaves-house",
+    name: "The House on the Square",
+    lat: 40.2103,
+    lng: -81.2671,
+    radius: 120,
+    short: "The John Reaves House stands on the public square. The register says it was built in 1820. The article is more careful. It says Daniel Easley built it, that nobody knows the year, and that it was certainly no later than 1820. It is the oldest building still standing in the village, and it has been changed very little. It has been a house, and it has been a government building. It went on the National Register on July 15, 1977, for the architecture. Easley later went west and laid out another Freeport, in Stephenson County, Illinois. Before he left, he sold this house to the family of John Reaves. The article says Reaves was one of the first teachers in Harrison County, the first man in the village to enlist after Fort Sumter fell, and the first man from this county to die in that war. I will not invent the battle. This pin is the house. Not a grave I have not read.",
+    long: "",
+    names: ["John Reaves", "Daniel Easley"]
+  },
+  {
+    id: "freeport-not-invented",
+    name: "What I Will Not Add",
+    lat: 40.2108,
+    lng: -81.2688,
+    radius: 180,
+    short: "The census table starts at two hundred eleven in 1830. Then it skips 1840, 1860, and 1870. The percent signs are blank across those holes. I will not fill them. The high number is six hundred ninety, in 1900. Between 1880 and 1890 the table goes from three hundred eighty-seven to six hundred seventy-two. I will not explain the jump. The county's oil, near Jewett and Scio, is dated after that, and it is not this village. I will not borrow it. What is written down is a man here about 1804, a plat in 1810, a post office in 1814, a house no later than 1820, and a village that once held more than twice the people it holds now. The next place on your list is Fultonham.",
+    long: "",
+    names: ["Freeport"]
+  },
 
 
 

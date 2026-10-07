@@ -15633,6 +15633,28 @@ name, when you want it, is Corning.",
     names: ["Waynesburg", "Noodledosey"]
   },
 
+  {
+    id: "conneaut-mound",
+    name: "Two Forts",
+    lat: 41.9368,
+    lng: -80.5653,
+    radius: 60,
+    short: "The name card said a trail here is older than Salem. A marker at Indian Mound Metropark, on Mill Road, says the earthwork called Conneaut Fort was first written down in the 1840s, from notes by Charles Whittlesey, and printed in Squier and Davis in 1848. That is not the fort of 1796. A different marker, at 401 Liberty Street, says Fort Independence is where Moses Cleaveland landed on July 4, 1796. I still will not make that sign and the storehouse the same building. The Mill Road marker dates the first settlers from Europe to 1798. The landing card still has a line that says 1799. I will not sand those years together.",
+    long: "",
+    names: ["Charles Whittlesey", "Moses Cleaveland"]
+  },
+  {
+    id: "conneaut-george",
+    name: "Ten Tons, or Seventeen",
+    lat: 41.9680,
+    lng: -80.5520,
+    radius: 80,
+    short: "The unloader card would not name an inventor. George Hulett was from this town. A magazine says his patent for an ore machine, number 652,313, was filed on November 28, 1899, a rig 92 feet tall that took ten tons at a bite, and that the first one was shown on these docks. A local history says he built it in 1898, that it was tried here that year, that Andrew Carnegie paid 40,000 dollars for it, and that it was working in 1899. The same pages also say 45,000 dollars, 88 feet, and seventeen tons in fifty seconds. I will not average them. By 1901 that history counts five Huletts on the Conneaut docks. I still will not call CSX the old Nickel Plate.",
+    long: "",
+    names: ["George Hulett"]
+  },
+
+
 
 
 

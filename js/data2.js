@@ -15144,6 +15144,26 @@ name, when you want it, is Corning.",
     long: "",
     names: ["Chesterfield", "Elias Bundy"]
   },
+  {
+    id: "chesterville-house",
+    name: "Miles Cross Roads",
+    lat: 40.4781,
+    lng: -82.6835,
+    radius: 40,
+    short: "The house is at 154 South Portland Street, on the left as you go north. A 1911 county history calls the village Chesterville, and in the same line, Miles Cross Roads. The write-up on the stone says Enos Miles laid the town out in 1819. Wikipedia says 1829. The other account is about 1830. I will not pick. His hotel and tavern were busy enough that the crossroads took his name. Robert E. Lord, the town's first doctor, owned the house later. It was listed in 1979. A guide to the village says eight other buildings on Sandusky and Portland were listed that same August. I will not read you eight doors I have not stood in.",
+    long: "",
+    names: ["Enos Miles", "Robert E. Lord"]
+  },
+  {
+    id: "chesterville-shorty",
+    name: "The Line That Missed",
+    lat: 40.4800,
+    lng: -82.6785,
+    radius: 100,
+    short: "The seat card left the railroad unnamed. The line that got the depots was the Big Four, the Cleveland, Columbus, Cincinnati and St. Louis. It ran through Saint James, Edison, and Cardington. Chesterville is not on that list. Mount Gilead got a short line of its own, two and a half miles, from the square out to Edison, which was then called Gilead Station. The first trip was May 11, 1880. Sixteen trips a day, and no faster than fifteen miles an hour. A speaker called it the shortest railroad in the world. I will not make that a measurement. I do not have a depot in this village, and I will not invent one.",
+    long: "",
+    names: ["Big Four"]
+  },
 
 
 

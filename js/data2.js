@@ -15448,8 +15448,16 @@ name, when you want it, is Corning.",
     long: "",
     names: ["John T. Haller"]
   },
-
-
+  {
+    id: "clyde-cabin",
+    name: "The Cabin Is Across the Road",
+    lat: 41.3088,
+    lng: -82.9713,
+    radius: 60,
+    short: "The last card would not say which house was the birth cabin. The National Register nomination for 300 East McPherson Highway says James Birdseye McPherson was born in a log cabin, and that this frame house was built in 1831. The sign on the house says about 1833. The 1888 sketch puts the cabin site, and his father's blacksmith shop, inside the cemetery across the road. I will not make the frame house the cabin. The cemetery marker says he was buried there on July 29, 1864, and that the ground has been a cemetery since 1824. In it are George Burton Meek, called the first American serviceman killed in the war with Spain, Charles H. McCleary and Rodger W. Young, both Medal of Honor, and Emma Anderson, mother of Sherwood Anderson. The house marker calls him the highest-ranking Union officer killed. The encyclopedia still says second. I will not pick. A local page says the village incorporated in 1866. I have not seen the record. The railroad written B. and W. is still only initials.",
+    long: "",
+    names: ["James Birdseye McPherson", "Rodger W. Young", "George Burton Meek"]
+  },
 
 
   

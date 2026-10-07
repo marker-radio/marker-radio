@@ -14820,6 +14820,48 @@ name, when you want it, is Corning.",
     long: "",
     names: ["Cecil"]
   },
+  {
+    id: "cedarville-rail",
+    name: "The Grade",
+    lat: 39.7475,
+    lng: -83.8095,
+    radius: 250,
+    short: "The village page says three grist mills ran on Massie Creek, and a branch of the Little Miami Railroad came through the middle of town to haul the flour and the livestock. A history of this line says the Columbus and Xenia Railroad was chartered in 1844 and opened through Cedarville on February 26, 1850. I will not make those one company. The last freight left on September 14, 1986. The grade is now the Ohio to Erie Trail. The same history says the tracks also served a paper mill and a dolomite quarry. I do not have the street for either one.",
+    long: "",
+    names: ["Little Miami Railroad", "Columbus and Xenia Railroad"]
+  },
+  {
+    id: "cedarville-kyle",
+    name: "James H. Kyle",
+    lat: 39.7451,
+    lng: -83.8044,
+    radius: 80,
+    short: "On U.S. 42 the state marker says this is the birthplace of Senator James H. Kyle, and it calls him the father of Labor Day. He was born here on February 24, 1854. The family left when he was eleven. He sat in the Senate for South Dakota from 1891 to 1901. On August 23, 1893, he brought in a bill to make the first Monday in September Labor's Holiday. President Cleveland signed it on June 28, 1894.",
+    long: "",
+    names: ["James H. Kyle"]
+  },
+  {
+    id: "cedarville-harper",
+    name: "The Harper Stone",
+    lat: 39.7546,
+    lng: -83.8113,
+    radius: 80,
+    short: "In North Cemetery, at 501 North Main Street, is the Civil War monument. Vinna M. Harper put it up in 1916, in honor of George W. Harper. The stone says 1861 to 1865. This is not a battlefield. It is a graveyard marker for the men who went.",
+    long: "",
+    names: ["Vinna M. Harper", "George W. Harper"]
+  },
+  {
+    id: "cedarville-adena",
+    name: "Indian Mount",
+    lat: 39.7431,
+    lng: -83.8269,
+    radius: 150,
+    short: "On Indian Mount Trail, about a mile north of Williamson Road, is an Adena mound. The marker says it was built from about 500 B.C. to the year 1, that mounds like it were for burial or for looking out, and that this one is thirty feet high and a hundred and forty feet across. It is not under the cedar trees in the plat. I will not move it there.",
+    long: "",
+    names: ["Adena"]
+  },
+
+
 
 
 

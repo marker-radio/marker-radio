@@ -15696,6 +15696,16 @@ name, when you want it, is Corning.",
     names: ["Asahel Cooley", "Simeon W. Cooley", "Heman Cooley"]
   },
 
+  {
+    id: "corning-foster",
+    name: "Not One Afternoon",
+    lat: 39.6032,
+    lng: -82.0850,
+    radius: 40,
+    short: "The war card would not add a body count. A history of the county, printed in 1883, still does not give one. It says the companies were paying on a sliding scale, that they hired armed guards, and that the Black miners were armed too. It says miners from Shawnee, Straitsville, and Nelsonville were coming to wreck the works and drive those men out of the Sunday Creek valley. On a Saturday about six in the evening, Governor Foster ordered T. J. Smith, captain of the Ewing Guards at New Lexington, to get his company ready. When they reached Rendville, the history says the streets there and here held ten or twelve hundred men. The skirmish it describes was at Rendville, not on this corner. It says that fight practically closed the Corning War, and that the soldiers stayed two or three weeks. Three companies of the Fourteenth, under Colonel Freeman, were still on the road from Columbus when the Guards fired. A later lecture counts eight to twelve wounded and one killed, and then, in the same talk, one wounded or one killed. I will not lock either number. I still do not have the man the name Corning honors, and I still do not know who won the church fight in 1884.",
+    long: "",
+    names: ["T. J. Smith", "Charles Foster"]
+  },
 
 
 );

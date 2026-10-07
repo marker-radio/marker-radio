@@ -15622,6 +15622,16 @@ name, when you want it, is Corning.",
     names: ["Conesville Power Plant"]
   },
 
+  {
+    id: "congress-noodle",
+    name: "Eighteen Forty-Two",
+    lat: 40.9238,
+    lng: -82.0521,
+    radius: 40,
+    short: "The name card would not date the change from Waynesburg, and it would not give a reason. The county library's page on the village says the original name was Noodledosey, that the 1827 plat is when the editor thinks it became Waynesburg, that Waynesburg incorporated in 1837, and that it was renamed Congress in 1842. I think is his word, not mine. Ben Douglass, in 1878, still starts the town as Waynesburg, surveyed by Peter Emery on March 6 and recorded March 27. I will not erase that plat, and I still do not have a reason for Congress. The same page says town hall sat on lot 46 in the 1873 atlas, later in the old schoolhouse on lot 11, and that the hall, which had been the school, was sold at auction in March 1924. Village business is now at 133 South Maple Street, the township house. I do not have the door, and I still do not have a railroad in this village.",
+    long: "",
+    names: ["Waynesburg", "Noodledosey"]
+  },
 
 
 

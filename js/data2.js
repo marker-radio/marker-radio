@@ -14790,6 +14790,37 @@ name, when you want it, is Corning.",
     long: "",
     names: ["Catawba Station", "Big Four"]
   },
+  {
+    id: "cecil-rochester",
+    name: "New Rochester",
+    lat: 41.2318,
+    lng: -84.5950,
+    radius: 300,
+    short: "A mile north of Cecil, on a bluff over the Maumee, four men platted New Rochester in November 1835. I do not have their names, and I will not invent them. Seventy-one lots, eighteen acres. When Paulding County was organized in March 1839, this was the county seat. On November 21, 1839, three judges appointed a clerk and a sheriff. By April 1840 there was still no courthouse, so court met in a room over H. N. Curtis's general store. The place had thirty to forty families, three hotels, three stores, two blacksmiths, a post office, a school, and three taverns. The seat moved to Charloe, and in 1850 to Paulding. By the 1880s the only building left was the log school from 1836. A 2009 dig on this bluff found stone tools and about four thousand years of people living here. I will not name a nation the dig did not name. That is not a village under Main Street. In 1935 people bought four acres of the old plat and made New Rochester Park, the first park in the county. The stone reads 1835, New Rochester, 1935. A new state marker went up in 2025.",
+    long: "",
+    names: ["New Rochester", "H. N. Curtis"]
+  },
+  {
+    id: "cecil-church",
+    name: "Immaculate Conception",
+    lat: 41.2195,
+    lng: -84.6035,
+    radius: 150,
+    short: "The Catholic church in Cecil began in 1874 as a station of Defiance. In 1875 it was a station of Antwerp. In 1879 they built a church, named it Immaculate Conception, and it became a mission. The first priest who lived here was Father Peiffer, in 1918. I do not have his first name, and I do not have the street number of the church. Cecil was incorporated in 1882.",
+    long: "",
+    names: ["Immaculate Conception", "Father Peiffer"]
+  },
+  {
+    id: "cecil-engineer",
+    name: "The Engineer",
+    lat: 41.2185,
+    lng: -84.6005,
+    radius: 100,
+    short: "A Paulding place-name list says this town was named for the engineer on the Wabash who made the first run between Fort Wayne and Toledo. It says his name was Cecil. It does not give another name. I will not invent one.",
+    long: "",
+    names: ["Cecil"]
+  },
+
 
 
 

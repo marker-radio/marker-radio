@@ -15717,6 +15717,28 @@ name, when you want it, is Corning.",
     long: "",
     names: ["Orrin Gates", "Asa Hine"]
   },
+  {
+    id: "corwin-corn",
+    name: "Sweet Corn",
+    lat: 39.5244,
+    lng: -84.0672,
+    radius: 40,
+    short: "The depot card counted the hotel, the store, and the stockyards. It did not name the coal yard. The village page says that yard was Seth Cook's, and that he was the father of Dr. Mary L. Cook. The lumber yard was W. H. Madden and Company. In 1904 the Waynesville Canning Company was set up here to pack sweet corn. A second plant went up a year later, in Yellow Springs, not here. The page says the Shakers of Union Village, three miles west of Lebanon, brought their stock to these tracks to ship. It also names tobacco and hogs, with the corn and the grain. I still do not know why the post office closed in 1918. The council house and the jail are still a landmark application with no date I will use.",
+    long: "",
+    names: ["Seth Cook", "Mary L. Cook"]
+  },
+  {
+    id: "corwin-thomas",
+    name: "The Rest of the Offices",
+    lat: 39.5260,
+    lng: -84.0650,
+    radius: 40,
+    short: "The Johnstown card named Thomas Corwin and stopped at governor. He was born in Bourbon County, Kentucky, on July 29, 1794. He sat three years in the Ohio Assembly, then in the House from 1831 to 1840. He was governor from 1840 to 1842. He was a senator from 1845 to 1850. In 1847 he spoke against the war with Mexico. He was secretary of the Treasury from 1850 to 1853, under Millard Fillmore. He went back to the House in 1859. In 1861 he chaired the Committee of Thirty-three. He was minister to Mexico from 1861 to 1864. He died in Washington on December 18, 1865. He is not buried in this village. I will not move the grave.",
+    long: "",
+    names: ["Thomas Corwin"]
+  },
+
+
 
 );
 

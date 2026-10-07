@@ -15571,6 +15571,27 @@ name, when you want it, is Corning.",
     long: "",
     names: ["J. Jones", "Harvey Samuel Firestone"]
   },
+  {
+    id: "columbus-grove-jones",
+    name: "Two Handle Shops",
+    lat: 40.9222,
+    lng: -84.0636,
+    radius: 50,
+    short: "The freight list would not become a factory. The Putnam County library, on a 1907 photograph, says this village had two shops that made ax handles. One was the Belford ax-handle factory and sawmill, on West Sycamore Street. The other was founded by J. F. Jones in 1881, also on West Sycamore until 1891, when Jones and his son bought the old Methodist church on South Broadway and moved the work there. Jones died in 1918. Charles and George Jones took it. Charles retired. George ran it until he died in 1945. After that the village stored extra fire trucks in the building. That is the library's caption. I have not stood on the floor, and this pin is West Sycamore, not the church.",
+    long: "",
+    names: ["J. F. Jones"]
+  },
+  {
+    id: "columbus-grove-christy",
+    name: "The Front Came Off",
+    lat: 40.9200,
+    lng: -84.0590,
+    radius: 40,
+    short: "The storm card would not name the shop. On June 29, 2012, a windstorm took the front off a chocolate shop on the square. One local paper calls it Christy's on the Square. A later note calls it Christie's on Main, and says they meant to rebuild. I will not pick a spelling. The upper floor held apartments. Cars parked in front were crushed when the wall fell. I still do not have the words of Grover Cleveland's caboose speech, and I still will not name the nation that used the sugar grove.",
+    long: "",
+    names: ["Columbus Grove"]
+  },
+
 
 
 

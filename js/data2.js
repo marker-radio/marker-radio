@@ -14860,6 +14860,46 @@ name, when you want it, is Corning.",
     long: "",
     names: ["Adena"]
   },
+  {
+    id: "centerburg-square",
+    name: "Two Markers",
+    lat: 40.3040,
+    lng: -82.6955,
+    radius: 80,
+    short: "On the square, two markers face each other. Daniel Harris Reynolds was born here on December 14, 1832, the son of Amos Reynolds and Sophia Houck Reynolds. He left, read law, and became a Confederate general. He died in Lake Village, Arkansas, on March 14, 1902, and he is buried there, not here. Across the street, by the gazebo, a marker went up on July 4, 2026, for Corporal Abner P. Allen. He was not born here. He was born in Woodford County, Illinois, on October 9, 1839. On April 2, 1865, at Fort Gregg outside Petersburg, he carried the colors of Company K, 39th Illinois, into the assault. A week later he carried the Illinois flag at Appomattox. He died on August 22, 1905, and he is buried in Centerburg Cemetery. One headline called his fight the Battle of Richmond. The citation says Fort Gregg. I will not make them the same battle.",
+    long: "",
+    names: ["Daniel Harris Reynolds", "Abner P. Allen", "Sophia Houck Reynolds"]
+  },
+  {
+    id: "centerburg-park",
+    name: "The Pasture",
+    lat: 40.3085,
+    lng: -82.6917,
+    radius: 120,
+    short: "At 214 East Main Street is Community Memorial Park, also called the roadside park. It was a pasture. The town bought it and made a park for the men and women who served in the Second World War. Governor Frank J. Lausche dedicated it on June 3, 1945. The stone also names the 37th Division: Meuse-Argonne, Ypres-Lys, and St. Mihiel in the first war, the Solomon Islands, Manila, and northern Luzon in the second, and Camp Polk and Korea from 1952 to 1954. This is not a battlefield. It is a park.",
+    long: "",
+    names: ["Frank J. Lausche", "37th Division"]
+  },
+  {
+    id: "centerburg-bell",
+    name: "The Bell",
+    lat: 40.3051,
+    lng: -82.6958,
+    radius: 40,
+    short: "At 24 East Main Street is a bell that weighs thirteen hundred pounds. It was made in Hillsboro in 1882. The Hilliar Township trustees bought it in 1891. The Centerburg fire department set it up on October 20, 1972.",
+    long: "",
+    names: ["Centerburg"]
+  },
+  {
+    id: "centerburg-center",
+    name: "The Sign",
+    lat: 40.2974,
+    lng: -82.7059,
+    radius: 80,
+    short: "At 3813 Columbus Road, on U.S. 36, a state marker says geographical center of Ohio. The written account still says near the center, not on a surveyed pin. The sign is real. The pin in the ground is the sign's claim.",
+    long: "",
+    names: ["Centerburg"]
+  },
 
 
 

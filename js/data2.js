@@ -14659,6 +14659,48 @@ name, when you want it, is Corning.",
     long: "",
     names: ["Azbell Hall"]
   },
+  {
+    id: "carrollton-courthouse",
+    name: "The First Courthouse",
+    lat: 40.5720,
+    lng: -81.0861,
+    radius: 120,
+    short: "You are on the public square. The first courthouse stood here, built in 1835. The bricks were burned one block west, in the Atkinson-McCook brickyard, and laid in Flemish bond. George Y. Thompson was the contractor. Peter Herold Sr. was the carpenter. The first commissioners were John Shober, William Davis, and James Ferrall. The bell was cast by A. Fulton in Pittsburgh in 1842, shipped by boat to Wellsville, and brought here by oxcart. Cast into it is the line, Pull my string and justice is givin below. They spelled given with no e. The courthouse you see now was built in 1885. The Carroll County Historical Society marked the old site in 1976. This square was already called Public Square Park.",
+    long: "",
+    names: ["George Y. Thompson", "Peter Herold", "John Shober", "William Davis", "James Ferrall", "A. Fulton"]
+  },
+  {
+    id: "carrollton-rail",
+    name: "North High Street Station",
+    lat: 40.5732,
+    lng: -81.0868,
+    radius: 250,
+    short: "A railroad station stood on North High Street, between Main and Second. One station list dates that building to 1856. The line ran from Carrollton to Oneida. In 1878 the Youngstown and Connotton Valley bought the Ohio and Toledo Railroad, which was that line. The Wheeling and Lake Erie had it later. A photograph of the Carrollton depot, on the Sherrodsville branch, is dated September 4, 1967. I will not tell you the building in front of you is that depot.",
+    long: "",
+    names: ["Wheeling and Lake Erie", "Ohio and Toledo Railroad"]
+  },
+  {
+    id: "carrollton-mccook-marker",
+    name: "Tribe of Dan",
+    lat: 40.5720,
+    lng: -81.0870,
+    radius: 80,
+    short: "The marker in front of the McCook House is Ohio marker 1-10, put up in 1966. It says Major Daniel McCook of Carrollton, his nine sons, and five sons of his brother Dr. John McCook of Steubenville served in the Civil War. Daniel was mortally wounded at Buffington Island. Daniel Jr. was mortally wounded at Kennesaw Mountain. Charles was killed at Bull Run. Midshipman John died at sea. A stone on the house says 1830. The Ohio History Connection says Daniel built the brick house in 1837 and the family stayed until 1848. The state took the house in 1941 and opened it as a memorial in 1947. I will not make those two years into one.",
+    long: "",
+    names: ["Daniel McCook", "Daniel McCook Jr.", "Charles McCook", "John McCook", "Dr. John McCook"]
+  },
+  {
+    id: "carrollton-mill",
+    name: "Algonquin Mill",
+    lat: 40.5129,
+    lng: -81.1126,
+    radius: 300,
+    short: "Four miles south, at Scio Road and Autumn Road, is the Algonquin Mill. The marker says it was built about 1826 and replaced an earlier mill. Water came from Little McGuire Creek and turned two sets of stones. At its peak it ground twenty-five barrels in a day, wheat, oats, corn, and buckwheat. It ran until 1938. The marker says it was changed to steam in 1880. The historical society says William N. Corey did that in 1890. I will not pick the year. The mill was named for an Indian camp near the settlement that is now Petersburg. That camp is not under this square.",
+    long: "",
+    names: ["Algonquin Mill", "William N. Corey", "Petersburg"]
+  },
+
+
 
 
 

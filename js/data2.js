@@ -15164,6 +15164,37 @@ name, when you want it, is Corning.",
     long: "",
     names: ["Big Four"]
   },
+  {
+    id: "chickasaw-church",
+    name: "Precious Blood",
+    lat: 40.4361,
+    lng: -84.4931,
+    radius: 40,
+    short: "The church card left the year blank. The building you see was dedicated on July 2, 1967. Archbishop Karl Alter of Cincinnati blessed it. It cost three hundred thousand dollars. The first mass in this town was earlier, and it was not on a Sunday. A parish account says a hall, sixty by thirty by sixteen feet, went up in October 1894, and that the first mass was Friday, October 11, 1895, at eight in the morning. Sundays they still walked or drove to St. Sebastian. That church burned on January 12, 1903. One account calls the fire suspicious. I will not decide who set it. Chickasaw was allowed its own parish that spring. The first high mass here was Easter, April 12, 1903. William Miller and Josepha Miller deeded the ground. The old wooden church was torn down in the spring of 1967. The brick rectory on Maple Street was built in 1904, by the DeCurtins family, and listed in 1979. That is not the church.",
+    long: "",
+    names: ["Precious Blood", "William Miller"]
+  },
+  {
+    id: "chickasaw-last-train",
+    name: "1923",
+    lat: 40.4355,
+    lng: -84.4920,
+    radius: 80,
+    short: "The railroad card told you the Cincinnati, Hamilton and Dayton came through in 1880. A parish history says the trains stopped in 1923, and the town got smaller. I do not have the last run, and I will not invent a final whistle.",
+    long: "",
+    names: ["Cincinnati, Hamilton and Dayton"]
+  },
+  {
+    id: "chickasaw-creek",
+    name: "Little Chickasaw Creek",
+    lat: 40.5087,
+    lng: -84.4577,
+    radius: 200,
+    short: "The name card would not turn the Chickasaw nation into a camp in Marion Township. Their country was in the South. There is a Little Chickasaw Creek mapped in this county, and the village page speaks of the Big and Little Chickasaw who lived here. I will not decide that a creek and a person are the same thing, and I will not put a camp on this bend.",
+    long: "",
+    names: ["Little Chickasaw Creek"]
+  },
+
 
 
 

@@ -15591,8 +15591,16 @@ name, when you want it, is Corning.",
     long: "",
     names: ["Columbus Grove"]
   },
-
-
+  {
+    id: "commercial-point-acre",
+    name: "Devil's Half Acre",
+    lat: 39.7860,
+    lng: -83.0230,
+    radius: 45,
+    short: "The Rome card would not decide which town sat on the east. The village page still says Burnley laid Rome out east of Genoa. The encyclopedia still turns Rome into the western half. I will not pick. A 2017 paper in Circleville says a fence is supposed to have stood between them, and that a half acre in neither plat was called Devil's Half Acre. Supposed is the word. That paper dates the Rome plat to 1843. The village page has Burnley here in 1832. Arrival and plat are not the same year, and I will not make them one. The same paper says the post office in Beckett's store came to be called Commercial Point, and that the village took that name in 1872. A television station says 1871, and that Beckett named the store itself Commercial Point. I will not average 1871 and 1872. Wiley Beckett's wife was Magdalena Akerly. They had eleven children. Alexander Beckett was the recorder at the first election. I still do not have a railroad I will put in this village.",
+    long: "",
+    names: ["Wiley H. Beckett", "James H. Burnley"]
+  },
 
 
 

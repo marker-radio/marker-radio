@@ -14991,6 +14991,51 @@ name, when you want it, is Corning.",
     names: ["George Stocking"]
   },
 
+  {
+    id: "chardon-union",
+    name: "Built Back",
+    lat: 41.5813,
+    lng: -81.2040,
+    radius: 50,
+    short: "The fire card already told you the square burned. This is what they put back. Two days later, Mayor E. V. Canfield and the county commissioners met in the town hall on East Park Street and voted to rebuild. The marker says the Chardon Building Company hired Herrick and Simmons of Cleveland to put up the Union Block in brick. Both blocks were done in 1869. Rensselaer R. Herrick, one of those builders, was mayor of Cleveland from 1879 to 1882. The Odd Fellows added their hall in 1879. The courthouse is a different contract. Wikipedia says it went to L. J. Randall, the design was Joseph Ireland's, the cornerstone was laid September 10, 1869, and the building was finished August 20, 1870, for $88,862. Randall died in 1869, and Carpenter and Matthews of Meadville finished the work. I will not make Herrick and Randall the same man. Arson was suspected and never proved. The square, the courthouse, and the Main Street buildings were listed together in 1974. A guide to the district also names an opera house from 1878.",
+    long: "",
+    names: ["E. V. Canfield", "Rensselaer R. Herrick", "Joseph Ireland", "L. J. Randall"]
+  },
+  {
+    id: "chardon-tree",
+    name: "The Washington Tree",
+    lat: 41.5829,
+    lng: -81.2035,
+    radius: 30,
+    short: "At 100 Short Court Street, the Daughters of the American Revolution planted an elm in 1932. The stone says Washington took command of the army under the parent of this tree. That command was in Cambridge, Massachusetts, not on this square. The date cut on the stone is July 8, 1725. That is not the date historians use, and Washington was not yet born. I will not move the war to Chardon. The elm died of Dutch elm disease in 1995. A new tree was dedicated in 2006. There is still no battlefield on this hill.",
+    long: "",
+    names: ["George Washington"]
+  },
+  {
+    id: "chardon-hanging",
+    name: "Hanging Rock",
+    lat: 41.5739,
+    lng: -81.2056,
+    radius: 80,
+    short: "On the Maple Highlands Trail, south of South Street, a marker tells the county's first murder trial. On February 1, 1823, Benjamin Wright Junior stabbed Zophar Warner in a fight over money. Warner died. A jury said Wright should be hung by the neck until he was dead. The hanging was public, on May 15, 1823, near this spot. In those years Ohio still did the hanging in the county where the court sat.",
+    long: "",
+    names: ["Benjamin Wright", "Zophar Warner"]
+  },
+  {
+    id: "chardon-rail",
+    name: "The Lake Branch",
+    lat: 41.5785,
+    lng: -81.2085,
+    radius: 150,
+    short: "The grade through Chardon was the Lake Branch of the Baltimore and Ohio. I do not have the year of the first train, and I will not invent it. The railroad asked to abandon the line in 1974. It was abandoned in 1982. The Geauga Park District bought the county's share in 1986. The paved trail into Chardon, the Maple Highlands Trail, opened in 2002 and 2003. The piece from Fifth Avenue to Water Street opened in 2015.",
+    long: "",
+    names: ["Baltimore and Ohio"]
+  },
+
+
+
+
+
 
 
 

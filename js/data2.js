@@ -14940,6 +14940,58 @@ name, when you want it, is Corning.",
     long: "",
     names: ["Jacob Whipp"]
   },
+  {
+    id: "chagrin-riverside",
+    name: "Riverside Park",
+    lat: 41.4324,
+    lng: -81.3905,
+    radius: 60,
+    short: "Noah Graves built the dam just east of the North Main bridge in 1837, a sawmill first, then a paper mill. He was born in 1800 and died in 1866. He partnered with Charles Sears, then leased his share to Z. B. Brinsmade. That mill closed in 1850. In 1873 a new company, the Chagrin Falls Paper Company, opened on the same ground. At its peak it had fifty men and could turn out fifteen thousand flour sacks a day. Orders went as far as Australia. It closed in 1888. Those buildings came down in the 1930s, and the ground is Riverside Park. Beside the park, Chagrin Hardware has been open since 1857. A later account says a stone mill from 1859 still stands on Cleveland Street, and that it is the last factory building of the nine. I will not call that building the Graves mill.",
+    long: "",
+    names: ["Noah Graves", "Charles Sears", "Z. B. Brinsmade"]
+  },
+  {
+    id: "chagrin-rail",
+    name: "East of Philomethian",
+    lat: 41.4275,
+    lng: -81.3754,
+    radius: 80,
+    short: "The first train between Solon and Chagrin Falls ran in 1877, on the Painesville, Canton and Bridgeport, a narrow-gauge line. The station stood just east of the Philomethian Street school, on the north side of East Washington Street. The school ground is the Bell Tower condominiums now. The line later belonged to the Chagrin Falls and Southern, the Cleveland, Canton and Southern, the Wheeling and Lake Erie, and the Norfolk and Western. I will not make those one company. Passenger trains quit in 1898. Freight lasted until 1983. The tracks were abandoned in 1989.",
+    long: "",
+    names: ["Painesville, Canton and Bridgeport"]
+  },
+  {
+    id: "chagrin-interurban",
+    name: "The Electric Cars",
+    lat: 41.4310,
+    lng: -81.3880,
+    radius: 80,
+    short: "This was not the steam railroad. The Cleveland and Chagrin Falls Electric Railway opened in 1897. The Everett and Moore syndicate built it. A coal powerhouse stood on Fenkell Road, now Miles Road, and a steel bridge 363 feet long crossed the river near Miles and River Road. In town the cars came in on Miles, up Maple, left on Walnut, and out Washington Street toward Garrettsville. At midnight on March 31, 1925, they shut the power off. That was the last day.",
+    long: "",
+    names: ["Cleveland and Chagrin Falls Electric Railway"]
+  },
+  {
+    id: "chagrin-monument",
+    name: "The Obelisk",
+    lat: 41.4280,
+    lng: -81.3917,
+    radius: 100,
+    short: "Evergreen Hill Cemetery, at 506 South Franklin, opened in 1863. After the Civil War the Soldiers Aid Society, led by Jane E. Church, had money left. They raised the rest and put up a sandstone obelisk for the twenty-one Chagrin Falls men who died. It was dedicated on September 10, 1867. The historical society says it was the first Civil War memorial in Ohio paid for by the town's own people, and that Jane Church read the address. The stone lists the names and the dates. Not all of them are buried in this yard. Memorial Day has been kept at this stone since 1868. About 1,200 people lived here when the war started. More than 200 went. This is not a battlefield.",
+    long: "",
+    names: ["Jane E. Church"]
+  },
+  {
+    id: "chagrin-grove",
+    name: "Grove Hill",
+    lat: 41.4348,
+    lng: -81.3949,
+    radius: 80,
+    short: "Grove Hill Cemetery has a burial from 1833, four years before the village was laid out. I do not have that person's name, and I will not invent it. In 1842 George Stocking bought the burying ground for two hundred dollars. He cut it into one hundred lots, each eight feet by twenty-eight, and deeded them out for family graves.",
+    long: "",
+    names: ["George Stocking"]
+  },
+
+
 
 
 

@@ -15551,6 +15551,28 @@ name, when you want it, is Corning.",
     long: "",
     names: ["Matthew Richardson", "Francis Monfort"]
   },
+  {
+    id: "columbiana-mail",
+    name: "He Would Not Have Them In",
+    lat: 40.8806,
+    lng: -80.6750,
+    radius: 40,
+    short: "The railroad card would not improve the claim that this was one of the first places with mail brought to the house. A 2016 account, using the historical society, says the postmaster around 1840 was John Hiner, and that he was called a cranky old man. He did not want people coming to his house for their letters, so he walked them to the doors. That is why the mail moved. I will not turn his walk into a national first. The same account says only two buildings from the original fifty-eight lots are left. One is on the northwest corner of the square, next to the Main Street Theater. The other is on the northeast corner, next to the historical society's log house. I still will not make the 1831 railroad and the 1856 Pittsburgh, Fort Wayne and Chicago the same line.",
+    long: "",
+    names: ["John Hiner"]
+  },
+  {
+    id: "columbiana-jones",
+    name: "Four Fireplaces",
+    lat: 40.8822,
+    lng: -80.6856,
+    radius: 40,
+    short: "The Firestone card said the Jones-Bowman House is believed to have been a stop on the Underground Railroad, and it would not name a conductor. The register puts the house at 540 Pittsburgh Street. J. Jones built it in 1842. He was the son of an abolitionist. Believed is still the word, and I still will not name a conductor. E. Bowman bought it in 1885. It went on the National Register on December 12, 1976. The spiral stair and four wood-burning fireplaces are said to be as built. A marker in the park says Harvey Samuel Firestone was born in 1868 on a nearby farm, went to school in this town, and died in 1938. The city now calls that park 68 acres. The older sentence said the family gave 53. I will not average them, and I do not have the farm.",
+    long: "",
+    names: ["J. Jones", "Harvey Samuel Firestone"]
+  },
+
+
 
 
 );

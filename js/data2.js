@@ -15653,6 +15653,26 @@ name, when you want it, is Corning.",
     long: "",
     names: ["George Hulett"]
   },
+  {
+    id: "continental-rice",
+    name: "Not Mary",
+    lat: 41.1008,
+    lng: -84.2732,
+    radius: 40,
+    short: "The Maurice card says a later compiler has George Skinner filing the plat for A. V. Rice, and that Maurice honored Rice's daughter Mary. Maurice is still not Mary. A. V. Rice was Americus Vespucius Rice, born in Perrysville on November 18, 1835. He was a brigadier general in the Union army, dated May 31, 1865, and he sat in Congress for this district from 1875 to 1879. His bank was in Ottawa, not here. His wife was Mary A. Metcalf. The children the record names are Mary and Katherine. He died in Washington on April 4, 1904, and he is buried at Arlington. I will not move that grave onto this plat. An older encyclopedia line spells the first name of the town Marice. I will not decide Marice against Maurice, and I still will not lock a reason for the word Continental.",
+    long: "",
+    names: ["Americus Vespucius Rice"]
+  },
+  {
+    id: "continental-water",
+    name: "They Took Water Here",
+    lat: 41.0985,
+    lng: -84.2710,
+    radius: 60,
+    short: "The count card said there was no railroad it would pin. The encyclopedia history is two sentences and does not mention one. The Nickel Plate society's page for this stop, using the road's own guidebook, says the traffic was farm goods. It names a vegetable packing company, the Snyder Tile Company, and the Raabe Grain Company. It says steam engines took water here, and that people came to watch them. I have not seen a depot building, and I will not draw one.",
+    long: "",
+    names: ["Nickel Plate Road"]
+  },
 
 
 

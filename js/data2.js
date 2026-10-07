@@ -15366,6 +15366,27 @@ name, when you want it, is Corning.",
     long: "",
     names: ["Miami Fort"]
   },
+  {
+    id: "clifton-opera",
+    name: "Four Hundred Seats",
+    lat: 39.7968,
+    lng: -83.8245,
+    radius: 40,
+    short: "The count card dated an opera house to 1893 and stopped. The village history says the Springfield architect C. A. Cregar designed it, and D. B. Moon of South Solon built it. It seated four hundred. Minstrel shows came first, then medicine shows. In the 1950s the school used it. In the 1960s it was the village office. By the middle of the 1980s the roof was going and the walls were bowing. Howard Printz got leave from the council to save it. The historical society leased it in 1989 for one dollar a year. In 2010 the society gave the lease back, and the council took the shows. A listing on the National Register failed because the original tower is gone.",
+    long: "",
+    names: ["C. A. Cregar", "Howard Printz"]
+  },
+  {
+    id: "clifton-gorge",
+    name: "A Refuge, Not a Battle",
+    lat: 39.7998,
+    lng: -83.8358,
+    radius: 80,
+    short: "The marker on Route 343 says that to the Shawnee this gorge was a refuge in time of trouble, and that to the pioneers it was a wall. It says meltwater cut it about thirteen thousand years ago. A second marker on the same road says fifteen thousand years, and four hundred million for the rock instead of three hundred and fifty. I will not average them. The leap people tell here is not Daniel Boone's. A man who worked this preserve says the papers of Lyman Draper suggest a boy named Cornelius Darnell, from the salt party, jumped the Little Miami, missed the far rim, and caught the trees. I will not say I saw it. A newspaper account says a railroad was proposed through this country and this village was left off it. The stage still came from Springfield. I will not invent the company that never arrived.",
+    long: "",
+    names: ["Cornelius Darnell"]
+  },
+
 
 
 

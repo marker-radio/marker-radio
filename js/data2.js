@@ -15737,6 +15737,157 @@ name, when you want it, is Corning.",
     long: "",
     names: ["Thomas Corwin"]
   },
+  {
+    id: "coshocton-harris",
+    name: "Whitewoman Street",
+    lat: 40.2793,
+    lng: -81.8765,
+    radius: 40,
+    short: "The Roscoe card would not explain Whitewoman Street. A marker at North Whitewoman and Hill says the street is named for Mary Harris. It says she and her family were the first people it can name in this county, and that they arrived about 1745. They were Mohawk, from Kahnawake, near Montreal. The marker calls them the praying Mohawks, Catholics from a Jesuit town. She had been taken at Deerfield, Massachusetts, in 1704, when she was ten, with more than a hundred other people. She stayed a Mohawk, and she married into that nation. On the frontier she was called the White Woman. Around 1750, French and English maps put White Woman's Town and White Woman's River here. Christopher Gist visited in January 1751 and wrote her name in his diary. The marker says her son Joseph was in the fur trade about 1753, between Kahnawake and New York. Later stories say she killed her husband and jumped from a rock. I will not use them.",
+    long: "",
+    names: ["Mary Harris"]
+  },
+  {
+    id: "coshocton-council",
+    name: "The Council House",
+    lat: 40.2738,
+    lng: -81.8690,
+    radius: 50,
+    short: "A marker in the middle of Main Street, at Second, says Goschachgunk means Black Bear Town, and that it was the capital of the Delaware Nation. The approach card still has two translations for the county name. I will not make them one. The marker says the council house stood on this parkway. On March 9, 1777, a council under White Eyes refused a British hatchet and voted to stay neutral. The marker says that helped the colonists. It then says Colonel Broadhead, of Virginia, brought 800 men in April 1781, destroyed the town, and burned the house. The Goschachgunk card spells him Brodhead. I will not sand the letter. Another marker, at a spring I am not standing on, dates the killing to April 20, 1781, counts 20 dead, and counts his army at 300. I will not average 300 and 800, and I will not add a count of my own.",
+    long: "",
+    names: ["White Eyes"]
+  },
+
+  {
+    id: "covington-ingle",
+    name: "The Tanner",
+    lat: 40.1285,
+    lng: -84.3549,
+    radius: 40,
+    short: "The Stillwater card left Michael Ingle without a year. A marker at High Street and Ingle Road says he arrived in Miami County in 1804, the first white settler to stay in Newberry Township. It calls him a tanner from Virginia. He cleared 800 acres, grew wheat, and built a double log cabin where the town is now. It says he was in the Revolutionary War, and that he is buried on the land he cleared, the Old Township Section. The village page dates his patent to November 15, 1804, puts him at the mouth of Harrisons Creek, and says he died in 1839. A note on that page says later research puts him in Bedford County, Pennsylvania, not Virginia. I will not pick the state. The page also says his grave is in Highland Cemetery. I will not make that the same ground as the Old Township Section. In 1805, the page says, John Miller, Elijah Reagan, and Sylvester Thompson came, and then Samuel Brown.",
+    long: "",
+    names: ["Michael Ingle"]
+  },
+  {
+    id: "covington-buchanan",
+    name: "Not Rowdy",
+    lat: 40.1212,
+    lng: -84.3542,
+    radius: 40,
+    short: "The Rowdy card says a 2021 marker credits General Anthony Wayne with a fort of 1793, abandoned after the Treaty of Greenville. An 1880 county history tells a different post. Captain Buchanan built a blockhouse. People called it Fort Rowdy. He would not take the name. The history says his men had not sat on Wayne's ground, and they did not want to be remembered as rowdies. The report that went back called it Fort Buchanan, and then Buchanan's Block House. The stockade ran to the St. Marys Road, which is High Street, and it took in a spring under what was later the hotel. Two signs went up in August 2021 at the veterans' post on North High, one for each name. I will not make them one fort. I still do not know who the village name honors.",
+    long: "",
+    names: ["Fort Buchanan"]
+  },
+
+  {
+    id: "craig-beach-1917",
+    name: "Not 1913",
+    lat: 41.1165,
+    lng: -80.9826,
+    radius: 40,
+    short: "The dam card would not invent a finish year. A later account says the flood of March 1913 put the Mahoning 22 feet up after four days of rain, and that nobody died. Youngstown had bought the 3,416 acres in 1910 to cool the steel. The same account says the dam was also to hold a flood, and that the work started a few months after the water went down. It has the dam nearly done in 1916. The lake's page says it was finished in 1917, and then, in another line, that the dam was built in 1913. I will not use 1913 as the finish. The state's page dates the dance hall to 1920, two years before the company. It says a man from Steubenville, already called Dean Martin, took a dare and sang with the band, and that the career started there. The other account still calls him Crocetti, names the song Oh Marie, and puts the fame more than ten years later. I will not make those one night. Lake Milton incorporated in July 1930. Its mayor was Pennola Jones, 63, a grandmother, and she ran a restaurant. She opened Sunday dancing because the county could not stop an incorporated town. This village's page still dates its own charter to 1931, for the same Sunday. She was not the mayor here.",
+    long: "",
+    names: ["Pennola Jones", "Dean Martin"]
+  },
+
+  {
+    id: "crestline-highway",
+    name: "May First",
+    lat: 40.7908,
+    lng: -82.7461,
+    radius: 40,
+    short: "The funeral card is April 29, 1865, at 4:07 in the morning. I still will not put a crowd on that platform. These stones are not that train. They stand at West Main and Clink, at 802 West Main, and they are dated May 1, 1922. One is for J. F. McMahon, the first Lincoln Highway consul in Crestline. A caption on the same page spells him MacMahon. I will not add the letter. The other is for A. F. Bement, vice president and secretary of the Lincoln Highway Association. The road is named for the man. It is not the car that carried him. I still do not have the year J. A. Crever walked the new town, and I still do not have the name of the man who platted it in 1852.",
+    long: "",
+    names: ["J. F. McMahon", "A. F. Bement"]
+  },
+
+  {
+    id: "creston-hassett",
+    name: "Not the Sink Hole",
+    lat: 40.9760,
+    lng: -81.8992,
+    radius: 40,
+    short: "The Pike card would not say why the name changed. A Wooster paper of 1912 says that before the Erie was finished, people called this the Sink Hole. The first name was Seville Station. The second was Pike Station. The last was Creston. It says the earlier names were dropped because other towns in Ohio already used them. It says that just after the first rail of the Wheeling and Lake Erie was laid, in 1880, a clothier named Captain Hassett named the town. It does not say why he picked the word. The encyclopedia still dates the post office change to 1881. I will not make those one year. The paper calls the first mayor Warder H. Wheeler. A later article calls him Warden Wheeler. I will not pick the letter. The same paper says the first mill was a sawmill owned by A. W. Wells.",
+    long: "",
+    names: ["Captain Hassett", "Warder Wheeler"]
+  },
+  {
+    id: "creston-erie",
+    name: "Three Lines",
+    lat: 40.9750,
+    lng: -81.9022,
+    radius: 40,
+    short: "The Lines card would not name a company the encyclopedia does not name. The 1912 paper does. It says the New York, Pennsylvania and Ohio, later the Erie, was built through here about 1853. The track sank west of the Erie street crossing. Thirty acres of timber were cut and thrown in, and the work ran two months, day and night. A 1999 article says the Erie came in 1863 and quit in 1980. I will not pick 1853 or 1863. The paper dates the Wheeling and Lake Erie to 1880, the Baltimore and Ohio to 1888, and the Cleveland and Southwestern traction line to 1903 and 1904. I will not turn the trolley into a railroad.",
+    long: "",
+    names: ["Creston"]
+  },
+
+  {
+    id: "cridersville-legacy",
+    name: "Five Hundred Eighteen",
+    lat: 40.6541,
+    lng: -84.1395,
+    radius: 30,
+    short: "The school card stopped in 1875, and it would not count the children. A marker on this ground, now Legacy Park, says a new school went up here in 1939. It was the fourth school since the one room of 1866. From 1939 to 1966, 518 students graduated from it. By 1962 the building held more than 500 more students than it had been built for. In 1965 the board voted to join the Wapakoneta district. The class of 1966 was the last to graduate here. It stayed an elementary school until 2009, when a new one opened on Reichelderfer Road. The marker counts more than 2,600 students in the building across seventy years. The granite was given by John and Steve Johns. I will not turn 518 and 2,600 into one number.",
+    long: "",
+    names: ["Cridersville"]
+  },
+  {
+    id: "cridersville-weaver",
+    name: "Before the Criders",
+    lat: 40.6546,
+    lng: -84.1336,
+    radius: 40,
+    short: "The stone at National Road and Dixie Highway only says Ephraim and Polly Crider founded the town in 1856. A local binder says Ephraim bought 80 acres on April 3, 1854, the northwest quarter of section 35, from Joseph Weaver and his wife. It says his son Isaac had bought from Samuel Moyer and his wife on March 11 of that year. The same binder says Harrison Maltbie surveyed 24 lots on April 17, 1856. Seventeen faced Main Street, west of a line it calls the C. H. and D. Seven faced High Street, and those seven were Isaac's. The marker still calls the railroad the Dayton and Michigan, and it still says finished in 1858. I will not make the two names one company. The binder says the place was first called Weavers Corner, with a shoe shop, a blacksmith, and a store. Another telling calls it Weavertown, and puts Isaac Weaver here in the 1830s. One line in that telling moves the Criders to 1836. I will not use 1836. The marker's year is still 1856.",
+    long: "",
+    names: ["Isaac Weaver", "Ephraim Crider"]
+  },
+
+  {
+    id: "crooksville-hull",
+    name: "Not the Years I Invented",
+    lat: 39.7584,
+    lng: -82.0928,
+    radius: 40,
+    short: "The clay card would not invent the years for Hull. The pottery's own history says production started in 1905, in Crooksville, under Addis Emmet Hull. The first work was stoneware, semi-porcelain dinnerware, and tile. He had worked at the Star Stoneware with his older brother, J. J. Hull. J. J. helped start a china works called the Acme. Hull later took those buildings. I will not lock a year for that purchase. Addis died in 1930. His son ran the company and left in 1937 to manage Shawnee Pottery. On June 19, 1950, a flood and a fire destroyed the plant. It opened again on January 1, 1952, under the name the Hull Pottery Company. J. B. Hull died in 1978. Henry Sulens ran it, and then Larry Taylor. Strikes and foreign ware hit it in the middle of the 1980s. It closed in March 1986. The building went to the Friendship Pottery Company. In August 1993 it burned during a renovation. I am standing in the town. I am not standing on a door I have not measured.",
+    long: "",
+    names: ["Addis Emmet Hull", "Hull"]
+  },
+
+  {
+    id: "croton-granby",
+    name: "Not Hartford",
+    lat: 40.2388,
+    lng: -82.6876,
+    radius: 40,
+    short: "The Hartford card would not invent a reason for the mail. The village's page says the plat is September 20, 1824, by Ezekiel Wells and Elijah Durfey. A society post spells him Durfery. I will not add the letter. The page says Durfey was the first justice of the peace who was elected. A farm account book says Daniel Poppleton, born in 1784 at Pownal, Vermont, came in 1812 with his wife, and that he was the first justice. I will not make those one office. Durfey was named postmaster on May 24, 1833. Ohio already had a Hartford post office, in Trumbull County, so this one could not use the village name. It was called Granby first. On January 25, 1843, it became Croton. The town hall went up in 1857. Edwin Buel built it for 600 dollars, and the second story cost 200 more. The village incorporated on March 6, 1866. A stone in town remembers the township's dead from the Civil War, and the men who were taken prisoner. It does not give me their names.",
+    long: "",
+    names: ["Elijah Durfey", "Daniel Poppleton"]
+  },
+
+  {
+    id: "crown-city-daley",
+    name: "December Eighteen",
+    lat: 38.5895,
+    lng: -82.2904,
+    radius: 40,
+    short: "The Rankin card has one man cutting his farm into lots. A county history says the town was laid out by Hiram Rankin and Vincent Daley. It says Rankin filed a petition in the recorder's office on December 18, 1873. The ground was to come from the farms of William Knight, Isaac Rucker, Hiram Rankin, William Rankin, Thomas Bays, Franklin Fowler, Nelson Lane, and a name the book prints as Eijah Williams. I will not fix the spelling. The same history says the place was first called Bay's Bottom, for Thomas Bay, who held the longest piece of the river. It says the name became Crown City in the 1870s, and that the village asked the state to incorporate about then. It says the corporation was granted. It does not, in the lines I have, give that day. I will not use 1869, and I will not use 1874. A paper of June 17, 1869, says the bodies of seven people who drowned here had all been found. It does not say how.",
+    long: "",
+    names: ["Vincent Daley", "Thomas Bay"]
+  },
+
+  {
+    id: "cumberland-morgan",
+    name: "Three in the Afternoon",
+    lat: 39.8542,
+    lng: -81.6569,
+    radius: 40,
+    short: "The bank card will not date a picture. This stone is at 359 North Cambridge, on Route 146, and it is about a different afternoon. It says that around 3 in the afternoon of July 23, 1863, Brigadier General John Hunt Morgan and about 600 men came into Cumberland. Morgan and a few officers stopped at the Globe House. Others went into the house of a Dr. Stone. Some of them wanted the doctor's horse. He said he needed it for patients who could not leave home. They said they would leave it for 75 dollars. He paid. Later men took the horse anyway. The marker says the raiders ate, and that they took horses, cash, and goods from the Holmes store and the Colonel Squire store. A man from town was made to lead them toward Point Pleasant, which is Pleasant City now, and then let go. The innkeeper, Harrison Secrest, was the next guide who had not volunteered. The stone says that on the way through Hartford, now Buffalo, they burned the bridge over the Seneca branch of Wills Creek, and went on to Senecaville. A note on the same stone says their own men shot John Happs at Point Pleasant. That shooting is not this town. I still do not have a year for the old bank.",
+    long: "",
+    names: ["John Hunt Morgan", "Harrison Secrest"]
+  },
+
+
 
 
 

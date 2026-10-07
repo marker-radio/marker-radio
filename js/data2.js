@@ -15103,6 +15103,38 @@ name, when you want it, is Corning.",
     long: "",
     names: ["Robert C. Byrd", "Gaston Caperton"]
   },
+  {
+    id: "cheshire-cabins",
+    name: "Three Cabins",
+    lat: 38.9490,
+    lng: -82.1140,
+    radius: 80,
+    short: "The name card would not make the dates match. An 1882 county history splits them. About 1794, three cabins went up on the riverbank near where the village is now. Paul Darst and Abram Darst, Adam Rousch, and Edward McMullen built them. The ground was bought from P. Mathews, an agent of the Ohio Company. I do not have the cabin lots, and I will not point at a house. Cheshire Township was cut from Kyger Township on March 3, 1811. The first election the book records was September 4, 1814. Fifteen votes. The same book says the village had a two-story brick academy, built in 1860 for six thousand dollars, and that the Presbyterian society was using it as a church. I do not know if that building is still here.",
+    long: "",
+    names: ["Abram Darst", "Adam Rousch", "Edward McMullen"]
+  },
+  {
+    id: "cheshire-gatewood",
+    name: "Grandma Gatewood",
+    lat: 38.9449,
+    lng: -82.1104,
+    radius: 40,
+    short: "Cheshire Village Park is at Main Street and North Locust, on the river. The marker there was put up in 2016. It says that in 1953, at 67, Emma Rowena Gatewood became the first woman to walk the Appalachian Trail alone in one season. She was born October 25, 1887, in Guyan Township, in this county, not in this village. A fuller account says she finished in 1955, in 146 days. Sixty-seven fits 1955 better than it fits 1953. I will not make those one year. She raised eleven children. She helped start the Buckeye Trail. She died on June 4, 1973. The park is what is left of the riverbank.",
+    long: "",
+    names: ["Emma Gatewood"]
+  },
+  {
+    id: "cheshire-kyger",
+    name: "The Other Plant",
+    lat: 38.9153,
+    lng: -82.1283,
+    radius: 400,
+    short: "This is not the Gavin plant that bought the village. Kyger Creek stands south of town, in Addison Township, on the river. The Ohio Valley Electric Corporation opened it in 1955. Five units. It was built to feed the Portsmouth gaseous diffusion plant at Piketon, the atomic works. The government ended that contract in 2003. A stack 1,001 feet high went up in the middle of the 1970s. Gavin is about a mile and a half upstream. I will not make the two plants one company.",
+    long: "",
+    names: ["Kyger Creek"]
+  },
+
+
 
 
 

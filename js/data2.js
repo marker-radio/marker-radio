@@ -15407,6 +15407,28 @@ name, when you want it, is Corning.",
     names: ["Akron Branch Railroad", "Nicholas Smith"]
   },
 
+  {
+    id: "cloverdale-sugar-grove",
+    name: "Not the 1824 Plat",
+    lat: 41.0195,
+    lng: -84.2870,
+    radius: 50,
+    short: "The name card would not found this village in 1824. The stone at Route 114 and Route 694 is not that plat. It says Sebastian Sroufe, a veteran of the War of 1812, and his wife Mary built a house in 1821, a quarter mile downstream on the west bank of the Auglaize. The house was the postal stop Sugar Grove, on the road between Fort Recovery and Fort Defiance, and the place where Perry Township organized in 1828. On January 24, 1829, Sebastian became the first postmaster in Putnam County. He died in 1830. A few steps away, another stone says Samuel Myers and Margaret Hardin, the first couple married in the county, put a grist mill on the east bank and a dam across the river by 1840. The mill ran until the flood of 1913. The maple grove behind it is Cascade Roadside Park. Cascade is not the square in Cloverdale.",
+    long: "",
+    names: ["Sebastian Sroufe", "Samuel Myers"]
+  },
+  {
+    id: "cloverdale-bridge",
+    name: "Mahoning Street",
+    lat: 41.0199,
+    lng: -84.3044,
+    radius: 40,
+    short: "A marker on Mahoning Street says that on June 6, 1873, John T. Haller took the stone contract for the Auglaize bridge, and that the stone was to be set by September 5, at 24.75 cubic feet to the perch. On June 27, McGurdy and McDurmett took the iron, at twenty dollars and fifty cents a foot, three bowstring spans, a wood floor, 296 feet long and 16 feet wide. The bridge was done before February 1875 and used until October 24, 1959. A second stone keeps a cornerstone from the Findlay and Fort Wayne abutment at Cascade. That line was opened under another name in 1887, reached Fort Wayne in 1895, and was nearly all gone by 1919. I will not put that death on the Clover Leaf.",
+    long: "",
+    names: ["John T. Haller"]
+  },
+
+
 
 
 

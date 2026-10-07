@@ -15386,6 +15386,27 @@ name, when you want it, is Corning.",
     long: "",
     names: ["Cornelius Darnell"]
   },
+  {
+    id: "clinton-orradeen",
+    name: "The Low Lots",
+    lat: 40.9350,
+    lng: -81.6320,
+    radius: 80,
+    short: "The name card had no year for Orradeen. The National Register nomination says Gorham Chapin plotted it in 1835, on section 29. The lots were low and they flooded, and few people moved there. It says William and Francis Pumroy laid their piece in 1837 as the alternative, east of Clinton and southeast of Orradeen. The same file says William Christmas and James W. Lathrop added ground to Harvey's tract. I do not have Chapin's corners, so I am not standing on his lots. I still will not decide whether the 1816 plat said Savannah or Clinton.",
+    long: "",
+    names: ["Gorham Chapin", "Orradeen"]
+  },
+  {
+    id: "clinton-rail",
+    name: "The Akron Branch",
+    lat: 40.9295,
+    lng: -81.6350,
+    radius: 80,
+    short: "The canal card would not name the railroad of 1852. The nomination says people here fought the Akron Branch because it would compete with the boats. The contractors finished it anyway. In 1852 that road ran from Hudson southwest to Millersburg, and the track and a depot sit west of the village on the 1856 map. The next year the court renamed it the Cleveland, Zanesville and Cincinnati. Another sentence dates the service under that later name to 1852. I will not pick the year on the sign. Do not confuse it with the Clinton Line, chartered in 1852 out of Hudson toward Pennsylvania and named for DeWitt Clinton. That was a different road, and it is not the train that stopped here. The 1850 canal report says Nicholas Smith tended the locks and was paid two hundred and forty dollars a year. I still do not have a death count for the flood of 1913.",
+    long: "",
+    names: ["Akron Branch Railroad", "Nicholas Smith"]
+  },
+
 
 
 

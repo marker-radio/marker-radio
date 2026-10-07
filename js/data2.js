@@ -14730,6 +14730,36 @@ name, when you want it, is Corning.",
     long: "",
     names: ["Lost Creek Reserve", "Mark D. Knoop", "Dorothy Knoop"]
   },
+  {
+    id: "castalia-snow-marker",
+    name: "Snow's Mill Marker",
+    lat: 41.3993,
+    lng: -82.8085,
+    radius: 80,
+    short: "At 197 South Washington Street, where Route 101 crosses Cold Creek, is a marker put up in 1969 by the Erie County Historical Society. The stone says Snow's grist mill was built near here in 1810. The village page says Docartus Snow built that mill in 1820. I will not make those one year. The stone also says the family was killed in 1813. I already told you that attack. I will not tell it twice.",
+    long: "",
+    names: ["Docartus Snow", "Erie County Historical Society"]
+  },
+  {
+    id: "castalia-quarry",
+    name: "Wagner Quarry",
+    lat: 41.3868,
+    lng: -82.8301,
+    radius: 700,
+    short: "Southwest of the village is Castalia Quarry MetroPark. It was Wagner Stone Company's Quarry Number 5. From 1870 to 1929 they took limestone out of here for shoreline stone, glass, railroad ballast, and building. Horses, steam engines, and men with powder did the work. The stone left by wagon or by railroad. I do not have a passenger depot in the village, and I will not invent one. The Depression stopped this hole in 1929. In 1954 they opened it again for the Ohio Turnpike. Stone from here went into the foundations of the Edison Bridge and the Bay Bridge. It closed for good by the middle of the 1960s. In 1987 Wagner Quarries gave part of the ground to Erie MetroParks, and the park district bought the rest.",
+    long: "",
+    names: ["Wagner Stone Company", "Castalia Quarry MetroPark"]
+  },
+  {
+    id: "castalia-hatchery",
+    name: "The State Hatchery",
+    lat: 41.4120,
+    lng: -82.8037,
+    radius: 400,
+    short: "North of town, at 7018 Homegardner Road, is the Castalia State Fish Hatchery. A private trout club built it in 1937. The state bought the ninety acres in 1997. They rebuilt it in 2012. The water comes from a spring on the grounds and from a cut off Cold Creek. This is the blue pond the public can see. It is not the old Blue Hole. One local account says John Hoyt, who owned the Castalia paper mills, bought a thousand trout eggs in the fall of 1870 to see if this cold water would keep them. It did.",
+    long: "",
+    names: ["Castalia State Fish Hatchery", "John Hoyt"]
+  },
 
 
 

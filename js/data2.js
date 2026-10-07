@@ -15316,6 +15316,59 @@ name, when you want it, is Corning.",
     names: ["John Clayton", "Salem"]
   },
 
+  {
+    id: "cleveland-heights-rhodes",
+    name: "February 1970",
+    lat: 41.4935,
+    lng: -81.5660,
+    radius: 150,
+    short: "The freeway card would not invent the night of a vote. There was not a city vote to report. Cleveland Historical says Governor James Rhodes scrapped the Clark Freeway in February 1970, while he was running for the Senate. A longer study says the fight had lasted six years and ended when he canceled it. The Clark and Lee legs would have met near the Nature Center at Shaker Lakes. That building is in Shaker Heights. I will not move it. The same account says Horseshoe Lake would probably have been destroyed, and that the Nature Center was founded in 1966, during the fight. The road was not built.",
+    long: "",
+    names: ["James Rhodes"]
+  },
+  {
+    id: "cleveland-heights-dugway",
+    name: "The East Branch",
+    lat: 41.5068,
+    lng: -81.5594,
+    radius: 80,
+    short: "The parks card would not pick a creek under Cain Park. A 2024 account in the Heights Observer says the park was built in the 1930s over the culverted east branch of Dugway Brook, between Taylor and Lee. It says Doan Brook is a different stream, the south line of the city, and that the Shakers dammed it in the 1830s. I will not move their mill into this city. The same account says Dugway watered native people who used this ground for a very long time. It does not name a nation, and I will not. It says the ravines were quarried from the 1830s for Euclid bluestone, the stone in the old sidewalks. In the mid-1980s the city covered the brook from Lee Road to Euclid Heights Boulevard for parking. Neighbors objected. The city planted grass.",
+    long: "",
+    names: ["Dugway Brook"]
+  },
+  {
+    id: "cleveland-heights-1913",
+    name: "The Front Nine Was Already Former",
+    lat: 41.5009,
+    lng: -81.5923,
+    radius: 70,
+    short: "The 1892 card would not say when the Euclid Golf course closed. I still do not have that day. The historical society says the Euclid Golf allotment was laid out in 1913, on the front nine of the former course, land that had been John D. Rockefeller's. Barton R. Deming planned it. Fairmount Boulevard was the main road. His own house, by Howell and Thomas, still stands on the slip of ground between Cedar and Fairmount. I am pinning the boulevard, not a tee.",
+    long: "",
+    names: ["Barton R. Deming"]
+  },
+  {
+    id: "cleves-tunnel",
+    name: "The First Canal Tunnel",
+    lat: 39.1559,
+    lng: -84.7472,
+    radius: 80,
+    short: "The count card saw a railroad on the 1869 atlas and would not name the company. I still will not. What the marker will name is the Cincinnati and Whitewater Canal. It was built to reach the Whitewater Canal at West Harrison, Indiana. The ridge between this village and North Bend was in the way, on land William Henry Harrison sold for the right of way. He also supplied wood and brick. Darius Lapham designed a tunnel 1,782 feet long, 24 feet wide, and 20 and a half feet high. The marker calls it the first canal tunnel in Ohio. Six workers died building it. The canal opened in 1843 and was abandoned by 1856, after floods wrecked the Whitewater. From 1863 to 1888 the tunnel carried trains. That is the railroad on the atlas. I do not have the company's name. A trail puts the east portal near Miami and Wamsley. Another account says a section caved in during the 1950s, under work on U.S. 50. The motto still names only two rivers. I will not make the Whitewater the third.",
+    long: "",
+    names: ["Cincinnati and Whitewater Canal", "Darius Lapham"]
+  },
+  {
+    id: "cleves-miami-fort",
+    name: "Not Fort Hill",
+    lat: 39.1297,
+    lng: -84.7941,
+    radius: 200,
+    short: "The hilltop walls above the meeting of the Great Miami and the Ohio are called Miami Fort. Hopewell people built them about two thousand years ago. The name says fort. The walls were a gathering place, not a battle I can name. The park is Shawnee Lookout, and the map puts it with North Bend, not on the square in Cleves. Fort Hill, the other hilltop enclosure people mix with this one, is in Highland County. I will not move either earthwork into the plat.",
+    long: "",
+    names: ["Miami Fort"]
+  },
+
+
+
 
 
 

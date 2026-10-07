@@ -15285,6 +15285,27 @@ name, when you want it, is Corning.",
     long: "",
     names: ["Cincinnati and Muskingum Valley"]
   },
+  {
+    id: "clay-center-school",
+    name: "The Last Wooden School",
+    lat: 41.5636,
+    lng: -83.3633,
+    radius: 30,
+    short: "The count card would not read the school stone. It stands next to Billy Clark's marker, at Main Street and Fifth, by 440 Main. The county historical society's trail says the last wooden school in Ottawa County was built here in 1926. I will not tell you the building in front of you is that school. The same trail says this town, like Genoa, sat on the Findlay Arch, and that the lime from it was good enough to ship. The society says Kelly Island Lime and Transport opened a quarry nearby. I will not move the pit onto the square. Billy's wife was Susanna. They came from England in the 1840s. The veterans' stone is on this same corner. I still do not have the names on it.",
+    long: "",
+    names: ["Susanna Clark"]
+  },
+  {
+    id: "clay-center-rail",
+    name: "Wood for a Railroad With No Name",
+    lat: 41.5625,
+    lng: -83.3645,
+    radius: 80,
+    short: "The founder card would not name the railroad Billy sold wood to. I still do not have that charter. A talk on the Toledo, Port Clinton and Lakeside line says the interurban cars came through this village, and that a quarry spur here handed stone to the Lake Shore and Michigan Southern, later the New York Central. I will not turn a spoken route into a deed, and I will not invent the spur's company.",
+    long: "",
+    names: ["Lake Shore and Michigan Southern"]
+  },
+
 
 
 

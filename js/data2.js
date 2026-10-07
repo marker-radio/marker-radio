@@ -15707,6 +15707,16 @@ name, when you want it, is Corning.",
     names: ["T. J. Smith", "Charles Foster"]
   },
 
+  {
+    id: "cortland-orrin",
+    name: "Orrin",
+    lat: 41.3317,
+    lng: -80.7262,
+    radius: 40,
+    short: "The Gates card did not have a first name. The city page calls him Orrin Gates, a traveling minister from Cortland, New York, and it also puts that home in the Lehigh Valley. Those are not the same place. I will not move Cortland into Pennsylvania. He settled at Baconsburg and preached at the Disciple Church. That church was Baptist in 1818 and Disciple in 1832. I will not put it on this lot. The city page says he named the village on May 7, 1873, for his old home. The historical society says the town became real in 1873, when the railroad built a depot, and that an official of the road disliked Baconsburg. It says the man is said to be Orrin Gates. It then dates the incorporation, and the official name, to 1874. The other city page puts the first depot in 1874, and the railroad itself in 1868. I will not pick. The society says the village was one square mile, centered on an iron stake on the lot of the Methodist Church, on North High Street. The first mayor was Asa Hine. The first clerk was W. W. Post. I still do not have a nation for the people the page says were gone by 1812.",
+    long: "",
+    names: ["Orrin Gates", "Asa Hine"]
+  },
 
 );
 

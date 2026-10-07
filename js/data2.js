@@ -14700,6 +14700,37 @@ name, when you want it, is Corning.",
     names: ["Algonquin Mill", "William N. Corey", "Petersburg"]
   },
 
+  {
+    id: "casstown-stone-church",
+    name: "The Stone Church",
+    lat: 40.0514,
+    lng: -84.1294,
+    radius: 80,
+    short: "At 11 South Main Street is the Casstown Lutheran Stone Church. The Lutherans organized about 1835, most of them from Pennsylvania, and at first they met in the Methodist Episcopal building. They started this stone church in 1839 and finished it in 1840. In 1867 they moved to a larger brick church. This one became a house. C. R. Randall and Eunice Randall lived in it. It went on the National Register on May 31, 1984.",
+    long: "",
+    names: ["Casstown Lutheran Stone Church", "C. R. Randall", "Eunice Randall"]
+  },
+  {
+    id: "casstown-main",
+    name: "John E. Main",
+    lat: 40.0450,
+    lng: -84.1317,
+    radius: 200,
+    short: "Casstown Cemetery is south of the village. John E. Main is buried here. He died on September 13, 1882, aged fifty-four. His stone says Company E, 110th Ohio Volunteer Infantry, and the Grand Army of the Republic. There is still no fort and no battlefield on the village streets. This grave is the war record I can point to. I will not tell you he was born on Main Street. The stone does not say that.",
+    long: "",
+    names: ["John E. Main"]
+  },
+  {
+    id: "casstown-lost-creek",
+    name: "Lost Creek Reserve",
+    lat: 40.0211,
+    lng: -84.1573,
+    radius: 800,
+    short: "South of the village, at 2385 East State Route 41, is Lost Creek Reserve, a Miami County park. The mailing address is Troy. The ground is the Knoop homestead. Five generations of that family farmed it. In 1997 Mark D. Knoop and Dorothy Knoop put 239 acres into a trust so it would stay farmland, and the park district bought 173 acres beside it, including the house, the family cemetery, and the barns. The park is about 457 acres. It is not inside this tenth of a square mile.",
+    long: "",
+    names: ["Lost Creek Reserve", "Mark D. Knoop", "Dorothy Knoop"]
+  },
+
 
 
 

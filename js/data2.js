@@ -18361,6 +18361,435 @@ STORIES.push(
     names: ["George Goovers"]
   },
 
+  {
+    id: "approach-friendship",
+    name: "Friendship",
+    lat: 38.7050,
+    lng: -83.1006,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Friendship, in western Nile Township, Scioto County, on U.S. 52. Not Portsmouth. A history page puts the crossing at 52 and State Route 125, and calls it the first permanent American settlement in the county. If you stay on the road, I'll start at 1795.",
+    long: "",
+    names: ["Friendship"]
+  },
+  {
+    id: "friendship-1847",
+    name: "A Bit of a Mystery",
+    lat: 38.6981,
+    lng: -83.1006,
+    radius: 40,
+    short: "The page says that in the spring of 1795 Major John Belli, a confidante of Washington and a quartermaster under Anthony Wayne, hired a man to clear a homestead on a thousand acres where Turkey Creek meets the Ohio. I will not name the man. It says that on October 14, 1847, Littleton Bradford was made the first postmaster and was given the naming of the place. He chose Friendship. The page says the word has Quaker and antislavery connotations, and that the choice remains a bit of a mystery. It also says there are good reasons to believe the name fits the families here. I will not settle that. After his death, William Veach was postmaster from December 30, 1854, to August 6, 1857. I will not give either man a birth year. The page calls this the southern gateway to Shawnee State Forest and the park. I will not move the park's gate onto the post office. This pin is the census point. Not a second gazetteer dot.",
+    long: "",
+    names: ["Littleton Bradford"]
+  },
+  {
+    id: "friendship-ashley",
+    name: "Seven People",
+    lat: 38.6945,
+    lng: -83.0985,
+    radius: 40,
+    short: "The same history says that in 1841 James M. Ashley, then seventeen, brought seven freedom seekers down the Ohio from Greenup County, Kentucky, past Portsmouth, to the west side of the Scioto. He met the Veach family, who lived near the mouth of Turkey Creek, in the community now called Friendship. I will not turn seventeen into a birth year, and I will not invent the rest of the line. This pin is not the cabin.",
+    long: "",
+    names: ["James M. Ashley"]
+  },
+  {
+    id: "friendship-yard",
+    name: "Behind the Church",
+    lat: 38.6970,
+    lng: -83.1041,
+    radius: 40,
+    short: "One page puts Friendship Cemetery just south of State Route 125, on Ed Warren Drive, and says it is two acres. A grave page puts it on U.S. 52, beside the church, up Cemetery Road, with the church on the left and a community park on the right, the yard behind the church. A third list says the yard is behind the school. I will not pick the driveway, and I will not name a park the page does not name. The map prints Friendship Elementary beside this ground. I do not have the year it was built. I will not read the stones. There is still no nation I will place on this crossing. The next place, when you want it, is Fruit Hill.",
+    long: "",
+    names: ["Friendship Cemetery"]
+  },
+
+  {
+    id: "approach-fruit-hill",
+    name: "Fruit Hill",
+    lat: 39.0800,
+    lng: -84.3644,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Fruit Hill, in Anderson Township, Hamilton County. Not Cincinnati. The gazetteer and the census box are not the same dot. If you stay on Beechmont, I'll start at the two centers.",
+    long: "",
+    names: ["Fruit Hill"]
+  },
+  {
+    id: "fruit-hill-centers",
+    name: "Two Centers",
+    lat: 39.0756,
+    lng: -84.3644,
+    radius: 40,
+    short: "The gazetteer prints one point. The encyclopedia prints another, at the census place. I will not average them. A postal guide spells the name Fruithill. A place-name file calls the spot Cedar Point. I do not have the year a post office opened, and I will not invent it. This pin is the gazetteer. Not the census middle.",
+    long: "",
+    names: ["Fruit Hill"]
+  },
+  {
+    id: "fruit-hill-school",
+    name: "Number Thirteen",
+    lat: 39.0748,
+    lng: -84.3614,
+    radius: 40,
+    short: "The township says Anderson District School number 13 stood on Beechmont, opposite Salem, and taught through the eighth grade from 1870 until 1929, when the central Anderson School opened. It says nearly sixty years. The dates are on the same sentence. I will not sand them. It says the building was later the Handy Pantry, in the middle of the nineteen hundreds. I will not date the grocery. A neighbor on that post calls the school Spider Web College and gives no years. I will not date the nickname. A township booklet says a small burial ground for the Bethesda church sat next to the playground and is now private. Abraham Hopper and his wife Elizabeth were charter members. I do not have their years, and I do not have that gate. This pin is not the school door.",
+    long: "",
+    names: ["Fruit Hill School"]
+  },
+  {
+    id: "fruit-hill-angels",
+    name: "Fifty Feet West",
+    lat: 39.0742,
+    lng: -84.3614,
+    radius: 40,
+    short: "A township booklet says Guardian Angels Cemetery was opened on March 15, 1904, by William H. Elder, and that the entrance is about fifty feet west of Salem Road on Beechmont. About stays. A grave page says it is about eleven and a half acres, and prints the address 7150 Beechmont. A survey point sits a few feet off that page's dot. I will not average them. The booklet's index says Guardian Angel. The grave page says Angels, and one sentence on it says Angles. I will not pick the spelling. This pin is the address.",
+    long: "",
+    names: ["Guardian Angels Cemetery"]
+  },
+  {
+    id: "fruit-hill-bennett",
+    name: "Eighteen Thirty-Seven, or Eighteen Eighty-Five",
+    lat: 39.0632,
+    lng: -84.3636,
+    radius: 40,
+    short: "A grave page places Bennett Cemetery in Fruit Hill, also called Liberty Chapel, on Markley Road. It says the ground is a tenth of an acre, that the first burial was in 1837, and that the last was in 1910. The same page says the cemetery was established on November 1, 1885. I will not average 1837 and 1885. It says the map point is approximate. I will not move it onto Beechmont. There is still no nation on these pages, and no battle. The next place, when you want it, is Fulton. Not Canal Fulton.",
+    long: "",
+    names: ["Bennett Cemetery"]
+  },
+
+  {
+    id: "approach-fulton",
+    name: "Fulton",
+    lat: 40.4700,
+    lng: -82.8283,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Fulton, the village in Morrow County, south of Mount Gilead. Not Canal Fulton. It was Lincoln Center until 1881. If you turn in, I'll start at the name.",
+    long: "",
+    names: ["Fulton"]
+  },
+  {
+    id: "fulton-1881",
+    name: "Lincoln Center",
+    lat: 40.4631,
+    lng: -82.8283,
+    radius: 40,
+    short: "A paper says Lincoln Center became Fulton in 1881, and that the name was for James Fulton. I do not have his years. The encyclopedia says a post office called Fulton has been open since 1881. The paper says a post office was built in 1962. I will not make those one year. The same paper says the Toledo and Ohio Central had a depot here, that railroad work began in 1868, and that the last passenger train ran in July 1935. The encyclopedia says the village started when the rail reached the quarries. I will not sand 1863, 1868, and 1881 into one date. This pin is the village.",
+    long: "",
+    names: ["Fulton"]
+  },
+  {
+    id: "fulton-quarry",
+    name: "Flood, or Cement",
+    lat: 40.4660,
+    lng: -82.8280,
+    radius: 40,
+    short: "The Lincoln Stone Quarry opened in 1863 on David Stiner's farm, at the north end of town. A grave page prints his years as 1816 to 1905. I will not swear which yard. The paper also calls the pit Rumer and Blythe. In a 1901 atlas, A. M. Rumer and John Blythe advertised hard blue sandstone. A local historian says it employed one hundred twenty-five men at one time. That figure is his. News reports in 1917 said the quarry closed from flooding. He says it closed because men went to the first war, and because cement had come. I will not pick, and I will not call this a battlefield. The county's war shaft stands in Mount Gilead. I will not move it. He also says Native people hunted and made sugar here and left in the 1830s. He does not name a nation. I will not. This pin is not the pit.",
+    long: "",
+    names: ["David Stiner"]
+  },
+  {
+    id: "fulton-yard",
+    name: "April Twenty-Ninth",
+    lat: 40.4626,
+    lng: -82.8349,
+    radius: 40,
+    short: "Fulton Cemetery sits on the county road at the west edge of the village. A genealogical page says it is four and eight tenths acres, and that the first burial was Andrew Click, on April 29, 1885. That date is credited to Virgil Denton. I will not read the rest of the stones. Another old yard, sometimes called Ashbury, sits north of here at the state routes. The same page says that from 1808 to 1848 this ground was Delaware County. I will not fold that yard into this one. This pin is the west edge.",
+    long: "",
+    names: ["Fulton Cemetery"]
+  },
+  {
+    id: "fulton-williams",
+    name: "The School, Then the Fire",
+    lat: 40.4620,
+    lng: -82.8275,
+    radius: 40,
+    short: "The paper dates Fulton School number 1, on Williams Street, to 1894, and says it closed in June 1956. It dates the Fulton Hotel to 1891. A Methodist church burned in 1944 and was replaced in brick. The encyclopedia's picture is Vineyard Church. I will not make them the same building. A paper dated June 2018 says Lincoln Center Park opened the September before. I do not have that gate, and I do not have the school door. The next place, when you want it, is Fultonham.",
+    long: "",
+    names: ["Fulton"]
+  },
+
+  {
+    id: "approach-fultonham",
+    name: "Fultonham",
+    lat: 39.8620,
+    lng: -82.1408,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Fultonham, in Newton Township, Muskingum County. Not Zanesville, and not East Fultonham. It was Uniontown. Two years are given for the plat, and I will not average them. If you stay on the pike, I'll start there.",
+    long: "",
+    names: ["Fultonham"]
+  },
+  {
+    id: "fultonham-uniontown",
+    name: "Eighteen Twelve, or Eighteen Fifteen",
+    lat: 39.8558,
+    lng: -82.1408,
+    radius: 40,
+    short: "The encyclopedia says the place was Uniontown, platted in 1815. A man who came here in 1815, and wrote it down in 1890, says John Porter laid the town out in 1812. I will not average those years, and I will not hand Porter the year the encyclopedia does not. He says Porter and Major Crooks came about 1800, and that the major built a tavern. About stays. I will not give the major a first name. The page says a post office called Uniontown opened in 1818, and that the name became Fultonham in 1828. One edition says the name was for a postmaster called Robert Fulton. The current page says it was for Robert Fulton, the man who built a steamboat. A newspaper says Squire Fulton taught school here. I will not make those three men one man. Burton, the man who wrote in 1890, says the town sits on the Maysville Pike, nine miles from Zanesville, and that johnny cake was the food. I will not make that a recipe. This pin is the village. Not East Fultonham.",
+    long: "",
+    names: ["Fultonham"]
+  },
+  {
+    id: "fultonham-hendricks",
+    name: "Gone as a Baby",
+    lat: 39.8569,
+    lng: -82.1293,
+    radius: 40,
+    short: "A marker at 7215 Old Town Road says Thomas A. Hendricks was born on this site on September 7, 1819. The family moved to Indiana while he was still a baby. The stone says he served in the Indiana legislature and in the House in the late eighteen forties and the eighteen fifties, in the Senate from 1863 to 1869, and that he was elected governor in 1872. It says that in 1876 he and Samuel Tilden lost to Rutherford B. Hayes. I will not retell Fremont. It says he won with Grover Cleveland in 1884 and died in 1885, after eight months as vice president. I will not give you the day. The marker went up in 1999. This pin is the stone. Not the village well.",
+    long: "",
+    names: ["Thomas A. Hendricks"]
+  },
+  {
+    id: "fultonham-school",
+    name: "The Line the Scan Broke",
+    lat: 39.8554,
+    lng: -82.1422,
+    radius: 40,
+    short: "A scanned county history says the Uniontown School was organized in Fultonham in the year 1818. The scan breaks the town's name across a line. I will not repair a word I already know. The encyclopedia's picture is a reproduction of a Mail Pouch barn. I will not date a copy, and I will not tell you the original is standing. This pin is not the school door.",
+    long: "",
+    names: ["Uniontown School"]
+  },
+  {
+    id: "fultonham-yards",
+    name: "Three Yards",
+    lat: 39.8569,
+    lng: -82.1489,
+    radius: 40,
+    short: "A directory prints Uniontown Cemetery, and it also calls that ground Union Cemetery and the Fultonham Methodist Episcopal Cemetery. I will not pick. The point sits west of the village. Fultonham Cemetery is a second yard, and a Baptist yard is a third. I do not have the year any of them opened, and I will not read the stones. There is still no nation on these pages, and no battle in the village. The next place, when you want it, is Galena.",
+    long: "",
+    names: ["Uniontown Cemetery"]
+  },
+
+  {
+    id: "approach-galena",
+    name: "Galena",
+    lat: 40.2280,
+    lng: -82.8761,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Galena, in Berkshire Township, Delaware County. Not Delaware, and not Sunbury. It was Zoar, and a local page says the new name came out of a hat. If you turn in, I'll start there.",
+    long: "",
+    names: ["Galena"]
+  },
+  {
+    id: "galena-hat",
+    name: "Drawn from a Hat",
+    lat: 40.2206,
+    lng: -82.8761,
+    radius: 40,
+    short: "A local history says Zoar was founded in 1809 by Gilbert Carpenter, between Big Walnut and Little Walnut, and that he was the first Methodist minister in the county. The page spells his Pennsylvania town Wilkesbarre. I will not repair it. It says that on April 14, 1813, he conveyed the ground to William Carpenter, and that William laid the village out. The page spells laid as layed. The plat was agreed on April 3, 1816. The encyclopedia only says platted in 1816. I will not sand 1809 into that year. In 1834 there was already another Zoar, so a committee of three, Nathan Dustin among them, put names in a hat. A blindfolded passerby drew Galena. That is the local page. I will not add a lead mine. A post office called Galena has been open since 1834. On January 4, 1924, the first council met, shortly after a charter the page does not date. Shortly stays. I do not have Gilbert's years. This pin is the square.",
+    long: "",
+    names: ["Gilbert Carpenter"]
+  },
+  {
+    id: "galena-church",
+    name: "Forty by Sixty",
+    lat: 40.2200,
+    lng: -82.8755,
+    radius: 40,
+    short: "The same history says the first preaching was in 1807, in a cabin two miles south. From 1809 to 1814 the services were in Gilbert Carpenter's mill. The society was organized in 1813 with fourteen members. On September 20, 1828, they agreed to a building forty feet by sixty, and the subscriptions came to one thousand ninety-two dollars. A bell was bought in 1853. I will not read the list of pastors. A man named Ed Sherman had a patent on covered bridges. The page says three of them were replaced between 1931 and the nineteen fifties. I will not point you to a bridge it does not locate. I do not have the church door. This pin is not the step.",
+    long: "",
+    names: ["Galena"]
+  },
+  {
+    id: "galena-yard",
+    name: "Two Points",
+    lat: 40.2208,
+    lng: -82.8823,
+    radius: 40,
+    short: "A directory puts Galena Cemetery at 297 North Walnut Street. A grave page puts the yard at the south end of the village and prints a different point. I will not average them. The local history says the ground is older than 1813, and that Revolutionary soldiers were buried in 1813. The sentence after that was cut off in the copy I used. I will not finish it. On May 3, 1962, a D.A.R. chapter dedicated a marker at the grave of Lieutenant Benjamin Carpenter. I do not have his years. The same history calls an honorable Benjamin Carpenter a congressman who built about a mile north of Sunbury. I will not make them one man, and I will not move Sunbury here. There is still no nation on these pages, and no battle inside the village. The next place, when you want it, is Galion.",
+    long: "",
+    names: ["Galena Cemetery"]
+  },
+
+  {
+    id: "approach-galion",
+    name: "Galion",
+    lat: 40.7450,
+    lng: -82.7886,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Galion. Most of it is in Crawford County. Bucyrus is the county seat. The origin of the name is uncertain. If you stay on the road, I'll start at the old names.",
+    long: "",
+    names: ["Galion"]
+  },
+  {
+    id: "galion-names",
+    name: "The Name Is Uncertain",
+    lat: 40.7331,
+    lng: -82.7886,
+    radius: 40,
+    short: "The encyclopedia says Benjamin Leveridge and his two sons arrived in 1817. A chamber page spells the family Leveredge. I will not pick. It says William Hosford and his sons Asa and Horace settled in 1820. Colonel James Kilbourne wanted a town halfway between Columbus and the Lakes. The city's page says the place sits about halfway between Cleveland and Columbus. I will not make the Lakes and Cleveland the same point. The crossing was called Moccasin, Horseshoe, Hard Scrabble, Spang Town, Hosfords, and Goshen. In 1824 they asked for a post office under the name Goshen. John McLean changed it, because Ohio already had a Goshen. A post office called Galion has been open since 1825. The chamber says the name was chosen in 1826. The city says the plat was filed on September 10, 1831. The encyclopedia says laid out in 1831. I will not average them. The encyclopedia says the origin of the word Galion is uncertain. I will not finish it. The same page says tribes lived here until the settlers came, and it does not name them. The chamber says Wyandot territory. I will not pick the nation. The encyclopedia calls Asa Hosford the father of the town, because the railroad was finished in 1851. I do not have his years. This pin is the crossing.",
+    long: "",
+    names: ["Galion"]
+  },
+  {
+    id: "galion-depot",
+    name: "Thirty-Two Trains",
+    lat: 40.7342,
+    lng: -82.7842,
+    radius: 40,
+    short: "A marker at Washington Street and Harding Way says the depot was dedicated on December 27, 1900. It was division headquarters for the Cleveland, Chicago, Cincinnati, and St. Louis railroad, called the Big Four. It says the peak was during and after the first war, when thirty-two trains stopped in a day. In 1929 the New York Central took the line and moved the headquarters to Bellefontaine. The ticket office lasted until 1964. The railroad offices closed in 1969. The building went on the national register in 1974. I will not call a platform a battlefield. This pin is the depot.",
+    long: "",
+    names: ["Big Four Depot"]
+  },
+  {
+    id: "galion-fairview",
+    name: "January Sixteenth",
+    lat: 40.7509,
+    lng: -82.7794,
+    radius: 40,
+    short: "A tour page says Fairview Cemetery, at 1295 Fairview Avenue, took its first burial on January 16, 1883. It says the yard absorbed an older ground called Union Green, that it covers seventy-six acres, and that more than twelve thousand seven hundred people are buried there. I will not swear the count. A marker for Warren Harding's birth uses a Galion postal address and stands in Blooming Grove. I will not move that stone. There is still no battle I can put inside the city, and I will not finish the name. The next place, when you want it, is Gallipolis.",
+    long: "",
+    names: ["Fairview Cemetery"]
+  },
+
+  {
+    id: "approach-gallipolis",
+    name: "Gallipolis",
+    lat: 38.8250,
+    lng: -82.1933,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Gallipolis, the seat of Gallia County, on the Ohio. The box calls it a village. The town calls itself a city. October 17, 1790. If you turn in, I'll start at the word somehow.",
+    long: "",
+    names: ["Gallipolis"]
+  },
+  {
+    id: "gallipolis-1790",
+    name: "Somehow",
+    lat: 38.8062,
+    lng: -82.2054,
+    radius: 40,
+    short: "The name means city of the Gauls. A river marker says that on October 17, 1790, about five hundred French people came down from Pittsburgh in flatboats and settled in log cabins where City Park is now. It calls this the second oldest permanent settlement in the territory. The encyclopedia says the second city founded there, after Marietta, and that they were led by Count Jean-Joseph de Barth. I do not have his years. I will not sand those two sentences. They had paid the Scioto Company. The company did not own the ground. The encyclopedia says they survived somehow, inside a palisade. Somehow stays. A post office opened in 1794. In 1795 Washington's administration gave them land in the French Grant, in Scioto County, if they lived on it five years and cultivated it. People who stayed here had to pay the Ohio Company again. I will not move that grant onto this bank. This pin is the marker. Not the palisade.",
+    long: "",
+    names: ["Gallipolis"]
+  },
+  {
+    id: "gallipolis-our-house",
+    name: "Eighteen Nineteen",
+    lat: 38.8078,
+    lng: -82.2034,
+    radius: 40,
+    short: "A marker on First Avenue says Lafayette was entertained here in 1825. The plaque went up in 1927. Another marker calls the building the 1819 tavern, Our House. It says the Holzers bought it, restored it, and gave it to the state in 1944. Charles Elmer Holzer lived from 1887 to 1956. He came in 1909 as a surgeon at the Ohio Hospital for Epileptics. The encyclopedia says a state asylum for epileptics opened on November 30, 1893. I will not make those one door. The same marker says the family lived at 530 First Avenue, a house from 1855, from 1918 until they died. I will not invent his wife's name. I do not have that door. This pin is the tavern.",
+    long: "",
+    names: ["Charles Holzer"]
+  },
+  {
+    id: "gallipolis-pine",
+    name: "Here Sleep Many",
+    lat: 38.8161,
+    lng: -82.1998,
+    radius: 40,
+    short: "A stone on the gate of Pine Street Cemetery says many of the French Five Hundred sleep here, and hundreds of their descendants. I will not read the names. A colored cemetery stands about two tenths of a mile off. I will not fold it into this gate. The village also owns Mound Hill Cemetery, with a park beside it. I will not tell you the mound is a grave I have not read. This pin is the French gate.",
+    long: "",
+    names: ["Gallipolis"]
+  },
+  {
+    id: "gallipolis-dunmore",
+    name: "Not This Bank",
+    lat: 38.8086,
+    lng: -82.2023,
+    radius: 40,
+    short: "A marker at Locust Street and First Avenue says the Shawnee and the Delaware were restless as Virginians settled the river. It says that on October 10, 1774, Lord Dunmore ordered Colonel Andrew Lewis and eleven hundred men to attack the Shawnee near Chillicothe. It says the militia were camped across the river at Point Pleasant, and that Cornstalk crossed with a thousand warriors. After five hours the Shawnee went back west. Some call it the last battle under the crown, and the first of the Revolution. I will not settle that, and I will not move the camp onto this bank, and I will not move it to Chillicothe because an order and a camp are not the same place. The next place, when you want it, is Gambier.",
+    long: "",
+    names: ["Cornstalk"]
+  },
+
+  {
+    id: "approach-gambier",
+    name: "Gambier",
+    lat: 40.3850,
+    lng: -82.3961,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Gambier, in College Township, Knox County. Not Mount Vernon. Kenyon is in the middle of it. The encyclopedia and a marker do not agree on the year the village was laid out. If you stay on the road, I'll start at that fight.",
+    long: "",
+    names: ["Gambier"]
+  },
+  {
+    id: "gambier-years",
+    name: "Eighteen Twenty-Four, or Twenty-One Years Later",
+    lat: 40.3761,
+    lng: -82.3961,
+    radius: 40,
+    short: "The encyclopedia says the village was laid out in 1824 and named for Lord Gambier, a benefactor of the college. A marker says that in 1823 Philander Chase bought eight thousand acres he called the beauty spot of the county, and founded the college here. It says the village was not laid out until twenty-one years after the college started, long after Chase had gone, and that he had opposed the development. I will not average 1824 and twenty-one years later. A book from 1911 says the first exercises were at Worthington, in his house, and that the money was raised in England in 1823 and 1824, the chief donors being Lord Kenyon and Lord Gambier. The college was incorporated in 1824 under a long church title. In 1891 Kenyon College became the official name, though the book says it had always been called that. I will not move Worthington here. This pin is the village. Not the first classroom.",
+    long: "",
+    names: ["Gambier"]
+  },
+  {
+    id: "gambier-chase",
+    name: "Seventeen Seventy-Five",
+    lat: 40.3693,
+    lng: -82.3919,
+    radius: 40,
+    short: "The 1911 book prints Philander Chase as 1775 to 1852, and calls him the first Episcopal bishop in the Northwest Territory. The current page calls him bishop of Ohio and of Illinois. I will not pick. The marker says he founded the first men's college west of the Alleghenies, and the second oldest college in Ohio. I will not swear the ranking past the stone. I do not have his grave. This pin is the trail marker, at Meadow Lane. Not a stone I have not read.",
+    long: "",
+    names: ["Philander Chase"]
+  },
+  {
+    id: "gambier-old-kenyon",
+    name: "February Twenty-Seventh",
+    lat: 40.3714,
+    lng: -82.3969,
+    radius: 40,
+    short: "A tablet on the north face of Old Kenyon says the cornerstone was laid on June 9, 1827, by Chase. The same wall says the building was completely destroyed by fire on February 27, 1949. A new cornerstone was laid on October 22, 1949. The building was dedicated again on October 21, 1950. I will not count the dead. The marker I read does not. A path called Middle Path runs about a mile from Bexley Hall to this building. A guide calls the entrance the Gates of Hell. I will not tell you why, and I do not have a separate stake for that gate. This pin is the cornerstone.",
+    long: "",
+    names: ["Old Kenyon"]
+  },
+  {
+    id: "gambier-acres",
+    name: "Nearly Five Thousand",
+    lat: 40.3740,
+    lng: -82.4062,
+    radius: 40,
+    short: "A marker at Laymon Road and Porter Road, near the village and not in it, says that under Thomas R. Sant nearly five thousand acres were kept as they were, or put to farming, in perpetuity. Nearly stays. I will not put those acres inside the square. The trail marker says that around 1870 the college gave the railroad a right of way if every passenger train stopped at a stone depot that once stood west of that sign. Around stays. The depot is gone. I will not translate the Kokosing. The same sign says Rutherford B. Hayes is among the alumni. I will not retell Fremont. There is still no battle in the village. The next place, when you want it, is Gann. The list also calls it Brinkhaven.",
+    long: "",
+    names: ["Gambier"]
+  },
+
+  {
+    id: "approach-gann",
+    name: "Gann",
+    lat: 40.4780,
+    lng: -82.1914,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Gann. The list also calls it Brinkhaven. It is the village in Union Township, Knox County, on the Mohican. Not Mount Vernon. The name has been Mount Holly, Nonpareil, and Gann. If you stay on the road, I'll start at 1838.",
+    long: "",
+    names: ["Gann", "Brinkhaven"]
+  },
+  {
+    id: "gann-names",
+    name: "Four Names",
+    lat: 40.4692,
+    lng: -82.1914,
+    radius: 40,
+    short: "The village page says John Hibbits built the first house in 1814 and mapped Mount Holly in 1838. A park page spells him Hibbitts. I will not sand the extra letter. It says a post office opened in 1844 under the name Nonpareil, because there were other Mount Hollys, and that Robert Long was the first postmaster. It says George Gann gave the railroad land for a stop, and the station was named for him. It says the village was incorporated as Gann in 1872, and that two hundred people lived here by 1881. The census says one hundred fifty-three in 1880. I will not average them. The park page says the place was incorporated in 1892, and that William Gann gave the ground. I will not make William and George one man, and I will not average 1872 and 1892. The village page says that in 1890 the railroad renamed the stop Brinkhaven, without warning, and that the post office took that name in 1892. It says a Scotland-born railroad man used the name of his own town. I will not give him a name the page does not. It says the Gann family and the railroad feuded, that the origin of the argument is unknown, and that people here have passed down a bitter struggle. Unknown stays. A gazetteer prints a second point. I will not average it with this one. This pin is the encyclopedia. Not the other dot.",
+    long: "",
+    names: ["Gann"]
+  },
+  {
+    id: "gann-bridge",
+    name: "They Were Dreaming",
+    lat: 40.4651,
+    lng: -82.1939,
+    radius: 40,
+    short: "The village encyclopedia says the Bridge of Dreams is on the Mohican in Brinkhaven. The bridge's own page says near the village. I will not pick. It says a railroad bridge was built here in the nineteen twenties, three hundred seventy feet long, and covered in December 1998. It was dedicated in April 1999. Skeptics said the people planning the cover were dreaming, and that is where the name came from. The trail opened on June 15, 2001, on the old Pennsylvania bed. I will not make a second pin on the same boards. The village page says a wagon bridge was built in 1858, and that Robert Long built a grist mill in 1840. I will not point you to either. The last high school class was in 1934. The building came down in 1941. I do not have that door. This pin is the covered bridge.",
+    long: "",
+    names: ["Bridge of Dreams"]
+  },
+  {
+    id: "gann-flood",
+    name: "Not a Battle",
+    lat: 40.4685,
+    lng: -82.1940,
+    radius: 40,
+    short: "The village page says the Mohican flooded from March 23 to March 27, 1913, and took the west side, the railroad stop, the tracks, and thirty-five houses. A park page says eight to twelve inches of rain. I will not count the dead. The village page says the number is unknown, and it names Harry Workman and Kate Workman, and their baby. It says the parents were found and the baby was not. It says a brother asked a fortune-teller in Newcastle. I will not move Newcastle here, and I will not call the flood a war. I will not translate the Mohican. There is still no span of years I can give a person in this village. The next place, when you want it, is Garrettsville.",
+    long: "",
+    names: ["Brinkhaven"]
+  },
+
+
 
 
 

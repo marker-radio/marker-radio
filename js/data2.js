@@ -18788,6 +18788,506 @@ STORIES.push(
     long: "",
     names: ["Brinkhaven"]
   },
+  {
+    id: "approach-garrettsville",
+    name: "Garrettsville",
+    lat: 41.2920,
+    lng: -81.0933,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Garrettsville, in northeastern Portage County. Not Ravenna. John Garrett bought the ground in 1803 and settled in 1804. The pages do not agree on who came with him. If you stay on the road, I'll start there.",
+    long: "",
+    names: ["Garrettsville"]
+  },
+  {
+    id: "garrettsville-1804",
+    name: "Girls, or Friends",
+    lat: 41.2844,
+    lng: -81.0933,
+    radius: 40,
+    short: "The encyclopedia says Colonel John Garrett the third bought three hundred acres in Nelson Township, then in Trumbull County, in 1803, for one thousand three hundred thirteen dollars, about four dollars and forty cents an acre. About stays. It says that in July of the next year he settled with his family and two slave girls, six and ten years old. The village page says that in 1804 and 1805 he, his family, and two friends began the work. A local paper says he and his wife Eleanor arrived in two wagons with five children. I will not pick. They built a mill on Silver Creek. The encyclopedia says it was to open in January 1806, and that Garrett died that month. A road from Mantua was cut in 1805. The Cleveland and Pittsburgh road was cut near the mill in 1806. A post office opened in 1830. On September 1, 1864, sixty-two voters met in a shoe shop and incorporated a square mile. Nine days later they voted a plank walk from the depot to the east side. The encyclopedia says Harold Hart Crane was born here in 1899. I will not finish his life. It says Clarence Crane was married here in 1898, and that he invented Life Savers in 1912. I will not point you to a factory. This pin is the village.",
+    long: "",
+    names: ["John Garrett"]
+  },
+  {
+    id: "garrettsville-knoll",
+    name: "The Knoll North of the Mills",
+    lat: 41.2868,
+    lng: -81.0976,
+    radius: 40,
+    short: "A grave page prints John Garrett as January 3, 1760, to January 17, 1806, and says he was buried on the knoll north of the mills, in what is now the Baptist Cemetery. It says his heirs deeded the ground and a church to the governor, for the Baptist society, on February 22, 1825, and that the church was built on the knoll in 1832. A local paper says two Revolutionary soldiers lie there, one of them Garrett, and one soldier from the War of 1812, and four from the Civil War. I will not name the ones the paper does not. It says the grandparents of Lucretia Garfield are in this yard, and an uncle, and cousins. I will not move her birth. It says the church was destroyed by an explosion in 1881 and replaced at the foot of the hill, nearer Maple Avenue, where the war memorials stand now. Park Cemetery sits at Center Street and Brosius Road. I will not fold it into this knoll, and I do not have the year it opened. This pin is the old yard.",
+    long: "",
+    names: ["John Garrett"]
+  },
+  {
+    id: "garrettsville-mill",
+    name: "Main and Center",
+    lat: 41.2838,
+    lng: -81.0940,
+    radius: 40,
+    short: "The same paper says the first mill is still standing at the corner of Main and Center, and that it is again called Garrett's Mill. I will not date the beer, and I do not have the threshold. This pin is not the door.",
+    long: "",
+    names: ["Garrett's Mill"]
+  },
+  {
+    id: "garrettsville-karpis",
+    name: "November, Nineteen Thirty-Five",
+    lat: 41.2850,
+    lng: -81.0920,
+    radius: 40,
+    short: "The encyclopedia says Alvin Karpis robbed a train in Garrettsville in November 1935. It says Harry Campbell helped, and at least one other person, and that they took thirty thousand dollars and got to Hot Springs, Arkansas. I will not name the person the page does not, and I will not retell Alcatraz. There is still no nation on these pages, and no battle inside the village. The next place, when you want it, is Gates Mills.",
+    long: "",
+    names: ["Alvin Karpis"]
+  },
+
+  {
+    id: "approach-gates-mills",
+    name: "Gates Mills",
+    lat: 41.5400,
+    lng: -81.4106,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Gates Mills, in eastern Cuyahoga County. Not Cleveland. It was Mayfield Township. A miller settled the valley in 1826, and the pages do not spell his name the same way. If you stay on the road, I'll start there.",
+    long: "",
+    names: ["Gates Mills"]
+  },
+  {
+    id: "gates-mills-1826",
+    name: "Holsey, or Halsey",
+    lat: 41.5325,
+    lng: -81.4106,
+    radius: 40,
+    short: "The encyclopedia says the village was named for Halsey Gates, who kept a watermill, and that it was founded in 1826 and incorporated in 1920. A Cleveland history spells him Holsey, and puts Halsey in parentheses, and prints his years as 1799 to November 2, 1865. I will not pick the spelling. It says he was the youngest of three brothers, that he arrived in 1825, and that he bought a hundred and thirty acres on the Chagrin from the Connecticut Land Company. In 1826 he came with his wife Lucy Ann and his mother Hannah. I will not give the brothers names the page does not. It says he was buried in Woodland Cemetery. I will not move that yard. His son Washington Gates is printed as 1827 to August 12, 1897, and the page puts that son's work in Chagrin Falls and Bedford. I will not move those towns. By 1850 this place had mail, a school, and a tavern. I will not date each of them past that sentence. The Cleveland and Eastern reached the village in 1899. An improvement society was formed in 1905. This pin is the village.",
+    long: "",
+    names: ["Holsey Gates"]
+  },
+  {
+    id: "gates-mills-race",
+    name: "Sawmill, Then a Rake",
+    lat: 41.5175,
+    lng: -81.4055,
+    radius: 40,
+    short: "A marker at 7580 Old Mill Road says a sawmill went up in 1826, a rake factory the next year, and a gristmill by 1829, and that the river was dammed for a race. The stone says it was put up by the Village of Gates Mill. I will not add the letter. The Cleveland history says that over the year after 1826 he built a sawmill and a gristmill, and that in 1842 he built a larger gristmill on four water wheels and turned the first mill into a rake factory. I will not average 1827 and 1842. It says the Chagrin Valley Hunt Club was formed in 1909 and used the old Holsey Gates house until that house burned in January 1994. The same history also calls a Gates Mills Inn part of the club, and says the club burned in 1994. I will not make those two fires. This pin is the mill marker.",
+    long: "",
+    names: ["Gates Mills"]
+  },
+  {
+    id: "gates-mills-church",
+    name: "Eighteen Fifty-Three, or Eighteen Fifty-Five",
+    lat: 41.5176,
+    lng: -81.4048,
+    radius: 40,
+    short: "A marker on Old Mill Road says the church was erected in 1853, that Holsey Gates paid for most of it, and that it served the Methodists until 1926. An Episcopal mission took the building in 1927 and named it St. Christopher's by the River. It went on the national register in 1975. The Cleveland history says the same Greek Revival church was completed in 1855. I will not average 1853 and 1855. The marker puts the building near the village, in Chester Township. I will not move the township line. I will not translate the Chagrin. There is still no yard I will pin inside the village, and no battle. The next place, when you want it, is Geneva.",
+    long: "",
+    names: ["St. Christopher's by the River"]
+  },
+
+  {
+    id: "approach-geneva",
+    name: "Geneva",
+    lat: 41.8080,
+    lng: -80.9461,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Geneva, the city in northwestern Ashtabula County. Not Jefferson, and not Geneva-on-the-Lake. Settlers from New York were here in 1805. The name is the other Geneva. If you stay on the road, I'll start at 1816.",
+    long: "",
+    names: ["Geneva"]
+  },
+  {
+    id: "geneva-1816",
+    name: "The Other Geneva",
+    lat: 41.8006,
+    lng: -80.9461,
+    radius: 40,
+    short: "The encyclopedia says a handful of people from Charlotte, New York, settled in 1805. In 1806 people from Harpersfield, New York, made a township that took in what is now Geneva, Trumbull, and Hartsgrove. In 1816 that ground was split, and the new township was named for Geneva, New York. The city's own page says this was May 1816, at the suggestion of Levi Gaylord. I do not have his years. The encyclopedia says the town became a village in 1866 and a city in 1958. A bridge marker says that on a bright day in June 1866, Dennis Thorp was the first mayor. I will not date the brightness. The city's page says the village came fifty years after the name. I will not sand fifty years into a day. A newspaper opened in 1866, with H. H. Thorp as owner and Warren P. Spencer as editor. The Lake Shore railroad came through in 1852. This pin is the city. Not the township's ten thousand, and not the village on the lake.",
+    long: "",
+    names: ["Geneva"]
+  },
+  {
+    id: "geneva-spencer",
+    name: "November Seventh",
+    lat: 41.8046,
+    lng: -80.9497,
+    radius: 40,
+    short: "A marker in the city prints Platt Rogers Spencer as 1800 to 1864, born in East Fishkill, New York, on November 7, 1800, and dead on May 16, 1864. It calls him the father of American handwriting. It says his father, Caleb, was a Revolutionary veteran, and that the punctuation on the stone does not give me Caleb's year. I will not invent it. His mother, Jerusha, brought the family to Ohio in 1806. He married Persis Warren Duty in 1828. She died in 1862. He was county treasurer from 1838 to 1850. Another marker says his log school stood a mile north on Jericho Road, and that he held institutes there from 1853 to 1863. It says his house, from 1843 to 1864, was across the road, and that he prepared a book there for 1848. The same stone says the memorial was erected in 1926. The database line says 1929. I will not average them. A second marker says he lived in the northern ground that became Geneva-on-the-Lake. I will not move that village onto this pin. This pin is the marker in the city. Not the school, and not the lake.",
+    long: "",
+    names: ["Platt Rogers Spencer"]
+  },
+  {
+    id: "geneva-evergreen",
+    name: "Eastwood Street",
+    lat: 41.8037,
+    lng: -80.9418,
+    radius: 40,
+    short: "The handwriting marker says Platt and Persis are buried in Evergreen Cemetery. A survey puts the yard at 350 Eastwood Street. I do not have the year it opened, and I will not read the stones. This pin is the yard.",
+    long: "",
+    names: ["Evergreen Cemetery"]
+  },
+  {
+    id: "geneva-liberty",
+    name: "Eighteen Feet",
+    lat: 41.7991,
+    lng: -80.9484,
+    radius: 40,
+    short: "A marker at 94 West Liberty Street says this covered bridge was built from 2008 to 2011, eighteen feet long, and four feet shorter than the next shortest timber bridge that can carry a highway. The stone calls it the shortest authentic one in the country. I will not swear that past the stone, and I will not call it an old bridge. John W. Smolen designed it. A county list says that in early September 1861, five months after the war began, a rally was held near the town hall. The sentence I have stops. I will not finish it, and I do not have that stone. The city's history page says a grape festival had been held for twenty-two years. I will not invent the first year. There is still no nation I will place inside the city. The next place, when you want it, is Geneva-on-the-Lake.",
+    long: "",
+    names: ["Liberty Street Covered Bridge"]
+  },
+
+  {
+    id: "approach-geneva-on-the-lake",
+    name: "Geneva-on-the-Lake",
+    lat: 41.8680,
+    lng: -80.9539,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Geneva-on-the-Lake, the village on the shore, in Geneva Township. Not the city of Geneva, and not Jefferson. The pages call it Ohio's first summer resort. I will not swear that past the pages. If you stay on the strip, I'll start at the year of no summer.",
+    long: "",
+    names: ["Geneva-on-the-Lake"]
+  },
+  {
+    id: "geneva-lake-1816",
+    name: "The Year of No Summer",
+    lat: 41.8594,
+    lng: -80.9539,
+    radius: 40,
+    short: "A county history says the township was formed in 1816, and that the lakeshore was one of the last places to keep settlers. It says it has been said that four or five families tried the northeast corner and left their cabins, and that 1816 was the year of no summer. It has been said stays. I will not count the families. The encyclopedia's lead prints a second point for this village. I will not average it with this one. Lime was burned on Cowles Creek, to the west. Lumber and boats were at Indian Creek, to the east. I will not turn that name into a nation. This pin is the infobox. Not the city.",
+    long: "",
+    names: ["Geneva-on-the-Lake"]
+  },
+  {
+    id: "geneva-lake-sturgeon",
+    name: "Fighting Monsters",
+    lat: 41.8578,
+    lng: -80.9464,
+    radius: 40,
+    short: "The encyclopedia says that in 1869 Cullen Spencer and Edward Pratt bought Sturgeon Point, now Mapleton Beach, and opened it as a picnic ground. The village page says Spencer and Pratt cleared a bluff and opened it on July 4, 1869, four years after the war. A county history says Harvey Spencer, a fisherman, named the point because sturgeon spawned there, fish of two and three hundred pounds, called fighting monsters. I will not make Harvey and Cullen one man, and I will not weigh a fish. The encyclopedia says a pony-powered carousel of sorts was added later, and that this helped make the town Ohio's first summer resort. Of sorts stays. Later stays. This pin is the other point the encyclopedia prints. I will not swear it is the bluff.",
+    long: "",
+    names: ["Sturgeon Point"]
+  },
+  {
+    id: "geneva-lake-munger",
+    name: "Eighteen Seventy, or Eighteen Seventy-Four",
+    lat: 41.8588,
+    lng: -80.9490,
+    radius: 40,
+    short: "A county page says the first frame house on this shore was begun in 1823 and finished across 1823 to 1826. Solomon Fitch bought the land from Joseph and Sarah Battell in 1818 and deeded the lake hundred acres to his son Thomas Makepeace Fitch. The doors show a cross and an open book. The page says travelers looked for those doors. Jennie and Harry Gregory bought the house in 1919 on one line, and in 1920 on another. I will not average them. The same page says Jennie was born on September 17, 1870, and that other sources say 1874. It says she died in 1960 at the age of ninety. I will not pick the birth, and I will not make the age do the arithmetic. She is buried in Evergreen Cemetery in the city. I will not move that yard. The society took the house in 1961. The address is 5685 Lake Road East. I do not have a survey of the door. This pin is not the threshold. A brick school, about 1883, stands at the township park on the east end, on the foundation of a wooden school from 1838. About stays. I do not have that gate.",
+    long: "",
+    names: ["Jennie Munger Gregory"]
+  },
+  {
+    id: "geneva-lake-tents",
+    name: "According to Onlookers",
+    lat: 41.8605,
+    lng: -80.9505,
+    radius: 40,
+    short: "The village page says that in the early nineteen hundreds, according to onlookers, John D. Rockefeller, Harvey Firestone, and Henry Ford camped here, and that servants laid the fires. According to onlookers stays. I will not swear the tents. Before the state park, the ground was called Chestnut Grove, a camping place from 1882, named for the trees. A lodge at the state park opened in 2004. I will not date the park past that sentence. I will not retell Platt Spencer. The next place, when you want it, is Genoa.",
+    long: "",
+    names: ["Geneva-on-the-Lake"]
+  },
+
+  {
+    id: "approach-genoa",
+    name: "Genoa",
+    lat: 41.5300,
+    lng: -83.3619,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Genoa, the village in Clay Township, Ottawa County. Not Port Clinton, and not the other Stony Ridge. It took this name in the eighteen fifties, and the pages do not agree on the year or the reason. If you stay on the road, I'll start at the train.",
+    long: "",
+    names: ["Genoa"]
+  },
+  {
+    id: "genoa-1856",
+    name: "Likely",
+    lat: 41.5211,
+    lng: -83.3619,
+    radius: 40,
+    short: "The encyclopedia says the place was Stony Ridge. Work began on the Toledo, Norwalk, and Cleveland in 1851. In the fall of 1852 iron from England was laid, and on December 22 the first passenger train came through a swamp. Within two years there was a sawmill, a post office, and a hotel. It says the name became Genoa in the spring of 1856, likely so it would not be confused with another Stony Ridge seven miles away. Likely stays. The village page says the first name was Stony Station, that the change was 1857, and that the name was Genoa in Italy because this ground was surrounded by water. The mayor says the old story is that they could not remember which Italian town, and that he does not know if that is true. I will not pick. The lead of the encyclopedia says the village was incorporated on September 7, 1868. The history on the same page says December 10, 1868. The village page says September 7. I will not average the days. The first school, built the year of the new name, is still called Heritage Hall. I do not have that door. This pin is the village.",
+    long: "",
+    names: ["Genoa"]
+  },
+  {
+    id: "genoa-hall",
+    name: "Eighteen Eighty-Four, or Eighteen Eighty-Six",
+    lat: 41.5182,
+    lng: -83.3585,
+    radius: 40,
+    short: "A marker at 601 Main Street says the village and Clay Township agreed in 1884 to build a hall. Findley and Shively, of Fremont, designed it. Fred Sandwisch, of Woodville, built it for eight thousand eight hundred sixty dollars. I will not move those two towns. The village page says the opera hall was finished in 1886, and that it is the oldest free-standing municipal building in the county. A news page says the veterans built the town hall in 1885. I will not average 1884, 1885, and 1886. It went on the national register in 1976. A renovation finished in 1979. Main Street was a corduroy of logs until 1913. From 1851 to 1910 the road toward Woodville was a toll road. This pin is the hall.",
+    long: "",
+    names: ["Genoa Town Hall"]
+  },
+  {
+    id: "genoa-park",
+    name: "More Than One Hundred",
+    lat: 41.5187,
+    lng: -83.3566,
+    radius: 40,
+    short: "The village says Veterans Memorial Park was established in 1946, on Washington Street, and that it is forty-five acres, the largest park here. A quarry in the park runs nearly a quarter mile around and is a hundred feet deep in some parts. Nearly stays. In some parts stays. A memorial on the street was dedicated on July 4, 2001. The encyclopedia says that in 1861 more than one hundred men from here went to the Union army, and that the Toledo Blade said in 1862 that few towns had done as well. I will not call this park a battlefield. The village page says the women here voted in their first election in 1895. I will not explain the statute. The mayor says the homecoming is named for soldiers coming home. I will not date a weekend. There is still no nation on these pages, and no span of years I can give a person. The next place, when you want it, is Georgetown.",
+    long: "",
+    names: ["Genoa"]
+  },
+
+  {
+    id: "approach-georgetown",
+    name: "Georgetown",
+    lat: 38.8850,
+    lng: -83.8972,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Georgetown, the seat of Brown County. Not Cincinnati, and not the Georgetown in Kentucky. The name came from there. A boy who became a president grew up here. He was not born on this lot. If you stay on the road, I'll start at 1819.",
+    long: "",
+    names: ["Georgetown"]
+  },
+  {
+    id: "georgetown-1819",
+    name: "Twenty-Two Lots",
+    lat: 38.8750,
+    lng: -83.8972,
+    radius: 40,
+    short: "The village page says Allen Woods platted the town in 1819, twenty-two lots, and named it for Georgetown, Kentucky. The encyclopedia says the same year and the same name, and that a post office called Georgetown has been open since 1821. The village page says it became the county seat in 1821, and that the village was incorporated in 1832. A federal page says 1832 as well. A courthouse of 1851 stands at the center of the old district. That page says the district went on the register in 1976. The encyclopedia says seventeen acres were listed in 1978. I will not average those years. The courthouse burned in the late nineteen seventies. Late stays. The village page says the restoration was done by 1982. I do not have the courthouse door. This pin is the village.",
+    long: "",
+    names: ["Georgetown"]
+  },
+  {
+    id: "georgetown-grant",
+    name: "Sixteen Months",
+    lat: 38.8659,
+    lng: -83.9019,
+    radius: 40,
+    short: "A house page says Jesse and Hannah Grant built this house in 1823, and that Ulysses S. Grant, whom it prints as 1822 to 1885, lived here from 1823 until he left for West Point in 1839. It says the family moved in when he was sixteen months old. Sixteen months stays. I will not call this the birthplace. One page says he was born the year before, in Point Pleasant, in Clermont County. I will not move that cabin, and I will not use that page's street, which is not this door. The marker and the house page put the house at 219 East Grant Avenue. The house page prints a point a few seconds off this one. I will not average them. The house went on the register on October 8, 1976, and became a landmark on February 4, 1985. The village page says John and Judy Ruthven bought it in 1977, that it opened in 1982, and that a restoration costing one million four hundred thousand dollars was finished in 2013. Jesse was mayor. The encyclopedia says in 1837. The village page says from 1837 to 1839. The school the federal page dates to 1829 is at 508 South Water Street, about three hundred feet from this marker. The encyclopedia says the tannery his father owned is across the street. I do not have those doors. I will not retell the war, and I will not put a reenacted raid on this square. There is still no nation on these pages, and no yard I will pin. The next place, when you want it, is Gettysburg.",
+    long: "",
+    names: ["Ulysses S. Grant"]
+  },
+
+  {
+    id: "approach-gettysburg",
+    name: "Gettysburg",
+    lat: 40.1250,
+    lng: -84.4989,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Gettysburg, the village in Adams Township, Darke County. Not Greenville, and not the Gettysburg in Pennsylvania. The name came from there. There was no battle on this square. If you stay on the road, I'll start at the plat.",
+    long: "",
+    names: ["Gettysburg"]
+  },
+  {
+    id: "gettysburg-1841",
+    name: "Eighteen Forty-One, or Eighteen Forty-Two",
+    lat: 40.1111,
+    lng: -84.4953,
+    radius: 40,
+    short: "A marker at 101 Clay Street, put up in 1976, says the town was platted in 1841 after Gettysburg, Pennsylvania, and that Abraham Studabaker was the first settler, in 1808. The encyclopedia says natives of Adams County, Pennsylvania, founded it in the late eighteen twenties, and that John Hershey platted it in 1842 and named it for Gettysburg, the seat of that county. I will not average 1841 and 1842, and I will not make Studabaker the man who filed the plat. I do not have his years, or Hershey's. The first church was Presbyterian, in 1847 or 1848. Or stays. The first school was built in 1850. I do not have either door. This pin is the marker.",
+    long: "",
+    names: ["Gettysburg"]
+  },
+  {
+    id: "gettysburg-train",
+    name: "One Ten",
+    lat: 40.1140,
+    lng: -84.4969,
+    radius: 40,
+    short: "The encyclopedia says that around 1863 the Richmond and Covington Railroad was built through the village, and that in 1921 the line became part of the Pennsylvania Railroad. Around stays. It was abandoned in the nineteen eighties. The eighties stay. It says that early on the morning of April 30, 1865, Lincoln's funeral train passed through, on the way to Springfield. A marker at 261 North Bridge Street says the night was wet and cold, that the train stopped at the junction later called Bradford, and that it entered this village at ten minutes past one and Greenville at thirty-six minutes past one. It says Greenville was the only town in the county to hold a memorial, and that about five hundred people stood there. I will not move Bradford, and I will not move that crowd, and I will not call a passing train a battle. This pin is the marker. Not Springfield.",
+    long: "",
+    names: ["Gettysburg"]
+  },
+  {
+    id: "gettysburg-cars",
+    name: "One Hundred Sixty-Eight Cars",
+    lat: 40.1167,
+    lng: -84.4989,
+    radius: 40,
+    short: "The encyclopedia says that in 1907 the railroad shipped one hundred sixty-eight cars of tobacco, worth over a million dollars, and three hundred ninety-eight cars of grain, worth three hundred thousand. Over stays. It says that in 1922 Ira Petersime invented an electric poultry incubator here, and that the business closed in 2006. I do not have his years, and I do not have the factory door. Bear's Mill, from 1849, sits about two and a half miles off, between here and Greenville. I will not move it. There is still no yard I will pin, and no nation I will place in the village. The next place, when you want it, is Gibsonburg.",
+    long: "",
+    names: ["Gettysburg"]
+  },
+
+  {
+    id: "approach-gibsonburg",
+    name: "Gibsonburg",
+    lat: 41.3920,
+    lng: -83.3205,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Gibsonburg, in Sandusky County. Not Fremont. William H. Gibson laid the town out in 1871, after the railroad promised a depot. If you stay on the road, I'll start at the ninety acres.",
+    long: "",
+    names: ["Gibsonburg"]
+  },
+  {
+    id: "gibsonburg-1871",
+    name: "Ninety Acres",
+    lat: 41.3845,
+    lng: -83.3205,
+    radius: 40,
+    short: "The encyclopedia says the town started in 1871, when General William H. Gibson laid it out after the railroad reached the place, and that it was incorporated in 1880. A park marker says that in 1871 he heard a depot was promised at almost every crossing, so he bought ninety acres the railroad would cut. T. D. Stevenson and J. F. Yeasting helped him survey forty of those acres into lots. Their names are on streets. The marker says the village was incorporated in the spring of 1880. Spring stays. A column prints him as William Harvey Gibson, born May 16, 1821, in Cross Creek Township, Jefferson County, and dead in 1891. I will not invent the day. It says he was four months old when the family moved to Melmore, and that he remained a resident of Seneca County until he died. I will not move Melmore, and I will not move Seneca. This pin is the village.",
+    long: "",
+    names: ["William H. Gibson"]
+  },
+  {
+    id: "gibsonburg-williams",
+    name: "Twin Lakes",
+    lat: 41.3880,
+    lng: -83.3187,
+    radius: 40,
+    short: "The marker on North Main Street says these nearly sixteen acres were bought from the Ohio and Western Lime Company in 1914, for two thousand two hundred dollars. Nearly stays. They were called Twin Lakes, for two quarries full of water, and later Williams Park. The dedication was in the early nineteen forties, after ten years of work. Early stays. The stone spells the welcome as Welcoms, and a name as Emest. I will not repair it. It says the first lime plant was a pot kiln run by D. P. Salem, and that Gibson built a patent draw kiln. I do not have those doors. The family carried trees on their backs from the wood lot at Union Cemetery, just outside the village. I will not move that yard, and I do not have the year it opened. This pin is the park.",
+    long: "",
+    names: ["Williams Park"]
+  },
+  {
+    id: "gibsonburg-quarries",
+    name: "Forty to Fifty Feet",
+    lat: 41.3868,
+    lng: -83.3193,
+    radius: 40,
+    short: "The mayor says there is no working quarry left in the village. White Star, on the south side, is for swimming. Silver Rock, on the west, is a couple of hundred acres, and he says you can see forty to fifty feet down. A couple stays. Forty to fifty stays. I do not have either gate. The park marker says that in 1887 A. P. Johnson went to the oil fields in Wood County, and that the first well here was a gas well. I will not move Wood County, and I do not have that well. A marker on East Stone Street shows a jet on loan, painted for a Toledo unit in the middle of the nineteen fifties. The title spells Lockheed as Lockhead. I will not repair it, and I will not call a parked airplane a battle, and I will not move the airport. There is still no nation I will place in the village. The next place, when you want it, is Glencoe.",
+    long: "",
+    names: ["Gibsonburg"]
+  },
+  {
+    id: "approach-glencoe",
+    name: "Glencoe",
+    lat: 40.0180,
+    lng: -80.8936,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Glencoe, in southern Richland Township, Belmont County. Not St. Clairsville, and not a village. The railroad reached it in 1855. The pages do not agree on the name. If you stay on the road, I'll start there.",
+    long: "",
+    names: ["Glencoe"]
+  },
+  {
+    id: "glencoe-1855",
+    name: "Some Say",
+    lat: 40.0100,
+    lng: -80.8936,
+    radius: 40,
+    short: "The encyclopedia says the place was laid out in 1855, when the Baltimore and Ohio was extended to that point, and that a post office called Glencoe has been open since 1855. I will not make those the same day. It says some say the name is the Coe family, who settled in a nearby glen, while others believe the name was brought from Glencoe, Scotland. Some say stays. Others believe stays. I will not pick, and I will not tell you a story from that glen. I do not have the family's years, and I do not have the depot door. This pin is the census point.",
+    long: "",
+    names: ["Glencoe"]
+  },
+  {
+    id: "glencoe-yard",
+    name: "The Top of the Hill",
+    lat: 40.0078,
+    lng: -80.8850,
+    radius: 40,
+    short: "A grave page puts Glencoe Cemetery in Richland Township and says it is one and a half acres, in good condition, and that the oldest section is at the top of the hill. I do not have the year it opened, and I will not read the stones. Another family yard is listed about two miles off. I will not fold it in. There is still no building I can point at, no nation, and no battle on this road. The next place, when you want it, is Glendale.",
+    long: "",
+    names: ["Glencoe Cemetery"]
+  },
+
+  {
+    id: "approach-glendale",
+    name: "Glendale",
+    lat: 39.2780,
+    lng: -84.4586,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Glendale, the village in Hamilton County, north of Cincinnati. Not the city. The railroad came through in 1851, and the village was incorporated in 1855. A marker calls it Ohio's first planned community. If you stay on the road, I'll start at the acres.",
+    long: "",
+    names: ["Glendale"]
+  },
+  {
+    id: "glendale-1855",
+    name: "Two Hundred, or Six Hundred",
+    lat: 39.2706,
+    lng: -84.4586,
+    radius: 40,
+    short: "An architecture page says thirty men formed the Glendale Association, bought about six hundred acres, and hired Robert C. Phillips to lay out the lots. About stays. It says the plat was called Crawford's and Clark's Subdivision, and that it began as a two-hundred-acre subdivision in 1851. I will not average two hundred and six hundred. I do not have Phillips's years, or the trustees'. The page says the founders wanted summer houses between Hamilton and Cincinnati, on the Cincinnati, Hamilton and Dayton Railroad, which was just being built. A marker on the square says the place was established in 1851 after that railroad, and incorporated in 1855 as Ohio's first planned community and one of the nation's first planned villages. The architecture page says perhaps the first in the nation. Perhaps stays. I will not swear the ranking. This pin is the village.",
+    long: "",
+    names: ["Glendale"]
+  },
+  {
+    id: "glendale-square",
+    name: "The Square",
+    lat: 39.2708,
+    lng: -84.4591,
+    radius: 40,
+    short: "The same marker, at 30 Village Square, says the plan kept forested parks, curved streets around the trees, large lots, and a high standard of building. It says fifty-nine pivotal buildings remain, and the stone gutters, the gas streetlights, and the railroad depot. A depot marker stands within shouting distance. I do not have a separate stake for it. A plaque nearby says the district is a national landmark and prints 1977. The database line says the plaque was put up in 1970. I will not average them. The design looked at garden cemeteries in Boston, Philadelphia, and at Spring Grove in Cincinnati. I will not move those yards. A blockhouse from 1792, called Tucker Station, stood in Springfield Township, and its churchyard was not moved when the church later came this way. I will not move that ground. There is still no nation I will place in the village, and no battle. The next place, when you want it, is Glenford.",
+    long: "",
+    names: ["Glendale"]
+  },
+
+  {
+    id: "approach-glenford",
+    name: "Glenford",
+    lat: 39.8950,
+    lng: -82.3197,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Glenford, the village in Perry County. Not New Lexington. It was a mill town at a ford before it was a plat. A post office has been here since 1871. If you stay on the road, I'll start at the creek.",
+    long: "",
+    names: ["Glenford"]
+  },
+  {
+    id: "glenford-ford",
+    name: "The Ford",
+    lat: 39.8867,
+    lng: -82.3197,
+    radius: 40,
+    short: "A page on the bank says the place began early in the nineteenth century as a small crossroads, an unplatted mill town where Jonathans Creek could be forded, and that it grew when the railroads came through. Early stays. I will not date that mill, and I do not have its door. The village encyclopedia says the start was the railroad, and that a post office called Glenford has been open since 1871. I will not make 1871 the year the rail arrived. The box and the geography line do not agree on the land. I will not average them. This pin is the census point.",
+    long: "",
+    names: ["Glenford"]
+  },
+  {
+    id: "glenford-bank",
+    name: "Nineteen Nineteen",
+    lat: 39.8862,
+    lng: -82.3192,
+    radius: 40,
+    short: "The same page says the bank was incorporated in 1916, under George Deffenbaugh Orr, and that this building went up in 1919 at Main and Broad. It failed in 1932. It was a fire station for a time, and by the nineteen sixties a community center, with the walls painted. It went on the national register in 1990. I do not have Orr's years. The other register site in the area is Glenford Fort, a Hopewell enclosure on a nearby ridge. A trail page puts it six miles north of Somerset, on private land, and says Caleb Atwater saw the wall in 1818. I will not move that ridge onto this corner. Flint Ridge uses a Glenford postal address and stands in Licking County. A museum marker there prints Gilbert Dilley as 1902 to 1996. I will not move him, and I will not move the ridge. There is still no battle in the village. The next place, when you want it, is Glenmont.",
+    long: "",
+    names: ["Glenford Bank"]
+  },
+
+  {
+    id: "approach-glenmont",
+    name: "Glenmont",
+    lat: 40.5280,
+    lng: -82.0925,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Glenmont, the village in Richland Township, Holmes County. Not Millersburg. It was laid out as Napoleon. It has worn five names. If you stay on the road, I'll start at 1841.",
+    long: "",
+    names: ["Glenmont"]
+  },
+  {
+    id: "glenmont-napoleon",
+    name: "Five Names",
+    lat: 40.5192,
+    lng: -82.0925,
+    radius: 40,
+    short: "The village page says the lots were laid out on May 11, 1841, under the name Napoleon, and that Samuel Robinson surveyed them. It says the Delaware were here before that. I will not invent their town. It says the post office was called Black Creek, and that the town then took that name, because two branches of the creek meet here. It was briefly Manning, then Pictoria, and then Glenmont. It says legend has it that Joseph Guenther suggested the last name. Legend has it stays. I do not have his years. The village was incorporated on May 7, 1897. Aaron L. Jones, the first mayor, took office on May 17. I will not make those one day, and I do not have his years. This pin is the village.",
+    long: "",
+    names: ["Glenmont"]
+  },
+  {
+    id: "glenmont-fizzle",
+    name: "It Fizzled",
+    lat: 40.5175,
+    lng: -82.0940,
+    radius: 40,
+    short: "The village encyclopedia says that in 1863 nearly a thousand draft resisters rioted here and were put down by the Union army, in what became known as the Battle of Fort Fizzle. Nearly stays. The battle page says June 17, 1863, in this village, then called Napoleon. It says about nine hundred to a thousand locals built a fort with four pieces of artillery. About stays. It says two resisters were wounded, and that Governor David Tod sent nearly four hundred twenty soldiers, including the Third Ohio Infantry. It says the place was nicknamed Fort Fizzle because the fight fizzled, and that the last four men who had assaulted a draft officer turned themselves in. Forty-three men from the Napoleon area were indicted. A gazetteer prints a point called Fort Fizzle a mile and nine tenths from the village, at a different elevation. I will not average that point with this one. This pin is the village the battle page names. Not the other dot.",
+    long: "",
+    names: ["Fort Fizzle"]
+  },
+  {
+    id: "glenmont-mission",
+    name: "Already Built",
+    lat: 40.5191,
+    lng: -82.1650,
+    radius: 40,
+    short: "A marker near the village, not in it, says a half acre held Saint Joseph Church and a cemetery. A deed of February 15, 1847, from Peter Durand to Archbishop Purcell, said the church was already built. Already stays. It says the mission closed sometime after Saints Peter and Paul was built in 1857, in Napoleon, the post office then called Black Creek, now this village. Sometime stays. I will not fold this half acre into that church, and I do not have the 1857 step. This pin is the marker. The next place, when you want it, is Glenmoor.",
+    long: "",
+    names: ["Saint Joseph Mission"]
+  },
+
+
+
+
+
+
+
+
 
 
 

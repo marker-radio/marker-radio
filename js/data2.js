@@ -17684,6 +17684,302 @@ STORIES.push(
     long: "",
     names: ["Daniel Easley"]
   },
+  {
+    id: "fremont-1849",
+    name: "The Mark on the Name",
+    lat: 41.3500,
+    lng: -83.1170,
+    radius: 40,
+    short: "You are coming up on Fremont. The county seat, on the Sandusky River. Not the city of Sandusky. The encyclopedia says the place was Lower Sandusky, and that in 1849 the people changed the name to honor John C. Frémont. The city does not wear the mark he wears. I will not move it, and I will not drop it. The same page says the town had the first sugar mill in Ohio. I will not date the mill. I will not invent a charter. Nobody on the pages I am using prints one. This pin is the name. Not a deed.",
+    long: "",
+    names: ["Fremont"]
+  },
+
+  {
+    id: "fremont-hayes",
+    name: "Not Born Here",
+    lat: 41.3412,
+    lng: -83.1280,
+    radius: 40,
+    short: "A marker in Delaware says Rutherford Birchard Hayes was born on October 4, 1822, at 17 East William Street in that city. His father had died in July. I will not move the birth onto this river. He was president from 1877 to 1881. Lucy died in Fremont in 1889. He died on January 17, 1893, and the same marker says he is buried beside her in Spiegel Grove. I will not tell you the election. This pin is not the knoll.",
+    long: "",
+    names: ["Rutherford B. Hayes"]
+  },
+
+  {
+    id: "fremont-grove",
+    name: "The Word for Mirror",
+    lat: 41.3401,
+    lng: -83.1294,
+    radius: 40,
+    short: "A marker that has been taken down says Sardis bought the grove in 1845. It spells him Birehard. The encyclopedia spells him Birchard. I will not pick. The marker says he named the place for the pools that stand after a rain, and that Spiegel is the German word for mirror. I will not make that a ghost. It says the house was finished in 1863, and that the family came for good three years before he was elected. Additions ran from 1873 to 1880. It says the library and museum opened in 1916, and calls that the first presidential library. The standing marker is at Buckland and South, the address printed as 1357 Buckland. The removed marker prints 1499 Hayes Avenue. I will not make those one door. A granite stone from Vermont stands over the graves. This pin is the grove. Not the knoll I have not walked.",
+    long: "",
+    names: ["Spiegel Grove"]
+  },
+
+  {
+    id: "fremont-library",
+    name: "Front Street, Then the Fort",
+    lat: 41.3470,
+    lng: -83.1165,
+    radius: 40,
+    short: "The encyclopedia says that in 1873 Hayes announced his uncle's bequest, fifty thousand dollars, for a public library. It opened the next year on Front Street. In 1878 a new building went up on the grounds of the old fort. One page prints the library at 423 Croghan Street. Another prints 485. I will not average the doors. The fight is the other card. This pin is not either number.",
+    long: "",
+    names: ["Birchard Public Library"]
+  },
+
+  {
+    id: "fremont-junquindundeh",
+    name: "I Will Not Translate It",
+    lat: 41.3476,
+    lng: -83.1132,
+    radius: 40,
+    short: "A marker at 220 North Front Street calls this the Junquindundeh of the Indians, and the Lower Sandusky of the Revolutionary War and of 1812. I will not translate the first name. It says the place was a neutral town of the Eries, a refuge when the Iroquois broke the Huron towns in 1650. I will not swear that sentence beyond the stone. It says Israel Putnam reached this far west in 1764, on Bradstreet's expedition. It says a British post stood here in the Revolution. It says Daniel Boone, Simon Kenton, the Moravians it spells Heckwelder and Zeisberger, and over a thousand whites were held here. I will not repair the spelling, and I will not count the thousand. This pin is the marker. Not a prisoner.",
+    long: "",
+    names: ["Fremont"]
+  },
+
+  {
+    id: "fremont-croghan",
+    name: "Sixteen Hundred, or Two Thousand",
+    lat: 41.3461,
+    lng: -83.1158,
+    radius: 40,
+    short: "A stone from 1903, in the library yard on Croghan Street, says Major George Croghan held the fort on August 2, 1813, with one hundred sixty men, against thirteen hundred British and Indians under General Proctor and Tecumseh. A 1972 marker says he was twenty-one, took command in July, and was surrounded on August 1 by two thousand under Tecumseh. It says the fort was named for Colonel Mills Stephenson. I will not give that colonel a life, and I will not average thirteen hundred and two thousand, or the first of August and the second. Two markers name the cannon Old Betsy. A 1906 stone says the British left a colonel, a lieutenant, and twenty-five men of the 41st in the ditch. I will not make that the whole loss. I will not tell you a haunting. The next place, when you want it, is Fresno.",
+    long: "",
+    names: ["George Croghan"]
+  },
+
+  {
+    id: "fresno-avondale",
+    name: "Apparently",
+    lat: 40.3308,
+    lng: -81.7386,
+    radius: 40,
+    short: "You are coming up on Fresno. A crossroads in White Eyes Township, Coshocton County. Not the county seat. That is Coshocton. The encyclopedia says the place was first called Jacktown. It says the people apparently did not like that name, and that a popular vote renamed it Avondale. I will not tell you who Jack was, and I will not count the votes. A post office called Avondale opened in 1875. The name of the office was changed to Fresno in 1905. The township was organized in 1823 and named for White Eyes, a Lenape chief. His town was near West Lafayette. I will not move it onto this road. This pin is the crossroads. Not his town.",
+    long: "",
+    names: ["Fresno"]
+  },
+
+  {
+    id: "fresno-cemetery",
+    name: "Three Miles Off",
+    lat: 40.3504,
+    lng: -81.7970,
+    radius: 40,
+    short: "A directory puts White Eyes Cemetery on Township Road 178 and gives it a Fresno address. The map point sits about three miles from the crossroads. I will not drag the yard onto State Route 93, and I will not pick a number out of the address range the page prints. I do not have the year the ground opened. I will not read the stones. This pin is the directory's point. Not the post office.",
+    long: "",
+    names: ["White Eyes Cemetery"]
+  },
+
+  {
+    id: "fresno-goovers",
+    name: "August Twenty-Fourth",
+    lat: 40.3432,
+    lng: -81.7524,
+    radius: 40,
+    short: "A marker on County Road 171, the address printed as 27183, says George Goovers, Navy, killed in action on August 24, 1942. The page puts it near Fresno, in the township, not on the state route. I will not invent the ship, and I will not move him to the carryout. A runner named Brian Olinger grew up here. I do not have his years, and I will not invent a time. There is still no reason on the page for the name Fresno. The next place, when you want it, is Friendship.",
+    long: "",
+    names: ["George Goovers"]
+  },
+
+  {
+    id: "friendship-1847",
+    name: "A Bit of a Mystery",
+    lat: 38.6981,
+    lng: -83.1006,
+    radius: 40,
+    short: "You are coming up on Friendship. A local history says this is counted as the first permanent American settlement in the county. In the spring of 1795 John Belli hired a man to clear a homestead on a thousand acres where Turkey Creek meets the Ohio. He and Cynthia Harrison Belli moved here in 1806, into a house they named Belvidere. I will not tell you the house is standing. Ezra and Sarah Bradford took three hundred acres in 1805. The page says they had held people in slavery in Norfolk, and that they emancipated them. I will not count those people. Their son Littleton was born on March 5, 1796, and died here on September 15, 1850. On October 14, 1847, he was made the first postmaster, and he named the place. The page says why he chose Friendship, a word with Quaker and antislavery uses, remains a bit of a mystery. I will not close it. This pin is the highway. Not the house.",
+    long: "",
+    names: ["Littleton Bradford"]
+  },
+
+  {
+    id: "friendship-chapel",
+    name: "Burned, and Built Again",
+    lat: 38.6974,
+    lng: -83.1014,
+    radius: 40,
+    short: "A camp meeting was held here in 1809, near the meeting house later called Wesley Chapel. A log building is dated 1835. A wood frame replaced it in 1897. That one burned in 1933. The building now standing went up in 1934. The cemetery is beside the church, on the highway. The page spells one neighbor Burris and Burriss, and it spells Mitchell as Mitchel. I will not pick. Littleton is in that ground. I do not have the church door. This pin is not the step.",
+    long: "",
+    names: ["Friendship Cemetery"]
+  },
+
+  {
+    id: "friendship-bridwell",
+    name: "January Fourth",
+    lat: 38.6986,
+    lng: -83.0996,
+    radius: 40,
+    short: "Albert Henry Bridwell was born here on January 4, 1884. He died in Portsmouth on January 23, 1969. I will not move the grave. He played from 1905 to 1915. On September 23, 1908, he hit a ball that a page still argues about. I will not tell you the rule, and I will not tell you who should have scored. This pin is the crossroads. Not a diamond.",
+    long: "",
+    names: ["Al Bridwell"]
+  },
+
+  {
+    id: "friendship-seven",
+    name: "The Route Is a Mystery",
+    lat: 38.6968,
+    lng: -83.1000,
+    radius: 40,
+    short: "A local history says that in 1841 James M. Ashley brought seven freedom seekers to the Veach family on the west side of the Scioto. The page says the rest of the route remains a mystery. They may have gone by the canal, or by wagon up Turkey Creek. I will not pick. From 1854 the steamer Bostona, with Mitchell Evans as pilot, is called an underground steamboat. I will not swear the cargo. William Veach enlisted on May 2, 1864, and was out on September 3. He died of cholera on August 4, 1866. I will not name a battle, and I will not give him an age the page I used does not print. This pin is the story. Not a dock.",
+    long: "",
+    names: ["William Veach"]
+  },
+
+  {
+    id: "friendship-buckeye",
+    name: "About a Hundred and Fifty",
+    lat: 38.7010,
+    lng: -83.1006,
+    radius: 40,
+    short: "A marker on Edward Warren Drive, which the page also calls Cemetery Road, stands two tenths of a mile north of the highway. It says the yellow buckeye is one hundred nine feet tall, the crown sixty feet, the trunk one hundred forty-four inches around, and the tree about one hundred fifty years old. About stays. It says the name buckeye comes from a story that the nut looks like the eye of a deer. I will not make that a town, and I will not move Shawnee State Park onto this road. I have not stood under the tree. This pin is the page's distance. The next place, when you want it, is Fruit Hill.",
+    long: "",
+    names: ["Friendship"]
+  },
+
+  {
+    id: "fruit-hill-name",
+    name: "Two Centers",
+    lat: 39.0756,
+    lng: -84.3644,
+    radius: 40,
+    short: "You are coming up on Fruit Hill. The gazetteer prints one point. The census shape prints another. I will not average them. A township note says the name sat at Ohio Pike, which is Beechmont, and Salem Road. It had a post office. I do not have the year it opened. The mail list spells the office Fruithill. A place-name file calls the spot Cedar Point. The same township note puts Cedar Point at Ohio Pike and Burney Lane, which is not this corner. I will not sand them. The Cincinnati, Georgetown and Portsmouth railroad ran through. Cincinnati was the market. I will not date the rail. This pin is the gazetteer. Not the census middle.",
+    long: "",
+    names: ["Fruit Hill"]
+  },
+
+  {
+    id: "fruit-hill-hopper",
+    name: "Not the Other Aaron",
+    lat: 39.0762,
+    lng: -84.3630,
+    radius: 40,
+    short: "An 1881 county book says Aaron Hopper owned the farm called Fruit Hill, near Mount Washington. He was born in Anderson Township in 1818. He was a county commissioner in 1875, 1876, and 1877, and the book says he served near thirty years in township offices. Near stays. His father came from New Jersey in 1812. One paragraph spells him Abraham and says he died about 1867, after buying four or five hundred acres. Another spells him Abram and says he bought land in 1814 with Morris Sharp and James Stagg. I will not pick the spelling, the year, or the acre. A census farmer named Aaron, born about 1788, is a different man. I will not make them one. I do not have the son's death. This pin is not the orchard.",
+    long: "",
+    names: ["Aaron Hopper"]
+  },
+
+  {
+    id: "fruit-hill-school",
+    name: "Opposite Salem",
+    lat: 39.0748,
+    lng: -84.3652,
+    radius: 40,
+    short: "The township says Anderson District School number 13 stood on Beechmont, opposite Salem. It taught through the eighth grade from 1870 until 1929, when the central Anderson school opened. The post says nearly sixty years. I will not correct the arithmetic. In the middle of the next century the building was the Handy Pantry. A photograph is dated 1900, and another 1970. A comment calls it Spider Web College. I will not take a nickname from a comment. I do not have the door. This pin is not the grocery.",
+    long: "",
+    names: ["Fruit Hill School"]
+  },
+
+  {
+    id: "fruit-hill-guardian",
+    name: "The Yard on the Map",
+    lat: 39.0742,
+    lng: -84.3613,
+    radius: 40,
+    short: "A map prints Guardian Angel Cemetery a short walk from the gazetteer point. I do not have the year the ground opened, and I will not read the stones. I will not make it the school. This pin is the map. Not a Mass.",
+    long: "",
+    names: ["Guardian Angel Cemetery"]
+  },
+
+  {
+    id: "fruit-hill-beech",
+    name: "On the Line",
+    lat: 39.0778,
+    lng: -84.3702,
+    radius: 40,
+    short: "In 1948 the German General Protestant Orphan Home bought a sixty-acre farm on the boundary of Mount Washington and Anderson Township. The page says the children had camped there in the summers. Everett Townsley gave a third of the price. They called it Beech Acres. Six cottages held ten to twelve children each. The home moved in 1949, after a century on Burnet Avenue. I will not swear the door sits inside the Fruit Hill line. There is still no battle on this hill, and no nation I can name. The next place, when you want it, is Fulton. Canal Fulton is already in the file. It is not that village.",
+    long: "",
+    names: ["Beech Acres"]
+  },
+
+  {
+    id: "fulton-1881",
+    name: "Lincoln Center",
+    lat: 40.4631,
+    lng: -82.8283,
+    radius: 40,
+    short: "You are coming up on Fulton. Not Canal Fulton. A paper says the place was Lincoln Center until 1881, and that the new name was for James Fulton. I do not have his years. The encyclopedia says a post office called Fulton has been open since 1881. The paper says a post office was built in 1962. I will not make those one year. The same paper says the Toledo and Ohio Central had a depot here, that railroad work began in 1868, and that the last passenger train ran in July 1935. The encyclopedia says the village started when the rail reached the quarries. I will not sand 1863, 1868, and 1881 into one date. This pin is the village. Not the canal.",
+    long: "",
+    names: ["Fulton"]
+  },
+
+  {
+    id: "fulton-quarry",
+    name: "Flood, or Cement",
+    lat: 40.4660,
+    lng: -82.8280,
+    radius: 40,
+    short: "The Lincoln Stone Quarry opened in 1863 on David Stiner's farm, at the north end of town. A grave page prints his years as 1816 to 1905. I will not swear which yard. The paper also calls the pit Rumer and Blythe. In a 1901 atlas, A. M. Rumer and John Blythe advertised hard blue sandstone. A local historian says it employed one hundred twenty-five men at one time. That figure is his. News reports in 1917 said the quarry closed from flooding. He says it closed because men went to the first war, and because cement had come. I will not pick. He also says Native people hunted and made sugar here and left in the 1830s. He does not name a nation. I will not. The county's war shaft stands in Mount Gilead. I will not move it. This pin is not the pit.",
+    long: "",
+    names: ["David Stiner"]
+  },
+
+  {
+    id: "fulton-yard",
+    name: "April Twenty-Ninth",
+    lat: 40.4626,
+    lng: -82.8349,
+    radius: 40,
+    short: "Fulton Cemetery sits on the county road at the west edge of the village. A genealogical page says it is four and eight tenths acres, and that the first burial was Andrew Click, on April 29, 1885. That date is credited to Virgil Denton. I will not read the rest of the stones. Another old yard, sometimes called Ashbury, sits north of here at the state routes. The same page says that from 1808 to 1848 this ground was Delaware County. I will not fold that yard into this one. This pin is the west edge.",
+    long: "",
+    names: ["Fulton Cemetery"]
+  },
+
+  {
+    id: "fulton-williams",
+    name: "The School, Then the Fire",
+    lat: 40.4620,
+    lng: -82.8275,
+    radius: 40,
+    short: "The paper dates Fulton School number 1, on Williams Street, to 1894, and says it closed in June 1956. It dates the Fulton Hotel to 1891, when the population was around three hundred. Around stays. A Methodist church burned in 1944 and was replaced in brick. The encyclopedia's picture is Vineyard Church. I will not make them the same building. A paper dated June 2018 says Lincoln Center Park, with a playground and a court, opened the September before. I do not have that gate, and I do not have the school door. There is still no legend I will add. The next place, when you want it, is Fultonham.",
+    long: "",
+    names: ["Fulton"]
+  },
+
+  {
+    id: "fultonham-uniontown",
+    name: "Eighteen Twelve, or Eighteen Fifteen",
+    lat: 39.8558,
+    lng: -82.1408,
+    radius: 40,
+    short: "You are coming up on Fultonham. The encyclopedia says the place was Uniontown, platted in 1815. A man who came here in 1815, and wrote it down in 1890, says John Porter laid the town out in 1812. I will not average those years, and I will not hand Porter the year the encyclopedia does not. He says Porter and Major Crooks came about 1800, and that the major built a tavern. About stays. I will not give the major a first name. The page says a post office called Uniontown opened in 1818, and that the name became Fultonham in 1828. One edition says the name was for a postmaster called Robert Fulton. The current page says it was for Robert Fulton, the man who built a steamboat. A newspaper says Squire Fulton taught school here. I will not make those three men one man. Burton, the man who wrote in 1890, says the town sits on the Maysville Pike, nine miles from Zanesville, and that johnny cake was the food. I will not make that a recipe. This pin is the village. Not East Fultonham.",
+    long: "",
+    names: ["Fultonham"]
+  },
+
+  {
+    id: "fultonham-hendricks",
+    name: "Gone as a Baby",
+    lat: 39.8569,
+    lng: -82.1293,
+    radius: 40,
+    short: "A marker at 7215 Old Town Road says Thomas A. Hendricks was born on this site on September 7, 1819. The family moved to Indiana while he was still a baby. The stone says he served in the Indiana legislature and in the House in the late eighteen forties and the eighteen fifties, in the Senate from 1863 to 1869, and that he was elected governor in 1872. It says that in 1876 he and Samuel Tilden lost to Rutherford B. Hayes. I will not retell Fremont. It says he won with Grover Cleveland in 1884 and died in 1885, after eight months as vice president. I will not give you the day. The marker went up in 1999. This pin is the stone. Not the village well.",
+    long: "",
+    names: ["Thomas A. Hendricks"]
+  },
+
+  {
+    id: "fultonham-school",
+    name: "The Line the Scan Broke",
+    lat: 39.8554,
+    lng: -82.1422,
+    radius: 40,
+    short: "A scanned county history says the Uniontown School was organized in Fultonham in the year 1818. The scan breaks the town's name across a line. I will not repair a word I already know. The encyclopedia's picture is a reproduction of a Mail Pouch barn. I will not date a copy, and I will not tell you the original is standing. This pin is not the school door.",
+    long: "",
+    names: ["Uniontown School"]
+  },
+
+  {
+    id: "fultonham-yards",
+    name: "Three Yards",
+    lat: 39.8569,
+    lng: -82.1489,
+    radius: 40,
+    short: "A directory prints Uniontown Cemetery, and it also calls that ground Union Cemetery and the Fultonham Methodist Episcopal Cemetery. I will not pick. The point sits west of the village. Fultonham Cemetery is a second yard, and a Baptist yard is a third. I do not have the year any of them opened, and I will not read the stones. There is still no nation on these pages, and no battle in the village. The next place, when you want it, is Galena.",
+    long: "",
+    names: ["Uniontown Cemetery"]
+  },
 
 
 

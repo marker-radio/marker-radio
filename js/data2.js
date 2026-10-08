@@ -16203,6 +16203,161 @@ name, when you want it, is Corning.",
     long: "",
     names: ["Ervin George Bailey"]
   },
+  {
+    id: "custar-church",
+    name: "Twenty-Nine by Fifty",
+    lat: 41.2847,
+    lng: -83.8392,
+    radius: 40,
+    short: "The building is St. Louis Church, at 22792 Defiance Pike. The parish page dates the start to July 14, 1864, and still calls the place Lewisburg that day. The Sentinel-Tribune, in a 2022 list, says 1864 and a wood church twenty-nine by fifty feet. It does not give the day. It says the first Catholic settlers were mostly German immigrants from Treves, near Luxemburg. It says that in 1875 the first resident pastor, Rev. Henry Doener, built the first parsonage, and that Rev. Henry Best started a school in the church near the entrance. It says the frame church was partly burned in 1887. It says the cornerstone of the brick church was laid in 1888. Forty-five by one hundred six feet. Fourteen thousand dollars. No debt. Dedicated in 1891, with eighty-five families. The parish page dates that same cornerstone to July 14, 1889. I will not make those one day.",
+    long: "",
+    names: ["Henry Doener", "Henry Best"]
+  },
+
+  {
+    id: "custar-schon",
+    name: "May Twenty-Four",
+    lat: 41.2847,
+    lng: -83.8392,
+    radius: 40,
+    short: "Frederick Lewis is already on the Lewisburg card. This is a different man. The Sentinel-Tribune says that in 1925 Father John Joseph Schon, a son of the parish, was ordained, and that he sang his first High Mass on May 24. It does not say where he was born, or where he is buried. I will not borrow those. I do not have a house for him. The mass was this parish, so the pin stays on the church.",
+    long: "",
+    names: ["John Joseph Schon"]
+  },
+
+  {
+    id: "custar-cemetery",
+    name: "The Edge of Town",
+    lat: 41.2924,
+    lng: -83.8414,
+    radius: 40,
+    short: "I do not have a village park I can name and prove. I will not call this a state park. The public ground on the edge of Custar is Milton Township Cemetery. That is the pin. The parish list says that in 1900 St. Louis Cemetery was moved to its present site, and that the old one sat directly behind the church. I do not have a surveyed point for the new site. I will not drop a pin in a field and call it the move.",
+    long: "",
+    names: ["Milton Township Cemetery"]
+  },
+
+  {
+    id: "custar-legion",
+    name: "The Hall",
+    lat: 41.2898,
+    lng: -83.8440,
+    radius: 40,
+    short: "There is no battlefield on this plat. The war building I can point at is the Custar American Legion Hall, at 9155 Custar Road. The village says the council meets there. The Sentinel-Tribune says that in 1917, twenty-seven young men of St. Louis Parish went to the First World War, and that fifty-two men of the parish served in the Second. It does not say this hall was standing then. I will not backdate the building. The Wood County Museum says the Milton Center school burned on May 6, 1952, and that grades one through eight were held in this hall while that school was rebuilt.",
+    long: "",
+    names: ["Custar American Legion"]
+  },
+
+  {
+    id: "custar-legend",
+    name: "The Signs Were Already Made",
+    lat: 41.2846,
+    lng: -83.8439,
+    radius: 40,
+    short: "Ask why the spelling is Custar and the parish page will answer. It says Lewisburg was renamed on July 15, 1865, because Ohio already had a Lewisburg. It says the village was named for General Custer, because he was from the area, and that the railroad misspelled the name and the signs were already made. The Sentinel-Tribune says only that in 1865 the name was changed to Custar. No day. No general. No sign. The encyclopedia names Frederick Lewis and the post office, and does not say Custer. George Armstrong Custer was born in New Rumley, in Harrison County. That is not this township. I will give you the parish story. I will not swear to the signs.",
+    long: "",
+    names: ["George Armstrong Custer"]
+  },
+
+  {
+    id: "danville-tom",
+    name: "The Name on the Creek",
+    lat: 40.4490,
+    lng: -82.2576,
+    radius: 50,
+    short: "The trail card already has Little Jelloway as water along the path. This is the name. Wikipedia, citing the 1881 Knox County history, says Jelloway Creek was named for Tom Jelloway, a Native American chief. The park page says encampments were common on these waters, and that he stayed after many of his people left, and refused to go when the government removed the Indians from this part of Ohio. I do not have his village, his tribe from that 1881 line, or a grave. I will not invent them. There is still no Native town on the Danville plat. This pin is the name. Not the trailhead.",
+    long: "",
+    names: ["Tom Jelloway"]
+  },
+
+  {
+    id: "danville-ross",
+    name: "Workman Cemetery",
+    lat: 40.4361,
+    lng: -82.2636,
+    radius: 40,
+    short: "The depot card already says Rossville was laid out. It does not name the man. Jacob Jay Ross was born February 23, 1825, in Bladensburg, in this county. A county marriage record says he married Nancy Workman on October 22, 1846. A ghost-town page says the two of them platted Rossville in 1871, on her family's land, just south of Danville. He died December 17, 1906, in Buckeye City, and the grave page puts him in Workman Cemetery, plot D-50. The cemetery is on the west side of U.S. 62, about four tenths of a mile south of Flat Run Road. I will not retell the merger, and I will not tell the sidewalk story. I have not locked that one. This pin is the grave.",
+    long: "",
+    names: ["Jacob Jay Ross", "Nancy Workman"]
+  },
+
+  {
+    id: "danville-nevin",
+    name: "The Other Danville",
+    lat: 40.4472,
+    lng: -82.2614,
+    radius: 40,
+    short: "The old card would not put Robert M. Nevin's birth in this village. The congressional directory settles it. Robert Murphy Nevin was born May 5, 1850, in Danville, Highland County, not Knox County. He went to school in Hillsboro, finished at Ohio Wesleyan in June 1868, and moved to Dayton that same year. He served in Congress from March 4, 1901, to March 3, 1907. An earlier line of mine stopped at 1905. That was short. He died in Dayton on December 17, 1912, and is buried in Woodland Cemetery there. I will not put a birth on this square.",
+    long: "",
+    names: ["Robert Murphy Nevin"]
+  },
+
+  {
+    id: "darbydale-dyer",
+    name: "November Eighteenth",
+    lat: 39.8502,
+    lng: -83.2014,
+    radius: 40,
+    short: "The name card already stands on Little Pennsylvania Cemetery, and it would not invent a stone. The historical society names one. It says the earliest tombstone is Jane Dyer. She died November 18, 1826, at the age of 67. It says the cemetery is believed to have first been called Lily Dyer, probably because of that stone. Believed and probably are the society's words. I will not promote them. Another cemetery nearby is also called Lilly-Dyer. I will not make those one yard, and I will not fix the spelling. I have not seen the stone. This pin is the person. Not a second name for the gate.",
+    long: "",
+    names: ["Jane Dyer"]
+  },
+
+  {
+    id: "darbydale-osprey",
+    name: "The Lake at the North Edge",
+    lat: 39.8516,
+    lng: -83.1922,
+    radius: 80,
+    short: "The name card uses Osprey Lake only as the north edge of the old Chenoweth land. The public land is the lake. Columbus and Franklin County Metro Parks puts the Osprey Lake launch at 5800 Harrisburg-Georgesville Road, in Darbydale. The trail around the lake is half a mile. The park page says Big Darby and Little Darby are state and national scenic rivers, and that this park follows those creeks. I will not put the bison on this lake. The nature center is in Galloway. I do not have the year the lake was dug. I will not invent one. This pin is the launch. Not the mill.",
+    long: "",
+    names: ["Osprey Lake"]
+  },
+
+  {
+    id: "darbydale-woolybooger",
+    name: "Woolybooger",
+    lat: 39.8508,
+    lng: -83.2006,
+    radius: 40,
+    short: "The historical society says the internet is full of folklore about this cemetery, and that people call it Woolybooger Cemetery. The legend is that it is haunted, and that a Bigfoot-like creature called the Woolybooger lives here and roams the ground at night. That is the legend. I will not swear to the creature. The same page says the place is a hillside the township keeps, and it asks you to show respect. The name on the old maps is still Little Pennsylvania. This pin is the story. Not a dare.",
+    long: "",
+    names: ["Woolybooger"]
+  },
+
+  {
+    id: "darbydale-dyer",
+    name: "November Eighteenth",
+    lat: 39.8502,
+    lng: -83.2014,
+    radius: 40,
+    short: "The name card already stands on Little Pennsylvania Cemetery, and it would not invent a stone. The historical society names one. It says the earliest tombstone is Jane Dyer. She died November 18, 1826, at the age of 67. It says the cemetery is believed to have first been called Lily Dyer, probably because of that stone. Believed and probably are the society's words. I will not promote them. Another cemetery nearby is also called Lilly-Dyer. I will not make those one yard, and I will not fix the spelling. I have not seen the stone. This pin is the person. Not a second name for the gate.",
+    long: "",
+    names: ["Jane Dyer"]
+  },
+
+  {
+    id: "darbydale-osprey",
+    name: "The Lake at the North Edge",
+    lat: 39.8516,
+    lng: -83.1922,
+    radius: 80,
+    short: "The name card uses Osprey Lake only as the north edge of the old Chenoweth land. The public land is the lake. Columbus and Franklin County Metro Parks puts the Osprey Lake launch at 5800 Harrisburg-Georgesville Road, in Darbydale. The trail around the lake is half a mile. The park page says Big Darby and Little Darby are state and national scenic rivers, and that this park follows those creeks. I will not put the bison on this lake. The nature center is in Galloway. I do not have the year the lake was dug. I will not invent one. This pin is the launch. Not the mill.",
+    long: "",
+    names: ["Osprey Lake"]
+  },
+
+  {
+    id: "darbydale-woolybooger",
+    name: "Woolybooger",
+    lat: 39.8508,
+    lng: -83.2006,
+    radius: 40,
+    short: "The historical society says the internet is full of folklore about this cemetery, and that people call it Woolybooger Cemetery. The legend is that it is haunted, and that a Bigfoot-like creature called the Woolybooger lives here and roams the ground at night. That is the legend. I will not swear to the creature. The same page says the place is a hillside the township keeps, and it asks you to show respect. The name on the old maps is still Little Pennsylvania. This pin is the story. Not a dare.",
+    long: "",
+    names: ["Woolybooger"]
+  },
+
+
 
 
 

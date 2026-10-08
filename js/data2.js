@@ -17981,6 +17981,284 @@ STORIES.push(
     names: ["Uniontown Cemetery"]
   },
 
+  {
+    id: "galena-hat",
+    name: "Drawn from a Hat",
+    lat: 40.2206,
+    lng: -82.8761,
+    radius: 40,
+    short: "You are coming up on Galena. A local history says Zoar was founded in 1809 by Gilbert Carpenter, between Big Walnut and Little Walnut, and that he was the first Methodist minister in the county. The page spells his Pennsylvania town Wilkesbarre. I will not repair it. It says that on April 14, 1813, he conveyed the ground to William Carpenter, and that William laid the village out. The page spells laid as layed. The plat was agreed on April 3, 1816. The encyclopedia only says platted in 1816. I will not sand 1809 into that year. In 1834 there was already another Zoar, so a committee of three, Nathan Dustin among them, put names in a hat. A blindfolded passerby drew Galena. That is the local page. I will not add a lead mine. A post office called Galena has been open since 1834. On January 4, 1924, the first council met, shortly after a charter the page does not date. Shortly stays. The village kept a one hundred fiftieth birthday on April 16, 1966, and an earlier gathering on September 10, 1907. I will not make those agree with 1809. This pin is the square.",
+    long: "",
+    names: ["Gilbert Carpenter"]
+  },
+
+  {
+    id: "galena-church",
+    name: "Forty by Sixty",
+    lat: 40.2200,
+    lng: -82.8755,
+    radius: 40,
+    short: "The same history says the first preaching was in 1807, in a cabin two miles south. From 1809 to 1814 the services were in Gilbert Carpenter's mill. The society was organized in 1813 with fourteen members. On September 20, 1828, they agreed to a building forty feet by sixty, and the subscriptions came to one thousand ninety-two dollars. A bell was bought in 1853. I will not read the list of pastors. A tannery stood near a sawmill, and a man named Ed Sherman had a patent on covered bridges. The page says three of them were replaced between 1931 and the nineteen fifties. I will not point you to a bridge it does not locate. I do not have the church door. This pin is not the step.",
+    long: "",
+    names: ["Galena"]
+  },
+
+  {
+    id: "galena-yard",
+    name: "Two Points",
+    lat: 40.2208,
+    lng: -82.8823,
+    radius: 40,
+    short: "A directory puts Galena Cemetery at 297 North Walnut Street. A grave page puts the yard at the south end of the village and prints a different point. I will not average them. The local history says the ground is older than 1813, and that Revolutionary soldiers were buried in 1813. The sentence after that was cut off in the copy I used. I will not finish it. On May 3, 1962, a D.A.R. chapter dedicated a marker at the grave of Lieutenant Benjamin Carpenter. The same history calls an honorable Benjamin Carpenter a congressman who built about a mile north of Sunbury. I will not make them one man, and I will not move Sunbury here. This pin is the directory's address. Not the other point.",
+    long: "",
+    names: ["Benjamin Carpenter"]
+  },
+
+  {
+    id: "galena-not",
+    name: "What I Will Not Add",
+    lat: 40.2198,
+    lng: -82.8768,
+    radius: 40,
+    short: "I will not fill the census years the table skips. I will not explain the jump from three hundred five people to six hundred fifty-three. I will not tell you the ore is in the ground. There is still no nation on these pages, and no battle inside the village. The next place, when you want it, is Galion.",
+    long: "",
+    names: ["Galena"]
+  },
+
+  {
+    id: "galion-names",
+    name: "The Name Is Uncertain",
+    lat: 40.7331,
+    lng: -82.7886,
+    radius: 40,
+    short: "You are coming up on Galion. The encyclopedia says Benjamin Leveridge and his two sons arrived in 1817. A chamber page spells the family Leveredge. I will not pick. It says William Hosford and his sons Asa and Horace settled in 1820. Colonel James Kilbourne wanted a town halfway between Columbus and the Lakes. The city's page says the place sits about halfway between Cleveland and Columbus. I will not make the Lakes and Cleveland the same point. The crossing was called Moccasin, Horseshoe, Hard Scrabble, Spang Town, Hosfords, and Goshen. In 1824 they asked for a post office under the name Goshen. John McLean changed it, because Ohio already had a Goshen. A post office called Galion has been open since 1825. The chamber says the name was chosen in 1826. The city says the plat was filed on September 10, 1831. The encyclopedia says laid out in 1831. I will not average them. The encyclopedia says the origin of the word Galion is uncertain. I will not finish it. The same page says tribes lived here until the settlers came, and it does not name them. The chamber says Wyandot territory. I will not pick the nation. This pin is the crossing.",
+    long: "",
+    names: ["Galion"]
+  },
+
+  {
+    id: "galion-asa",
+    name: "The Father of the Town",
+    lat: 40.7338,
+    lng: -82.7878,
+    radius: 40,
+    short: "The encyclopedia calls Asa Hosford the father of Galion, because as a legislator he worked a railroad through, and the line was finished in 1851. I do not have the year he was born, or the year he died. I will not invent them. This pin is not a house.",
+    long: "",
+    names: ["Asa Hosford"]
+  },
+
+  {
+    id: "galion-depot",
+    name: "Thirty-Two Trains",
+    lat: 40.7342,
+    lng: -82.7842,
+    radius: 40,
+    short: "A marker at Washington Street and Harding Way says the depot was dedicated on December 27, 1900. It was division headquarters for the Cleveland, Chicago, Cincinnati, and St. Louis railroad, called the Big Four. It says the peak was during and after the first war, when thirty-two trains stopped in a day. In 1929 the New York Central took the line and moved the headquarters to Bellefontaine. The ticket office lasted until 1964. The railroad offices closed in 1969. The building went on the national register in 1974. I will not call a platform a battlefield. This pin is the depot.",
+    long: "",
+    names: ["Big Four Depot"]
+  },
+
+  {
+    id: "galion-fairview",
+    name: "January Sixteenth",
+    lat: 40.7509,
+    lng: -82.7794,
+    radius: 40,
+    short: "A tour page says Fairview Cemetery, at 1295 Fairview Avenue, took its first burial on January 16, 1883. It says the yard absorbed an older ground called Union Green, that it covers seventy-six acres, and that more than twelve thousand seven hundred people are buried there. I will not swear the count. A marker for Warren Harding's birth uses a Galion postal address and stands in Blooming Grove. I will not move that stone. There is still no battle I can put inside the city, and I will not finish the name. The next place, when you want it, is Gallipolis.",
+    long: "",
+    names: ["Fairview Cemetery"]
+  },
+
+  {
+    id: "gallipolis-1790",
+    name: "Somehow",
+    lat: 38.8062,
+    lng: -82.2054,
+    radius: 40,
+    short: "You are coming up on Gallipolis. The name means city of the Gauls. A river marker says that on October 17, 1790, about five hundred French people came down from Pittsburgh in flatboats and settled in log cabins where City Park is now. It calls this the second oldest permanent settlement in the territory. The encyclopedia says the second city founded there, after Marietta, and that they were led by Count Jean-Joseph de Barth. I will not sand those two sentences. They had paid the Scioto Company. The company did not own the ground. The encyclopedia says they survived somehow, inside a palisade. Somehow stays. A post office opened in 1794. In 1795 Washington's administration gave them land in the French Grant, in Scioto County, if they lived on it five years and cultivated it. People who stayed here had to pay the Ohio Company again. I will not move that grant onto this bank. The county, Gallia, was named for them. This pin is the marker. Not the palisade.",
+    long: "",
+    names: ["Jean-Joseph de Barth"]
+  },
+
+  {
+    id: "gallipolis-our-house",
+    name: "Eighteen Nineteen",
+    lat: 38.8078,
+    lng: -82.2034,
+    radius: 40,
+    short: "A marker on First Avenue says Lafayette was entertained here in 1825. The plaque went up in 1927. Another marker calls the building the 1819 tavern, Our House. It says the Holzers bought it, restored it, and gave it to the state in 1944. Charles Elmer Holzer lived from 1887 to 1956. He came in 1909 as a surgeon at the Ohio Hospital for Epileptics. The encyclopedia says a state asylum for epileptics opened on November 30, 1893. I will not make those one door. The same marker says the family lived at 530 First Avenue, a house from 1855, from 1918 until they died. I do not have that door. This pin is the tavern.",
+    long: "",
+    names: ["Charles Holzer"]
+  },
+
+  {
+    id: "gallipolis-pine",
+    name: "Here Sleep Many",
+    lat: 38.8161,
+    lng: -82.1998,
+    radius: 40,
+    short: "A stone on the gate of Pine Street Cemetery says many of the French Five Hundred sleep here, and hundreds of their descendants. I will not read the names. A colored cemetery stands about two tenths of a mile off. I will not fold it into this gate. The village also owns Mound Hill Cemetery, with a park beside it. I will not tell you the mound is a grave I have not read. This pin is the French gate.",
+    long: "",
+    names: ["Gallipolis"]
+  },
+
+  {
+    id: "gallipolis-dunmore",
+    name: "Not This Bank",
+    lat: 38.8086,
+    lng: -82.2023,
+    radius: 40,
+    short: "A marker at Locust Street and First Avenue says the Shawnee and the Delaware were restless as Virginians settled the river. It says that on October 10, 1774, Lord Dunmore ordered Colonel Andrew Lewis and eleven hundred men to attack the Shawnee near Chillicothe. It says the militia were camped across the river at Point Pleasant, and that Cornstalk crossed with a thousand warriors. After five hours the Shawnee went back west. Some call it the last battle under the crown, and the first of the Revolution. I will not settle that, and I will not move the camp onto this bank, and I will not move it to Chillicothe because an order and a camp are not the same place. The next place, when you want it, is Gambier.",
+    long: "",
+    names: ["Cornstalk"]
+  },
+
+  {
+    id: "gambier-years",
+    name: "Eighteen Twenty-Four, or Twenty-One Years Later",
+    lat: 40.3761,
+    lng: -82.3961,
+    radius: 40,
+    short: "You are coming up on Gambier. The encyclopedia says the village was laid out in 1824 and named for Lord Gambier, a benefactor of the college. A marker says that in 1823 Philander Chase bought eight thousand acres he called the beauty spot of the county, and founded the college here. It says the village was not laid out until twenty-one years after the college started, long after Chase had gone, and that he had opposed the development. I will not average 1824 and twenty-one years later. A book from 1911 says the first exercises were at Worthington, in his house, and that the money was raised in England in 1823 and 1824, the chief donors being Lord Kenyon and Lord Gambier. The college was incorporated in 1824 under a long church title. In 1891 Kenyon College became the official name, though the book says it had always been called that. I will not move Worthington here. This pin is the village. Not the first classroom.",
+    long: "",
+    names: ["Gambier"]
+  },
+
+  {
+    id: "gambier-chase",
+    name: "Seventeen Seventy-Five",
+    lat: 40.3693,
+    lng: -82.3919,
+    radius: 40,
+    short: "The 1911 book prints Philander Chase as 1775 to 1852, and calls him the first Episcopal bishop in the Northwest Territory. The current page calls him bishop of Ohio and of Illinois. I will not pick. The marker says he founded the first men's college west of the Alleghenies, and the second oldest college in Ohio. I will not swear the ranking past the stone. I do not have his grave. This pin is the trail marker, at Meadow Lane. Not a stone I have not read.",
+    long: "",
+    names: ["Philander Chase"]
+  },
+
+  {
+    id: "gambier-old-kenyon",
+    name: "February Twenty-Seventh",
+    lat: 40.3714,
+    lng: -82.3969,
+    radius: 40,
+    short: "A tablet on the north face of Old Kenyon says the cornerstone was laid on June 9, 1827, by Chase. The same wall says the building was completely destroyed by fire on February 27, 1949. A new cornerstone was laid on October 22, 1949. The building was dedicated again on October 21, 1950. I will not count the dead. The marker I read does not. A path called Middle Path runs about a mile from Bexley Hall to this building. A guide calls the entrance the Gates of Hell. I will not tell you why. This pin is the cornerstone.",
+    long: "",
+    names: ["Old Kenyon"]
+  },
+
+  {
+    id: "gambier-acres",
+    name: "Nearly Five Thousand",
+    lat: 40.3740,
+    lng: -82.4062,
+    radius: 40,
+    short: "A marker at Laymon Road and Porter Road, near the village and not in it, says that under Thomas R. Sant nearly five thousand acres were kept as they were, or put to farming, in perpetuity. Nearly stays. I will not put those acres inside the square. The trail marker says that around 1870 the college gave the railroad a right of way if every passenger train stopped at a stone depot that once stood west of that sign. Around stays. The depot is gone. I will not translate the Kokosing. The same sign says Rutherford B. Hayes is among the alumni. I will not retell Fremont. There is still no battle in the village. The next place, when you want it, is Gann. The list also calls it Brinkhaven.",
+    long: "",
+    names: ["Gambier"]
+  },
+
+  {
+    id: "approach-fresno",
+    name: "Fresno",
+    lat: 40.3308,
+    lng: -81.7386,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Fresno, a crossroads in White Eyes Township, Coshocton County. Not the county seat. Jacktown, then Avondale, then a post office called Fresno in 1905. If you stay on the road, I'll start at the name.",
+    long: "",
+    names: ["Fresno"]
+  },
+  {
+    id: "approach-friendship",
+    name: "Friendship",
+    lat: 38.6981,
+    lng: -83.1006,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Friendship, on U.S. 52 in Nile Township, Scioto County. Not Portsmouth. A local page counts this as the county's first permanent settlement, and the name itself is still a mystery. If you turn in, I'll start at 1847.",
+    long: "",
+    names: ["Friendship"]
+  },
+  {
+    id: "approach-fruit-hill",
+    name: "Fruit Hill",
+    lat: 39.0756,
+    lng: -84.3644,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Fruit Hill, in Anderson Township, Hamilton County. Not Cincinnati. The gazetteer and the census shape are not the same dot. If you stay on Beechmont, I'll start at the two centers.",
+    long: "",
+    names: ["Fruit Hill"]
+  },
+  {
+    id: "approach-fulton",
+    name: "Fulton",
+    lat: 40.4631,
+    lng: -82.8283,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Fulton, the village in Morrow County, south of Mount Gilead. Not Canal Fulton. It was Lincoln Center until 1881. If you turn in, I'll start at the name.",
+    long: "",
+    names: ["Fulton"]
+  },
+  {
+    id: "approach-fultonham",
+    name: "Fultonham",
+    lat: 39.8558,
+    lng: -82.1408,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Fultonham, in Newton Township, Muskingum County. Not Zanesville, and not East Fultonham. Uniontown, and two years for the plat that I will not average. If you stay on the pike, I'll start at 1812 or 1815.",
+    long: "",
+    names: ["Fultonham"]
+  },
+  {
+    id: "approach-galena",
+    name: "Galena",
+    lat: 40.2206,
+    lng: -82.8761,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Galena, in Berkshire Township, Delaware County. Not Delaware, and not Sunbury. It was Zoar, and a local page says the new name came out of a hat. If you turn in, I'll start there.",
+    long: "",
+    names: ["Galena"]
+  },
+  {
+    id: "approach-galion",
+    name: "Galion",
+    lat: 40.7331,
+    lng: -82.7886,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Galion. Most of it is in Crawford County. Bucyrus is the county seat. The origin of the name is uncertain. If you stay on the road, I'll start at the old names.",
+    long: "",
+    names: ["Galion"]
+  },
+  {
+    id: "approach-gallipolis",
+    name: "Gallipolis",
+    lat: 38.8186,
+    lng: -82.1933,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Gallipolis, the seat of Gallia County, on the Ohio. The box calls it a village. The town calls itself a city. October 17, 1790. If you turn in, I'll start at the word somehow.",
+    long: "",
+    names: ["Gallipolis"]
+  },
+  {
+    id: "approach-gambier",
+    name: "Gambier",
+    lat: 40.3761,
+    lng: -82.3961,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Gambier, in College Township, Knox County. Not Mount Vernon. Kenyon is in the middle of it. The encyclopedia and a marker do not agree on the year the village was laid out. If you stay on the road, I'll start at that fight.",
+    long: "",
+    names: ["Gambier"]
+  },
+
+
+
 
 
 

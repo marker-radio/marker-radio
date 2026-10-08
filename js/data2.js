@@ -18257,6 +18257,111 @@ STORIES.push(
     names: ["Gambier"]
   },
 
+  {
+    id: "approach-fremont-oh",
+    name: "Fremont",
+    lat: 41.3633,
+    lng: -83.1450,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Fremont, the seat of Sandusky County, on the lower Sandusky River. Not the city of Sandusky, and not the Fremont in Indiana. It was Lower Sandusky until 1849. If you stay on the road, I'll start at the name.",
+    long: "",
+    names: ["Fremont"]
+  },
+  {
+    id: "fremont-1849",
+    name: "Lower Sandusky",
+    lat: 41.3625,
+    lng: -83.1442,
+    radius: 40,
+    short: "The encyclopedia says a settlement grew up around the fort and was called Lower Sandusky, because it sat on the lower river. In 1849 the residents renamed it Fremont, for John C. Fremont. The page accents his name. I will not sand that, and I will not move him here. He is the man they say helped take California. This pin is the city. Not his house.",
+    long: "",
+    names: ["Fremont"]
+  },
+  {
+    id: "fremont-falls",
+    name: "The Village at the Falls",
+    lat: 41.3470,
+    lng: -83.1165,
+    radius: 40,
+    short: "The encyclopedia says this ground was Junquindundeh, a Wyandot village on the west bank, near the falls, about fifteen miles up from Sandusky Bay. French merchants had a trading post in the seventeen fifties. The British took it after the French and Indian War. I will not date that takeover past the page, and I will not pick a house for the village. This pin is the west bank. Not a door.",
+    long: "",
+    names: ["Junquindundeh"]
+  },
+  {
+    id: "fremont-stephenson",
+    name: "August First, and the Second",
+    lat: 41.3461,
+    lng: -83.1153,
+    radius: 40,
+    short: "A stockade went up in the late spring of 1812 and was rebuilt in 1813. The city page calls the first post Fort Sandusky, and says the name became Fort Stephenson early in 1813. The fort page says the rebuilt work was about an acre, and that Miles Stephenson's militia did the rebuilding. On August 1, 1813, Henry Procter began a siege with five hundred British soldiers and a few hundred native allies. Seven officers and one hundred sixty men held the fort. On the afternoon of August 2 an attempt on the wall cost the British ninety-six casualties, and Procter withdrew. I will not count the American dead. The page I used does not. One cannon was called Old Betsy. In 1851 it was shipped by mistake to the city of Sandusky. It was brought back. It stands now outside the Birchard Library, restored in 2000, near an 1885 soldiers' monument. Croghan's remains were moved here in 1906 from Kentucky. I do not have the library door. This pin is the fort.",
+    long: "",
+    names: ["George Croghan"]
+  },
+  {
+    id: "fremont-hayes",
+    name: "The Home and the Grave",
+    lat: 41.3401,
+    lng: -83.1294,
+    radius: 40,
+    short: "A marker at 1357 Buckland Avenue says Spiegel Grove is the home and the burial place of Rutherford B. Hayes, president from 1877 to 1881. The encyclopedia says he moved into the house in 1873. Another marker, since taken down, said his uncle bought the grove in 1845 and spelled that uncle Birehard. I will not repair the stone. It said the house was finished in 1863 and became the family home three years before he was elected. I will not retell the election. Rutherford and Lucy lie on a knoll in the grove. This pin is the standing marker. Not the stone that was removed.",
+    long: "",
+    names: ["Rutherford B. Hayes"]
+  },
+  {
+    id: "fremont-grove",
+    name: "The Word for Mirror",
+    lat: 41.3416,
+    lng: -83.1290,
+    radius: 40,
+    short: "The marker that has been taken down said Spiegel is the German word for mirror, for the pools that stand after a rain. It said additions from 1873 to 1880 brought the house to its present size, that four generations lived in it, and that it opened to the public in 1956. It said the library opened in 1916, and called it the first presidential library. I will not put those sentences onto the marker that is still standing. I will not build the cutlery works. The nickname is on the box, and I do not have the factory. The next place, when you want it, is Fresno.",
+    long: "",
+    names: ["Spiegel Grove"]
+  },
+
+  {
+    id: "approach-fresno",
+    name: "Fresno",
+    lat: 40.3350,
+    lng: -81.7386,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Fresno, a crossroads in White Eyes Township, Coshocton County. Not the county seat. Jacktown, then Avondale, then a post office called Fresno in 1905. If you stay on the road, I'll start at the name.",
+    long: "",
+    names: ["Fresno"]
+  },
+  {
+    id: "fresno-avondale",
+    name: "Apparently",
+    lat: 40.3308,
+    lng: -81.7386,
+    radius: 40,
+    short: "The encyclopedia says the place was first called Jacktown. It says the people apparently did not like that name, and that a popular vote renamed it Avondale. I will not tell you who Jack was, and I will not count the votes. A post office called Avondale opened in 1875. The name of the office was changed to Fresno in 1905. The township was organized in 1823 and named for White Eyes, a Lenape chief. His town was near West Lafayette. I will not move it onto this road. This pin is the crossroads. Not his town.",
+    long: "",
+    names: ["Fresno"]
+  },
+  {
+    id: "fresno-cemetery",
+    name: "Three Miles Off",
+    lat: 40.3504,
+    lng: -81.7970,
+    radius: 40,
+    short: "A directory puts White Eyes Cemetery on Township Road 178 and gives it a Fresno address. The map point sits about three miles from the crossroads. I will not drag the yard onto State Route 93, and I will not pick a number out of the address range the page prints. I do not have the year the ground opened. I will not read the stones. This pin is the directory's point. Not the post office.",
+    long: "",
+    names: ["White Eyes Cemetery"]
+  },
+  {
+    id: "fresno-goovers",
+    name: "August Twenty-Fourth",
+    lat: 40.3432,
+    lng: -81.7524,
+    radius: 40,
+    short: "A marker on County Road 171, the address printed as 27183, says George Goovers, Navy, killed in action on August 24, 1942. The page puts it near Fresno, in the township, not on the state route. I will not invent the ship, and I will not move him to the carryout. A runner named Brian Olinger grew up here. I do not have his years, and I will not invent a time. There is still no reason on the page for the name Fresno. The next place, when you want it, is Friendship.",
+    long: "",
+    names: ["George Goovers"]
+  },
+
+
 
 
 

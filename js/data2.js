@@ -15887,6 +15887,326 @@ name, when you want it, is Corning.",
     names: ["John Hunt Morgan", "Harrison Secrest"]
   },
 
+  {
+    id: "custar-st-louis",
+    name: "The Brick",
+    lat: 41.2847,
+    lng: -83.8392,
+    radius: 80,
+    short: "The plat and the hotel are already on the other cards. This is the church at 22792 Defiance Pike. The parish page says St. Louis was established on July 14, 1864, by German and French settlers, that a frame church was built and later burned, and that the cornerstone of the brick gothic church was laid on July 14, 1889. The Bowling Green archive quotes an older diocese history. It says that in 1858 this was a station of Maumee, that there was no church, and that Father Seraphin Bauer said services in the house of Mrs. John Louy. It says the first church went up in 1864 as a mission of Perrysburg, and that Providence took the mission in 1869. It names the first resident pastor as Father Henry Doerner, in 1875. It says the first church was partly burned in 1889, and that the new church was built in 1891. The Sentinel-Tribune prints the parish's own list and does not match those years. It says the 1864 church was wood, 29 by 50 feet. It says the partial fire was 1887. It says the cornerstone was 1888, the brick church 45 by 106, fourteen thousand dollars, and no debt. It says the dedication was 1891, with 85 families. It spells the first pastor Doener, and it says Rev. Henry Best started the school that same year, in the church near the door. I will not pick 1887, 1888, or 1889. I will not turn Doerner and Doener into one spelling, and I will not turn Doerner and Best into one man. The school next door is 22776. That is a different door. The parish cemetery page says the old ground behind the school was used until 1903, then replaced a half mile east because it was low and wet, and that the old stones were buried in a pond. The newspaper says the move was 1900. I will not average those years.",
+    long: "",
+    names: ["St. Louis Catholic Church", "Henry Doerner", "Henry Best"]
+  },
+  {
+    id: "custar-louy",
+    name: "Two Names",
+    lat: 41.2849,
+    lng: -83.8389,
+    radius: 70,
+    short: "Frederick Lewis is already on the plat card. These are two other people the pages actually name. The archive says that in 1858, before there was a church, Father Seraphin Bauer led services in the home of Mrs. John Louy. I do not have her given name, and I will not invent one. The Sentinel-Tribune says that in 1925 Father John Joseph Schon, a son of the parish, was ordained, and that he sang his first High Mass on May 24. I do not have the year he was born. I do not have his grave. I will not put him in a cemetery to make the pin neater.",
+    long: "",
+    names: ["Mrs. John Louy", "John Joseph Schon", "Seraphin Bauer"]
+  },
+  {
+    id: "custar-park",
+    name: "Louy Park",
+    lat: 41.2898,
+    lng: -83.8440,
+    radius: 160,
+    short: "The silo card already said no state park is documented on this plat. The village still has grass. Its own page puts the recycling bins at Community Park on Custar Road, and a water machine next to that recycling. The village hall is 9155 Custar Road. I will not give the park the hall's number. On December 9, 2025, the Sentinel-Tribune listed a Wood County Park District grant: Custar, 8,075 dollars, for climbing equipment, including an angled overhead ladder, for a place it calls Louy Park. An older grant, reported in 2018, gave Custar 2,538 dollars for trees and shrubs and did not name a park. I will not tell you Louy Park and Community Park are the same lot. I will not tell you the park is named for Mrs. John Louy. The other card has her house. This card has a name on a grant. This pin sits on Custar Road at the hall's match, not on a corner I surveyed.",
+    long: "",
+    names: ["Louy Park", "Community Park"]
+  },
+  {
+    id: "custar-swamp",
+    name: "Before the Lots",
+    lat: 41.2865,
+    lng: -83.8505,
+    radius: 350,
+    short: "Milton Township was set off in 1835. The township page does not give me a village, a portage, or a treaty on these sections. The village page does not either. This is Great Black Swamp ground, wet woods that had to be ditched before a plat could live. The lots are 1865. That is after the township, not instead of the swamp. I will not set an Ottawa town or a Miami town on Frederick Lewis's corners. Nobody I am willing to quote has done that.",
+    long: "",
+    names: ["Milton Township", "Black Swamp"]
+  },
+  {
+    id: "custar-service",
+    name: "Twenty-Seven, Then Fifty-Two",
+    lat: 41.2842,
+    lng: -83.8394,
+    radius: 80,
+    short: "The silo card already said there is no battlefield on this plat. I will not invent one. What the parish counted is its own people. The Sentinel-Tribune's list says that in 1917, when that war came, 27 young men of the parish went. It says that from 1940 to 1946, 52 men of the parish went. The parish page, talking about the beginning, only says the church was established in the midst of the Civil War. It does not name a Custar fight. These numbers are the parish's list. They are not a stone I have read in the square.",
+    long: "",
+    names: ["St. Louis Parish"]
+  },
+  {
+    id: "custar-spelling",
+    name: "The Signs Were Already Made",
+    lat: 41.2846,
+    lng: -83.8462,
+    radius: 120,
+    short: "The other cards would not say why Lewisburg became Custar. The encyclopedia does not say. This is the story the parish page tells anyway, and I am filing it as a story. It says the name changed on July 15, 1865, because Ohio already had a Lewisburg. The same page says the village was named for General Custer, that he was from the area, that the railroad misspelled the name, and that the signs were already made. Those are two explanations on one page. I will not make them one. Ohio does have another Lewisburg, in Preble County. The parish page does not name the county. George Armstrong Custer was born at New Rumley, in Harrison County, not in Wood County. I will not move his birth here to save the story. The post office name is already on the founding card. I am not retelling it.",
+    long: "",
+    names: ["George Armstrong Custer", "Lewisburg"]
+  },
+
+  {
+    id: "cuyahoga-falls-oakwood-stone",
+    name: "Twenty-Nine",
+    lat: 41.1425,
+    lng: -81.4868,
+    radius: 80,
+    short: "Sackett's card already says he was buried at Oakwood. This is not his grave. A local history page says the Civil War monument there lists the 29 Cuyahoga Falls men who died in that war, and that General Alvin C. Voris dedicated it on October 26, 1866. A 2016 Falls paper calls it the oldest recorded monument of its kind in Summit County, and one of the oldest in the state. It dates the others: Akron 1876, Peninsula 1889, Twinsburg 1867, Boston Heights unknown. I will not measure the state myself. The same paper says the names reflect two units, the 115th Ohio Volunteer Infantry, 15 men, and Battery D of the 1st Ohio Light Artillery, 8 men. Fifteen and eight are not twenty-nine. I will not push the other six into those companies. It says three died as prisoners, and that many survived Andersonville only to die in the Sultana disaster. Many is the paper's word. I will not count them. An Akron Beacon line, reprinted by the same local history, says the Falls sent a very large number of men, that Battery D was largely from the Falls and vicinity, and that the G.A.R. post formed on June 8, 1867, was named Eadie Post for John, James, and Henry Eadie. It says James and John died from the Sultana, and Henry from disease. The boat blew up near Memphis on April 27, 1865. That date is on the stone's own later reading. Two readings of the roll do not spell the same men the same way. I will not print the list, and I will not pick a spelling. A grave index puts this stone on the mound inside Oakwood. The 1985 veterans memorial at Falls River Square, near 1950 Front Street, is a different stone. I will not use it for 1866.",
+    long: "",
+    names: ["Alvin C. Voris", "Eadie Post", "Oakwood Cemetery"]
+  },
+  {
+    id: "cuyahoga-falls-campbell",
+    name: "Old Maid's Kitchen",
+    lat: 41.1243,
+    lng: -81.4973,
+    radius: 70,
+    short: "The glens cards already use the name Old Maid's Kitchen. They do not tell the story that was hung on the shelter. I am filing that story as a story. The plaque in the rock, as the encyclopedia prints it, says Mary Campbell was kidnapped in 1759, at twelve, from western Pennsylvania, by Delaware Indians, that those Indians were forced west the same year and built a village at the big falls of the Cuyahoga, that she was the first white child on the Western Reserve, and that this cave is where she and the Indian women lived for a time. It says she was returned in 1764. It says the Mary Campbell Society, Children of the American Revolution of Cuyahoga Falls, set the tablet in 1934. A park article says the same society dedicated the shelter in 1935. A university note says the boulder went in during 1935, after that society convinced the park director, Harold Wagner, that the story was possible. I will not average 1934 and 1935. A library page says she was taken by Delawares under Chief Netawatwees, whose village was near the present city. A postcard says Chief Newcomer's village, nearby, for seven years. I will not make those one chief. The park's own historians say there is no primary source that she lived in this cave, or anywhere nearby. The university note says the shelter ices over in winter, that camps were built on high ground, not in a wet rock room, and that captivity tales are an old kind of sensational book. The encyclopedia puts the shelter in Cuyahoga Falls, on the north wall of the gorge, in Gorge Metro Park. A 2019 news piece says the same park straddles Akron, and that the cave is about half a mile from the lot at 1160 Front Street. This pin is the shelter. It is not that lot, and it is not the amusement park.",
+    long: "",
+    names: ["Mary Campbell", "Old Maid's Kitchen"]
+  },
+
+  {
+    id: "cuyahoga-heights-fort",
+    name: "Fort No. 2",
+    lat: 41.4364,
+    lng: -81.6576,
+    radius: 90,
+    short: "The old card would not invent a Native village. This is not a village name. The centennial says Fort No. 2 was in Cuyahoga Heights, just northwest of the main entrance to the Ohio and Erie Canal Reservation, at East 49th and Whittlesey Way. It says an article by Dan F. Ostrowski puts the work at the entrance to Whittlesey Way, west of East 49th. Whittlesey, quoted there, put the next fort upriver in old Newburgh, about a mile and a half below Lock No. 8, on the right bank. The centennial says that lock is the one at East 71st and Canal Road, under the I-77 bridge, and that a mile and a half below means downriver toward the lake. I will not pretend Whittlesey wrote the words East 49th. He called it a smaller work than the forts on the bluffs, a point made stronger by a bank and a moat, the ditch never cut through at the middle, a narrow way in along the ravine. The same chapter says the bluffs he drew are mostly gone. A railroad bridge in 1907, a sewer, a power line, sand and gravel taken off the north slope in the 1950s and 1960s, a landfill, then a substation. It says little if any of the land he saw is still there. It does not name a people. I will not name one. This pin is the entrance they used. It is not a wall.",
+    long: "",
+    names: ["Charles Whittlesey", "Fort No. 2"]
+  },
+  {
+    id: "cuyahoga-heights-trevisani",
+    name: "No Earlier Record",
+    lat: 41.4227,
+    lng: -81.6423,
+    radius: 70,
+    short: "The old card said it had no battlefield. I still do not have one, and I will not add one. The village historical committee says it could not find anyone who lived here and fought in the Revolution, the War of 1812, the Civil War, or the Spanish-American War. It says that does not mean no one did. It says they did not find the record. What they printed instead is the first war. Luigi Trevisani was born January 12, 1890, in Force, Italy. He landed in New York on March 13, 1909, off the Duca di Genova. The committee says he was living in Cuyahoga County when he enlisted on March 27, and that he was sent to the Edgewood Arsenal medical department on April 3, 1918. It does not say he enlisted from this village. He was a fireman, then a water tender at Power House No. 1. He was discharged on May 6, 1919. I do not have his grave. I will not invent one. Their son Victor was in a tank division in the second war and came home a village fireman. I do not have that unit's number.",
+    long: "",
+    names: ["Luigi Trevisani"]
+  },
+  {
+    id: "cuyahoga-heights-antognozzi",
+    name: "Calvary, Not Here",
+    lat: 41.4223,
+    lng: -81.6422,
+    radius: 70,
+    short: "Schmidt and Hammersley are already on the secession. This is another man, and he has a grave, just not in the village. The veterans chapter says Rayno Antognozzi was born November 1, 1894, in Italy, and came to the United States in 1913. It says he served in the United States Army in the first war, and that they have no picture and no other fact about that service. I will not invent a unit. He married Mary T. Ezzo in Cleveland in 1928. The chapter calls him the first proprietor of the Hillside Tavern at 5015 East 71st, and says he later opened another, farther north, at 4617. The 1930 census has the family at 5045 East 71st. The 1940 census has them at 5015. Mary died on September 16, 1966. Rayno died on August 29, 1978. The chapter says both are buried at Calvary Cemetery. That cemetery is not this corner.",
+    long: "",
+    names: ["Rayno Antognozzi", "Mary Ezzo"]
+  },
+  {
+    id: "cuyahoga-heights-kaminski",
+    name: "Stories They Tell",
+    lat: 41.4394,
+    lng: -81.6400,
+    radius: 80,
+    short: "The old card said it had no ghost story. I still do not have one. What the centennial does have is a tavern people talk about. It says that in 1906 John and Josephine Ksiaszkowski Kaminski opened a place at the corner of East 71st and Grant Avenue. The 1910 census lists him as a saloon keeper at 4390 East 71st. A great-grandson, Wesley Klir, is the source for the nickname Penny Millionaire. Then the chapter says many stories have been told about this tavern in Prohibition, bathtub gin and bootlegging, as in most of the older taverns and even in houses. Stories have been told is the chapter's own hedge. I will not date a raid, and I will not swear a still. The same page says the corner is now the Benjamin Moore parking lot. This pin is that corner. The building is not here.",
+    long: "",
+    names: ["John Kaminski", "Josephine Kaminski"]
+  },
+
+  {
+    id: "cygnet-front-street",
+    name: "The Stone on Front",
+    lat: 41.2399,
+    lng: -83.6441,
+    radius: 80,
+    short: "The park card said there is a World War II memorial in the village, and that it did not have the names. This is that stone. It stands where you reach it from Front Street just west of Palmer, on the right going east. The posted address is 325 Front. The line cut in it says: In memory and honor of all who served in World War II. Ever protect the freedoms for which they fought. A reading of the roll puts a star before three names at the head, Robert Carson, Frank Sterling, and Wayne Phillips. Nothing on that page says what the star means. I will not say it means killed. The rest of the letters do not hold still from one line to the next. I will not read them aloud, and I will not clean them up. Another list puts a memorial at 540 Main. I will not make that this stone. There was still no battle here.",
+    long: "",
+    names: ["Robert Carson", "Frank Sterling", "Wayne Phillips"]
+  },
+  {
+    id: "cygnet-copus",
+    name: "The First Entry",
+    lat: 41.2470,
+    lng: -83.6380,
+    radius: 350,
+    short: "The men killed in 1897 are already on the blast card. This is an earlier life, and it is the township, not Front Street. The Wood County Sentinel of September 2, 1869, says that on Saturday, July 31, the body of Henry Copus was consigned to the tomb. It says that thirty-seven years ago last December he made the first land entry in Bloom Township, and that he lived there until he died. It says he was a native of Pennsylvania, and that as a boy, in Richland County, he saw his father killed by a tomahawk. That killing is not this township. I will not move it here. It says his age was three score, ten, and four. It says that in the upheaval of recent years no less than five of his sons were in the ranks. I will not write Civil War onto a sentence that says upheaval, and I will not name the sons. A county museum page says the other first buyer was James Archer. The paper says Copus made the first entry. I will not make those one fact. Pleasant View was not platted until 1883. He was already in the ground. I do not have the cabin, and I do not have the name of the cemetery. This pin is the township. Not a door.",
+    long: "",
+    names: ["Henry Copus"]
+  },
+  {
+    id: "cygnet-hunting",
+    name: "Still Hunting",
+    lat: 41.2435,
+    lng: -83.6550,
+    radius: 350,
+    short: "The old card said it had no named Native town, and it would not invent one. I still will not. What a county museum page adds is the timing. It says the outside lines of Bloom Township were surveyed in 1819 and the inside lines in 1821. It says Henry Copus and James Archer were the first buyers, and that when they entered the land, Native people were still living and hunting here. It does not name a nation. It does not name a village. It says there might have been other settlers who never bought. Might is the page's word. The oil town is sixty years later. I will not set a camp on the 1883 lots.",
+    long: "",
+    names: ["Bloom Township"]
+  },
+  {
+    id: "cygnet-mary",
+    name: "Eleven Days",
+    lat: 41.2510,
+    lng: -83.6480,
+    radius: 300,
+    short: "The saloons and the hundred-dollar houses are already a card. This is the other story the county museum tells, and it is older than the village. It says Frederick Frankfather, his wife, and seven children built a cabin on Section 15 of Bloom Township. On October 25, 1835, their daughter Mary, four and a half, walked away from that cabin. The page calls her the stray child of the Great Black Swamp. It says wood choppers found her eleven days later, in Milton Township. I will not add the miles, and I will not add what she lived on. Section 15 is not the square. Pleasant View did not exist yet. I will not put the cabin on Front Street. This pin is the township. Not the hole in Swan Park.",
+    long: "",
+    names: ["Mary Frankfather", "Frederick Frankfather"]
+  },
+
+  {
+    id: "cynthiana-horn",
+    name: "The Dinner Horn",
+    lat: 39.1739,
+    lng: -83.3485,
+    radius: 250,
+    short: "The name card already says David was the brother of Rhoda and Rebecca. This is their house, and it is older than his plat. The 1884 book says George Eubanks and his family came in 1804, from Maryland by way of Kentucky, where they had lived a few years. It says the homestead is occupied by the two youngest daughters, both born in Pike County and on the farm, both unmarried. One sentence puts them in the 75th and the 78th year of their age, and does not say which sister is which. The sketch of the sisters, dated October 1883, says Rebecca was born September 29, 1805, and Rhoda April 7, 1808, and that Rebecca had just passed her 78th year and Rhoda her 75th. I will not make those two counts the same count. A Waverly Republican extract in the same book calls Rebecca 73 and Rhoda 70. I will not average the ages. The paper puts the house on the pike from Cynthiana to Bainbridge, within the limits of the place, a few feet from the road. It spells the house Eubank. The book spells the family Eubanks. I will not sand the letter. At midnight on Thursday, October 31, 1878, the paper says three men knocked, asked for food, and were told to go elsewhere because only two women were inside. Rebecca took the dinner horn. They broke the door before she could finish the blast, threw both women down, and held caps to their faces. The sketch says the three were masked. I will not make caps and masks one disguise. They said they wanted money. Two watched while the third searched. He came back and slapped Rebecca. She put 900 dollars in his hands, most of it bills, the rest specie in two bags. They counted it and left, and said a watch was set until morning. The sketch names two of the three. Robert McKimie, called a Highland County desperado, was tried by Judge Tripp and sent for 15 years. Frank Mesmer, a son of a neighbor a few miles off, was tried by Judge Du Hadway and sent for 10. In October 1883 both were still in the penitentiary. The book says the sisters then kept two large dogs. I do not have the third man's name. I will not borrow the Texas stories that got hung on McKimie later. This pin is the pike. Not the door. Not the cemetery.",
+    long: "",
+    names: ["Rebecca Eubanks", "Rhoda Eubanks", "Robert McKimie", "Frank Mesmer"]
+  },
+  {
+    id: "cynthiana-cemetery",
+    name: "North Edge",
+    lat: 39.17507,
+    lng: -83.34658,
+    radius: 80,
+    short: "The book that names the sisters does not name their father's grave. It says he died September 30, 1838, and that their mother died March 9, 1844. It stops there. A memorial page puts George Eubanks in Cynthiana Cemetery. I have not read a stone, and I will not pretend the page is the stone. A family page says the same burial, and it says it is believed Richard Eubanks died at this locale about 1810 to 1813. Believed is that page's word. I will not bury him. The Pike County genealogical society puts this ground at the north edge of the hamlet, on the east side of State Route 41. The cemetery page puts it on the northeast corner of Paint Street, Township Road 269, and State Route 41. A gazetteer prints that same corner in degrees and minutes. That is one yard, not two. I will not average them. Kentucky's old cemetery is not this corner. This pin is the yard.",
+    long: "",
+    names: ["George Eubanks", "Cynthiana Cemetery"]
+  },
+
+  {
+    id: "dalton-moved",
+    name: "Not Where It Stood",
+    lat: 40.79860,
+    lng: -81.69099,
+    radius: 70,
+    short: "The Eagle card has the logs of 1821 and does not know they moved. The village page says Mr. and Mrs. Loyal Santmyer donated the building, and that it was moved to this site in July 1979. A 2003 article says the gift was 1978, and the move was about 700 yards east, to 115 East Main. Ohio Memory and a 2015 article say one-eighth of a mile. I will not average 220 yards and 700. The society is at 115 East Main. Douglass, writing before the move, says Freeman kept the first tavern where the Eagle House then stood. The firsts card already has Freeman. I will not give him the Christian name the book withholds. The building was a private residence from 1894 until John Wertz bought it in 1928 and opened the Wertz Hotel. I will not make that 1894 and the Main Street fire one event. A gas explosion took a portion of the hotel. I do not have the day. This pin is the logs where they stand now. Not the old door.",
+    long: "",
+    names: ["Loyal Santmyer", "John Wertz"]
+  },
+  {
+    id: "dalton-wayne",
+    name: "A Dead Man's Bed",
+    lat: 40.79855,
+    lng: -81.69105,
+    radius: 80,
+    short: "The 2015 article, citing the historical society, says it is believed William Henry Harrison, before he was president, and General Anthony Wayne stayed at the Eagle. Anthony Wayne died in 1796. The logs are 1821. I will not put a dead man in the bed. Believed is the word they used. I am filing it as a story. A 2003 article names General Reasin Beall instead of Wayne, and says Harrison reportedly gave the innkeepers a gold coin to name their son. It names that son Judge William Henry Harrison Wertz. Reportedly is the article's word. I will not spend the coin. The logs are the other card. This pin is the story.",
+    long: "",
+    names: ["Anthony Wayne", "William Henry Harrison"]
+  },
+  {
+    id: "dalton-schoolyard",
+    name: "The School Under the Yard",
+    lat: 40.79725,
+    lng: -81.69875,
+    radius: 80,
+    short: "Jacob Cox, in Douglass, says the first schoolhouse erected in Dalton stood on the site of the present cemetery. The first teacher was Peter Vorrhes, as the scan spells him. I will not sand the name. The cemetery page calls this ground Dalton Cemetery, also Union, at the south end of Church Street, south of West Main. A burial index says the village owns it and that it was established in 1810. Douglass does not give me 1810. I will not use it. This is not the Presbyterian graveyard west of town. That yard is the next card. This pin is Church Street.",
+    long: "",
+    names: ["Peter Vorrhes", "Dalton Cemetery"]
+  },
+  {
+    id: "dalton-kenney",
+    name: "No Given Name",
+    lat: 40.7990,
+    lng: -81.7300,
+    radius: 700,
+    short: "John Kenney's wife was the first woman buried in the Presbyterian graveyard west of Dalton. I do not have her given name. The 1816 church list names John Kenney and wife among the original members, and it still does not give her name. Douglass says the first church house was hewn logs, two miles west, on land later Samuel Suavely's, as the scan spells him. Cox puts that church near the southwest corner of S. Suavely's quarter, and says Samuel Arnold owned the land then. I will not make two miles and a quarter-corner one door. I will not put her in the Church Street yard. Two miles is the book's measure. I have not found the quarter. This pin is west of the village. Not a stone.",
+    long: "",
+    names: ["John Kenney"]
+  },
+  {
+    id: "dalton-goudy",
+    name: "The Bullet",
+    lat: 40.7910,
+    lng: -81.7160,
+    radius: 700,
+    short: "John Goudy was born in Jefferson County in 1803. His father was James. One passage says James settled two miles southwest of Dalton in the fall of 1809. The sketch of the son says James came as early as 1809 and settled near Dalton, on the quarter later owned by John Eckard, land James's brother John had entered, bought at about 4 dollars an acre. I will not pick the quarter. James was at St. Clair's defeat on November 4, 1791. The short passage says the bullet was in the thigh. The sketch says the right groin, and that the thickness of his clothes kept it from killing him on the spot. He walked 18 miles, ate the flesh of a dead horse, and later said it was the best meat he had eaten. He carried the bullet for many years. It caused his death. I do not have the day, and I do not have the grave. He was a member of the Presbyterian church, Dr. Hanna's. The defeat was not this township. This pin is not a door.",
+    long: "",
+    names: ["James Goudy", "John Goudy"]
+  },
+  {
+    id: "dalton-mill",
+    name: "Three Miles Southwest",
+    lat: 40.7860,
+    lng: -81.7220,
+    radius: 800,
+    short: "The old card would not describe a mill on Sugar Creek, because it did not have one. Cox, in the same book, puts a different mill off the village. William Goudy built the first grist mill on land later owned by John Cully, three miles southwest of Dalton. Logs. One run of burrs. The book has a word for those stones I will not say on the air. The neighbors helped dig the race. He dates it 1823 to 1824. The sketch of John Goudy says William and Thomas built a mill and sold it to a Mr. Karsletter. That line has no year. I will not make them one mill. Cox says William Goudy and Sarah Bates were probably the first couple married in the township, in 1815. Probably is his word. Three miles is his measure. I have not walked it, and I will not drop the wheel on a guess. This pin is not the village. Not a dam.",
+    long: "",
+    names: ["William Goudy", "Sarah Bates"]
+  },
+  {
+    id: "dalton-circle",
+    name: "Already Cut by a Road",
+    lat: 40.7945,
+    lng: -81.7105,
+    radius: 500,
+    short: "Douglass says the earthworks in Sugar Creek Township were still worth looking at. The one southwest of Dalton was about 300 feet east and west, and about 225 feet north and south. A road cut it in two. South of the road was John Swartz's field, cultivated, and there was no longer a vestige of embankment or ditch. The other segment was on Joseph McElhenie's farm, and it was still forest. He also names a sepulchral mound on the lands of Graber, in a dense elevated wood, 4 or 5 feet high. He does not name a people. He does not name the road. I will not borrow a Wooster sentence about the Shawnee and the Delaware and paste it onto this circle. I have not found Swartz's field. This pin is not the ditch.",
+    long: "",
+    names: ["John Swartz", "Joseph McElhenie"]
+  },
+  {
+    id: "dalton-linden",
+    name: "Silver Linden",
+    lat: 40.79238,
+    lng: -81.70395,
+    radius: 120,
+    short: "Silver Linden Park is at 630 Henry Street. Peter Graham Dunn and his wife LeAnna built it in 2022 on 4.3 acres and gave it to the community. Jason Veil, of the arboretum at the Ohio Agricultural Research and Development Center in Wooster, sited 195 trees of 40 species. A 2024 report says 64 more trees went in, paid for with a 10,000 dollar grant from the Robert L. and Kathleen M. Polsky Foundation Community Fund, through the Wayne County Community Foundation, and planted by Fredericksburg Greenhouse. The same account counts two playgrounds, four timber-framed pavilions, 20 lampposts, and a quarter-mile path. This pin is the park.",
+    long: "",
+    names: ["Silver Linden Park", "Peter Graham Dunn"]
+  },
+
+  {
+    id: "damascus-catlit",
+    name: "The Marker Names Two",
+    lat: 40.90003,
+    lng: -80.95203,
+    radius: 80,
+    short: "The church card said no stone could name the 118. This marker, at the cemetery on Valley Road, says those 118 were re-interred here, and then it names two. Catlit Jones, a scout with Quaker Daniel Boone in Kentucky, a captain in the Revolution, and a recorded Friends minister. And Samuel Coppock Jr., father of Edwin Coppock, hanged in 1859 for John Brown's raid at Harpers Ferry. The marker says Virginia. I will not move the hanging to this yard, and I will not update the state. A paper of April 19, 2001, while they were still digging, says records and a grave-keeper's diary name Joseph Catlett Sr., born January 15, 1749, died September 6, 1828, and Amos Walton, born August 29, 1806, died March 12, 1823, whose parents Jesse and Ann paid 4 dollars and 50 cents, and a last burial written as Anthony Marris's child, September 12, 1843, the undertaker charging 1 dollar and 25 cents. That paper thought about 60. A paper of July 3, 2002 says 87 were up, and that it was believed there were 104. Believed is that paper's word. The marker says 118. I will not average them. A grave page spells the scout Catlett Jones. I will not make Catlit, Catlett, and Joseph one man. The plat card already has Anthony Morris. I will not make him Marris. This pin is the Valley Road yard. Not the church corner.",
+    long: "",
+    names: ["Catlit Jones", "Samuel Coppock", "Joseph Catlett"]
+  },
+  {
+    id: "damascus-westville",
+    name: "Moved Ahead of the Water",
+    lat: 40.89990,
+    lng: -80.95215,
+    radius: 70,
+    short: "The Lot 17 stone is not the only move into this cemetery. A plaque beside it says that in 1915 Alliance bought land and dammed streams in Knox Township, at Westville, and that the reservoir would cover the private Westville Colored Cemetery on the west side of Westville Road. It says Virginia Quakers Micajah and Unity Coppock Stanley established it. The marker prints their ages as 33 and 25. It says the first burial was Gilbert Benjamin Hair, died July 20, 1844, age 5 months and 18 days, and the last was Sarah Towns, died August 29, 1911, age 22. Alliance bought this tract for the reinternment. That is the marker's spelling. A 1938 blueprint, the plaque says, reads: Colored cemetery which was moved from Westville. Colored is the blueprint's word. I will not put these graves back under the water. This pin is the tract. Not Westville. Not Lot 17.",
+    long: "",
+    names: ["Gilbert Benjamin Hair", "Sarah Towns"]
+  },
+  {
+    id: "damascus-gaunt",
+    name: "Capture of Flag",
+    lat: 40.9001,
+    lng: -80.9518,
+    radius: 60,
+    short: "The old card would not describe a battle it had not read. The citation is short. Private John C. Gaunt, Company G, 104th Ohio Infantry, November 30, 1864, at Franklin, Tennessee. Capture of flag. The medal was issued February 13, 1865. It was not given after his death. The fight was not this crossroads. The Medal of Honor Society says he was born in 1833 in Columbiana County, accredited to Damascus in Mahoning County, and died January 13, 1886, in Garfield, Ohio. A grave page says he died that same day in Damascus, in Columbiana County. I will not pick the death place. The grave page puts him in Damascus Cemetery, section 5, lot D. The society puts him in Gurny-Friends and Wilbreth Cemetery, plot 5-D-3. I will not make those one yard. A Wikipedia line says he was born in 1837 and served in Company H. The citation says Company G. I will not sand the letter, and I will not pick 1833 or 1837. This pin is the grave page's coordinate. It is not Franklin.",
+    long: "",
+    names: ["John C. Gaunt"]
+  },
+  {
+    id: "damascus-school",
+    name: "14923 Morris",
+    lat: 40.90057,
+    lng: -80.95465,
+    radius: 70,
+    short: "The academy card has the 1902 photograph and will not make it a classroom. This is the building. The National Register lists the Damascus Grade School at 14923 Morris Street, built in 1902, Samuel Borton and H. E. Cameron. It was listed on September 21, 1989. The Bailey marker stands on what that page calls the grounds of the Grade School Museum, and it gives a different point, on South Pricetown Road, County Route 534. Another page spells the road Princetown. I will not pick the spelling, and I will not average the two points. This pin is the register's point. Not the academy.",
+    long: "",
+    names: ["Damascus Grade School", "Samuel Borton"]
+  },
+  {
+    id: "damascus-bailey",
+    name: "The Meter",
+    lat: 40.90253,
+    lng: -80.95490,
+    radius: 50,
+    short: "Ervin George Bailey was born in Damascus. The marker dates him 1880 to 1974. It says he invented the Bailey Boiler Meter, and that in 1916 he founded the Bailey Meter Company of Wickliffe. It calls the company a world supplier of industrial instruments and controls. It says he held more than 100 patents, in meters, automatic controls, furnaces, boilers, and fuel-burning equipment. The stone calls him the Dean of Combustion Engineers. That is the stone's phrase. Wickliffe is not this crossroads. I will not move the factory here. The marker went up in 1991. The school is the other pin. This pin is the stone.",
+    long: "",
+    names: ["Ervin George Bailey"]
+  },
+
+
+
+
 
 
 

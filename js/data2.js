@@ -16334,26 +16334,7 @@ STORIES.push(
     names: ["Jane Dyer"]
   },
 
-  {
-    id: "darbydale-osprey",
-    name: "The Lake at the North Edge",
-    lat: 39.8516,
-    lng: -83.1922,
-    radius: 80,
-    short: "The name card uses Osprey Lake only as the north edge of the old Chenoweth land. The public land is the lake. Columbus and Franklin County Metro Parks puts the Osprey Lake launch at 5800 Harrisburg-Georgesville Road, in Darbydale. The trail around the lake is half a mile. The park page says Big Darby and Little Darby are state and national scenic rivers, and that this park follows those creeks. I will not put the bison on this lake. The nature center is in Galloway. I do not have the year the lake was dug. I will not invent one. This pin is the launch. Not the mill.",
-    long: "",
-    names: ["Osprey Lake"]
-  },
-
-  {
-    id: "darbydale-woolybooger",
-    name: "Woolybooger",
-    lat: 39.8508,
-    lng: -83.2006,
-    radius: 40,
-    short: "The historical society says the internet is full of folklore about this cemetery, and that people call it Woolybooger Cemetery. The legend is that it is haunted, and that a Bigfoot-like creature called the Woolybooger lives here and roams the ground at night. That is the legend. I will not swear to the creature. The same page says the place is a hillside the township keeps, and it asks you to show respect. The name on the old maps is still Little Pennsylvania. This pin is the story. Not a dare.",
-    long: "",
-    names: ["Woolybooger"]
+ 
   },
 
 

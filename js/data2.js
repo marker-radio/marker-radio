@@ -16707,6 +16707,490 @@ STORIES.push(
     names: ["Donnelsville Cemetery"]
   },
 
+  {
+    id: "doylestown-peter-paul",
+    name: "The Congregation, Not the Picture",
+    lat: 40.9706,
+    lng: -81.6992,
+    radius: 40,
+    short: "The school card has the encyclopedia's picture, a church built in 1877, and it would not date the congregation. The county library says Catholic settlers came in the fall of 1826, and that Father Francis Marshall said a first mass in a log cabin about a mile from here. It then prints two land stories. One is an agreement of October 7, 1832, two acres for a church and the rest for burial. The other is eighty acres in May 1834, seventy-nine for the church, and one acre sold to Andrew Whitman. I will not average 1832 and 1834. It says a brick cornerstone was laid July 8, 1850, by Bishop Louis Amadeus Rappe, that church torn down in 1877, and a new cornerstone laid September 30, 1877. The picture can keep 1877. This pin is the map's church, on West Clinton Street. Not the cabin.",
+    long: "",
+    names: ["Francis Marshall", "Louis Amadeus Rappe"]
+  },
+
+  {
+    id: "doylestown-cemetery",
+    name: "Eighteen Forty-Eight",
+    lat: 40.9715,
+    lng: -81.6999,
+    radius: 40,
+    short: "The cemetery association says Saints Peter and Paul cemetery opened in 1848, and it prints the address as 161 West Clinton Street. The grave directory puts the ground on West Marion Street, west of Brooklin Avenue, and it also calls the place Doylestown Cemetery. I will not make Clinton and Marion the same street. The library's 1832 line already sets land aside for burial. I will not average 1832 and 1848. I do not have a first name in the ground. This pin is the directory's point. Not the church door.",
+    long: "",
+    names: ["Saints Peter and Paul Cemetery"]
+  },
+
+  {
+    id: "doylestown-doughboy",
+    name: "The Eleventh Hour",
+    lat: 40.9698,
+    lng: -81.6948,
+    radius: 40,
+    short: "The mower card would not date the Doughboy. A Wayne County paper says it was dedicated on Armistice Day, November 11, 1920, and rededicated on the hundredth anniversary. The line it quotes is, in respectful remembrance of the men and women of Doylestown who served in World War I. The cost was one thousand nine hundred ninety-two dollars. More than three quarters came from unused war-relief money. The rest was subscription. A catalog says the figure is ten feet tall and the base six feet wide. I have not measured it. The flagstaff behind it went up later, paid for by fines from a bootlegger. I will not name him, and I will not date the pole. There is still no battlefield. The survey card already stands on the old square. This pin is the statue. The next place, when you want it, is Dresden.",
+    long: "",
+    names: ["Doughboy"]
+  },
+
+  {
+    id: "dresden-ann",
+    name: "Not a Swear",
+    lat: 40.1249,
+    lng: -82.0144,
+    radius: 40,
+    short: "The basket card already has Saint Ann in the picture, a Catholic frame church in 1847 and a brick one in 1890, and it will not swear those are the walls. I still will not. A marker at Chestnut and Fourth stands in front of the parish hall. It reads, to all veterans, in honor of Father John D. Kempf, national chaplain of the American Legion, 1982 to 1983. That is the office. I do not have his birth, or his death. American Legion Post 399 and friends put the marker up. I will not make the hall into the 1847 church to give it a year. This pin is the hall corner. Not the picture.",
+    long: "",
+    names: ["John D. Kempf"]
+  },
+
+  {
+    id: "dresden-cemetery",
+    name: "Between Twelfth and Lock",
+    lat: 40.1175,
+    lng: -82.0087,
+    radius: 40,
+    short: "The plat reserved out lot forty-seven for a cemetery. The war-memorial page puts Dresden Cemetery, and a veterans garden, on Main Street between Twelfth and Lock. I will not swear the garden is lot forty-seven. I do not have the year the ground opened, and I will not invent a first burial. The stone in the garden is the next card. This pin is the cemetery. Not the 1817 market house.",
+    long: "",
+    names: ["Dresden Cemetery"]
+  },
+
+  {
+    id: "dresden-memorial",
+    name: "Two Thousand One, or Two Thousand Three",
+    lat: 40.1173,
+    lng: -82.0085,
+    radius: 40,
+    short: "The stone says, dedicated to all veterans in all wars. They brought honor to our country and promise to our dreams. Then, in memory of our departed veterans of all wars. Under that, the page prints rolls. I will not read the names. The same page says the city erected the memorial in 2001, dedicated May 28, 2001, and it also prints a bell dated 2003. I will not make those one year. The bell's line counts Ohio service, nine thousand fifty-three and two hundred sixty-five in one war, one thousand two hundred and twenty-five in another. I will not turn a state count into this village. There is still no battlefield I can date. This pin is the stone. The cemetery card is the ground. The next place, when you want it, is Dunkirk.",
+    long: "",
+    names: ["Dresden"]
+  },
+
+  {
+    id: "dunkirk-gum",
+    name: "Grum, or Gum",
+    lat: 40.7888,
+    lng: -83.6430,
+    radius: 40,
+    short: "The 1883 history says Runatus Grum built the first house in town and opened the first grocery. The 1910 history says Renatus Gum, in the spring of 1852, sold tea, coffee, tobacco, and whiskey, then the first dry goods, then a hotel called the Green House, where the Old White Corner now is. I will not pick the spelling. I do not have the White Corner, and I will not put the hotel on a street I have not read. The railroad card already has Anderson Watters in 1858. The later book says Anderson K. Watters, in 1851. I will not reopen that card to average the year. This pin is the village. Not a counter.",
+    long: "",
+    names: ["Renatus Gum"]
+  },
+
+  {
+    id: "dunkirk-cemetery",
+    name: "The New Area",
+    lat: 40.7753,
+    lng: -83.6409,
+    radius: 40,
+    short: "The veterans page puts the marker in Dunkirk Cemetery, on the south side, in the part it calls new. The corner is County Route 40 and South Main, which is U.S. 68, and the address it prints is 2917. The page says near the village, not in the square. I do not have the year the ground opened. I will not invent a first burial, and I will not move the Blanchard through it. The plaque is the next card. This pin is the cemetery.",
+    long: "",
+    names: ["Dunkirk Cemetery"]
+  },
+
+  {
+    id: "dunkirk-memorial",
+    name: "M S, 2003",
+    lat: 40.7751,
+    lng: -83.6411,
+    radius: 40,
+    short: "The plaque says, to all those who come after, let it be known that this place is dedicated to those men and women who served their country in all wars, past, present, and future. Then, Dunkirk V.F.W. Post 3816, and the letters M S, and 2003. I will not guess what M S means. The page says the post erected it in 2003. A photograph shows a boulder, the plaque, and a flagpole. I will not date the pole. There is still no battlefield. The county's other war stones are in Kenton. I will not borrow them. This pin is the plaque. The cemetery card is the ground.",
+    long: "",
+    names: ["Dunkirk V.F.W. Post 3816"]
+  },
+
+  {
+    id: "dunkirk-geneva",
+    name: "Half a Mile South",
+    lat: 40.7866,
+    lng: -83.6420,
+    radius: 40,
+    short: "The 1910 history says old residents remembered a town projected about half a mile south of this site, named Geneva, several years before the railroad, and that it came to nothing. The sentence I have breaks off at because. I will not finish it. I will not drop a pin on a town that was not built. The 1859 church and the 1883 school still have no street, so they stay off the map. This pin is the village. Not Geneva. The next place, when you want it, is Dupont.",
+    long: "",
+    names: ["Geneva"]
+  },
+
+  {
+    id: "dupont-eli",
+    name: "Not the Mayor",
+    lat: 41.0544,
+    lng: -84.3000,
+    radius: 40,
+    short: "A county sketch says Dr. Eli Dimock was born in Burlington, New York, on May 4, 1822. He finished at the medical department in New York City in April 1847. He came to this place in 1849, left in 1853 because his health failed, and came back in 1860. The plat is 1877. The post office is 1864. I will not move either date back to meet him. The mayor card has E. W. Dimock in 1888. I will not make the initials the same man. His father was also named Eli. I will not fold them together. The sketch says he gave a collection of relics to the high school in Ottawa. That town is not this pin. It does not say when he died. I will not invent the year. This pin is the village. Not a company gate. The next place, when you want it, is East Canton.",
+    long: "",
+    names: ["Eli Dimock"]
+  },
+
+  {
+    id: "east-canton-werner-man",
+    name: "Werner, or Warner",
+    lat: 40.7872,
+    lng: -81.2854,
+    radius: 40,
+    short: "The inn card stands on the corner and does not say who built it. The society's page says Henry Werner put the building up in 1834, and that he hired the mason Jacob Stambaugh. The same page also spells him Henry Warner. I will not pick. It says his son-in-law George Reed bought the place sometime after 1853, and that the family kept it until 1986. The granddaughter's name is printed Charlotte, and also Charolette Kendzora. I will not repair it. I do not have Werner's birth, or his death. I will not make him the founder. Leeper stays on the plat card. Mallory Paige still has no years, and she is still not the sole founder. This pin is the village. The inn card is the door.",
+    long: "",
+    names: ["Henry Werner", "George Reed"]
+  },
+
+  {
+    id: "east-canton-monument",
+    name: "May Thirtieth, Nineteen Ninety-Five",
+    lat: 40.7891,
+    lng: -81.2825,
+    radius: 40,
+    short: "A monument at 224 North Wood Street, on State Route 44, reads, in honor of all veterans who served in the armed forces of our country. The other side says it was dedicated by Lowell D. Oberly American Legion Post 667, on May 30, 1995, and that the post was chartered in March 1947. That is the stone. A school display case honors five people from this town. I have not pinned the case, and I will not read those lives onto this monument. Witter's prisons stay in the township. There is still no battle on Nassau Street. This pin is the monument. The next place, when you want it, is East Cleveland.",
+    long: "",
+    names: ["Lowell D. Oberly American Legion Post 667"]
+  },
+
+  {
+    id: "east-cleveland-coit",
+    name: "At Collamer, Not at the Lake",
+    lat: 41.5354,
+    lng: -81.5668,
+    radius: 40,
+    short: "A county sketch says Henry H. Coit was born in Norwich, Connecticut, in 1791. His father, Daniel Lathrop Coit, held land-company acres in what was then Euclid. About 1828 Henry bought a place at Collamer village, on the Euclid road. The creek card already stands on that road. I will not retell the mill, and I will not stake the thousand acres. He died on October 15, 1870, while visiting a daughter in Newark, New Jersey. A grave page puts East Cleveland Township Cemetery at 1621 East 118th Street and calls that Cleveland, and the same page says the ground is in this city. The cemetery was opened August 31, 1859, by a township that no longer exists. The approach card already split the earlier village, annexed in 1872, from this city. I will not move East 118th onto Noble Road to settle it. I do not have his door. This pin is Collamer. Not the grave. The next place, when you want it, is East Liverpool.",
+    long: "",
+    names: ["Henry Coit"]
+  },
+
+  {
+    id: "east-liverpool-post-office",
+    name: "Nineteen Eight, or Nineteen Nine",
+    lat: 40.6183,
+    lng: -80.5772,
+    radius: 40,
+    short: "The old card would not invent the building the Museum of Ceramics sits in. It is the former post office, at Fifth and Broadway. The register's box says built in 1908. The article under that box says 1909, and so does a postcard from the historical society. James Knox Taylor designed it. Beaux-Arts. It went on the National Register on November 21, 1976. I will not average the year, and I will not give him the kiln. A mural in the lobby, Old Bennett Pottery Plant, was painted by Roland Schweinsburg in 1936. The kiln card is still the foot of Second Street. This pin is the post office. Not a crate of yellow ware.",
+    long: "",
+    names: ["Museum of Ceramics"]
+  },
+
+  {
+    id: "east-liverpool-bnai",
+    name: "Five Acres, Up the Hill",
+    lat: 40.6322,
+    lng: -80.6092,
+    radius: 40,
+    short: "A burial list says B'nai Jacob cemetery was opened in 1922, on five acres bought from Robert Boyd, at the north end of his farm. The ground is in Liverpool Township, section 30, off Campground Road, about ten minutes from downtown. I will not drag it onto Broadway to make it a city block. Thirty-five families bought lots at twenty-five dollars. Of those first families, the list says only Joseph Rudolph's were buried here. The others had moved, or died somewhere else. I will not read the rest of the yard. Beaver Creek stays where the old card put it. This pin is the cemetery. Not a kiln.",
+    long: "",
+    names: ["B'nai Jacob Cemetery"]
+  },
+
+  {
+    id: "east-liverpool-memorial",
+    name: "Nineteen Sixty-Five",
+    lat: 40.6200,
+    lng: -80.5800,
+    radius: 40,
+    short: "A stone at West Sixth and Peach, the address printed as 126 West Sixth, says it is dedicated to the men and women who fought valiantly and died courageously that we might live in freedom. Citizens of the tri-state area erected it in 1965. The sponsor's name on the page is the Veteran's City Council. I will not repair the apostrophe. A Vietnam stone, a Korean stone, and a World War One stone stand a few steps off. I will not read them. There is still no battlefield I can date from the plat. The name card already stands on the village. This pin is the 1965 stone.",
+    long: "",
+    names: ["East Liverpool"]
+  },
+
+  {
+    id: "east-liverpool-floyd",
+    name: "Not a Downtown Corner",
+    lat: 40.7141,
+    lng: -80.5885,
+    radius: 40,
+    short: "The old card says Charles Floyd, called Pretty Boy, was killed by F.B.I. agents on October 22, 1934, on a farm outside the city, and it will not put that shooting on a downtown corner. A marker in St. Clair Township, near Sprucevale, says in these fields, formerly the Ellen Conkle farm. It adds the East Liverpool police to the federal agents. I will not drop either one. The body was put on display in the city, then sent back to Oklahoma. The marker went up in 1993. The mail on the page says East Liverpool. The township line does not. I will not make a ZIP code into the city. This pin is the field. The next place, when you want it, is East Palestine.",
+    long: "",
+    names: ["Charles Floyd"]
+  },
+
+  {
+    id: "east-palestine-post-office",
+    name: "The Caption, and the Wall",
+    lat: 40.8362,
+    lng: -80.5399,
+    radius: 40,
+    short: "The old card had one caption. The post office was built in 1937, a New Deal building. The building is at 269 North Market Street, put up with Treasury Department money, and it is still the post office. In the lobby, Rolf Stoll painted an oil, Early East Palestine and Dr. Rhett Chamberlain's Post Office and Warehouse, the same year, for the Treasury Section of Fine Arts. A marker in town names a Dr. Robert Chamberlin, 1798 to 1876. I will not make Rhett and Robert the same man to finish the mural. This pin is the post office. Not the wreck.",
+    long: "",
+    names: ["Rolf Stoll"]
+  },
+
+  {
+    id: "east-palestine-chamberlin",
+    name: "The Log House, Moved",
+    lat: 40.8329,
+    lng: -80.5496,
+    radius: 40,
+    short: "A marker on Bacon Avenue, which is State Route 46, says this log house is from about the eighteen-forties, and that it now belongs to the historical society. It used to stand at the corner of West Main and Walnut. I do not have a stake for that old corner, and I will not put this pin there. The marker names Dr. Robert Chamberlin, 1798 to 1876, the town's first resident physician, and his wife Rebecca, 1810 to 1895. The mural downtown spells a Dr. Rhett Chamberlain. I will not fold the two names together. The marker went up in 2017. This pin is the house where it stands now. Not the 1828 plat.",
+    long: "",
+    names: ["Robert Chamberlin"]
+  },
+
+  {
+    id: "east-palestine-glenview",
+    name: "Not the Old Ground",
+    lat: 40.8269,
+    lng: -80.5415,
+    radius: 40,
+    short: "The village directory lists Glenview Cemetery at 335 South Market Street. The map names the ground at this point. I will not swear the door and the map pin are one stake. I do not have the year it opened. Another ground, at Lincoln and Walnut, is called Pioneer Boatman, and also the old cemetery, the Quaker cemetery, and the Presbyterian cemetery. A page says that one began in the late seventeen-hundreds, and that a stone put up in 1990 by American Legion Post 31 lists twenty-one veterans. I have not found that corner, so I will not pin it, and I will not give its century to Glenview. Burial records for that old yard have not been found. I will not invent them. This pin is Glenview. The next place, when you want it, is East Sparta.",
+    long: "",
+    names: ["Glenview Cemetery"]
+  },
+
+  {
+    id: "east-sparta-cemetery",
+    name: "Not the Whole Yard",
+    lat: 40.6653,
+    lng: -81.3550,
+    radius: 40,
+    short: "A burial list prints East Sparta Cemetery at 40 degrees 39 minutes 55 seconds north, 81 degrees 21 minutes 18 seconds west. A grave directory prints 40.6650 and minus 81.3550. I will not average them. The list says it is not complete, and it stops at seventeen names. I will not read them, and I will not call seventeen the yard. The soldier stands in this ground. That card is the bronze. This pin is the cemetery. Not the pump.",
+    long: "",
+    names: ["East Sparta Cemetery"]
+  },
+
+  {
+    id: "east-sparta-soldier",
+    name: "Parade Rest",
+    lat: 40.6651,
+    lng: -81.3552,
+    radius: 40,
+    short: "The township history says the East Sparta Soldiers' Monument is a bronze figure of a soldier at parade rest. The Grand Army of the Republic put it up in 1915, in the cemetery, for the soldiers of Pike Township. I do not have the roll. I will not invent one. There is still no battlefield in the street. I do not have a stake of my own for the bronze. The cemetery card is the ground. This pin is the figure.",
+    long: "",
+    names: ["East Sparta"]
+  },
+
+  {
+    id: "east-sparta-fetters",
+    name: "Eighteen Twenty-Three",
+    lat: 40.6655,
+    lng: -81.3548,
+    radius: 40,
+    short: "A patriot list says George Fetters was buried in this cemetery in 1823. The birth line on that table is blank. I will not fill it. A newspaper says a stone calls him a Revolutionary War veteran, and that the Canton chapter of the Daughters of the American Revolution dedicated the grave in 2015. The dedication is not the burial. I do not have his company, or his rank. Janney and the Youngs stay on the plat card. This pin is the cemetery ground. Not a battle.",
+    long: "",
+    names: ["George Fetters"]
+  },
+
+  {
+    id: "east-sparta-animals",
+    name: "Not Athens, Ohio",
+    lat: 40.6628,
+    lng: -81.3718,
+    radius: 40,
+    short: "The old card would not say the streets were named for animals, and would not say Sparta was laid out to rival Athens, Ohio. Those lines were not in the paper it used. The township's own history says Janney named the place for Sparta, the rival of Athens in ancient Greece, and that four streets were named buffalo, elk, wolf, and bear. That Athens is the old one. I will not move it to Ohio. I have not walked the four streets. The same page dates the village incorporation December 6, 1938. The Pierce card would not borrow a day. I have not seen the ordinance. This pin is the village. The next place, when you want it, is Eaton.",
+    long: "",
+    names: ["Amos Janney"]
+  },
+
+  {
+    id: "eaton-mound",
+    name: "Not the Grave on the Square",
+    lat: 39.7430,
+    lng: -84.6471,
+    radius: 40,
+    short: "The Bruce card says he died in 1830 and is buried in Mound Hill, and that its pin is the square. This one is the ground. The cemetery's own page says he gave four acres, in what is now the northwest part, at 533 West Main Street. The first burial it knows is a young girl, of whooping cough, in September 1806. It does not print her name. I will not invent one. Early on they called it Eaton Cemetery. In 1847 a committee picked Mound Hill. In 1907 the township bought thirty-three acres on Camden Road, across from the fort, and opened that ground in 1928. I will not put those acres on this pin. The fort card stays at the park. This pin is the old four acres.",
+    long: "",
+    names: ["Mound Hill Cemetery"]
+  },
+
+  {
+    id: "eaton-mound-builders",
+    name: "The Page Does Not Name Them",
+    lat: 39.7428,
+    lng: -84.6473,
+    radius: 40,
+    short: "The cemetery was named for a mound on the grounds. The page calls it prehistoric, and an Indian mound. It does not name a nation, and it does not date the builders. I will not supply either. It says the mound now holds fifteen soldiers from Anthony Wayne's army, killed on October 17, 1793, moved from Fort St. Clair and buried here in October 1847. A ten-foot monument of Rutland marble went up then. The fort card is November 6, 1792, Little Turtle, and six Kentuckians. I will not make 1792 and 1793 the same fight, and I will not make the soldiers the people who built the mound. This pin is the mound. Not the palisade.",
+    long: "",
+    names: ["Mound Hill"]
+  },
+
+  {
+    id: "eaton-courthouse",
+    name: "The Third One",
+    lat: 39.7438,
+    lng: -84.6363,
+    radius: 40,
+    short: "The plat set square A aside for a courthouse. A marker says the building on that square now is the third. I do not have the first two. Harvey Hiestand, a Preble County native, designed this one. The cornerstone was laid March 17, 1917, with a copper box under it. The dedication was September 10, 1918, and the marker says three thousand people came. A veterans stone in front was put up in 2009. I will not read the bricks. The 1792 fight stays at the fort. This pin is the courthouse. The next place, when you want it, is Edison.",
+    long: "",
+    names: ["Harvey Hiestand"]
+  },
+
+  {
+    id: "edison-luther",
+    name: "May Second, Eighteen One",
+    lat: 40.5580,
+    lng: -82.8646,
+    radius: 40,
+    short: "The plat card and the depot card already have Luther Mozier. An 1880 sketch says Luther D. Mozier was born in Chittenden County, Vermont, on May 2, 1801. He married Abby L. Harrison on November 29, 1832. She was born in Essex County, New Jersey, in 1816. They came to this place in 1835. The plat is 1851. I will not move either year. His father, Joseph, died on March 3, 1821, under a falling tree in a sugar camp. That was not here. I will not pin it. The sketch still has Luther living. I do not have his death. The graduates' card spells a Clarence Mosier. I will not make him a son. This pin is the village. Not the lots he bought back.",
+    long: "",
+    names: ["Luther Mozier"]
+  },
+
+  {
+    id: "edison-methodist",
+    name: "Easter Sunday, Nineteen Forty-One",
+    lat: 40.5556,
+    lng: -82.8623,
+    radius: 40,
+    short: "The plat card says the first commencement, in 1889 and 1890, was at the Methodist Church. A village recollection says the Edison Methodist Church burned on Easter Sunday in 1941, and that the town built a new one soon after. It does not print the day of the month. I will not supply one. The map puts a United Methodist church on Church Street. I will not swear these walls are the ones that burned, and I will not swear they are the ones built after. This pin is the church the map shows. Not the depot. The next place, when you want it, is Eldorado.",
+    long: "",
+    names: ["Edison Methodist Church"]
+  },
+
+  {
+    id: "eldorado-leroy",
+    name: "The Initial Stays",
+    lat: 39.9040,
+    lng: -84.6740,
+    radius: 40,
+    short: "The lot card has Leroy McWhinney, and a signature that looks like L. R. The 1881 history prints Leroy R. I will not spell the R. He kept the business six years, sold it to his brother Frank, and Frank sold it to Henry Lawrence in 1865. Matthew bought it in 1870. That store is already on the railroad card. Leroy moved to Dayton in 1858, and the book then says Crestin Township. I will not repair the spelling. His first wife was Mary Clevinger, born in Wayne County, Indiana. She died of cholera in Jackson Township in 1849. I will not pin that township. In 1851 he married Amy Shaffer. The book gives them one child, Mary. It does not give his death. The same book lists M. V. Randall as the mayor then in office. The old card would not read a smudged name for 1879. I will not make 1879 and 1881 the same year. This pin is the village. Not a golden city. The next place, when you want it, is Elgin.",
+    long: "",
+    names: ["Leroy McWhinney"]
+  },
+
+  {
+    id: "elgin-wright",
+    name: "Three Miles Northeast",
+    lat: 40.7543,
+    lng: -84.4353,
+    radius: 40,
+    short: "A county list puts Wright Cemetery in York Township, three miles northeast of Elgin, on the Elgin-Converse Road. I will not drag it onto Main Street to make it a village block. I do not have the year the ground opened. I will not give it the elevator's missing year, and I will not name an oil well. The stone is the next card. This pin is the cemetery. Not the log school.",
+    long: "",
+    names: ["Wright Cemetery"]
+  },
+
+  {
+    id: "elgin-wright-stone",
+    name: "York, or Amanda",
+    lat: 40.7541,
+    lng: -84.4355,
+    radius: 40,
+    short: "The stone says, in honor of all veterans. It was put up in 2003 by Bowersock Brothers V.F.W. Post 6772 and by Harry J. Reynolds American Legion Post 191. The same line lists trustees of Amanda Township. The marker page puts the cemetery in York Township, near this village. I will not make Amanda and York the same township to clean the line. There is still no battlefield on Main Street, and I will not tell you the capture of Major André here. I do not have a second stake. The cemetery card is the ground. This pin is the stone. The next place, when you want it, is Elida.",
+    long: "",
+    names: ["Wright Cemetery"]
+  },
+
+  {
+    id: "elida-dates",
+    name: "March, or September",
+    lat: 40.7864,
+    lng: -84.1986,
+    radius: 40,
+    short: "The farm card has Griffith John and does not give his years. The school history says he was born March 6, 1795, in Northumberland County, Pennsylvania, and that he died February 26, 1856, in Elida. A grave header prints September 6, 1795, and February 20, 1856. I will not average them. The school page says he was buried beside the Lutheran church on Main Street. The cemetery page puts the old ground on Kiracofe Avenue. I will not make those one street. The same school page now says the brother, Elida, was a surveyor, for temperance, an abolitionist, and on the Underground Railroad, and that he moved to Illinois and died there without seeing the town. It still does not show a house. I will not put a station in one. I do not have the year he died. This pin is the village. Not Illinois.",
+    long: "",
+    names: ["Griffith John"]
+  },
+
+  {
+    id: "elida-lutheran-yard",
+    name: "The Stones Came Up",
+    lat: 40.7878,
+    lng: -84.2050,
+    radius: 40,
+    short: "A grave directory puts Lutheran Cemetery on West Kiracofe Avenue, which is State Route 309, behind Trinity Lutheran Church. It says that in 1976 the stones were removed, and the lot is used for a child day center. A plaque inside the church says the educational building stands on the cemetery, as a memorial to the people who were buried there. A stone on the site names Abraham Doner as founder of the first Lutheran church in the county. I do not have his years, and I will not read the old list. Griffith's card already has the argument about which street. This pin is the ground the map still names. Not a grocery.",
+    long: "",
+    names: ["Lutheran Cemetery"]
+  },
+
+  {
+    id: "elida-two-nations",
+    name: "Not His Nation",
+    lat: 40.7852,
+    lng: -84.1990,
+    radius: 40,
+    short: "The farm card has Jacob Turkeyfoot as a guide in 1831, and it will not assign him a nation. The school page says Shawnee and Wyandot were living in the area then, and that not more than four or five families were here. It still does not say which nation he belonged to. I will not choose. It gives no town. A reservation marker stands miles off, near Allentown. I will not move it onto Main Street. This pin is the village. The next place, when you want it, is Elliston.",
+    long: "",
+    names: ["Jacob Turkeyfoot"]
+  },
+
+  {
+    id: "elliston-ellis",
+    name: "Not the Name",
+    lat: 41.5479,
+    lng: -83.2810,
+    radius: 40,
+    short: "The old card will not invent a man named Ellis. A church archive names one. Lorenzo Ellis gave the land for the first building. It does not say the town was named for him, and it does not give his birth or his death. I will not supply either, and I will not hang the post office on him. This pin is the crossing. Not a deed.",
+    long: "",
+    names: ["Lorenzo Ellis"]
+  },
+
+  {
+    id: "elliston-trinity",
+    name: "Eighteen Sixty-Two",
+    lat: 41.5468,
+    lng: -83.2798,
+    radius: 40,
+    short: "The archive says German settlers held services in a schoolhouse in 1862. Six years later they put up a church on the land Ellis gave. In February 1870 they accepted a constitution. The first resident pastor was Franz Wolff, from May 28, 1870, until he died in April 1874. A parsonage went up across the street while he was there. I do not have his birth, and I do not have a street for the door. The tracks card already stands on the crossing. This pin is not a second survey. It is the church I cannot separate from the crossing.",
+    long: "",
+    names: ["Franz Wolff"]
+  },
+
+  {
+    id: "elliston-cemetery",
+    name: "Eighteen Eighty-Four, and Eighteen Seventy-Two",
+    lat: 41.5428,
+    lng: -83.2739,
+    radius: 40,
+    short: "The tracks card said a cemetery sat about half a mile off, and that it did not have the stones. A burial list puts Elliston Cemetery in Benton Township, section 29, and says this ground was opened in 1884. It also says an older cemetery, south and east across the road, was opened in 1872. The post office is March 12 of that year. I will not make them the same day. The list prints 17505 West Toussaint North Road, and a Graytown address. Another page says the corner of county roads 208 and 62. I will not make those one corner. The approach card already said the ZIP code is Graytown's. I will not move the yard to Graytown's square. The list is not complete. I will not read the names. Both grounds are kept by the township. This pin is the 1884 print. Not the older yard. The next place, when you want it, is Elmore.",
+    long: "",
+    names: ["Elliston Cemetery"]
+  },
+
+  {
+    id: "elmore-harrington",
+    name: "Not a Son",
+    lat: 41.4781,
+    lng: -83.2904,
+    radius: 40,
+    short: "A marker at Rice and Clinton, in Harrington Cemetery, says Israel Harrington lived from 1779 to 1841. In 1824 he traded a tavern in Fremont for land where a trail crossed the Portage. The marker says Elmore grew from that. It does not name the nation on the trail. The river card already refused to borrow one. His father, also Israel, was a Revolutionary veteran, and the marker says both are buried here. A scrapbook at the library says the village was supposedly named for a farmer's daughter, Elenore or Elmore Havens, and that there are other theories. I will not pick one, and I will not invent a son. A registry lists an all-veterans memorial at this same address, and it prints two ZIP codes for Rice Street. I have not read the plaque. This pin is the cemetery marker. Not the 1851 plat.",
+    long: "",
+    names: ["Israel Harrington"]
+  },
+
+  {
+    id: "elmore-harris",
+    name: "Eighteen Eighteen",
+    lat: 41.4749,
+    lng: -83.2996,
+    radius: 40,
+    short: "Another stone, at Veterans Avenue and Congress, says Joseph Harris was the first white settler of Elmore, in 1818. The American Legion put it up in 1957. A copper box in front of the monument was to be opened in 2001. I will not tell you whether they opened it. Harrington's marker starts the settlement in 1824. The plat is 1851. I will not pick a first man, and I will not glue Foster onto either stone. This pin is the Harris monument. Not the river card.",
+    long: "",
+    names: ["Joseph Harris"]
+  },
+
+  {
+    id: "elmore-union",
+    name: "Schultz, or Shultz",
+    lat: 41.4739,
+    lng: -83.2789,
+    radius: 40,
+    short: "A grave directory puts Harris-Elmore Union Cemetery at the northeast corner of Elmore Eastern Road and Schultz-Portage Road, and says it is eight acres. A war-memorial list prints the same ground as 971 Shultz-Portage Road. I will not pick the spelling. The directory also calls it Elmore Cemetery, Union Cemetery, and Harris Cemetery. Harrington Cemetery is the other card. I will not fold them together. I do not have the year this ground opened. This pin is the union cemetery. Not the car.",
+    long: "",
+    names: ["Harris-Elmore Union Cemetery"]
+  },
+
+  {
+    id: "elmore-bridge",
+    name: "The Previous Bridge",
+    lat: 41.4765,
+    lng: -83.2952,
+    radius: 40,
+    short: "A marker at Harris Street and Toledo Street, which is State Route 51, says the previous bridge over the Portage was built in 1926 and is dated through 2020. It was a concrete arch, two hundred eighty-two feet long and thirty-six feet wide. The state listed it in 1994, and the marker calls it one of the earliest bridges designed by David Henry Overman. The word on the marker is previous. I will not tell you the arch is still carrying traffic. The river card is the plat. This pin is the marker. The next place, when you want it, is Elmwood Place.",
+    long: "",
+    names: ["David Henry Overman"]
+  },
+
+  {
+    id: "elmwood-place-hall",
+    name: "Vine and Maple",
+    lat: 39.1852,
+    lng: -84.4888,
+    radius: 40,
+    short: "A 2021 village report puts the municipal building at the southeast corner of Vine Street and Maple Street. It does not say when the walls went up. I will not invent the year. The same report says St. Aloysius is now Our Lady of La Vang. I do not have that door, and I will not make the first church Catholic to match a later page. The plat card already stands on Vine. An archive now prints the line that card was missing a page for: laid out in 1875 by Frank L. Whetstone and L. C. Hopkins. I still do not have their years. This pin is the corner. Not a deed. The next place, when you want it, is Empire.",
+    long: "",
+    names: ["Elmwood Place"]
+  },
+
 
 
 

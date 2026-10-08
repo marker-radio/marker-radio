@@ -17190,6 +17190,502 @@ STORIES.push(
     long: "",
     names: ["Elmwood Place"]
   },
+  {
+    id: "empire-the-sign",
+    name: "Fire and Clay, or a Pipe",
+    lat: 40.5081,
+    lng: -80.6226,
+    radius: 40,
+    short: "A marker at Nessley and Stewart, the address printed as 141 Nessley, says the place was established in 1886 as Empire City, for the Empire Fire and Clay Company. A genealogy page says an Empire Sewer Pipe Company in 1885, and that is when the word City was dropped. The 1910 book, in the pages already used, does not say either. I will not pick a company, and I will not average 1885 and 1886. The post office is already dated 1886. This pin is the sign. Not a kiln.",
+    long: "",
+    names: ["Empire"]
+  },
+
+  {
+    id: "empire-two-wars",
+    name: "The Line as Printed",
+    lat: 40.5094,
+    lng: -80.6237,
+    radius: 40,
+    short: "A stone at Nessley and Market, the address printed as 153 Nessley, says, Memorial for World War Veterans I and II. That is the line. I will not repair it, and I will not read a roll the stone does not give me. There is still no battle on Stewart Street. Stratton's park is the next town. The yards across the river stay there. This pin is the stone. The next place, when you want it, is Enon.",
+    long: "",
+    names: ["Empire"]
+  },
+
+  {
+    id: "enon-forty",
+    name: "Largest, or Tallest",
+    lat: 39.8699,
+    lng: -83.9344,
+    radius: 40,
+    short: "The knob card would not give the height. A newspaper and a marker both print forty feet. The encyclopedia says the second largest conical burial mound in the state. The marker says the second tallest, and it puts Miamisburg at sixty-five. I will not mash largest and tallest. The marker also calls the Adena the first settlers, and it spans three cultures from about 52 BC to 1500. The mound card already has three groups, and the word believed. I will not replace it. The ground was deeded to the village in 1953. It sits on Indian Drive. A page says it is five hundred seventy-four feet around. I will not do the truck arithmetic. This pin is the knob. Not the park.",
+    long: "",
+    names: ["Enon Mound"]
+  },
+
+  {
+    id: "enon-cemetery",
+    name: "Northeast of the Plat",
+    lat: 39.8810,
+    lng: -83.9265,
+    radius: 40,
+    short: "The historical society says Ezra Baker gave land northeast of the village for a cemetery in 1841. The directory prints 6013 Dayton Springfield Road. The plat card already has Baker, in 1838, and it does not give his years. I still do not. The township bought more ground in 1884, from Hattie Funderburgh and from Sarah Denlinger, and three acres from Charles Young in 1906. Seventeen acres were added to the east in 1978. Some burials are older than 1841, moved from family plots. By 1987 the society counted three thousand two hundred twelve. I will not read them. This pin is the cemetery. Not a spring.",
+    long: "",
+    names: ["Enon Cemetery"]
+  },
+
+  {
+    id: "enon-soldier",
+    name: "Thirty-One Names",
+    lat: 39.8812,
+    lng: -83.9263,
+    radius: 40,
+    short: "The same society says a soldier's monument in this cemetery carries the names of thirty-one local men who died in the Civil War, and that not all of them were brought home. I will not read the thirty-one. It also counts three Revolutionary soldiers and two from the War of 1812 in the yard. I will not name them from a sentence that does not. The Battle of Piqua stays off the knob. A students' memorial sits on Tecumseh Road in Springfield. I will not drag it here. This pin is the monument. The next place, when you want it, is Etna.",
+    long: "",
+    names: ["Enon"]
+  },
+
+  {
+    id: "etna-cemetery",
+    name: "South Side of the Pike",
+    lat: 39.9563,
+    lng: -82.6912,
+    radius: 40,
+    short: "A photo index puts Etna Cemetery on the south side of Pike Street, just south of the National Road, and prints the point as 39 degrees 57 minutes 22.6 seconds north, 82 degrees 41 minutes 28.16 seconds west. A grave directory sits on that same point. I will not average a hair. The township timeline says Fanny Ward, in 1850, was the first woman buried here. The same yard has women's stones dated before that. I will not make her first, and I will not throw the older stones out. The township page also says smallpox in 1845. I do not have a death list for that year, or for the cholera of 1834. This pin is the cemetery. Not a deed.",
+    long: "",
+    names: ["Etna Cemetery"]
+  },
+
+  {
+    id: "etna-nancy",
+    name: "March Twelfth, Eighteen Thirty-Five",
+    lat: 39.9565,
+    lng: -82.6910,
+    radius: 40,
+    short: "A reading of this yard says Nancy Henthorn died on March 12, 1835, aged thirty-seven, wife of John. The volcano card spells the tavern keeper Henthorn, and the township page spells an election at the house of John Henthron. I will not make those one man to give her a husband, and I will not make them two. I do not have John's birth, or hers. I do not have her row. The cemetery card is the ground. This pin is the stone. The next place, when you want it, is Euclid.",
+    long: "",
+    names: ["Nancy Henthorn"]
+  },
+
+  {
+    id: "euclid-dille-years",
+    name: "Seventeen Fifty-Three",
+    lat: 41.5942,
+    lng: -81.5208,
+    radius: 40,
+    short: "The creek card has David Dille, a lieutenant out of a Virginia company, and a cabin on the west bank. It will not make him the only cabin, and it will not pick 1797, or 1798, or the spring of 1804. A grave page prints his years as 1753 to 1835, and says he is buried in Euclid Cemetery. It does not print the day of either year. I will not invent them. I do not have the cemetery gate, so this pin is not the grave. Jamima stays spelled the way the settlers' page spelled her. This pin is the city. Not the cabin.",
+    long: "",
+    names: ["David Dille"]
+  },
+
+  {
+    id: "euclid-memorial",
+    name: "A Globe, or a Tank",
+    lat: 41.5976,
+    lng: -81.5254,
+    radius: 40,
+    short: "A library brochure says the Euclid Veterans Memorial stands on East 222nd Street, between the public library and the old city hall. Frank Kosich designed it. It was dedicated on November 11, 1953, a stone globe on a slab. The front line is dedicated to the glory of God and to the memory of Euclid men and women who served. The stone capitalizes Women, and Their. I will not repair it. The memorial was rededicated on May 30, 1994, and the back of the stone was changed to say so. A 2010 newspaper describes a white tower and an army tank at the same street. I will not make the globe and the tank one object. I do not have a stake of my own. The library's point is the nearest I will use. There is still no battle on the lake plain. This pin is the stone. The next place, when you want it, is Evendale.",
+    long: "",
+    names: ["Frank Kosich"]
+  },
+
+  {
+    id: "evendale-rest-haven",
+    name: "Six Hundred Forty, or Eight Hundred Forty",
+    lat: 39.2506,
+    lng: -84.4006,
+    radius: 40,
+    short: "The mill card says James Cunningham had eight hundred forty acres as early as 1789, and it will not date the mill to that year. A grave page says he was born in 1740, in Lancaster County, Pennsylvania, and died on June 7, 1812. It calls him a colonel of a Pennsylvania militia. I will not fight that war on the Mill Creek. A plaque says he and Janet Park were the first settlers, in 1795. A newspaper says he and Jenet bought six hundred forty acres in 1789. I will not average the acres, the years, or the spelling of her name. The remains were found when a construction site was opened, and moved to Rest Haven in 2006. I do not have the store's door. This pin is the park the grave page prints. Not the farm. I will not hang the village name on him.",
+    long: "",
+    names: ["James Cunningham"]
+  },
+
+  {
+    id: "evendale-morgan",
+    name: "Not a Battle on Reading Road",
+    lat: 39.2452,
+    lng: -84.4250,
+    radius: 40,
+    short: "The old card will not fight Morgan's raid on this street. A marker on Gorman Heritage Farm Lane, east of Reading Road, says that in the early morning of July 14, 1863, John Hunt Morgan's men rode south and east through Evendale and split into squads to forage. It says they took horses from at least ten farms inside the present village. Civilians described them as not in uniform, many with linen dusters over their coats. The fight stays off Reading Road. Sharonville is where they spread out from. This pin is the farm lane. The next place, when you want it, is Fairfax.",
+    long: "",
+    names: ["John Hunt Morgan"]
+  },
+
+  {
+    id: "fairfax-the-house",
+    name: "Not the Charter",
+    lat: 39.1424,
+    lng: -84.3956,
+    radius: 40,
+    short: "A village history says a house on the pike, the one it calls the Fifty West brewpub, was built in 1827. The company's page prints 7605 Wooster Pike. A newspaper prints 7668, and it calls the place a Columbia Township brewery. I will not average the numbers, and I will not make the township the village. The same history puts a Joseph Ferris house at Dragon Way and Wooster. I do not have his years, and I do not have a second page for the door. The charter stays 1955. I will not move 1827 onto it. This pin is the pike. Not a door. The next place, when you want it, is Fairport Harbor.",
+    long: "",
+    names: ["Fairfax"]
+  },
+
+  {
+    id: "fairport-finland",
+    name: "July Fifth, or July Sixth",
+    lat: 41.7555,
+    lng: -81.2773,
+    radius: 40,
+    short: "A sculpture called Spirit of Finland stands in Veterans Memorial Park. The marker says it was dedicated on July 6, 2003. The museum's own history says July 5. I will not average them. The same marker calls Dr. Amy Kaukonen mayor in 1922 and 1923, the first woman mayor in Ohio, and the second in the country. Those are its words. I do not have her birth or her death. The museum page says the building at 301 High Street opened on June 30 and July 1, 2006. The old card would not invent that year. I do not have the door as a second stake. Other stones in the park are for veterans. I have not read them. This pin is the sculpture. Not the breakwater.",
+    long: "",
+    names: ["Amy Kaukonen"]
+  },
+
+  {
+    id: "fairport-zion",
+    name: "May Thirtieth, Nineteen Three",
+    lat: 41.7492,
+    lng: -81.2746,
+    radius: 40,
+    short: "A church record says Zion Lutheran was established on December 13, 1891. On July 26, 1902, it bought about two acres from George P. Steele, between Fifth and Independence, on the east side of East Street. The yard was consecrated on May 30, 1903. Pastors Peter Salovaara and J. Kallen were there. The first burial that day was Simon Isackila. On May 2, 1910, the southeast corner was sold to C. L. Flaccus of the Diamond Alkali Company, for a railroad. The plant card will not tell the rest of that company, and I will not make 1910 into 1912. I do not have the gate. This pin is not the yard. The next place, when you want it, is Farmersville.",
+    long: "",
+    names: ["Simon Isackila"]
+  },
+
+  {
+    id: "farmersville-cemetery",
+    name: "Dallas and Elm",
+    lat: 39.6768,
+    lng: -84.4246,
+    radius: 40,
+    short: "A grave directory puts Farmersville Cemetery on the southwest corner of Dallas Street and South Elm Street. A 1996 township book says there are thirty-one rows and three hundred forty-eight known graves. I will not read them. I do not have the year the ground opened. I will not take a founder from the page that cannot keep the census. This pin is the cemetery. Not a deed.",
+    long: "",
+    names: ["Farmersville Cemetery"]
+  },
+
+  {
+    id: "farmersville-served",
+    name: "Those That Served",
+    lat: 39.7009,
+    lng: -84.3954,
+    radius: 40,
+    short: "A stone at South Clayton Road and Chicken Bristle Road, the address printed as 2980 South Clayton, says, in memory of those that served. That is the line. I will not repair it, and I will not read a roll the stone does not give me. It sits north of the village. I will not drag it onto the main street. There is still no battle in the plat. This pin is the stone. Not the count.",
+    long: "",
+    names: ["Farmersville"]
+  },
+
+  {
+    id: "farmersville-fire",
+    name: "Not the Lodge",
+    lat: 39.6822,
+    lng: -84.4240,
+    radius: 40,
+    short: "The approach will not tell you the Masonic lodge. I still do not have it. A stone at the fire station, 207 North Elm, between Hemple and Hill, just north of Reigle's Ditch, is dedicated to the members who answered the call, and to those who gave what it calls the ultimate sacrifice. The fire association put it up. It does not date the walls. I will not make this the temple in the picture. This pin is the station. The next place, when you want it, is Fayette.",
+    long: "",
+    names: ["Farmersville"]
+  },
+
+  {
+    id: "fayette-cottrell",
+    name: "Not Elisha",
+    lat: 41.6696,
+    lng: -84.3324,
+    radius: 40,
+    short: "The township card will not pick which Gorham the name came from. A grave page says Gorham Cottrell was born on April 25, 1780, and died on December 27, 1853. It says he died in Fayette. A family page says Gorham Township, and it says he was born in Worthington, Massachusetts, and married Althea Whitmarsh on February 8, 1810. I will not pick the door. I will not make him Elisha. His son Gorham lived until 1905. I will not make them one man. Erastus, the postmaster in the other card, is listed as a son. I will not retell the cabin. He is buried in Pleasant View Union Cemetery, the page says row 21b. I do not have the row. This pin is not the grave.",
+    long: "",
+    names: ["Gorham Cottrell"]
+  },
+
+  {
+    id: "fayette-1894",
+    name: "W. R. C. Number Six",
+    lat: 41.6693,
+    lng: -84.3321,
+    radius: 40,
+    short: "A stone in Pleasant View Union Cemetery, on Cemetery Street west of Maple, was put up in 1894 by W. R. C. Number 6. One side says God bless our native land. Another says resting, the battle fought and won, soldiers of 1861 to 1865. I will not read a roll. About three hundred feet off, a second stone says it is in memory of those who made the supreme sacrifice, and in honor of those who served in the world wars, Korea, Vietnam, Grenada, Panama, and the Persian Gulf. I do not have that stone's own point. I will not stack them. There is still no battle on the plat. This pin is the 1894 stone. The next place, when you want it, is Fayetteville.",
+    long: "",
+    names: ["Pleasant View Union Cemetery"]
+  },
+
+  {
+    id: "fayetteville-1813",
+    name: "Eighteen Thirteen, or Eighteen Eighteen",
+    lat: 39.1862,
+    lng: -83.9366,
+    radius: 40,
+    short: "The Irishman card says Cornelius McGroarty founded the village in 1818. A marker at 312 West Pike, a tenth of a mile west of Bank Street, says he founded it in 1813, and that it was incorporated in 1868. I will not average 1813 and 1818. The charter year is the one both pages share. I will not give you the Marquis de Lafayette, and I will not move the boy from Georgetown onto this pike. This pin is the marker. Not a church door.",
+    long: "",
+    names: ["Cornelius McGroarty"]
+  },
+
+  {
+    id: "fayetteville-patrick",
+    name: "The Apostrophe",
+    lat: 39.1928,
+    lng: -83.9278,
+    radius: 40,
+    short: "A grave directory puts Saint Patricks Cemetery east of U.S. 68, on Anderson State Road, and it says there are two cemeteries here with similar names. Another page spells it Saint Patrick, and prints 3762 to 3780 Anderson State Road. I will not pick the apostrophe. Saint Angela's yard is the other one. I will not fold them. The bend card already said it would not invent the date. I still do not have the year this ground opened. I will not read the stones, and I will not tell you the founder built the church. This pin is the yard the directory prints. Not the pike.",
+    long: "",
+    names: ["Saint Patrick Cemetery"]
+  },
+
+  {
+    id: "fayetteville-2013",
+    name: "May Twenty-Seventh",
+    lat: 39.1926,
+    lng: -83.9286,
+    radius: 40,
+    short: "A stone at 3758 Anderson State Road says it was dedicated on May 27, 2013, in memory of United States military veterans. The line runs on into Scanlon-Kelly Post 5920, and into Knights of Columbus Father Sourd Council 2423. That is the spelling. I will not insert a comma the page does not show me. A second stone with the same title sits about half a mile off. A parish list, about two miles off, names men from the second war. I will not move it here, and I will not read the names. This pin is the 2013 stone. The next place, when you want it, is Felicity.",
+    long: "",
+    names: ["Fayetteville"]
+  },
+
+  {
+    id: "felicity-sleet",
+    name: "The Site, Not the Walls",
+    lat: 38.8385,
+    lng: -84.0975,
+    radius: 40,
+    short: "A marker at 510 Harrison Street, in a small park at the foot of the water tower, says this is the site of the home of William Sleet, a blacksmith and an abolitionist. It says Felicity was a station on the Underground Railroad. It lists the Wesleyan church at 305 Main, the cemetery on Light Street, the homes of Andrew Powell at 416 Union and Arthur Fee at 1 Moores Lane, and the store of Oliver Perry Spencer Fee at 208 Main. I will not make those Fees into William, or into Margaret. I will not swear a house is still standing. The page spells the township society with an extra t. I will not repair it. This pin is the marker. Not a letter.",
+    long: "",
+    names: ["William Sleet"]
+  },
+
+  {
+    id: "felicity-light",
+    name: "Three Names for the Yard",
+    lat: 38.8395,
+    lng: -84.0923,
+    radius: 40,
+    short: "A grave directory puts Felicity Cemetery off Light Street. It also calls the ground the Felicity I.O.O.F. Cemetery, the I.O.O.F. Cemetery, and Sewanie Cemetery. I will not pick. The railroad marker lists this yard as one of the stations. The Harrison Street card is the marker. This pin is the ground. Mount Pleasant, on Bear Creek Road, is a different cemetery. I will not drag it in. I do not have the year this yard opened, and I will not read the stones.",
+    long: "",
+    names: ["Felicity Cemetery"]
+  },
+
+  {
+    id: "felicity-lest",
+    name: "Lest We Forget",
+    lat: 38.8409,
+    lng: -84.0950,
+    radius: 40,
+    short: "A stone in South Park says, our gift to the village, lest we forget. The Stevens family committee put it up in 2002. The page puts it at Old Bullskin Trail, which is State Route 133, and Light Street, and it also prints 718 North Market Street. I will not make Market and the Bullskin one name. I will not read the names. An honor roll for 1918 is a different stone. I have not read it. There is still no battle on the plat. This pin is the 2002 stone. The next place, when you want it, is Fletcher.",
+    long: "",
+    names: ["Felicity"]
+  },
+
+  {
+    id: "fletcher-cemetery",
+    name: "One Hundred Dollars an Acre",
+    lat: 40.1473,
+    lng: -84.1112,
+    radius: 40,
+    short: "A burial index says the townsfolk met in the Presbyterian church in 1861 and bought five acres in the southwest corner of the James Sims farm, at one hundred dollars an acre. The first sexton was Henry A. Kephart, in 1862. The index prints 8245 Casstown-Fletcher Road. Another page says the north end of Walnut Street. A third says two hundred feet north of State Route 36. I will not make those one corner. The board's president is printed Dukemaneer. The store card spells him Dukemineer. I will not pick. By 1950 a sesquicentennial page counts eighteen acres. I will not read the stones. A summary says Albert B. Graham is buried here. I do not have his years on that page. This pin is the index's point. Not the elevator.",
+    long: "",
+    names: ["Fletcher Cemetery"]
+  },
+
+  {
+    id: "fletcher-methodist",
+    name: "Now a Parking Lot",
+    lat: 40.1410,
+    lng: -84.1110,
+    radius: 40,
+    short: "A 1950 page says that in 1825 Alexander Oliver gave a tract to the first Methodist church for a burying ground, at Church and Main. It says the place is a parking lot now. In 1901 a third church went up, and the remains were moved to the cemetery on the other card. A Presbyterian yard, from 1843, is the other old ground. Levi Munsell, a Revolutionary soldier, was buried there in 1849. I will not move him. A later summary will not date that second yard more tightly than sometime between 1845 and 1870. I will not average that with 1843. I do not have the parking lot's own stake. This pin is the village. Not the lot. The next place, when you want it, is Flushing.",
+    long: "",
+    names: ["Fletcher"]
+  },
+
+  {
+    id: "flushing-museum",
+    name: "Not an Inventory",
+    lat: 40.1488,
+    lng: -81.0632,
+    radius: 40,
+    short: "The approach will not tell you what is inside the museum. A tourism page says Dr. John Mattox and his wife Rosalind founded it in 1993, at 121 High Street. Another page prints 121 East High. I will not pick. A 2026 report says the last program at this location was coming, and that the museum would move to the Black Horse Inn in Morristown in the fall. I will not tell you whether the door is still open, and I will not count the collection. A director says eight thousand items and more. That is her figure. This pin is the street. Not a case.",
+    long: "",
+    names: ["John Mattox"]
+  },
+
+  {
+    id: "flushing-friends",
+    name: "About Eighteen Ten",
+    lat: 40.1496,
+    lng: -81.0562,
+    radius: 40,
+    short: "A marker at East High and Black Oak, the address printed as 375 on the state route, says the Friends cemetery was established about 1810. The tourism page says the Society of Friends was established here in 1818. I will not make those one year. The meeting house stood where trailers are parked now, and it burned in 1960. The burial list is in a vault at Olney Friends School. Early graves often have no stone. The Methodist yard on Northwest Street is the other card. I will not fold them. Sara Ann Foulke is on the list. I will not make her Jesse. I will not read the rest. This pin is the Friends yard. Not the railroad.",
+    long: "",
+    names: ["Flushing Friends Cemetery"]
+  },
+
+  {
+    id: "flushing-litten",
+    name: "One Hundred Thirty-Seven Years",
+    lat: 40.1511,
+    lng: -81.0434,
+    radius: 40,
+    short: "A marker on the state route, the address printed as 72810, says it is the home of the Litten brothers, and that they served one hundred thirty-seven years in the Air Force. It names John, David, Jerry Kenneth, Larry, Arthur, and Steve. I will not add the years up to check the total, and I will not give them ranks the stone does not. A Civil War memorial and a veterans memorial sit farther along the same road. I have not read them. There is still no battle on the plat. This pin is the brothers' stone. The next place, when you want it, is Forest.",
+    long: "",
+    names: ["Litten"]
+  },
+
+  {
+    id: "forest-mary",
+    name: "Gormley, or Gromley",
+    lat: 40.7987,
+    lng: -83.5078,
+    radius: 40,
+    short: "A stone at South Mary and East Hueston, the address printed as 311 South Mary, says it is in honor of all veterans of all wars. V.F.W. Post 1182 put it up. The photograph is captioned Gromley Park Entrance. The highway card spells the park Gormley, and it will not glue the park to the man who platted the town. I will not pick the spelling. About three hundred feet off, the page says, are Civil War-era Rodman cannons given to the village in 1906 by a G.A.R. post. I will not make 1906 into 1865. This pin is the stone. Not the cannons.",
+    long: "",
+    names: ["Forest"]
+  },
+
+  {
+    id: "forest-lima-stone",
+    name: "The Roll I Will Not Read",
+    lat: 40.8019,
+    lng: -83.5139,
+    radius: 40,
+    short: "A second stone stands on West Lima Street. It carries names, ranks, and dates, from the Civil War through the second war. I will not read them. The Mary Street card is the other stone. I will not stack them, and I will not make either one a battle on the plat. The library is already at 102 West Lima. This pin is not that door. The next place, when you want it, is Fort Jennings.",
+    long: "",
+    names: ["Forest"]
+  },
+
+  {
+    id: "fort-jennings-1976",
+    name: "September, and October",
+    lat: 40.9031,
+    lng: -84.2980,
+    radius: 40,
+    short: "A stone on State Route 189, east of Water Street, says the fort was erected in September and October of 1812 by the Second Regiment of Kentucky militia, commanded by Lieutenant Colonel William Jennings. The Water Street marker says the post was finished in October. I will not make the two months one month. The same stone names later commanders, Lieutenant Colonel J. B. Campbell early in 1813, and Captain Van McHenry on March 2, 1813. I will not make them Jennings. It calls itself a bicentennial project of September 1976. This pin is not Water Street, and it is not Fourth Street. I still will not pick a corner for the fort.",
+    long: "",
+    names: ["William Jennings"]
+  },
+
+  {
+    id: "fort-jennings-1942",
+    name: "Seven, and Twelve",
+    lat: 40.9050,
+    lng: -84.2963,
+    radius: 40,
+    short: "The two-markers card would not tell the nearby stones. One of them says that on September 26, 1942, a B-26B heading from Fort Wayne to Presque Isle crashed in a field just outside the village. All seven of the crew were killed, and their bodies were never recovered. I will not name them, and I will not finish a sentence the page cuts off. Another plaque, at the address printed as 300 North Water, is for twelve unknown soldiers of the War of 1812. A note says they were buried just outside the fort. I will not finish that plaque either. A stone at 280 North Water says you are not forgotten. The photograph beside it is captioned Memorial Hall. I still will not tell you the building. This pin is the cluster. The next place, when you want it, is Fort Loramie.",
+    long: "",
+    names: ["Fort Jennings"]
+  },
+
+  {
+    id: "fort-loramie-1812",
+    name: "Not This Street",
+    lat: 40.3512,
+    lng: -84.3748,
+    radius: 40,
+    short: "A marker at 30 West Main says Pierre Lorimier died in 1812, and that Charlotte died in 1808. It says he buried her first, in a cemetery he set aside, and that he lies beside her in the Old Lorimier Cemetery. The page prints the Missouri town as Cape Giardeau, and it spells him Peirre. I will not repair either. I will not put her grave on Elm Street. The store card will not make him a priest, and it will not pick a verb. This marker puts the old post about a quarter mile north. The fort card says half a mile, and it says the ground is a Furrow farm and that nothing remains. The marker says Fleckenstein Farm, and that cannonballs still surface. I will not average the distance, and I will not sand those two sentences. This pin is the marker. Not a wall.",
+    long: "",
+    names: ["Pierre Lorimier"]
+  },
+
+  {
+    id: "fort-loramie-old-yard",
+    name: "Apparently the Eighteen Forties",
+    lat: 40.3490,
+    lng: -84.3696,
+    radius: 40,
+    short: "A grave directory puts the old Saint Michael's cemetery behind the church, at 33 Elm Street, on the north side of the state route. It says the earliest burials apparently occurred in the eighteen forties, and that the last was about 1960. Apparently, and about, stay. The Berlin card already says the brick church was rebuilt in 1881. I will not tell it again. A newer Saint Michael's yard sits farther off. Furrow Cemetery is another one. I will not fold them. I do not have the gate's own point. This pin is not the door.",
+    long: "",
+    names: ["Saint Michael Cemetery"]
+  },
+
+  {
+    id: "fort-loramie-post",
+    name: "Dedicated to Our Veterans",
+    lat: 40.3361,
+    lng: -84.3748,
+    radius: 40,
+    short: "A stone at South Main and Schlater Road, the address printed as 500 South Main, says dedicated to our veterans. Post 355 put it up. That is the line. I will not read a roll it does not give me. Another monument, at North Main and Park Street, was dedicated on May 1, 2016, a few steps from the death marker. I will not read the donors on the back. The fort card is the war of 1812. This pin is the south stone. The next place, when you want it, is Fort Recovery.",
+    long: "",
+    names: ["Fort Loramie"]
+  },
+
+  {
+    id: "fort-recovery-shaft",
+    name: "Ninety-Three, or a Hundred and One",
+    lat: 40.4132,
+    lng: -84.7759,
+    radius: 40,
+    short: "The shaft stands in Monument Park, at Butler Street and North Elm. The south face says Congress erected it in 1912. A village page says it is one hundred one feet tall, and a replica of the shape of the monument in Washington. A marker page says the stone itself is ninety-three feet, and that from the foundation to the top is one hundred one feet and four inches. Another page says the obelisk went up in 1913. I will not average them, and I will not put the Washington monument in Mercer County. The village page says the graves number nine hundred. A note says an estimated twelve hundred. I will not count them. Richard Butler was born on July 1, 1743, and died on November 4, 1791. His bones were found in 1872, buried on July 4, 1876, and moved with the rest. I will not read the roll. This pin is the shaft. Not a bed.",
+    long: "",
+    names: ["Richard Butler"]
+  },
+
+  {
+    id: "fort-recovery-arch",
+    name: "Those That Served",
+    lat: 40.4133,
+    lng: -84.7764,
+    radius: 40,
+    short: "An arch at 105 North Elm says it is in memory of those that served, died, or are missing, in the second war, Korea, and Vietnam. The line is printed that way. I will not repair it. The Legion and a V.F.W. post put it up in 1998. It stands within shouting distance of the shaft. I will not make them one stone. Pioneer Cemetery held the older bones before they were moved. I do not have that gate. The next place, when you want it, is Frankfort.",
+    long: "",
+    names: ["Fort Recovery"]
+  },
+
+  {
+    id: "frankfort-stone-river",
+    name: "Stone, or Stones",
+    lat: 39.3992,
+    lng: -83.1796,
+    radius: 40,
+    short: "A memorial stands in the old Methodist cemetery, at the corner of Walnut Street and Anderson Avenue. The north face says it is in memory of the gallant dead who fell at the Battle of Stone River. A Chillicothe paper writes Stones River, and it spells the burying reinternment. I will not pick the battle's name, and I will not repair the paper. I will not read the names on the stone. The day in the paper is a line the type broke. I will not invent it. The Springfield Street marker is the plat. This pin is the cemetery. The next place, when you want it, is Fredericksburg.",
+    long: "",
+    names: ["Frankfort"]
+  },
+
+  {
+    id: "fredericksburg-yards",
+    name: "East Side, and West",
+    lat: 40.6778,
+    lng: -81.8708,
+    radius: 40,
+    short: "A county history says the Fredericksburg Cemetery Association was organized on November 16. The year on the scan is a digit the type broke. I will not repair it. It says the ground is fifteen acres on the hill east of town, bought from V. Menuez, and that Margaret Cramer was the first person buried there. I do not have her day. A second yard sits on the north side of Harrison Road, at the west edge of the village. A monument in Wooster lists James Hutchison and William McCaughey on the east side, and Isaac Munson on the west. I will not move that stone, and I will not give them ranks. I do not have either gate. This pin is not a grave. The next place, when you want it, is Fredericktown.",
+    long: "",
+    names: ["Fredericksburg"]
+  },
+
+  {
+    id: "fredericktown-clock",
+    name: "Sixteen Feet, or Seventeen",
+    lat: 40.4812,
+    lng: -82.5430,
+    radius: 40,
+    short: "The old card would not tell you Webb C. Ball's life. A marker prints his years as 1847 to 1922, and says he was from this area. It says the clock weighs twenty-five hundred pounds, is sixteen feet tall, and was cast in 1896. The same marker says it sat outside his store from 1886. I will not make 1886 and 1896 the same year. The historical society says the clock is seventeen feet tall, in front of the municipal building. I will not average the height, and I will not pick the sidewalk. I will not tell you the wreck at Kipton beyond the sentence that put him to work on railroad time. This pin is the marker. Not a watch.",
+    long: "",
+    names: ["Webb C. Ball"]
+  },
+
+  {
+    id: "fredericktown-tuttle",
+    name: "Eighteen Forty, or Eighteen Forty-Six",
+    lat: 40.4824,
+    lng: -82.5420,
+    radius: 40,
+    short: "A house at 33 East College Street carries two dates. One plaque says built in 1846. Another says about 1840. It was entered on the national register in 1976, for S. S. Tuttle. I will not average the years. Down the same street, at 16 East College, a theatre opened in 1917. John Jones named it for his son Neil, who died in the flu of 1918. It closed in 1954. I will not make the house and the theatre one building, and I will not tell you the epidemic. This pin is the house.",
+    long: "",
+    names: ["S. S. Tuttle"]
+  },
+
+  {
+    id: "fredericktown-blockhouse",
+    name: "The War Has a Name",
+    lat: 40.4776,
+    lng: -82.5474,
+    radius: 40,
+    short: "The charter card would not guess which war used the blockhouse. The historical society's page names the War of 1812, and says the place then had nine log cabins and one frame building. After the war the blockhouse was a school and a church. A tour page puts the first store, the frame one, where the Methodist church stands now. I will not make the church and the store the same walls. I do not have the logs. This pin is not the blockhouse. The next place, when you want it, is Freeport.",
+    long: "",
+    names: ["Fredericktown"]
+  },
+
+  {
+    id: "freeport-the-son",
+    name: "Not the Man Who Went West",
+    lat: 40.2118,
+    lng: -81.2694,
+    radius: 40,
+    short: "The house card says Daniel Easley built the walls and later laid out a Freeport in Illinois. A grave page prints a Daniel Weldon Easley, born June 2, 1800, in Lynchburg, and dead on August 5, 1825, in Harrison County, aged twenty-five. He is the son of Daniel Weldon and Edith Anderson. A boy born in 1800 did not settle this site about 1804. I will not make them one man. The page says a Quaker record buries him in a small yard next to the town cemetery. I do not have either gate, and I will not move the Flushing meeting here. I still will not invent the battle that killed John Reaves. This pin is not a grave. The next place, when you want it, is Fultonham.",
+    long: "",
+    names: ["Daniel Easley"]
+  },
+
+
 
 
 

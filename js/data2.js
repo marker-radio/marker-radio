@@ -8112,8 +8112,7 @@ STORIES.push(
     lat: 39.2185,
     lng: -81.8005,
     radius: 40,
-    short: "The census table starts at 334 in 1870. It is 443 in 1960, 672 in 1970, 663 in 1990, and 454 in 2020. I will not explain the jump. The estimate for 2023 is 445. There is no battle in the record I will use. Two names sit earlier in the alphabet than this one, Coal Grove and Coalton. I passed them. The next new
-name, when you want it, is Corning.",
+    short: "The census table starts at 334 in 1870. It is 443 in 1960, 672 in 1970, 663 in 1990, and 454 in 2020. I will not explain the jump. The estimate for 2023 is 445. There is no battle in the record I will use. Two names sit earlier in the alphabet than this one, Coal Grove and Coalton. I passed them. The next new name, when you want it, is Corning.",
     long: "",
     names: ["Coolville"]
   },

@@ -23860,6 +23860,201 @@ STORIES.push(
     names: ["Lewisburg"]
   },
 
+  {
+    id: "approach-lewistown",
+    name: "Lewistown",
+    lat: 40.4310,
+    lng: -83.8847,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Lewistown, the unincorporated census place in central Washington Township, Logan County. Not Bellefontaine. Not Indian Lake, which is nearby. Nearby stays. The page also prints Lewis Town, and Lewiston. I will not make them one name. If you stay on the road, I'll start at the reservation.",
+    long: "",
+    names: ["Lewistown"]
+  },
+  {
+    id: "lewistown-1829",
+    name: "Also",
+    lat: 40.4239,
+    lng: -83.8847,
+    radius: 40,
+    short: "The encyclopedia says that until 1829 this was a Shawnee reservation, also called Lewistown, named after Captain John Lewis. Until stays. Also stays. A history line says primarily Seneca and Shawnee. Primarily stays. I will not drop either nation. A marker says 1831, and 1832. I will not average the years. It prints forty thousand three hundred acres, and also forty-eight square miles. I will not average them. The creek is spelled two ways. I will not average them. The census says two hundred two people in 2020. A page says two hundred twenty-two in 2010. I will not average them. One height is one thousand four feet. Another is one thousand eighteen. I will not average them. The picture is the post office. This pin is the census place.",
+    long: "",
+    names: ["Lewistown"]
+  },
+  {
+    id: "lewistown-near",
+    name: "Near This Spot",
+    lat: 40.4234,
+    lng: -83.8839,
+    radius: 40,
+    short: "A marker says a council house stood near this spot, twenty by forty feet, without a floor, windows, or a chimney. Near stays. Without stays. Later it became the reservation house. Later stays. I will not move the marker, or the lake, or the university the treaty also names. The first house is in quotes, in the \"village\". The quotes stay. There is no person with years, and no battle. The next place, when you want it, is Lewisville.",
+    long: "",
+    names: ["Lewistown"]
+  },
+
+  {
+    id: "approach-lewisville",
+    name: "Lewisville",
+    lat: 39.7750,
+    lng: -81.2183,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Lewisville, the village in Summit Township, northwestern Monroe County. Not Woodsfield. One road is just north of the center. Just stays. Another goes through it. A page says the place was not even platted until June of 1837. Not even stays. If you stay on the road, I'll start at that month.",
+    long: "",
+    names: ["Lewisville"]
+  },
+  {
+    id: "lewisville-1837",
+    name: "Might Consider",
+    lat: 39.7669,
+    lng: -81.2183,
+    radius: 40,
+    short: "A page about another city says this town was not even platted until June 1837. Not even stays. I will not add a day, and I will not move that city's story. A directory says it does not have a founding date, and that you might consider an office that opened in 1841. Might stays. I will not make the office the plat. The census says one hundred eighty-four people in 2020. The table skips 1860 and 1890. I will not fill them. The village is thirty-seven hundredths of a square mile, all land. A children's page says about that. About stays. It is one thousand two hundred twenty-four feet up. I did not see a second height. The picture is from Back Street. The sound is printed LEW-us-vil. This pin is the village.",
+    long: "",
+    names: ["Lewisville"]
+  },
+  {
+    id: "lewisville-street",
+    name: "Not Even",
+    lat: 39.7664,
+    lng: -81.2175,
+    radius: 40,
+    short: "The picture is an overview from Back Street. I do not have a building's year. Quiet stays. Friendly stays. I will not measure them. I will not move Summerfield, or Miltonsburg, or Stafford, or the other places of this name. There is no person with years, no yard, no nation, and no battle. The next place, when you want it, is Lexington.",
+    long: "",
+    names: ["Lewisville"]
+  },
+
+  {
+    id: "approach-lexington",
+    name: "Lexington",
+    lat: 40.6870,
+    lng: -82.5786,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Lexington, the village along the Clear Fork, in Troy Township and in Washington Township, Richland County. Not Mansfield. A page spells the water as one word. I will not average them. The name remembers a fight in Massachusetts. I will not move it. If you stay on the road, I'll start at the year.",
+    long: "",
+    names: ["Lexington"]
+  },
+  {
+    id: "lexington-1812",
+    name: "Aril",
+    lat: 40.6794,
+    lng: -82.5786,
+    radius: 40,
+    short: "The box says founded in 1812. One page says Amariah Watson Jr. Another drops the Jr. I will not average them. I do not have his years. The name was out of respect for a father, and for a battle in Massachusetts. Out of respect stays. A 1903 page says the first blood was shed, and it prints Aril 19,1775. I will not repair Aril. I will not move the fight. In 1839 the place was recognized by the federal government. Recognized stays. Another page says incorporated. I will not average the verbs. The census says four thousand eight hundred forty-eight people in 2020. The box says four and eight hundredths of a square mile. The geography line says three and eighty-one hundredths, all land. I will not average them. The village is one thousand one hundred eighty-four feet up. The picture is the main street, in 2007. This pin is the village.",
+    long: "",
+    names: ["Lexington"]
+  },
+  {
+    id: "lexington-rail",
+    name: "But Little, If Any",
+    lat: 40.6789,
+    lng: -82.5778,
+    radius: 40,
+    short: "One page says the railroad came through in 1850, and the place was booming. Booming stays. A 1903 page says the road skirts the north line, and the town was but little, if any, affected. If any stays. Skirts stays. I will not average them. Most of the old mills burned, at one time or another. Most stays. The cemetery was fenced in 1857, for a more safe rest. More safe stays. I will not move Massachusetts, or Mansfield. There is no person with years, and no nation. The next place, when you want it, is Limaville.",
+    long: "",
+    names: ["Lexington"]
+  },
+
+  {
+    id: "approach-limaville",
+    name: "Limaville",
+    lat: 40.9920,
+    lng: -81.1483,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Limaville, the census place in Lexington Township, Stark County. Not the village of Lexington. Not Alliance. The encyclopedia says it is a former village. Former stays. A 2018 paper says the voters will decide. Will stays. I will not invent the day. If you stay on the road, I'll start at the office.",
+    long: "",
+    names: ["Limaville"]
+  },
+  {
+    id: "limaville-1839",
+    name: "Might Consider",
+    lat: 40.9844,
+    lng: -81.1483,
+    radius: 40,
+    short: "A directory says it does not have a founding date, and that you might consider an office that opened in 1839. Might stays. I will not make that the plat. The census says one hundred fifty-one people in 2010, and the same number in 2020. The change is printed as zero. A directory says one hundred forty-four, and it prints an population. I will not repair an. A paper says about one hundred fifty. About stays. I will not average them. The box says twenty-six hundredths of a square mile. The geography line says twenty-eight. I will not average them. One height is one thousand eighty-six feet. Another is one thousand eighty. A data page says three hundred twenty-three metres, plus or minus one. I will not average them. The picture is the post office. One page prints LY-mə-vil. Another prints LEYE-muh-vil. I will not average the sounds. This pin is the census place.",
+    long: "",
+    names: ["Limaville"]
+  },
+  {
+    id: "limaville-former",
+    name: "Will Decide",
+    lat: 40.9839,
+    lng: -81.1475,
+    radius: 40,
+    short: "In 2015 the paper says the village remained intact, twenty-nine to twenty-three. Intact stays. In 2018 it says the voters will decide again. Will stays. Again stays. I will not invent the result. The encyclopedia says former. Former stays. A man is quoted. The place can't maintain itself. Can't stays. Anymore stays. I will not make under attack a battle. I will not move Alliance, or the village of Lexington. There is no person with years, no yard, and no nation. The next place, when you want it, is Lincoln Heights.",
+    long: "",
+    names: ["Limaville"]
+  },
+
+  {
+    id: "approach-lincoln-heights-richland",
+    name: "Lincoln Heights",
+    lat: 40.7750,
+    lng: -82.4794,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Lincoln Heights, the unincorporated census place in Madison Township, Richland County. Not Mansfield, which is on the west line. Not the village of this same name. That one is later. I will not move its story. This place was first listed prior to the 2020 census. Prior stays. If you stay on the road, I'll start at the listing.",
+    long: "",
+    names: ["Lincoln Heights"]
+  },
+  {
+    id: "lincoln-heights-richland-2020",
+    name: "Prior To",
+    lat: 40.7672,
+    lng: -82.4794,
+    radius: 40,
+    short: "The encyclopedia says it was first listed as a census place prior to 2020. Prior stays. I do not have a plat. The census on that page says one thousand thirty-nine people. Another page says the census recorded eight hundred sixty-seven, and that the place decreased by a minus. I will not drop the minus, and I will not average the counts. The box says fifty-three hundredths of a square mile. Another page prints a longer number. I will not average them. The box prints one thousand two hundred seventy feet, and also three hundred ninety meters. I will not make them one height. The postal code has Mansfield in parentheses. I will not invent an office. The list's point and this page's point do not sit together. I will not average them. The picture is a location. This pin is the census place.",
+    long: "",
+    names: ["Lincoln Heights"]
+  },
+  {
+    id: "lincoln-heights-richland-edge",
+    name: "The Edge",
+    lat: 40.7667,
+    lng: -82.4786,
+    radius: 40,
+    short: "Ashland Road forms the northwestern edge. Forms stays. Wooster Road, the former U.S. 30, forms the south edge. Former stays. I will not move Mansfield, or Wooster Heights, or East Mansfield, or Ashland, or Wooster, or Perrysville. There is no person with years, no yard, no building I can date, no nation, and no battle. The next place, when you want it, is Lincoln Heights, the village. I will not move it here.",
+    long: "",
+    names: ["Lincoln Heights"]
+  },
+
+  {
+    id: "approach-lincoln-heights",
+    name: "Lincoln Heights",
+    lat: 39.2520,
+    lng: -84.4567,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Lincoln Heights, the village in Hamilton County. Not Cincinnati. Not the census place of this same name, in Richland County. I will not move it. The encyclopedia says the nineteen twenties. A village page says 1923. I will not make them one year. If you stay on the road, I'll start at the lots.",
+    long: "",
+    names: ["Lincoln Heights"]
+  },
+  {
+    id: "lincoln-heights-1946",
+    name: "Ten Percent",
+    lat: 39.2447,
+    lng: -84.4567,
+    radius: 40,
+    short: "The encyclopedia says it was founded in the nineteen twenties, and incorporated in 1946. A village page says the lots were sold in 1923, and that the village incorporated in 1946. A magazine says 1947. I will not average 1946 and 1947. A page says December 28. I will not add the day where it is not printed. The county allowed ten percent of the first proposal. Ten percent stays. Another page says approximately two tenths of a square mile. Approximately stays. I will not average that with the present seventy-four hundredths. The census says three thousand one hundred forty-four people in 2020. A survey says three thousand one hundred twenty-four. I will not average them. One height is six hundred sixty-nine feet. Another page says the elevations average six hundred four. Average stays. I will not average them. The picture is houses on Steffen Avenue. The list's point and this page's point do not sit together. This pin is the village.",
+    long: "",
+    names: ["Lincoln Heights"]
+  },
+  {
+    id: "lincoln-heights-soweto",
+    name: "In Time",
+    lat: 39.2442,
+    lng: -84.4559,
+    radius: 40,
+    short: "A magazine says they did not save a house in time, and the neighbors rebuilt it. In time stays. The same page quotes \"America's Soweto.\" The quotes stay. Primitive stays. In 2015 it says the place is in crisis. Crisis stays. The village page says the wealth cannot be measured in money. Cannot stays. A man is called a member of the Tuskegee Airmen. I will not invent a battle. I will not move the plants, or Cincinnati, or the other Lincoln Heights. There is no person with years, and no nation. The next place, when you want it, is Lincoln Village.",
+    long: "",
+    names: ["Lincoln Heights"]
+  },
+
+
+
+
 
 
 

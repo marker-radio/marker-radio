@@ -21813,6 +21813,326 @@ STORIES.push(
   },
 
 
+  {
+    id: "approach-ithaca",
+    name: "Ithaca",
+    lat: 39.9460,
+    lng: -84.5533,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Ithaca, the village in Twin Township, Darke County. Not Greenville. It was platted as Twinsborough. The present name was brought from Ithaca, New York. I will not move New York. If you stay on the road, I'll start at the plat.",
+    long: "",
+    names: ["Ithaca"]
+  },
+  {
+    id: "ithaca-1832",
+    name: "Twinsborough",
+    lat: 39.9383,
+    lng: -84.5533,
+    radius: 40,
+    short: "The encyclopedia says John Colville platted Ithaca in 1832 and named it Twinsborough. A local society says four streets and twenty-four lots, twelve on each side of Main, which is now State Route 503. I do not have his years. The present name is a transfer from New York. The page does not say when. An old road and the Ohio Electric Railway made it grow rapidly. Rapidly stays. I do not have the railway's year. The census says eighty-one people in 2020. The picture is the sign from the north. The township house, now the village office, was sold for one dollar. I do not have the year. It holds a bucket wagon used between 1840 and 1942. Between stays. This pin is the village.",
+    long: "",
+    names: ["Ithaca"]
+  },
+  {
+    id: "ithaca-cemetery",
+    name: "So the Story Goes",
+    lat: 39.9378,
+    lng: -84.5525,
+    radius: 40,
+    short: "The oldest stone in the cemetery says Richard Robbins died on March 7, 1825, aged forty-four years, seven months, and fourteen days. He was a soldier of the War of 1812. The society says he was most likely buried elsewhere and moved later. Most likely stays. I will not turn the age into a birthday, and I will not invent the battle. John Colville and his wife Dicea are here. I do not have their years. William Gunder, who founded Arcanum, is here too. I will not move Arcanum. The alleys are named for birds because Richard McCoy was a bird lover, so the story goes. So the story goes stays. The Thomas store opened in 1859. I will not start a war from that sentence. There is still no nation. The next place, when you want it, is Jackson.",
+    long: "",
+    names: ["Ithaca"]
+  },
+
+  {
+    id: "approach-jackson",
+    name: "Jackson",
+    lat: 39.0480,
+    lng: -82.6292,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Jackson, the county seat of Jackson County. Not Chillicothe. The county is 1816. The town is 1817. It was Salt Lick, and then Jackson Court-House. I will not make those one year. If you stay on the road, I'll start at the salt.",
+    long: "",
+    names: ["Jackson"]
+  },
+  {
+    id: "jackson-1817",
+    name: "Salt Lick",
+    lat: 39.0403,
+    lng: -82.6292,
+    radius: 40,
+    short: "A chamber page says the county was organized on March 1, 1816, and named for General Andrew Jackson. A county history says Section 29 of the Scioto Salt Reserve was given for the seat in 1817. The encyclopedia says the town was established that year, and named for him, a hero of the War of 1812 and an eventual president. Eventual stays. I will not move him, and I do not have his years. The older name was Salt Lick, then Jackson Court-House. In that time stays. A resolution of January 3, 1818, said the salt water was not of a sufficient quality. Sufficient stays. A report filed in 1826 says the making of salt had been entirely abandoned. Entirely stays. I will not make those one year. This pin is the city.",
+    long: "",
+    names: ["Jackson"]
+  },
+  {
+    id: "jackson-tower",
+    name: "Thirty Each",
+    lat: 39.0398,
+    lng: -82.6284,
+    radius: 40,
+    short: "The picture is the apple water tower. I do not have its year. In 1886 the Star Furnace and the Globe Iron Company each had thirty workers, using local coal and local iron. Each stays. In 1846 there were about seven stores. About stays. The older copy says approximately. I will not average the words. The box says nine and thirty-one hundredths of a square mile. The geography line says eight and forty-nine hundredths. The water agrees. I will not average the rest. The page names three parks and does not date them. I will not turn McKinley Park into a man. A plant in nearby Wellston is not this street. Nearby stays. There is still no person with years, no nation, and no battle. The next place, when you want it, is Jackson Center.",
+    long: "",
+    names: ["Jackson"]
+  },
+
+  {
+    id: "approach-jackson-center",
+    name: "Jackson Center",
+    lat: 40.4460,
+    lng: -84.0411,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Jackson Center, the village in Jackson Township, Shelby County, north of Sidney. Not the city of Jackson. One page says the plat was January 14, 1835. The village page says May 4. I will not average them. If you stay on the road, I'll start at the plat.",
+    long: "",
+    names: ["Jackson Center"]
+  },
+  {
+    id: "jackson-center-1835",
+    name: "January, or May",
+    lat: 40.4386,
+    lng: -84.0411,
+    radius: 40,
+    short: "The encyclopedia says Jackson Center was platted in 1835, and that the post office has been open since 1858. The village page says it started on May 4, 1835, with twenty-four lots. A newspaper says James Wells platted it on January 14, 1835, for Calvin Davis. I will not average the days. The paper says the first office was in 1860, with E. Stout. I will not average 1858 and 1860. I do not have their years. It was incorporated on November 7, 1894. The first council met on April 9, 1895. The paper says the Davis family is to be considered the founding family. To be considered stays. The picture is Pike Street, west of Main. This pin is the village.",
+    long: "",
+    names: ["Jackson Center"]
+  },
+  {
+    id: "jackson-center-airstream",
+    name: "Remains the Only",
+    lat: 40.4381,
+    lng: -84.0403,
+    radius: 40,
+    short: "The newspaper says this remains the only village in the state founded for religious freedom, and that the family was then the furthest west of the Seventh Day Baptists. Remains stays. Furthest stays. The encyclopedia does not say it. I will not make the pages one claim. The Methodist church is 1838 on both pages, and they do not use the same name. I will not repair it. Airstream trailers have been made here since 1952. The first mill was a horse mill, because that part of the township had no usable water. There is still no person with years, no nation, and no battle. The next place, when you want it, is Jacksonburg.",
+    long: "",
+    names: ["Jackson Center"]
+  },
+
+  {
+    id: "approach-jacksonburg",
+    name: "Jacksonburg",
+    lat: 39.5460,
+    lng: -84.5033,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Jacksonburg, the village in Wayne Township, Butler County. Not Hamilton. One page says it was founded on February 16, 1816. A county history says it was laid out on February 19. I will not average them. If you stay on the road, I'll start at the square.",
+    long: "",
+    names: ["Jacksonburg"]
+  },
+  {
+    id: "jacksonburg-1816",
+    name: "The Sixteenth, or the Nineteenth",
+    lat: 39.5383,
+    lng: -84.5033,
+    radius: 40,
+    short: "The encyclopedia says Jacksonburg was founded on February 16, 1816, and named for General Andrew Jackson, afterward the seventh president. Afterward stays. I will not move him, and I do not have his years. A county history says Baird, Craig, and Weaver laid it out on February 19. I will not average the days. A file says incorporated in 1835, and also calls the place unincorporated. I will not make those one word. It also prints Jacksonboro, Jacksonborough, and Jacksonburgh. I will not make them this name. The first postmaster it lists is William Phares, on June 29, 1818. I do not have his years. The census says fifty-five people in 2020. A rebased row prints fifty-three. I will not average them. This pin is the village.",
+    long: "",
+    names: ["Jacksonburg"]
+  },
+  {
+    id: "jacksonburg-square",
+    name: "A Full Thirty Years",
+    lat: 39.5378,
+    lng: -84.5025,
+    radius: 40,
+    short: "John Baird took fifty acres up to the southeast corner of the square, built the tavern, and kept it for a full thirty years. Full stays. I will not turn that into a date, and I will not say the tavern is standing. At one time there were two hotels, four stores, and a pork house. At one time stays. The history says the town was once the most important for miles on that side of the Miami, before the bridge at Middletown. Once stays. I will not move the river, or the city. General Wayne's march was through the west of the township in 1794. I will not move it onto the square. There is still no person with years, no nation, and no battle. The next place, when you want it, is Jacksontown.",
+    long: "",
+    names: ["Jacksonburg"]
+  },
+
+  {
+    id: "approach-jacksontown",
+    name: "Jacksontown",
+    lat: 39.9680,
+    lng: -82.4131,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Jacksontown, the census place in Licking Township, Licking County, where the National Road meets State Route 13. Not Newark. It was laid out as Jackson in 1829. The office name came later, because that other Jackson already had the name. If you stay on the road, I'll start at the plat.",
+    long: "",
+    names: ["Jacksontown"]
+  },
+  {
+    id: "jacksontown-1829",
+    name: "The Other Jackson",
+    lat: 39.9606,
+    lng: -82.4131,
+    radius: 40,
+    short: "The encyclopedia says Jacksontown was first called Jackson, and was laid out under that name in 1829. A township page says Thomas Harris laid out seventy-eight lots, and named it for Andrew Jackson. I do not have his years, and I will not move him. The office was refused because Jackson County already had a Jackson. So the name changed. So stays. I will not move that city. The encyclopedia says the office has been open since 1831. The township page says it opened on October 8, 1831, closed on January 18, 1845, and reopened on January 31. I will not make those one day. A directory says it does not have a founding date. Does not have stays. The census says four hundred two people in 2020. The township page says less than three hundred by 1881. Less than stays. I will not average them. This pin is the census place.",
+    long: "",
+    names: ["Jacksontown"]
+  },
+  {
+    id: "jacksontown-inns",
+    name: "Once",
+    lat: 39.9601,
+    lng: -82.4123,
+    radius: 40,
+    short: "The township page says this was a stage stop on the National Road, with three inns. The Etnier was half a mile west. Half a mile stays. I will not move it onto the crossing. The Headley once hosted Andrew Jackson. Once stays. I will not date the night, and I will not say the inns are standing. A two-story school was used until 1918. Until stays. The churchyard was vacated. Vacated stays. I will not point at it. Carl Osburn was born here. I do not have his years. The box says nine hundred eighty-four feet. A directory says nine hundred ninety. I will not average them. There is still no nation, and no battle. The next place, when you want it, is Jacksonville.",
+    long: "",
+    names: ["Jacksontown"]
+  },
+
+  {
+    id: "approach-jacksonville",
+    name: "Jacksonville",
+    lat: 39.4840,
+    lng: -82.0797,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Jacksonville, the village in Trimble Township, Athens County, along Sunday Creek. Not Athens. Not the Jacksonville in Adams County, and not the president that one was named for. This one was laid out in 1879 for Oliver D. Jackson. If you stay on the road, I'll start at the plat.",
+    long: "",
+    names: ["Jacksonville"]
+  },
+  {
+    id: "jacksonville-1879",
+    name: "Oliver, Not Andrew",
+    lat: 39.4761,
+    lng: -82.0797,
+    radius: 40,
+    short: "The encyclopedia says Jacksonville was laid out in 1879 by Oliver D. Jackson, and named for him. I do not have his years. I will not give him the president's years, and I will not move the Adams County community, or the office there that was later called Dunbarton. A post office began here in 1884 and still serves the village. Still stays. I will not make 1879 and 1884 one year. The census says four hundred people in 2020. The box says twenty-five hundredths of a square mile, with a little water. The geography line says twenty-four hundredths, all land. I will not average them. The box says seven hundred five feet. A map says about six hundred seventy-nine, a short way off. About stays. The picture is Sixth Street, south of Main. This pin is the village.",
+    long: "",
+    names: ["Jacksonville"]
+  },
+  {
+    id: "jacksonville-creek",
+    name: "Several Mines",
+    lat: 39.4756,
+    lng: -82.0789,
+    radius: 40,
+    short: "In its early years the village grew around coal and small businesses. Early stays. Many people went to work along nearby Sunday Creek, which supported several mines. Nearby stays. Several stays. The creek is here. I will not move the mines onto the street. There is still no person with years, no yard, no nation, and no battle. The next place, when you want it, is Jamestown.",
+    long: "",
+    names: ["Jacksonville"]
+  },
+
+  {
+    id: "approach-jamestown",
+    name: "Jamestown",
+    lat: 39.6640,
+    lng: -83.7486,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Jamestown, the village in Greene County. Not Xenia. Parts of it sit in three townships. A survey is dated 1815, and the recording is 1816. The pages do not agree which Browder the name belongs to. If you stay on the road, I'll start at the survey.",
+    long: "",
+    names: ["Jamestown"]
+  },
+  {
+    id: "jamestown-1816",
+    name: "James, or Thomas",
+    lat: 39.6561,
+    lng: -83.7486,
+    radius: 40,
+    short: "The encyclopedia says Jamestown was platted in 1816 and named for Jamestown, Virginia, the native home of a first settler. It does not name him. I will not move Virginia. The village page says it was surveyed in 1815 by Thomas P. Moorman and a Mr. Thomas. A Mr. stays. A 1908 history says it was laid out and recorded in 1816, and named for James Browder. The village page gives the Virginia name to Thomas Browder's native place. I will not average James and Thomas, or 1815 and 1816. Mendenhall had the south side, one hundred fifty acres. The north probably matched it. Probably stays. The census says two thousand fifty-two people in 2020. The village page prints two thousand one hundred fifty-five. I will not average them. The picture is the opera house. I do not have its year. This pin is the village.",
+    long: "",
+    names: ["Jamestown"]
+  },
+  {
+    id: "jamestown-fair",
+    name: "No Evidences",
+    lat: 39.6556,
+    lng: -83.7478,
+    radius: 40,
+    short: "The 1908 history says there are no evidences of a calamity, and it does not say what the calamity was. No evidences stays. I will not supply it. The fair started in 1860 and was soon second only to the state fair. Soon stays. I will not invent the grounds. The earliest mills it can recall are a wool-carding mill and a grist mill. Recall stays. I will not say they are standing. Lake Shawnee is to the east. I will not move it, and I will not make its name a nation. There is still no person with years, and no battle. The next place, when you want it, is Jefferson.",
+    long: "",
+    names: ["Jamestown"]
+  },
+
+  {
+    id: "approach-jefferson",
+    name: "Jefferson",
+    lat: 41.7460,
+    lng: -80.7569,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Jefferson, the county seat of Ashtabula County. Not Cleveland. Gideon Granger founded it in 1803 and never lived here. A cabin came in 1804, and the first family in 1805. I will not make those one year. If you stay on the road, I'll start at the name.",
+    long: "",
+    names: ["Jefferson"]
+  },
+  {
+    id: "jefferson-1803",
+    name: "Philadelphia of the West",
+    lat: 41.7386,
+    lng: -80.7569,
+    radius: 40,
+    short: "The encyclopedia says Gideon Granger, Postmaster General under Thomas Jefferson, officially founded this place in 1803. A local page calls him the postmaster, and says he named it for the president. I will not make those one office. He never lived here. Never stays. He pictured a Philadelphia of the West. The marks stay. I will not move that city. The ground was bought in 1795, when it was still in Trumbull County. I will not move Trumbull. A cabin went up in 1804. The Samuel Wilson family came in 1805. He died after two weeks. Herculean stays. I do not have his years. One page says the county seat was settled in June 1807. The encyclopedia says 1811. I will not average them. The village was incorporated on July 5, 1836. This pin is the village.",
+    long: "",
+    names: ["Jefferson"]
+  },
+  {
+    id: "jefferson-office",
+    name: "The World's Only",
+    lat: 41.7381,
+    lng: -80.7561,
+    radius: 40,
+    short: "One picture is the courthouse. A local page says it was built in 1811, on land Granger gave. The other picture is Joshua Reed Giddings' law office, built in 1823 and since restored. Restored stays. He and Benjamin Wade were abolitionists. I do not have their years, and I will not invent a station. The page says this village has the world's only perambulator museum. World's only stays. The first fair was at the courthouse on October 16, 1846. The grounds it calls present were bought in the early eighteen fifties. Early stays. I will not move the fair. There is still no nation, and no battle. The next place, when you want it, is Jeffersonville.",
+    long: "",
+    names: ["Jefferson"]
+  },
+
+  {
+    id: "approach-jeffersonville",
+    name: "Jeffersonville",
+    lat: 39.6600,
+    lng: -83.5550,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Jeffersonville, the village in Jefferson Township, Fayette County. Not Washington Court House. Not the Jefferson that is a county seat. This one was laid out in 1831, and the office came in 1834. I will not make those one year. If you stay on the road, I'll start at the plat.",
+    long: "",
+    names: ["Jeffersonville"]
+  },
+  {
+    id: "jeffersonville-1831",
+    name: "Since 1834",
+    lat: 39.6522,
+    lng: -83.5550,
+    radius: 40,
+    short: "The encyclopedia says Jeffersonville was laid out in 1831, and that the name comes from Thomas Jefferson, the third president. I do not have his years, and I will not move him, or the other village that uses his name. A post office has been here since 1834. I will not make the plat and the office one year. The page does not name the man who laid out the lots. The census says one thousand two hundred fifty-eight people in 2020. The table skips 1890. I will not fill it. The box says one and seventy-one hundredths of a square mile. The geography line says one and seventy-four. I will not average them. The picture is Main Street, where two state routes run together. I do not have a year for the buildings. This pin is the village.",
+    long: "",
+    names: ["Jeffersonville"]
+  },
+  {
+    id: "jeffersonville-street",
+    name: "No Nation, No Battle",
+    lat: 39.6517,
+    lng: -83.5542,
+    radius: 40,
+    short: "The picture is the only thing on this street I can point at, and it has no year. There is still no person with years, no yard, no nation, and no battle. A census count is not a nation. The next place, when you want it, is Jenera.",
+    long: "",
+    names: ["Jeffersonville"]
+  },
+
+  {
+    id: "approach-jenera",
+    name: "Jenera",
+    lat: 40.9070,
+    lng: -83.7269,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Jenera, the village in Hancock County, surrounded by Van Buren Township. Not Findlay. One page says the plat was 1883. A county museum says 1893, and that the office was already here. I will not average them. If you stay on the road, I'll start at the office.",
+    long: "",
+    names: ["Jenera"]
+  },
+  {
+    id: "jenera-1883",
+    name: "Before There Was a Town",
+    lat: 40.8994,
+    lng: -83.7269,
+    radius: 40,
+    short: "The encyclopedia says Jenera was laid out in 1883, when the railroad arrived, and named for Dr. Amos B. Jenner, the first postmaster. I do not have his years. It says the office has been open since 1883. A county museum says Traucht, Fellers, and Heldman laid out twenty lots in 1893, and incorporated the village on that date. I will not add a day. The museum says the office came before the town, according to the centennial book. Before stays. According to stays. I will not average 1883 and 1893. A directory says the office closed in 1963. The picture still shows a post office. I will not average open and closed. The census says two hundred fifty-seven people in 2020. The box and the geography line do not agree on the kilometers. I will not average them. This pin is the village.",
+    long: "",
+    names: ["Jenera"]
+  },
+  {
+    id: "jenera-germans",
+    name: "Chiefly",
+    lat: 40.8989,
+    lng: -83.7261,
+    radius: 40,
+    short: "The encyclopedia says the place was originally built up chiefly by Germans. Originally stays. Chiefly stays. That is not a nation that was here before the plat. The museum names the Cleveland, Delphos and St. Louis Gauge Railroad. I will not repair the word Gauge, and I will not move those cities. There is still no person with years, no yard, and no battle. The next place, when you want it, is Jeromesville.",
+    long: "",
+    names: ["Jenera"]
+  },
+
 
 
 

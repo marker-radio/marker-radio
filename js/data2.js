@@ -20825,6 +20825,462 @@ STORIES.push(
     names: ["Helena"]
   },
 
+  {
+    id: "approach-hemlock",
+    name: "Hemlock",
+    lat: 39.5980,
+    lng: -82.1544,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Hemlock, the village in Perry County. Not New Lexington. It was Coaldale on June 15, 1869, and Hemlock on July 15, 1872. If you stay on the road, I'll start at those two days.",
+    long: "",
+    names: ["Hemlock"]
+  },
+  {
+    id: "hemlock-1869",
+    name: "Coaldale",
+    lat: 39.5906,
+    lng: -82.1544,
+    radius: 40,
+    short: "The encyclopedia says the place was settled as Coaldale on June 15, 1869, and established as Hemlock on July 15, 1872. The box says incorporated that day. I will not make the two words a second date. It was named for a grove of hemlock trees near the original town site. Near stays. I will not move the grove, and I will not say the trees are still there. The post office was in operation until October 3, 1986. The page does not print the opening. A roadside page says it does not have a founding date, and that you might consider an office opened in 1872. You might consider stays. Another copy says the office lasted into the early two thousands. Early stays. I will not average that with October 3, 1986. The box prints two postal codes, 43743 and then 43730. A map prints a second point, and two pages do not agree on the elevation. I will not average them. There is still no person with years, no yard I will pin, no nation, and no battle. This pin is the village. The next place, when you want it, is Hessville.",
+    long: "",
+    names: ["Hemlock"]
+  },
+
+  {
+    id: "approach-hessville",
+    name: "Hessville",
+    lat: 41.4100,
+    lng: -83.2472,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Hessville, the census place in Washington Township, Sandusky County. Not Fremont, and not Helena. David Hess laid it out in 1837. The post office came much later. If you stay on the road, I'll start at those two years.",
+    long: "",
+    names: ["Hessville"]
+  },
+  {
+    id: "hessville-1837",
+    name: "Eighteen Thirty-Seven, Then Eighteen Eighty-Three",
+    lat: 41.4017,
+    lng: -83.2472,
+    radius: 40,
+    short: "The encyclopedia says Hessville was laid out in 1837 by David Hess, and named for him. I do not have his years. A post office called Hessville opened in 1883 and closed in 1903. I will not make those one year. The page is a stub. The count is one hundred seventy-four, and it prints no other year. A map names Hessville Cemetery, south of this point, and it prints other points for the place. I will not average them, and I will not move the cemetery onto the plat. I do not have the gate. There is still no building I can point at, no nation, and no battle. This pin is the census place. The next place, when you want it, is Hidden Lakes.",
+    long: "",
+    names: ["Hessville"]
+  },
+
+  {
+    id: "approach-hidden-lakes",
+    name: "Hidden Lakes",
+    lat: 40.5560,
+    lng: -82.7633,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Hidden Lakes, the census place in Franklin Township, Morrow County. Not Mount Gilead. The mail uses that town's code. The page has no plat. It was first counted in 2020. If you stay on the road, I'll start at the lake.",
+    long: "",
+    names: ["Hidden Lakes"]
+  },
+  {
+    id: "hidden-lakes-2020",
+    name: "The Box Prints No Water",
+    lat: 40.5481,
+    lng: -82.7633,
+    radius: 40,
+    short: "The encyclopedia says this place corresponds to the Hidden Lakes campground community, and that it was first listed for the 2020 census, with fifty-two residents. Another copy prints sixteen. I will not average them. The box says two hundred fifty-four thousandths of a square mile, and no water. The same page says the community is built around a small artificial lake, at the head of the Kokosing. Small stays. Artificial stays. I will not make the lake and the zero one fact, and I will not move the river. I do not have the year the lake was made. There is no founder, no office of its own, no person with years, no nation, and no battle. This pin is the census place. The next place, when you want it, is Hide-A-Way Hills.",
+    long: "",
+    names: ["Hidden Lakes"]
+  },
+
+  {
+    id: "approach-hide-a-way-hills",
+    name: "Hide-A-Way Hills",
+    lat: 39.6630,
+    lng: -82.4658,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Hide-A-Way Hills, the census place in Fairfield County and in Hocking County. Not Lancaster, and not Logan. It was laid out in 1961 as a gated retreat. The pages do not agree on the acres. If you stay on the road, I'll start at the gate.",
+    long: "",
+    names: ["Hide-A-Way Hills"]
+  },
+  {
+    id: "hide-a-way-hills-1961",
+    name: "Seventeen Thirty, or Sixteen Fifty",
+    lat: 39.6550,
+    lng: -82.4658,
+    radius: 40,
+    short: "The encyclopedia says the place was established in 1961, a gated retreat of permanent houses and vacation houses, on one thousand seven hundred thirty acres. An older copy says one thousand six hundred fifty, and that the company kept the place until 1973. I will not average the acres. The residents made a club in 1972, and on February 21, 1973, the club took ownership. The board has nine members. In March 2004 they bought fifty-four acres next door. Next door stays. About two-thirds of the census place is in Marion Township. About stays. This pin is the census point.",
+    long: "",
+    names: ["Hide-A-Way Hills"]
+  },
+  {
+    id: "hide-a-way-hills-dam",
+    name: "About Five Hundred Thousand",
+    lat: 39.6545,
+    lng: -82.4648,
+    radius: 40,
+    short: "The older page says work on a dam began in 1965, and that it was finished in 1966, at a cost of about five hundred thousand dollars, to make the Lake of the Four Seasons, one hundred ten acres. About stays. It says a marina, a beach, and a playground were built on the north side five years after the dam. Five years stays. I will not do the arithmetic. The current page names five lakes, a nine-hole course, a lodge, a horse barn, and parks inside the club. I will not make five lakes and one lake the same water, and I will not call a private club a public park. Arrowhead, Tomahawk, and Eagle Claw are lakes. I will not make them a nation. There is still no person with years, and no battle. The next place, when you want it, is Higginsport.",
+    long: "",
+    names: ["Hide-A-Way Hills"]
+  },
+
+  {
+    id: "approach-higginsport",
+    name: "Higginsport",
+    lat: 38.7980,
+    lng: -83.9672,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Higginsport, the village in Lewis Township, Brown County, on the Ohio River. Not Georgetown. It was White Haven in 1804, and Higginsport in 1816. If you stay on the road, I'll start at the cabin.",
+    long: "",
+    names: ["Higginsport"]
+  },
+  {
+    id: "higginsport-1804",
+    name: "White Haven",
+    lat: 38.7900,
+    lng: -83.9672,
+    radius: 40,
+    short: "The encyclopedia says Colonel Robert Higgins, an officer of the Revolution, received a thousand acres for his service. I will not fight that war on this street. He moved onto the land in 1799 and built a crude cabin near where the village is now. Near stays. On September 1, 1804, he began to survey a place called White Haven. It was platted and recorded in Williamsburg that same month. Same month stays. I will not move Williamsburg. After a number of years the place was abandoned. A number stays. On February 28, 1816, he laid it out again, one hundred fourteen lots, and named it Higginsport. The streets mostly followed the old lines. Mostly stays. The office opened on January 24, 1829. The postmaster was a Mr. Roberts, the tailor. I do not have his other name, and I do not have the colonel's years. This pin is the village.",
+    long: "",
+    names: ["Higginsport"]
+  },
+  {
+    id: "higginsport-park",
+    name: "Eight Hundred Sixty-Two, or Seven Hundred Sixty-Two",
+    lat: 38.7896,
+    lng: -83.9664,
+    radius: 40,
+    short: "The same pages say Higgins gave the town a small cemetery, and that his wife was the first person buried there. The page does not print her name. He gave land in the center for a park. The village page says it is still there, and named for him. He also gave about fifteen acres on the edge, called White Oak Bottom. About stays. I will not call that a park. In 1883 the place was called a thriving village. Thriving stays. The history says eight hundred sixty-two people in 1880. The table says seven hundred sixty-two, and seven hundred sixty-four in 1890. I will not average them. White burley was first grown near here in 1864, from seed out of Kentucky. Near stays. By the eighteen eighties the economy was largely that crop. Largely stays. The encyclopedia says two million pounds a year went down the river to New Orleans. I will not move that city, and I will not swear the crop if the sentence before it was cut. Two centuries of fires and floods have taken the old houses. Two centuries stays. I will not pick the year. A building at Water and Brown was still standing in 2013. I do not have its name. There is still no nation. The next place, when you want it, is Highland.",
+    long: "",
+    names: ["Higginsport"]
+  },
+
+  {
+    id: "approach-highland",
+    name: "Highland",
+    lat: 39.3520,
+    lng: -83.5975,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Highland, the village in Fairfield Township, Highland County. Not Hillsboro. It was laid out in 1816 under another name. The page does not say when the name changed. If you stay on the road, I'll start there.",
+    long: "",
+    names: ["Highland"]
+  },
+  {
+    id: "highland-1816",
+    name: "Lexington",
+    lat: 39.3444,
+    lng: -83.5975,
+    radius: 40,
+    short: "The encyclopedia says this village was originally called Lexington, and that it was laid out under that name in 1816. I will not move the Lexington in another county. The page does not print who laid it out, or the year the name became Highland, or a post office. The picture is Main Street, looking east, on State Route 28. The count in the table starts in 1880. I will not fill the years before it. The county seat is Hillsboro, and the county's own dates stay on the county. I will not move them. There is still no person with years, no yard, no nation, and no battle. This pin is the village. The next place, when you want it, is Highland Heights.",
+    long: "",
+    names: ["Highland"]
+  },
+
+  {
+    id: "approach-highland-heights",
+    name: "Highland Heights",
+    lat: 41.5600,
+    lng: -81.4781,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Highland Heights, the city in Cuyahoga County. Not Cleveland, and not the village of Highland. It was a village in 1920 and a city in 1967. If you stay on the road, I'll start at those two years.",
+    long: "",
+    names: ["Highland Heights"]
+  },
+  {
+    id: "highland-heights-1920",
+    name: "Village, Then City",
+    lat: 41.5525,
+    lng: -81.4781,
+    radius: 40,
+    short: "The box says the city was founded in 1920 and incorporated in 1967. A county history says it became a village in 1920 and a city in 1967. It had been part of Mayfield Township, formed in 1819. That page says settlement of the township began in 1805, with Rufus Mapes, from New York. I will not move his cabin, or Mayfield Village, or Lyndhurst. The box says five and fifteen hundredths of a square mile. The county history says five and seven tenths. I will not average them. The geography line prints a second point. I will not average that either. The picture is a control tower. I will not move the airfield. This pin is the box.",
+    long: "",
+    names: ["Highland Heights"]
+  },
+  {
+    id: "highland-heights-theater",
+    name: "Two Days Prior",
+    lat: 41.5511,
+    lng: -81.4713,
+    radius: 40,
+    short: "The encyclopedia says the Front Row Theater stood here from 1974 to 1993, and that in 1988 Roy Orbison played his last show there, two days before his death. Two days stays. I do not have his years, and I do not have the door. The city was the first in the county to require new neighborhoods to put the wires underground and to set ornamental lamp posts. The county history says new subdivisions, and ornamental street lighting. I will not sand the words, and the pages do not print the year. In July 2007 a magazine rated the city seventy-fifth. Rated stays. Growth was slow through the Second World War. I will not fight that war on this street. There is still no person with a span of years, no yard, and no nation. The next place, when you want it, is Highland Hills.",
+    long: "",
+    names: ["Highland Heights"]
+  },
+
+  {
+    id: "approach-highland-hills",
+    name: "Highland Hills",
+    lat: 41.4550,
+    lng: -81.5244,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Highland Hills, the village in Cuyahoga County. Not Cleveland, and not Highland Heights. It was incorporated in 1990, out of Warrensville Township. The township is older, and it is not this village. If you stay on the road, I'll start at 1990.",
+    long: "",
+    names: ["Highland Hills"]
+  },
+  {
+    id: "highland-hills-1990",
+    name: "A Plan",
+    lat: 41.4469,
+    lng: -81.5244,
+    radius: 40,
+    short: "The encyclopedia says the village was formally incorporated in 1990. A county history says it was cut out of Warrensville Township that year, because of a plan by Figgie International to move its headquarters to northeastern Ohio. A plan stays. I will not say the building went up. The township was established in 1816 and named for Daniel Warren, who arrived in 1810. I will not move him. Robert Nash was mayor from 1990 until his death in 2018. I do not have his birth. Michael L. Booker followed him. I do not have his years. As of 2019, that page says this was the only municipality in the county whose mayor had been African American for the whole of its history. As of stays. The box says one and ninety-seven hundredths of a square mile. The county history says two. I will not average them. This pin is the village.",
+    long: "",
+    names: ["Highland Hills"]
+  },
+  {
+    id: "highland-hills-campus",
+    name: "The Picture Is the Campus",
+    lat: 41.4464,
+    lng: -81.5236,
+    radius: 40,
+    short: "The picture is the eastern campus of the community college. The county history says the township contained that campus, and also Highland Park Cemetery and a golf course. I will not move the cemetery onto this street. The same page says the township held a county infirmary in 1904, a tuberculosis hospital at Cooley Farms in 1906, and a workhouse in 1912. I will not move them, and I will not call them a battle. The schools are the Warrensville Heights district. About two thousand five hundred students. About stays. I will not move that city. There is still no nation. The next place, when you want it, is Highland Holiday.",
+    long: "",
+    names: ["Highland Hills"]
+  },
+
+  {
+    id: "approach-highland-holiday",
+    name: "Highland Holiday",
+    lat: 39.2060,
+    lng: -83.4694,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Highland Holiday, the census place in Paint Township, Highland County, on the north side of Rocky Fork Lake. Not Hillsboro. The page has no plat, and it does not say when the lake was made. If you stay on the road, I'll start at the water.",
+    long: "",
+    names: ["Highland Holiday"]
+  },
+  {
+    id: "highland-holiday-lake",
+    name: "Almost Half Water",
+    lat: 39.1975,
+    lng: -83.4694,
+    radius: 40,
+    short: "The encyclopedia says five hundred seventy-one people lived here in 2020, and it prints no other year. A data page prints five hundred fifty for 2010. A survey prints nine hundred seventy-six. I will not average them. The box says one and ten hundredths of a square mile, and forty-nine hundredths of it water. The geography line says one and ninety-seven thousandths, and four hundred ninety-three thousandths of water. I will not average them. The water is Rocky Fork Lake, on the north shore. Rocky Fork Point is the place to the west. I will not move it, and I will not move the rest of the lake. The page says the creek was made a reservoir, and it does not say when. There is no founder, no office, no person with years, no nation, and no battle. This pin is the census place. The next place, when you want it, is Highpoint.",
+    long: "",
+    names: ["Highland Holiday"]
+  },
+
+  {
+    id: "approach-highpoint",
+    name: "Highpoint",
+    lat: 39.2970,
+    lng: -84.3472,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Highpoint, the census place in Sycamore Township, Hamilton County. The page also writes High Point. Not Cincinnati. It says the place was founded in the nineteenth century, and it does not say which year. If you stay on the road, I'll start there.",
+    long: "",
+    names: ["Highpoint", "High Point"]
+  },
+  {
+    id: "highpoint-century",
+    name: "The Century",
+    lat: 39.2892,
+    lng: -84.3472,
+    radius: 40,
+    short: "The encyclopedia says Highpoint was founded in the nineteenth century, and that one thousand five hundred fifty-eight people lived here in 2020. It prints two densities for that count. I will not average them, and I will not invent the acres. It says there were 189.7 men for every one hundred women. The census table says eight hundred twenty-eight men and seven hundred thirty women. I will not average them. The ages on the two pages do not match either. A rebased table prints earlier counts and says they were recalculated. Recalculated stays. A census share is not a nation. There is no person with years, no yard, no building, and no battle. This pin is the census place. The next place, when you want it, is Hills and Dales.",
+    long: "",
+    names: ["Highpoint", "High Point"]
+  },
+
+  {
+    id: "approach-hills-and-dales",
+    name: "Hills and Dales",
+    lat: 40.8370,
+    lng: -81.4439,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Hills and Dales, the village in Jackson Township, Stark County, near Canton. Not Canton. A park south of Dayton has this name. I will not move it. The name here was coined for the ground. If you stay on the road, I'll start at the years, and they do not agree.",
+    long: "",
+    names: ["Hills and Dales"]
+  },
+  {
+    id: "hills-and-dales-1929",
+    name: "Coined",
+    lat: 40.8292,
+    lng: -81.4439,
+    radius: 40,
+    short: "The encyclopedia says developers coined the name Hills and Dales for the lay of the ground. It does not name them. A housing page says the farmland was bought in 1922, and that the village was laid out in 1924, with deed restrictions that are still in force. A geographic file says the place was incorporated in 1929, and it prints a variant, Hills and Vales. I will not average the years, and I will not make Vales the name. The picture is the sign at the edge. A file prints a second point. I will not average it. This pin is the village.",
+    long: "",
+    names: ["Hills and Dales"]
+  },
+  {
+    id: "hills-and-dales-brochure",
+    name: "The Birds Stay in Quotes",
+    lat: 40.8287,
+    lng: -81.4430,
+    radius: 40,
+    short: "The housing page says the developers printed a brochure of sixteen pages, and that it promised the place would live with the land, and named meadowlarks, bobolinks, and wrens, in quotation marks, and called them native. The marks stay. Native means the birds. I will not make it a nation. The park of this name, south of Dayton, was opened in 1907 and given to that city on June 9, 1918. I will not move it, or John Patterson, or his daughter. There is still no person here with years, no cemetery I will pin, and no battle. The next place, when you want it, is Hillsboro.",
+    long: "",
+    names: ["Hills and Dales"]
+  },
+
+  {
+    id: "approach-hillsboro",
+    name: "Hillsboro",
+    lat: 39.2160,
+    lng: -83.6194,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Hillsboro, the city, and the county seat, of Highland County. The plan spells it Hillsborough. It was platted in 1807, on two days a week apart. If you stay on the road, I'll start at the spelling.",
+    long: "",
+    names: ["Hillsboro"]
+  },
+  {
+    id: "hillsboro-1807",
+    name: "Hillsborough",
+    lat: 39.2078,
+    lng: -83.6194,
+    radius: 40,
+    short: "The encyclopedia says the town was platted in 1807, and that it was most likely named for the hills near the first site. Most likely stays. A plan in the museum is titled the Town of Hillsborough. David Hayes signed it on August 28, 1807, and acknowledged it on September 5. I will not repair the spelling, and I will not make the two days one day. Allen Trimble bought the compass, made in Winchester, Virginia, in 1799. I will not move Virginia, and I do not have his years. A 1950 article, and the magazine is not named, says the ground was two hundred acres bought from Benjamin Ellicott for fifty cents an acre. I will not turn that into a sum. The city page says legend has it that New Market was considered, and that its men were very drunk, and this town raised the courthouse money first. Legend stays. I will not move New Market. The picture is the opera house on High Street. I do not have its year. This pin is the city.",
+    long: "",
+    names: ["Hillsboro"]
+  },
+  {
+    id: "hillsboro-1870",
+    name: "Three Quarters of a Mile East",
+    lat: 39.2017,
+    lng: -83.6093,
+    radius: 40,
+    short: "A stone on East Main says that in 1870 this city was the center of population of the country. The exact point was three-quarters of a mile east, at the Lilley house. Exact stays. I will not move the house onto this stone. The database dates it July 4. The stone says the year. The heading also prints 1870 to 1970. I will not invent that year. Highland House, next to the stone, is dated about 1846 to 1847. About stays. The Woman's Christian Temperance Union was founded here in 1873. The city page says the women were led by Mother Eliza Jane Thompson, in quotation marks, a governor's daughter. I do not have her years, and I will not call the crusade a battle. It says few liquor houses remain. Few stays. A pharmacy stone, about five hundred feet off, says it is the oldest in Ohio. I do not have the year, and I will not move it. There is still no nation. The next place, when you want it, is Hilltop.",
+    long: "",
+    names: ["Hillsboro"]
+  },
+
+  {
+    id: "approach-hilltop",
+    name: "Hilltop",
+    lat: 41.1710,
+    lng: -80.7444,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Hilltop, the census place in the center of Weathersfield Township, Trumbull County. Not Warren. A page puts another Hilltop in Mahoning County. I will not move it. The page here has no plat and no year. If you stay on the road, I'll start at the count, and the acres do not agree.",
+    long: "",
+    names: ["Hilltop"]
+  },
+  {
+    id: "hilltop-2020",
+    name: "Three Areas",
+    lat: 41.1628,
+    lng: -80.7444,
+    radius: 40,
+    short: "The encyclopedia says six hundred fifty-eight people lived here in 2020. The table says five hundred thirty-four in 2000 and five hundred thirty-two in 2010. I will not make those one count. The box says seventy-five hundredths of a square mile, all land. The geography line says six tenths. A profile prints eight tenths. I will not average them. The picture is a flag. I will not guess the cloth. Another page puts a Hilltop in Mahoning County, with six hundred thirty-nine people in 2020. I will not move it, and I will not move the Hilltop in Columbus. There is no founder, no office, no person with years, no yard, no nation, and no battle. This pin is the census place. The next place, when you want it, is Hiram.",
+    long: "",
+    names: ["Hilltop"]
+  },
+
+  {
+    id: "approach-hiram",
+    name: "Hiram",
+    lat: 41.3190,
+    lng: -81.1428,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Hiram, the village in northern Portage County. Not Ravenna. The college is here. The township, and Hiram Rapids, and a farm to the west of this story, stay where the pages put them. If you stay on the road, I'll start at the office.",
+    long: "",
+    names: ["Hiram"]
+  },
+  {
+    id: "hiram-1816",
+    name: "The Office",
+    lat: 41.3114,
+    lng: -81.1428,
+    radius: 40,
+    short: "The encyclopedia says the Hiram post office opened in 1816, and that the village was cut from Hiram Township, in the Western Reserve. It does not print the year of the cut. The township page says the township was named for Hiram, king of Tyre, and that no other township in the state has the name. I will not pretend the village page says that. Hiram Rapids had an office from 1840 to 1912, in the northwest of the township. I will not move it. The Johnson farm is on the township page. I will not move it, or Kirtland. The count skips 1890. I will not fill it. This pin is the village.",
+    long: "",
+    names: ["Hiram"]
+  },
+  {
+    id: "hiram-garfield",
+    name: "Then the Institute",
+    lat: 41.3099,
+    lng: -81.1434,
+    radius: 40,
+    short: "The picture is the house where James A. Garfield lived from 1863 to 1876. A stone says he was principal here from 1857 to 1863, when the college was the Western Reserve Eclectic Institute. Then stays. It says he was president from 1880 until he was killed in 1881. A note says he was elected in 1880 and took the office on March 4, 1881. I will not average them, and I will not move the killing. I do not have his birth. Oliver Plaza was dedicated on May 5, 2000, to G. Benjamin Oliver, the nineteenth president, in office from 1989 to 2000, and to his wife, Paula. I do not have his birth. The stone names halls built or repaired in those years. I will not date each door. There is still no nation, and no battle on these pages. The next place, when you want it, is Hockingport.",
+    long: "",
+    names: ["Hiram"]
+  },
+
+  {
+    id: "approach-hockingport",
+    name: "Hockingport",
+    lat: 39.1980,
+    lng: -81.0703,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Hockingport, the census place in southeastern Troy Township, Athens County. Not Athens. The page puts it on the river, below Little Hocking and above Reedsville. The point it prints does not sit with those towns. I will not move them, and I will not invent a better longitude. If you stay on the road, I'll start at the name.",
+    long: "",
+    names: ["Hockingport"]
+  },
+  {
+    id: "hockingport-1838",
+    name: "Hence the Name",
+    lat: 39.1903,
+    lng: -81.0703,
+    radius: 40,
+    short: "The encyclopedia says the place was a shipping point on the Hocking River, and that the name comes from that. Hence stays. I will not make the Ohio the name. A post office called Hockingport has been open since 1838. An older copy prints two hundred twelve people in 2010. The current page prints two hundred five in 2020. I will not average them. The picture is a campground, looking east from the state road. I do not have its name. A list names Hockingport Cemetery and also names yards of other towns. I do not have the gate, and I will not move them. This pin is the point the page prints.",
+    long: "",
+    names: ["Hockingport"]
+  },
+  {
+    id: "hockingport-1774",
+    name: "Believed to Be Under Water",
+    lat: 39.1898,
+    lng: -81.0696,
+    radius: 40,
+    short: "The same page says that in October 1774, Virginia militia under Lord Dunmore built Fort Gower at the meeting of the Hocking and the Ohio. It was the base camp in Dunmore's War. The Fort Gower Resolves were issued by the soldiers there in November. I will not make October and November one month, and I will not invent a battle on the bank. The page lists officers, and many others, and says they would later be famous. Many stays. Would stays. I do not have their years, and I will not move that later war. The fort was abandoned when this war ended. Today the site is believed to be under water, just beyond the point. Believed stays. I will not put the walls on the road. The town page does not name a nation. I will not import one. The next place, when you want it, is Holiday Lakes.",
+    long: "",
+    names: ["Hockingport"]
+  },
+
+  {
+    id: "approach-holiday-lakes",
+    name: "Holiday Lakes",
+    lat: 41.1000,
+    lng: -82.7292,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Holiday Lakes, the census place in Greenfield Township and in Norwich Township, Huron County. Not Norwalk. The page has no plat and no year for the lakes. If you stay on the road, I'll start at the water, and the acres do not agree.",
+    long: "",
+    names: ["Holiday Lakes"]
+  },
+  {
+    id: "holiday-lakes-water",
+    name: "Feet, or Meters",
+    lat: 41.0922,
+    lng: -82.7292,
+    radius: 40,
+    short: "The encyclopedia says eight hundred twenty-eight people lived here in 2020, and seven hundred forty-nine in 2010. A rebased table prints earlier counts and says they were recalculated. Recalculated stays. A survey prints nine hundred twenty-four. I will not make that the census. The box says two and eight hundredths of a square mile, and thirty-five hundredths of it water. The geography line is more precise, and the kilometers do not match. I will not average them. The encyclopedia prints eight hundred thirty-three feet. A population site prints eight hundred thirty-three meters. I will not average feet and meters. The file's history is blank. It was entered as a census place on June 10, 2010, from a list dated May 31. I will not make those the birth of the lakes, and I do not know how many lakes there are. There is no founder, no office, no person with years, no nation, and no battle. This pin is the census place. The next place, when you want it, is Holiday Valley.",
+    long: "",
+    names: ["Holiday Lakes"]
+  },
+
+  {
+    id: "approach-holiday-valley",
+    name: "Holiday Valley",
+    lat: 39.8610,
+    lng: -83.9619,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Holiday Valley, the census place in the southwest of Mad River Township, Clark County. Not Springfield. It was first counted in 1990. The page has no plat. If you stay on the road, I'll start at that count, and a second table does not agree.",
+    long: "",
+    names: ["Holiday Valley"]
+  },
+  {
+    id: "holiday-valley-1990",
+    name: "First Counted",
+    lat: 39.8536,
+    lng: -83.9619,
+    radius: 40,
+    short: "The encyclopedia says Holiday Valley became a census place in the 1990 count, with one thousand two hundred forty-three people, and one thousand four hundred eighty in 2020. A rebased table prints one thousand seventy-four for 1990 and one thousand five hundred sixty-nine for 2000, against one thousand seven hundred twelve on this page. Recalculated stays. I will not average them. A survey prints one thousand six hundred sixty. I will not make that the census. The geography line says one and eight tenths of a square mile, all land. A file with a blank history was entered on February 27, 2008, from a text dated January 1, 2002. I will not make those the birth of the place. Enon, Green Meadows, Dayton, and Springfield stay where the page puts them. There is no founder, no office, no person with years, no yard, no nation, and no battle. This pin is the census place. The next place, when you want it, is Holland.",
+    long: "",
+    names: ["Holiday Valley"]
+  },
+
+
+
 
 
 

@@ -19281,6 +19281,564 @@ STORIES.push(
     names: ["Saint Joseph Mission"]
   },
 
+  {
+    id: "approach-glenmoor",
+    name: "Glenmoor",
+    lat: 40.6740,
+    lng: -80.6231,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Glenmoor, the census place in St. Clair Township, Columbiana County. Not Lisbon, and not a village. Calcutta is across the highway. East Liverpool is four miles on. The encyclopedia has no history for this ground. If you stay on the road, I'll start with what it does print.",
+    long: "",
+    names: ["Glenmoor"]
+  },
+  {
+    id: "glenmoor-page",
+    name: "No Plat",
+    lat: 40.6656,
+    lng: -80.6231,
+    radius: 40,
+    short: "The encyclopedia says this is an unincorporated place in the southwest corner of the township. The northeast line is U.S. 30. La Croft is to the south, in Liverpool Township. Madison Township is to the west. I will not move any of them. The children are in the East Liverpool school district. I will not point you to a school I have not read. There is no plat on the page, no post office, no person with years, no yard, no building I can point at, no nation, no battle, and no story of the name. A directory prints a second point. I will not average it with this one. This pin is the encyclopedia. The next place, when you want it, is Glenwillow.",
+    long: "",
+    names: ["Glenmoor"]
+  },
+
+  {
+    id: "approach-glenwillow",
+    name: "Glenwillow",
+    lat: 41.3700,
+    lng: -81.4722,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Glenwillow, the village in Cuyahoga County. Not Cleveland, and not Solon. It was a company town for a powder mill. The pages do not agree on the year. If you stay on the road, I'll start at that fight.",
+    long: "",
+    names: ["Glenwillow"]
+  },
+  {
+    id: "glenwillow-1892",
+    name: "Eighteen Ninety-Two, or Eighteen Ninety-Three",
+    lat: 41.3608,
+    lng: -81.4722,
+    radius: 40,
+    short: "The encyclopedia says the village was cut from Solon Township and established in 1893 as a company town of the Austin Powder Company. A Cleveland history says 1892, and that the company bought twelve hundred acres, built thirty rental houses, and kept four hundred acres to raise cattle and hay. The village page says the company gathered about a thousand acres, opened the works in 1893, and built about thirty houses, a boarding house, a one-room school, a church, and a store. About stays. I will not average 1892 and 1893, and I will not average a thousand and twelve hundred. The plant closed in 1972, and the work went to Athens. The village page says the company still ran a seven-hundred-acre farm on Pettibone Road. I will not average four hundred and seven hundred. A history says that before the close the works took half the village, east of Tinker's Creek, along the Wheeling and Lake Erie. I will not translate the creek. This pin is the village.",
+    long: "",
+    names: ["Glenwillow"]
+  },
+  {
+    id: "glenwillow-depot",
+    name: "A Quarter Mile North",
+    lat: 41.3568,
+    lng: -81.4670,
+    radius: 40,
+    short: "A marker in Pettibone Park says the factory came from Cleveland in 1892. It says the Falls Junction depot was built in 1883 and first stood about a quarter mile north, where the Wheeling and Lake Erie met a line to Chagrin Falls. About stays. It ran until 1974, and it is now part of the town center. The depot is across the tracks. I will not make a second pin on the same boards, and I will not move Chagrin Falls. The database spells the road Pettybone. I will not repair it. The village page says the boarding house and the church were gone sometime in the nineteen fifties. Sometime stays. I do not have the school door. A Cleveland history says the first plan was commissioned in 1999, and that a village center opened in 2005 in eighteen of the old buildings. The same page says the village was called a modern-day utopia. I will not swear that word. There is still no person with years, no nation, and no battle. The next place, when you want it, is Gloria Glens Park.",
+    long: "",
+    names: ["Glenwillow"]
+  },
+
+  {
+    id: "approach-gloria-glens",
+    name: "Gloria Glens Park",
+    lat: 41.0660,
+    lng: -81.9011,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Gloria Glens Park, the village in Medina County, on Chippewa Lake. Not Medina. The old park is on the eastern shore. If you stay on the road, I'll start at 1924.",
+    long: "",
+    names: ["Gloria Glens Park"]
+  },
+  {
+    id: "gloria-glens-1924",
+    name: "Nineteen Twenty-Four, or Nineteen Thirty-One",
+    lat: 41.0578,
+    lng: -81.9011,
+    radius: 40,
+    short: "The encyclopedia says the village was established in 1924. A gazetteer says it was incorporated in 1931, and it prints a second point. I will not average the years, and I will not average the points. A name file also prints Glori Glens, Gloria Glens, and Gloria Glens Village. I will not drop the last word. The encyclopedia's picture is the town hall. I do not have the year of that building. In 1940 the census counted six people. I will not invent why. This pin is the encyclopedia.",
+    long: "",
+    names: ["Gloria Glens Park"]
+  },
+  {
+    id: "gloria-glens-lake",
+    name: "Do Not Launch",
+    lat: 41.0572,
+    lng: -81.9004,
+    radius: 40,
+    short: "The village page says Chippewa Lake was made some fourteen thousand years ago, when the ice went north, and that it covers three hundred twenty-five acres. Some stays. It says native people came to the wetlands and the shore to hunt and trade. It does not name a nation. I will not. It says the park district bought the lake in 2007, and in June 2020 bought the ninety-five acres of the old amusement park on the eastern shore. I will not move that shore. It says the lake is open, and that you may not launch a boat inside this village unless you belong to the association. The public ramp is at the end of Westfield Landing Road. I do not have that ramp. There is still no person with years, and no battle. The next place, when you want it, is Glouster.",
+    long: "",
+    names: ["Chippewa Lake"]
+  },
+
+  {
+    id: "approach-glouster",
+    name: "Glouster",
+    lat: 39.5080,
+    lng: -82.0842,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Glouster, the village in Trimble Township, Athens County. Not Athens. It was Sedalia. The name changed in 1886. If you stay on the road, I'll start there.",
+    long: "",
+    names: ["Glouster"]
+  },
+  {
+    id: "glouster-1886",
+    name: "Sedalia",
+    lat: 39.5000,
+    lng: -82.0842,
+    radius: 40,
+    short: "The encyclopedia says the place was Sedalia, and that the name was changed in 1886 to Glouster, a variant spelling of Gloucester in England. A post office has used the new name since 1887. I will not make those one year. It says the village grew on the Sunday Creek coal seam, in the Hocking Valley, and that mining, brick, and the railroad carried it through the early twentieth century. Early stays. The Wassall Brick Company ran from approximately 1895 to 1932. Approximately stays. I do not have that door. It says the coal fell off in the middle of the twentieth century. Middle stays. This pin is the village.",
+    long: "",
+    names: ["Glouster"]
+  },
+  {
+    id: "glouster-tipple",
+    name: "A Hundred Fifty Feet East",
+    lat: 39.4932,
+    lng: -82.0857,
+    radius: 40,
+    short: "A marker on High Street says the tipple of the Hisylvania Coal Company, Mine 22, stood about a hundred fifty feet east, and was in use from 1912 to 1925. About stays. The name was made from Ohio and Pennsylvania, the home states of the founders. I will not name them. The page says the tipple was likely the only brick and concrete one in Ohio. Likely stays. It was torn down in 2000. The marker went up in 2001. This pin is the marker. Not the tipple.",
+    long: "",
+    names: ["Glouster"]
+  },
+  {
+    id: "glouster-memorial",
+    name: "I Will Not Read the Roll",
+    lat: 39.4954,
+    lng: -82.0857,
+    radius: 40,
+    short: "A memorial on High Street, about a hundred feet south of the stadium, says it is in memory of the men who made the supreme sacrifice. The stone dates the first war from 1917 to 1918, the second from 1941 to 1945, and Korea from 1950 to 1955. I will not read the names. A second stone stands about four hundred feet off. I will not fold it in. Palos Covered Bridge was built in 1879 over the East Fork of Sunday Creek. The encyclopedia puts it one mile north. A map page puts it a mile and a half northeast, and says it went on the register in 1977. I will not average the distance, and I will not move the bridge. Burr Oak stays outside. There is still no nation on these pages. The next place, when you want it, is Gnadenhutten.",
+    long: "",
+    names: ["Glouster"]
+  },
+
+  {
+    id: "approach-gnadenhutten",
+    name: "Gnadenhutten",
+    lat: 40.3680,
+    lng: -81.4294,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Gnadenhutten, the village on the Tuscarawas, in Tuscarawas County. Not New Philadelphia. A mission was settled here in 1772. The pages do not translate the name the same way. If you stay on the road, I'll start at October.",
+    long: "",
+    names: ["Gnadenhutten"]
+  },
+  {
+    id: "gnadenhutten-1772",
+    name: "Tents, or Huts",
+    lat: 40.3600,
+    lng: -81.4294,
+    radius: 40,
+    short: "A marker says the Moravians were already among the Delaware and the Mohican. It says David Zeisberger founded Schoenbrunn on May 3, 1772, and that Josua, a Mohican, led Mohican and Munsee Christians down the river and settled this place on October 9, 1772. The stone prints the name as Tents of Grace. The encyclopedia spells the old name with an umlaut, says October 1772, and translates it Huts of Grace. A museum spells the man Joshua, and says Chief Netawatwees had given Zeisberger leave in 1771. I will not pick the spelling, and I will not pick the translation, and I will not move Schoenbrunn. The marker says that by 1775 an estimated two hundred people lived here. The museum says around one hundred fifty. Estimated stays. Around stays. The museum says a child of the Roth family, born here in July 1773, was the first child born in the Ohio territory. I will not swear that past the page, and I do not have the child's name. This pin is the village.",
+    long: "",
+    names: ["Gnadenhutten"]
+  },
+  {
+    id: "gnadenhutten-1782",
+    name: "A Day of Shame",
+    lat: 40.3538,
+    lng: -81.4344,
+    radius: 40,
+    short: "The same marker, reached from South Cherry Street, says the people were taken in 1781 to Captives' Town on the Sandusky. I will not move that town. It says a group came back early in 1782 to harvest, and that they were mistaken for raiders who had struck in western Pennsylvania. Mistaken stays. It says they were taken without a fight, and sentenced to death. The men were in one cabin. The women and children were in another. They prayed and sang through the night. On March 8, 1782, an estimated ninety were killed. Estimated stays. Only two young boys are known to have escaped. Known stays. The encyclopedia says ninety-six, and that the militiamen, led by David Williamson, had tricked them out of their weapons, and that about sixty cabins were burned. A museum says over ninety, and that the boys are the only account. I will not average the numbers, and I will not sand mistaken into tricked. The stone calls it a day of shame. It says the killing fed later attacks by Wyandot, Delaware, and Shawnee. I will not move those attacks. A Pennsylvania mission of this name was burned in 1755. I will not move that ash. One page says John Heckewelder came back in 1798, founded the place again, and buried the remains in a mound. I do not have a separate stake for the mound. A page says two rebuilt cabins here are an homage. Homage stays. There is still no span of years I can give a person. The next place, when you want it, is Golf Manor.",
+    long: "",
+    names: ["Gnadenhutten"]
+  },
+
+  {
+    id: "approach-golf-manor",
+    name: "Golf Manor",
+    lat: 39.1960,
+    lng: -84.4469,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Golf Manor, the village in Hamilton County. Not Cincinnati. It sits against two of that city's neighborhoods. The name is the golf courses that were near it. If you stay on the road, I'll start at the lots.",
+    long: "",
+    names: ["Golf Manor"]
+  },
+  {
+    id: "golf-manor-1947",
+    name: "A Dollar Down",
+    lat: 39.1878,
+    lng: -84.4469,
+    radius: 40,
+    short: "The encyclopedia says developers laid the place out in the nineteen twenties, and named it because three golf courses were near the site. Near stays. The village page says Britton and Brown laid the lots in the middle of the nineteen twenties, mostly in plots of a hundred fifty feet, with fronts of thirty-five to fifty, sold for a dollar down and a dollar a week, and that the lots cost from six hundred dollars to a thousand. Mostly stays. Middle stays. It says the village was incorporated on February 3, 1947, and that the first election was June 3. A plaque says Tom Dunlap was the first mayor, from 1947 to 1969. I do not have his birth. The village names Losantiville, Maketewah, Avon Fields, and the former Crest Hills. Former stays. I will not decide which three the encyclopedia meant, and I will not move the courses. It says this ground was Columbia Township. This pin is the village.",
+    long: "",
+    names: ["Golf Manor"]
+  },
+  {
+    id: "golf-manor-wiehe",
+    name: "Eighteen Sixty-Two",
+    lat: 39.1872,
+    lng: -84.4462,
+    radius: 40,
+    short: "The village page says the Wiehe farmhouse, built in 1862, still stands on Stover Avenue. I do not have the number. It says the streets remember Stover, Kellerman, Wiehe, Green, Hammel, Pieper, and Engle. Englewood recalls a cabin of Katy, Henry, and Joe Engle. I do not have their years, and I will not point you to a cabin I cannot find. It says the oldest Orthodox synagogue in the city is in the business district. I will not swear that past the page, and I do not have the door. Chuck Harmon has a street. The page says he was the first Black man to play for the Cincinnati Reds, and a long resident here. I do not have his years. The Dennis Puthoff park is on Losantiville Avenue, a tribute to a mayor and to residents who served. I do not have the gate, and I will not invent a battle. There is still no nation on these pages. The next place, when you want it, is Good Hope.",
+    long: "",
+    names: ["Golf Manor"]
+  },
+
+  {
+    id: "approach-good-hope",
+    name: "Good Hope",
+    lat: 39.4550,
+    lng: -83.3594,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Good Hope, in Wayne Township, Fayette County. Not Washington Court House, and not a village. It was platted in 1849. The name is only said to have come from Pennsylvania. If you stay on the road, I'll start there.",
+    long: "",
+    names: ["Good Hope"]
+  },
+  {
+    id: "good-hope-1849",
+    name: "Is Said",
+    lat: 39.4467,
+    lng: -83.3594,
+    radius: 40,
+    short: "The encyclopedia says the place was platted in 1849, though a small village had already been here for some time. Some time stays. It says the name is said to have come from Good Hope, Pennsylvania, the home of a share of the early settlers. Is said stays. A share stays. A post office opened in 1851 and closed in 1965. A waste plant came only in 2012. Only stays. The place sits where State Route 753 meets the Washington-Good Hope road and Camp Grove Road. Indian Creek runs on the west edge, and meets Paint Creek slightly more than two miles south. The same sentence also prints three kilometers. I will not correct it, and I will not make the creek a nation. This pin is the encyclopedia. An older copy prints another point. I will not average them.",
+    long: "",
+    names: ["Good Hope"]
+  },
+  {
+    id: "good-hope-yard",
+    name: "Township Road 203",
+    lat: 39.4478,
+    lng: -83.3708,
+    radius: 40,
+    short: "A grave page puts Good Hope Cemetery on the west end of Township Road 203, about a tenth of a mile west of State Route 753, in Wayne Township. I do not have the year it opened, and I will not read the stones. There is still no person with years, no building I can point at, and no battle. The next place, when you want it, is Gordon.",
+    long: "",
+    names: ["Good Hope Cemetery"]
+  },
+
+  {
+    id: "approach-gordon",
+    name: "Gordon",
+    lat: 39.9380,
+    lng: -84.5092,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Gordon, the village in Twin Township, Darke County. Not Greenville, and not Arcanum. It was platted in 1849 and named for a settler the page does not name. If you stay on the road, I'll start there.",
+    long: "",
+    names: ["Gordon"]
+  },
+  {
+    id: "gordon-1849",
+    name: "One of the First",
+    lat: 39.9303,
+    lng: -84.5092,
+    radius: 40,
+    short: "The encyclopedia says Gordon was platted in 1849 and named for one of its first settlers. It does not print the name. I will not borrow one, and I will not give him years. It says the village stood where the Dayton and Union railroad met the Ohio Electric. A German page prints that second line as the Ohio Valley Electric Railway. I will not pick, and I do not have a depot door. The box and the geography line do not agree on the kilometers. I will not average them. The count skips from 1870 to 1900. I will not fill it. There is still no yard I will pin, no nation, and no battle. This pin is the village. The next place, when you want it, is Goshen.",
+    long: "",
+    names: ["Gordon"]
+  },
+
+  {
+    id: "approach-goshen",
+    name: "Goshen",
+    lat: 39.2420,
+    lng: -84.1533,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Goshen, the census place in Goshen Township, Clermont County. Not Batavia, and not a village. The pages do not agree on the year it was established. If you stay on the road, I'll start at that fight.",
+    long: "",
+    names: ["Goshen"]
+  },
+  {
+    id: "goshen-1819",
+    name: "Seventeen Ninety-Nine, or Eighteen Nineteen",
+    lat: 39.2268,
+    lng: -84.1560,
+    radius: 40,
+    short: "The encyclopedia says Goshen was founded in 1799 by German and English settlers, namely Jacob Myers, most of whom had come down the Ohio from western Pennsylvania after fighting for the colonies. The page marks that sentence as needing a citation. Needing a citation stays. A marker at 6707 Goshen Road says the place was established in 1819, and that it is the home of the ballplayer Sam Leever and of Colonel John Voll, a flying ace of the second war. I do not have their years. I will not average 1799 and 1819. This pin is the marker. Not the township.",
+    long: "",
+    names: ["Goshen"]
+  },
+  {
+    id: "goshen-slabs",
+    name: "Two Unknown",
+    lat: 39.1849,
+    lng: -84.0608,
+    radius: 40,
+    short: "A marker on Park Road, in the Goshen postal area, says that near here are buried two unknown soldiers of Anthony Wayne's army, who died at Slabs Camp in 1793, at the junction of routes 131 and 133. Unknown stays. Near stays. It says a memorial was held in 1930, and that the rocks were placed then. I will not move the junction onto the census point, and I will not give the men names. There is still no nation on these pages, and no yard at the center. The next place, when you want it, is Grafton.",
+    long: "",
+    names: ["Goshen"]
+  },
+
+  {
+    id: "approach-grafton",
+    name: "Grafton",
+    lat: 41.2900,
+    lng: -82.0381,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Grafton, the village in Lorain County, on the East Branch of the Black River. Not Elyria. It has worn more than one name. The pages do not agree on the plat. If you stay on the road, I'll start there.",
+    long: "",
+    names: ["Grafton"]
+  },
+  {
+    id: "grafton-1846",
+    name: "Eighteen Forty-Six, or Eighteen Fifty-Five",
+    lat: 41.2808,
+    lng: -82.0381,
+    radius: 40,
+    short: "The encyclopedia says the village was platted in 1846, when the railroad was extended to that point, and that the name may be a transfer from Grafton, Massachusetts. May stays. The village page says that in 1816 Jonathan and Grindall Rawson came from Massachusetts to find a hundred sixty acres their father, Samuel, had bought, in Township 4. It prints the range as XV1. I will not repair it. It says they went back east. It says Charles Augustus Fowler arrived in 1855 with the deeds, surveyed the land, and platted one hundred thirty-nine lots, then added twenty-four north of the tracks. I will not average 1846 and 1855, and I do not have their years. Fifteen lots Jonathan had sold since 1820 became Grafton Station. The railroad named it. The post office accepted it in January 1852. In May 1852 the name was changed to Rawsonville, because it was being confused with Grafton Center and with the township. On January 1, 1877, the village was incorporated and the name became Grafton. I will not make those one day. This pin is the village.",
+    long: "",
+    names: ["Grafton"]
+  },
+  {
+    id: "grafton-hotels",
+    name: "Two Hotels",
+    lat: 41.2802,
+    lng: -82.0374,
+    radius: 40,
+    short: "The same page says the Whitbeck hotel was built in 1846, and the Hand in 1852, for the railroad people. I do not have either door. The encyclopedia's picture is Immaculate Conception Church. I do not have its year. It says a line from Lorain crossed the other railroad in 1871. I will not move Lorain. It says prisons stand in the village and near it. In and near stays. I will not count the people inside them. A township memorial at 35964 Route 83, about three miles off, names Corporal Charles W. Boughton of the Eighth Ohio, killed on September 21, 1862. I do not have his birth, and I will not read the rest of the roll, and I will not move the stone. There is still no nation on these pages. The next place, when you want it, is Grand River.",
+    long: "",
+    names: ["Grafton"]
+  },
+
+  {
+    id: "approach-grand-river",
+    name: "Grand River",
+    lat: 41.7530,
+    lng: -81.2856,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Grand River, the village in Painesville Township, Lake County. Not Painesville, and not Fairport Harbor. The village took the river's name. A post office has used it since 1890. If you stay on the road, I'll start there.",
+    long: "",
+    names: ["Grand River"]
+  },
+  {
+    id: "grand-river-1890",
+    name: "The River's Name",
+    lat: 41.7458,
+    lng: -81.2856,
+    radius: 40,
+    short: "The encyclopedia says a post office called Grand River has been open since 1890, and that the village was named for the river beside it. I will not date a plat the page does not print. Fairport Harbor, at the mouth, was Grandon, and later Fairport. I will not move that plat, or the lighthouse, onto this street. Headlands Beach lies next to the village. I will not move the beach. The page names Don Shula. It does not print his years. I will not invent them. The box and the geography line do not agree on the land. I will not average them. There is still no yard inside the village, no nation, and no battle. This pin is the village. The next place, when you want it, is Grandview.",
+    long: "",
+    names: ["Grand River"]
+  },
+
+  {
+    id: "approach-grandview",
+    name: "Grandview",
+    lat: 39.5160,
+    lng: -81.0819,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Grandview, the unincorporated community in Washington County. Not Marietta, and not Grandview Heights. A post office here was first called Grand View. If you stay on the road, I'll start at 1833.",
+    long: "",
+    names: ["Grandview"]
+  },
+  {
+    id: "grandview-1833",
+    name: "Grand View",
+    lat: 39.5081,
+    lng: -81.0819,
+    radius: 40,
+    short: "The encyclopedia says a post office called Grand View was established in 1833, that the name was changed to Grandview in 1894, and that the office closed in 1964. I will not make those one year. It says the town site was first surveyed at an early day, and later replatted around 1848. Early stays. Around stays. I will not date the first survey. It says this place is not the Grand View neighborhood of Marietta. I will not move that neighborhood. A census place of the same name, in Hamilton County, is a different ground. I will not mix them. There is still no person with years, no yard, no building I can point at, no nation, and no battle. This pin is the Washington County community. The next place, when you want it, is Granville.",
+    long: "",
+    names: ["Grandview"]
+  },
+
+  {
+    id: "approach-granville",
+    name: "Granville",
+    lat: 40.0720,
+    lng: -82.5122,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Granville, the village in Licking County. Not Newark. A company from New England settled it in 1805. A house was already here. If you stay on the road, I'll start at that hut.",
+    long: "",
+    names: ["Granville"]
+  },
+  {
+    id: "granville-1805",
+    name: "Eighteen Oh One, and Eighteen Oh Five",
+    lat: 40.0639,
+    lng: -82.5122,
+    radius: 40,
+    short: "The encyclopedia says European Americans did not settle the village until 1805, but that John Jones, a Welshman born in New Jersey, built the first house in 1801, and called the first street Centerville. I will not make those one year, and I do not have his years. It says his friend Patrick Cunningham built the second cabin the next spring. Next spring stays. It says the first large company came from Granville, Massachusetts, and named this place for that town. A preservation page adds Granby, Connecticut. I will not drop either town. The first school went up in January 1806, about two months after that company arrived, and the log building was also the church, on the south side of the square. About stays. I do not have a separate stake for the square. The page says the village was a hotbed of temperance and of abolition. Hotbed stays. I will not invent a house for that work. This pin is the village.",
+    long: "",
+    names: ["Granville"]
+  },
+  {
+    id: "granville-denison",
+    name: "Three Names",
+    lat: 40.0781,
+    lng: -82.5214,
+    radius: 40,
+    short: "A marker at 1375 North Street says the place was settled in 1805 and that Denison was founded in 1831. A preservation page says the Granville Literary and Theological Institution of 1831 became Granville College in 1845 and Denison University in 1856. I will not make those one school. It says the Ohio Canal, begun in 1825, passed several miles east, and that a feeder was built to this village. I will not move the main canal. It says the Ohio Central Railroad came in 1880, and an interurban ten years later. Ten years later stays. This pin is the marker.",
+    long: "",
+    names: ["Denison University"]
+  },
+  {
+    id: "granville-yard",
+    name: "As Many as Twenty-Two",
+    lat: 40.0656,
+    lng: -82.5200,
+    radius: 40,
+    short: "A marker at 300 South Main says the Old Colony Burying Ground was laid out on the plat before the settlers left New England in 1805. The first burial was in 1806. By the middle of the nineteenth century there had been more than two thousand. Middle stays. The yard holds veterans of five wars, including as many as twenty-two from the Revolution, and numerous men from the War of 1812, the Mexican War, and the Civil War. As many as stays. Numerous stays. I will not count them, and I will not read the stones. A gate says the yard was established in 1805 as the Pioneer Cemetery, and that it went on the register on June 10, 2005. There is still no nation on these pages. The next place, when you want it, is Granville South.",
+    long: "",
+    names: ["Old Colony Burying Ground"]
+  },
+
+  {
+    id: "approach-granville-south",
+    name: "Granville South",
+    lat: 40.0440,
+    lng: -82.5417,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Granville South, the census place south of the village of Granville, in Licking County. Not the village. The mail uses the village's code. The encyclopedia has no history for this ground. If you stay on the road, I'll start with the line.",
+    long: "",
+    names: ["Granville South"]
+  },
+  {
+    id: "granville-south-line",
+    name: "South of the Village",
+    lat: 40.0522,
+    lng: -82.5417,
+    radius: 40,
+    short: "The encyclopedia says this place sits in the south and southwest of the township, and that the village borders it on the north. State Route 16 runs through it. State Route 37 is the northern edge of most of it. Most stays. The water runs northeast to Raccoon Creek. I will not move the Licking, or the Muskingum. The count was one thousand one hundred ninety-four in 2000, and one thousand four hundred twenty in 2020. I will not invent the years the table skips. There is no plat here, no office of its own, no person with years, no yard, and no building I can point at. The hut, the college, and the burying ground stay in the village. There is still no nation, and no battle. This pin is the census point. The next place, when you want it, is Gratiot.",
+    long: "",
+    names: ["Granville South"]
+  },
+
+  {
+    id: "approach-gratiot",
+    name: "Gratiot",
+    lat: 39.9590,
+    lng: -82.2167,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Gratiot, the village in two counties, Licking and Muskingum. Not Newark, and not Zanesville. It was platted in 1829. If you stay on the road, I'll start at the name.",
+    long: "",
+    names: ["Gratiot"]
+  },
+  {
+    id: "gratiot-1829",
+    name: "Eighteen Twenty-Nine",
+    lat: 39.9514,
+    lng: -82.2167,
+    radius: 40,
+    short: "The encyclopedia says Gratiot was platted in 1829 and named in honor of Charles Gratiot. It does not print his years. I will not borrow them. The village sits in Hopewell Township in Licking County and in Hopewell Township in Muskingum County. I will not make those one township. The picture on the page is the Odd Fellows hall on Main Street. I do not have the year of that hall. The page names Cornelius S. Hamilton. It does not print his years. The count skips from 1880 to 1950. I will not fill it. There is still no yard I will pin, no nation, and no battle. This pin is the village. The next place, when you want it, is Gratis.",
+    long: "",
+    names: ["Gratiot"]
+  },
+
+  {
+    id: "approach-gratis",
+    name: "Gratis",
+    lat: 39.6560,
+    lng: -84.5286,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Gratis, the village in Preble County. Not Eaton. The name is the township's. A post office has used it since 1823. If you stay on the road, I'll start there.",
+    long: "",
+    names: ["Gratis"]
+  },
+  {
+    id: "gratis-1823",
+    name: "The Township's Name",
+    lat: 39.6483,
+    lng: -84.5286,
+    radius: 40,
+    short: "The encyclopedia says a post office called Gratis has been open since 1823, and that the village takes its name from Gratis Township. It does not print a plat, and it does not translate the word. I will not. The picture on the page is the post office and the Odd Fellows lodge. I do not have the year of those walls. A marker near here, in Lanier Township, says Sara Swartsel gave a two-hundred-twenty-acre farm in February 1974, in memory of her parents, Joseph and Harriet. The postal line on that marker is Eaton. I will not move the farm. There is still no person with years, no nation, and no battle. This pin is the village. The next place, when you want it, is Graysville.",
+    long: "",
+    names: ["Gratis"]
+  },
+
+  {
+    id: "approach-graysville",
+    name: "Graysville",
+    lat: 39.6710,
+    lng: -81.1747,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Graysville, the village in Washington Township, Monroe County. Not Woodsfield. An 1882 book says Daniel Gray laid it out in 1835. If you stay on the road, I'll start there.",
+    long: "",
+    names: ["Graysville"]
+  },
+  {
+    id: "graysville-1835",
+    name: "Daniel Gray",
+    lat: 39.6633,
+    lng: -81.1747,
+    radius: 40,
+    short: "An 1882 history says Graysville, the only town in the township, was laid out by Daniel Gray in 1835, and that the post office had the same name. It puts the town in the northern part of the township, at the southwest corner of section 11 and the southeast corner of section 17, in township 4. I will not repair that survey, and I do not have Gray's years. The township was organized on June 5, 1832. I will not make that the plat. The book says Joseph Cline built the first cabin in the township in 1816, along Clear Fork, and that there may have been squatters before that. May stays. I will not move his cabin onto this plat. It says the first child in the township was Joseph Cline, born to Mary Cline. I do not have the year. It says the village was supplied from Indian Fork, in Bethel Township. I will not move that water. This pin is the village.",
+    long: "",
+    names: ["Graysville"]
+  },
+  {
+    id: "graysville-1882",
+    name: "Twenty-Five by Thirty-Five",
+    lat: 39.6627,
+    lng: -81.1740,
+    radius: 40,
+    short: "The same book says that in its year the village had a Christian church and a Baptist church, each a frame twenty-five by thirty-five feet. The Christian church had sixty-five members, and A. A. Bunner was the minister. The Baptist church had twenty members, and Henry Lyons was the minister. It says the Baptist church was the second one organized in the township, and that the first sermon was at Cline's house in 1817. I will not move that house. It says the village had one schoolhouse, two rooms, and ninety-nine scholars. I do not have those doors now. A school is said to have been built about 1820. Is said stays. About stays. The place was not reported. I will not point you to it. There is still no person with years, no yard I will pin, no nation, and no battle. The next place, when you want it, is Green.",
+    long: "",
+    names: ["Graysville"]
+  },
+
+  {
+    id: "approach-green",
+    name: "Green",
+    lat: 40.9580,
+    lng: -81.4922,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Green, the city in Summit County, between Akron and Canton. Not Akron. The township is older than the city. The pages do not agree on the year of the village. If you stay on the road, I'll start at 1809.",
+    long: "",
+    names: ["Green"]
+  },
+  {
+    id: "green-1809",
+    name: "Eighteen Eighty-Eight, or Nineteen Ninety-One",
+    lat: 40.9483,
+    lng: -81.4922,
+    radius: 40,
+    short: "The encyclopedia says Green Township was created in 1809, in Stark County, and that it became part of Summit County after that county was established in 1840. A newspaper says the township was platted and organized in 1809, and shifted into Summit County about five years later. About stays. I will not average that with 1840. It says a three-square-mile tract was incorporated as a village on April 6, 1988. The encyclopedia says voters approved a merger in 1991, and that at the beginning of 1991 the township was incorporated as the village of Green. I will not average 1988 and 1991. A newspaper says the city was certified on April 5, 1992, after more than five thousand voters took part in the 1991 election. The encyclopedia says the first city mayor was John Torok. Another page says he served until 1998. I do not have his birth. Names that were considered, and not used, were Greenland, Greensboro, and Emerald City. This pin is the city.",
+    long: "",
+    names: ["Green"]
+  },
+  {
+    id: "green-hamlets",
+    name: "Five Hamlets",
+    lat: 40.9476,
+    lng: -81.4915,
+    radius: 40,
+    short: "The encyclopedia says that by 1900 there were five unincorporated settlements in the township, most notably Greensburg, in farm country and in coal. A newspaper names Greensburg, Comet, Myersville, Aultman, and East Liberty, and says the coal was the second product until it declined in the early nineteen hundreds. Early stays. I will not give each hamlet a stake I do not have. The picture on the encyclopedia is the Levi J. Hartong farmhouse. I do not have its year. The encyclopedia says that in 2016 the city went to law against the NEXUS pipeline, which runs close to houses, to wetlands, and to the Comet Lake dam. Close stays. A later line says construction began in 2018 after a settlement of seven and a half million dollars. I will not call that a battle. There is still no yard I will pin, and no nation. The next place, when you want it, is Green Camp.",
+    long: "",
+    names: ["Green"]
+  },
+
+  {
+    id: "approach-green-camp",
+    name: "Green Camp",
+    lat: 40.5400,
+    lng: -83.2075,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Green Camp, the village in Marion County, where the Scioto meets the Little Scioto. Not Marion. It was laid out as Berwick. The pages do not agree on the name. If you stay on the road, I'll start at 1838.",
+    long: "",
+    names: ["Green Camp"]
+  },
+  {
+    id: "green-camp-1838",
+    name: "Berwick",
+    lat: 40.5319,
+    lng: -83.2075,
+    radius: 40,
+    short: "The encyclopedia says the village was first called Berwick, and was laid out in 1838, and that the present name comes from Green Camp Township. A marker says Berwick was founded in June 1838 by David Beach, and incorporated in 1875 as Green Camp, in honor of General Green. I will not pick which story names the town, and I do not have Beach's years. I will not give the general a first name the stone does not print. The village stands at the meeting of the two rivers. I will not pick a bank. This pin is the village.",
+    long: "",
+    names: ["Green Camp"]
+  },
+  {
+    id: "green-camp-1812",
+    name: "In This Vicinity",
+    lat: 40.5323,
+    lng: -83.2105,
+    radius: 40,
+    short: "The same stone, put up in 1941 by Orie Mossbarger at Route 739 and Mill Street, says General Green and his army camped in this vicinity during the War of 1812. Vicinity stays. I will not invent the fight, and I do not have the man's years. The stone prints a population of three hundred seventy-two. I will not sand that into the census table. A later note says the marker is missing. I will not pretend it is still there. There is still no yard I will pin, and no nation. The next place, when you want it, is Green Meadows.",
+    long: "",
+    names: ["Green Camp"]
+  },
+
 
 
 

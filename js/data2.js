@@ -22132,7 +22132,677 @@ STORIES.push(
     long: "",
     names: ["Jenera"]
   },
+  {
+    id: "approach-jerry-city",
+    name: "Jerry City",
+    lat: 41.2600,
+    lng: -83.6047,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Jerry City, the village in Wood County. Not Bowling Green. It was Stulltown, then Shiloh, then this name. The first settlement was in the early eighteen sixties. The new plat was 1872. I will not make those one year. If you stay on the road, I'll start at the old names.",
+    long: "",
+    names: ["Jerry City"]
+  },
+  {
+    id: "jerry-city-1872",
+    name: "Stulltown, Then Shiloh",
+    lat: 41.2522,
+    lng: -83.6047,
+    radius: 40,
+    short: "The encyclopedia says the first settlement was in the early eighteen sixties, and that it was then called Stulltown and later Shiloh. Early stays. Later stays. I will not move another Shiloh. The site was replatted in 1872 as Jerry City, after Jerry Nestlerode. I do not have his years. The office has been here since 1872. The village was incorporated in 1875. I will not add a day, and I will not make the three times one year. The table says four hundred fifty-four people in 2020. An older lead still says four hundred twenty-seven, which is the 2010 line. I will not average them. The miles of the village agree. The kilometers do not. I will not average them. The picture is Main Street, and it shows the post office. This pin is the village.",
+    long: "",
+    names: ["Jerry City"]
+  },
+  {
+    id: "jerry-city-office",
+    name: "No Other Name",
+    lat: 41.2517,
+    lng: -83.6039,
+    radius: 40,
+    short: "The post office in the picture has no year of its own. The institution is 1872. There is still no person with years, no yard, no nation, and no battle. An atlas sheet also shows Portage and Mermill. I will not move them. The next place, when you want it, is Jersey.",
+    long: "",
+    names: ["Jerry City"]
+  },
 
+  {
+    id: "approach-jersey",
+    name: "Jersey",
+    lat: 40.0640,
+    lng: -82.7228,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Jersey, the census place in Jersey Township, Licking County. Not Newark. The township was named in 1820 for New Jersey. This place was laid out in 1832. I will not move New Jersey, and I will not make the two years one year. If you stay on the road, I'll start at the township.",
+    long: "",
+    names: ["Jersey"]
+  },
+  {
+    id: "jersey-1832",
+    name: "Until 1907",
+    lat: 40.0558,
+    lng: -82.7228,
+    radius: 40,
+    short: "The encyclopedia says Jersey Township was established in 1820 and named for New Jersey, the native state of a large share of the settlers. Large share stays. It is the only township of that name in the state. Only stays. The census place was laid out in 1832 and took the township's name. A post office opened in 1833 and remained until 1907. Until stays. I will not say it is open. The census says four hundred twenty-seven people in 2020. That is the only year on the table. The township's count is two thousand five hundred fifty-seven. I will not average them. I will not move the Universalist church in the township's picture onto this pin. This pin is the census place.",
+    long: "",
+    names: ["Jersey"]
+  },
+  {
+    id: "jersey-cemetery",
+    name: "Garretts, Not This Plat",
+    lat: 40.0553,
+    lng: -82.7220,
+    radius: 40,
+    short: "A 1979 record says David, called another brother, died in 1845, and that a stone stands in a little cemetery it calls Jersey. I do not have his birth. Probably stays, on the brothers. The deed is for Garretts Settlement, not for the 1832 plat. I will not move it. A log chapel is about 1851 in one account and 1855 in another. About stays. I will not average them. A later church was razed in 1949. Razed stays. The year it was built is broken on the page. I will not finish it. There is still no nation, and no battle. The next place, when you want it, is Jerusalem.",
+    long: "",
+    names: ["Jersey"]
+  },
+
+  {
+    id: "approach-jerusalem",
+    name: "Jerusalem",
+    lat: 39.8600,
+    lng: -81.0967,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Jerusalem, the village in Monroe County. Not Woodsfield. The encyclopedia prints no plat and no reason for the name. A directory says it does not have a founding date. If you stay on the road, I'll start at that gap.",
+    long: "",
+    names: ["Jerusalem"]
+  },
+  {
+    id: "jerusalem-1850",
+    name: "Might Consider",
+    lat: 39.8519,
+    lng: -81.0967,
+    radius: 40,
+    short: "The encyclopedia prints no plat, no founder, and no reason for the name. I will not supply them, and I will not move the other Jerusalems in this state, or the city in the other country. A directory says it does not have a founding date, and that one might consider 1850, because a list of offices opens the post office that year. Does not have stays. Might consider stays. The census says one hundred twenty-one people in 2020. The high number on the table is three hundred seventeen, in 1960. The box says one thousand two hundred sixty-three feet. A directory says one thousand two hundred fifty. I will not average them. The miles agree. The kilometers do not. The picture is Main Street. I do not have its year. This pin is the village.",
+    long: "",
+    names: ["Jerusalem"]
+  },
+  {
+    id: "jerusalem-street",
+    name: "No Plat on the Page",
+    lat: 39.8514,
+    lng: -81.0959,
+    radius: 40,
+    short: "Main Street is the only thing I can point at, and it has no year. There is still no person with years, no yard I can name, no nation, and no battle. The library's offices are in Woodsfield. I will not move them. The next place, when you want it, is Jewett.",
+    long: "",
+    names: ["Jerusalem"]
+  },
+
+  {
+    id: "approach-jewett",
+    name: "Jewett",
+    lat: 40.3760,
+    lng: -81.0014,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Jewett, the village in Rumley Township, Harrison County. Not Cadiz. It was platted in 1851 as Fairview. The present name is a railroad man, and the page does not say when it changed. If you stay on the road, I'll start at Fairview.",
+    long: "",
+    names: ["Jewett"]
+  },
+  {
+    id: "jewett-1851",
+    name: "Fairview",
+    lat: 40.3678,
+    lng: -81.0014,
+    radius: 40,
+    short: "The encyclopedia says Jewett was platted in 1851 under the name Fairview. The present name is for T. M. Jewett, a railroad official. I do not have his years, and I will not make the new name the year of the plat. A directory says it does not have a founding date, and that one might consider 1856 for the post office. Does not have stays. Might consider stays. The census says five hundred fifty-four people in 2020. A rebased row prints five hundred fifty-two. Recalculated stays. I will not average them. The box says one thousand twenty-seven feet. A directory says one thousand twenty. I will not average them. The caption of the farmland says just outside. Outside stays. This pin is the village.",
+    long: "",
+    names: ["Jewett"]
+  },
+  {
+    id: "jewett-cars",
+    name: "Until 1904",
+    lat: 40.3673,
+    lng: -81.0006,
+    radius: 40,
+    short: "The Jewett Car Company built streetcars here from 1894 until 1904. Until stays. It then moved to Newark and stopped in 1919. I will not move Newark, and I will not say the works are standing. The Conotton Creek Trail ends here. The page spells its verb spains, and I will not repair it. Eleven and two tenths of a mile is one way. I will not make the round trip the same number. One covered bridge on that trail is in this village. The picture is the bridge in Scio. I will not move it. There is still no person with years, no nation, and no battle. The next place, when you want it, is Johnstown.",
+    long: "",
+    names: ["Jewett"]
+  },
+
+  {
+    id: "approach-johnstown",
+    name: "Johnstown",
+    lat: 40.1580,
+    lng: -82.6881,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Johnstown, the city in Licking County. Not Newark. Not the Johnstown in Pennsylvania. The plat is 1813. The pages do not agree on the deed, or on the day of the sale. If you stay on the road, I'll start at the tract.",
+    long: "",
+    names: ["Johnstown"]
+  },
+  {
+    id: "johnstown-1813",
+    name: "December, or December",
+    lat: 40.1500,
+    lng: -82.6881,
+    radius: 40,
+    short: "The encyclopedia says four thousand acres were deeded to John Brown in 1800, for military service, and it also prints sixteen square kilometers. I will not make those one measure. A township page dates the deed April 2, 1808. I will not average the years. He sold it in 1810. One page says December 7. Another says December 28. I will not average the days. Dr. Oliver Bigelow laid the village out in 1813. The gift of the square is 1817 on a timeline, and undated on the encyclopedia. I will not make them one year. The name was probably taken from Johnstown, New York. Probably stays. Believed stays. I will not move that city. This place was called a city on October 21, 2021. The census says five thousand one hundred eighty-two people in 2020. A local page prints five thousand one hundred sixty-six. I will not average them. The box says three square miles. The geography line says two and ninety-one hundredths. I will not average them. This pin is the city.",
+    long: "",
+    names: ["Johnstown"]
+  },
+  {
+    id: "johnstown-square",
+    name: "Nearly",
+    lat: 40.1495,
+    lng: -82.6873,
+    radius: 40,
+    short: "Bigelow died in 1817. One page says November 5. Another says November 6. I will not average them, and I do not have his birth. The cemetery he gave sits inside the village, and the page gives it three names. I will not make them three yards. The picture is the community building on the square. I will not give it the opera house's year of 1885. In 1926 James Bailey found a nearly complete mastodon under the city. Nearly stays. The bones went to Cleveland. I will not move them back. George and Charles Green bought land from the Wyandots. I do not have the year. There is no battle on this street. The next place, when you want it, is Junction City.",
+    long: "",
+    names: ["Johnstown"]
+  },
+
+  {
+    id: "approach-junction-city",
+    name: "Junction City",
+    lat: 39.7300,
+    lng: -82.2997,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Junction City, the village in Perry County. Not New Lexington. Not the Junction City in Richland County. This one was laid out in 1872, where the railroad joined. The office is the same year. If you stay on the road, I'll start at the junction.",
+    long: "",
+    names: ["Junction City"]
+  },
+  {
+    id: "junction-city-1872",
+    name: "The Same Year",
+    lat: 39.7217,
+    lng: -82.2997,
+    radius: 40,
+    short: "The encyclopedia says Junction City was laid out in 1872 at a railroad junction, and that the post office has been here since 1872. I will not invent a day, and I will not split the year. The census says seven hundred twenty-one people in 2020. A map page prints eight hundred fifty-four. I will not average them. The box says sixty-five hundredths of a square mile. The geography line says sixty-four. I will not average them. The box says eight hundred forty-six feet. A map says eight hundred thirty-three, a short way off. I will not average them. The picture is Main Street. I do not have its year. This pin is the village.",
+    long: "",
+    names: ["Junction City"]
+  },
+  {
+    id: "junction-city-names",
+    name: "Not the Richland Plat",
+    lat: 39.7212,
+    lng: -82.2989,
+    radius: 40,
+    short: "A map lists Damascus, East Rush Creek, East Rushcreek, Hard Scrabble, Trio City, Wolfs Station, and Wolftown. I will not make them this name, and I will not average the two Rush spellings. The encyclopedia does not name the men. I will not supply them. An 1873 plat of a Junction City in Richland County is not this street. I will not move it. A map names a park here. I do not have its year. There is still no person with years, no nation, and no battle. The next place, when you want it, is Kanauga.",
+    long: "",
+    names: ["Junction City"]
+  },
+
+  {
+    id: "approach-kanauga",
+    name: "Kanauga",
+    lat: 38.8490,
+    lng: -82.1494,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Kanauga, the unincorporated census place on the Ohio River, in Gallia County. Not the city of Gallipolis, which is the next ground south. The name's origin is obscure. The office opened in 1896 and closed in the nineteen sixties. If you stay on the road, I'll start at the name.",
+    long: "",
+    names: ["Kanauga"]
+  },
+  {
+    id: "kanauga-1896",
+    name: "Obscure",
+    lat: 38.8411,
+    lng: -82.1494,
+    radius: 40,
+    short: "The encyclopedia says a post office called Kanauga opened in 1896 and was discontinued in the nineteen sixties. I will not pick a year inside that decade. A directory says it does not have a founding date, and that one might consider 1896. Does not have stays. Might consider stays. The origin of the name is obscure. Obscure stays. I will not invent a plat, and I will not make the river across the way into the meaning. The census says one hundred eighty-five people in 2020. The place sits in two townships. Primarily stays. The box says five hundred seventy-one feet. A map of the old office says five hundred seventy. I will not average them. This pin is the census place.",
+    long: "",
+    names: ["Kanauga"]
+  },
+  {
+    id: "kanauga-bridge",
+    name: "The Memorial, Not the Mouth",
+    lat: 38.8406,
+    lng: -82.1486,
+    radius: 40,
+    short: "U.S. Route 35 leaves by the southern part of this place and crosses on the Silver Memorial Bridge. Southern stays. I do not have the bridge's year. State Route 7 goes through the center. Center stays. I will not make the roads one road. Point Pleasant and the mouth of the Kanawha are directly across. Directly across stays. I will not move them. There is still no person with years, no yard, no nation, and no battle. The next place, when you want it, is Kansas.",
+    long: "",
+    names: ["Kanauga"]
+  },
+
+  {
+    id: "approach-kansas",
+    name: "Kansas",
+    lat: 41.2530,
+    lng: -83.2847,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Kansas, the unincorporated census place in Liberty Township, Seneca County. Not Tiffin. Not the state. It was platted in early 1855, and named for the Kansas Territory. Early stays. If you stay on the road, I'll start at the plat.",
+    long: "",
+    names: ["Kansas"]
+  },
+  {
+    id: "kansas-1855",
+    name: "The Territory",
+    lat: 41.2450,
+    lng: -83.2847,
+    radius: 40,
+    short: "The encyclopedia says Kansas was platted in early 1855, along the Lake Erie and Louisville Railroad. Early stays. I will not pick a month, and I will not move the lake or the city. The name is the Kansas Territory. Territory stays. I will not move the state. It is unincorporated, and it has a post office. Although stays. The census says one hundred seventy-five people in 2020. The page says forty-four hundredths of a square mile, all land. The picture is the community post office. I do not have the year it opened, and I will not give it 1855. This pin is the census place.",
+    long: "",
+    names: ["Kansas"]
+  },
+  {
+    id: "kansas-farm",
+    name: "A Short Distance South",
+    lat: 41.2445,
+    lng: -83.2839,
+    radius: 40,
+    short: "Michaels Farm is a short distance south, on the same road, and it has been named a historic site. Short stays. South stays. I do not have the year of the house, and I will not move the farm onto this pin. The county is named for the Seneca. I will not move that nation here. There is still no person with years, and no battle. The next place, when you want it, is Kelleys Island.",
+    long: "",
+    names: ["Kansas"]
+  },
+
+  {
+    id: "approach-kelleys-island",
+    name: "Kelleys Island",
+    lat: 41.6120,
+    lng: -82.7028,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Kelleys Island, the village that takes the whole island, in Erie County. Not Sandusky. The ferry is from Marblehead, about four and a half miles off. About stays. The brothers started buying in 1833. The name was changed in 1840. If you stay on the boat, I'll start at the purchase.",
+    long: "",
+    names: ["Kelleys Island"]
+  },
+  {
+    id: "kelleys-island-1833",
+    name: "Yes, an Apostrophe",
+    lat: 41.6033,
+    lng: -82.7028,
+    radius: 40,
+    short: "On August 20, 1833, Datus and Irad Kelley began buying the island at a dollar and a half an acre. One page says slowly. Slowly stays. It was casually called Cunningham's. One page spells that word causally. I will not repair it. They renamed it in 1840. The township election that year drew fifteen votes, and but six of the men were taxpayers. But stays. The village dates from 1887, and the page says yes, the name then had an apostrophe. Yes stays. Common use has dropped it. Dropped stays. Datus was born on April 24, 1788, and Irad on October 24, 1791. I do not have their deaths. The census says two hundred fifty-six people in 2020. The village page says three hundred twelve in 2010, and eight hundred fifty-nine homes. I will not average them. The brothers' three thousand acres are not the census area. I will not make them one. This pin is the village.",
+    long: "",
+    names: ["Kelleys Island"]
+  },
+  {
+    id: "kelleys-island-grooves",
+    name: "Long Since Vanished",
+    lat: 41.6028,
+    lng: -82.7020,
+    radius: 40,
+    short: "In 1892 the quarry set aside the last glacial groove. About four hundred twenty-seven feet long stays an about. As much as ten feet deep stays an as much as. The others were quarried away. Inscription Rock is just west of the ferry. In 1885 the carvings were filled so they could be photographed, because the stone was already soft. Already stays. A smaller rock in the North Bay has long since vanished. Long since stays. I will not point at it, and I will not name a nation the page does not name. The town hall is 1861, given on a fiftieth anniversary. I will not invent the wedding. There is no battle I will place. The next place, when you want it, is Kent.",
+    long: "",
+    names: ["Kelleys Island"]
+  },
+
+  {
+    id: "approach-kent",
+    name: "Kent",
+    lat: 41.1570,
+    lng: -81.3608,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Kent, the city in Portage County. Not Ravenna. It was Carthage and Franklin Mills. One page changes the name in 1863. The city page says 1864. I will not average them. If you stay on the road, I'll start at the river.",
+    long: "",
+    names: ["Kent"]
+  },
+  {
+    id: "kent-1805",
+    name: "Franklin Mills",
+    lat: 41.1492,
+    lng: -81.3608,
+    radius: 40,
+    short: "The encyclopedia says John and Sally Haymaker settled here in November 1805. A page also prints Sarah. I will not drop it. Early November stays. The first mill is 1807 on their page, and 1805 in a museum's introduction. I will not average them. The name Kent is 1864 on the city page, for Marvin Kent, and 1863 on a timeline. I will not average them. The village election was Tuesday, July 30, 1867. It became a city after the 1920 census. After stays. The encyclopedia says twenty-eight thousand two hundred fifteen people in 2020. The city page says twenty-seven thousand one hundred forty-seven. I will not average them. The box says nine and thirty-three hundredths of a square mile. A 2010 line says nine and twenty-eight. I will not average them. This pin is the city.",
+    long: "",
+    names: ["Kent"]
+  },
+  {
+    id: "kent-cemetery",
+    name: "Noted",
+    lat: 41.1487,
+    lng: -81.3600,
+    radius: 40,
+    short: "Standing Rock Cemetery was bought in 1857. The first lots were sold in 1858. I will not make those one year. Sally's son John Franklin was born on September 11, 1807, the first white child in the township. First stays. I do not have his death. The page says the place was noted for the Underground Railroad, leading up to the war. Leading up stays. Noted stays. It names the shootings of May 4, 1970, and it does not, in the lines I have, give a number. I will not add one. The Tree City is the late eighteen hundreds, and hundreds of trees. Late stays. There is no nation on this page. The next place, when you want it, is Kenton.",
+    long: "",
+    names: ["Kent"]
+  },
+
+  {
+    id: "approach-kenton",
+    name: "Kenton",
+    lat: 40.6550,
+    lng: -83.6081,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Kenton, the county seat of Hardin County. Not Kent. The legislature called for the town in the early eighteen thirties. Early stays. The village is 1845, and the city is 1886. If you stay on the road, I'll start at the fort.",
+    long: "",
+    names: ["Kenton"]
+  },
+  {
+    id: "kenton-1845",
+    name: "Aged Eighty-One",
+    lat: 40.6472,
+    lng: -83.6081,
+    radius: 40,
+    short: "The city page says a new town was directed in the early eighteen thirties, on the north side of the Scioto. Early stays. North stays. It was a village in 1845 and a city in 1886. I will not make those one year. It is named for Simon Kenton. His page says he was born on April 3, 1755, and died on April 29, 1836, aged eighty-one. Aged stays. I will not correct it. He was also called Butler. Also stays. He is buried in Urbana. I will not move the grave. The census says seven thousand nine hundred forty-seven people in 2020. An older lead says eight thousand two hundred sixty-two in 2010. I will not average them. This pin is the city.",
+    long: "",
+    names: ["Kenton"]
+  },
+  {
+    id: "kenton-fort",
+    name: "One of the Forts",
+    lat: 40.6467,
+    lng: -83.6073,
+    radius: 40,
+    short: "Fort McArthur was built here in 1812, one of the forts on Hull's march toward Detroit. One of stays. I will not move Detroit, and I will not say the logs are standing. The courthouse is at the center of the square. Center stays. A picture of that square is dated 1890. I will not make that the year the building went up. The hardware company was founded in 1890. One page says it lasted until 1952. I will not erase the end. There is no nation I will move onto this street. The next place, when you want it, is Kenwood.",
+    long: "",
+    names: ["Kenton"]
+  },
+
+  {
+    id: "approach-kenwood",
+    name: "Kenwood",
+    lat: 39.2160,
+    lng: -84.3722,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Kenwood, the unincorporated census place in Sycamore Township, Hamilton County. Not Cincinnati. The encyclopedia prints no plat and no reason for the name. If you stay on the road, I'll start at that gap.",
+    long: "",
+    names: ["Kenwood"]
+  },
+  {
+    id: "kenwood-census",
+    name: "No Plat on the Page",
+    lat: 39.2083,
+    lng: -84.3722,
+    radius: 40,
+    short: "The encyclopedia prints no plat, no founder, and no reason for the name. I will not supply them. A map calls the place a village. The encyclopedia does not. I will not average the words. The census says seven thousand five hundred seventy people in 2020. Another page prints seven thousand five hundred thirty-eight, and a map prints six thousand nine hundred eighty. I will not average them. The box says two and forty-two hundredths of a square mile. The geography line says two and three tenths. I will not average them. The box says seven hundred ninety-four feet. A map says eight hundred one, a short way off. I will not average them. This pin is the census place.",
+    long: "",
+    names: ["Kenwood"]
+  },
+  {
+    id: "kenwood-towne",
+    name: "Formerly",
+    lat: 39.2078,
+    lng: -84.3714,
+    radius: 40,
+    short: "The page says this is a major shopping place for the Cincinnati area. Major stays. Kenwood Towne Centre is at the corner of two roads, next to the interstate. Next to stays. The Kenwood Collection was formerly Town Place. Formerly stays. I do not have a year for either. A school a map lists is then said to be in Cincinnati. I will not move it. There is still no person with years, no yard I will claim, no nation, and no battle. The next place, when you want it, is Kettlersville.",
+    long: "",
+    names: ["Kenwood"]
+  },
+
+  {
+    id: "approach-kettlersville",
+    name: "Kettlersville",
+    lat: 40.4470,
+    lng: -84.2597,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Kettlersville, the village in Shelby County. Not Sidney. Christopher Kettler platted it in 1873, and the office opened in 1874. I will not make those one year. If you stay on the road, I'll start at the plat.",
+    long: "",
+    names: ["Kettlersville"]
+  },
+  {
+    id: "kettlersville-1873",
+    name: "Named for Him",
+    lat: 40.4389,
+    lng: -84.2597,
+    radius: 40,
+    short: "The encyclopedia says Kettlersville was platted in 1873 by Christopher Kettler, and named for him. I do not have his years. The office has been here since 1874. I will not make the two years one year. A newspaper says the one hundred fiftieth year was kept through 2023. Through stays. A directory says it does not have a founding date, and that one might consider the office. Does not have stays. Might consider stays. I will not erase the plat. The census says one hundred sixty-four people in 2020. The high number on the table is two hundred fifty-two, in 1970. The picture is the church. I do not have its year. This pin is the village.",
+    long: "",
+    names: ["Kettlersville"]
+  },
+  {
+    id: "kettlersville-west",
+    name: "Just to the West",
+    lat: 40.4384,
+    lng: -84.2589,
+    radius: 40,
+    short: "A drag strip sat just to the west of the village and ceased in the early nineteen seventies. Just stays. West stays. Early stays. I will not move it onto this street, and I will not pick the year. The post office is still on the village's own list of businesses. There is no person with years, no yard, no nation, and no battle. The next place, when you want it, is Kidron.",
+    long: "",
+    names: ["Kettlersville"]
+  },
+
+  {
+    id: "approach-kidron",
+    name: "Kidron",
+    lat: 40.7520,
+    lng: -81.7467,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Kidron, the unincorporated census place in Sugar Creek Township, Wayne County. Not Wooster. The settlers called it Sonnenberg. One page says 1817. The encyclopedia says 1819. I will not average them. If you stay on the road, I'll start at the two years.",
+    long: "",
+    names: ["Kidron"]
+  },
+  {
+    id: "kidron-1819",
+    name: "Gave Way",
+    lat: 40.7439,
+    lng: -81.7467,
+    radius: 40,
+    short: "The encyclopedia says Swiss Mennonites settled here in 1819, and named the place Sonnenberg. Later that gave way to Kidron. Later stays. Gave way stays. I will not date the change. They were called the quiet people in the country. The marks on the German stay. A church page says the congregation was founded in 1817. A marker says the summer of 1819. Summer stays. I will not average the years. The three hundred twenty acres are about two miles northeast. About stays. I will not move them onto this pin. The census says nine hundred sixty-six people in 2020. The picture is downtown. I do not have its year. This pin is the census place.",
+    long: "",
+    names: ["Kidron"]
+  },
+  {
+    id: "kidron-church",
+    name: "Not the Episode",
+    lat: 40.7434,
+    lng: -81.7459,
+    radius: 40,
+    short: "The brick church on Kidron Road was put up in 1937, after the congregation was organized on October 18, 1936, withdrawing from the older Sonnenberg church. Withdrawing stays. I do not have the years of the men who were ordained. Lehman's sells goods the page calls Amish-made. I will not make that the Mennonite church, and I do not have the store's year. A forest is nearby. Nearby stays. A television episode used this name for a foiled attack. Foiled stays. I will not move it onto the road. There is no nation from before the settlers, and no battle. The next place, when you want it, is Kilbourne.",
+    long: "",
+    names: ["Kidron"]
+  },
+
+  {
+    id: "approach-kilbourne",
+    name: "Kilbourne",
+    lat: 40.3400,
+    lng: -82.9592,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Kilbourne, the unincorporated census place in Brown Township, Delaware County. Not the city of Delaware. It was first called Eden. The office lines do not agree. If you stay on the road, I'll start at Eden.",
+    long: "",
+    names: ["Kilbourne"]
+  },
+  {
+    id: "kilbourne-eden",
+    name: "Open, and Closed",
+    lat: 40.3322,
+    lng: -82.9592,
+    radius: 40,
+    short: "The encyclopedia says Kilbourne was originally called Eden, and that the name is James Kilbourne, a surveyor. I do not have his years. One sentence says the office has been here since 1837 but closed in 2017. But stays. Another sentence says the community has a post office. Has stays. I will not average them. The lines are marked as an old revision. Old stays. A secondary page says 1836 for the founding and 1838 for the office, and spells it Kilbourn. I will not average the years or the spelling. The census says one hundred twenty-seven people in 2020. The box says forty-five hundredths of a square mile, all land. This pin is the census place.",
+    long: "",
+    names: ["Kilbourne"]
+  },
+  {
+    id: "kilbourne-creek",
+    name: "Adjacent",
+    lat: 40.3317,
+    lng: -82.9584,
+    radius: 40,
+    short: "A secondary page names a house built in 1859, and a former inn. Former stays. The encyclopedia does not. I will not pretend it does. The state park is adjacent, and the reservoir is near. Adjacent stays. Near stays. I will not move them. There is still no person with years, no nation, and no battle. The next place, when you want it, is Killbuck.",
+    long: "",
+    names: ["Kilbourne"]
+  },
+
+  {
+    id: "approach-killbuck",
+    name: "Killbuck",
+    lat: 40.5060,
+    lng: -81.9833,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Killbuck, the village in Holmes County, along the creek. Not Millersburg. One page says it was established in 1874. Another says it was incorporated in 1882, after it had been Shrimplin and then Oxford. I will not average them. If you stay on the road, I'll start at the names.",
+    long: "",
+    names: ["Killbuck"]
+  },
+  {
+    id: "killbuck-1874",
+    name: "Shrimplin, Then Oxford",
+    lat: 40.4981,
+    lng: -81.9833,
+    radius: 40,
+    short: "The encyclopedia says Killbuck was established in 1874, and named for Bemino, also known as John Killbuck Sr. Also stays. A tourist page says the place was Shrimplin for many years, then Oxford, and incorporated as Killbuck in 1882. Many stays. I will not average 1874 and 1882. The same page says Abraham Shrimplin and his wife came in the early spring of 1809, and the sentence is broken. I will not repair it. Early stays. The census says eight hundred ten people in 2020. The table skips a year after 1880. I will not fill it. The picture is the post office. I do not have its year. This pin is the village.",
+    long: "",
+    names: ["Killbuck"]
+  },
+  {
+    id: "killbuck-names",
+    name: "Not the Island",
+    lat: 40.4976,
+    lng: -81.9825,
+    radius: 40,
+    short: "A marker calls the man Gelelemend, later William Henry, and says he died in January 1811. January stays. I will not give that death to Bemino. The attack it tells was on an island in the Allegheny. I will not move it. A mill went up on this creek in 1821. The sentence is missing a word. I will not supply it. The first oil well in the county was a few years after incorporation. A few stays. I will not pick the year. There is no battle I will place on this street. The next place, when you want it, is Kimbolton.",
+    long: "",
+    names: ["Killbuck"]
+  },
+
+  {
+    id: "approach-kimbolton",
+    name: "Kimbolton",
+    lat: 40.1590,
+    lng: -81.5758,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Kimbolton, the unincorporated census place in Liberty Township, Guernsey County, along Wills Creek. Not Cambridge. It was platted in 1828 as Liberty. The village was dissolved in 2005. If you stay on the road, I'll start at Liberty.",
+    long: "",
+    names: ["Kimbolton"]
+  },
+  {
+    id: "kimbolton-1828",
+    name: "Surrendered",
+    lat: 40.1508,
+    lng: -81.5758,
+    radius: 40,
+    short: "The encyclopedia says John Gibson was the first person to lay out Liberty, in 1828. First stays. An office called Kimbolton has been here since 1837. The village was incorporated under that name in 1884. I will not make the three years one year. The name is derived from a town in England, the native home of a local merchant. Derived stays. I will not name him. In March 2004 the voters surrendered the village. It was officially dissolved on April 30, 2005. Officially stays. The census says one hundred fifty-two people in 2020. A 2000 line says one hundred ninety, in the village. I will not average them. The picture is the Methodist church on Main Street. I do not have its year. This pin is the census place.",
+    long: "",
+    names: ["Kimbolton"]
+  },
+  {
+    id: "kimbolton-church",
+    name: "Not the English Town",
+    lat: 40.1503,
+    lng: -81.5750,
+    radius: 40,
+    short: "I will not move the Kimbolton in England onto this creek. A secondary page prints other days and other men. I will not average them with 1828 and 1837. The church is the picture, and it has no year. There is still no person with years, no yard, no nation, and no battle. The next place, when you want it, is Kings Mills.",
+    long: "",
+    names: ["Kimbolton"]
+  },
+
+  {
+    id: "approach-kings-mills",
+    name: "Kings Mills",
+    lat: 39.3670,
+    lng: -84.2478,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Kings Mills, the unincorporated census place on the western shore of the Little Miami, in Warren County. Not Lebanon. A town called Gainsboro was platted here and did not prosper. Did not stays. The company town is 1884. If you stay on the road, I'll start at the mill.",
+    long: "",
+    names: ["Kings Mills"]
+  },
+  {
+    id: "kings-mills-1884",
+    name: "Did Not Prosper",
+    lat: 39.3589,
+    lng: -84.2478,
+    radius: 40,
+    short: "The encyclopedia says Gainsboro was platted on this site in 1815 and did not prosper. Did not stays. An older page says the eighteen twenties. A newspaper spells it Gainesboro and Gainesborough, and puts an office here in 1822. I will not average the years or the spellings. Kings Mills was established in 1884 as a company town. The same paper says the King family bought the mill in 1877. I will not average 1877 and 1884. One page says the northeastern corner of the township. Another says the southwestern. I will not average them. The census says one thousand three hundred thirty-six people in 2020. The office is named for this place and for Kings Island. I will not make the park the town. This pin is the census place.",
+    long: "",
+    names: ["Kings Mills"]
+  },
+  {
+    id: "kings-mills-powder",
+    name: "Across the River",
+    lat: 39.3584,
+    lng: -84.2470,
+    radius: 40,
+    short: "A mill went up about 1799, several hundred feet below where the bridge now stands. About stays. The cartridge plant was built across the river. Across stays. I will not move it. The page says that works ceased in 1944. An older line says the nineteen forties. I will not average them. On July 15, 1890, powder on the railroad went up. Eleven were killed instantly. Instantly stays. The page does not name them. The football hall was formerly here and left in 1995. Formerly stays. I will not say it is standing. The trail stays on the other shore. There is no nation, and no battle I will invent. The next place, when you want it, is Kingston.",
+    long: "",
+    names: ["Kings Mills"]
+  },
+
+  {
+    id: "approach-kingston",
+    name: "Kingston",
+    lat: 39.4800,
+    lng: -82.9119,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Kingston, the village in Ross County. Not Chillicothe. Not Kings Mills. The encyclopedia says it was platted in 1816. A names file says 1805. I will not average them. If you stay on the road, I'll start at the two years.",
+    long: "",
+    names: ["Kingston"]
+  },
+  {
+    id: "kingston-1816",
+    name: "Kingstown",
+    lat: 39.4722,
+    lng: -82.9119,
+    radius: 40,
+    short: "The encyclopedia says Kingston was platted in 1816, and it does not say by whom, or why. I will not supply either. A names file says established in 1805, and it lists Ingstown and Kingstown. I will not average the years, and I will not make those the present name. The same file classes the place as unincorporated. The census calls it a village. I will not average the words. The census says one thousand two hundred sixty-two people in 2020. A rebased row prints one thousand two hundred sixty. Recalculated stays. I will not average them. The picture is along Main Street. I do not have its year. This pin is the village.",
+    long: "",
+    names: ["Kingston"]
+  },
+  {
+    id: "kingston-street",
+    name: "Not the Other Township",
+    lat: 39.4717,
+    lng: -82.9111,
+    radius: 40,
+    short: "Main Street is the only thing I can point at, and it has no year. The names file's point sits a short way off. I will not average the points. A Green Township in another county is not this street. I will not move it. There is still no person with years, no yard, no nation, and no battle. The next place, when you want it, is Kingsville.",
+    long: "",
+    names: ["Kingston"]
+  },
+
+  {
+    id: "approach-kingsville",
+    name: "Kingsville",
+    lat: 41.8940,
+    lng: -80.6692,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Kingsville, the unincorporated census place in the center of Kingsville Township, Ashtabula County. Not North Kingsville. Not Jefferson. It was laid out in 1810 under another name. One page says Fobesville. If you stay on the road, I'll start at the spelling.",
+    long: "",
+    names: ["Kingsville"]
+  },
+  {
+    id: "kingsville-1810",
+    name: "Four Gallons",
+    lat: 41.8861,
+    lng: -80.6692,
+    radius: 40,
+    short: "The encyclopedia says the place was called Fobesdale or Fobesville, and laid out in 1810 under the latter name. Latter stays. An older copy spells it Forbesville. A local page spells Fobes Dale, and says it was organized in 1810. I will not average them. A man named King paid four gallons of whiskey for the name. One page says he lived in Conneaut. Another says he was a transient with no interest. I will not average resident and transient, and I will not move Conneaut. The box says eight hundred twenty-three people in 2020. The lead says eight hundred twenty-four. I will not average them. This pin is the census place.",
+    long: "",
+    names: ["Kingsville"]
+  },
+  {
+    id: "kingsville-view",
+    name: "A View",
+    lat: 41.8856,
+    lng: -80.6684,
+    radius: 40,
+    short: "The caption is a view, in September 2015, and it is missing a word. I will not supply it. In 1833 the township had a gristmill and other works. Contained stays. I will not say they are standing, and I will not move North Kingsville south onto this pin. A film used the place. Used stays. I will not retell it. There is no person with years, no nation, and no battle. The next place, when you want it, is Kinsman Center.",
+    long: "",
+    names: ["Kingsville"]
+  },
+
+  {
+    id: "approach-kinsman-center",
+    name: "Kinsman Center",
+    lat: 41.4540,
+    lng: -80.5884,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Kinsman Center. The encyclopedia also calls it Kinsman. Also stays. It is the unincorporated census place in Kinsman Township, Trumbull County. Not Warren. The man it is named for came in 1799. If you stay on the road, I'll start at the name.",
+    long: "",
+    names: ["Kinsman Center", "Kinsman"]
+  },
+  {
+    id: "kinsman-center-1753",
+    name: "I Will Not Change the Year",
+    lat: 41.4458,
+    lng: -80.5884,
+    radius: 40,
+    short: "The page says John Kinsman was born on May 7, 1753, and that in 1872 he married Rebecca Perkins. I will not change 1872. I do not have his death. He was a land agent, and the place is named for him. He came in 1799 and came back with his family in 1804. I will not make those one trip. By 1805 as many as fifty families were here. As many as stays. The census says five hundred seventy-four people in 2020, and six hundred sixteen in 2010. I will not average them. The office is here. I do not have its opening. The library is here. I do not have its year. This pin is the census place.",
+    long: "",
+    names: ["Kinsman Center", "Kinsman"]
+  },
+  {
+    id: "kinsman-center-mill",
+    name: "Once Stood",
+    lat: 41.4453,
+    lng: -80.5876,
+    radius: 40,
+    short: "A mill, a store, and a log house are in a sentence that says bank twice and breaks in the middle. I will not repair it. The Cone Bridge once stood. Once stays. I will not say it is standing. At twenty-three he marched to New York. I will not move that city, and I will not place the march on this crossing. There is no nation on the page, and no battle here. The next place, when you want it, is Kipton.",
+    long: "",
+    names: ["Kinsman Center", "Kinsman"]
+  },
 
 
 

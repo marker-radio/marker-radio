@@ -22804,6 +22804,1063 @@ STORIES.push(
     names: ["Kinsman Center", "Kinsman"]
   },
 
+  {
+    id: "approach-kipton",
+    name: "Kipton",
+    lat: 41.2740,
+    lng: -82.3039,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Kipton, the village in Camden Township, Lorain County. Not Elyria. He platted it around 1852 and called it Binghamton. Around stays. Another page drops the around. I will not average them. If you stay on the road, I'll start at the names.",
+    long: "",
+    names: ["Kipton"]
+  },
+  {
+    id: "kipton-1852",
+    name: "Camden Station",
+    lat: 41.2664,
+    lng: -82.3039,
+    radius: 40,
+    short: "The encyclopedia says Wm. W.Whitney platted it around 1852, and named it Binghamton. Around stays. I will not repair his name. Camden Station was used until 1862, then Kipton Station, and later simply Kipton. Later stays. Simply stays. The township page says the villagers took the name by common consent. Common consent stays. I will not erase the middle names. The encyclopedia says two hundred nine people in 2020. The township page says two hundred seven. I will not average them. The picture is the church. I do not have its year. This pin is the village.",
+    long: "",
+    names: ["Kipton"]
+  },
+  {
+    id: "kipton-wreck",
+    name: "Four Minutes, or Slow",
+    lat: 41.2659,
+    lng: -82.3031,
+    radius: 40,
+    short: "The encyclopedia says the wreck was April 18, 1891, and that a watch was running slow. Running slow stays. The township page says April 19, and that the watch had stopped and was four minutes off. Stopped stays. I will not average the days, or the two faults. One page says eight dead. Another says nine. The encyclopedia prints no number. I will not average them. The marker is in the park, in the middle of the village. Middle stays. The rails were pulled up in 1976. Pulled up stays. There is no person with years, no nation, and no battle. The next place, when you want it, is Kirby.",
+    long: "",
+    names: ["Kipton"]
+  },
+
+  {
+    id: "approach-kirby",
+    name: "Kirby",
+    lat: 40.8220,
+    lng: -83.4194,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Kirby, the village in Wyandot County. Not Upper Sandusky. It sits in Jackson Township and in Mifflin Township. I will not make those one. It was laid out in 1854. If you stay on the road, I'll start at the name.",
+    long: "",
+    names: ["Kirby"]
+  },
+  {
+    id: "kirby-1854",
+    name: "Remains Open",
+    lat: 40.8136,
+    lng: -83.4194,
+    radius: 40,
+    short: "The encyclopedia says Kirby was laid out and named for M. H. Kirby, in 1854. I do not have his years. The office was established the same year, and remains open. Remains stays. I will not make the plat and the office one act, and I will not supply the period the sentence does not have. A directory says it does not have a founding date, and that one might consider the office. Does not have stays. Might consider stays. I will not erase the plat. The census says one hundred twenty people in 2020. A rebased row prints one hundred nineteen. I will not average them. The picture is the church. I do not have its year. This pin is the village.",
+    long: "",
+    names: ["Kirby"]
+  },
+  {
+    id: "kirby-church",
+    name: "Not the Other Kirbys",
+    lat: 40.8131,
+    lng: -83.4186,
+    radius: 40,
+    short: "St. Mary's is the picture, and it has no year. The box says eight hundred seventy-three feet. A directory says eight hundred seventy. I will not average them. The box prints a density and an area that do not meet. I will not force them to. A directory names nineteen other Kirbys. I will not move them. There is no person with years, no yard, no nation, and no battle. The next place, when you want it, is Kirkersville.",
+    long: "",
+    names: ["Kirby"]
+  },
+
+  {
+    id: "approach-kirkersville",
+    name: "Kirkersville",
+    lat: 39.9580,
+    lng: -82.5986,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Kirkersville, the village in Licking County, along the South Fork. Not Newark. The land was bought in 1815. The plat was recorded in 1832. I will not make those one year. If you stay on the road, I'll start at the name.",
+    long: "",
+    names: ["Kirkersville"]
+  },
+  {
+    id: "kirkersville-1832",
+    name: "Him, or the Family",
+    lat: 39.9500,
+    lng: -82.5986,
+    radius: 40,
+    short: "The village page says Thomas Kirker, governor in 1807 and in 1808, bought the site in 1815 for his grandson. I do not have their births or their deaths. The plat was officially recorded in 1832, in honor of the family. Officially stays. The encyclopedia says William C. Kirker platted it, and that it was named for him. Him stays. I will not drop the initial, and I will not average him and the family. A directory says it does not have a founding, and might consider an office in 1833. Does not have stays. Might stays. I will not average the years. It was incorporated in 1911. The census says four hundred seventy-one people in 2020. The box says a little water. The geography line says all land. I will not average them. The picture is an aerial. I do not have its year. This pin is the village.",
+    long: "",
+    names: ["Kirkersville"]
+  },
+  {
+    id: "kirkersville-pike",
+    name: "Only Twenty-Seven Years",
+    lat: 39.9495,
+    lng: -82.5978,
+    radius: 40,
+    short: "Main Street is the National Road. The marks on the word pike stay. In 1902 the interurban ran down the middle of it. Middle stays. It only lasted twenty-seven years. Only stays. I will not add the closing year, and I will not say the rails are still there. The heading says the road helped build a nation. Helped stays. I will not make the village the nation. There is no person with a life span on the page, no yard, no nation, and no battle. The next place, when you want it, is Kirtland.",
+    long: "",
+    names: ["Kirkersville"]
+  },
+
+  {
+    id: "approach-kirtland",
+    name: "Kirtland",
+    lat: 41.6100,
+    lng: -81.3614,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Kirtland, the city in Lake County. Not Painesville. Not Kirtland Hills. The survey was 1796. The church plat is 1833. The village vote was 1968. I will not make those one year. If you stay on the road, I'll start at the temple.",
+    long: "",
+    names: ["Kirtland"]
+  },
+  {
+    id: "kirtland-1836",
+    name: "Claimed",
+    lat: 41.6025,
+    lng: -81.3614,
+    radius: 40,
+    short: "The encyclopedia says the temple was completed in 1836, and that the headquarters ran from 1831 to 1837. Another sentence says 1831 to 1832 and again from 1833 to 1838. A visitor page says 1831 to 1838. I will not average them. Many at the dedication claimed to see visions. Claimed stays. I will not drop it. The city is named for Turhand Kirtland. I do not have his years. It was a village in 1968 and a city when the 1970 count exceeded five thousand. Exceeded stays. The census says six thousand nine hundred thirty-seven people in 2020. A rebased row prints six thousand nine hundred thirty-three. I will not average them. The picture is the temple. This pin is the city.",
+    long: "",
+    names: ["Kirtland"]
+  },
+  {
+    id: "kirtland-plat",
+    name: "Not Before",
+    lat: 41.6020,
+    lng: -81.3606,
+    radius: 40,
+    short: "A plat is labeled not before August 2, 1833, and the page says probably in the days after. Probably stays. The township was not incorporated. Not stays. I will not make that drawing this city. The cornerstone is dated July 23, and that sentence has no year. I will not supply one. A visitor page also says the late eighteen thirties. Late stays. I will not average it with March 27, 1836. The box says one thousand thirty-seven feet. Another page says three hundred fifty-four meters. I will not average them. There is no life span on the lines I have, no nation, and no battle. The next place, when you want it, is Kirtland Hills.",
+    long: "",
+    names: ["Kirtland"]
+  },
+
+  {
+    id: "approach-kirtland-hills",
+    name: "Kirtland Hills",
+    lat: 41.6360,
+    lng: -81.3125,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Kirtland Hills, the village in Lake County. Not Kirtland. Not Painesville. The name was chosen in 1925. The vote was in 1926. The first meeting, on the village's own page, is 1929. I will not average them. If you stay on the road, I'll start at the name.",
+    long: "",
+    names: ["Kirtland Hills"]
+  },
+  {
+    id: "kirtland-hills-1926",
+    name: "In Honor",
+    lat: 41.6286,
+    lng: -81.3125,
+    radius: 40,
+    short: "The village page says the name was chosen in 1925, in honor of Dr. Jared P. Kirtland, who lived from 1793 to 1877. Lived stays. I will not place his house here. Residents of Kirtland and of Mentor voted on August 14, 1926. I will not move either place. The officers were elected on October 2, 1926, and the page says they took office on October 8, 1929. I will not average those dates. A secondary page prints October 8, 1926. I will not average that either. The census says six hundred ninety-two people in 2020. A rebased row prints four hundred eighty-two for 1990, against six hundred twenty-eight. I will not average them. The picture is Hanna's estate. I do not have its year. This pin is the village.",
+    long: "",
+    names: ["Kirtland Hills"]
+  },
+  {
+    id: "kirtland-hills-farm",
+    name: "Destined",
+    lat: 41.6281,
+    lng: -81.3117,
+    radius: 40,
+    short: "In 1922 the office of Olmsted was hired to plan a farm of six hundred acres. Office stays. A secondary page says four hundred. I will not average them. The box says seven hundred twelve feet. A page puts a mountain at one thousand two hundred twenty. I will not average the heights, and I will not make the mountain this mark. The reporting said the place was destined to be a second Bratenahl. Destined stays. According stays. I will not move Bratenahl. There is no nation named, and no battle. The next place, when you want it, is La Croft.",
+    long: "",
+    names: ["Kirtland Hills"]
+  },
+
+  {
+    id: "approach-la-croft",
+    name: "La Croft",
+    lat: 40.6550,
+    lng: -80.5997,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on La Croft, the unincorporated census place in Liverpool Township, Columbiana County. Not East Liverpool. Not Lisbon. The encyclopedia does not say who platted it, or when. If you stay on the road, I'll start at what it does not say.",
+    long: "",
+    names: ["La Croft"]
+  },
+  {
+    id: "la-croft-count",
+    name: "All Land",
+    lat: 40.6469,
+    lng: -80.5997,
+    radius: 40,
+    short: "The census says one thousand seventy-eight people in 2020. The table has fallen since one thousand five hundred eight in 1980. I will not make those one count. The place has one and fourteen hundredths of a square mile, all land. All stays. One page puts it in the northwest of the township. Another puts East Liverpool on the southeast. I will not average the directions, and I will not move the city. I did not see a plat, a name story, a picture, or a height. This pin is the census place.",
+    long: "",
+    names: ["La Croft"]
+  },
+  {
+    id: "la-croft-nearby",
+    name: "Not Wellsville",
+    lat: 40.6464,
+    lng: -80.5989,
+    radius: 40,
+    short: "A secondary page says coal in the township, bony and irregular, and pottery nearby. Nearby stays. I will not move the kilns. The oldest map a seller offers under this name is a 1904 sheet of Wellsville. I will not make that a founding, and I will not move the mill on that sheet. The township was organized in 1834. Last stays. I will not make that this place. There is no person with years, no yard, no nation, and no battle. The next place, when you want it, is La Rue.",
+    long: "",
+    names: ["La Croft"]
+  },
+
+  {
+    id: "approach-la-rue",
+    name: "La Rue",
+    lat: 40.5840,
+    lng: -83.3847,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on La Rue, the village in Montgomery Township, Marion County. Not the city of Marion. A page says Major William LaRue founded it on June 3, 1851. The office is 1853. I will not average them. If you stay on the road, I'll start at the name.",
+    long: "",
+    names: ["La Rue"]
+  },
+  {
+    id: "la-rue-1851",
+    name: "One Word, Two Words",
+    lat: 40.5764,
+    lng: -83.3847,
+    radius: 40,
+    short: "The encyclopedia says the village was named for Major William LaRue, and founded on June 3, 1851. His name is printed as one word. I will not average that with the village. The railroad came in the early eighteen fifties. Early stays. The office has been here since 1853. A page calls 1853 the inception. I will not average the years. Before the plat, a Wyandot village was at this location, prior to removal in the eighteen thirties. Prior stays. I will not add a treaty. The census says six hundred seventy-six people in 2020. A rebased row prints six hundred eighty-two. I will not average them. The picture is the business district. I do not have its year. This pin is the village.",
+    long: "",
+    names: ["La Rue"]
+  },
+  {
+    id: "la-rue-oorang",
+    name: "Only One, and Not Here",
+    lat: 40.5759,
+    lng: -83.3839,
+    radius: 40,
+    short: "The school was finished in 1890, with four levels. A fire in 1907 took much of it. Much stays. It was rebuilt without the third floor. Without stays. I will not average the two descriptions. The tile works became a community park. The kennel was here. The team played in 1922 and 1923, and it was strictly a traveling team. Strictly stays. Only one game was at home, and that game was in Marion. I will not move Marion, and I will not put the season on this street. The page says smallest, and ever. Those stay. There is no life span on the page, and no battle. The next place, when you want it, is Lafayette, the village.",
+    long: "",
+    names: ["La Rue"]
+  },
+
+  {
+    id: "approach-lafayette",
+    name: "Lafayette",
+    lat: 40.7670,
+    lng: -83.9500,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Lafayette, the village in Jackson Township, Allen County. Not Lima. Not the other Lafayette. It was platted in 1835 and incorporated in 1868. The mail used to say Herring. I will not make those one name. If you stay on the road, I'll start at the plat.",
+    long: "",
+    names: ["Lafayette"]
+  },
+  {
+    id: "lafayette-1835",
+    name: "Herring",
+    lat: 40.7589,
+    lng: -83.9500,
+    radius: 40,
+    short: "A local page says John Jackson surveyed the village and Barnett Weyer platted it in 1835. I will not make those one act. The office opened in 1848. By 1854 it was growing on both sides of the railroad. Both stays. It was incorporated in 1868. Before that, no records were kept. No records stays. The first mayor was elected in 1896. I will not average 1868 and 1896. The official name was Lafayette. The mail said Herring, because several towns used this name. Several stays. In 1910 it became Lafayette Rural Station. I will not make Herring the present name. The census says four hundred six people in 2020. It also prints three hundred four and four hundred forty-five. I will not average them. The picture is High Street. I do not have its year. This pin is the village.",
+    long: "",
+    names: ["Lafayette"]
+  },
+  {
+    id: "lafayette-fire",
+    name: "May Have Been",
+    lat: 40.7584,
+    lng: -83.9492,
+    radius: 40,
+    short: "The town hall was established in 1899. Established stays. In 1903 a fire nearly destroyed the downtown. Nearly stays. The page says what may have been a complete setback became an opportunity. May stays. I will not invent the opportunity. A contest is held every year on November 6. Every stays. I will not add when it began. A map's point sits off the encyclopedia's. I will not average them, and I will not move Lima's story, or the other Lafayette. There is no person with years, no yard, no nation, and no battle. The next place, when you want it, is the other Lafayette, the unincorporated one.",
+    long: "",
+    names: ["Lafayette"]
+  },
+
+  {
+    id: "approach-lafayette-madison",
+    name: "Lafayette",
+    lat: 39.9490,
+    lng: -83.4056,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Lafayette, the unincorporated census place in Deer Creek Township, Madison County. Not the village in Allen County. Not London. It was laid out on October 1, 1834. An older town sat off to the northwest, and the road missed it. If you stay on the road, I'll start at the plat.",
+    long: "",
+    names: ["Lafayette"]
+  },
+  {
+    id: "lafayette-madison-1834",
+    name: "In Honor",
+    lat: 39.9408,
+    lng: -83.4056,
+    radius: 40,
+    short: "The encyclopedia says William Minter laid Lafayette out on October 1, 1834, in honor of the Marquis de Lafayette. In honor stays. I do not have his years, and I will not place him here. On December 31, 1836, the office moved here and took this name. John Minter was the first postmaster. I will not make the two Minters one man. The office was discontinued on December 31, 1905. I will not average the two dates, and I will not say the office is open. The code on the page is London's. The census says two hundred six people in 2020. The picture looks west on the road. This pin is the census place.",
+    long: "",
+    names: ["Lafayette"]
+  },
+  {
+    id: "lafayette-madison-tavern",
+    name: "No Signs Left",
+    lat: 39.9403,
+    lng: -83.4048,
+    radius: 40,
+    short: "The Red Brick Tavern is one of eleven listed places in the county. One of stays. I do not have its year. The road is the former National Road. Former stays. Lawrenceville, also called Limerick, was a mile and a half northwest, and by 1915 it was pasture, with no signs left. No signs stays. I will not move it. A page about the other Lafayette does not belong here. There is no person with years, no nation, and no battle. The next place, when you want it, is Lafferty.",
+    long: "",
+    names: ["Lafayette"]
+  },
+
+  {
+    id: "approach-lafferty",
+    name: "Lafferty",
+    lat: 40.1220,
+    lng: -81.0189,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Lafferty, the unincorporated census place in Union Township, Belmont County, along Wheeling Creek. Not St. Clairsville. Not Wheeling. The page names a doctor, and it puts a parenthesis in his name. If you stay on the road, I'll start at the spelling.",
+    long: "",
+    names: ["Lafferty"]
+  },
+  {
+    id: "lafferty-name",
+    name: "One Doctor",
+    lat: 40.1142,
+    lng: -81.0189,
+    radius: 40,
+    short: "The encyclopedia says the place was named after one Dr. Joseph Laf(f)erty. One stays. The parenthesis stays. I will not choose how many f's he used, and I do not have his years. I do not have a plat. The census says two hundred fifty-five people in 2020. An older copy says three hundred four in 2010. I will not average them. It has a post office. Has stays. The picture is that office. I do not have its year. This pin is the census place.",
+    long: "",
+    names: ["Lafferty"]
+  },
+  {
+    id: "lafferty-office",
+    name: "Not the City",
+    lat: 40.1137,
+    lng: -81.0181,
+    radius: 40,
+    short: "The office is the only thing I can point at, and it has no year. The creek is not the city of Wheeling. I will not move that city. A baseball player is listed, and the page does not print his years. I will not invent them. There is no yard, no nation, and no battle. The next place, when you want it, is LaGrange.",
+    long: "",
+    names: ["Lafferty"]
+  },
+
+  {
+    id: "approach-lagrange",
+    name: "LaGrange",
+    lat: 41.2550,
+    lng: -82.1200,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on LaGrange, the village in LaGrange Township, Lorain County. Not Elyria. The township is not the village. One page spells the name with a space. The department took the space out in 1893, for no apparent reason. If you stay on the road, I'll start at the spelling.",
+    long: "",
+    names: ["LaGrange"]
+  },
+  {
+    id: "lagrange-1875",
+    name: "Whichever You Like",
+    lat: 41.2472,
+    lng: -82.1200,
+    radius: 40,
+    short: "The encyclopedia says the name derives from a château in France. Derives stays. I will not move it. The village page says the word means the farm or the barn, whichever you like. Whichever stays. I will not average them. Clark's family came on November 14, 1825. The township was organized in April 1827. The village's first election was April 5, 1875. I will not make those one day. On July 20, 1893, the spelling lost its space, for no apparent reason. That stays. Residents still use the old way. Still stays. The census says two thousand five hundred ninety-five people in 2020. The box says one area. The geography line says another, and all land. I will not average them. This pin is the village.",
+    long: "",
+    names: ["LaGrange"]
+  },
+  {
+    id: "lagrange-square",
+    name: "Eight Places on the Square",
+    lat: 41.2467,
+    lng: -82.1192,
+    radius: 40,
+    short: "The office has sat in eight places on the square. Eight stays. Veterans Park has the old hall. Old stays. I will not invent the war in that name. Fires have destroyed the other buildings. Other stays. The pictures are a roundabout and the municipal building. I do not have their years. There is no person with a life span on the page, no nation, and no battle here. The next place, when you want it, is Lake Buckhorn.",
+    long: "",
+    names: ["LaGrange"]
+  },
+
+  {
+    id: "approach-lake-buckhorn",
+    name: "Lake Buckhorn",
+    lat: 40.4820,
+    lng: -81.9083,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Lake Buckhorn, the census place in Mechanic Township, Holmes County. Not Millersburg. It is private, and it is gated. The water was impounded in 1967. I do not have a plat. If you stay on the road, I'll start at the lake.",
+    long: "",
+    names: ["Lake Buckhorn"]
+  },
+  {
+    id: "lake-buckhorn-1967",
+    name: "Members Only",
+    lat: 40.4744,
+    lng: -81.9083,
+    radius: 40,
+    short: "The encyclopedia says the community is built around a lake of two hundred twenty acres, impounded in 1967. Built around stays. Impounded stays. A dam page says one hundred ninety-five acres, and that the dam was commissioned that year. Commissioned stays. I will not average the acres, and I will not make the two verbs one. It is members-only. Members-only stays. The census says seven hundred twenty people in 2020. A survey prints seven hundred twenty-eight. I will not make that the census. The page prints a percent of water I will not force to match the areas. I did not see an office, or a picture of a building. This pin is the census place.",
+    long: "",
+    names: ["Lake Buckhorn"]
+  },
+  {
+    id: "lake-buckhorn-dam",
+    name: "Fair, and High",
+    lat: 40.4739,
+    lng: -81.9075,
+    radius: 40,
+    short: "The dam is earth, and the page calls the condition fair and the hazard high. Fair stays. High stays. I will not turn either word into a story. Its own point is not this one. I will not average them. A sentence says the dam also serves for benefits. I will not repair it. The catchment is printed in the thousands of square miles. I will not make that fit. There is no person with years, no public yard, no nation, and no battle. The next place, when you want it, is Lake Darby.",
+    long: "",
+    names: ["Lake Buckhorn"]
+  },
+
+  {
+    id: "approach-lake-darby",
+    name: "Lake Darby",
+    lat: 39.9730,
+    lng: -83.2403,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Lake Darby, the unincorporated census place in Franklin County, mostly in Prairie Township. Not Columbus. Not West Jefferson, which is across the creek. The page says the name is speculative. Speculative stays. There is no lake. If you stay on the road, I'll start at the name.",
+    long: "",
+    names: ["Lake Darby"]
+  },
+  {
+    id: "lake-darby-name",
+    name: "Never Built",
+    lat: 39.9653,
+    lng: -83.2403,
+    radius: 40,
+    short: "The encyclopedia says the origins are speculative, and that it can be presumed the neighborhood took its name from a reservoir proposed in 1967. Speculative stays. Presumed stays. Nearly four thousand acres. Nearly stays. The reservoir was never built. Never stays. The Army Core of Engineers abandoned it sometime in the nineteen seventies. Core stays. Sometime stays. I will not repair the spelling, and I will not average sometime with any other year. Locals are said to call it Darby Estates. The page tags that citation needed. That stays. The census says four thousand seven hundred thirty-one people in 2020. The box and the geography line do not agree on the land. I will not average them. This pin is the census place.",
+    long: "",
+    names: ["Lake Darby"]
+  },
+  {
+    id: "lake-darby-creek",
+    name: "Across the Creek",
+    lat: 39.9648,
+    lng: -83.2395,
+    radius: 40,
+    short: "Big Darby Creek is the western line, and the county line. I will not move Madison County, and I will not move West Jefferson. The road on the south is the National Road. Southern stays. The picture of a lake is a map of a plan. I will not put water where the page says there is none. There is no person with years, no public yard, no nation, and no battle. The next place, when you want it, is Lake Lakengren.",
+    long: "",
+    names: ["Lake Darby"]
+  },
+
+  {
+    id: "approach-lake-lakengren",
+    name: "Lake Lakengren",
+    lat: 39.6960,
+    lng: -84.6935,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Lake Lakengren, the unincorporated census place in Gasper Township, Preble County. Not Eaton. It is private, and it is gated. The encyclopedia says the late nineteen sixties. Another page says 1969. I will not drop either one. If you stay on the road, I'll start at the name.",
+    long: "",
+    names: ["Lake Lakengren"]
+  },
+  {
+    id: "lake-lakengren-1960s",
+    name: "Lock-n-Grin",
+    lat: 39.6884,
+    lng: -84.6935,
+    radius: 40,
+    short: "The encyclopedia says the name is pronounced lock-n-grin, a Viking name meaning the lake of the emerald green hills. The hyphens stay. I will not place that people here. A local page prints a different slogan, the land of the lakes in the emerald hills. I will not average a lake and the lakes. It says the work began in 1969. The encyclopedia says the late nineteen sixties. I will not erase either. The census says three thousand three hundred eighty-seven people in 2020. A map prints three thousand three hundred eighty. An older page puts three thousand three hundred eighty-three in 2016. I will not average them. The picture is houses on Paint Creek Road. This pin is the census place.",
+    long: "",
+    names: ["Lake Lakengren"]
+  },
+  {
+    id: "lake-lakengren-dam",
+    name: "Inside the Gate",
+    lat: 39.6879,
+    lng: -84.6927,
+    radius: 40,
+    short: "A page says the dams, the lodge, and the beach were done by 1971. By stays. Dams stays. Another page says a spring-fed lake of two hundred acres. Spring-fed stays. I did not see a second figure. The parks it names are inside the gate. I will not call them public. The north and the south are different schools. I will not make them one. There is no person with years, no nation, and no battle. The next place, when you want it, is Lake Lorelei.",
+    long: "",
+    names: ["Lake Lakengren"]
+  },
+
+  {
+    id: "approach-lake-lorelei",
+    name: "Lake Lorelei",
+    lat: 39.1950,
+    lng: -83.9714,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Lake Lorelei, the gated census place in Perry Township, Brown County. Not Fayetteville. Not Georgetown. The encyclopedia says the late nineteen sixties. The community's page says the lakes were full in April 1968. I will not drop either one. If you stay on the road, I'll start at the water.",
+    long: "",
+    names: ["Lake Lorelei"]
+  },
+  {
+    id: "lake-lorelei-1968",
+    name: "Of Which",
+    lat: 39.1875,
+    lng: -83.9714,
+    radius: 40,
+    short: "The community's page says the place is one hundred eighteen and a half acres, of which one hundred ninety-seven are water. I will not make that arithmetic work. It names three lakes, and one of them is spelled Fitchtelberg. I will not repair it. They were filled in April 1968. The encyclopedia says the late nineteen sixties. I will not erase either. The census says one thousand one hundred seventy-two people in 2020. A map prints one thousand one hundred seventy. In 1969 the page says twelve full-time residents. I will not average them. The box says nine hundred forty-two feet. The map says nine hundred twenty-two. I will not average the heights. This pin is the census place.",
+    long: "",
+    names: ["Lake Lorelei"]
+  },
+  {
+    id: "lake-lorelei-kurhause",
+    name: "Not the County's",
+    lat: 39.1870,
+    lng: -83.9706,
+    radius: 40,
+    short: "The clubhouse was finished in 1969, and the page spells it KURHAUSE. I will not repair it. A pavilion came in 1987. The beaches and the access areas are for members. None of it is paid for by the county or the state. None stays. I will not move the high school, or Fayetteville. There is no person with years, no public yard, no nation, and no battle. I will not import a story about the name. The next place, when you want it, is Lake Milton.",
+    long: "",
+    names: ["Lake Lorelei"]
+  },
+
+  {
+    id: "approach-lake-milton",
+    name: "Lake Milton",
+    lat: 41.1070,
+    lng: -80.9703,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Lake Milton, the census place in Milton Township, Mahoning County. Not Youngstown. Not Craig Beach, which shares the shore. The page says the dam was constructed in 1913, and completed in 1917. I will not average them. If you stay on the road, I'll start at the water.",
+    long: "",
+    names: ["Lake Milton"]
+  },
+  {
+    id: "lake-milton-1913",
+    name: "Two Dates",
+    lat: 41.0994,
+    lng: -80.9703,
+    radius: 40,
+    short: "The encyclopedia says the city bought the land in 1910, and that construction had not yet started when the flood came. Not yet stays. It began on Easter Sunday of 1913. No fatalities were experienced. Experienced stays. I will not add a death. The work was jump started later that year. I will not hyphenate the page's two words. The dam was completed in 1917. The same article says it was constructed in 1913. I will not average them. In 1984 the page calls it sixty-seven years old. I will not use that to erase 1913. The office has been here since 1942. The census says six hundred thirty-seven people in 2020. The picture is the lake. This pin is the census place.",
+    long: "",
+    names: ["Lake Milton"]
+  },
+  {
+    id: "lake-milton-park",
+    name: "Would Drown",
+    lat: 41.0989,
+    lng: -80.9695,
+    radius: 40,
+    short: "The city refused an estimated five million dollars in repairs. Estimated stays. Refused stays. Another page says six point three million. I will not average them. A caption warned that a break would drown Newton Falls. Would stays. I will not move that city, and I will not say it happened. The state park was approved in the fall of 1988. Fall stays. A page says the gates closed on March 31. I will not average the days. Craig Beach stays on its own shore. There is no person with years, no nation, and no battle. The next place, when you want it, is Lake Mohawk.",
+    long: "",
+    names: ["Lake Milton"]
+  },
+
+  {
+    id: "approach-lake-mohawk",
+    name: "Lake Mohawk",
+    lat: 40.6690,
+    lng: -81.1928,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Lake Mohawk, the census place in Brown and Harrison townships, Carroll County. Not Malvern. It is gated. It was founded in 1963. One page spells the company Realty. Another spells it Reality. I will not repair that. If you stay on the road, I'll start at the year.",
+    long: "",
+    names: ["Lake Mohawk"]
+  },
+  {
+    id: "lake-mohawk-1963",
+    name: "Realty, and Reality",
+    lat: 40.6608,
+    lng: -81.1928,
+    radius: 40,
+    short: "The encyclopedia says property developers founded it in 1963, and names the American Realty Service Corporation, on one thousand seven hundred twenty-eight acres. A community page spells the company Reality. I will not average the spellings. The creek is Middle Creek, and also Middle Run. Also stays. The outlet is one and a half miles from Malvern. Another page says roughly one mile. Roughly stays. I will not average them. The census says one thousand six hundred one people in 2020. A page says about two thousand five hundred. About stays. I will not make that the census. The box and the geography line do not agree on the miles. The place and the water do not agree on the height. I will not average them. The picture is captioned 1963. This pin is the census place.",
+    long: "",
+    names: ["Lake Mohawk"]
+  },
+  {
+    id: "lake-mohawk-faith",
+    name: "On Faith",
+    lat: 40.6603,
+    lng: -81.1920,
+    radius: 40,
+    short: "Buyers purchased on faith, when it was still just a creek, on assurances it would eventually fill. On faith stays. Eventually stays. The lake's page says twenty-three feet deep. Another says about thirty. I will not average them. A park sits outside the main gate and still on the lake's property. Still stays. I will not call it the county's, and I will not make the name a nation. There is no person with years, and no battle. The next place, when you want it, is Lake Tomahawk.",
+    long: "",
+    names: ["Lake Mohawk"]
+  },
+
+  {
+    id: "approach-lake-tomahawk",
+    name: "Lake Tomahawk",
+    lat: 40.7690,
+    lng: -80.5964,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Lake Tomahawk, the unincorporated census place in Middleton Township, Columbiana County. Not Lisbon. It is private. It was established in 1966. The name is not a nation a page puts here. If you stay on the road, I'll start at the year.",
+    long: "",
+    names: ["Lake Tomahawk"]
+  },
+  {
+    id: "lake-tomahawk-1966",
+    name: "Two Beaches",
+    lat: 40.7614,
+    lng: -80.5964,
+    radius: 40,
+    short: "The encyclopedia says the American Realty Service Corporation established it in 1966, around a man-made lake. Established stays. Man-made stays. The lake is one hundred fifty acres, and spring-fed. Spring-fed stays. One sentence says a beach of seven hundred fifty feet. The same page says over two hundred feet of sandy beach. Over stays. I will not average them. The census says four hundred ninety-four people in 2020. The encyclopedia says eight tenths of a square mile. A map page says one and two hundredths. I will not average them. I did not see a picture. This pin is the census place.",
+    long: "",
+    names: ["Lake Tomahawk"]
+  },
+  {
+    id: "lake-tomahawk-dam",
+    name: "At the Dam",
+    lat: 40.7609,
+    lng: -80.5956,
+    radius: 40,
+    short: "The deepest water is sixty-five feet, at the dam. At the dam stays. The average is thirty-five. Average stays. I will not make them one depth. A private force patrols the grounds. I will not call the beach a public square, and I will not make the archery range a battle. Lisbon stays where it is. The next place, when you want it, is Lake Waynoka.",
+    long: "",
+    names: ["Lake Tomahawk"]
+  },
+
+  {
+    id: "approach-lake-waynoka",
+    name: "Lake Waynoka",
+    lat: 38.9480,
+    lng: -83.7786,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Lake Waynoka, the gated census place in Brown County, between Sardinia and Russellville. Not Georgetown. The page says the work began in 1970, and it also says that section cites nothing. If you stay on the road, I'll start at the dam.",
+    long: "",
+    names: ["Lake Waynoka"]
+  },
+  {
+    id: "lake-waynoka-1970",
+    name: "Cites Nothing",
+    lat: 38.9400,
+    lng: -83.7786,
+    radius: 40,
+    short: "The encyclopedia says that in 1970 a company from Memphis began it, by buying farms and damming the headwaters of Straight Creek. Began stays. Headwaters stays. I will not move Memphis, or the Ohio. The section cites nothing, and says the words may be challenged and removed. May stays. A secondary page says April, and names a man. I do not have his years, and I will not add the month. The census says one thousand three hundred eighty-one people in 2020. That page prints one thousand forty-one. I will not average them. The place is one thousand four feet up. The water's page says nine hundred eighty-four. I will not average the heights. The picture is the view from the dam. This pin is the census place.",
+    long: "",
+    names: ["Lake Waynoka"]
+  },
+  {
+    id: "lake-waynoka-dam",
+    name: "Good Standing",
+    lat: 38.9395,
+    lng: -83.7778,
+    radius: 40,
+    short: "The reservoir's page says three hundred acres. Another page says two hundred ninety. The census water is a different figure. I will not average them. Nine owners in good standing keep the lake. Good standing stays. I will not call it a public park. The page says the company also made other lakes. Also stays. I will not move them. There is no person with years, no nation, and no battle. The next place, when you want it, is Lakeline.",
+    long: "",
+    names: ["Lake Waynoka"]
+  },
+
+  {
+    id: "approach-lakeline",
+    name: "Lakeline",
+    lat: 41.6660,
+    lng: -81.4539,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Lakeline, the village in Lake County, on the lake. Not Willowick, which it was once a part of. Not Eastlake. It was incorporated in 1929. A record still calls it unincorporated. I will not average the words. If you stay on the road, I'll start at the year.",
+    long: "",
+    names: ["Lakeline"]
+  },
+  {
+    id: "lakeline-1929",
+    name: "Its Own",
+    lat: 41.6586,
+    lng: -81.4539,
+    radius: 40,
+    short: "A newspaper says Lakeline was once part of Willowick, and incorporated as its own village in 1929. Once stays. Its own stays. I will not move Willowick. The mayor said it was mostly a summer place for people from Cleveland. Mostly stays. I will not move that city. The census says two hundred sixteen people in 2020. A rebased row prints two hundred seventeen. In 2019 she cited two hundred twenty-four. I will not average them. The geography line says nine hundredths of a square mile, all land. I will not force a density to match it. A names record calls the place unincorporated, and also says incorporated in 1929. I will not average those words. This pin is the village.",
+    long: "",
+    names: ["Lakeline"]
+  },
+  {
+    id: "lakeline-hall",
+    name: "No Active Historian",
+    lat: 41.6581,
+    lng: -81.4531,
+    radius: 40,
+    short: "The ninetieth year was marked at the village hall on the shore road. I do not have the hall's year. She said many people know little, and that there is no active historian. Many stays. No stays. She believes the place is peaceful. Believes stays. I will not make that a measurement. Beachpark is a street. I will not make it a park. There is no person with years, no nation, and no battle. The next place, when you want it, is Lakemore.",
+    long: "",
+    names: ["Lakeline"]
+  },
+
+  {
+    id: "approach-lakemore",
+    name: "Lakemore",
+    lat: 41.0290,
+    lng: -81.4264,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Lakemore, the village in Summit County. Not Akron. Not Springfield Township. The office is 1917. The village is 1921. One page says it does not have a founding date. I will not average that with a year. If you stay on the road, I'll start at the office.",
+    long: "",
+    names: ["Lakemore"]
+  },
+  {
+    id: "lakemore-1921",
+    name: "Years Ag",
+    lat: 41.0214,
+    lng: -81.4264,
+    radius: 40,
+    short: "A directory says the office opened on April 25, 1917, and it warns the page may be incomplete. May stays. Another page says 1917, and that it has no founding date. Might stays. The village was incorporated in 1921. I will not make the office the village. A newspaper prints the hundredth year, and it prints years ag. I will not repair it. The census says two thousand nine hundred twenty-six people in 2020. A 2019 estimate prints three thousand seventy-one. I will not make that the census. The box and the geography line do not agree on the miles, or with a second height. I will not average them. The picture is a high school. A page says the old one came down. I will not say which one I am looking at. This pin is the village.",
+    long: "",
+    names: ["Lakemore"]
+  },
+  {
+    id: "lakemore-coaster",
+    name: "By the Wayside",
+    lat: 41.0209,
+    lng: -81.4256,
+    radius: 40,
+    short: "The coaster opened in 1923 and extended over the lake. Extended stays. I will not say it is standing. The park closed in 1932. Closed stays. The sanitarium is 1914 on one page and 1915 on another. I will not average them. The rides have gone by the wayside. Wayside stays. The sheet puts a battle at Detroit, on the township. I will not move the fort. There is no person with years, and no nation here. The next place, when you want it, is Lakeside.",
+    long: "",
+    names: ["Lakemore"]
+  },
+
+  {
+    id: "approach-lakeside",
+    name: "Lakeside",
+    lat: 41.5490,
+    lng: -82.7519,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Lakeside, the private census place in Danbury Township, Ottawa County, on the shore. Not Marblehead. Not Port Clinton. A picnic was 1872. The camp was August 1873. I will not average them. If you stay on the road, I'll start at the name.",
+    long: "",
+    names: ["Lakeside"]
+  },
+  {
+    id: "lakeside-1873",
+    name: "Soon Thereafter",
+    lat: 41.5417,
+    lng: -82.7519,
+    radius: 40,
+    short: "The encyclopedia says the church formed it in 1873, and that it was established that August, first as a tented camp. First stays. Tented stays. A newspaper says the picnic was a July day in 1872, at an idyllic spot. Idyllic stays. A year later they returned. I will not average the two dates. It was initially one name, and later another. Initially stays. Later stays. Soon thereafter it became a Chautauqua. The page says popularity twice. I will not cut the second. The census says six hundred sixty-eight people in 2020. A page says about two hundred live here all year, and that summer balloons to about one hundred thousand. About stays. Balloons stays. I will not average them. The box says sixty-nine hundredths of a square mile, and zero water. The lead says approximately one square mile. Approximately stays. I will not average them, and I will not put the lake into the zero. This pin is the census place.",
+    long: "",
+    names: ["Lakeside"]
+  },
+  {
+    id: "lakeside-gates",
+    name: "Still There",
+    lat: 41.5412,
+    lng: -82.7511,
+    radius: 40,
+    short: "The first building was put up somewhere near the auditorium. Somewhere stays. Near stays. An older page puts the shops near Central Park. I will not move any other park, or Marblehead, or the lighthouse. In 2001 the count inside the gates was eight hundred ninety. A page says about a thousand cottages. I will not average them. The mission was amended, and it is still there. Still stays. There is no person with years, no nation, and no battle. The next place, when you want it, is Lakeview.",
+    long: "",
+    names: ["Lakeside"]
+  },
+
+  {
+    id: "approach-lakeview",
+    name: "Lakeview",
+    lat: 40.4950,
+    lng: -83.9267,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Lakeview, the village in Stokes Township, Logan County. Not Bellefontaine. Not the lake, which is nearby. Nearby stays. It was written as two words. The papers were filed in 1895. One page says it has no founding date. I will not average them. If you stay on the road, I'll start at the name.",
+    long: "",
+    names: ["Lakeview"]
+  },
+  {
+    id: "lakeview-1895",
+    name: "Two Words",
+    lat: 40.4875,
+    lng: -83.9267,
+    radius: 40,
+    short: "A history page says it was originally written Lake View, and incorporated in 1895. Originally stays. I will not close the space. It started as a trading post. The office is said to have opened in 1882, and that page says it does not have a founding date. Might stays. I will not make 1882 the village. When the papers were filed there were two hundred residents. The census says one thousand one hundred eighty-four in 2020, and five hundred fifty-three in 1900. I will not average them. The box and the geography line do not agree on the water. I will not average them. The name comes from a mostly artificial lake. Mostly stays. Part of the line is the shore. Part stays. The picture is the village from the east. This pin is the village.",
+    long: "",
+    names: ["Lakeview"]
+  },
+  {
+    id: "lakeview-claimed",
+    name: "Claimed",
+    lat: 40.4870,
+    lng: -83.9259,
+    radius: 40,
+    short: "A man claimed the first boathouse. Claimed stays. I will not make it a fact. A church on S. Main is 1887. I will not expand the S. Another church is 1896. A well was reported visited from a great distance. Reported stays. Great stays. The lake's page puts several tribes in the region, and names none. I will not invent one, and I will not move them. A storm in 2024 changed that community in many ways. Many stays. I will not say what fell. There is no person with years, and no battle. The next place, when you want it, is Landen.",
+    long: "",
+    names: ["Lakeview"]
+  },
+
+  {
+    id: "approach-landen",
+    name: "Landen",
+    lat: 39.3230,
+    lng: -84.2767,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Landen, the census place in Deerfield Township, Warren County. Not Lebanon. Not Twenty Mile Stand, which it surrounds. Surrounds stays. Not Fosters. The page that names the man tags the account citation needed. If you stay on the road, I'll start at the name.",
+    long: "",
+    names: ["Landen"]
+  },
+  {
+    id: "landen-name",
+    name: "Citation Needed",
+    lat: 39.3156,
+    lng: -84.2767,
+    radius: 40,
+    short: "The encyclopedia says it was named for Theodophilus James Landen, an early settler who owned the farmland around Twenty Mile Stand. I will not repair the spelling. Early stays. The page tags that citation needed. That stays. A secondary page says the nineteen seventies, and also the middle of the nineteen sixties. I will not average them. The census says six thousand nine hundred ninety-five people in 2020. The same encyclopedia says twelve thousand seven hundred sixty-six in 2000. A rebased row prints seven thousand two hundred twenty-eight for that year. I will not average them. The geography line prints twelve square kilometers twice, once for all of it and once for the land. I will not make the water disappear. Another page prints a different area, and two hundred forty-eight meters. I will not average them. The picture is a location. This pin is the census place.",
+    long: "",
+    names: ["Landen"]
+  },
+  {
+    id: "landen-lake",
+    name: "Not a Natural Lake",
+    lat: 39.3151,
+    lng: -84.2759,
+    radius: 40,
+    short: "The page says a dam was made by creating a dam, to create a flood retention area. I will not cut either word. The formal name is Landen Farm Drainage Lake. It is not a natural lake. Not stays. The citation needed tag stays. I will not call it a public park. The township's day is 1803. I will not make that this place, and I will not move Mason, or the deer licks. There is no person with years, no nation, and no battle. The next place, when you want it, is Lansing.",
+    long: "",
+    names: ["Landen"]
+  },
+
+  {
+    id: "approach-lansing",
+    name: "Lansing",
+    lat: 40.0830,
+    lng: -80.7919,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Lansing, the unincorporated census place in northern Pease Township, Belmont County, along Wheeling Creek. Not Wheeling. Not St. Clairsville. It was Soaptown, and then it was Lansing. I will not make them one name. If you stay on the road, I'll start at the office.",
+    long: "",
+    names: ["Lansing"]
+  },
+  {
+    id: "lansing-1898",
+    name: "Soaptown",
+    lat: 40.0758,
+    lng: -80.7919,
+    radius: 40,
+    short: "The encyclopedia says an office called Lansing has been here since 1898. Called stays. It was known as Soaptown from 1860 to 1889. An older line says once. Once stays. I will not drop the years, and I will not invent the soap. The census says five hundred ninety-six people in 2020. The page also prints six hundred thirty-four for 2010. I will not average them. The elevation is seven hundred five feet. I did not see a second height, or an area. The picture is a location. This pin is the census place.",
+    long: "",
+    names: ["Lansing"]
+  },
+  {
+    id: "lansing-church",
+    name: "Had a Church",
+    lat: 40.0753,
+    lng: -80.7911,
+    radius: 40,
+    short: "Besides the office, the page says the place had a church, built there in 1834. Besides stays. Had stays. I will not say it is standing, and I will not make 1834 the start of the other name. There is no yard, no person with years, no nation, and no battle. I will not invent a story for the soap. The next place, when you want it, is Laura.",
+    long: "",
+    names: ["Lansing"]
+  },
+
+  {
+    id: "approach-laura",
+    name: "Laura",
+    lat: 40.0050,
+    lng: -84.4081,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Laura, the village in Union Township, Miami County. Not Troy. Not Dayton. It was laid out around 1840. Around stays. The office is 1850. The village is 1892. I will not make them one year. If you stay on the road, I'll start at the name.",
+    long: "",
+    names: ["Laura"]
+  },
+  {
+    id: "laura-1840",
+    name: "The Daughter",
+    lat: 39.9972,
+    lng: -84.4081,
+    radius: 40,
+    short: "The encyclopedia says it was laid out around 1840, and named for Laura, the first postmaster's daughter. Around stays. I do not have her years, and I do not have his name. The office has been here since 1850. The village was incorporated in 1892. I will not make them one year. The census says three hundred ninety-eight people in 2020. A children's page says about that. About stays. A rebased row prints four hundred. A map says five hundred five. I will not average them. The kilometers do not agree. A map prints three hundred two metres. Metres stays. I did not see a second height. The picture is a water tower. This pin is the village.",
+    long: "",
+    names: ["Laura"]
+  },
+  {
+    id: "laura-tower",
+    name: "No Years",
+    lat: 39.9967,
+    lng: -84.4073,
+    radius: 40,
+    short: "The water tower, the municipal building, and a church are on the pages. I do not have their years. The office is the one dated 1850. An older census prints a percentage and names no nation. I will not invent one. I will not move Ludlow Falls, or Dayton. There is no person with years, no yard, and no battle. I will not invent a life for the daughter. The next place, when you want it, is Laurelville.",
+    long: "",
+    names: ["Laura"]
+  },
+
+  {
+    id: "approach-laurelville",
+    name: "Laurelville",
+    lat: 39.4790,
+    lng: -82.7381,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Laurelville, the village in Perry Township, Hocking County. Not Logan. The forest is outside. Outside stays. One page says John and W. S. Albin, and Solomon Riegel. Another says William A. Albin and Jacob Riegel. I will not average the names. If you stay on the road, I'll start at the year.",
+    long: "",
+    names: ["Laurelville"]
+  },
+  {
+    id: "laurelville-1871",
+    name: "Two Lists",
+    lat: 39.4711,
+    lng: -82.7381,
+    radius: 40,
+    short: "The village's page says founded in 1871, by John and W. S. Albin and Solomon Riegel. An older encyclopedia says laid out, by those three. A newer one says established, by William A. Albin and Jacob Riegel. I will not average the verbs or the men. It was named for the laurel near the original site. Near stays. Another line says the plant grew abundantly in the surrounding hills. Abundantly stays. I will not make the plant a nation. The census on the newer page says five hundred twelve people in 2020. An older page says five hundred twenty-seven in 2010, and five hundred three estimated for 2019. I will not average them. One page says thirty-one hundredths of a square mile. Another says twenty-one. I will not average them. Two postal codes are printed on one box, and one on another. I will not drop the second. The picture is a map. This pin is the village.",
+    long: "",
+    names: ["Laurelville"]
+  },
+  {
+    id: "laurelville-school",
+    name: "Home, and Demolished",
+    lat: 39.4706,
+    lng: -82.7373,
+    radius: 40,
+    short: "The village says it is home of the elementary school. Home stays. The encyclopedia says that school was demolished in the early twenty twenties. Demolished stays. Early stays. I will not average them. The office remains. Remains stays. I do not have the year it opened. Three mounds are listed, and the page says believed, and proximity, and the region. Believed stays. Proximity stays. I will not move them onto the street. There is no person with years, and no battle. The next place, when you want it, is Lawrenceville.",
+    long: "",
+    names: ["Laurelville"]
+  },
+
+  {
+    id: "approach-lawrenceville",
+    name: "Lawrenceville",
+    lat: 39.9910,
+    lng: -83.8739,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Lawrenceville, the unincorporated census place in central German Township, Clark County. Not Springfield. Central stays. It was a village. In 2005 the residents voted to end that. Voted stays. It was Noblesville before this name. I will not make them one. If you stay on the road, I'll start at the plat.",
+    long: "",
+    names: ["Lawrenceville"]
+  },
+  {
+    id: "lawrenceville-1843",
+    name: "The Latter Name",
+    lat: 39.9839,
+    lng: -83.8739,
+    radius: 40,
+    short: "The encyclopedia says it was originally Noblesville, and under the latter name it was platted in 1843. Latter stays. The name was changed because another office in the state had a similar name. Similar stays. I will not name that office. This name's office was established in 1875 and remained until 1901. Until stays. The page says the name honors a former judge. Former stays. I do not have his years. The box says six hundred sixty-seven people in 2020. The lead says three hundred two in 2000, when it was a village. At which time stays. A rebased row prints three hundred twenty-four for that year. I will not average them. The box says forty-nine hundredths of a square mile. The lead says the village had one tenth. Had stays. I will not average them. The elevation is one thousand one hundred six feet. The picture is a map. This pin is the census place.",
+    long: "",
+    names: ["Lawrenceville"]
+  },
+  {
+    id: "lawrenceville-cemetery",
+    name: "Serves",
+    lat: 39.9834,
+    lng: -83.8731,
+    radius: 40,
+    short: "A map names a cemetery, and a community church, and says both serve the place. Serves stays. I do not have their years. Services must be sought from Springfield. Must stays. I will not move that city. There is no person with years, no nation, and no battle. I will not invent the old name's story. The next place, when you want it, is Leavittsburg.",
+    long: "",
+    names: ["Lawrenceville"]
+  },
+
+  {
+    id: "approach-leavittsburg",
+    name: "Leavittsburg",
+    lat: 41.2550,
+    lng: -80.8769,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Leavittsburg, the census place in Warren Township, Trumbull County, directly west of the city of Warren. Directly stays. Not the city. Not Youngstown. The office was spelled with an extra letter. I will not drop it. If you stay on the road, I'll start at the spelling.",
+    long: "",
+    names: ["Leavittsburg"]
+  },
+  {
+    id: "leavittsburg-1864",
+    name: "With Effect",
+    lat: 41.2478,
+    lng: -80.8769,
+    radius: 40,
+    short: "The encyclopedia says an office named Leavittsburgh opened on March 15, 1864, and the spelling was amended to Leavittsburg with effect from July 19, 1893. With effect stays. I will not drop the extra letter. A local page says John Leavitt founded it in 1803. The encyclopedia does not, and it puts an inn of that name in Warren. I will not move the inn, and I will not average the accounts. The census says one thousand five hundred seventy-one people in 2020. The box and the geography line do not agree on the miles. I will not average them. The place is nine hundred nine feet up. The page says it remains mostly woodland, and that Warren supplanted it. Mostly stays. Supplanted stays. A newspaper says candidate, and permanent. I will not average those words with designated. The picture is a location. This pin is the census place.",
+    long: "",
+    names: ["Leavittsburg"]
+  },
+  {
+    id: "leavittsburg-canal",
+    name: "Build",
+    lat: 41.2473,
+    lng: -80.8761,
+    radius: 40,
+    short: "The canal ran through the center. Center stays. Later, and also mid-century, the railroad took that land. I will not average later and mid. At its peak, forty trains a day. Peak stays. A page says the trolley company build a park on the bank. I will not repair build. Canoe City is across the river, and still there. Across stays. Still stays. I will not move it. I will not move Suffield, or Cleveland, or the prairies. There is no person with years, no nation, and no battle. The next place, when you want it, is Leesburg.",
+    long: "",
+    names: ["Leavittsburg"]
+  },
+
+  {
+    id: "approach-leesburg",
+    name: "Leesburg",
+    lat: 39.3500,
+    lng: -83.5519,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Leesburg, the village in Highland County. Not Hillsboro. Not the Leesburg in Virginia, which it was named after. I will not move that town. It was laid out in 1802. The nickname is printed. I will not test it. If you stay on the road, I'll start at the year.",
+    long: "",
+    names: ["Leesburg"]
+  },
+  {
+    id: "leesburg-1802",
+    name: "A Reminder",
+    lat: 39.3419,
+    lng: -83.5519,
+    radius: 40,
+    short: "The encyclopedia says it was laid out in 1802, and named after Leesburg, Virginia. I will not move that town. A local page says formally, and it names three men, and calls the name a reminder. Reminder stays. I do not have their years. The census says one thousand two hundred seventy-three people in 2020. A rebased row prints one thousand two hundred seventy-two. I will not average them. The table skips from 1830 to 1870, and the 1870 line has a dash. I will not fill it. The geography line says one and seventeen hundredths of a square mile, all land. I did not see a height. The picture is the business district. The nickname is The Friendly Village. I will not measure friendly. This pin is the village.",
+    long: "",
+    names: ["Leesburg"]
+  },
+  {
+    id: "leesburg-srofe",
+    name: "This Coming Year",
+    lat: 39.3414,
+    lng: -83.5511,
+    radius: 40,
+    short: "The local page names the Srofe Building, one of the most recognizable, and says it housed a series of businesses. One of stays. Series stays. I do not have its year. Mills appeared along nearby water. Nearby stays. I will not call them a park. The schools opened in 1824, and the page says this coming year marks the bicentennial. This coming year stays. I will not supply it. The story is called modest, and quiet. Modest stays. Quiet stays. There is no person with years, no nation, and no battle. The next place, when you want it, is Leesville.",
+    long: "",
+    names: ["Leesburg"]
+  },
+
+  {
+    id: "approach-leesville",
+    name: "Leesville",
+    lat: 40.4590,
+    lng: -81.2094,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Leesville, the village in Orange Township, southwestern Carroll County. Not Carrollton. Not the Leesburg in Highland county. The page prints county that way. It was platted in 1812. The box says 1829. A record says 1836. I will not average them. If you stay on the road, I'll start at the plat.",
+    long: "",
+    names: ["Leesville"]
+  },
+  {
+    id: "leesville-1812",
+    name: "Some Later Point",
+    lat: 40.4519,
+    lng: -81.2094,
+    radius: 40,
+    short: "The encyclopedia says it was platted on August 1, 1812, as Leesburg, in what was then another county. Then stays. I will not move that county. The box says established in 1829. A record says incorporated in 1836. I will not average them. At some later point the name was changed. Some stays. Later stays. A record says Leesburgh was official in 1891, and Leesville in 1900. I will not drop the extra letter. The office was named to avoid confusion with Highland county. Avoid stays. The census says one hundred twenty-seven people in 2020. The page says one hundred thirty-one by 1820, and four hundred eight by 1880. Mostly in farming and coal. Mostly stays. I will not average them. The box says a quarter of a square mile. The geography line says twenty-six hundredths. I will not average them. The pictures are the hall, and a roundabout. This pin is the village.",
+    long: "",
+    names: ["Leesville"]
+  },
+  {
+    id: "leesville-hall",
+    name: "Bright and Shining",
+    lat: 40.4514,
+    lng: -81.2086,
+    radius: 40,
+    short: "The page says it was one of the stations, and that in those days its little public hall at times was visited by such bright and shining lights. One of stays. At times stays. Bright stays. Shining stays. I will not invent the day. The dam was finished in October, 1936, and the page prints the comma. It is near. Near stays. I will not move it. There is no person with years, and no nation. The next place, when you want it, is Leetonia.",
+    long: "",
+    names: ["Leesville"]
+  },
+
+  {
+    id: "approach-leetonia",
+    name: "Leetonia",
+    lat: 40.8830,
+    lng: -80.7569,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Leetonia, the village in Salem Township, Columbiana County. Not Salem. Not Lisbon. It was named for a man from Randolph. I will not move that town. The company has more than one name on the pages. I will not make them one. If you stay on the road, I'll start at the year.",
+    long: "",
+    names: ["Leetonia"]
+  },
+  {
+    id: "leetonia-1869",
+    name: "Lead",
+    lat: 40.8750,
+    lng: -80.7569,
+    radius: 40,
+    short: "The encyclopedia says the village was founded in 1869, following the war, and named for William Lee. Following stays. I will not invent a battle. One line calls him Irish. Another calls him a promoter. I will not average them. I do not have his years. The company is 1866 on the village page, and 1866-1867 on the encyclopedia, and the early sixties in another sentence. I will not average them. The village says the success lead to incorporation in May of 1869. I will not repair lead. A page says May 6. I will not add the day. The census says one thousand eight hundred thirty-three people in 2020, and one thousand two hundred sixty in 1870. The pages say one thousand eight hundred by 1869. Around stays on one of them. Though stays. I will not average one thousand eight hundred and the census. The box and the geography line do not agree on the water. I will not average them. The picture is the main street, looking west. This pin is the village.",
+    long: "",
+    names: ["Leetonia"]
+  },
+  {
+    id: "leetonia-ovens",
+    name: "Remaining, and Permanently",
+    lat: 40.8745,
+    lng: -80.7561,
+    radius: 40,
+    short: "The page says one of the few remaining beehive ovens. One of stays. Few stays. Remaining stays. It also says they closed permanently. Permanently stays. The village page says 1930. I will not average that with the Depression. In 1872 the doors were forced shut. In 1873 the name was changed. I will not average them, and I will not make Coal and Iron into one wording. The site was given for a park in 1982, and a commission came in 1986. I will not make them one year. Quiet stays. Luckily stays. There is no person with years, and no nation. The next place, when you want it, is Lewisburg.",
+    long: "",
+    names: ["Leetonia"]
+  },
+
+  {
+    id: "approach-lewisburg",
+    name: "Lewisburg",
+    lat: 39.8580,
+    lng: -84.5433,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Lewisburg, the village in Preble County. Not Eaton. Not Dayton. The 1818 paper says Lewisburgh. I will not drop the letter. Another village was joined to it in 1916. I will not make them one town before that day. If you stay on the road, I'll start at the paper.",
+    long: "",
+    names: ["Lewisburg"]
+  },
+  {
+    id: "lewisburg-1818",
+    name: "Herunto",
+    lat: 39.8506,
+    lng: -84.5433,
+    radius: 40,
+    short: "The village page says the first step was never recorded. Never stays. The first work recorded is September 7, 1818, and the town shall be called Lewisburgh. I will not drop the letter. The paper says herunto. I will not repair it. It was named for a town then in Virginia, now in West Virginia. Then stays. Now stays. I will not move either. Euphemia was laid out about 1836, to the north. About stays. A page says he names it. I will not repair the verb. The two villages merged on April 4, 1916. The census says one thousand seven hundred forty-five people in 2020. The table skips 1860. I will not fill it. A paper says one hundred forty-four when it incorporated, and an older line says about two hundred. About stays. I will not average them. The box says one and eight hundredths of a square mile. The geography line says one and seven. I will not average them. The picture is Commerce Street. The old paper says Greenville. I will not make them one name. This pin is the village.",
+    long: "",
+    names: ["Lewisburg"]
+  },
+  {
+    id: "lewisburg-fire",
+    name: "Big Fire",
+    lat: 39.8501,
+    lng: -84.5425,
+    radius: 40,
+    short: "The records were lost in the \"Big Fire\" of 1857. The quotes stay. Not known stays. On January 6, everything standing on the east side went up. Everything stays. Standing stays. I will not say what came back. A paper says a market square was provided for, one hundred and six feet each way. Provided for stays. I will not say it is there. There is no person with years, no nation, and no battle. The next place, when you want it, is Lewistown.",
+    long: "",
+    names: ["Lewisburg"]
+  },
+
+
 
 
 

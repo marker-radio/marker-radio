@@ -19839,6 +19839,994 @@ STORIES.push(
     names: ["Green Camp"]
   },
 
+  {
+    id: "approach-green-meadows",
+    name: "Green Meadows",
+    lat: 39.8620,
+    lng: -83.9439,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Green Meadows, the census place in Mad River Township, Clark County, on the west side of Enon. Not Springfield, and not a village. The encyclopedia has no history for this ground. If you stay on the road, I'll start with the line.",
+    long: "",
+    names: ["Green Meadows"]
+  },
+  {
+    id: "green-meadows-line",
+    name: "West of Enon",
+    lat: 39.8708,
+    lng: -83.9439,
+    radius: 40,
+    short: "The encyclopedia says this place sits near the center of the township, bordered on the east by Enon and on the southwest by Holiday Valley. Dayton Springfield Road is the northwestern edge. I will not move Enon, and I will not move the road into a building. The count was two thousand three hundred eighteen in 2000, and two thousand three hundred seventy-three in 2020. I will not invent the years the table skips. The box and the geography line do not agree on the tenths of a mile. I will not average them. A gazetteer prints two other points. I will not average those either. There is no plat, no post office, no person with years, no yard, no nation, and no battle. This pin is the encyclopedia. The next place, when you want it, is Green Springs.",
+    long: "",
+    names: ["Green Meadows"]
+  },
+
+  {
+    id: "approach-green-springs",
+    name: "Green Springs",
+    lat: 41.2620,
+    lng: -83.0528,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Green Springs, the village in Sandusky County and in Seneca County. Not Fremont, and not Tiffin. It was Stemtown. The water named it. If you stay on the road, I'll start at the spring.",
+    long: "",
+    names: ["Green Springs"]
+  },
+  {
+    id: "green-springs-stem",
+    name: "Stemtown",
+    lat: 41.2544,
+    lng: -83.0528,
+    radius: 40,
+    short: "The encyclopedia says that in 1831 Jacob Stem bought about twelve hundred acres from the government, in both counties, including the sulfur spring. About stays. The village was Stemtown, and later Green Springs, from the color of the water. A marker says that in the early eighteen hundreds he used that water for the first sawmill and the first gristmill. Early stays. I will not make 1831 the date of the mills, and I do not have his years. An older copy of the encyclopedia said it has been told that he did not get the spring in that purchase, and later bought it for twelve bags of wheat, twelve of oats, twelve of corn, and a mule. It has been told stays. The current page does not print that. I will not restore it. This pin is the village.",
+    long: "",
+    names: ["Green Springs"]
+  },
+  {
+    id: "green-springs-spring",
+    name: "Said to Be",
+    lat: 41.2637,
+    lng: -83.0521,
+    radius: 40,
+    short: "A marker at 430 North Broadway, in Green Creek Township, says the spring is said to be one of the largest mineral springs in the world. Said stays. One of stays. It says the water rises from an underground river at eight million gallons every twenty-four hours, stays at fifty degrees, and runs to Green Creek, then to Sandusky Bay and Lake Erie. I will not move the bay. It says the water was a source for curing all ailments, and the words are in quotes. The quotes stay. In 1868 Robert Smith had the emerald water tested. It was high in calcium sulphate and in magnesium sulphate. I do not have his years. Hotels and spas were built. I do not have those doors. The water was bottled until the nineteen thirties. Until stays. The other side of the same stone says a treaty in 1817 gave the Seneca forty thousand acres and five hundred dollars a year, and that the reservation began a mile and a half north of here. The encyclopedia dates that treaty September 29, at Fort Meigs, and says the Seneca had been displaced from New York. The marker says they ceded claims north of the Greenville line. I will not sand those. It says they moved to northeast Oklahoma in 1831. The encyclopedia says the Treaty of Little Sandusky, on February 28, 1831, traded the forty thousand acres for sixty-seven thousand west of the Mississippi, and a five percent annuity. I will not make the two payments one payment. The encyclopedia also says the Kaskaskia and the Miami were here first. I will not drop them, and I will not move Fremont. A stone at 120 Catherine Street honors all American war veterans and names no war. I will not invent one. The next place, when you want it, is Greenfield.",
+    long: "",
+    names: ["Green Springs"]
+  },
+
+  {
+    id: "approach-greenfield",
+    name: "Greenfield",
+    lat: 39.3580,
+    lng: -83.3792,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Greenfield, the village on Paint Creek, in Highland County and in Ross County. Duncan McArthur laid it out in 1799. A survey came before that. If you stay on the road, I'll start at the two years.",
+    long: "",
+    names: ["Greenfield"]
+  },
+  {
+    id: "greenfield-1799",
+    name: "Seventeen Ninety-Six, and Seventeen Ninety-Nine",
+    lat: 39.3500,
+    lng: -83.3792,
+    radius: 40,
+    short: "A timeline says Duncan McArthur led a surveying party here in 1796, and laid out the town in 1799, when the first road was finished. I will not make those one year. The encyclopedia says he founded the village in 1799 and named it for its rural appearance. A marker at Jefferson Street and McArthur Way says he named it in 1799 for its green plains. I will not pick the reason. A local page says Job Wright was the first to settle, in 1799, when the town was still a name on paper, and that he built the first cabin where the Harper House stands. I do not have that house. He died on April 4, 1842, and is buried in Michigan. I do not have his birth. The first post office was in 1813. The village was incorporated in 1841. This pin is the encyclopedia.",
+    long: "",
+    names: ["Greenfield"]
+  },
+  {
+    id: "greenfield-mcclain",
+    name: "September Nineteen Fifteen",
+    lat: 39.3506,
+    lng: -83.3883,
+    radius: 40,
+    short: "A marker says McClain High School was the gift of Edward Lee McClain, designed by William B. Ittner, and dedicated in September 1915. The postal line prints 200 North Fifth Street. I do not have McClain's years. Travellers' Rest was built in 1812, the first stone building, at the eastern end of Jefferson Street. A marker for it stands within shouting distance of the name stone. I will not make a second pin on those boards. The first school was in a log home in 1803. The first school building was in 1810. I will not make those one school.",
+    long: "",
+    names: ["Greenfield"]
+  },
+  {
+    id: "greenfield-thin",
+    name: "The Records Are Thin",
+    lat: 39.3527,
+    lng: -83.3784,
+    radius: 40,
+    short: "The encyclopedia says most of the early settlers came to work against slavery. Most stays. It says the Abolition Society of Paint Valley was founded in April 1833, then disbanded and quickly reorganized as the Greenfield Antislavery Society. Quickly stays. It says the records become thin because so many people helped. Thin stays. A timeline says that in 1844 the local society aided Frederick Douglass. I will not invent the night. It says a county militia was formed here in 1805. The same line names Tippecanoe. I will not move that fight. It says that in 1803 Indians returned to hunt, and it names no nation. I will not. It says the first African American owned car company was founded here in 1893, C. R. Patterson and Sons, first buggies and later cars. First stays. It also says this was the smallest city in the country to own its rail line. The box says village. I will not sand those. The next place, when you want it, is Greenhills.",
+    long: "",
+    names: ["Greenfield"]
+  },
+
+  {
+    id: "approach-greenhills",
+    name: "Greenhills",
+    lat: 39.2750,
+    lng: -84.5194,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Greenhills, the village in Hamilton County. Not Cincinnati. The government built it in the Depression, as one of three greenbelt towns. The first families came in 1938. If you stay on the road, I'll start there.",
+    long: "",
+    names: ["Greenhills"]
+  },
+  {
+    id: "greenhills-1938",
+    name: "April First",
+    lat: 39.2669,
+    lng: -84.5194,
+    radius: 40,
+    short: "The encyclopedia says Greenhills was built by the Resettlement Administration in the nineteen thirties, one of three greenbelt towns, with Greenbelt in Maryland and Greendale in Wisconsin. The same page says that, like the other six towns of that president, it was founded as a sundown town, and that covenants kept minorities from buying houses. I will not average three and six, and I will not call the covenant a battle. A marker says construction began on December 16, 1935, and that the first families, called pioneers, moved onto Avenell Lane on April 1, 1938. Pioneers stays in the page's quotes. It says the project built six hundred seventy-six homes. I will not make that the later count. The planners named on the village page are Justin R. Hartzog, William A. Strong, Roland A. Wank, and F. Frank Cordner, with a team of more than one hundred fifty. More than stays. I do not have their years. This pin is the village.",
+    long: "",
+    names: ["Greenhills"]
+  },
+  {
+    id: "greenhills-belt",
+    name: "The Belt Stays Outside",
+    lat: 39.2671,
+    lng: -84.5237,
+    radius: 40,
+    short: "A district page says eight hundred acres stayed inside the corporate line, and one thousand six hundred forty-two acres became the greenbelt, as Winton Woods. I will not move the park onto this street. It says five hundred thirty-four acres went to the Army in 1950 for the West Fork lake. I will not move the lake. The west branch of Mill Creek runs at the ravines. I will not make the creek a nation. The encyclopedia says the James Whallon House is the village hall and is on the register. I do not have the year of that house. The picture is the municipal building. I will not swear those are one door. A commons is dedicated to Nicholas G. Bates for service from 1936 to 1973, and the stone says city. This place is a village. I do not have his birth. Most of the original government ground is a National Historic Landmark. Most stays. The next place, when you want it, is Greentown.",
+    long: "",
+    names: ["Greenhills"]
+  },
+
+  {
+    id: "approach-greentown",
+    name: "Greentown",
+    lat: 40.9350,
+    lng: -81.4014,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Greentown, the census place in Lake Township, Stark County. Not Canton, and not a village. It was platted in 1816, and the name is from an older township. If you stay on the road, I'll start there.",
+    long: "",
+    names: ["Greentown"]
+  },
+  {
+    id: "greentown-1816",
+    name: "Formerly Green",
+    lat: 40.9267,
+    lng: -81.4014,
+    radius: 40,
+    short: "The encyclopedia says Greentown was platted in 1816, and that it was formerly in Green Township, hence the name. Hence stays. Formerly stays. It is in Lake Township now. I will not make those one township. A newspaper says William H. Perrin's history dates the plat to February 1816. The encyclopedia does not print the month. I will not add a day. The picture on the page is the Miller House. I do not have its year, and I do not have the door. The same newspaper puts the community square at State Street and Cleveland Avenue. I do not have a separate stake for it. Hartville, Uniontown, and Aultman stay where they are. The Greentown of 1812 is a different ground. I will not move it. There is still no person with years, no nation on this page, and no battle. This pin is the census place. The next place, when you want it, is Greenville.",
+    long: "",
+    names: ["Greentown"]
+  },
+
+  {
+    id: "approach-greenville",
+    name: "Greenville",
+    lat: 40.1280,
+    lng: -84.6258,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Greenville, the city in Darke County, and the county seat. A fort stood here before the town. The pages do not agree on the day of the treaty. If you stay on the road, I'll start at the fort.",
+    long: "",
+    names: ["Greenville"]
+  },
+  {
+    id: "greenville-1808",
+    name: "August Eighteen Oh Eight",
+    lat: 40.1194,
+    lng: -84.6258,
+    radius: 40,
+    short: "The encyclopedia says the first settlers came in 1807, and that the city was founded in August 1808. A desk encyclopedia says it was laid out in 1808, became the seat in 1809, and was incorporated as a city in 1902. I will not make those one year. The name is from the fort, and the fort was named for a Revolutionary general. This page spells him Nathaniel Greene. The other page spells him Nathanael Greene. I will not pick. This pin is the city. Not Dayton.",
+    long: "",
+    names: ["Greenville"]
+  },
+  {
+    id: "greenville-fort",
+    name: "August Third, or August Fifth",
+    lat: 40.1027,
+    lng: -84.6339,
+    radius: 40,
+    short: "The encyclopedia says Fort Greene Ville was built in November 1793 by Anthony Wayne, and that its works covered about fifty-five acres, the largest wooden fort in North America. About stays. A stone on South Broadway says it was the largest pioneer fort in Ohio, built in 1793, and that the treaty was signed here on August 5, 1795. The encyclopedia says August 3. I will not average them. It says about three thousand soldiers trained here before the march to Fallen Timbers. A book quoted beside the stone says the post held over two thousand troops and more than eleven hundred guests, and that it was as often called a camp as a fort. I will not average the counts. The encyclopedia says settlers later carried logs south to build Dayton, and that in 1812 the army refitted what remained. The desk encyclopedia says the fort was burned in 1796. I will not sand those. This pin is the fort stone.",
+    long: "",
+    names: ["Greenville"]
+  },
+  {
+    id: "greenville-treaty",
+    name: "The Stone Lists Them",
+    lat: 40.1019,
+    lng: -84.6335,
+    radius: 40,
+    short: "A marker about a hundred feet north of the fountain, on the public square, says the treaty was signed on August 3, 1795, by the Wyandot, Delaware, Shawnee, Ottawas, Chippewa, Ottawa, Pattawatimi, Miami, Eel River, Wea, Piankeshaw, Kickapoo, and Kaskaskia. The stone prints Ottawa twice, and it prints Pattawatimi. I will not repair it. It says the line ran by the Cuyahoga, Fort Laurens, and Fort Recovery, and that a hundred fifty thousand acres at the Falls of the Ohio were assigned to General Clark. I will not move those places. It says this ended the Indian wars in the Ohio country. That is the stone's claim. A desk encyclopedia names Little Turtle, of the Miami. This stone, in the lines I have, does not. I do not have his years. The picture on the city page is the Henry St. Clair Memorial Hall. I do not have its year. The next place, when you want it, is Greenwich.",
+    long: "",
+    names: ["Greenville"]
+  },
+
+  {
+    id: "approach-greenwich",
+    name: "Greenwich",
+    lat: 41.0400,
+    lng: -82.5197,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Greenwich, the village in Huron County. Not Norwalk. The name came from the township, and the township from Greenwich in Connecticut. A settler is dated 1817, and the page wants a better source. If you stay on the road, I'll start there.",
+    long: "",
+    names: ["Greenwich"]
+  },
+  {
+    id: "greenwich-1817",
+    name: "Better Source Needed",
+    lat: 41.0317,
+    lng: -82.5197,
+    radius: 40,
+    short: "The encyclopedia says Henry Carpenter, from Ulster County, New York, was the first settler, in 1817, and it marks that sentence as needing a better source. The mark stays. I do not have his years. A post office called Greenwich opened in 1828. The village was incorporated in 1879. The name comes from the township, and the township from the town of Greenwich, Connecticut. A township page adds Fairfield County, and says most of the first owners lived there. Most stays. It says the township was attached to New Haven in 1815, joined with Fitchville and Hartland in 1819, and set off by itself in 1823. I will not make 1823 the year of the village. It says Robert Inscho carried the mail in 1829, and that Benjamin Kniffen was the first postmaster. I will not make 1828 and 1829 one day. This pin is the village.",
+    long: "",
+    names: ["Greenwich"]
+  },
+  {
+    id: "greenwich-firelands",
+    name: "Sufferers' Lands",
+    lat: 41.0310,
+    lng: -82.5190,
+    radius: 40,
+    short: "The encyclopedia says this village is in the Firelands, also called the Sufferers' Lands. The quotes stay. It says the tract was set aside in 1792 for people in Connecticut towns, including Greenwich, whose houses were burned in the Revolution. I will not move those fires onto this street, and I will not invent a battle here. A township page says a burying ground was allowed about 1824, in lot twenty-four of section four, on land of H. G. Mead, by his agent Varney Pearce, and that Mead later denied it. About stays. It also names Greenlawn. I do not have the gate. The picture on the village page is Main Street. I do not have a year for it. There is still no nation on these pages. The next place, when you want it, is Groesbeck.",
+    long: "",
+    names: ["Greenwich"]
+  },
+
+  {
+    id: "approach-groesbeck",
+    name: "Groesbeck",
+    lat: 39.2360,
+    lng: -84.5942,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Groesbeck, the census place in Hamilton County. Not Cincinnati, and not a village. It was West Union until the post office had to change the name. If you stay on the road, I'll start at 1857.",
+    long: "",
+    names: ["Groesbeck"]
+  },
+  {
+    id: "groesbeck-1857",
+    name: "Already a West Union",
+    lat: 39.2286,
+    lng: -84.5942,
+    radius: 40,
+    short: "The encyclopedia says Groesbeck was founded as West Union, and that when a post office was opened in 1857 the name had to be changed, because a West Union already existed. I will not move that other town. The next sentence names William S. Groesbeck, a representative from Ohio. A copy of the page says the new name was taken from his surname. I do not have his years, and I will not invent them. It says that in 1894 the place had two hotels, a blacksmith shop, and a church. I do not have those doors. The picture is the Farbach-Werner Nature Preserve. I do not have a separate stake for it. The prose prints seven thousand two hundred two people in 2000 and six thousand seven hundred eighty-eight in 2010. The table I saw starts at seven thousand three hundred sixty-five in 2020. I will not fill the gap. A post-office page uses a Cincinnati postal line. I will not make this Cincinnati. There is still no nation, and no battle. This pin is the census point. The next place, when you want it, is Guilford Lake.",
+    long: "",
+    names: ["Groesbeck"]
+  },
+
+  {
+    id: "approach-guilford-lake",
+    name: "Guilford Lake",
+    lat: 40.8120,
+    lng: -80.8772,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Guilford Lake, the census place in Hanover Township, Columbiana County. Not Lisbon. The houses take their name from the water, and the water from an engineer. The pages do not agree on the year of the dam. If you stay on the road, I'll start at the name.",
+    long: "",
+    names: ["Guilford Lake"]
+  },
+  {
+    id: "guilford-lake-1834",
+    name: "Gillford, Then the Seal",
+    lat: 40.8033,
+    lng: -80.8772,
+    radius: 40,
+    short: "The encyclopedia says the lake was built in 1834 as a feeder for the Sandy and Beaver Canal, and that it took its name from Edward H. Gill, the canal company's chief engineer. I do not have his years. A newspaper says the place was Gillford until 1874, when the Gillford Grange was founded and someone noticed that the seal said Guilford, and that spelling stuck. Someone noticed stays. A park page prints Guildford once, and then Guilford. I will not pick. The community page says this ground was first listed as a census place in 2020. I will not give it an older count. This pin is the census point. The water is around it. I will not choose a shore.",
+    long: "",
+    names: ["Guilford Lake"]
+  },
+  {
+    id: "guilford-lake-dam",
+    name: "Nineteen Thirty-Two, or Three, or Four",
+    lat: 40.8026,
+    lng: -80.8765,
+    radius: 40,
+    short: "The same page says that when the canal era ended, farmers broke the dam, drained the lake, and farmed the bottom. It does not print the year. It says a new dam was finished in 1932, and that the land around it became a state park in 1949. The park's own page says the dam was rebuilt in 1933, and that the park was designated in 1949. A newspaper says the state bought the land in 1927, made it a park in 1932, and rebuilt the lake in 1934, about three hundred ninety-six acres. About stays. I will not average 1932, 1933, and 1934, and I will not average 1932 and 1949. The park page says the dam is thirty-five feet high and three thousand two hundred feet long, and that in 2026 the water was to be extremely low. Extremely stays. There is still no person with years, no nation, and no battle. The next place, when you want it, is Hamburg.",
+    long: "",
+    names: ["Guilford Lake"]
+  },
+
+  {
+    id: "approach-hamburg",
+    name: "Hamburg",
+    lat: 39.6600,
+    lng: -82.6608,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Hamburg, the census place in Fairfield County. Not Lancaster. It was laid out around 1812, on Zane's Trace. There is another Hamburg, in Preble County. I will not move it. If you stay on the road, I'll start at the hedge.",
+    long: "",
+    names: ["Hamburg"]
+  },
+  {
+    id: "hamburg-1812",
+    name: "Around Eighteen Twelve",
+    lat: 39.6519,
+    lng: -82.6608,
+    radius: 40,
+    short: "The encyclopedia says Hamburg was laid out around 1812, on Zane's Trace, and named for the city of Hamburg in Germany. Around stays. I will not move that city. A post office called Hamburg opened in 1859 and closed in 1905. I will not make those one year. The page prints no count. A census table prints four hundred fifty-six people in 2020. A census file prints a second point. I will not average it with this one. The Hamburg in Preble County was platted in 1850, and its office was spelled Hamburgh from 1850 until 1854. A railroad moved the business to Eldorado. I will not move that ground. There is still no person with years, no yard, no building I can point at, no nation, and no battle. This pin is the Fairfield place. The next place, when you want it, is Hamden.",
+    long: "",
+    names: ["Hamburg"]
+  },
+
+  {
+    id: "approach-hamden",
+    name: "Hamden",
+    lat: 39.1680,
+    lng: -82.5242,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Hamden, the village in Clinton Township, Vinton County. Not McArthur. The encyclopedia says it was laid out in 1820. An older book puts the plat in 1829. If you stay on the road, I'll start at those two years.",
+    long: "",
+    names: ["Hamden"]
+  },
+  {
+    id: "hamden-1820",
+    name: "Christmas, and the Next Day",
+    lat: 39.1608,
+    lng: -82.5242,
+    radius: 40,
+    short: "The encyclopedia says Hamden was laid out in 1820 and incorporated in 1876. A 1916 history says Nathaniel Richmond entered the land in 1820, and that the village was eventually platted on it. It says the plat was received on Christmas 1829, by Richmond, then a justice in Jackson County, and recorded the next day. I will not make 1820 and 1829 one year, and I will not move Jackson. The same book says that in 1834 Charles Robbins and J. K. Wilson bought the property and laid out the village of 1829, the survey by O. M. Tyson. I will not repair that sentence. It says forty-eight lots, in the south of section 19 and over into section 30. Robbins held the east side of Main Street. Wilson held the west. It says the village was christened Hamden the previous year. Previous stays. I will not invent the year. J. M. Thomas was the first mayor. I do not have his years. This pin is the village.",
+    long: "",
+    names: ["Hamden"]
+  },
+  {
+    id: "hamden-office",
+    name: "A Mile North",
+    lat: 39.1592,
+    lng: -82.5270,
+    radius: 40,
+    short: "The same book says the first post office in the township was Reed's Mill, a mile north of the present town. I will not move it. It says the office was later brought here, took the name Hamden for a time, and was then called Hamden Junction so it would not be confused with another place in the state. I will not move that other place. A roadside page says the office opened in 1910. I will not make that the year of Reed's Mill. The office now stands at 30 North Main. I do not have the year of the walls. The picture on the encyclopedia is South Main Street. Lists name a Hamden Cemetery and an Old Hamden Cemetery. I do not have the gates. There is still no person with years, no nation, and no battle. The next place, when you want it, is Hamersville.",
+    long: "",
+    names: ["Hamden"]
+  },
+
+  {
+    id: "approach-hamersville",
+    name: "Hamersville",
+    lat: 38.9260,
+    lng: -83.9853,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Hamersville, the village in Clark Township, Brown County. Not Georgetown. It was laid out in 1838 and named for a congressman. If you stay on the road, I'll start at the name.",
+    long: "",
+    names: ["Hamersville"]
+  },
+  {
+    id: "hamersville-1838",
+    name: "Eighteen Thirty-Eight",
+    lat: 38.9189,
+    lng: -83.9853,
+    radius: 40,
+    short: "The encyclopedia says Hamersville was laid out in 1838 and named for Thomas Hamer, then a congressman, and later a general in the Mexican-American War. I do not have his years, and I will not move that war onto this street. A roadside page says it does not have a founding date, and that the post office opened in 1832. You might consider stays on that page. I will not make 1832 the plat. The picture is Main Street, State Route 125, looking northwest. I do not have a year for a building. The box and the geography line do not agree on the tenths of a mile. I will not average them. There is still no yard I will pin, no nation, and no battle here. This pin is the village. The next place, when you want it, is Hanging Rock.",
+    long: "",
+    names: ["Hamersville"]
+  },
+
+  {
+    id: "approach-hanging-rock",
+    name: "Hanging Rock",
+    lat: 38.5680,
+    lng: -82.7275,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Hanging Rock, the village in Hamilton Township, Lawrence County, on the Ohio River. Not Ironton. A furnace was built here in 1820. The name is a cliff, and a newspaper tells more than one story. If you stay on the road, I'll start at the furnace.",
+    long: "",
+    names: ["Hanging Rock"]
+  },
+  {
+    id: "hanging-rock-1820",
+    name: "The Furnace",
+    lat: 38.5600,
+    lng: -82.7275,
+    radius: 40,
+    short: "The encyclopedia says the village had its start in 1820, when a blast furnace was built, and that the town followed the workers. It says the name comes from a nearby cliff. Nearby stays. A township page says that in 1846, according to most accounts, there was a church, four stores, a forge, a rolling mill, a foundry, and about one hundred fifty people. Most stays. About stays. It says the place was about seventeen miles downriver from the county seat, which was then Burlington. I will not move Burlington, and I will not move Ironton. The same page says this village gave its name to an iron region of more than a thousand square miles. A marker in Jackson County says eighteen hundred, and that Union Furnace, in 1826, was the first in that region. I will not average the miles, and I will not move that furnace onto this street. The picture here is the stone arch over Osborne Run. I do not have its year. This pin is the village.",
+    long: "",
+    names: ["Hanging Rock"]
+  },
+  {
+    id: "hanging-rock-1851",
+    name: "Another Story",
+    lat: 38.5594,
+    lng: -82.7265,
+    radius: 40,
+    short: "A society page prints the Ironton Register of January 30, 1851. It says the name is the overhanging cliff, a rock jutting from the hill over the town. It says another story is that a rock in the river hung up the boats. Another story stays. It says the place was also called the Bend in the River. It tells a third story, that white men came in 1794, and it uses a word for the people I will not say. No nation is named. I will not repeat the phrase the paper puts in their mouths, and I will not make 1794 the year of the furnace. It says part of the town was built on the old Bartles farm. The ponds and the recreational ground are near. Near stays. There is still no person with years I will pin, and no battle. The next place, when you want it, is Hannibal.",
+    long: "",
+    names: ["Hanging Rock"]
+  },
+
+  {
+    id: "approach-hannibal",
+    name: "Hannibal",
+    lat: 39.6800,
+    lng: -80.8764,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Hannibal, the census place in Ohio Township, Monroe County, on the Ohio River. Not Woodsfield. It was Baresville. The name was changed soon after a post office opened. If you stay on the road, I'll start there.",
+    long: "",
+    names: ["Hannibal"]
+  },
+  {
+    id: "hannibal-baresville",
+    name: "Soon",
+    lat: 39.6717,
+    lng: -80.8764,
+    radius: 40,
+    short: "The encyclopedia says Hannibal was first called Baresville, for the founder, Jacob Bare. I do not have his years. It says a post office called Hannibal was opened, and that the town's name was soon changed to match. Soon stays. It does not print the year, and it does not say why the office was called Hannibal. I will not borrow a reason. The place is home to the Hannibal Locks and Dam. This page does not date them. A building here houses River Elementary and River High, in the Switzerland of Ohio district. I do not have the year of the walls. The count was four hundred eleven in 2010 and three hundred fourteen in 2020. An older copy prints four hundred fifty-one for 2010. I will not average them. An older copy also prints a second point. I will not average that either. There is still no yard I will pin, no nation, and no battle. This pin is the census place. The next place, when you want it, is Hanover.",
+    long: "",
+    names: ["Hannibal"]
+  },
+
+  {
+    id: "approach-hanover",
+    name: "Hanover",
+    lat: 40.0900,
+    lng: -82.2761,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Hanover, the village in Licking County, on State Route 16. Not Newark, and not Hanoverton. It was laid out in 1849. An older name was Fleming. If you stay on the road, I'll start there.",
+    long: "",
+    names: ["Hanover"]
+  },
+  {
+    id: "hanover-1849",
+    name: "Fleming",
+    lat: 40.0819,
+    lng: -82.2761,
+    radius: 40,
+    short: "The encyclopedia says Hanover was laid out in 1849, although there had been business at the site for some time. Some time stays. An early name was Fleming, for John Fleming, who owned the town site. I do not have his years. A roadside page says it does not have a founding date, and that the post office opened in 1815 and closed in 1959. I will not make 1815 the plat, and I will not make 1849 the office. This pin is the village.",
+    long: "",
+    names: ["Hanover"]
+  },
+  {
+    id: "hanover-1959",
+    name: "Six or More Inches",
+    lat: 40.0827,
+    lng: -82.2753,
+    radius: 40,
+    short: "The village page is written by Chester Flowers. He says he was ninety-two, that he had served on the council more than forty years, and that he moved here in 1935. More than stays. Some people say he is the oldest, and some say his memory is good. Some stays. I do not have his birth. He says we believe the place is over two hundred years old. Believe stays. He says that in January 1959, melting snow and six or more inches of rain put the Licking River high, while Dillon Dam was being built, and that so many people left that the village lost its charter. Six or more stays. He and John Watkins, the county engineer, laid out Flowers Addition in March 1960. Darla Drive was the first road, and he calls it the oldest street. I do not have a separate stake for it. The Arthur Farmhouse is on West High Street. Carl Wills put a grocery at Darla and West High, the first business after the flood. The picture on the encyclopedia is a Presbyterian church. I do not have its year. There is still no nation, and no battle. The next place, when you want it, is Hanoverton.",
+    long: "",
+    names: ["Hanover"]
+  },
+
+  {
+    id: "approach-hanoverton",
+    name: "Hanoverton",
+    lat: 40.7600,
+    lng: -80.9356,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Hanoverton, the village in Columbiana County. Not Lisbon, and not Hanover. The box says 1813. A newspaper says 1823. If you stay on the road, I'll start at those two years.",
+    long: "",
+    names: ["Hanoverton"]
+  },
+  {
+    id: "hanoverton-1813",
+    name: "Eighteen Thirteen, or Eighteen Twenty-Three",
+    lat: 40.7522,
+    lng: -80.9356,
+    radius: 40,
+    short: "The encyclopedia says Hanoverton was laid out in 1813 by James Craig, a Quaker and an abolitionist, and incorporated in 1836. A newspaper says Craig established it in 1823. A sidebar on that page says founded in 1832. I will not average them, and I do not have Craig's years. Hanover House, a saltbox in the canal district, is dated 1820. I will not make that the plat. The Sandy and Beaver Canal came through in the eighteen thirties. The encyclopedia says the town then reached about two thousand people. About stays. It says growth slowed in the eighteen forties, and that by the railroad of 1852 the canal no longer paid. The newspaper says the canal was finished in 1848, about seventy-two miles, from Bolivar to the river at East Liverpool. About stays. I will not move those places, and I will not make 1848 and 1852 one year. This pin is the village.",
+    long: "",
+    names: ["Hanoverton"]
+  },
+  {
+    id: "hanoverton-tavern",
+    name: "Brick Row",
+    lat: 40.7516,
+    lng: -80.9348,
+    radius: 40,
+    short: "The picture is the Spread Eagle Tavern, dated 1837. A newspaper says Will Rhodes built it that year, and puts it at 10150 Plymouth Street. I do not have his years. The encyclopedia says an underground passage joined George Sloan's Brick Row to the house of Dr. James Robertson, his brother-in-law, across the street, where people escaping slavery were taken to a secret room. Secret stays. It says the tavern was connected to a tunnel. I will not invent the night, and I do not have their years. In 1977 twenty-three acres were listed as the Hanoverton Canal Town District. The page says the buildings are largely unchanged since the middle of the eighteen hundreds. Largely stays. A church at 10237 Plymouth Street is on the register. The database dates that entry 1830. The stone, in the lines I have, does not. An older copy says Abraham Lincoln came here and marks the sentence as needing a citation. I will not restore him. There is still no nation I will take from a regional label. The next place, when you want it, is Harbor Hills.",
+    long: "",
+    names: ["Hanoverton"]
+  },
+
+  {
+    id: "approach-harbor-hills",
+    name: "Harbor Hills",
+    lat: 39.9450,
+    lng: -82.4352,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Harbor Hills, the census place in Licking Township, on the north side of Buckeye Lake. Not Newark, and not the village of Buckeye Lake. A post office used the name from 1927 until 1943. If you stay on the road, I'll start there.",
+    long: "",
+    names: ["Harbor Hills"]
+  },
+  {
+    id: "harbor-hills-1927",
+    name: "Nineteen Twenty-Two, and Nineteen Twenty-Seven",
+    lat: 39.9367,
+    lng: -82.4352,
+    radius: 40,
+    short: "The encyclopedia says a post office called Harbor Hills opened in 1927 and closed in 1943. A local page says a Columbus realtor, Harry Freeman, started the shore development in 1922. I will not make those one year, and I do not have his years. The encyclopedia says this census place wraps the north and northeast of the lake, that Interstate 70 is the north edge, and that State Route 13 is the east edge. It says the neighborhood of the same name is only the western part, and that Edgewater Beach is the southeast corner. I will not make them one shore. The lake is a reservoir of the nineteenth century, built for the canal, and now used for play. Nineteenth century stays. I will not date it further. The count was one thousand three hundred three in 2000 and one thousand five hundred sixty-five in 2020. I will not fill the years the table skips. This pin is the census point.",
+    long: "",
+    names: ["Harbor Hills"]
+  },
+  {
+    id: "harbor-hills-polo",
+    name: "A Scant Eighteen Inches",
+    lat: 39.9360,
+    lng: -82.4343,
+    radius: 40,
+    short: "The same local page says the development put a nine-hole course on the hills, with the seventh green beside the lake. I do not have a stake for that green. It says there was a polo field a scant eighteen inches higher than the water, so the ground stayed soft. Scant stays. Dr. Clyde Reed owned it and rented it for a dollar a year. I do not have his years. Matches were on Sunday afternoons, and riders came from throughout central Ohio. Throughout stays. The page says the course is public now. I will not swear the polo field is still there. Dawes Arboretum and the old National Road are in the township. I will not move them onto this point. There is still no nation, and no battle. The next place, when you want it, is Harbor View.",
+    long: "",
+    names: ["Harbor Hills"]
+  },
+
+  {
+    id: "approach-harbor-view",
+    name: "Harbor View",
+    lat: 41.7000,
+    lng: -83.4447,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Harbor View, the village in Lucas County. Oregon is all the way around it. Not Toledo. The pages do not agree on the year it was incorporated. If you stay on the road, I'll start at the three dates.",
+    long: "",
+    names: ["Harbor View"]
+  },
+  {
+    id: "harbor-view-1920",
+    name: "Nineteen Ten, Twenty, and Twenty-One",
+    lat: 41.6933,
+    lng: -83.4447,
+    radius: 40,
+    short: "The encyclopedia's box says the village was established in 1921. A gazetteer says it was incorporated in 1910, and then calls the place unincorporated. I will not repair that. A newspaper says it began as summer cottages, and that the residents voted to incorporate in 1920 so they could have their own police. It says that is according to articles from that time. According stays. I will not average the three years. The box says twenty-three thousandths of a square mile. The geography line says three hundredths. Residents claim this is the smallest village in the state by land. Claim stays. The paper says a few villages have fewer people. I will not move them. This pin is the village.",
+    long: "",
+    names: ["Harbor View"]
+  },
+  {
+    id: "harbor-view-channel",
+    name: "The Lines I Have",
+    lat: 41.6928,
+    lng: -83.4439,
+    radius: 40,
+    short: "The same paper says that in the years of Prohibition the village was a stop for liquor run in from Canada, and that an officer was killed in the line of duty by a bootlegger. It does not, in the lines I have, print the officer's name or the year. I will not invent them, and I will not call it a battle. It says that in the nineteen thirties the government widened the shipping channel and left this place a front of marsh grass. I will not move Toledo. The picture is the village hall. The paper says a flood had gutted it, and that the post office in the same building was spared, and is open fourteen and a half hours a week. The count fell from three hundred ninety-two in 1950 to eighty-nine in 2020. The paper says the village lost three hundred people between the nineteen fifties and the nineteen eighties. I will not sand that into the table. There is still no person with a span of years, no yard I will pin, and no nation. The next place, when you want it, is Harpster.",
+    long: "",
+    names: ["Harbor View"]
+  },
+
+  {
+    id: "approach-harpster",
+    name: "Harpster",
+    lat: 40.7520,
+    lng: -83.2506,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Harpster, the village in Pitt Township, Wyandot County. Not Upper Sandusky. The encyclopedia has no history for this ground. Two pages do not agree on the post office. If you stay on the road, I'll start at those two dates.",
+    long: "",
+    names: ["Harpster"]
+  },
+  {
+    id: "harpster-office",
+    name: "Incomplete",
+    lat: 40.7444,
+    lng: -83.2506,
+    radius: 40,
+    short: "The encyclopedia prints the village, the count, and the houses on Main Street. It does not print a plat, a founder, or a year. A directory says the post office opened on January 15, 1877, at 7272 Wyandot Street, and the page warns that it was built from a spreadsheet and may be incomplete. Incomplete stays. A roadside page says it does not have a founding date, and that the office opened in 1890. You might consider stays on that page. I will not average 1877 and 1890. Church records for the United Methodist church here are catalogued from 1877 to 1917. I do not have the year of the walls, and I do not have the door. There is still no person with years, no yard, no nation, and no battle. This pin is the encyclopedia. The next place, when you want it, is Harrisburg.",
+    long: "",
+    names: ["Harpster"]
+  },
+
+  {
+    id: "approach-harrisburg",
+    name: "Harrisburg",
+    lat: 39.8190,
+    lng: -83.1680,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Harrisburg, the village in Franklin County and in Pickaway County. Not Columbus. It was Darby Cross Roads, and then a plat in 1836. The list has another Harrisburg. I will not build that one here. If you stay on the road, I'll start at the office.",
+    long: "",
+    names: ["Harrisburg"]
+  },
+  {
+    id: "harrisburg-1836",
+    name: "Four Dates",
+    lat: 39.8110,
+    lng: -83.1680,
+    radius: 40,
+    short: "The encyclopedia says the Big Darby post office opened on March 13, 1834, and was renamed Harrisburgh on February 18, 1835. It closed on August 26, 1836, for an unknown reason, and was quickly opened again on October 21, 1836. Unknown stays. Quickly stays. I will not make those one day. Joseph Chenowith founded the village in 1836. A local page spells him Chenoweth. I will not pick. Frederick Cole surveyed it. Before the plat the ground was Darby Cross Roads. The name is from Harrisburg, Pennsylvania. I will not move that city. The local page says the office took the village name when the plat was made. The encyclopedia's date is the year before the plat. I will not sand that. The same page says the village was incorporated in 1851. Elijah and Rachel Chenoweth are dated 1799, and their cabin is in Pike County. I will not move it. This pin is the list's point.",
+    long: "",
+    names: ["Harrisburg"]
+  },
+  {
+    id: "harrisburg-1893",
+    name: "The H Came Off",
+    lat: 39.8107,
+    lng: -83.1707,
+    radius: 40,
+    short: "The encyclopedia says the spelling was officially changed to Harrisburg on March 30, 1893. A local page says that was fifty-seven years after the survey. I will not do the arithmetic for it. The page says the village was known as lively, and that it held about thirty families at the start. About stays. An elementary school closed in 2008 after a levy failed, then stood for six more years and was demolished. I will not point you to that door. The children were sent to Darbydale. I will not move that school. An older copy of this page prints a different point. I will not average it with the list. There is still no person with years, no yard, no nation, and no battle. The next place, when you want it, is the other Harrisburg.",
+    long: "",
+    names: ["Harrisburg"]
+  },
+
+  {
+    id: "approach-harrisburg-stark",
+    name: "Harrisburg",
+    lat: 40.8870,
+    lng: -81.2300,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Harrisburg, the census place in Stark County. Not Canton, and not the Harrisburg in Franklin County. This one was laid out in 1827. The post office used another name. If you stay on the road, I'll start there.",
+    long: "",
+    names: ["Harrisburg"]
+  },
+  {
+    id: "harrisburg-stark-1827",
+    name: "Barryville",
+    lat: 40.8792,
+    lng: -81.2383,
+    radius: 40,
+    short: "The encyclopedia says this Harrisburg was laid out in 1827 and named for Harrisburg, Pennsylvania. I will not move that city, and I will not move the village of the same name. A variant name was Barryville. A post office called Barryville opened in 1830 and closed in 1906. I will not make the office and the town one name, and I will not make 1827 and 1830 one year. The picture is the Sacred Heart of Mary church. I do not have its year. The page calls this a census place and prints no count. The list prints a different point. I will not average them. There is still no person with years, no yard, no nation, and no battle. This pin is the encyclopedia. The next place, when you want it, is Harrison.",
+    long: "",
+    names: ["Harrisburg"]
+  },
+
+  {
+    id: "approach-harrison",
+    name: "Harrison",
+    lat: 39.2600,
+    lng: -84.7889,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Harrison, the city in western Hamilton County. Not Cincinnati, and not North Bend. The plat and the name are not the same year. If you stay on the road, I'll start at 1810.",
+    long: "",
+    names: ["Harrison"]
+  },
+  {
+    id: "harrison-1810",
+    name: "Eighteen Ten, and Eighteen Fourteen",
+    lat: 39.2517,
+    lng: -84.7889,
+    radius: 40,
+    short: "The city page says that by 1810 four blocks were platted, centered on Market Street, now Harrison Avenue, and Walnut. It says the town has been called Harrison since 1814, for General William Henry Harrison, who lived at North Bend. I will not move him. The encyclopedia says the place was laid out in 1810 and named for him, that it was incorporated in 1850, and that it became a city in 1981. The history section is marked as needing more citations. The mark stays. I will not make 1810 and 1814 one year. Othneil Looker built a lumber house in 1804 and was the fifth governor in 1814. I do not have his years. The Whitewater Canal, built from 1836 to 1847, made this one of the few stops in Ohio. Few stays. I will not move the other seventy-six miles. The picture is the barn at the Hugh Campbell House. I do not have its year. This pin is the city.",
+    long: "",
+    names: ["Harrison"]
+  },
+  {
+    id: "harrison-1863",
+    name: "Before Noon",
+    lat: 39.2620,
+    lng: -84.8183,
+    radius: 40,
+    short: "A stone on Harrison Avenue, near Walnut, says that before noon on July 13, 1863, the town heard hooves on the covered bridge over the Whitewater River, southwest of town. Before noon stays. Southwest stays. I will not move the bridge. The encyclopedia says Morgan's raiders invaded that day. The city page lists a tornado in 1854, an explosion of the town hall in 1877, and a flood in 1913. I will not point you to a hall that blew up. The Eighteen Mile House is in the vicinity, from the earliest years of the nineteenth century. Vicinity stays. I do not have its door. There is still no person with a span of years, and no nation on these pages. The next place, when you want it, is Harrisville.",
+    long: "",
+    names: ["Harrison"]
+  },
+
+  {
+    id: "approach-harrisville",
+    name: "Harrisville",
+    lat: 40.1900,
+    lng: -80.8869,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Harrisville, the village in Short Creek Township, Harrison County. Not Cadiz. The plat was made in October 1814 and filed the next January. If you stay on the road, I'll start at those two days.",
+    long: "",
+    names: ["Harrisville"]
+  },
+  {
+    id: "harrisville-1814",
+    name: "October, Then January",
+    lat: 40.1814,
+    lng: -80.8869,
+    radius: 40,
+    short: "The encyclopedia says John Wells, Thomas Gray, Store Hutchinson, and Robert Dutton platted Harrisville on October 19, 1814, and that the plat was filed on January 9, 1815, with Wells as proprietor. I will not make those one day, and I do not have their years. A roadside page says it does not have a founding date, and that the post office opened in 1816. You might consider stays. I will not make 1816 the plat. In 1834, local women made one of the first known demands for the vote. Known stays. Thirty-five of them asked Congress to abolish slavery in the District of Columbia, and for the immediate enfranchisement of every human being that shall tread this soil. The words stay. I will not move the capital. The picture is the Fireman and Auxiliary Hall, on Route 250. I do not have its year. This pin is the village.",
+    long: "",
+    names: ["Harrisville"]
+  },
+  {
+    id: "harrisville-1863",
+    name: "Tired But Safe for Now",
+    lat: 40.1815,
+    lng: -80.8875,
+    radius: 40,
+    short: "The encyclopedia says that during Morgan's raid, in 1863, he passed through this village on the way to the defeat at Salineville. I will not move the towns on that list. A stone at East Main and Maynard Hollow says about five hundred of his men had narrowly escaped, that they took nine horses and the food meant for the men chasing them, and that they went east. About stays. Narrowly stays. The database dates that entry July 1837. I will not make 1837 the raid. A burial list names Harrisville Cemetery and says the list is partial. I do not have the gate, and I will not pick one of the years. There is still no nation on the village page. The next place, when you want it, is Harrod.",
+    long: "",
+    names: ["Harrisville"]
+  },
+
+  {
+    id: "approach-harrod",
+    name: "Harrod",
+    lat: 40.7160,
+    lng: -83.9214,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Harrod, the village in Auglaize Township, Allen County. Not Lima. The post office has used the name since 1884. A stone says 1890. If you stay on the road, I'll start at those two years.",
+    long: "",
+    names: ["Harrod"]
+  },
+  {
+    id: "harrod-1884",
+    name: "Since Eighteen Eighty-Four",
+    lat: 40.7075,
+    lng: -83.9214,
+    radius: 40,
+    short: "The encyclopedia says a post office called Harrod has been in operation since 1884, and that the village was named for the local Harrod family. Since stays. I do not have a given name, and I do not have the years. The picture is the former Harrod State Bank, now a museum. Former stays. Now stays. I do not have the year of the walls. An older copy of the page prints a second point. I will not average it with this one. This pin is the village.",
+    long: "",
+    names: ["Harrod"]
+  },
+  {
+    id: "harrod-1890",
+    name: "The Stone Says Eighteen Ninety",
+    lat: 40.7136,
+    lng: -83.9243,
+    radius: 40,
+    short: "A stone on Napoleon Road, at 1848, says the place was established in 1890, and that it is the home of the 1905 Shay engine. I will not make 1890 the year of the post office. A second marker, about three tenths of a mile off, is the engine itself. About stays. I will not move it. The same distance off are a caboose, a howitzer, and a veterans' park. I will not call the gun a battle, and I will not move the park onto this stone. There is still no person with years, and no nation. The next place, when you want it, is Hartford.",
+    long: "",
+    names: ["Harrod"]
+  },
+
+  {
+    id: "approach-hartford",
+    name: "Hartford",
+    lat: 40.2480,
+    lng: -82.6883,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Hartford, the village in Hartford Township, Licking County. The list also says Croton. That is the post office, not a second town. It was platted in 1824. If you stay on the road, I'll start at the name.",
+    long: "",
+    names: ["Hartford", "Croton"]
+  },
+  {
+    id: "hartford-1824",
+    name: "Granby, Then Croton",
+    lat: 40.2394,
+    lng: -82.6883,
+    radius: 40,
+    short: "The village page says Hartford was platted on September 20, 1824, by Ezekiel Wells and Elijah Durfey. The encyclopedia says 1824, and that the name is from Hartford, Connecticut, the native home of a share of the settlers. A share stays. I will not move that city, and I will not make native home a nation. Durfey was named postmaster on May 24, 1833. The office could not be called Hartford, because Hartford Township in Trumbull County already had one. I will not move it. This office was first called Granby, and was changed to Croton on January 25, 1843. The village was incorporated on March 6, 1866. I will not make those one year. Some descendants of Wells still live here. Some stays. I do not have his years. This pin is the village.",
+    long: "",
+    names: ["Hartford", "Croton"]
+  },
+  {
+    id: "hartford-1857",
+    name: "Six Hundred Dollars",
+    lat: 40.2390,
+    lng: -82.6876,
+    radius: 40,
+    short: "The same page says the town hall was built in 1857 for six hundred dollars, and the second story for two hundred more. Edwin Buel was the contractor. In the summer of 1895 they added twelve feet to one end and eight feet to the other. A Civil War memorial there names the fallen from Hartford Township, and those taken prisoner. I will not shrink the township to the village, and I will not invent a battle here. In its heyday the page says there were three hotels and two dry goods stores. Heyday stays. It says the new highways passed the village by, and the train eventually stopped bringing people. Eventually stays. The encyclopedia's picture is the village from the air. There is still no person with years, and no nation. The next place, when you want it, is Hartville.",
+    long: "",
+    names: ["Hartford", "Croton"]
+  },
+
+  {
+    id: "approach-hartville",
+    name: "Hartville",
+    lat: 40.9700,
+    lng: -81.3347,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Hartville, the village in Lake Township, Stark County. Not Canton. Morehart is dated 1818. The plat is dated 1851, and a newspaper says 1852. If you stay on the road, I'll start at those years.",
+    long: "",
+    names: ["Hartville"]
+  },
+  {
+    id: "hartville-1818",
+    name: "Likely",
+    lat: 40.9617,
+    lng: -81.3347,
+    radius: 40,
+    short: "The encyclopedia says John Morehart founded Hartville in 1818, that it was first platted in 1851, and that it was incorporated in 1951. It says the name is likely a blend of Morehart and John Willis. Likely stays. I do not have their years. A newspaper says he arrived in 1818 and the place was laid out in 1852. I will not average 1851 and 1852. A county history says the village was settled just prior to 1830, that John Houghton opened the first store that year, and that Morehart opened a tavern about 1838. Just prior stays. About stays. A directory says the post office opened on November 4, 1837, and warns that the page may be incomplete. Incomplete stays. I will not make 1837 the plat. This pin is the village.",
+    long: "",
+    names: ["Hartville"]
+  },
+  {
+    id: "hartville-1820",
+    name: "The Hotel, Then the Pie",
+    lat: 40.9612,
+    lng: -81.3338,
+    radius: 40,
+    short: "A newspaper says the oldest building is the Hartville Hotel, built in 1820, later the Pantry, and then the Hartville Pie Factory. Later stays. I will not make 1820 the year of the plat, and I will not swear which door is standing. The county history says George Austin lived to be one hundred six. I do not have his birth. It says the marshes east of town cover more than a thousand acres, and that the vegetables went to Pittsburgh. More than stays. I will not move the marshes, or Pittsburgh. Congress Lake is a mile north. I will not move it. Greentown and Uniontown stay where they are. There is still no nation, and no battle. The next place, when you want it, is Harveysburg.",
+    long: "",
+    names: ["Hartville"]
+  },
+
+  {
+    id: "approach-harveysburg",
+    name: "Harveysburg",
+    lat: 39.5090,
+    lng: -84.0064,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Harveysburg, the village in Massie Township, Warren County. Not Lebanon. It was platted in 1829. A school was built in 1831, and the pages do not agree on who built it. If you stay on the road, I'll start at the plat.",
+    long: "",
+    names: ["Harveysburg"]
+  },
+  {
+    id: "harveysburg-1829",
+    name: "Add Burg",
+    lat: 39.5011,
+    lng: -84.0064,
+    radius: 40,
+    short: "The encyclopedia says William Harvey platted the village in 1829 and that it was named for him. A stone says the land had been part of Colonel Abraham Buford's grant from the Revolution. I will not fight that war on this street. Levi Lukens, a Quaker from Virginia, bought the thousand-acre survey in 1812 and sold a portion to Rhoden Ham in 1815. Ham sold a portion to Harvey, a Quaker from North Carolina, who laid out forty-seven lots. I will not move Virginia, or North Carolina. The stone says a merchant in Cincinnati told Harvey to add burg to his name. I will not move Cincinnati. The office has been open since 1839. The village was incorporated in 1844. Since stays. I will not make 1829, 1831, 1839, and 1844 one year. This pin is the village.",
+    long: "",
+    names: ["Harveysburg"]
+  },
+  {
+    id: "harveysburg-1831",
+    name: "One of the First, or the First",
+    lat: 39.5027,
+    lng: -84.0061,
+    radius: 40,
+    short: "The encyclopedia says the Harvey family, ardent abolitionists, opened the Harvey Free Negro School in 1831. The stone uses those words, and it also says Free Black School, and it prints Harverysburg once. I will not repair it. It says Elizabeth Harvey, wife of Dr. Jesse Harvey, saw the need, and that the school was for African American children and for Native American children. No nation is named. I will not supply one. The same village page says Quakers Kylar and Nathaniel Harvey founded it, and that it was the first such school in Ohio. The other sentence says one of the first. I will not pick. Stephen Wall, also printed Steven, sent eight children and their families from North Carolina. Eight stays. The stone says his oldest son, Orindatus S. B. Wall, was the first regularly commissioned African American captain in the army. I do not have his years. The school closed in 1909. The classes were too small. In 1976 the building was restored and opened as a symbol of freedom through education. A monument names Ann Mason. I do not have her years. The next place, when you want it, is Haskins.",
+    long: "",
+    names: ["Harveysburg"]
+  },
+
+  {
+    id: "approach-haskins",
+    name: "Haskins",
+    lat: 41.4730,
+    lng: -83.7044,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Haskins, the village in Middleton Township, Wood County. Not Bowling Green. The post office opened in 1861. The plat is 1862. If you stay on the road, I'll start at those two years.",
+    long: "",
+    names: ["Haskins"]
+  },
+  {
+    id: "haskins-1861",
+    name: "A Year Before the Plat",
+    lat: 41.4647,
+    lng: -83.7044,
+    radius: 40,
+    short: "The encyclopedia says a post office called Haskins opened in 1861, that the village was platted in 1862 when the railroad was extended to that point, and that it was incorporated in 1869. The page does not name the railroad. The village's own page says the plat was 1862 and the incorporation was 1868. I will not average 1868 and 1869. A counter on the homepage prints 1800, and a population of 800. I will not use them. The picture is Findlay Street. I do not have a year for the walls. This pin is the village.",
+    long: "",
+    names: ["Haskins"]
+  },
+  {
+    id: "haskins-north",
+    name: "Nineteen Oh Four",
+    lat: 41.4736,
+    lng: -83.7084,
+    radius: 40,
+    short: "A stone on North Findlay Road, at 518, says this is the birthplace and home of Earl W. North, an American Impressionist, 1904 to 1989. I will not add a painting, and I will not move the stone onto the downtown. The homepage counts one park and does not name it. I will not invent the name. There is still no nation, and no battle. The next place, when you want it, is Haydenville.",
+    long: "",
+    names: ["Haskins"]
+  },
+
+  {
+    id: "approach-haydenville",
+    name: "Haydenville",
+    lat: 39.4860,
+    lng: -82.3253,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Haydenville, the census place in Green Township, Hocking County, on the Hocking River. Not Logan. It was a company town, and the pages do not agree on which year the town began. If you stay on the road, I'll start at 1852.",
+    long: "",
+    names: ["Haydenville"]
+  },
+  {
+    id: "haydenville-1852",
+    name: "Hocking Furnace",
+    lat: 39.4781,
+    lng: -82.3253,
+    radius: 40,
+    short: "The encyclopedia says Haydenville was founded in 1852 and named for Peter Hayden, who owned the town site. A stone says it was first called Hocking Furnace, and that Hayden lived from 1806 to 1888. A newspaper says that by 1850, or earlier, a map showed the Hocking Valley Iron Company and its furnace. Or earlier stays. I will not make 1850 and 1852 one year. The office has been open since 1870. The register says the district was built in 1870. I will not make the office and the buildings one event. The canal is dated by one page as opening from 1832 to 1842, and by another as the middle of the century. I will not average them. This pin is the historic town.",
+    long: "",
+    names: ["Haydenville"]
+  },
+  {
+    id: "haydenville-1882",
+    name: "Scrip",
+    lat: 39.4795,
+    lng: -82.3267,
+    radius: 40,
+    short: "The encyclopedia says Hayden formed the mining and manufacturing company in 1882, and that this was the last town in Ohio the company still owned outright. Last stays. It owned every house and both stores. Pay was scrip, good only at the company store. No job meant no house. Other stores were not allowed. A newspaper says the company was formed the next year, in 1883. I will not average 1882 and 1883. The early nineteen sixties is when the encyclopedia says the workers could buy the houses. Early stays. An architecture page says the plants closed in 1958 and 1962, and that the town was sold in 1964 for one hundred thousand dollars. A newspaper says the sale was 1961, and the clay mines closed in 1957. I will not average them. The church is in the district. The stone stands in front of the museum. A cemetery is nearby. Nearby stays. I do not have the gate. There is still no nation, and no battle. The next place, when you want it, is Hayesville.",
+    long: "",
+    names: ["Haydenville"]
+  },
+
+  {
+    id: "approach-hayesville",
+    name: "Hayesville",
+    lat: 40.7810,
+    lng: -82.2620,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Hayesville, the village in Vermillion Township, Ashland County. Not Ashland. It was Hayes Cross Roads before it was a plat. If you stay on the road, I'll start at the office.",
+    long: "",
+    names: ["Hayesville"]
+  },
+  {
+    id: "hayesville-1830",
+    name: "Hayes Cross Roads",
+    lat: 40.7740,
+    lng: -82.2620,
+    radius: 40,
+    short: "The encyclopedia says the first settlers came to the area in 1817. Lemuel Boulter owned the land and sold it to Linus Hayes. I do not have their years. A post office opened in 1827 at Hayes Cross Roads. The village was laid out in this township, and the plots were recorded in Mansfield on October 26, 1830. I will not move Mansfield. It was named for Hayes, the proprietor. The crossroads was later renamed Hayesville. Later stays. The village was incorporated in 1849. A gazetteer also prints Haysville. I will not repair that. This pin is the gazetteer's point. I will not average it with the stone.",
+    long: "",
+    names: ["Hayesville"]
+  },
+  {
+    id: "hayesville-1886",
+    name: "Two Years Later",
+    lat: 40.7730,
+    lng: -82.2621,
+    radius: 40,
+    short: "The picture is the town hall, the old opera house, at Main and Mechanic. A stone says the building was a center of the town from its construction in 1886 until the late nineteen thirties, and that Samuel Craig completed it two years later, for four thousand eight hundred fifty-two dollars and twenty cents. I will not choose which year is the wall. It stands on the Lincoln Highway and was listed in 1976. Another stone, at the same corner, says this was the site of the Vermillion Institute in 1843, attended by Senator Atlee Pomerene and by Sheldon Jackson, whom the stone calls an explorer. I do not have their years. A Civil War memorial is about four hundred feet off. I will not move it, and I will not invent the fight. Two cemeteries are named. I do not have the gates. There is still no nation. The next place, when you want it, is Heath.",
+    long: "",
+    names: ["Hayesville"]
+  },
+
+  {
+    id: "approach-heath",
+    name: "Heath",
+    lat: 40.0320,
+    lng: -82.4417,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Heath, the city in Licking County. Not Newark. The Great Circle is on this side of the line. The city itself was not incorporated until 1952. If you stay on the road, I'll start at the circle.",
+    long: "",
+    names: ["Heath"]
+  },
+  {
+    id: "heath-circle",
+    name: "We Now Call Them",
+    lat: 40.0427,
+    lng: -82.4311,
+    radius: 40,
+    short: "The encyclopedia says this ground was lived on by the people it calls the Hopewell, through the first century. A stone says the circle was built about two thousand years ago, by the people we now call the Hopewell. About stays. Now stays. Newark's page says 100 to 500. I will not make those one date, and I will not move Newark's Octagon. This page says the circle is 1,054 feet across, one of the largest, at least in the work. Newark's page says 1,180 feet, and the largest. I will not average them. A ditch five feet deep, walls eight feet high, and a grander gate. Eagle Mound, in the middle, covers a house that was not a home. Not a dwelling stays. The old works were more than three thousand acres on this page, and more than four square miles on the stone. More than stays. A nearby stone asks if it was a fort. I will not answer. The picture is the entrance. This pin is the circle.",
+    long: "",
+    names: ["Heath"]
+  },
+  {
+    id: "heath-1952",
+    name: "The One Hundred Ninety-Sixth",
+    lat: 40.0231,
+    lng: -82.4417,
+    radius: 40,
+    short: "The encyclopedia says Heath was incorporated as a village in 1952, and that Richard Hoback was the first mayor. I do not have his years, and the page does not say why the city has this name. It says the count went from 2,426 in 1960 to 6,066 in 1965, when Heath was chartered as the 196th city in Ohio. I will not make 1965 a census year. The circle was named the state's official prehistoric monument in 2006, and in September 2023 it was listed with six other places. I will not move the six. The city's postal code is 43056. The circle's stone prints a Newark code. I will not average them. There is still no person with a span of years, and no battle I will invent. The next place, when you want it, is Hebron.",
+    long: "",
+    names: ["Heath"]
+  },
+
+  {
+    id: "approach-hebron",
+    name: "Hebron",
+    lat: 39.9720,
+    lng: -82.4958,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Hebron, the village in Licking County, on the old National Road. Not Newark, and not Heath. The pages do not agree on the year of the road, or the year of the canal. If you stay on the road, I'll start at the crossing.",
+    long: "",
+    names: ["Hebron"]
+  },
+  {
+    id: "hebron-1825",
+    name: "Eighteen Thirty-Two, or Eighteen Thirty-Four",
+    lat: 39.9633,
+    lng: -82.4958,
+    radius: 40,
+    short: "The village page says John Smith laid Hebron out in 1827, the sixth town in the county, on the road it calls an extension of Zane's Trace in 1834. A stone says that by the fall of 1825 businessmen were selling lots, and that the National Road reached here in 1832. Another stone, at Main and Basin, says the road was completed through here in 1834. I will not average them. One stone says the canal carried people from 1827 to 1861. The other says the canal was completed through here in 1828. I will not make those one year. The first spadeful was four miles north, on July 4, 1825, and that ground is now Heath. I will not move it. A database dates one of these stones July 1821. I will not make that the day. This pin is the village.",
+    long: "",
+    names: ["Hebron"]
+  },
+  {
+    id: "hebron-fire",
+    name: "For a Time",
+    lat: 39.9619,
+    lng: -82.4894,
+    radius: 40,
+    short: "The village page says this was, for a time, a market, and sometimes a raucous one, with tanneries, sawmills, warehouses, and distilleries. For a time stays. Sometimes stays. A stone says that within a year there were about twenty houses and five stores. About stays. The page says wagons went through toward a fabled west, and that an inn later became the Myers Hotel. Fabled stays. Later stays. I do not have the year of the walls. At the turn of the century a fire destroyed most of the business district. The turn stays. Most stays. I will not pick the year. The interurban cars came in the early nineteen hundreds and lasted over thirty years. Early stays. Over stays. Buckeye Lake is nearby. Nearby stays. I will not move it. There is still no person with years, no nation, and no battle on this street. The next place, when you want it, is Helena.",
+    long: "",
+    names: ["Hebron"]
+  },
+
+  {
+    id: "approach-helena",
+    name: "Helena",
+    lat: 41.3480,
+    lng: -83.2919,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Helena, the village in Sandusky Township, Sandusky County. Not Fremont, and not the city of Sandusky. It was laid out in 1871, when the railroad reached this point, and named for a doctor's daughter. If you stay on the road, I'll start there.",
+    long: "",
+    names: ["Helena"]
+  },
+  {
+    id: "helena-1871",
+    name: "The Daughter",
+    lat: 41.3403,
+    lng: -83.2919,
+    radius: 40,
+    short: "The encyclopedia says Helena was laid out in 1871, when the Pittsburgh, Fort Wayne and Chicago Railroad was extended to that point. I will not move those cities. It says the village was named for Helena Thompson, the daughter of a local doctor. The doctor is not named, and I do not have her years. An older copy of the page says only that the railroad gave the place its start in 1871. I will not erase the name the current page prints, and I will not add a story it does not. The picture is Main Street. A church is mapped at the post office point. I do not have the year of either. The count skips two census years. I will not fill them. There is still no yard I will pin, no nation, and no battle. This pin is the village. The next place, when you want it, is Hemlock.",
+    long: "",
+    names: ["Helena"]
+  },
+
+
+
 
 
 

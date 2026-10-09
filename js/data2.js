@@ -21278,24 +21278,539 @@ STORIES.push(
     long: "",
     names: ["Holiday Valley"]
   },
+  {
+    id: "approach-holland",
+    name: "Holland",
+    lat: 41.6320,
+    lng: -83.7097,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Holland, the village in eastern Springfield Township, Lucas County. Not Toledo. It has been Drakes, and Hardy, and Hall Land. The pages do not make those one name. If you stay on the road, I'll start at the names.",
+    long: "",
+    names: ["Holland"]
+  },
+  {
+    id: "holland-names",
+    name: "Drakes, Hardy, Hall Land",
+    lat: 41.6236,
+    lng: -83.7097,
+    radius: 40,
+    short: "The encyclopedia says the first name was Drakes, possibly a family, or the male ducks that did and still fly over. Possibly stays. Still stays. It says the most likely name is Hall Land, from Franklin Hall, and that a clerk, or some other official, supposedly changed the letters to Holland. Most likely stays. Supposedly stays. In the early eighteen sixties Hall built south of the railroad and Robert Clark built north of it. Early stays. Clark Street and Hall Street still carry the names. I do not have their years. The box says one thousand eight hundred twenty people in 2020. The first sentence says one thousand six hundred sixty-four. I will not average them. A railroad record says two hundred thirty in 1880. The table says ninety-five. I will not average those either. The picture is houses on Railroad Street. This pin is the village.",
+    long: "",
+    names: ["Holland"]
+  },
+  {
+    id: "holland-1863",
+    name: "The Stone Says Hardy",
+    lat: 41.6153,
+    lng: -83.7031,
+    radius: 40,
+    short: "A stone on McCord Road says Clark platted the place in 1863 as Hardy, and that it was renamed Holland in 1867. I will not move the stone to the center, and I will not make Hardy and Drakes one name. On May 22, 1852, the first train ran between Toledo and Chicago. Three years later the roads consolidated and the Air Line ran to Elkhart. Three years stays. I will not do the arithmetic, and I will not move Elkhart. In 1860 a station in the area had no name. No name stays. The ditches of the eighteen fifties are one story of the name, and the page says they reminded people of the canals of Holland. I will not move that country. Some people, and the page does not say who, blamed the Dutch. Who stays. There is still no nation, and no battle. The next place, when you want it, is Hollansburg.",
+    long: "",
+    names: ["Holland"]
+  },
 
+  {
+    id: "approach-hollansburg",
+    name: "Hollansburg",
+    lat: 40.0070,
+    lng: -84.7925,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Hollansburg, the village in Harrison Township, Darke County. Not Greenville. Union was platted a mile to the southwest, in 1838, and this place was platted seven months later. I will not make those one day. If you stay on the road, I'll start at the two plats.",
+    long: "",
+    names: ["Hollansburg"]
+  },
+  {
+    id: "hollansburg-1838",
+    name: "Seven Months Later",
+    lat: 39.9994,
+    lng: -84.7925,
+    radius: 40,
+    short: "The encyclopedia says James Stewart platted Union on March 28, 1838, in the northwest of Harrison Township. William Hollaman tried to buy lots. A dispute followed. Seven months later he platted a place one mile to the northeast, to avenge himself. Seven months stays. Attempted stays. I will not turn the months into a day, and I will not move Union. Valentine Harland quickly added ground. Quickly stays. The name is a portmanteau of Hollaman and Harland. I will not repair the spelling. Within a year a country post office called Republican was moved here. Within a year stays. The village outgrew Union, and the two places ultimately merged. Ultimately stays. I do not have the year, and I do not have the men's years. The picture is houses on Elm Street. This pin is the village.",
+    long: "",
+    names: ["Hollansburg"]
+  },
+  {
+    id: "hollansburg-stone",
+    name: "The Heading Says Seventeen Seventy-Six",
+    lat: 39.9975,
+    lng: -84.7929,
+    radius: 40,
+    short: "A stone on East Union Street says the place was settled in October 1838, and it names Hollaman and Harland. It does not name Stewart. I will not make October and seven months one day, and I will not make the street the old plat of Union. The stone was presented on August 8, 1976. The heading prints 1776 to 1976. I will not make 1776 the settlement. The first church, a Church of Christ, was founded in 1840. The first school was built in 1848. I will not say those are the buildings standing now. A veterans memorial is about two tenths of a mile off. I will not move it, and I will not invent a battle. There is still no nation. The next place, when you want it, is Holloway.",
+    long: "",
+    names: ["Hollansburg"]
+  },
 
+  {
+    id: "approach-holloway",
+    name: "Holloway",
+    lat: 40.1680,
+    lng: -81.1264,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Holloway, the village in Flushing Township, Belmont County. Not St. Clairsville. It was laid out in 1883. A museum page says the first name was Dunvale. The encyclopedia does not. If you stay on the road, I'll start at the name.",
+    long: "",
+    names: ["Holloway"]
+  },
+  {
+    id: "holloway-1883",
+    name: "Dunvale, Then the Family",
+    lat: 40.1608,
+    lng: -81.1264,
+    radius: 40,
+    short: "The encyclopedia says Holloway was laid out in 1883 and named for the local Holloway family. A museum page says the place was first called Dunvale, and that in 1883 Monroe Dunn sold several acres to Isaac Holloway, and the name was then chosen for the post office. Several stays. Then stays. The encyclopedia does not print Dunvale. I do not have their years. The museum says the village was incorporated in 1901, and that the first mayor was John Barkley, a storekeeper. I do not have his years. The census high is nine hundred seventy-four, in 1920. The museum says one hundred fifty became one thousand. I will not average them. The picture is caboose C-2198 in the village park. I do not have the year it was set there. This pin is the village.",
+    long: "",
+    names: ["Holloway"]
+  },
+  {
+    id: "holloway-roundhouse",
+    name: "Built, or Commenced",
+    lat: 40.1603,
+    lng: -81.1255,
+    radius: 40,
+    short: "The museum says the roundhouse and the shops were built in 1901, because officials thought the run from Urichsville to Bridgeport was too long. Thought stays. The page spells that town with no h. I will not repair it, and I will not move it. The same page says that in 1903 the ground was surveyed and the building commenced. I will not make built and commenced one year. Within two years the Baltimore and Ohio took control. Within two years stays. I will not do the arithmetic. The school was built in 1911. The first class finished in 1913, and the last in 1959. A ball diamond was at the east end. Was stays. I will not say it is still there. The last scheduled passenger train was on September 29, 1951. Scheduled stays. There is still no person with years, no nation, and no battle. The next place, when you want it, is Holmesville.",
+    long: "",
+    names: ["Holloway"]
+  },
 
+  {
+    id: "approach-homeworth",
+    name: "Homeworth",
+    lat: 40.8440,
+    lng: -81.0650,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Homeworth, the census place in Knox Township, Columbiana County, near the head of Middle Sandy Creek. Not Lisbon. It has been called Sandy, and Winchester. The office and the plat are not the same year. If you stay on the road, I'll start at the office.",
+    long: "",
+    names: ["Homeworth"]
+  },
+  {
+    id: "homeworth-1830",
+    name: "Sandy, Then the Plat",
+    lat: 40.8358,
+    lng: -81.0650,
+    radius: 40,
+    short: "The encyclopedia says a post office called Sandy opened in 1830, and that settlement at what is now Homeworth began about 1840. About stays. What is now stays. I will not make those one year. The place was platted in 1851, when the Cleveland and Pittsburgh Railroad reached that point. I will not move either city. Early other names were Winchester and Sandy. The office was renamed Homeworth in 1869. There is a Winchester in Adams County, founded in 1815. I will not move it. The first sentence says Canton is about sixteen and a half miles west. The geography line says eighteen. I will not average them. This pin is the census place.",
+    long: "",
+    names: ["Homeworth"]
+  },
+  {
+    id: "homeworth-church",
+    name: "The Picture Is the Church",
+    lat: 40.8353,
+    lng: -81.0642,
+    radius: 40,
+    short: "The picture is the Middle Sandy Presbyterian Church. I do not have the year. The creek in the name is the one the page puts this place on, near the headwaters. Near stays. I will not move the rest of the creek. Alliance is seven miles to the northwest, and Salem is twelve miles to the northeast. I will not move them. The box names a school district. I will not move the school. There is still no person with years, no yard, no nation, and no battle. The next place, when you want it, is Hooven.",
+    long: "",
+    names: ["Homeworth"]
+  },
 
+  {
+    id: "approach-hooven",
+    name: "Hooven",
+    lat: 39.1930,
+    lng: -84.7564,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Hooven, the census place in southeastern Whitewater Township, Hamilton County. The river is the east edge. Not Cincinnati. The page has no plat and no year for the name. If you stay on the road, I'll start at the plant.",
+    long: "",
+    names: ["Hooven"]
+  },
+  {
+    id: "hooven-1931",
+    name: "Estimated",
+    lat: 39.1850,
+    lng: -84.7564,
+    radius: 40,
+    short: "The encyclopedia says Gulf began work here in 1931, and that Chevron took the plant in 1985 and closed it in 1986. Over two hundred jobs ended. Over stays. I will not say the buildings are still a refinery. That same year a federal office began looking, because fuel was running into the Great Miami. The page says that since then Chevron has been at negotiations over a cleanup of the soil and the water under the ground, and the sentence is missing a word. I will not repair it. An estimated five million gallons leaked into the aquifer. Estimated stays. I will not make that the river. The drinking water comes from Cleves, and the page says it was not contaminated. I will not move Cleves. The box and the geography line do not agree on the acres, and three pages do not agree on the height. I will not average them. There is no founder, no person with years, no nation, and no battle. This pin is the census place. The next place, when you want it, is Hopedale.",
+    long: "",
+    names: ["Hooven"]
+  },
 
+  {
+    id: "approach-hopedale",
+    name: "Hopedale",
+    lat: 40.3340,
+    lng: -80.8956,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Hopedale, the village in Green Township, Harrison County. Not Cadiz. It was platted in 1849, the office opened in 1850, and the village page says the name is 1851. I will not make those one year. If you stay on the road, I'll start at the plat.",
+    long: "",
+    names: ["Hopedale"]
+  },
+  {
+    id: "hopedale-1849",
+    name: "High Hopes",
+    lat: 40.3264,
+    lng: -80.8956,
+    radius: 40,
+    short: "The encyclopedia says Hopedale was platted in 1849, and that a post office has been here since 1850. The village page says Cyrus McNeely platted it, that it was officially named Hopedale in 1851, and that it was incorporated on April 1, 1860. Officially stays. He named it for the high hopes he had for his schools, and the page says they did come to be. I do not have his years. He was born near Beech Spring. Near stays. I will not move it. He set aside ten acres for a normal school, later a college, the first in eastern Ohio to teach men and women together. Later stays. By 1889 nearly ten thousand students had finished. Nearly stays. Horace Mann once taught there. Once stays. The page says Custer graduated and received a teacher's certificate. I will not move his war, and I do not have his years. The picture is the post office. Many old houses still stand. Many stays. I will not point at one. This pin is the village.",
+    long: "",
+    names: ["Hopedale"]
+  },
+  {
+    id: "hopedale-delaney",
+    name: "His Clothes on His Head",
+    lat: 40.3259,
+    lng: -80.8948,
+    radius: 40,
+    short: "The village page says that in 1800 a hunter, Phillip Delaney, swam the Ohio with his clothes on his head, and bought a section of Green Township from the land office in Steubenville. I will not move the river, or that city, and I do not have his years. The settlement was called Green. In 1870 and 1871 a railroad was organized toward Wheeling, Sandusky, and Toledo. I will not move them. A.B. Paul, a farmer here, kept at the idea until people believed him. Finally stays. The coal was, in the page's marks, under every farm in the county. The marks stay. The pits are on the land around the village. Around stays. I will not put them in the street. The page says the village is the fastest growing, and the sentence is missing a letter. I will not repair it. The table's forty-three percent is from 1990 to 2000. The later count is lower. I will not average them. There is still no nation, and no battle. The next place, when you want it, is Howard.",
+    long: "",
+    names: ["Hopedale"]
+  },
 
+  {
+    id: "approach-howard",
+    name: "Howard",
+    lat: 40.4160,
+    lng: -82.3269,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Howard, the census place in southern Howard Township, Knox County. Not Mount Vernon. It was first called Kinderhook. The page does not say when the name changed. If you stay on the road, I'll start at the old name.",
+    long: "",
+    names: ["Howard"]
+  },
+  {
+    id: "howard-kinderhook",
+    name: "Kinderhook",
+    lat: 40.4078,
+    lng: -82.3269,
+    radius: 40,
+    short: "The encyclopedia says the place was first called Kinderhook, and that it took the name Howard when the railroad reached that point. That point stays. The page does not name the railroad, and it does not print the year. A post office called Howard has been open since 1872. I will not make the office and the railroad one year, and I will not invent a man named Howard. The census says two hundred forty-six people in 2020. A profile prints two hundred forty-two for 2010. I will not average them. The township's count is not this place. I will not move it. The picture is dated 2022. I will not guess what it shows. This pin is the census place.",
+    long: "",
+    names: ["Howard"]
+  },
+  {
+    id: "howard-trail",
+    name: "The School and the Trail",
+    lat: 40.4073,
+    lng: -82.3261,
+    radius: 40,
+    short: "East Knox High School is in Howard, and so are the offices of the school board. I do not have the year. The Kokosing Gap Trail runs through. I will not move the rest of the trail, and I do not have the year. There is still no person with years, no nation, and no battle. The next place, when you want it, is Hoytville.",
+    long: "",
+    names: ["Howard"]
+  },
 
+  {
+    id: "approach-hoytville",
+    name: "Hoytville",
+    lat: 41.1980,
+    lng: -83.7844,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Hoytville, the village in Jackson Township, Wood County. Not Bowling Green. It was Hoyts Corners, and then a plat, and then this name. I will not make those one year. If you stay on the road, I'll start at the office.",
+    long: "",
+    names: ["Hoytville"]
+  },
+  {
+    id: "hoytville-1873",
+    name: "Hoyts Corners",
+    lat: 41.1900,
+    lng: -83.7844,
+    radius: 40,
+    short: "The encyclopedia says a post office called Hoyts Corners opened in 1872. I will not add an apostrophe. The village was platted in 1873, when the railroad reached that point. That point stays. The page does not name the railroad. I will not supply one. The office was renamed Hoytville in 1874, and the village was incorporated in 1886. I will not make the years one year. It was named for William Hoyt, an original proprietor. Original stays. I do not have his years. This pin is the village.",
+    long: "",
+    names: ["Hoytville"]
+  },
+  {
+    id: "hoytville-main",
+    name: "Two Routes",
+    lat: 41.1895,
+    lng: -83.7836,
+    radius: 40,
+    short: "The picture is Main Street, where State Route 18 and State Route 235 run together. I will not make them one road, and I do not have a year for the buildings. The box and the geography line do not agree on the water, or on the kilometers. The land agrees. I will not average the rest. There is still no yard, no nation, and no battle. The next place, when you want it, is Huber Ridge.",
+    long: "",
+    names: ["Hoytville"]
+  },
 
+  {
+    id: "approach-huber-ridge",
+    name: "Huber Ridge",
+    lat: 40.0990,
+    lng: -82.9172,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Huber Ridge, the census place in Blendon Township, Franklin County, between Columbus and Westerville. Not Columbus. A company platted it in 1959. The township is older, and I will not make its birthday this place's. If you stay on the road, I'll start at the plat.",
+    long: "",
+    names: ["Huber Ridge"]
+  },
+  {
+    id: "huber-ridge-1959",
+    name: "In Memory",
+    lat: 40.0911,
+    lng: -82.9172,
+    radius: 40,
+    short: "A neighborhood page says Charles H. Huber's company platted a subdivision here in 1959, and that he named the subdivisions in memory of his father, Herbert C. Huber, March 20, 1898, to May 15, 1954. In memory stays. I do not have Charles's years. The page also names Fox Chase, Glengary Heights, Glengary Woods, and Blendon Square. County records indicate the ground once held a village called Guernseydale. Indicate stays. I do not have its years. The picture is the elementary school. I do not have its year. The census says four thousand nine hundred forty people in 2020. A rebased table prints other years and says they were recalculated. Recalculated stays. This pin is the census place.",
+    long: "",
+    names: ["Huber Ridge"]
+  },
+  {
+    id: "huber-ridge-creek",
+    name: "No One Knows",
+    lat: 40.0906,
+    lng: -82.9164,
+    radius: 40,
+    short: "The same page says no one knows for sure how Alum Creek was named. No one knows stays. It is believed the word is a corruption of elm, or that alum crystalized on the bank. Believed stays. I will not repair the spelling, and I will not move the creek. Early maps make this appear to be the land Edward Phelps Sr. first settled. Appears stays. He and Isaac Griswold set out from Windsor, Connecticut, on September 26, 1805. Set out stays. I will not make that the day they arrived, and I will not move Windsor. The page says he and his son Abram lie in the township cemetery. I do not have their years, and I will not move the yard. The township marked two hundred years on August 23, 2006. I will not make that this place's birthday. There is still no nation, and no battle. The next place, when you want it, is Hudson.",
+    long: "",
+    names: ["Huber Ridge"]
+  },
 
+  {
+    id: "approach-hudson",
+    name: "Hudson",
+    lat: 41.2520,
+    lng: -81.4408,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Hudson, the city in northern Summit County. Not Akron. David Hudson settled it in 1799. The village and the township did not become one government until 1994. If you stay on the road, I'll start at the settling.",
+    long: "",
+    names: ["Hudson"]
+  },
+  {
+    id: "hudson-1799",
+    name: "Range Ten, Town Four",
+    lat: 41.2444,
+    lng: -81.4408,
+    radius: 40,
+    short: "The encyclopedia says David Hudson settled here from Goshen, Connecticut, in 1799, in the Connecticut Western Reserve. I will not move Goshen. A local page says the party reached the southwest corner of what is now the township on June 17, 1799, and that the tract was named for him in 1802. What is now stays. I will not make those one year, and I will not move the mouth of the Cuyahoga. The village was incorporated in 1837. The village and the township merged in 1994. I will not make them one city before that. He built the first log house in the county. The marker is in a boulder at Baldwin and North Main. I will not invent that corner. The college was founded in 1826, among others. Among others stays. The picture is the chapel. This pin is the city.",
+    long: "",
+    names: ["Hudson"]
+  },
+  {
+    id: "hudson-owen",
+    name: "Never So Large",
+    lat: 41.2453,
+    lng: -81.4392,
+    radius: 40,
+    short: "Owen Brown was born February 16, 1771, and died here on May 8, 1856. He is buried in the Old Hudson Township Burying Ground. The page says the funeral was a public event, and it quotes a line that there was never so large a procession. The quotes stay. He kept a tannery. I do not have David Hudson's death in the lines I have. A local page prints his birth as February 17, 1761, in Branford. I will not supply the death, and I will not move Branford. This pin is the burying ground. I will not move it to the center of the city.",
+    long: "",
+    names: ["Hudson"]
+  },
+  {
+    id: "hudson-1837",
+    name: "The First Public Vow",
+    lat: 41.2440,
+    lng: -81.4400,
+    radius: 40,
+    short: "A marker at East Main and Church says that in August 1835 the church called slavery a direct violation of the law of Almighty God, and that in November 1837 John Brown made his first public vow to destroy slavery. The marks stay. The page says he grew up here from 1805 to 1825. I will not move his later war, and I do not have his years on these lines. Arguably stays, on the claim that he did more than any other person. David Hudson favored colonization, and the page marks the words back to Africa. The marks stay. A line calling the town the Reserve's intellectual capital is marked citation needed. Needed stays. There is still no nation on these pages. The next place, when you want it, is Hunter.",
+    long: "",
+    names: ["Hudson"]
+  },
 
+  {
+    id: "approach-hunter",
+    name: "Hunter",
+    lat: 39.5040,
+    lng: -84.2900,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Hunter, the census place in Franklin Township, Warren County. Not Lebanon. A population site puts another Hunter in Montgomery County. I will not move it, and I will not average the counts. The page has no plat. If you stay on the road, I'll start at the acres, which do not agree.",
+    long: "",
+    names: ["Hunter"]
+  },
+  {
+    id: "hunter-acres",
+    name: "Two Areas",
+    lat: 39.4961,
+    lng: -84.2900,
+    radius: 40,
+    short: "The encyclopedia says three thousand three hundred sixty-three people lived here in 2020, and one thousand seven hundred thirty-seven in 2000. I will not average them. The box says two and sixteen hundredths of a square mile, all land. The geography line says one and six tenths. I will not average those either. A survey prints four thousand one hundred eight. I will not make that the census. The box says eight hundred ninety-six feet. A map prints eight hundred eighty-two, a short way off. I will not average the heights. The same map names a school and a church. I do not have their years, and I will not move Franklin's schools onto this ground. There is no founder, no person with years, no nation, and no battle. This pin is the census place. The next place, when you want it, is Hunting Valley.",
+    long: "",
+    names: ["Hunter"]
+  },
 
+  {
+    id: "approach-hunting-valley",
+    name: "Hunting Valley",
+    lat: 41.4970,
+    lng: -81.4018,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Hunting Valley, the village on the Chagrin River, in Cuyahoga County and in Geauga County. Not Cleveland. The pages do not agree on how much of it sits in Geauga. It was incorporated in 1924. If you stay on the road, I'll start at the township it was cut from.",
+    long: "",
+    names: ["Hunting Valley"]
+  },
+  {
+    id: "hunting-valley-1924",
+    name: "A Small Fraction, or One Mile",
+    lat: 41.4892,
+    lng: -81.4018,
+    radius: 40,
+    short: "The encyclopedia says the village was incorporated in 1924, from the northeast quarter of Orange Township, which was established in 1820. A Cleveland history says the township was settled in 1815 and established in 1820. I will not make those one year. The same history says one square mile of the village is in Geauga County. The encyclopedia says a small fraction, on the easternmost edge. I will not average them. A file calls the place unincorporated and also says incorporated in 1924. I will not make those one word. The census says seven hundred sixty-three people in 2020. The 2010 line is seven hundred five on one page and seven hundred seven on the other. I will not average them. Garfield was born in 1831 on the old township. I will not move the house. This pin is the gazetteer's point.",
+    long: "",
+    names: ["Hunting Valley"]
+  },
+  {
+    id: "hunting-valley-manor",
+    name: "Roundwood, or Daisy Hill",
+    lat: 41.4887,
+    lng: -81.4010,
+    radius: 40,
+    short: "The encyclopedia says the Van Sweringen brothers built Roundwood Manor in 1923. A Cleveland history says that in the nineteen twenties they bought ground east of SOM Center Road for a house called Daisy Hill. I will not make those one house, and I will not move the road. They pictured Shaker Country Estates. The Depression ended the plan. I will not move Shaker Heights. In 1940 the ground was cut into more than sixty estates. More than stays. I do not have their years. Andrew Squire's farm was left to the university in 1934. I will not move the university. An old page says native people were here, and names no nation. I will not invent one. There is still no battle. The next place, when you want it, is Huntsville.",
+    long: "",
+    names: ["Hunting Valley"]
+  },
 
+  {
+    id: "approach-huntsville",
+    name: "Huntsville",
+    lat: 40.4500,
+    lng: -83.8044,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Huntsville, the village in McArthur Township, Logan County. Not Bellefontaine. It was platted in 1846 and named for a surveyor. I do not have his years. If you stay on the road, I'll start at the plat.",
+    long: "",
+    names: ["Huntsville"]
+  },
+  {
+    id: "huntsville-1846",
+    name: "The Surveyor",
+    lat: 40.4422,
+    lng: -83.8044,
+    radius: 40,
+    short: "The encyclopedia says Huntsville was platted in 1846 and named for Aaron L. Hunt, a government surveyor. I do not have his years. It was incorporated in December 1865. December stays. I will not invent the day. The census on this page says four hundred eight people in 2020, which is also the figure it prints for 1900 and for 1950. I will not make those one count. A rebased table prints four hundred three, and a population site prints four hundred four. Recalculated stays. I will not average them. The picture is an aerial view. I do not have its year. This pin is the village.",
+    long: "",
+    names: ["Huntsville"]
+  },
+  {
+    id: "huntsville-railroad",
+    name: "Former Shops",
+    lat: 40.4417,
+    lng: -83.8036,
+    radius: 40,
+    short: "The page says the beginnings include its having been a railroad town. Include stays. I will not make the railroad the 1846 plat. The former Toledo and Ohio Central ran through and kept shops for its engines. Former stays. I will not say the shops are standing, and I will not move Toledo. A branch ran between Saint Marys, through Russells Point, and towards East Liberty and Columbus. Towards stays. I will not move them. There is still no yard, no nation, and no battle. The next place, when you want it, is Huron.",
+    long: "",
+    names: ["Huntsville"]
+  },
 
+  {
+    id: "approach-huron",
+    name: "Huron",
+    lat: 41.3910,
+    lng: -82.5594,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Huron, the city in Erie County, at the mouth of the Huron River. Not Sandusky. The trading post was about two miles inland. The plat was later. I will not make those one place. If you stay on the road, I'll start at the name.",
+    long: "",
+    names: ["Huron"]
+  },
+  {
+    id: "huron-1805",
+    name: "Three Spellings",
+    lat: 41.3831,
+    lng: -82.5594,
+    radius: 40,
+    short: "The encyclopedia says the first permanent settler was John Baptiste Flammand, or Flemming, and that the name is often misspelled Flemmond. Or stays. Often stays. He kept a trading post about 1805, about two miles inland on the east bank. About stays. I will not put it on the harbor, and I do not have his years. Gabriel Hunot, a French trader, was here in the seventeen eighties. Including stays. The township was established in 1809. By most accounts stays, on a local brochure. The village came between 1821 and 1824. Between stays. The brochure says the plat was filed on June 14, 1824. I will not make those one day. The town was in Huron County until 1838. An older plat, about 1814, is in what is now Milan Township. Sometimes people mix them. I will not move Milan. A population site prints 1792. The encyclopedia does not. I will not use it. This pin is the city.",
+    long: "",
+    names: ["Huron"]
+  },
+  {
+    id: "huron-light",
+    name: "No Longer in Use",
+    lat: 41.3826,
+    lng: -82.5586,
+    radius: 40,
+    short: "The picture is the harbor light. I do not have its year. The port on the east bank was enlarged beginning in 1880. The first iron ore came on May 21, 1884. The port is no longer in use. No longer stays. The box and the geography line do not agree on the acres, or on the water. I will not average them. The cemetery is one block south of the Catholic church. It holds Revolutionary veterans and the Huron Rangers of the War of 1812. I will not invent a battle. The oldest known house was built in 1833. Known stays. South Huron, or Shirleyville, was platted in 1834. Or stays. There is still no person with years, and no nation. The next place, when you want it, is Iberia.",
+    long: "",
+    names: ["Huron"]
+  },
 
+  {
+    id: "approach-iberia",
+    name: "Iberia",
+    lat: 40.6820,
+    lng: -82.8403,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Iberia, the census place in western Washington Township, Morrow County. Not Mount Gilead. The history section is marked as needing more citations. It was founded in 1827 and platted in 1832. I will not make those one year. If you stay on the road, I'll start at the plat.",
+    long: "",
+    names: ["Iberia"]
+  },
+  {
+    id: "iberia-1832",
+    name: "Most Likely",
+    lat: 40.6747,
+    lng: -82.8403,
+    radius: 40,
+    short: "The encyclopedia says Iberia was founded in 1827 and platted in 1832 by Frederick Meyers and Samuel Foster. I do not have their years. Most likely it was named for the Iberian Peninsula. Most likely stays. I will not move it. A German copy says Robert Rowland proposed the name, and that another account puts a post office in 1822. According to stays. I will not average the years. The section is flagged as needing citations. Needing stays. The county was not organized until 1848. I will not move that date onto the plat. The picture is the Presbyterian church. A paper says a larger church replaced the first, on the same site, on September 24, 1867. Same site stays. This pin is the census place.",
+    long: "",
+    names: ["Iberia"]
+  },
+  {
+    id: "iberia-gordon",
+    name: "Refused, or Pardoned",
+    lat: 40.6742,
+    lng: -82.8395,
+    radius: 40,
+    short: "The Rev. George A. Gordon, first president of the college, was convicted under the Fugitive Slave Law. The English page says he refused a pardon Lincoln had granted. A German copy says he was pardoned. I will not average them. He died in 1868 and is buried in Iberia Cemetery. I do not have his birth. The page says Iberia hosted several stations of the Underground Railroad. Several stays. The marks stay. I will not invent a tunnel. Harding graduated here. I will not move his birthplace, and I do not have his years on this page. The railroad was turned away as too dirty. Saint James, about a mile southeast, got the depot. I will not move it. There is still no nation on the town page. The next place, when you want it, is Independence.",
+    long: "",
+    names: ["Iberia"]
+  },
 
+  {
+    id: "approach-independence",
+    name: "Independence",
+    lat: 41.3900,
+    lng: -81.6408,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Independence, the city in Cuyahoga County. Not Cleveland. It was first called Center, and the name changed in 1830. The page does not say why. If you stay on the road, I'll start at the old name.",
+    long: "",
+    names: ["Independence"]
+  },
+  {
+    id: "independence-1830",
+    name: "Center",
+    lat: 41.3819,
+    lng: -81.6408,
+    radius: 40,
+    short: "The encyclopedia says Independence was first called Center, and was renamed in 1830. It does not say why. I will not invent the reason. A Cleveland history says it became a village in 1914 and a city in November 1960. November stays. I will not invent the day. The lead says seven thousand five hundred eighty-four people in 2020. The box prints one more. I will not average them. The city table says two hundred sixty-two in 1880. The Cleveland history says one thousand nine hundred ninety-three that year. I will not average them, and I will not make the township the city. In 1896 land east of the river went to Newburgh. I will not move Newburgh Heights, or Seven Hills. The picture is the Presbyterian church. I do not have its year. This pin is the city.",
+    long: "",
+    names: ["Independence"]
+  },
+  {
+    id: "independence-quarry",
+    name: "Only Abandoned Quarries",
+    lat: 41.3822,
+    lng: -81.6413,
+    radius: 40,
+    short: "A marker on the West Public Square says sandstone and grinding wheels were quarried here from 1840 to 1900, and shipped on the Ohio Canal. Only abandoned quarries remain. Only stays. A stone garden was built in 1980. The pillars of the Weddell House in Cleveland came from this stone. Lincoln once stayed there. Once stays. I will not move the hotel. Crown Center went up in 1991. A line calling this Cleveland's Silicon Valley is marked citation needed. Needed stays. The freeway was stalled by the Second World War. Stalled stays. I will not invent a battle. The page names nations for the west bank of the river. I will not move them. The park here is only a portion of the national park. Portions stays. The next place, when you want it, is Irondale.",
+    long: "",
+    names: ["Independence"]
+  },
 
-
-
+  {
+    id: "approach-irondale",
+    name: "Irondale",
+    lat: 40.5800,
+    lng: -80.7258,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Irondale, the village in Saline Township, Jefferson County, near Yellow Creek. Not Steubenville. It was Pottsdale, then Hunterville, then this name. I will not make those one year. If you stay on the road, I'll start at the salt.",
+    long: "",
+    names: ["Irondale"]
+  },
+  {
+    id: "irondale-1806",
+    name: "Pottsdale, Then Hunterville",
+    lat: 40.5728,
+    lng: -80.7258,
+    radius: 40,
+    short: "The encyclopedia says the place was first Pottsdale, for Samuel Potts, who started a salt works at Yellow Creek circa 1806. Circa stays. I do not have his years. Coal mining began in 1861. In 1869 Morgan and Hunter laid out Hunterville. I do not have their first names. The name later became Irondale, after iron was found, and other minerals used for tin. Later stays. A directory says it does not have a founding date, and that one might consider 1870 for the office. Does not have stays. Another list prints February 17, 1869, and warns it may be incomplete. May stays. I will not average them. The census says three hundred twenty-six people in 2020. A rebased row prints three hundred twenty-eight. I will not average them. The table skips from 1890 to 1950. I will not fill it. The picture is the post office, near the creek. Near stays. This pin is the village.",
+    long: "",
+    names: ["Irondale"]
+  },
+  {
+    id: "irondale-tin",
+    name: "The Eighteen Eighties",
+    lat: 40.5723,
+    lng: -80.7250,
+    radius: 40,
+    short: "A blast furnace was built later, to feed a tin mill, and the page says that mill gave the town the name. Later stays. The first commercially successful tin mill in the country ran here in the eighteen eighties. First stays. I will not pick a year inside the decade, and I will not say the mill is still standing. There is still no person with years, no yard, no nation, and no battle. The next place, when you want it, is Ironton.",
+    long: "",
+    names: ["Irondale"]
+  },
 
 
 

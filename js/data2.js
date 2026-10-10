@@ -24563,7 +24563,901 @@ STORIES.push(
     long: "",
     names: ["Loveland"]
   },
+  {
+    id: "approach-loveland-park",
+    name: "Loveland Park",
+    lat: 39.3030,
+    lng: -84.2642,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Loveland Park, the census place in Symmes Township, Hamilton County, and in Deerfield Township, Warren County. I will not drop one. It is named after the city of Loveland. Named after stays. I will not make them one place. If you stay on the road, I'll start at the lots.",
+    long: "",
+    names: ["Loveland Park"]
+  },
+  {
+    id: "loveland-park-1928",
+    name: "After Paying",
+    lat: 39.2950,
+    lng: -84.2642,
+    radius: 40,
+    short: "The encyclopedia says the place is named after the city. Named after stays. In the nineteen twenties a paper offered a free wooded lot, twenty by one hundred feet, along the river, after a one-year subscription. Free stays. After stays. Wooded stays. In 1928 the residents formed a nonprofit association, to serve as a homeowners' association. Serve as stays. The census says one thousand seven hundred thirty-seven people in 2020. The table has a dash before it. The dash stays. I will not average the older counts. The box and the geography line do not agree on the miles. I will not average them. Two densities are a hundredth apart. I will not average them. It is seven hundred twenty-eight feet up. I did not see a postal code. The pictures are maps. Another point does not sit on this one. I will not average them. This pin is the census place.",
+    long: "",
+    names: ["Loveland Park"]
+  },
+  {
+    id: "loveland-park-two",
+    name: "Two, and Multiple",
+    lat: 39.2945,
+    lng: -84.2634,
+    radius: 40,
+    short: "The page says a castle was built on two such lots. Two stays. Such stays. The city page said multiple plots. I will not average them, and I will not move the castle, or the city, or a theme park. I will not make the word Park a yard the page does not describe. There is no person with years, no nation, and no battle. The next place, when you want it, is Lowell.",
+    long: "",
+    names: ["Loveland Park"]
+  },
 
+  {
+    id: "approach-lowell",
+    name: "Lowell",
+    lat: 39.5370,
+    lng: -81.5069,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Lowell, the village in Washington County, along the Muskingum River. Not Marietta. One line says about seven miles. Another says about fourteen. About stays. I will not average them. Not Lowellville. Not the city in Massachusetts. The name was an idea. Idea stays. If you stay on the road, I'll start at the two towns.",
+    long: "",
+    names: ["Lowell"]
+  },
+  {
+    id: "lowell-1837",
+    name: "Before Either",
+    lat: 39.5292,
+    lng: -81.5069,
+    radius: 40,
+    short: "A page says the office was named on February 7, 1837, before either village was surveyed. Before stays. Either stays. One town was laid out on November 8, 1837. The rival, Buell's Lowell, was laid out on March 22, 1838, about a half-mile or so downriver. Or so stays. The first enjoyed very little growth, and later was known as Upper Lowell. Enjoyed stays. Very little stays. The second is the present village. Present stays. The encyclopedia says incorporated in 1850, and the name changed in 1889. A list prints 1851, open-ended. I will not average them. The name of Buell was dropped on July 11, 1889. Dropped stays. The box says five hundred sixty-seven people in 2020. The lead says five hundred forty-nine. I will not average them. The miles agree, and the kilometers do not. I will not average them. It is six hundred twenty-three feet up. The picture is Fourth Street. The history section does not cite any sources. The notice stays. This pin is the village.",
+    long: "",
+    names: ["Lowell"]
+  },
+  {
+    id: "lowell-upper",
+    name: "Now Gone",
+    lat: 39.5287,
+    lng: -81.5061,
+    radius: 40,
+    short: "Upper Lowell is now gone, except for several houses. Except stays. A street list says it now stands. Now stands stays. I will not average them. A railroad was built across the river. Across stays. I will not move Marietta, or Zanesville, or Massachusetts, or Lowellville. There is no person with years, no yard, no nation, and no battle. The next place, when you want it, is Lowellville.",
+    long: "",
+    names: ["Lowell"]
+  },
+
+  {
+    id: "approach-lowellville",
+    name: "Lowellville",
+    lat: 41.0460,
+    lng: -80.5464,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Lowellville, the village in eastern Mahoning County, along the Mahoning River. Eastern stays. Not Youngstown, which is about eight miles off. About stays. It sits just west of the Pennsylvania line. Just stays. Not Lowell. If you stay on the road, I'll start at the two names.",
+    long: "",
+    names: ["Lowellville"]
+  },
+  {
+    id: "lowellville-1890",
+    name: "Separate",
+    lat: 41.0389,
+    lng: -80.5464,
+    radius: 40,
+    short: "A page says a section was known as McGillsville for much of the century, and across the river a separate place named Lowell emerged. Much stays. Separate stays. Across stays. In 1890 the two were incorporated as Lowellville. The census starts in 1850. I will not make that the incorporation. The census says nine hundred ninety-six people in 2020. The groups add to that. Another page prints nine hundred ninety-seven. I will not average them. A survey prints a margin. The margin stays. The box and the geography line do not agree on the kilometers. I will not average them. One height is eight hundred thirty-seven feet. Another page prints two hundred fifty meters. I will not average them. The picture is the municipal building. Water Street was Canal Street. Originally stays. A picture is circa 1958. Circa stays. This pin is the village.",
+    long: "",
+    names: ["Lowellville"]
+  },
+  {
+    id: "lowellville-sleepy",
+    name: "Sleepy, and Raucous",
+    lat: 41.0384,
+    lng: -80.5456,
+    radius: 40,
+    short: "The headline says a sleepy village boasts a raucous past. Sleepy stays. Raucous stays. A man served for several months, and later staked a claim here. Several stays. I will not invent the battle. A mill was nearby. Nearby stays. I will not move Youngstown, or Warren, or the towns across the line, or the other Lowell. There is no person with years, and no nation. The next place, when you want it, is Lower Salem.",
+    long: "",
+    names: ["Lowellville"]
+  },
+
+  {
+    id: "approach-lower-salem",
+    name: "Lower Salem",
+    lat: 39.5710,
+    lng: -81.3942,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Lower Salem, the village in Washington County. A page also lists it as Salem. Also known as stays. I will not drop Lower, and I will not move the other Salem. Not Marietta. A road was built through it to that city. Through stays. If you stay on the road, I'll start at the year it was not laid out.",
+    long: "",
+    names: ["Lower Salem"]
+  },
+  {
+    id: "lower-salem-1850",
+    name: "Not Until",
+    lat: 39.5633,
+    lng: -81.3942,
+    radius: 40,
+    short: "The encyclopedia says it had its start when a corduroy road, called the Old Plank Road, was built through it. Called stays. Corduroy stays. I do not have that year. The town site was not laid out until 1850. Not stays. Until stays. It was settled predominantly by German immigrants. Predominantly stays. It has a post office. Has stays. The census says seventy-five people in 2020. I will not average the older counts. The table skips a year. The skip stays. The box and the geography line do not agree on the miles, or on the water. I will not average them. One height is six hundred ninety-six feet. Another is six hundred fifty. I will not average them. The picture is the village hall on Main Street. Three points do not sit together. I will not average them. This pin is the village.",
+    long: "",
+    names: ["Lower Salem"]
+  },
+  {
+    id: "lower-salem-standing",
+    name: "While All",
+    lat: 39.5628,
+    lng: -81.3934,
+    radius: 40,
+    short: "The page says the old buildings remain standing, and all have gone out of business. While stays. All stays. The line is tagged citation needed. The tag stays. A fire hall is next to a township cemetery. Next to stays. A map uses another name for a cemetery. I will not average them. The page says city limits. I will not repair it. I will not move Marietta, or Salem, or the places that share the office. There is no person with years, no nation, and no battle. The next place, when you want it, is Lucas.",
+    long: "",
+    names: ["Lower Salem"]
+  },
+
+  {
+    id: "approach-lucas",
+    name: "Lucas",
+    lat: 40.7120,
+    lng: -82.4222,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Lucas, the village in southeastern Richland County. Southeastern stays. Not Mansfield. One page says seven miles. Another says a few, and it means the interstate. A few stays. I will not average them. Not Lucasville. If you stay on the road, I'll start at the three theories.",
+    long: "",
+    names: ["Lucas"]
+  },
+  {
+    id: "lucas-1836",
+    name: "However",
+    lat: 40.7042,
+    lng: -82.4222,
+    radius: 40,
+    short: "The encyclopedia says three theories exist for the name. Currently stays. I will not pick one. However the name came to be, it was officially established in 1836. However stays. A village page says founded that year, and incorporated that year. A county history says laid out that year by a brother, acting as agent. Agent stays. I will not average the verbs. A man set in a proposal. Set in stays. A line says authored. I will not repair it. A postal office was commissioned later that year. Later stays. The census says five hundred eighty-nine people in 2020. The miles agree, and the kilometers do not. I will not average them. It is one thousand one hundred thirty-two feet up. The picture is West Main Street, in 2007. A mayor's line is tagged citation needed. The tag stays. This pin is the village.",
+    long: "",
+    names: ["Lucas"]
+  },
+  {
+    id: "lucas-campsite",
+    name: "At the Time",
+    lat: 40.7037,
+    lng: -82.4214,
+    radius: 40,
+    short: "The page says the land was a campsite, of a general marching north from Mansfield, and that the place was a historical site at the time. At the time stays. Marched stays. I will not invent a battle. A mill list prints thesd, and two spellings of one name. I will not repair them. Two mills are gone. Gone stays. A farm was here, and it is now a park. Here stays. Now stays. I will not move Mansfield, or Octororo, or Mohican, or Lucasville. There is no person with years, and no nation. The next place, when you want it, is Lucasville.",
+    long: "",
+    names: ["Lucas"]
+  },
+
+  {
+    id: "approach-lucasville",
+    name: "Lucasville",
+    lat: 38.8850,
+    lng: -82.9944,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Lucasville, the census place in Scioto County. A page also calls it unincorporated. I will not average the labels. Not Portsmouth. A prison is just outside. Just outside stays. I will not move it. If you stay on the road, I'll start at the two days.",
+    long: "",
+    names: ["Lucasville"]
+  },
+  {
+    id: "lucasville-1819",
+    name: "June, and August",
+    lat: 38.8778,
+    lng: -82.9944,
+    radius: 40,
+    short: "The encyclopedia says Captain John Lucas, 1788 to 1825, laid it out in 1819, and it was named for him. Named for stays. A page says June, and recorded on August 7. Recorded stays. The encyclopedia says he would establish it that day, on a portion of inherited land. Would stays. Portion stays. I will not average the verbs, or June and August. An office called Lucasville has been open since 1828. Called stays. I will not make that the plat. The census says one thousand six hundred fifty-five people in 2020. A rebased page does not agree on the older counts. Rebased stays. I will not average them. The box and the geography line do not agree on the miles. I will not average them. One height is five hundred thirty-five feet. Another is one hundred sixty-seven meters, plus or minus one. I will not average them. The picture is the cemetery arch. This pin is the census place.",
+    long: "",
+    names: ["Lucasville"]
+  },
+  {
+    id: "lucasville-regiment",
+    name: "Just Outside",
+    lat: 38.8773,
+    lng: -82.9936,
+    radius: 40,
+    short: "The page says he volunteered, and commanded a regiment. Volunteered stays. I will not name the regiment, and I will not invent the battle. He is interred in the cemetery. Interred stays. The fairgrounds are here. The prison is just outside. One page says one of three. Another says only. I will not average them, and I will not move it. I will not move Portsmouth, or Iowa, or the village of Lucas. There is no nation. The next place, when you want it, is Luckey.",
+    long: "",
+    names: ["Lucasville"]
+  },
+
+  {
+    id: "approach-luckey",
+    name: "Luckey",
+    lat: 41.4600,
+    lng: -83.4839,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Luckey, the village in Wood County, the only incorporated village in Troy Township. Only stays. I will not drop the e. Not Lucasville. A site was near. Near stays. A plant is just outside. Just stays. I will not move them. If you stay on the road, I'll start at the two surveys.",
+    long: "",
+    names: ["Luckey"]
+  },
+  {
+    id: "luckey-1881",
+    name: "Said",
+    lat: 41.4525,
+    lng: -83.4839,
+    radius: 40,
+    short: "A book says it was surveyed in 1820, and settlement is said to have begun in 1833. Said stays. According to stays. The encyclopedia says a man surveyed the town in 1881. I will not average the years. It was first known as Luckeyville. First known stays. An office called Luckey has been open since 1881. A record makes no mention of the captain, and names another man as postmaster. Makes no mention stays. I will not make them one. It was incorporated in 1940. The census says one thousand nine people in 2020. The box says sixty-nine hundredths of a mile. A page says about one. About stays. I will not average them. It is six hundred sixty-six feet up. The picture is Main Street, downtown. This pin is the village.",
+    long: "",
+    names: ["Luckey"]
+  },
+  {
+    id: "luckey-1861",
+    name: "The Question Mark",
+    lat: 41.4520,
+    lng: -83.4831,
+    radius: 40,
+    short: "The encyclopedia says a captain served from 1861 to 1864. Served stays. A village page puts a question mark on the office. The question mark stays. I do not have his birth, or his death, and I will not invent the battle. A kiln and a quarry were nearly completed. Nearly stays. The promises of two saloons stay promises. Officials claim there are no problems, and claim they will look further. Both claims stay. The site stays near. I will not move Toledo, or Lucasville. There is no yard, and no nation. The next place, when you want it, is Ludlow Falls.",
+    long: "",
+    names: ["Luckey"]
+  },
+
+  {
+    id: "approach-ludlow-falls",
+    name: "Ludlow Falls",
+    lat: 40.0070,
+    lng: -84.3394,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Ludlow Falls, the village in Miami County, in Union Township. Not Dayton. A creek flows through. Flows through stays. The name is derived from a falls, and it is named after a surveyor. I will not average the two. Not Luckey. If you stay on the road, I'll start at the class and the history.",
+    long: "",
+    names: ["Ludlow Falls"]
+  },
+  {
+    id: "ludlow-falls-1910",
+    name: "The Blank",
+    lat: 39.9994,
+    lng: -84.3394,
+    radius: 40,
+    short: "One record says incorporated in 1910, and its class says unincorporated. I will not average them. Another record says village, and the history line is blank. The blank stays. A book says since 1910. Since stays. The census starts in 1920. I will not make 1910 the first count. Variants drop the Falls, and one of them has no apostrophe. I will not add it. The census says one hundred seventy-five people in 2020. A rebased page prints one hundred seventy-two. Rebased stays. I will not average them. The miles agree, and the kilometers do not. I will not average them. It is nine hundred six feet up. The picture is Greenville Avenue. Four other points are printed. I will not average them. This pin is the village.",
+    long: "",
+    names: ["Ludlow Falls"]
+  },
+  {
+    id: "ludlow-falls-canon",
+    name: "Canon",
+    lat: 39.9989,
+    lng: -84.3386,
+    radius: 40,
+    short: "The book says the falls makes a descent of thirty feet, over jagged rocks, into the canon below. Canon stays. Jagged stays. I will not repair it. A railroad's last train was March 31, 1976, and the tracks were pulled up shortly thereafter. Shortly stays. I will not say they are still there. I will not move Dayton, or West Milton, or Springfield, or Indianapolis. There is no person with years, no yard, no nation, and no battle. The next place, when you want it, is Lynchburg.",
+    long: "",
+    names: ["Ludlow Falls"]
+  },
+
+  {
+    id: "approach-lynchburg",
+    name: "Lynchburg",
+    lat: 39.2520,
+    lng: -83.7878,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Lynchburg, the village in Clinton County and in Highland County. I will not drop one. A caption names only one of them. The caption stays. Not the city in Virginia. It was named after that city. Named after stays. Not the other Lynchburg. If you stay on the road, I'll start at the plat.",
+    long: "",
+    names: ["Lynchburg"]
+  },
+  {
+    id: "lynchburg-1830",
+    name: "A First",
+    lat: 39.2444,
+    lng: -83.7878,
+    radius: 40,
+    short: "The encyclopedia says it was platted in 1830, and named after the Virginia city, the birthplace of a first settler. A first stays. I will not name him. I will not move that city, or the other Lynchburg, or its year. The census says one thousand five hundred ten people in 2020. Two other pages do not print that count. A rebased page says so. Rebased stays. I will not average them. The box and the geography line do not agree on the miles. I will not average them. It is one thousand twenty-four feet up. Another point does not sit on this one. I will not average them. The gallery shows Main Street more than once. I will not make the repeats into extra streets. This pin is the village.",
+    long: "",
+    names: ["Lynchburg"]
+  },
+  {
+    id: "lynchburg-bridge",
+    name: "Last Remaining",
+    lat: 39.2439,
+    lng: -83.7870,
+    radius: 40,
+    short: "The covered bridge was built in 1870, and the page that says December is tagged citation needed. The tag stays. It was added on March 16, 1976. I will not drop the day. A new bridge came in 1969. New stays. The covered one was retired. Retired stays. A caption says last remaining, and I will not repair its spelling. Two parks are named, and a cemetery caption prints June 1854. I will not decide what the month is. I will not move the bridge's point onto this one. There is no person with years, no nation, and no battle. The next place, when you want it, is Macedonia.",
+    long: "",
+    names: ["Lynchburg"]
+  },
+
+  {
+    id: "approach-macedonia",
+    name: "Macedonia",
+    lat: 41.3260,
+    lng: -81.5042,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Macedonia, the city in northern Summit County. Northern stays. Not Akron. The motto says crossroads. Not the country. A page says the name is said to derive from a small joke. Said stays. If you stay on the road, I'll start at the two sentences.",
+    long: "",
+    names: ["Macedonia"]
+  },
+  {
+    id: "macedonia-corners",
+    name: "Know",
+    lat: 41.3178,
+    lng: -81.5042,
+    radius: 40,
+    short: "A page says the settlement was The Corners, and a later line says The Corner. I will not average them. The first log house was 1824. First stays. A school was 1833, and a frame church was 1835. Frame stays. The encyclopedia says the name is said to derive from a small joke. Said stays. A city page says either by accident or by divine intervention, and permanently know. Know stays. I will not repair it. The two passages are not the same sentence. I will not average them. The census says twelve thousand one hundred sixty-eight people in 2020. Another page prints one more. I will not average them. The table skips years. The skips stay. The box and the geography line do not agree on the miles. I will not average them. One height is one thousand thirty-four feet. Another page prints three hundred one meters. I will not average them. The picture is Longwood Manor. This pin is the city.",
+    long: "",
+    names: ["Macedonia"]
+  },
+  {
+    id: "macedonia-run",
+    name: "The Name of the Stream",
+    lat: 41.3173,
+    lng: -81.5034,
+    radius: 40,
+    short: "A man named a stream. Named stays. I will not make the word a nation. An inn was for weary travelers. Weary stays. Stage coach stays, as two words. I will not move Hudson, or Northfield, or Akron, or Pittsburgh, or Cleveland, or the country. There is no person with years, no yard, and no battle. The next place, when you want it, is Mack.",
+    long: "",
+    names: ["Macedonia"]
+  },
+
+  {
+    id: "approach-mack",
+    name: "Mack",
+    lat: 39.1490,
+    lng: -84.6811,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Mack, the census place in Green Township and in Miami Township, Hamilton County. I will not drop one. Not Cincinnati, which is ten miles off. Not a village. None of these communities is one. None stays. If you stay on the road, I'll start at the two names.",
+    long: "",
+    names: ["Mack"]
+  },
+  {
+    id: "mack-1892",
+    name: "When",
+    lat: 39.1411,
+    lng: -84.6811,
+    radius: 40,
+    short: "The encyclopedia says it was originally known as Dry Ridge, in the nineteenth century, and renamed after a local politician. Originally stays. The line is tagged when. The tag stays. A local page says Dry Ridge until at least the eighteen eighties, and the name came from an office in 1892. Until stays. At least stays. Came from stays. I will not average them. The census says eleven thousand eighty-eight people in 2020. Prior counts were two separate places. Separate stays. I will not average them. The box and the geography line do not agree on the miles. I will not average them. The page prints eight hundred thirty feet, and two hundred fifty meters. I will not make the pair agree. The pictures are maps. This pin is the census place.",
+    long: "",
+    names: ["Mack"]
+  },
+  {
+    id: "mack-hound",
+    name: "As the Story Goes",
+    lat: 39.1406,
+    lng: -84.6803,
+    radius: 40,
+    short: "As the story goes, the name was a hound dog's. The quotes stay. I will not make the dog and the politician one. The heart is a five-point intersection. Heart stays. Five stays. I will not move Bridgetown, or Cleves, or Cincinnati, or Macksburg. There is no person with years, no yard, no nation, and no battle. The next place, when you want it, is Macksburg.",
+    long: "",
+    names: ["Mack"]
+  },
+
+  {
+    id: "approach-macksburg",
+    name: "Macksburg",
+    lat: 39.6390,
+    lng: -81.4564,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Macksburg, the village in Washington County, along the West Fork of Duck Creek. Along stays. About twenty-eight miles south of Cambridge. About stays. I will not move Cambridge. Not Mack. A class says unincorporated, and the history line is blank. The blank stays. If you stay on the road, I'll start at the office.",
+    long: "",
+    names: ["Macksburg"]
+  },
+  {
+    id: "macksburg-1873",
+    name: "The Parentheses",
+    lat: 39.6314,
+    lng: -81.4564,
+    radius: 40,
+    short: "The encyclopedia says an office called Macksburg(h) has been open since 1873. The parentheses stay. The name may be derived from a merchant. May stays. I will not make it was. Variants keep an apostrophe, and a ville, and an h. I will not drop them, and I will not move them onto Mack. The census says one hundred twenty people in 2020. The people peaked in a different year than the barrels. I will not average the peaks. The box and the geography line do not agree on the miles, or on the water. I will not average them. One height is six hundred ninety-two feet. Another is seven hundred two. I will not average them. Other points do not sit on this one. The picture is the front of a church. I will not name it. This pin is the village.",
+    long: "",
+    names: ["Macksburg"]
+  },
+  {
+    id: "macksburg-seep",
+    name: "Nothing But",
+    lat: 39.6309,
+    lng: -81.4556,
+    radius: 40,
+    short: "One page says a seep, and oil at fifty-nine feet. A survey page says seepage, clearly visible, on the surface. Clearly stays. I will not average the surface with the depth. The field surrounds the town. Surrounds stays. By 1900, one page says production had ceased. Ceased stays. Another says nothing but the remnants. Nothing but stays. I will not average them. A line says after the war. I will not name it. I will not move Cambridge, or Caldwell, or Mack. There is no person with years, no yard, and no nation. The next place, when you want it, is Madeira.",
+    long: "",
+    names: ["Macksburg"]
+  },
+
+  {
+    id: "approach-madeira",
+    name: "Madeira",
+    lat: 39.1900,
+    lng: -84.3794,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Madeira, the city in Hamilton County, a residential suburb of Cincinnati. Residential stays. Small downtown. Some light industry. Some stays. I will not move Cincinnati. Not the island. Not Macksburg. If you stay on the road, I'll start at the two years.",
+    long: "",
+    names: ["Madeira"]
+  },
+  {
+    id: "madeira-1871",
+    name: "Largely",
+    lat: 39.1819,
+    lng: -84.3794,
+    radius: 40,
+    short: "The encyclopedia says it was largely laid out in 1871. Largely stays. Before that it was a post town, named for a man who owned a large tract in the vicinity. Before stays. Vicinity stays. A manuscript says founded in 1866, as a station, and that he lived in another city. Around stays. Founded stays. I will not average the years, or the places, and I will not move that city. The first office was known as Indian Hill. First stays. It was a village in 1910, and a city in August 1959. August stays. The census says nine thousand four hundred eighty-seven people in 2020. The table starts at six hundred, in 1920. A page says five hundred in 1910. I will not average them. The box and the geography line do not agree on the miles, or on the water. I will not average them. It is eight hundred twenty feet up. The picture is downtown. This pin is the city.",
+    long: "",
+    names: ["Madeira"]
+  },
+  {
+    id: "madeira-raid",
+    name: "Northern Parts",
+    lat: 39.1814,
+    lng: -84.3786,
+    radius: 40,
+    short: "The page says raiders passed through the northern parts, taking horses, food, and so on. Passed through stays. Etc. stays. I will not invent the fight. A road is about three degrees west of true north, and the same sentence says cocked a bit to the east. I will not average them. The oldest dateable building is still standing, and unnamed. Still standing stays. I will not move Cincinnati, or Indian Hill, or Chillicothe, or the island. There is no person with years, no yard, and no nation. The next place, when you want it, is Madison.",
+    long: "",
+    names: ["Madeira"]
+  },
+
+  {
+    id: "approach-madison-place",
+    name: "Madison Place",
+    lat: 39.1620,
+    lng: -84.3750,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Madison Place, the census place in Columbia Township, adjacent to Cincinnati. Adjacent stays. I will not make it that city. Not the village of Madison. Not Madisonville, which borders it. Borders stays. If you stay on the road, I'll start at the first listing.",
+    long: "",
+    names: ["Madison Place"]
+  },
+  {
+    id: "madison-place-2020",
+    name: "Prior To",
+    lat: 39.1547,
+    lng: -84.3750,
+    radius: 40,
+    short: "The encyclopedia says it was first listed as a census place prior to the 2020 census. First stays. Prior to stays. I do not have a plat, or an office of its own. The postal line names Cincinnati, in parentheses. The parentheses stay. The census says five hundred seventy-two people. The box and the census line do not agree on the density in miles, and they print the same kilometers. I will not average the miles. The shares add to ninety-nine and nine tenths. I will not make them a hundred. A zero stays a zero. It is ninety-three thousandths of a mile, and six hundred twenty feet up. The water is written as zero. The picture is a map. This pin is the census place.",
+    long: "",
+    names: ["Madison Place"]
+  },
+  {
+    id: "madison-place-borders",
+    name: "Very Small",
+    lat: 39.1542,
+    lng: -84.3742,
+    radius: 40,
+    short: "A very small portion of the southeast corner is bordered to the south by another village. Very small stays. Portion stays. The northeast border keeps a capital The. I will not move Madisonville, or Indian Hill, or Mariemont, or Cincinnati, or a neighbor's site. There is no person with years, no yard, no building the page names, no nation, and no battle. The next place, when you want it, is Magnetic Springs.",
+    long: "",
+    names: ["Madison Place"]
+  },
+
+  {
+    id: "approach-loveland-park",
+    name: "Loveland Park",
+    lat: 39.3030,
+    lng: -84.2642,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Loveland Park, the census place in Symmes Township, Hamilton County, and in Deerfield Township, Warren County. I will not drop one. It is named after the city of Loveland. Named after stays. I will not make them one place. If you stay on the road, I'll start at the lots.",
+    long: "",
+    names: ["Loveland Park"]
+  },
+  {
+    id: "loveland-park-1928",
+    name: "After Paying",
+    lat: 39.2950,
+    lng: -84.2642,
+    radius: 40,
+    short: "The encyclopedia says the place is named after the city. Named after stays. In the nineteen twenties a paper offered a free wooded lot, twenty by one hundred feet, along the river, after a one-year subscription. Free stays. After stays. Wooded stays. In 1928 the residents formed a nonprofit association, to serve as a homeowners' association. Serve as stays. The census says one thousand seven hundred thirty-seven people in 2020. The table has a dash before it. The dash stays. I will not average the older counts. The box and the geography line do not agree on the miles. I will not average them. Two densities are a hundredth apart. I will not average them. It is seven hundred twenty-eight feet up. I did not see a postal code. The pictures are maps. Another point does not sit on this one. I will not average them. This pin is the census place.",
+    long: "",
+    names: ["Loveland Park"]
+  },
+  {
+    id: "loveland-park-two",
+    name: "Two, and Multiple",
+    lat: 39.2945,
+    lng: -84.2634,
+    radius: 40,
+    short: "The page says a castle was built on two such lots. Two stays. Such stays. The city page said multiple plots. I will not average them, and I will not move the castle, or the city, or a theme park. I will not make the word Park a yard the page does not describe. There is no person with years, no nation, and no battle. The next place, when you want it, is Lowell.",
+    long: "",
+    names: ["Loveland Park"]
+  },
+
+  {
+    id: "approach-lowell",
+    name: "Lowell",
+    lat: 39.5370,
+    lng: -81.5069,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Lowell, the village in Washington County, along the Muskingum River. Not Marietta. One line says about seven miles. Another says about fourteen. About stays. I will not average them. Not Lowellville. Not the city in Massachusetts. The name was an idea. Idea stays. If you stay on the road, I'll start at the two towns.",
+    long: "",
+    names: ["Lowell"]
+  },
+  {
+    id: "lowell-1837",
+    name: "Before Either",
+    lat: 39.5292,
+    lng: -81.5069,
+    radius: 40,
+    short: "A page says the office was named on February 7, 1837, before either village was surveyed. Before stays. Either stays. One town was laid out on November 8, 1837. The rival, Buell's Lowell, was laid out on March 22, 1838, about a half-mile or so downriver. Or so stays. The first enjoyed very little growth, and later was known as Upper Lowell. Enjoyed stays. Very little stays. The second is the present village. Present stays. The encyclopedia says incorporated in 1850, and the name changed in 1889. A list prints 1851, open-ended. I will not average them. The name of Buell was dropped on July 11, 1889. Dropped stays. The box says five hundred sixty-seven people in 2020. The lead says five hundred forty-nine. I will not average them. The miles agree, and the kilometers do not. I will not average them. It is six hundred twenty-three feet up. The picture is Fourth Street. The history section does not cite any sources. The notice stays. This pin is the village.",
+    long: "",
+    names: ["Lowell"]
+  },
+  {
+    id: "lowell-upper",
+    name: "Now Gone",
+    lat: 39.5287,
+    lng: -81.5061,
+    radius: 40,
+    short: "Upper Lowell is now gone, except for several houses. Except stays. A street list says it now stands. Now stands stays. I will not average them. A railroad was built across the river. Across stays. I will not move Marietta, or Zanesville, or Massachusetts, or Lowellville. There is no person with years, no yard, no nation, and no battle. The next place, when you want it, is Lowellville.",
+    long: "",
+    names: ["Lowell"]
+  },
+
+  {
+    id: "approach-lowellville",
+    name: "Lowellville",
+    lat: 41.0460,
+    lng: -80.5464,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Lowellville, the village in eastern Mahoning County, along the Mahoning River. Eastern stays. Not Youngstown, which is about eight miles off. About stays. It sits just west of the Pennsylvania line. Just stays. Not Lowell. If you stay on the road, I'll start at the two names.",
+    long: "",
+    names: ["Lowellville"]
+  },
+  {
+    id: "lowellville-1890",
+    name: "Separate",
+    lat: 41.0389,
+    lng: -80.5464,
+    radius: 40,
+    short: "A page says a section was known as McGillsville for much of the century, and across the river a separate place named Lowell emerged. Much stays. Separate stays. Across stays. In 1890 the two were incorporated as Lowellville. The census starts in 1850. I will not make that the incorporation. The census says nine hundred ninety-six people in 2020. The groups add to that. Another page prints nine hundred ninety-seven. I will not average them. A survey prints a margin. The margin stays. The box and the geography line do not agree on the kilometers. I will not average them. One height is eight hundred thirty-seven feet. Another page prints two hundred fifty meters. I will not average them. The picture is the municipal building. Water Street was Canal Street. Originally stays. A picture is circa 1958. Circa stays. This pin is the village.",
+    long: "",
+    names: ["Lowellville"]
+  },
+  {
+    id: "lowellville-sleepy",
+    name: "Sleepy, and Raucous",
+    lat: 41.0384,
+    lng: -80.5456,
+    radius: 40,
+    short: "The headline says a sleepy village boasts a raucous past. Sleepy stays. Raucous stays. A man served for several months, and later staked a claim here. Several stays. I will not invent the battle. A mill was nearby. Nearby stays. I will not move Youngstown, or Warren, or the towns across the line, or the other Lowell. There is no person with years, and no nation. The next place, when you want it, is Lower Salem.",
+    long: "",
+    names: ["Lowellville"]
+  },
+
+  {
+    id: "approach-lower-salem",
+    name: "Lower Salem",
+    lat: 39.5710,
+    lng: -81.3942,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Lower Salem, the village in Washington County. A page also lists it as Salem. Also known as stays. I will not drop Lower, and I will not move the other Salem. Not Marietta. A road was built through it to that city. Through stays. If you stay on the road, I'll start at the year it was not laid out.",
+    long: "",
+    names: ["Lower Salem"]
+  },
+  {
+    id: "lower-salem-1850",
+    name: "Not Until",
+    lat: 39.5633,
+    lng: -81.3942,
+    radius: 40,
+    short: "The encyclopedia says it had its start when a corduroy road, called the Old Plank Road, was built through it. Called stays. Corduroy stays. I do not have that year. The town site was not laid out until 1850. Not stays. Until stays. It was settled predominantly by German immigrants. Predominantly stays. It has a post office. Has stays. The census says seventy-five people in 2020. I will not average the older counts. The table skips a year. The skip stays. The box and the geography line do not agree on the miles, or on the water. I will not average them. One height is six hundred ninety-six feet. Another is six hundred fifty. I will not average them. The picture is the village hall on Main Street. Three points do not sit together. I will not average them. This pin is the village.",
+    long: "",
+    names: ["Lower Salem"]
+  },
+  {
+    id: "lower-salem-standing",
+    name: "While All",
+    lat: 39.5628,
+    lng: -81.3934,
+    radius: 40,
+    short: "The page says the old buildings remain standing, and all have gone out of business. While stays. All stays. The line is tagged citation needed. The tag stays. A fire hall is next to a township cemetery. Next to stays. A map uses another name for a cemetery. I will not average them. The page says city limits. I will not repair it. I will not move Marietta, or Salem, or the places that share the office. There is no person with years, no nation, and no battle. The next place, when you want it, is Lucas.",
+    long: "",
+    names: ["Lower Salem"]
+  },
+
+  {
+    id: "approach-lucas",
+    name: "Lucas",
+    lat: 40.7120,
+    lng: -82.4222,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Lucas, the village in southeastern Richland County. Southeastern stays. Not Mansfield. One page says seven miles. Another says a few, and it means the interstate. A few stays. I will not average them. Not Lucasville. If you stay on the road, I'll start at the three theories.",
+    long: "",
+    names: ["Lucas"]
+  },
+  {
+    id: "lucas-1836",
+    name: "However",
+    lat: 40.7042,
+    lng: -82.4222,
+    radius: 40,
+    short: "The encyclopedia says three theories exist for the name. Currently stays. I will not pick one. However the name came to be, it was officially established in 1836. However stays. A village page says founded that year, and incorporated that year. A county history says laid out that year by a brother, acting as agent. Agent stays. I will not average the verbs. A man set in a proposal. Set in stays. A line says authored. I will not repair it. A postal office was commissioned later that year. Later stays. The census says five hundred eighty-nine people in 2020. The miles agree, and the kilometers do not. I will not average them. It is one thousand one hundred thirty-two feet up. The picture is West Main Street, in 2007. A mayor's line is tagged citation needed. The tag stays. This pin is the village.",
+    long: "",
+    names: ["Lucas"]
+  },
+  {
+    id: "lucas-campsite",
+    name: "At the Time",
+    lat: 40.7037,
+    lng: -82.4214,
+    radius: 40,
+    short: "The page says the land was a campsite, of a general marching north from Mansfield, and that the place was a historical site at the time. At the time stays. Marched stays. I will not invent a battle. A mill list prints thesd, and two spellings of one name. I will not repair them. Two mills are gone. Gone stays. A farm was here, and it is now a park. Here stays. Now stays. I will not move Mansfield, or Octororo, or Mohican, or Lucasville. There is no person with years, and no nation. The next place, when you want it, is Lucasville.",
+    long: "",
+    names: ["Lucas"]
+  },
+
+  {
+    id: "approach-lucasville",
+    name: "Lucasville",
+    lat: 38.8850,
+    lng: -82.9944,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Lucasville, the census place in Scioto County. A page also calls it unincorporated. I will not average the labels. Not Portsmouth. A prison is just outside. Just outside stays. I will not move it. If you stay on the road, I'll start at the two days.",
+    long: "",
+    names: ["Lucasville"]
+  },
+  {
+    id: "lucasville-1819",
+    name: "June, and August",
+    lat: 38.8778,
+    lng: -82.9944,
+    radius: 40,
+    short: "The encyclopedia says Captain John Lucas, 1788 to 1825, laid it out in 1819, and it was named for him. Named for stays. A page says June, and recorded on August 7. Recorded stays. The encyclopedia says he would establish it that day, on a portion of inherited land. Would stays. Portion stays. I will not average the verbs, or June and August. An office called Lucasville has been open since 1828. Called stays. I will not make that the plat. The census says one thousand six hundred fifty-five people in 2020. A rebased page does not agree on the older counts. Rebased stays. I will not average them. The box and the geography line do not agree on the miles. I will not average them. One height is five hundred thirty-five feet. Another is one hundred sixty-seven meters, plus or minus one. I will not average them. The picture is the cemetery arch. This pin is the census place.",
+    long: "",
+    names: ["Lucasville"]
+  },
+  {
+    id: "lucasville-regiment",
+    name: "Just Outside",
+    lat: 38.8773,
+    lng: -82.9936,
+    radius: 40,
+    short: "The page says he volunteered, and commanded a regiment. Volunteered stays. I will not name the regiment, and I will not invent the battle. He is interred in the cemetery. Interred stays. The fairgrounds are here. The prison is just outside. One page says one of three. Another says only. I will not average them, and I will not move it. I will not move Portsmouth, or Iowa, or the village of Lucas. There is no nation. The next place, when you want it, is Luckey.",
+    long: "",
+    names: ["Lucasville"]
+  },
+
+  {
+    id: "approach-luckey",
+    name: "Luckey",
+    lat: 41.4600,
+    lng: -83.4839,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Luckey, the village in Wood County, the only incorporated village in Troy Township. Only stays. I will not drop the e. Not Lucasville. A site was near. Near stays. A plant is just outside. Just stays. I will not move them. If you stay on the road, I'll start at the two surveys.",
+    long: "",
+    names: ["Luckey"]
+  },
+  {
+    id: "luckey-1881",
+    name: "Said",
+    lat: 41.4525,
+    lng: -83.4839,
+    radius: 40,
+    short: "A book says it was surveyed in 1820, and settlement is said to have begun in 1833. Said stays. According to stays. The encyclopedia says a man surveyed the town in 1881. I will not average the years. It was first known as Luckeyville. First known stays. An office called Luckey has been open since 1881. A record makes no mention of the captain, and names another man as postmaster. Makes no mention stays. I will not make them one. It was incorporated in 1940. The census says one thousand nine people in 2020. The box says sixty-nine hundredths of a mile. A page says about one. About stays. I will not average them. It is six hundred sixty-six feet up. The picture is Main Street, downtown. This pin is the village.",
+    long: "",
+    names: ["Luckey"]
+  },
+  {
+    id: "luckey-1861",
+    name: "The Question Mark",
+    lat: 41.4520,
+    lng: -83.4831,
+    radius: 40,
+    short: "The encyclopedia says a captain served from 1861 to 1864. Served stays. A village page puts a question mark on the office. The question mark stays. I do not have his birth, or his death, and I will not invent the battle. A kiln and a quarry were nearly completed. Nearly stays. The promises of two saloons stay promises. Officials claim there are no problems, and claim they will look further. Both claims stay. The site stays near. I will not move Toledo, or Lucasville. There is no yard, and no nation. The next place, when you want it, is Ludlow Falls.",
+    long: "",
+    names: ["Luckey"]
+  },
+
+  {
+    id: "approach-ludlow-falls",
+    name: "Ludlow Falls",
+    lat: 40.0070,
+    lng: -84.3394,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Ludlow Falls, the village in Miami County, in Union Township. Not Dayton. A creek flows through. Flows through stays. The name is derived from a falls, and it is named after a surveyor. I will not average the two. Not Luckey. If you stay on the road, I'll start at the class and the history.",
+    long: "",
+    names: ["Ludlow Falls"]
+  },
+  {
+    id: "ludlow-falls-1910",
+    name: "The Blank",
+    lat: 39.9994,
+    lng: -84.3394,
+    radius: 40,
+    short: "One record says incorporated in 1910, and its class says unincorporated. I will not average them. Another record says village, and the history line is blank. The blank stays. A book says since 1910. Since stays. The census starts in 1920. I will not make 1910 the first count. Variants drop the Falls, and one of them has no apostrophe. I will not add it. The census says one hundred seventy-five people in 2020. A rebased page prints one hundred seventy-two. Rebased stays. I will not average them. The miles agree, and the kilometers do not. I will not average them. It is nine hundred six feet up. The picture is Greenville Avenue. Four other points are printed. I will not average them. This pin is the village.",
+    long: "",
+    names: ["Ludlow Falls"]
+  },
+  {
+    id: "ludlow-falls-canon",
+    name: "Canon",
+    lat: 39.9989,
+    lng: -84.3386,
+    radius: 40,
+    short: "The book says the falls makes a descent of thirty feet, over jagged rocks, into the canon below. Canon stays. Jagged stays. I will not repair it. A railroad's last train was March 31, 1976, and the tracks were pulled up shortly thereafter. Shortly stays. I will not say they are still there. I will not move Dayton, or West Milton, or Springfield, or Indianapolis. There is no person with years, no yard, no nation, and no battle. The next place, when you want it, is Lynchburg.",
+    long: "",
+    names: ["Ludlow Falls"]
+  },
+
+  {
+    id: "approach-lynchburg",
+    name: "Lynchburg",
+    lat: 39.2520,
+    lng: -83.7878,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Lynchburg, the village in Clinton County and in Highland County. I will not drop one. A caption names only one of them. The caption stays. Not the city in Virginia. It was named after that city. Named after stays. Not the other Lynchburg. If you stay on the road, I'll start at the plat.",
+    long: "",
+    names: ["Lynchburg"]
+  },
+  {
+    id: "lynchburg-1830",
+    name: "A First",
+    lat: 39.2444,
+    lng: -83.7878,
+    radius: 40,
+    short: "The encyclopedia says it was platted in 1830, and named after the Virginia city, the birthplace of a first settler. A first stays. I will not name him. I will not move that city, or the other Lynchburg, or its year. The census says one thousand five hundred ten people in 2020. Two other pages do not print that count. A rebased page says so. Rebased stays. I will not average them. The box and the geography line do not agree on the miles. I will not average them. It is one thousand twenty-four feet up. Another point does not sit on this one. I will not average them. The gallery shows Main Street more than once. I will not make the repeats into extra streets. This pin is the village.",
+    long: "",
+    names: ["Lynchburg"]
+  },
+  {
+    id: "lynchburg-bridge",
+    name: "Last Remaining",
+    lat: 39.2439,
+    lng: -83.7870,
+    radius: 40,
+    short: "The covered bridge was built in 1870, and the page that says December is tagged citation needed. The tag stays. It was added on March 16, 1976. I will not drop the day. A new bridge came in 1969. New stays. The covered one was retired. Retired stays. A caption says last remaining, and I will not repair its spelling. Two parks are named, and a cemetery caption prints June 1854. I will not decide what the month is. I will not move the bridge's point onto this one. There is no person with years, no nation, and no battle. The next place, when you want it, is Macedonia.",
+    long: "",
+    names: ["Lynchburg"]
+  },
+
+  {
+    id: "approach-macedonia",
+    name: "Macedonia",
+    lat: 41.3260,
+    lng: -81.5042,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Macedonia, the city in northern Summit County. Northern stays. Not Akron. The motto says crossroads. Not the country. A page says the name is said to derive from a small joke. Said stays. If you stay on the road, I'll start at the two sentences.",
+    long: "",
+    names: ["Macedonia"]
+  },
+  {
+    id: "macedonia-corners",
+    name: "Know",
+    lat: 41.3178,
+    lng: -81.5042,
+    radius: 40,
+    short: "A page says the settlement was The Corners, and a later line says The Corner. I will not average them. The first log house was 1824. First stays. A school was 1833, and a frame church was 1835. Frame stays. The encyclopedia says the name is said to derive from a small joke. Said stays. A city page says either by accident or by divine intervention, and permanently know. Know stays. I will not repair it. The two passages are not the same sentence. I will not average them. The census says twelve thousand one hundred sixty-eight people in 2020. Another page prints one more. I will not average them. The table skips years. The skips stay. The box and the geography line do not agree on the miles. I will not average them. One height is one thousand thirty-four feet. Another page prints three hundred one meters. I will not average them. The picture is Longwood Manor. This pin is the city.",
+    long: "",
+    names: ["Macedonia"]
+  },
+  {
+    id: "macedonia-run",
+    name: "The Name of the Stream",
+    lat: 41.3173,
+    lng: -81.5034,
+    radius: 40,
+    short: "A man named a stream. Named stays. I will not make the word a nation. An inn was for weary travelers. Weary stays. Stage coach stays, as two words. I will not move Hudson, or Northfield, or Akron, or Pittsburgh, or Cleveland, or the country. There is no person with years, no yard, and no battle. The next place, when you want it, is Mack.",
+    long: "",
+    names: ["Macedonia"]
+  },
+
+  {
+    id: "approach-mack",
+    name: "Mack",
+    lat: 39.1490,
+    lng: -84.6811,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Mack, the census place in Green Township and in Miami Township, Hamilton County. I will not drop one. Not Cincinnati, which is ten miles off. Not a village. None of these communities is one. None stays. If you stay on the road, I'll start at the two names.",
+    long: "",
+    names: ["Mack"]
+  },
+  {
+    id: "mack-1892",
+    name: "When",
+    lat: 39.1411,
+    lng: -84.6811,
+    radius: 40,
+    short: "The encyclopedia says it was originally known as Dry Ridge, in the nineteenth century, and renamed after a local politician. Originally stays. The line is tagged when. The tag stays. A local page says Dry Ridge until at least the eighteen eighties, and the name came from an office in 1892. Until stays. At least stays. Came from stays. I will not average them. The census says eleven thousand eighty-eight people in 2020. Prior counts were two separate places. Separate stays. I will not average them. The box and the geography line do not agree on the miles. I will not average them. The page prints eight hundred thirty feet, and two hundred fifty meters. I will not make the pair agree. The pictures are maps. This pin is the census place.",
+    long: "",
+    names: ["Mack"]
+  },
+  {
+    id: "mack-hound",
+    name: "As the Story Goes",
+    lat: 39.1406,
+    lng: -84.6803,
+    radius: 40,
+    short: "As the story goes, the name was a hound dog's. The quotes stay. I will not make the dog and the politician one. The heart is a five-point intersection. Heart stays. Five stays. I will not move Bridgetown, or Cleves, or Cincinnati, or Macksburg. There is no person with years, no yard, no nation, and no battle. The next place, when you want it, is Macksburg.",
+    long: "",
+    names: ["Mack"]
+  },
+
+  {
+    id: "approach-macksburg",
+    name: "Macksburg",
+    lat: 39.6390,
+    lng: -81.4564,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Macksburg, the village in Washington County, along the West Fork of Duck Creek. Along stays. About twenty-eight miles south of Cambridge. About stays. I will not move Cambridge. Not Mack. A class says unincorporated, and the history line is blank. The blank stays. If you stay on the road, I'll start at the office.",
+    long: "",
+    names: ["Macksburg"]
+  },
+  {
+    id: "macksburg-1873",
+    name: "The Parentheses",
+    lat: 39.6314,
+    lng: -81.4564,
+    radius: 40,
+    short: "The encyclopedia says an office called Macksburg(h) has been open since 1873. The parentheses stay. The name may be derived from a merchant. May stays. I will not make it was. Variants keep an apostrophe, and a ville, and an h. I will not drop them, and I will not move them onto Mack. The census says one hundred twenty people in 2020. The people peaked in a different year than the barrels. I will not average the peaks. The box and the geography line do not agree on the miles, or on the water. I will not average them. One height is six hundred ninety-two feet. Another is seven hundred two. I will not average them. Other points do not sit on this one. The picture is the front of a church. I will not name it. This pin is the village.",
+    long: "",
+    names: ["Macksburg"]
+  },
+  {
+    id: "macksburg-seep",
+    name: "Nothing But",
+    lat: 39.6309,
+    lng: -81.4556,
+    radius: 40,
+    short: "One page says a seep, and oil at fifty-nine feet. A survey page says seepage, clearly visible, on the surface. Clearly stays. I will not average the surface with the depth. The field surrounds the town. Surrounds stays. By 1900, one page says production had ceased. Ceased stays. Another says nothing but the remnants. Nothing but stays. I will not average them. A line says after the war. I will not name it. I will not move Cambridge, or Caldwell, or Mack. There is no person with years, no yard, and no nation. The next place, when you want it, is Madeira.",
+    long: "",
+    names: ["Macksburg"]
+  },
+
+  {
+    id: "approach-madeira",
+    name: "Madeira",
+    lat: 39.1900,
+    lng: -84.3794,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Madeira, the city in Hamilton County, a residential suburb of Cincinnati. Residential stays. Small downtown. Some light industry. Some stays. I will not move Cincinnati. Not the island. Not Macksburg. If you stay on the road, I'll start at the two years.",
+    long: "",
+    names: ["Madeira"]
+  },
+  {
+    id: "madeira-1871",
+    name: "Largely",
+    lat: 39.1819,
+    lng: -84.3794,
+    radius: 40,
+    short: "The encyclopedia says it was largely laid out in 1871. Largely stays. Before that it was a post town, named for a man who owned a large tract in the vicinity. Before stays. Vicinity stays. A manuscript says founded in 1866, as a station, and that he lived in another city. Around stays. Founded stays. I will not average the years, or the places, and I will not move that city. The first office was known as Indian Hill. First stays. It was a village in 1910, and a city in August 1959. August stays. The census says nine thousand four hundred eighty-seven people in 2020. The table starts at six hundred, in 1920. A page says five hundred in 1910. I will not average them. The box and the geography line do not agree on the miles, or on the water. I will not average them. It is eight hundred twenty feet up. The picture is downtown. This pin is the city.",
+    long: "",
+    names: ["Madeira"]
+  },
+  {
+    id: "madeira-raid",
+    name: "Northern Parts",
+    lat: 39.1814,
+    lng: -84.3786,
+    radius: 40,
+    short: "The page says raiders passed through the northern parts, taking horses, food, and so on. Passed through stays. Etc. stays. I will not invent the fight. A road is about three degrees west of true north, and the same sentence says cocked a bit to the east. I will not average them. The oldest dateable building is still standing, and unnamed. Still standing stays. I will not move Cincinnati, or Indian Hill, or Chillicothe, or the island. There is no person with years, no yard, and no nation. The next place, when you want it, is Madison.",
+    long: "",
+    names: ["Madeira"]
+  },
+
+  {
+    id: "approach-madison-place",
+    name: "Madison Place",
+    lat: 39.1620,
+    lng: -84.3750,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Madison Place, the census place in Columbia Township, adjacent to Cincinnati. Adjacent stays. I will not make it that city. Not the village of Madison. Not Madisonville, which borders it. Borders stays. If you stay on the road, I'll start at the first listing.",
+    long: "",
+    names: ["Madison Place"]
+  },
+  {
+    id: "madison-place-2020",
+    name: "Prior To",
+    lat: 39.1547,
+    lng: -84.3750,
+    radius: 40,
+    short: "The encyclopedia says it was first listed as a census place prior to the 2020 census. First stays. Prior to stays. I do not have a plat, or an office of its own. The postal line names Cincinnati, in parentheses. The parentheses stay. The census says five hundred seventy-two people. The box and the census line do not agree on the density in miles, and they print the same kilometers. I will not average the miles. The shares add to ninety-nine and nine tenths. I will not make them a hundred. A zero stays a zero. It is ninety-three thousandths of a mile, and six hundred twenty feet up. The water is written as zero. The picture is a map. This pin is the census place.",
+    long: "",
+    names: ["Madison Place"]
+  },
+  {
+    id: "madison-place-borders",
+    name: "Very Small",
+    lat: 39.1542,
+    lng: -84.3742,
+    radius: 40,
+    short: "A very small portion of the southeast corner is bordered to the south by another village. Very small stays. Portion stays. The northeast border keeps a capital The. I will not move Madisonville, or Indian Hill, or Mariemont, or Cincinnati, or a neighbor's site. There is no person with years, no yard, no building the page names, no nation, and no battle. The next place, when you want it, is Magnetic Springs.",
+    long: "",
+    names: ["Madison Place"]
+  },
 
 
 

@@ -25459,6 +25459,137 @@ STORIES.push(
     names: ["Madison Place"]
   },
 
+  {
+    id: "approach-magnetic-springs",
+    name: "Magnetic Springs",
+    lat: 40.3610,
+    lng: -83.2625,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Magnetic Springs, the village in Leesburg Township, Union County. It has a post office. Has stays. Not Marysville. Not Columbus, where a company has since gone. Since stays. If you stay on the road, I'll start at the three plats.",
+    long: "",
+    names: ["Magnetic Springs"]
+  },
+  {
+    id: "magnetic-springs-1879",
+    name: "Original",
+    lat: 40.3536,
+    lng: -83.2625,
+    radius: 40,
+    short: "The encyclopedia says it was platted in 1879, when underground springs were discovered, and it earned its name from mineral waters. When stays. Earned stays. A map list says the original plat was 1880, and the incorporation plat was 1883. Original stays. I will not average the years. A commentary says the name was changed from a Wyandot word. Changed from stays. The italics stay. It also was reported that an adjoining settlement was being platted. Adjoining stays. I will not average the two. The census says two hundred sixty-seven people in 2020. The box and the geography line do not agree on the miles, or on the water. I will not average them. It is nine hundred thirty-five feet up. The picture is Main Street. This pin is the village.",
+    long: "",
+    names: ["Magnetic Springs"]
+  },
+  {
+    id: "magnetic-springs-said",
+    name: "It Is Said",
+    lat: 40.3531,
+    lng: -83.2617,
+    radius: 40,
+    short: "It is said a knife blade left overnight took on the water, and nails would adhere. It is said stays. Would stays. As one resident put it, a fountain shot up. The quotes stay. The hotels had been torn down by the early nineteen eighties. Torn down stays. The page calls the industry the city's. City's stays. I will not repair it. I will not move Columbus, or Marysville, or the creek. There is no person with years, no yard, and no battle. The next place, when you want it, is Magnolia.",
+    long: "",
+    names: ["Magnetic Springs"]
+  },
+
+  {
+    id: "approach-magnolia",
+    name: "Magnolia",
+    lat: 40.6610,
+    lng: -81.2928,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Magnolia, the village in Carroll County and in Stark County. I will not drop one. A map caption says Stark. The caption stays. Not Canton. Not the dam. The picture is a flouring mill. Flouring stays. If you stay on the road, I'll start at the two towns.",
+    long: "",
+    names: ["Magnolia"]
+  },
+  {
+    id: "magnolia-1846",
+    name: "February First",
+    lat: 40.6531,
+    lng: -81.2928,
+    radius: 40,
+    short: "One page says two men laid out Magnolia in 1834, and another man platted Downingville in 1836, and the towns merged and became Magnolia on February 1, 1846. Merged stays. The day stays. A village page says founded, and incorporated into. Founded stays. Incorporated into stays. I will not average them. One family name is Downes. Another is Downing. I will not average them. The name came from a gristmill. The picture says flouring. I will not average the words. The census says one thousand thirteen at the time of 2020. At the time of stays. Another page prints one thousand sixteen. I will not average them. The table skips a year. The skip stays. The box and the geography line do not agree on the miles. I will not average them. One height is nine hundred eighty-eight feet. Another page prints two hundred ninety-two meters. I will not average them. This pin is the village.",
+    long: "",
+    names: ["Magnolia"]
+  },
+  {
+    id: "magnolia-tuscarawas",
+    name: "As Late As",
+    lat: 40.6526,
+    lng: -81.2920,
+    radius: 40,
+    short: "The village page says the Tuscarawas were the first in the area. First stays. Most were friendly, and some remained until as late as 1852. Most stays. Some stays. As late as stays. I will not invent a fight. A levee was built to protect the town from a dam. To protect stays. I will not move the dam, or the creek, or Maineville. There is no person with years, and no yard. The next place, when you want it, is Maineville.",
+    long: "",
+    names: ["Magnolia"]
+  },
+
+  {
+    id: "approach-maineville",
+    name: "Maineville",
+    lat: 39.3140,
+    lng: -84.1997,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Maineville, the village in Warren County, in Hamilton Township. I will not make the township the village. Not the state the settlers left. A page says the final e should not be omitted. Not in- frequently stays. I will not repair it. If you stay on the road, I'll start at the two counts.",
+    long: "",
+    names: ["Maineville"]
+  },
+  {
+    id: "maineville-1850",
+    name: "March",
+    lat: 39.3067,
+    lng: -84.1997,
+    radius: 40,
+    short: "A village page says it was founded in 1815, by approximately one hundred families. Approximately stays. The encyclopedia says nearly one hundred, and thirty to sixty days. Nearly stays. I will not average them. It was incorporated on March 23, 1850. A plat was acknowledged in February and received for record on March 27. I will not average the March dates. An office was established in 1854, and a page gives January 14. The day stays. The box says one thousand four hundred five people in 2020. The lead says one thousand four hundred sixty-eight, as of that year. As of stays. I will not average them. The box and the geography line do not agree on the miles. I will not average them. It is seven hundred ninety-seven feet up. The picture is houses on the road. This pin is the village.",
+    long: "",
+    names: ["Maineville"]
+  },
+  {
+    id: "maineville-e",
+    name: "Not In- Frequently",
+    lat: 39.3062,
+    lng: -84.1989,
+    radius: 40,
+    short: "A 1910 page says the final e should not be omitted, as is not in- frequently done. The hyphen stays. The space stays. It is the only town bearing the name, but another town lacks the e. Only stays. But stays. I will not move it. The old name is in quotes, and it clung for sometime. Sometime stays. I will not repair it. A building was demolished in the spring of 1901 to make way for a school house. To make way stays. I will not name the building. I will not move Maine, or Hopkinsville, or Fosters. There is no person with years, no yard, no nation, and no battle. The next place, when you want it, is Malta.",
+    long: "",
+    names: ["Maineville"]
+  },
+
+  {
+    id: "approach-malta",
+    name: "Malta",
+    lat: 39.6590,
+    lng: -81.8642,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Malta, the village in Morgan County, on the west side of the Muskingum River, opposite McConnelsville. Opposite stays. I will not move that village. Not the island. The picture is a bridge that connects them. Connects stays. If you stay on the road, I'll start at the naming.",
+    long: "",
+    names: ["Malta"]
+  },
+  {
+    id: "malta-1816",
+    name: "Commemoration",
+    lat: 39.6517,
+    lng: -81.8642,
+    radius: 40,
+    short: "The encyclopedia says it was laid out in 1816 and named by an early settler, during his time as a sailor. During his time stays. Another page names him, and a son-in-law, and says the name is a commemoration. Commemoration stays. Son-in-law stays. I will not move the island, or the sea. The first plat had one hundred fourteen lots. A later company added thirty-eight. I will not average them. The census says five hundred fifty-nine people in 2020. The box will not add up if I force the water into the total. I will not repair it. It is six hundred sixty-nine feet up. The picture is the bridge. This pin is the village.",
+    long: "",
+    names: ["Malta"]
+  },
+  {
+    id: "malta-dungeon",
+    name: "Believed",
+    lat: 39.6512,
+    lng: -81.8634,
+    radius: 40,
+    short: "A stone jail is believed to date from the eighteen thirties. Believed stays. Another page says confined between 1833 and 1839. Between stays. I will not average them. It was later moved onto Main Street. Later stays. A writer’s years are printed, 1860 to 1945. Living from stays. A site a short drive away does not move. Short drive stays. I will not move McConnelsville, or the island, or a bridge the page does not place here. The next place, when you want it, is Malvern.",
+    long: "",
+    names: ["Malta"]
+  },
+
+
+
+
 
 
 

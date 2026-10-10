@@ -24052,6 +24052,518 @@ STORIES.push(
     names: ["Lincoln Heights"]
   },
 
+  {
+    id: "approach-lincoln-village",
+    name: "Lincoln Village",
+    lat: 39.9610,
+    lng: -83.1278,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Lincoln Village, the census place in Prairie Township, Franklin County. Not Columbus, which borders it on three sides. Not either Lincoln Heights. It was started in 1955. The page puts quotes on the word village. The quotes stay. If you stay on the road, I'll start at the year.",
+    long: "",
+    names: ["Lincoln Village"]
+  },
+  {
+    id: "lincoln-village-1955",
+    name: "Would Become",
+    lat: 39.9531,
+    lng: -83.1278,
+    radius: 40,
+    short: "The encyclopedia says it was started in 1955, by a real-estate arm of an insurance company. A man aspired to a suburban \"village\" from the early nineteen forties. The quotes stay. Early stays. He headed what would become the company from 1920 to 1948. Would become stays. I do not have his birth or his death. The grading was finished in 1953, on farmland the page puts in western Columbus. Western stays. I will not make the city the township. The census says nine thousand seven hundred two people in 2020. Another page says nine thousand five hundred forty-six. I will not average them. It was built for ten thousand. For stays. I will not make that the census. The box and the geography line do not agree on the kilometers. I will not average them. An older page says one and nine tenths of a square mile. I will not average that either. The picture is a sign and a gateway. It is nine hundred nine feet up. I did not see a postal code. This pin is the census place.",
+    long: "",
+    names: ["Lincoln Village"]
+  },
+  {
+    id: "lincoln-village-park",
+    name: "Citation Needed",
+    lat: 39.9526,
+    lng: -83.1270,
+    radius: 40,
+    short: "The page lists a wooded park, and a twenty-acre civic center. Wooded stays. The civic-center sentence is tagged citation needed. The tag stays. So is the sentence that quotes a balance wheel, and Communism. I will not make that a battle, and I will not move Europe or Asia. An older point does not sit on this one. I will not average them. There is no nation, and no fight here. The next place, when you want it, is Lindsey.",
+    long: "",
+    names: ["Lincoln Village"]
+  },
+
+  {
+    id: "approach-lindsey",
+    name: "Lindsey",
+    lat: 41.4290,
+    lng: -83.2211,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Lindsey, the village in Washington Township, Sandusky County. Not Fremont. Not Detroit, and not Cleveland. It is near the halfway of that road. Near stays. Halfway stays. I will not measure it. It was platted under another name. If you stay on the road, I'll start at that name.",
+    long: "",
+    names: ["Lindsey"]
+  },
+  {
+    id: "lindsey-1853",
+    name: "The Latter Name",
+    lat: 41.4217,
+    lng: -83.2211,
+    radius: 40,
+    short: "The encyclopedia says it was originally called Washington, and under the latter name it was platted in 1853. Latter stays. I will not make the two names one. The township is also Washington. I will not say it was renamed. The census says four hundred fifty-seven people in 2020. A rebased row prints four hundred fifty-four. I will not average them. The box says four and five hundredths of a square kilometer. The geography line says four and four. I will not average them. The box says six hundred seventeen feet. A data page says one hundred eighty-nine metres, plus or minus one. I will not average them. The picture is Main Street. A file says South Main. I will not make them one. This pin is the village.",
+    long: "",
+    names: ["Lindsey"]
+  },
+  {
+    id: "lindsey-trees",
+    name: "Designated",
+    lat: 41.4212,
+    lng: -83.2203,
+    radius: 40,
+    short: "A foundation has designated the village a Tree City. Designated stays. I do not have the year, and I will not call it a park. The box calls a council member a city officer. City stays. I do not have his years. There is no nation, and no battle. I will not move Fremont, or the city of Sandusky. The next place, when you want it, is Linndale.",
+    long: "",
+    names: ["Lindsey"]
+  },
+
+  {
+    id: "approach-linndale",
+    name: "Linndale",
+    lat: 41.4520,
+    lng: -81.7675,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Linndale, the village in Cuyahoga County. Not downtown Cleveland. Not Brooklyn, which is one neighbor, and not Brooklyn Township, which is the older name of the ground. I will not make them one. The two n's stay. It was incorporated in 1902. If you stay on the road, I'll start at the office.",
+    long: "",
+    names: ["Linndale"]
+  },
+  {
+    id: "linndale-1902",
+    name: "Opened, and Closed",
+    lat: 41.4442,
+    lng: -81.7675,
+    radius: 40,
+    short: "A directory says it does not have a founding date, and that you might consider an office. Might stays. The office opened in 1873, and the same page says it closed in 1873. I will not average them. The village was incorporated in 1902. A man named Linn sought the independence. Sought stays. A page says he would be the advocate. Would stays. I do not have his years. The census says one hundred eight people in 2020. A city encyclopedia prints one hundred eighty, and it does not date it. I will not average them. Its percents do not add to the whole. I will not fill them. The place is eight hundredths of a square mile. One page says less than a dozen blocks. Less than stays. A directory says seven hundred sixty feet. The page prints two points. I will not average them. This pin is the village.",
+    long: "",
+    names: ["Linndale"]
+  },
+  {
+    id: "linndale-site",
+    name: "A Common Site",
+    lat: 41.4437,
+    lng: -81.7667,
+    radius: 40,
+    short: "The road cleaves the village almost exactly in half. Almost stays. Exactly stays. Speed traps became a common site under the overpass. I will not repair site. For a time, eighty percent of the income was believed to come from fines. Believed stays. Another page says the fines have provided eighty percent of the budget. I will not average believed and provided. The quotes on laying low stay. I will not move Cleveland, or the terminal, or Brooklyn. There is no person with years, no yard I can name, and no battle. The next place, when you want it, is Lithopolis.",
+    long: "",
+    names: ["Linndale"]
+  },
+
+  {
+    id: "approach-lithopolis",
+    name: "Lithopolis",
+    lat: 39.8190,
+    lng: -82.8153,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Lithopolis, the village in Fairfield County and in Franklin County. Not Columbus. A directory says primarily one county, and a portion in the other. Primarily stays. Portion stays. It was laid out under another name. If you stay on the road, I'll start at the two years.",
+    long: "",
+    names: ["Lithopolis"]
+  },
+  {
+    id: "lithopolis-1815",
+    name: "The Latter Name",
+    lat: 39.8111,
+    lng: -82.8153,
+    radius: 40,
+    short: "The encyclopedia says it was Centerville, and under the latter name it was laid out in 1815. Latter stays. A paper says 1814, on former Congressional land. Former stays. I will not average 1814 and 1815. The same paper says the name changed in 1836. I will not make that the plat. The office has been open since 1827. A directory says it does not have a founding date, and that you might consider the office. Might stays. The encyclopedia calls it a city, presently, and also a village. City stays. Presently stays. The name translates to \"stone city.\" The quotes stay. The census says two thousand one hundred thirty-four people in 2020. A rebased row prints two thousand one hundred fifty-one. I will not average them. The box says two and twenty-seven hundredths of a square mile. The geography line says two and two hundredths, all land. I will not average them. One height is eight hundred seven feet. Another is eight hundred forty. I will not average them. The picture is Columbus Street. I will not move the city. This pin is the village.",
+    long: "",
+    names: ["Lithopolis"]
+  },
+  {
+    id: "lithopolis-square",
+    name: "Not Developed",
+    lat: 39.8106,
+    lng: -82.8145,
+    radius: 40,
+    short: "A paper says the hall and the market were not developed, and the ground turned into a public square. Not developed stays. The cemetery was established in 1830. A recollection calls it a commanding hill, and a fitting home for the dead. Recollection stays. Fitting stays. The quarry is in a nearby ravine. Nearby stays. I will not move it. One title says Stones. A heading says Stone. I will not average them. There is no person with years, no nation, and no battle. The next place, when you want it, is Little Hocking.",
+    long: "",
+    names: ["Lithopolis"]
+  },
+
+  {
+    id: "approach-little-hocking",
+    name: "Little Hocking",
+    lat: 39.2680,
+    lng: -81.7019,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Little Hocking, the census place in southern Belpre Township, Washington County. Not Marietta. Not the city of Belpre. It sits where the Little Hocking meets the Ohio. Meets stays. The name is from the nearby river. Nearby stays. I will not average them. If you stay on the road, I'll start at the plat.",
+    long: "",
+    names: ["Little Hocking"]
+  },
+  {
+    id: "little-hocking-1875",
+    name: "Years Prior",
+    lat: 39.2606,
+    lng: -81.7019,
+    radius: 40,
+    short: "The encyclopedia says it was platted in 1875, although a settlement had existed for years prior. Although stays. For years prior stays. A secondary page says the earliest known settlement was 1798. Earliest stays. Known stays. I will not make them one year. The encyclopedia says the office has been here since 1824. Another page says the name Little Hocking was established in 1879, and also that it was renamed then. I will not average established and renamed. The census says two hundred forty-four people in 2020. A survey is printed as five hundred seventy-two. I will not average them. The encyclopedia prints no area. A page says approximately four tenths of a square mile. Approximately stays. It is six hundred seventy-three feet up. I did not see a second height. The picture is a location. This pin is the census place.",
+    long: "",
+    names: ["Little Hocking"]
+  },
+  {
+    id: "little-hocking-word",
+    name: "Place of Gourds",
+    lat: 39.2601,
+    lng: -81.7011,
+    radius: 40,
+    short: "A page says the word Hocking stems from a Lenape word, also called Delaware, meaning \"place of gourds.\" The quotes stay. Regional stays. I will not move a camp here. The same page says a man built a house that functioned as a tavern. Functioned stays. I will not say it is still standing, and I do not have his years. I will not move Marietta, or the longer Hocking. There is no yard, and no battle. The next place, when you want it, is Lloydsville.",
+    long: "",
+    names: ["Little Hocking"]
+  },
+
+  {
+    id: "approach-lloydsville",
+    name: "Lloydsville",
+    lat: 40.0780,
+    lng: -80.9983,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Lloydsville, the unincorporated community in Belmont County. Not St. Clairsville. A page also calls it a census place. I will not make the labels one. A former spelling drops a letter. Former stays. If you stay on the road, I'll start at the name.",
+    long: "",
+    names: ["Lloydsville"]
+  },
+  {
+    id: "lloydsville-1831",
+    name: "Or",
+    lat: 40.0700,
+    lng: -80.9983,
+    radius: 40,
+    short: "The encyclopedia says Lloydsville or Loydsville was laid out in 1831 by Joshua Loyd, and named for him. Or stays. His name is printed Loyd. I will not add a letter. I do not have his years. An office called Lloydsville opened in 1832 and was discontinued in 1907. Called stays. Discontinued stays. The census says two hundred eighty people in 2020. The page calls all of them rural. Earlier counts are printed, and the page says they were recalculated. Recalculated stays. I will not average them. I did not see an area, a height, or a present postal code. This pin is the community.",
+    long: "",
+    names: ["Lloydsville"]
+  },
+  {
+    id: "lloydsville-1866",
+    name: "Aged",
+    lat: 40.0695,
+    lng: -80.9975,
+    radius: 40,
+    short: "A page says Lora Mary Haines was born here on July 17, 1866, and died on February 10, 1946, aged 79, in Cooksburg, Pennsylvania. Aged stays. I will not move Cooksburg, or the cemetery. She was the twelfth president general, from 1923 to 1926. Twelfth stays. I will not move the war the society remembers. The church in the marriage line is in Cambridge. I will not move it. There is no yard here, and no nation. The next place, when you want it, is Lockington.",
+    long: "",
+    names: ["Lloydsville"]
+  },
+
+  {
+    id: "approach-lockington",
+    name: "Lockington",
+    lat: 40.2150,
+    lng: -84.2358,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Lockington, the village in Washington Township, Shelby County, along Loramie Creek. Not Sidney. Not Piqua, though the mail goes through that branch. Not the other Washington Township, in Miami County. It was originally Locksport. Originally stays. If you stay on the road, I'll start at the locks.",
+    long: "",
+    names: ["Lockington"]
+  },
+  {
+    id: "lockington-1837",
+    name: "Help",
+    lat: 40.2075,
+    lng: -84.2358,
+    radius: 40,
+    short: "The encyclopedia says it was platted in 1837, approved on September 9, 1857, and recorded on January 4, 1858. The first elections were help on April 1. I will not repair help. The village page says held, and it says survery. I will not repair that either. The box says established on January 1, 2016. I will not average 2016 with 1858. The office opened on June 28, 1847, and remained until August 30, 1914. Remained stays. It was originally Locksport, due to the locks. Due to stays. The census says one hundred sixty-two people in 2020. The village is eighty-five thousandths of a square mile. It is nine hundred twenty-nine feet up. I did not see a second count, a second set of miles, or a second height. The picture is one of the locks. One of stays. This pin is the village.",
+    long: "",
+    names: ["Lockington"]
+  },
+  {
+    id: "lockington-locks",
+    name: "Five, and Seven",
+    lat: 40.2070,
+    lng: -84.2350,
+    radius: 40,
+    short: "The village page says five locks lifted the water sixty feet, by an aquaduct. I will not repair the spelling. The locks page says seven, and it spells aqueduct. I will not average five and seven. They opened for regular use in 1845. Regular stays. A mill burned around 1900. Around stays. Boats typically took several hours. Typically stays. Idle stays. I will not move Sidney, or Piqua, or Lewistown, or the other Washington Township. There is no person with years, no nation, and no battle. The next place, when you want it, is Lockland.",
+    long: "",
+    names: ["Lockington"]
+  },
+
+  {
+    id: "approach-lockland",
+    name: "Lockland",
+    lat: 39.2350,
+    lng: -84.4564,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Lockland, the village in Hamilton County, north of Cincinnati. Not the city. Not Lockington. I will not move that village's locks. The box says platted in 1828. The village page says plotted. I will not average the verbs. If you stay on the road, I'll start at the gates.",
+    long: "",
+    names: ["Lockland"]
+  },
+  {
+    id: "lockland-1828",
+    name: "Platted, and Plotted",
+    lat: 39.2278,
+    lng: -84.4564,
+    radius: 40,
+    short: "The box says platted in 1828, and incorporated in 1849. The village page says plotted in 1828, after four locks, and that the one hundred fiftieth year was celebrated in 1999. Plotted stays. Four stays. Celebrated stays. The encyclopedia says the name is related to the first set of lock gates. Related stays. First set stays. I will not average four and the first set. A directory says it does not have a founding date, and that an office opened in 1858 and closed in 1902. I will not average open and closed. The census says three thousand five hundred fourteen people in 2020. I will not average that with the estimate. The box says one and twenty-two hundredths of a square mile. The geography line says one and twenty-three. I will not average them. One height is five hundred fifty-four feet. Another is five hundred forty. I will not average them. The picture is the entrance, along the Benson Street Bridge. This pin is the village.",
+    long: "",
+    names: ["Lockland"]
+  },
+  {
+    id: "lockland-1929",
+    name: "Officially",
+    lat: 39.2273,
+    lng: -84.4556,
+    radius: 40,
+    short: "The canal was officially halted in 1929. Officially stays. The village page says the road has since replaced it, and that we capitalize on that. Since stays. Capitalize stays. I will not measure strong. The original factory and office still stand. Still stays. By 2015 a demolition was complete. Complete stays. I will not make them the same building. I will not move Cincinnati, or Lockington, or New Orleans, or New York. There is no person with years, no nation, and no battle. The next place, when you want it, is Lodi.",
+    long: "",
+    names: ["Lockland"]
+  },
+
+  {
+    id: "approach-lodi",
+    name: "Lodi",
+    lat: 41.0430,
+    lng: -82.0069,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Lodi, the village in Harrisville Township, Medina County. Not the City of Medina. City stays. It is southwest of that city. Southwest stays. It was originally Harrisville. Originally stays. If you stay on the road, I'll start at the two years.",
+    long: "",
+    names: ["Lodi"]
+  },
+  {
+    id: "lodi-1811",
+    name: "Oldest",
+    lat: 41.0353,
+    lng: -82.0069,
+    radius: 40,
+    short: "The box says founded in 1811, and that it is the oldest settlement in the county. Oldest stays. A timeline says the first house was 1810. First stays. I will not average them. The land later to become the county is dated 1812. Later stays. A timeline says the county was formed in 1818. I will not average them. The box says incorporated in 1891. A timeline says 1892. I will not average them. It was named in honor of a judge. In honor stays. I do not have his years. The census says two thousand seven hundred forty-six people in 2020. The box and the geography line do not agree on the water. I will not average them. It is nine hundred six feet up. The picture is Community Park, downtown. A timeline says Central Park was deeded. I will not make them one park. The sound is printed LOH-dye. This pin is the village.",
+    long: "",
+    names: ["Lodi"]
+  },
+  {
+    id: "lodi-indirectly",
+    name: "The Story Goes",
+    lat: 41.0348,
+    lng: -82.0061,
+    radius: 40,
+    short: "The encyclopedia says the name echoes a city in northern Italy, and a victory in 1796. Echoes stays. I will not move Italy. A village page says the name is owed indirectly, and the story goes that someone starting reciting a poem. Indirectly stays. The story goes stays. Starting stays. A less popular version says Lo-di, for the low divide. Less popular stays. The hyphen stays. I will not average them. Two homes were part of the Underground Railroad. I will not invent a battle here. The road paragraph is tagged citation needed. The tag stays. There is no person with years, and no nation. The next place, when you want it, is Logan.",
+    long: "",
+    names: ["Lodi"]
+  },
+
+  {
+    id: "approach-logan",
+    name: "Logan",
+    lat: 39.5420,
+    lng: -82.3906,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Logan, the city in Hocking County, and the county seat. Not Logan County. Not Columbus, which is about forty-three miles off. About stays. Not the elm. The town was named in honor of a chief. In honor stays. If you stay on the road, I'll start at the year he was named.",
+    long: "",
+    names: ["Logan"]
+  },
+  {
+    id: "logan-1816",
+    name: "In Honor",
+    lat: 39.5344,
+    lng: -82.3906,
+    radius: 40,
+    short: "The encyclopedia says residents named it in honor of Chief Logan, of the Mingo people, and that he and his band lived in this area. This area stays. An older page says tribe, and Indian. I will not average them. I do not have his years. A governor laid out the village in 1816. Another page says established. A paper says the platting was completed. I will not average the verbs. Two men are said to have settled the present site in 1798. Present stays. I will not make that the plat. The census says seven thousand two hundred ninety-six people in 2020. A rebased row prints seven thousand three hundred two. I will not average them. The table skips years. The dashes stay. It is about forty-three miles from Columbus. An older page says forty-eight. I will not average them. The picture is West Main Street, in 2006. It is seven hundred forty-two feet up. This pin is the city.",
+    long: "",
+    names: ["Logan"]
+  },
+  {
+    id: "logan-falls",
+    name: "A Mile Above",
+    lat: 39.5339,
+    lng: -82.3898,
+    radius: 40,
+    short: "A paper puts the lower falls a mile above the city, and a fall of about five feet. A mile stays. About stays. I will not move the falls. The city was the first to install a double roundabout, officially opened on December 4, 2013. Officially stays. Double stays. Towns appeared and vanished as quickly as the mines. As quickly as stays. A museum is just outside, and it is reputed to be the largest of its kind. Reputed stays. Just outside stays. I will not move it, or the elm, or Columbus. There is no person with years, and no battle. The next place, when you want it, is Logan Elm Village.",
+    long: "",
+    names: ["Logan"]
+  },
+
+  {
+    id: "approach-logan-elm-village",
+    name: "Logan Elm Village",
+    lat: 39.5780,
+    lng: -82.9472,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Logan Elm Village, the census place in Circleville Township, Pickaway County. Not the city of Circleville. Not the city of Logan. I will not average the two places that name the chief. The census place is near the site of the elm. Near stays. If you stay on the road, I'll start at the tree.",
+    long: "",
+    names: ["Logan Elm Village"]
+  },
+  {
+    id: "logan-elm-village-near",
+    name: "Near the Site",
+    lat: 39.5703,
+    lng: -82.9472,
+    radius: 40,
+    short: "The encyclopedia says the census place is near the site, and that \"Logan elm\" originally meant one large tree, where Logan the Orator gave a speech. Originally stays. Orator stays. The census says one thousand forty-five people in 2020. A line says one thousand sixty-two in 2000. I will not average them. The box says thirty-six hundredths of a square mile. The geography line says one half, all land. I will not average them. It is six hundred ninety-two feet up. I did not see a postal code of its own. A marker page puts the mail in Circleville's area. I will not invent one. The pictures are maps. This pin is the census place. I will not move the tree onto it.",
+    long: "",
+    names: ["Logan Elm Village"]
+  },
+  {
+    id: "logan-elm-village-tradition",
+    name: "According to Tradition",
+    lat: 39.5698,
+    lng: -82.9464,
+    radius: 40,
+    short: "The elm page says, according to tradition, a chief of the Mingo spoke under the tree in 1774. According to tradition stays. A marker says according to legend, and Mingoes. I will not average them. One height is sixty-five feet. A marker says one hundred four. I will not average them. The tree died in 1964. I will not say it is standing. Said to be the most famous stays, and the tag stays. The stone says the treaty was concluded under the tree. A marker says he refused to attend. I will not average them. I will not move Circleville, or the city of Logan, or Point Pleasant. There is no person with years. The next place, when you want it, is London.",
+    long: "",
+    names: ["Logan Elm Village"]
+  },
+
+  {
+    id: "approach-london",
+    name: "London",
+    lat: 39.8950,
+    lng: -83.4422,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on London, the city in Madison County, and the county seat. The page says in and the county seat. In and stays. Not Columbus, which is about twenty-five miles off. About stays. Not England. It is unclear why the name is London. Unclear stays. If you stay on the road, I'll start at the two years.",
+    long: "",
+    names: ["London"]
+  },
+  {
+    id: "london-1811",
+    name: "Or",
+    lat: 39.8875,
+    lng: -83.4422,
+    radius: 40,
+    short: "The encyclopedia says it was established in 1811, to be the seat. An older page says 1810 or 1811. Or stays. I will not average them. A page says they choose the tract. I will not repair choose. A deed copy says the 13\" of September, 1811, and it prints Piatt. I will not repair it. The town or the city stays, and the capitals stay. No reason was given, at least in the official record, for that paticular name. Paticular stays. It has stuck. Stuck stays. Many people believe it was named for England. Believe stays. Other people speculate. Speculate stays. I will not average them. The census says ten thousand two hundred seventy-nine people in 2020. A page prints 8, 771 for 2000, with a space. I will not close it. The box and the geography line do not agree on the miles. I will not average them. It is one thousand forty-seven feet up. The picture is Main Street. This pin is the city.",
+    long: "",
+    names: ["London"]
+  },
+  {
+    id: "london-burying",
+    name: "Allies",
+    lat: 39.8870,
+    lng: -83.4414,
+    radius: 40,
+    short: "A lot was reserved for burying ground, and the streets and the Allies are for the public. Allies stays. I will not repair it. The first church was a small log building in 1820. First stays. A factory has made a pad here since 1921. Since stays. The motto says promising. I will not measure it. I will not move Columbus, or England, or the fish hatchery. There is no person with years, no nation, and no battle. The next place, when you want it, is Lore City.",
+    long: "",
+    names: ["London"]
+  },
+
+  {
+    id: "approach-lore-city",
+    name: "Lore City",
+    lat: 39.9910,
+    lng: -81.4600,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Lore City, the village in Guernsey County. The box puts it in three townships. I will not drop one. Not Cambridge. Leatherwood Creek flows through it. Flows through stays. It was not platted until 1903. Not stays. Until stays. If you stay on the road, I'll start at the older name.",
+    long: "",
+    names: ["Lore City"]
+  },
+  {
+    id: "lore-city-1903",
+    name: "Not Until",
+    lat: 39.9833,
+    lng: -81.4600,
+    radius: 40,
+    short: "The encyclopedia says an office has been here since 1876, and the town was not platted until 1903, and it was incorporated in 1906. A book says the older name was Campbell's Station, changed in 1876. Changed stays. A gazetteer prints Campbells, with no apostrophe. I will not add one. The book says the plat was July 8, 1903, in Center Township, right on the border. Right on stays. A list says June 8, in Centre Township. I will not average the days, or the spellings. The census says two hundred eighty-two people in 2020. The table starts at six hundred nine, in 1910. I will not average them. The miles agree. A density is printed that I will not make the quotient. It is eight hundred forty-three feet up. The picture is the post office on Main Street. Another point does not sit on this one. I will not average them. This pin is the village.",
+    long: "",
+    names: ["Lore City"]
+  },
+  {
+    id: "lore-city-creek",
+    name: "Upsidedown",
+    lat: 39.9828,
+    lng: -81.4592,
+    radius: 40,
+    short: "A note says to think of an upsidedown T, and the village on the intersection. Think of stays. Upsidedown stays. I will not repair it. The creek flows through. I will not move Cambridge, or Senecaville, or Walhonding, or Indian Camp. There is no person with years, no yard, no nation, and no battle. I will not invent a story from the word Lore. The next place, when you want it, is Loudonville.",
+    long: "",
+    names: ["Lore City"]
+  },
+
+  {
+    id: "approach-loudonville",
+    name: "Loudonville",
+    lat: 40.6350,
+    lng: -82.2472,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Loudonville, the village in Ashland and Holmes counties. I will not drop Holmes. Not the city of Ashland. Not London. It is nicknamed the canoe capital, for the many liveries on the Mohican. Many stays. If you stay on the road, I'll start at the name.",
+    long: "",
+    names: ["Loudonville"]
+  },
+  {
+    id: "loudonville-1814",
+    name: "Louden",
+    lat: 40.6272,
+    lng: -82.2472,
+    radius: 40,
+    short: "The encyclopedia says two men laid it out in 1814, starting with twelve plots, and the namesake is James Loudon Priest. Starting stays. An older page spells him Louden, and a newspaper says the plat was known as Loudenville, in the summer. Known as stays. Summer stays. I will not average the spellings. The second man is Jelloway on one page, and Butler on another. I will not average them. Sometime before he officially owned it stays. Surmised stays. An office called Loudonville has been open since 1820. Called stays. I will not make that the plat. It was officially incorporated on March 27, 1850. Officially stays. The first burial was in 1815. First stays. The census says two thousand seven hundred eighty-six people in 2020. I will not average the estimates. The box and the geography line do not agree on the miles. I will not average them. One height is nine hundred seventy-four feet. Another is nine hundred fifty. I will not average them. The picture is downtown, in 2007. The sound is printed LOUD-uhn-vil. This pin is the village.",
+    long: "",
+    names: ["Loudonville"]
+  },
+  {
+    id: "loudonville-flxible",
+    name: "Flxible",
+    lat: 40.6267,
+    lng: -82.2464,
+    radius: 40,
+    short: "The page says the place was first inhabited by Delaware Nation peoples. Peoples stays. I will not add a site. A company spelled Flxible was here from 1913 to 1996. I will not repair the spelling. A theatre was almost closed. Almost stays. One page says the nineteen hundreds. Another says the nineteen nineties. I will not average them. The village is also home to a state park. Home to stays. I will not move the forest onto the street. I will not move Mansfield, or Ashland, or London. There is no person with years, and no battle. The next place, when you want it, is Louisville.",
+    long: "",
+    names: ["Loudonville"]
+  },
+
+  {
+    id: "approach-louisville",
+    name: "Louisville",
+    lat: 40.8430,
+    lng: -81.2536,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Louisville, the city in Stark County. Not Canton, which is seven miles off. Not the city in Kentucky. The sound is printed LOO-iss-vil. It was called Lewisville, and then the spelling was changed. Changed stays. If you stay on the road, I'll start at the two men.",
+    long: "",
+    names: ["Louisville"]
+  },
+  {
+    id: "louisville-1834",
+    name: "Henry, and Frederick",
+    lat: 40.8356,
+    lng: -81.2536,
+    radius: 40,
+    short: "The pages say it was formally settled on October 8, 1834, named for a son, and called Lewisville. Formally stays. Called stays. The office opened in 1837, and the spelling changed because Ohio already had a Lewisville. Already stays. I will not move that town. One page says the second settler was Henry. The encyclopedia says Frederick, a French Huguenot. I will not average them. A similar-sounding surveyor is tagged citation needed. The tag stays. I will not make the two Lewises one. It was officially incorporated on April 1, 1872. Officially stays. The city page says the status changed in the nineteen fifties. The encyclopedia says the vote was 1960. I will not average them. An older page says changed form a village. Form stays. The census says nine thousand five hundred twenty-one people in 2020. I will not average the older counts. The box and the geography line do not agree on the miles. I will not average them. It is one thousand ninety-nine feet up. The picture is downtown. The sound is printed LOO-iss-vil. This pin is the city.",
+    long: "",
+    names: ["Louisville"]
+  },
+  {
+    id: "louisville-constitution",
+    name: "Originator",
+    lat: 40.8351,
+    lng: -81.2528,
+    radius: 40,
+    short: "The nickname is The Constitution Town. The stays. A page says the city is the originator. Originator stays. I will not average a city day, a state day, and a day for the United States. Four markers stand at the four entrances. Four stays. Even when every other city in the county lost people, this one continued. Even stays. I will not move Canton, or Massillon, or Harrisburg, or Kentucky, or the other Lewisville. There is no person with years, no nation, and no battle. The next place, when you want it, is Loveland.",
+    long: "",
+    names: ["Louisville"]
+  },
+
+  {
+    id: "approach-loveland",
+    name: "Loveland",
+    lat: 39.2740,
+    lng: -84.2653,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Loveland, the city in Hamilton, Clermont, and Warren counties. I will not drop one. Not Cincinnati. The city limits are about fifteen miles off. About stays. It straddles the Little Miami. Straddles stays. Not Loveland Park. If you stay on the road, I'll start at the two dates.",
+    long: "",
+    names: ["Loveland"]
+  },
+  {
+    id: "loveland-1876",
+    name: "Or",
+    lat: 39.2661,
+    lng: -84.2653,
+    radius: 40,
+    short: "The box says settled in 1795, and incorporated on May 16, 1876. The history says May 12 or 16. Or stays. I will not average them. An office called Obionsville changed its name to Loveland on January 14, 1848. Changed stays. A town called Paxton was laid out that same year. That same year stays. The section beside it was eventually named Loveland. Eventually stays. It was not officially named until 1863. Officially stays. Although stays. I will not average 1848 and 1863. The city was chartered on July 25, 1961, and it withdrew from the townships in 1975. Withdrew stays. The census says thirteen thousand three hundred seven people in 2020. I will not average the estimate. The box and the geography line do not agree on the miles, or the height. I will not average them. The picture is downtown. The avenue was originally Jackson Street. Originally stays. This pin is the city.",
+    long: "",
+    names: ["Loveland"]
+  },
+  {
+    id: "loveland-paxton",
+    name: "Credited",
+    lat: 39.2656,
+    lng: -84.2645,
+    radius: 40,
+    short: "A page gives Colonel Thomas Paxton the years 1739 to 1813, and says he is credited with many firsts. Credited stays. The quotes stay. He is buried in a family cemetery, on a property now known as White Pillars. Now known stays. The two sides of the river were once called East and West. Once stays. I will not average them. A castle sits on multiple plots. Multiple stays. I will not invent the promoter. I will not move Cincinnati, or Xenia, or Loveland Park. There is no nation, and no battle. The next place, when you want it, is Loveland Park.",
+    long: "",
+    names: ["Loveland"]
+  },
+
 
 
 

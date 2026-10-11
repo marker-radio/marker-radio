@@ -26771,6 +26771,1800 @@ STORIES.push(
     names: ["Miami Heights"]
   },
 
+  {
+    id: "approach-miamitown",
+    name: "Miamitown",
+    lat: 39.2240,
+    lng: -84.7094,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Miamitown, the census place in western Whitewater Township, Hamilton County. Western stays. Another page says east. An older page says northeastern. I will not average them. I will not make the township this place. If you stay on the road, I'll start at the day.",
+    long: "",
+    names: ["Miamitown"]
+  },
+  {
+    id: "miamitown-1816",
+    name: "The Twenty-Second",
+    lat: 39.2169,
+    lng: -84.7094,
+    radius: 40,
+    short: "One page says it was founded in 1816. An older page says it was laid off on the twenty-second of April, 1816. Laid off stays. I will not average the words. Named after the nearby river. Nearby stays. I will not make the river a nation. An old book says it promises to become a place of considerable business. Promises stays. The census says one thousand two hundred fifty-six people in 2020. I will not average that with the older counts. The water is not nothing. Sixteen miles, and twenty-six kilometers, from downtown. An older page says fifteen miles from the mouth. I will not average them. I did not see a height. This pin is the place.",
+    long: "",
+    names: ["Miamitown"]
+  },
+  {
+    id: "miamitown-never",
+    name: "Never",
+    lat: 39.2164,
+    lng: -84.7086,
+    radius: 40,
+    short: "In 1817 a general read a declaration and offered a toast. Never stays. For those days stays. I will not invent his years, and I will not invent a battle. A station stood opposite, on another township. Opposite stays. I will not move it. One mill is a flour mill. Another is a flouring-and saw-mill. The hyphen stays. I will not average them. There is no yard. The next place, when you want it, is Miamiville.",
+    long: "",
+    names: ["Miamitown"]
+  },
+
+  {
+    id: "approach-miamiville",
+    name: "Miamiville",
+    lat: 39.2200,
+    lng: -84.3000,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Miamiville, unincorporated, and a census place, in western Miami Township, Clermont County. Western stays. I will not make the township this place. A heading prints another spelling. I will not average them. If you stay on the road, I'll start at the two years.",
+    long: "",
+    names: ["Miamiville"]
+  },
+  {
+    id: "miamiville-1849",
+    name: "Before the Year Was Over",
+    lat: 39.2122,
+    lng: -84.3000,
+    radius: 40,
+    short: "The encyclopedia says it was laid out in 1849, and named for the nearby river. Nearby stays. I will not make the river a nation. A page says Sept. 29, 1849, and seventeen lots. The abbreviation stays. Originally stays. The first store opened before the year was over. Before stays. An office has been in operation since 1848. Since stays. I will not average the years. The census says it had two hundred five people in 2020. Had stays. I did not see an area. It is five hundred eighty-seven feet up. This pin is the place.",
+    long: "",
+    names: ["Miamiville"]
+  },
+  {
+    id: "miamiville-raids",
+    name: "Raids",
+    lat: 39.2117,
+    lng: -84.2992,
+    radius: 40,
+    short: "A small role stays. Known as Morgan's Raids stays. I will not repair the plural, and I will not move the places they marched toward. A page prints a digit in the name where a letter belongs. I will not repair it. Passed through stays. A cemetery is here. Buried stays. I will not invent the years, and I will not move the other town. Believed stays. May stays. Low profile stays. I will not untangle the decades. There is no nation. The next place, when you want it, is Middlebranch.",
+    long: "",
+    names: ["Miamiville"]
+  },
+
+  {
+    id: "approach-middlebranch",
+    name: "Middlebranch",
+    lat: 40.9040,
+    lng: -81.3322,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Middlebranch, the census place in northeastern Plain Township, Stark County. Northeastern stays. Another page says northeast. I will not average them. About seven miles Northeast of Canton. About stays. The capital stays. I will not move that city. If you stay on the road, I'll start at the space in the name.",
+    long: "",
+    names: ["Middlebranch", "Middle Branch"]
+  },
+  {
+    id: "middlebranch-1844",
+    name: "The Space",
+    lat: 40.8969,
+    lng: -81.3322,
+    radius: 40,
+    short: "An office called Middle Branch was established in 1844, and the name was changed to Middlebranch in 1893. Called stays. Changed stays. I will not average the spellings, and I will not average the years. It takes its name from the nearby creek, and the creek keeps the space. Nearby stays. The census says two thousand one hundred seventeen people in 2020. The box prints a total, and it does not split the water. I will not invent the split. It is one thousand one hundred nineteen feet up. This pin is the place.",
+    long: "",
+    names: ["Middlebranch", "Middle Branch"]
+  },
+  {
+    id: "middlebranch-school",
+    name: "After That",
+    lat: 40.8964,
+    lng: -81.3314,
+    radius: 40,
+    short: "A school sentence does not finish itself. I will not finish it. It functioned as a high school, then a middle school, then an elementary school. After that stays. Until stays. I will not average them. Trains often run through the area. Often stays. Bound for other cities stays. I will not name them. There is no person with years, no yard, no nation, and no battle. The next place, when you want it, is Middleburg Heights.",
+    long: "",
+    names: ["Middlebranch", "Middle Branch"]
+  },
+
+  {
+    id: "approach-middleburg-heights",
+    name: "Middleburg Heights",
+    lat: 41.3740,
+    lng: -81.8089,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Middleburg Heights, the city in Cuyahoga County. The Heights stays. About eleven miles southwest of downtown Cleveland. About stays. Another page says thirteen. I will not average them, and I will not move that city. If you stay on the road, I'll start at the h.",
+    long: "",
+    names: ["Middleburg Heights"]
+  },
+  {
+    id: "middleburg-heights-1928",
+    name: "Without an H",
+    lat: 41.3667,
+    lng: -81.8089,
+    radius: 40,
+    short: "The box says a village in 1928, and a city in 1961. An encyclopedia says a village in 1927. I will not average the years. A timeline says Middleburgh Heights, and the h stays. In 1960 a council confirms the custom of spelling it without an h. Confirms stays. Growing stays. I will not drop the h from the older pages. The census says sixteen thousand four people in 2020. An estimate prints fifteen thousand five hundred fifty-eight. Estimate stays. The water is not nothing. One page says eight miles. I will not average it. The points do not agree. I will not average them either. This pin is the city.",
+    long: "",
+    names: ["Middleburg Heights", "Middleburgh Heights"]
+  },
+  {
+    id: "middleburg-heights-attempt",
+    name: "The Attempt",
+    lat: 41.3662,
+    lng: -81.8081,
+    radius: 40,
+    short: "An attempt to annex led to an incorporation. Attempt stays. Led stays. The sentence does not add Heights. I will not add it. A cemetery opens in the 1850s. I will not pick a year. Two hundred ninety-four acres stays. I will not move the plant's other name, or the airfield, or Berea. There is no person with years, and no nation. Grew from two thousand five hundred stays. I will not average it with the census. The next place, when you want it, is Middlefield.",
+    long: "",
+    names: ["Middleburg Heights", "Middleburgh"]
+  },
+
+  {
+    id: "approach-middlefield",
+    name: "Middlefield",
+    lat: 41.4680,
+    lng: -81.0711,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Middlefield, the village in Geauga County. I will not make the township this village. Once named Batavia. Once stays. The quotes stay. I will not move Painesville, or Warren, or Cleveland. If you stay on the road, I'll start at the midway.",
+    long: "",
+    names: ["Middlefield", "Batavia"]
+  },
+  {
+    id: "middlefield-1799",
+    name: "Midway",
+    lat: 41.4600,
+    lng: -81.0711,
+    radius: 40,
+    short: "The page says it was established in 1799, and incorporated in 1901. I will not average the years. It was the midway point. Midway stays. A page prints December 1, 1900, and eighty for, and sixty-two against. Against stays. I will not average them. Another line prints a letter out of place, and zeros where letters belong, and no space after a comma. I will not repair them. The census says two thousand seven hundred forty-eight people in 2020. I will not average that with two thousand six hundred ninety, or with two thousand seven hundred. I did not see an area, or a height. This pin is the village.",
+    long: "",
+    names: ["Middlefield"]
+  },
+  {
+    id: "middlefield-few",
+    name: "Very Few",
+    lat: 41.4595,
+    lng: -81.0703,
+    radius: 40,
+    short: "Known for being the center stays. But very few actually live within the limits. But stays. Actually stays. I will not average them. One page says one man built the hotel. Another says another man. I will not average them. The Century stays, and so does the missing The. Burned down twice stays. A camp is in the township. Easternmost stays. I will not move it. There is no person with years, no nation, and no battle. The next place, when you want it, is Middleport.",
+    long: "",
+    names: ["Middlefield"]
+  },
+
+  {
+    id: "approach-middleport",
+    name: "Middleport",
+    lat: 38.0090,
+    lng: -82.0583,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Middleport, the largest village in Meigs County, along the Ohio River. Largest stays. I will not make the township this village, and I will not make it the county seat. The picture is a downtown street in 2007. If you stay on the road, I'll start at the two dates.",
+    long: "",
+    names: ["Middleport"]
+  },
+  {
+    id: "middleport-1820s",
+    name: "Despite",
+    lat: 38.0014,
+    lng: -82.0583,
+    radius: 40,
+    short: "One page says it was founded during the 1820s. During stays. I will not pick a year. Another says 1798. I will not average them. Founded as Sheffield stays. The quotes stay. Also Coalport, and Salisbury. Also stays. Another page says originally a creek settlement, and it lists names the first page does not. Originally stays. Eventually stays. I will not average the lists. The name refers to the city's location, halfway between two cities. City's stays. Halfway stays. I will not move them. The census says two thousand two hundred eight people at the time of 2020. At the time stays. The water is not nothing. I did not see a height. This pin is the village.",
+    long: "",
+    names: ["Middleport", "Sheffield", "Coalport"]
+  },
+  {
+    id: "middleport-entering",
+    name: "From Entering",
+    lat: 38.0009,
+    lng: -82.0575,
+    radius: 40,
+    short: "A cotton mill was built despite the lack. Despite stays. Lack stays. A skirmish on a hill stopped raiders from entering. From entering stays. I will not invent the day. Incidences stays. I will not repair it. Bi-lingual stays. A cemetery is nearby. Nearby stays. I will not move it. There is no person with years, and no nation. The next place, when you want it, is Midland.",
+    long: "",
+    names: ["Middleport"]
+  },
+
+  {
+    id: "approach-midland",
+    name: "Midland",
+    lat: 39.3140,
+    lng: -83.9108,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Midland, the village in Clinton County. I will not make the township this village. Originally called Clinton Valley. Originally stays. The picture is a former station. Former stays. If you stay on the road, I'll start at the name.",
+    long: "",
+    names: ["Midland", "Clinton Valley"]
+  },
+  {
+    id: "midland-called",
+    name: "Ithe",
+    lat: 39.3069,
+    lng: -83.9108,
+    radius: 40,
+    short: "One page says originally called Clinton Valley. Another says originally named, in honor of the county. Called stays. Named stays. In honor stays. I will not average them. In 1886 a page says it was renamed, and it prints an extra letter in a small word. I will not repair it. Eventually the name was shortened to just Midland. Eventually stays. Just stays. A county page says no records are available as to the platting. No records stays. A quote says it was first laid out. First stays. I will not invent the year. The census says three hundred seven people in 2020. I will not average that with three hundred fifteen, or with approximately four hundred. At present stays. All land stays. I did not see a height. This pin is the village.",
+    long: "",
+    names: ["Midland", "Clinton Valley", "Midland City"]
+  },
+  {
+    id: "midland-said-road",
+    name: "The Said Road",
+    lat: 39.3064,
+    lng: -83.9100,
+    radius: 40,
+    short: "Noted for being a great coaling and water station of the said road. Noted for stays. Said stays. A number of men stays. I will not invent the number. Also accommodated stays. The station is former. Former stays. There is no person with years, no yard, no nation, and no battle. I will not move the other stops. The next place, when you want it, is Midvale.",
+    long: "",
+    names: ["Midland"]
+  },
+
+  {
+    id: "approach-midvale",
+    name: "Midvale",
+    lat: 40.4460,
+    lng: -81.3739,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Midvale, the village in Tuscarawas County. The box puts it in three townships. I will not make any one of them this village. Part stays, on one township's page. Halfway between two cities. Halfway stays. I will not move them. If you stay on the road, I'll start at the plat.",
+    long: "",
+    names: ["Midvale"]
+  },
+  {
+    id: "midvale-1888",
+    name: "Halfway",
+    lat: 40.4381,
+    lng: -81.3739,
+    radius: 40,
+    short: "The encyclopedia says it was platted in 1888, and named for its location halfway between two cities. Halfway stays. I will not move them, and I will not add a meaning the page does not print. The census says six hundred seventy-three people in 2020. I will not average that with seven hundred fifty-four. As of stays. All land stays. I did not see a height on the village. An office map prints another point. I will not average them. This pin is the village.",
+    long: "",
+    names: ["Midvale"]
+  },
+  {
+    id: "midvale-part",
+    name: "Part",
+    lat: 40.4376,
+    lng: -81.3731,
+    radius: 40,
+    short: "Part of the village stays in the southeast of one township. Part stays. I will not move the other part. The picture is a town hall. A township page puts an old settlement inside its own boundaries, and it marks the citation as needed. Needed stays. I will not move it. There is no person with years, and no battle. The next place, when you want it, is Midway.",
+    long: "",
+    names: ["Midvale"]
+  },
+
+  {
+    id: "approach-midway",
+    name: "Midway",
+    lat: 39.7410,
+    lng: -83.4767,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Midway, the village in Range Township, Madison County. I will not make the township this village. Also called Sedalia. Also stays. By some sources stays. Officially stays, on the addresses. I will not average the names. If you stay on the road, I'll start at the two Junes.",
+    long: "",
+    names: ["Midway", "Sedalia"]
+  },
+  {
+    id: "midway-1830",
+    name: "Half Way",
+    lat: 39.7331,
+    lng: -83.4767,
+    radius: 40,
+    short: "One page says laid out by two men, and recorded June 13, 1830. Another says the exact date cannot be definitely stated, but a record of June 13, 1833, names three men. Cannot stays. Definitely stays. I will not average the years, or the names. Half-way stays, with the hyphen. Half way stays, as two words. Also a middle point stays. I will not move the cities. The census says two hundred sixty-nine people in 2020. I will not average that with two hundred fifty. As of stays. All land stays. I did not see a height. This pin is the village.",
+    long: "",
+    names: ["Midway", "Sedalia"]
+  },
+  {
+    id: "midway-mister",
+    name: "A Mister",
+    lat: 39.7326,
+    lng: -83.4759,
+    radius: 40,
+    short: "The picture is a fire department, downtown. Downtown stays. As of 1875, the shops are counted. As of stays. A first smith is a mister. A mister stays. I will not invent the rest of his name. And others stays. There is no yard, no nation, and no battle. The next place, when you want it, is Mifflin.",
+    long: "",
+    names: ["Midway"]
+  },
+
+  {
+    id: "approach-mifflin",
+    name: "Mifflin",
+    lat: 40.7810,
+    lng: -82.3639,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Mifflin, the village in Mifflin Township, Ashland County. Central stays. I will not make the township this village. The picture is Maine Street. I will not repair it. The code prints another city. I will not move it. If you stay on the road, I'll start at the latter name.",
+    long: "",
+    names: ["Mifflin", "Petersburg"]
+  },
+  {
+    id: "mifflin-1816",
+    name: "The Latter Name",
+    lat: 40.7733,
+    lng: -82.3639,
+    radius: 40,
+    short: "Originally called Petersburg, and under the latter name laid out in 1816. Originally stays. Latter stays. I will not average the names. An office called Mifflin remained until 1907. Remained stays. Until stays. I will not say it is open. The census says one hundred fifty-eight people in 2020. I will not average that with one hundred thirty-seven. As of stays. The table skips a year. I will not invent it. All land stays. One page leaves the area blank. I will not fill it. I did not see a height. This pin is the village.",
+    long: "",
+    names: ["Mifflin", "Petersburg"]
+  },
+  {
+    id: "mifflin-maine",
+    name: "Maine",
+    lat: 40.7728,
+    lng: -82.3631,
+    radius: 40,
+    short: "The street is Maine. I will not repair it. A township page says about 1814, and a date with the day first, and old and new in quotes. About stays. I will not flip the date, and I will not move the other township. No husband present stays. There is no person with years, no yard, no nation, and no battle. The next place, when you want it, is Milan.",
+    long: "",
+    names: ["Mifflin"]
+  },
+
+  {
+    id: "approach-milan",
+    name: "Milan",
+    lat: 41.2960,
+    lng: -82.5994,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Milan, the village in Erie and Huron counties. Both stay. I will not average them. I will not move the other Milan. Best known stays. If you stay on the road, I'll start at the two years of the plat.",
+    long: "",
+    names: ["Milan", "Beatty"]
+  },
+  {
+    id: "milan-1817",
+    name: "The Two Years",
+    lat: 41.2881,
+    lng: -82.5994,
+    radius: 40,
+    short: "One page says platted in 1817. Another says laid out in 1816. I will not average them. Originally named Beatty. Originally stays. Incorporated in 1833. Named after stays, and named for stays. I will not move the other city. A mission was previously abandoned, and the years are a range. Previously stays. Another page spells the name differently, and says 1804. I will not average them. A mill has no apostrophe. I will not add one. The canal opened on July 4, 1839. The day stays. Another page prints 1832 to 1839. I will not average them. The census says one thousand three hundred seventy-one people in 2020. I will not average the other counts. The water is not nothing. It is six hundred sixty-six feet up. This pin is the village.",
+    long: "",
+    names: ["Milan", "Beatty", "Petquotting"]
+  },
+  {
+    id: "milan-seven",
+    name: "Until He Was Seven",
+    lat: 41.2876,
+    lng: -82.5986,
+    radius: 40,
+    short: "Born February 11, 1847. Until he was 7 stays. The first seven years stay. I will not average them, and I will not move the town where he died. Hillside brick stays. Redbrick stays. I will not average them. A refusal stays. Terminated stays. I will not average the causes. Permanently stays. The mission is the page's word. I will not invent a nation. There is no battle. The next place, when you want it, is Milford.",
+    long: "",
+    names: ["Milan"]
+  },
+
+  {
+    id: "approach-milford",
+    name: "Milford",
+    lat: 39.1780,
+    lng: -84.2811,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Milford, the city in Clermont and Hamilton counties. Both stay. Westernmost stays. Tied with another town stays. I will not move that town, or Cincinnati. Settled stays. Commenced stays. I will not average them. If you stay on the road, I'll start at the day.",
+    long: "",
+    names: ["Milford"]
+  },
+  {
+    id: "milford-1836",
+    name: "Styled Forth",
+    lat: 39.1700,
+    lng: -84.2811,
+    radius: 40,
+    short: "Formally incorporated January 23, 1836, as a village. Formally stays. The day stays. For some time stays, on the plat. I will not invent the year. After generations, in 1982, with a count printed without a comma, it was styled forth a city. Styled forth stays. I will not add the comma, and I will not average that count with the census. The census says six thousand five hundred eighty-two people in 2020. An estimate says six thousand four hundred seventy. Estimate stays. The water is not nothing. It is five hundred sixty-eight feet up. The name came into prominent use. Prominent stays. A newspaper changed it in February 1806. Another page says widespread, in 1811. I will not average them. This pin is the city.",
+    long: "",
+    names: ["Milford"]
+  },
+  {
+    id: "milford-believed",
+    name: "Now Believed",
+    lat: 39.1695,
+    lng: -84.2803,
+    radius: 40,
+    short: "Now believed stays, on a village in a period the page names. I will not invent the nation. A field belongs to a conservancy. Belongs stays. Having been stays. A mill keeps an apostrophe. I will not drop it. A house is below. Below stays. I will not repair the name, and I will not move it. There is no person with years, and no battle. Struck with rapture stays. I will not say the metropolis arrived. The next place, when you want it, is Milford Center.",
+    long: "",
+    names: ["Milford"]
+  },
+
+  {
+    id: "approach-milford-center",
+    name: "Milford Center",
+    lat: 40.1860,
+    lng: -83.4358,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Milford Center, the village in Union County. I will not make the township this village. Originally called Milford. Originally stays. Latter stays. I will not move the city. If you stay on the road, I'll start at the two spellings.",
+    long: "",
+    names: ["Milford Center", "Milford", "Milford Centre"]
+  },
+  {
+    id: "milford-center-1816",
+    name: "Centre",
+    lat: 40.1786,
+    lng: -83.4358,
+    radius: 40,
+    short: "Under the latter name, platted in 1816. Latter stays. Incorporated in 1853. I will not average them. An office was Milford in 1823, Milford Centre in 1829, and Milford Center in 1893. Centre stays. Finally stays. Again stays. I will not repair it. A marker says laid out in 1814, and it prints a title with no space. I will not add one. It says the name changed in the 1820s, and it keeps an apostrophe, for a more dignified status, as the village became the county seat. Became stays. I will not average that with 1829, and I will not say it is the seat now. The census says eight hundred seven people in 2020. The box and the line do not agree on the land or the water. I will not average them. The water is not nothing. It is nine hundred ninety-four feet up. This pin is the village.",
+    long: "",
+    names: ["Milford Center", "Milford Centre", "Milford"]
+  },
+  {
+    id: "milford-center-ford",
+    name: "Mill-Ford",
+    lat: 40.1781,
+    lng: -83.4350,
+    radius: 40,
+    short: "Known as Mill-Ford. Known as stays. The hyphen stays. Nearly a half mile stays. A later line prints the half without nearly. I will not average them. The marker is in a park. Both past and present stays, on the churches. There is no person with years, no nation, and no battle. I will not move the next village's man. The next place, when you want it, is Millbury.",
+    long: "",
+    names: ["Milford Center"]
+  },
+
+  {
+    id: "approach-millbury",
+    name: "Millbury",
+    lat: 41.5720,
+    lng: -83.4256,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Millbury, the village in Wood County. I will not make the township this village. Previously known as Clay Junction. Previously stays. The picture is a post office. Named after another town. I will not move it. If you stay on the road, I'll start at the office.",
+    long: "",
+    names: ["Millbury", "Clay Junction"]
+  },
+  {
+    id: "millbury-1857",
+    name: "Since",
+    lat: 41.5647,
+    lng: -83.4256,
+    radius: 40,
+    short: "An office called Millbury has been in operation since 1857. Called stays. Has been stays. Since stays. Platted in 1864. A page says platted out. Out stays. Incorporated in 1874. I will not average the years. Named after stays. The census says one thousand one hundred ninety-three people in 2020. I will not average that with one thousand two hundred, or with an estimate, or with about one thousand two hundred. About stays. Rebased stays. All land stays. I did not see a height. This pin is the village.",
+    long: "",
+    names: ["Millbury", "Clay Junction"]
+  },
+  {
+    id: "millbury-coin",
+    name: "The Coin",
+    lat: 41.5642,
+    lng: -83.4248,
+    radius: 40,
+    short: "A mayor said there was a coin toss. Said stays. Two guys stay. Won stays. I will not move the other name's country, and I will not put the toss on the encyclopedia. At approximately a minute stays. At least fifty stays. Many stays. I will not average them. Seven people stay. I will not invent their names. Near a park stays. Also destroyed stays, on the township's buildings. I will not move them. There is no nation, and no battle. The next place, when you want it, is Milledgeville.",
+    long: "",
+    names: ["Millbury"]
+  },
+
+  {
+    id: "approach-milledgeville",
+    name: "Milledgeville",
+    lat: 39.6010,
+    lng: -83.5878,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Milledgeville, the village in Jasper Township, Fayette County. I will not make the township this village. Looking north stays. A heading says city. The article says village. I will not average them. I will not move the other town that shares the name. If you stay on the road, I'll start at the word.",
+    long: "",
+    names: ["Milledgeville"]
+  },
+  {
+    id: "milledgeville-1855",
+    name: "Of Ville",
+    lat: 39.5933,
+    lng: -83.5878,
+    radius: 40,
+    short: "Laid out in 1855. A mill was built on the town site in 1855. I will not make them one event. The name is an amalgamation of a phrase in quotes. Amalgamation stays. I will not repair the last word. An office has been in operation since 1877. Has been stays. Since stays. I will not average the years. The census says ninety-eight people in 2020. I will not average that with one hundred twelve. As of stays. All land stays. A zero of water stays a zero. One page says one thousand forty-seven feet. Another says one thousand fifty. I will not average them. The points do not agree. I will not average them, and I will not add a missing space. This pin is the village.",
+    long: "",
+    names: ["Milledgeville"]
+  },
+  {
+    id: "milledgeville-zero",
+    name: "A Zero",
+    lat: 39.5928,
+    lng: -83.5870,
+    radius: 40,
+    short: "A box prints nine hundred eighty-three. Another page prints nine hundred eighty, and the same kilometer figure. I will not average them. No husband present stays. No wife present stays. There is no person with years, no yard, no nation, and no battle. I will not move the county seat. The next place, when you want it, is Miller.",
+    long: "",
+    names: ["Milledgeville"]
+  },
+
+  {
+    id: "approach-miller",
+    name: "Miller",
+    lat: 38.5400,
+    lng: -82.3061,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Miller, the unincorporated community in Lawrence County. And a designated place. And stays. I will not make the township this place. West bank stays. Bordered to the south stays. I will not move that village. First listed, prior to the census. Prior to stays. If you stay on the road, I'll start at the listing.",
+    long: "",
+    names: ["Miller"]
+  },
+  {
+    id: "miller-prior",
+    name: "Prior To",
+    lat: 38.5325,
+    lng: -82.3061,
+    radius: 40,
+    short: "The page says it was first listed as a designated place prior to the 2020 census. First listed stays. Prior to stays. I will not invent a plat. The census says four hundred fifty-five people. The box prints a density. I will not average them. The water is not nothing. It is five hundred sixty-five feet up. The code prints another town. I will not move it. Upriver stays. Downriver stays. Across from stays. I will not move those towns. This pin is the place.",
+    long: "",
+    names: ["Miller"]
+  },
+  {
+    id: "miller-bank",
+    name: "The West Bank",
+    lat: 38.5320,
+    lng: -82.3053,
+    radius: 40,
+    short: "West bank stays. A street passes through the center. Center stays. I will not make it a building. There is no person with years, no yard, no nation, and no battle. A township page prints other places, and an office with an apostrophe. I will not move them. The next place, when you want it, is Millersburg.",
+    long: "",
+    names: ["Miller"]
+  },
+
+  {
+    id: "approach-millersburg",
+    name: "Millersburg",
+    lat: 40.5630,
+    lng: -81.9181,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Millersburg, the village in Holmes County, and its county seat. And stays. Heart stays, on the region. I will not invent a nation. Sixty-six miles stay, and so do the kilometers. I will not move the city. If you stay on the road, I'll start at the two names.",
+    long: "",
+    names: ["Millersburg"]
+  },
+  {
+    id: "millersburg-1815",
+    name: "The Two Names",
+    lat: 40.5550,
+    lng: -81.9181,
+    radius: 40,
+    short: "Old Town was laid out in November 1815 by Adam Johnson and Charles Miller. November stays. On April 8, 1824, the plan was filed by Andrew Johnston. Andrew stays. Johnston stays. I will not average the names. A marker says the seat was chosen on April 12. Chosen stays. I will not average the days. Itself was established in 1825. Itself stays. Incorporated in 1835, and a marker prints March 6. The day stays. New Town stays, in quotes. One hundred ninety-four lots stay. The census says three thousand one hundred fifty-one people in 2020. The box prints the same miles for the whole and the land, and it also prints a water. I will not average them. The water is not nothing. It is eight hundred ninety-nine feet up. Elevated stays. I will not turn the word into the number. This pin is the village.",
+    long: "",
+    names: ["Millersburg"]
+  },
+  {
+    id: "millersburg-rods",
+    name: "Two Letters",
+    lat: 40.5545,
+    lng: -81.9173,
+    radius: 40,
+    short: "The page prints two letters where a measure should be. I will not repair them. Four rods stay. About one hundred steps stay. I will not convert them. Very nearly stays. A block was for public use. For public use stays. Court house stays, as two words. A picture prints one word. I will not average them. It's stays, where the marker prints the apostrophe. The the stays. I will not remove one. There is no person with years, and no battle. I will not move the buildings that are out of the village. The next place, when you want it, is Millersport.",
+    long: "",
+    names: ["Millersburg"]
+  },
+
+  {
+    id: "approach-millersport",
+    name: "Millersport",
+    lat: 39.9060,
+    lng: -82.5386,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Millersport, the village in Fairfield County. The box does not name a township. I will not add one. The picture is a street, downtown. Downtown stays. Named for a man. I will not invent his years. If you stay on the road, I'll start at the two words for the same year.",
+    long: "",
+    names: ["Millersport"]
+  },
+  {
+    id: "millersport-1825",
+    name: "Laid Out, and Founded",
+    lat: 39.8981,
+    lng: -82.5386,
+    radius: 40,
+    short: "Laid out in 1825, and named for him. Named for stays. A page says founded in 1825, as a port of trade. Founded stays. I will not average the verbs. An office has been in operation since 1839. Since stays. I will not average the years. I did not see an incorporation day. The census says nine hundred seventy-eight people in 2020. I will not average that with one thousand forty-four, or with approximately one thousand two hundred. Approximately stays. The table prints one hundred forty-nine twice. I will not average them, and I will not fill the skipped years. The box and the line do not agree on the land or the water. I will not average them. The water is not nothing. It is nine hundred twenty-two feet up. This pin is the village.",
+    long: "",
+    names: ["Millersport"]
+  },
+  {
+    id: "millersport-licks",
+    name: "The Three Names",
+    lat: 39.8976,
+    lng: -82.5378,
+    radius: 40,
+    short: "A swamp was called one name by the early pioneers, then known as a reservoir, then changed. Originally stays. Later stays. I will not average the three names, and I will not make the swamp this village. South and west banks stay. To the east stays. I will not average the directions. Well preserved stays. I will not add a hyphen. Sovereignty stays. I will not drop it. There is no person with years, no nation, and no battle. I will not move the other town that shares the name. The next place, when you want it, is Millfield.",
+    long: "",
+    names: ["Millersport", "Buffalo Licks"]
+  },
+
+  {
+    id: "approach-millfield",
+    name: "Millfield",
+    lat: 39.4420,
+    lng: -82.0950,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Millfield, in northern Dover Township, Athens County. Northern stays. I will not make the township this place. Although unincorporated stays, on an older line. I will not average it with the newer word. Midway stays. I will not move the two towns. If you stay on the road, I'll start at the office.",
+    long: "",
+    names: ["Millfield"]
+  },
+  {
+    id: "millfield-1827",
+    name: "Besides",
+    lat: 39.4342,
+    lng: -82.0950,
+    radius: 40,
+    short: "An office was established here in 1827. Established stays. Besides the office, it had a gristmill. Besides stays. Had stays. I will not say it stands. The census says three hundred eleven people in 2020. I will not average that with three hundred forty-one, or with only about one thousand five hundred. Only stays. About stays. I did not see a square mile. It is six hundred thirty-three feet up. The points do not agree. I will not average them. A variant name has no apostrophe. I will not add one. A history line is blank. Blank stays. This pin is the place.",
+    long: "",
+    names: ["Millfield", "Denmans Salt Works"]
+  },
+  {
+    id: "millfield-1930",
+    name: "Believed",
+    lat: 39.4337,
+    lng: -82.0942,
+    radius: 40,
+    short: "The worst stays. One page prints the day, November 5, 1930. I will not drop it. A box names the mine one way. The sentence names it another. Number stays. No. stays. I will not average them. Eighty-two stays. I will not average the parts. Only two were believed. Believed stays. Wasn't until midnight stays. I will not repair it. A man died on January 3, 2009. I will not invent his birth. There is no yard, no nation, and no battle. I will not move the mine onto the office. The next place, when you want it, is Millville.",
+    long: "",
+    names: ["Millfield"]
+  },
+
+  {
+    id: "approach-millville",
+    name: "Millville",
+    lat: 39.4000,
+    lng: -84.6528,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Millville, the village in Butler County. The box names two townships. I will not pick one. Sits between two cities. Sits stays. I will not move them. Just west stays. The motto keeps an exclamation. I will not drop it. If you stay on the road, I'll start at the mill.",
+    long: "",
+    names: ["Millville"]
+  },
+  {
+    id: "millville-1805",
+    name: "About",
+    lat: 39.3925,
+    lng: -84.6528,
+    radius: 40,
+    short: "A man opened a grist mill there about 1805. About stays. There stays. The mill is two words. I will not close them. The village was established in 1815. Established stays. I will not average the years. I did not see a later day. The census says six hundred thirty-four people in 2020. The box and the line do not agree on the kilometers. I will not average them. All land stays. A zero of water stays a zero. It is six hundred twenty feet up. A historical office prints another height. Historical stays. I will not average them, and I will not say the office is open. This pin is the village.",
+    long: "",
+    names: ["Millville"]
+  },
+  {
+    id: "millville-north",
+    name: "Some",
+    lat: 39.3920,
+    lng: -84.6520,
+    radius: 40,
+    short: "A cemetery is approximately five and a half miles to the north. Approximately stays. I will not move it. Some who are buried there served. Some stays. The war is printed in small letters. I will not raise them. A man was born here. I will not invent his years, and I will not repair his name. There is no nation. I will not make a census line one. The next place, when you want it, is Miltonsburg.",
+    long: "",
+    names: ["Millville"]
+  },
+
+  {
+    id: "approach-miltonsburg",
+    name: "Miltonsburg",
+    lat: 39.8390,
+    lng: -81.1647,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Miltonsburg, the village in Monroe County. I will not make the township this village. Named after a son. Named after stays. Pioneer stays. He named another town after a daughter. I will not move that town. The picture is along a street. Along stays. If you stay on the road, I'll start at the two verbs.",
+    long: "",
+    names: ["Miltonsburg"]
+  },
+  {
+    id: "miltonsburg-1836",
+    name: "Laid Out, and Organized",
+    lat: 39.8314,
+    lng: -81.1647,
+    radius: 40,
+    short: "A record says laid out in 1836, of another village. Laid out stays. I will not move that village. A page says organized in 1836, and named after the son. Organized stays. I will not average the verbs. The encyclopedia prints the name and not the year. I will not add it. The office is printed as one word, of the same name. I will not split it. The census says forty-two people in 2020. The box and the line do not agree on the miles or the kilometers. I will not average them. All of it land stays. A zero of water stays a zero. It is one thousand two hundred ninety-three feet up. This pin is the village.",
+    long: "",
+    names: ["Miltonsburg"]
+  },
+  {
+    id: "miltonsburg-north",
+    name: "Was",
+    lat: 39.8309,
+    lng: -81.1639,
+    radius: 40,
+    short: "A church was demolished, and a larger one was built on the North side. North stays. Two churches were also here, and the verb is singular. Was stays. I will not repair it. Around stays, on the men who settled near. Among stays. I will not move the township's cabin. There is no person with years, no yard, no nation, and no battle. The next place, when you want it, is Mineral City.",
+    long: "",
+    names: ["Miltonsburg"]
+  },
+
+  {
+    id: "approach-mineral-city",
+    name: "Mineral City",
+    lat: 40.6100,
+    lng: -81.3614,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Mineral City, the village in Tuscarawas County. Central in the township stays. I will not make the township this village. Once known as another name. Once known as stays. The picture is Victorian homes. Victorian stays. If you stay on the road, I'll start at the two verbs for the same year.",
+    long: "",
+    names: ["Mineral City", "Mineral Point"]
+  },
+  {
+    id: "mineral-city-1853",
+    name: "Platted, and Founded",
+    lat: 40.6028,
+    lng: -81.3614,
+    radius: 40,
+    short: "Platted in 1853, and named for deposits near the original town site. Named for stays. Near stays. A page says founded in 1853, and named after the abounding, in quotes. Founded stays. The quotes stay. I will not average the verbs, or the phrases. A mine began in 1850. Beginning stays. Not incorporated until Oct. 11, 1882. Not until stays. I will not average the years. The census says six hundred fifty-two people in 2020. I will not average four hundred with one hundred seventy-five, or one thousand thirty-five with one thousand thirty-two. The box and the line do not agree on the miles. I will not average them. All land stays. A zero of water stays a zero. It is nine hundred fifty-one feet up. This pin is the village.",
+    long: "",
+    names: ["Mineral City"]
+  },
+  {
+    id: "mineral-city-express",
+    name: "Most Famous",
+    lat: 40.6023,
+    lng: -81.3606,
+    radius: 40,
+    short: "A newspaper in 1884 still prints the older name. I will not rename it. By 1890, an opera house. By stays. The most famous person to perform is named. Most stays. I will not invent the night. A man was born here in 1893. I will not invent his death. There is no yard, no nation, and no battle. Influx stays. I will not add a country. The next place, when you want it, is Mineral Ridge.",
+    long: "",
+    names: ["Mineral City", "Mineral Point"]
+  },
+
+  {
+    id: "approach-mineral-ridge",
+    name: "Mineral Ridge",
+    lat: 41.1380,
+    lng: -80.7669,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Mineral Ridge. Unincorporated stays, and so does the other word. Southern one county, northern another. I will not pick. Two townships. I will not make either this place. A page says the ridge made several moves from incorporated to not. Several stays. To not stays. If you stay on the road, I'll start at the name.",
+    long: "",
+    names: ["Mineral Ridge"]
+  },
+  {
+    id: "mineral-ridge-name",
+    name: "Valuable",
+    lat: 41.1306,
+    lng: -80.7669,
+    radius: 40,
+    short: "Named for valuable coal deposits near the original town site. Valuable stays. Near stays. I did not see a plat. Primarily a farming community, with some mining in the 1830s. Primarily stays. Some stays. A discovery in the mid-1850s. Mid stays. April 1871, and an election in April 1872. I will not average them. Unincorporated, reincorporated, and disincorporated. I will not average the words. The census says three thousand nine hundred fifty-one people in 2020. The water is not nothing. It is nine hundred ninety-four feet up. This pin is the place.",
+    long: "",
+    names: ["Mineral Ridge"]
+  },
+  {
+    id: "mineral-ridge-pump",
+    name: "Although",
+    lat: 41.1301,
+    lng: -80.7661,
+    radius: 40,
+    short: "The first mayor is not the first elected mayor. Although stays. Two weeks stay. A school still exists today. Still stays. Around 1873 stays. Two names for the iron stay, in quotes. I will not average them. Largely stays. However, some mines still operated. I will not average them. Benefitted stays. I will not repair it. Unsuccessful stays, on one try. I will not move it. Believed stays. Never stays. There is no person with years, no yard, no nation, and no battle. The next place, when you want it, is Minerva.",
+    long: "",
+    names: ["Mineral Ridge"]
+  },
+
+  {
+    id: "approach-minerva",
+    name: "Minerva",
+    lat: 40.7360,
+    lng: -81.1019,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Minerva, the village primarily in two counties, with a small district in a third. Primarily stays. Small stays. I will not pick. Three townships. I will not make one of them a direction. The motto capitalizes a word I would not. I will not repair it. If you stay on the road, I'll start at the acres.",
+    long: "",
+    names: ["Minerva"]
+  },
+  {
+    id: "minerva-1818",
+    name: "Who",
+    lat: 40.7289,
+    lng: -81.1019,
+    radius: 40,
+    short: "A surveyor bought land in 1818 for a log mill. One page says one hundred twenty-five acres. Another says one hundred twenty-three. I will not average them. Named for a niece. Named for stays. The town grew up around the mill. A page says who grew up. Who stays. I will not repair it. Established in 1833. Incorporated in 1862. I will not average them. A birth is printed as a day in 1833. I will not average the day with the year. The census says three thousand six hundred eighty-four people in 2020. Just under four thousand stays. I will not average them. The box and the line do not agree on the miles. I will not average them. All land stays. A zero of water stays a zero. It is one thousand fifty-six feet up. This pin is the village.",
+    long: "",
+    names: ["Minerva"]
+  },
+  {
+    id: "minerva-car",
+    name: "In Fact",
+    lat: 40.7284,
+    lng: -81.1011,
+    radius: 40,
+    short: "A canal on one page, and canals on another. I will not average them. Then later stays. In fact, the first steel railroad car, in the nineteenth century. I will not invent the year. A paper charged one dollar. One dollar stays. A man was born here, and the sentence says he died. He stays. I will not invent the office. Many parks stay, within the limits. I will not name one. There is no nation, and no battle. The next place, when you want it, is Minford.",
+    long: "",
+    names: ["Minerva"]
+  },
+
+  {
+    id: "approach-minford",
+    name: "Minford",
+    lat: 38.8760,
+    lng: -82.8606,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Minford, on the border of two townships, in northeastern Scioto County. On the border stays. I will not pick a township. About fourteen miles, and twenty-three kilometers, from the county seat. About stays. I will not move that city. Originally another name. Originally stays. If you stay on the road, I'll start at the change.",
+    long: "",
+    names: ["Minford", "Harrisonville"]
+  },
+  {
+    id: "minford-1859",
+    name: "Already",
+    lat: 38.8681,
+    lng: -82.8606,
+    radius: 40,
+    short: "Originally formed as another name in 1859. Formed stays. The name changed in 1917, because a town along the railroad already had it. Already stays. I will not move that town. A page prints August 17. I will not drop the day. A railroad was built in 1916. I will not average the years. In honor of a local family stays. I will not invent their years. The census says six hundred forty-one people in 2020. The miles agree, and the kilometers do not. I will not average them. The water is not nothing. It is six hundred eighty-six feet up. The office is a different point. I will not average them. This pin is the place.",
+    long: "",
+    names: ["Minford", "Harrisonville"]
+  },
+  {
+    id: "minford-fifth",
+    name: "Recently",
+    lat: 38.8676,
+    lng: -82.8598,
+    radius: 40,
+    short: "The fifth office. Fifth stays. However, the original building is no longer standing. A new one was recently built at that location, in 2000. Recently stays. I will not average them. A township office in 1825 had no apostrophe. I will not add one, and I will not move it here. May be incomplete stays. Officiately stays. I will not repair it. There is no person with years, no yard, no nation, and no battle. I will not move the nearby park. The next place, when you want it, is Mingo Junction.",
+    long: "",
+    names: ["Minford"]
+  },
+
+  {
+    id: "approach-mingo-junction",
+    name: "Mingo Junction",
+    lat: 40.3290,
+    lng: -80.6092,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Mingo Junction, the village in Jefferson County, along the Ohio River. Along stays. I will not make the township this village. Originally two older names. Or stays. The picture is downtown. A view keeps an apostrophe. I will not drop it. If you stay on the road, I'll start at the source of the name.",
+    long: "",
+    names: ["Mingo Junction", "Mingo Bottom", "Mingo Town"]
+  },
+  {
+    id: "mingo-junction-once",
+    name: "Once",
+    lat: 40.3214,
+    lng: -80.6092,
+    radius: 40,
+    short: "A people once had a settlement here, and that is the source of the name. Once stays. Present-day keeps a hyphen. An older page says a tribe, and two words. I will not average them. About twenty cabins, and about seventy inhabitants. About stays. One page names one confederacy. Another names another. I will not average them. The box says founded in 1869. The sentence says circa. Circa stays. A page prints later years for the lots and the incorporation. I will not average them. The census says three thousand three hundred forty-seven people in 2020. I will not average that with three thousand four hundred fifty-four. The water is not nothing. It is nine hundred ninety-four feet up. This pin is the village.",
+    long: "",
+    names: ["Mingo Junction"]
+  },
+  {
+    id: "mingo-junction-ill-fated",
+    name: "Ill-Fated",
+    lat: 40.3209,
+    lng: -80.6084,
+    radius: 40,
+    short: "It was the starting point, in 1782, during the war. Ill-fated stays. One page says Native Americans. An older page says hostile. Hostile stays. I will not average them, and I will not invent the rest. A camp in 1770 is not that year. In 1900, the only plant was a mill. Only stays. I will not say only now. There is no person with years, and no yard. A neighborhood is printed as it is. I will not repair it. The next place, when you want it, is Minster.",
+    long: "",
+    names: ["Mingo Junction"]
+  },
+
+  {
+    id: "approach-minster",
+    name: "Minster",
+    lat: 40.4010,
+    lng: -84.3761,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Minster, the village in two counties. I will not pick one. Adjacent to another village, to the north. Adjacent stays. I will not move it. The picture is a church. The older name is not this one. A region’s name keeps two dots. I will not drop them. If you stay on the road, I'll start at the two years.",
+    long: "",
+    names: ["Minster", "Stallostown"]
+  },
+  {
+    id: "minster-1832",
+    name: "Now Call",
+    lat: 40.3939,
+    lng: -84.3761,
+    radius: 40,
+    short: "Founded in 1832 as another name, for a founder. For stays. The name changed in 1836. After stays. Heavily stays. I will not average the years, or the spellings. A marker prints a day, with a mark in front of it. The mark stays. A line says now call. Call stays. I will not repair it. One page says one form of his name. Another says another. I will not average them. The census says three thousand forty-six people in 2020. The box and the line do not agree on the miles. I will not average them. All land stays. A zero of water stays a zero. It is nine hundred sixty-eight feet up. This pin is the village.",
+    long: "",
+    names: ["Minster", "Stallostown"]
+  },
+  {
+    id: "minster-colonie",
+    name: "Barely",
+    lat: 40.3934,
+    lng: -84.3753,
+    radius: 40,
+    short: "A sign said Colonie. I will not repair it. Barely stays. From a hat stays. Some land was reserved, and some is not capitalized. Market place stays two words. All a virgin forest stays. I will not name a nation. Around 1920 stays. Largely stays. Some street names remained. Or stays, between two cities. I will not pick one. There is no person with years, and no battle. One of the world's largest stays. The next place, when you want it, is Mitiwanga.",
+    long: "",
+    names: ["Minster", "Stallostown"]
+  },
+
+  {
+    id: "approach-mitiwanga",
+    name: "Mitiwanga",
+    lat: 41.3890,
+    lng: -82.4658,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Mitiwanga, an unincorporated community and a census-designated place, in Erie County. Both words stay. Within two townships, on the south shore. Within stays. I will not pick a township, and I will not move the city that shares a name. A page does not have a founding date. Might stays. If you stay on the road, I'll start at the office.",
+    long: "",
+    names: ["Mitiwanga"]
+  },
+  {
+    id: "mitiwanga-1917",
+    name: "Might",
+    lat: 41.3811,
+    lng: -82.4658,
+    radius: 40,
+    short: "A page says it does not have a founding date, and you might consider that the office opened in 1917. Might stays. I will not turn it into a founding. The same list says the office closed in 1958. A store was an office until 1959. Until stays. I will not average them. The census says three hundred twenty-six people in 2020. The miles agree, and the kilometers do not. I will not average them. The water is not nothing. One page says one hundred eighty meters. Another says one hundred eighty-three. I will not average them. It is six hundred feet up. This pin is the place.",
+    long: "",
+    names: ["Mitiwanga"]
+  },
+  {
+    id: "mitiwanga-reputedly",
+    name: "Reputedly",
+    lat: 41.3806,
+    lng: -82.4650,
+    radius: 40,
+    short: "Reputedly a word, in quotes. Reputedly stays. I will not name a nation. Apparently split stays. Around the time stays. Possibly stays. I will not drop it. About thirty cottages stay. About fifteen acres stay. A name is printed as it is. I will not repair it. A building was demolished. Fifty year old stays, as three words. A death is printed as 1840. I will not invent a birth. There is no yard I can move here, and no battle. The next place, when you want it, is Mogadore.",
+    long: "",
+    names: ["Mitiwanga"]
+  },
+
+  {
+    id: "approach-miamitown",
+    name: "Miamitown",
+    lat: 39.2240,
+    lng: -84.7094,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Miamitown, the census place in western Whitewater Township, Hamilton County. Western stays. Another page says east. An older page says northeastern. I will not average them. I will not make the township this place. If you stay on the road, I'll start at the day.",
+    long: "",
+    names: ["Miamitown"]
+  },
+  {
+    id: "miamitown-1816",
+    name: "The Twenty-Second",
+    lat: 39.2169,
+    lng: -84.7094,
+    radius: 40,
+    short: "One page says it was founded in 1816. An older page says it was laid off on the twenty-second of April, 1816. Laid off stays. I will not average the words. Named after the nearby river. Nearby stays. I will not make the river a nation. An old book says it promises to become a place of considerable business. Promises stays. The census says one thousand two hundred fifty-six people in 2020. I will not average that with the older counts. The water is not nothing. Sixteen miles, and twenty-six kilometers, from downtown. An older page says fifteen miles from the mouth. I will not average them. I did not see a height. This pin is the place.",
+    long: "",
+    names: ["Miamitown"]
+  },
+  {
+    id: "miamitown-never",
+    name: "Never",
+    lat: 39.2164,
+    lng: -84.7086,
+    radius: 40,
+    short: "In 1817 a general read a declaration and offered a toast. Never stays. For those days stays. I will not invent his years, and I will not invent a battle. A station stood opposite, on another township. Opposite stays. I will not move it. One mill is a flour mill. Another is a flouring-and saw-mill. The hyphen stays. I will not average them. There is no yard. The next place, when you want it, is Miamiville.",
+    long: "",
+    names: ["Miamitown"]
+  },
+
+  {
+    id: "approach-miamiville",
+    name: "Miamiville",
+    lat: 39.2200,
+    lng: -84.3000,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Miamiville, unincorporated, and a census place, in western Miami Township, Clermont County. Western stays. I will not make the township this place. A heading prints another spelling. I will not average them. If you stay on the road, I'll start at the two years.",
+    long: "",
+    names: ["Miamiville"]
+  },
+  {
+    id: "miamiville-1849",
+    name: "Before the Year Was Over",
+    lat: 39.2122,
+    lng: -84.3000,
+    radius: 40,
+    short: "The encyclopedia says it was laid out in 1849, and named for the nearby river. Nearby stays. I will not make the river a nation. A page says Sept. 29, 1849, and seventeen lots. The abbreviation stays. Originally stays. The first store opened before the year was over. Before stays. An office has been in operation since 1848. Since stays. I will not average the years. The census says it had two hundred five people in 2020. Had stays. I did not see an area. It is five hundred eighty-seven feet up. This pin is the place.",
+    long: "",
+    names: ["Miamiville"]
+  },
+  {
+    id: "miamiville-raids",
+    name: "Raids",
+    lat: 39.2117,
+    lng: -84.2992,
+    radius: 40,
+    short: "A small role stays. Known as Morgan's Raids stays. I will not repair the plural, and I will not move the places they marched toward. A page prints a digit in the name where a letter belongs. I will not repair it. Passed through stays. A cemetery is here. Buried stays. I will not invent the years, and I will not move the other town. Believed stays. May stays. Low profile stays. I will not untangle the decades. There is no nation. The next place, when you want it, is Middlebranch.",
+    long: "",
+    names: ["Miamiville"]
+  },
+
+  {
+    id: "approach-middlebranch",
+    name: "Middlebranch",
+    lat: 40.9040,
+    lng: -81.3322,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Middlebranch, the census place in northeastern Plain Township, Stark County. Northeastern stays. Another page says northeast. I will not average them. About seven miles Northeast of Canton. About stays. The capital stays. I will not move that city. If you stay on the road, I'll start at the space in the name.",
+    long: "",
+    names: ["Middlebranch", "Middle Branch"]
+  },
+  {
+    id: "middlebranch-1844",
+    name: "The Space",
+    lat: 40.8969,
+    lng: -81.3322,
+    radius: 40,
+    short: "An office called Middle Branch was established in 1844, and the name was changed to Middlebranch in 1893. Called stays. Changed stays. I will not average the spellings, and I will not average the years. It takes its name from the nearby creek, and the creek keeps the space. Nearby stays. The census says two thousand one hundred seventeen people in 2020. The box prints a total, and it does not split the water. I will not invent the split. It is one thousand one hundred nineteen feet up. This pin is the place.",
+    long: "",
+    names: ["Middlebranch", "Middle Branch"]
+  },
+  {
+    id: "middlebranch-school",
+    name: "After That",
+    lat: 40.8964,
+    lng: -81.3314,
+    radius: 40,
+    short: "A school sentence does not finish itself. I will not finish it. It functioned as a high school, then a middle school, then an elementary school. After that stays. Until stays. I will not average them. Trains often run through the area. Often stays. Bound for other cities stays. I will not name them. There is no person with years, no yard, no nation, and no battle. The next place, when you want it, is Middleburg Heights.",
+    long: "",
+    names: ["Middlebranch", "Middle Branch"]
+  },
+
+  {
+    id: "approach-middleburg-heights",
+    name: "Middleburg Heights",
+    lat: 41.3740,
+    lng: -81.8089,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Middleburg Heights, the city in Cuyahoga County. The Heights stays. About eleven miles southwest of downtown Cleveland. About stays. Another page says thirteen. I will not average them, and I will not move that city. If you stay on the road, I'll start at the h.",
+    long: "",
+    names: ["Middleburg Heights"]
+  },
+  {
+    id: "middleburg-heights-1928",
+    name: "Without an H",
+    lat: 41.3667,
+    lng: -81.8089,
+    radius: 40,
+    short: "The box says a village in 1928, and a city in 1961. An encyclopedia says a village in 1927. I will not average the years. A timeline says Middleburgh Heights, and the h stays. In 1960 a council confirms the custom of spelling it without an h. Confirms stays. Growing stays. I will not drop the h from the older pages. The census says sixteen thousand four people in 2020. An estimate prints fifteen thousand five hundred fifty-eight. Estimate stays. The water is not nothing. One page says eight miles. I will not average it. The points do not agree. I will not average them either. This pin is the city.",
+    long: "",
+    names: ["Middleburg Heights", "Middleburgh Heights"]
+  },
+  {
+    id: "middleburg-heights-attempt",
+    name: "The Attempt",
+    lat: 41.3662,
+    lng: -81.8081,
+    radius: 40,
+    short: "An attempt to annex led to an incorporation. Attempt stays. Led stays. The sentence does not add Heights. I will not add it. A cemetery opens in the 1850s. I will not pick a year. Two hundred ninety-four acres stays. I will not move the plant's other name, or the airfield, or Berea. There is no person with years, and no nation. Grew from two thousand five hundred stays. I will not average it with the census. The next place, when you want it, is Middlefield.",
+    long: "",
+    names: ["Middleburg Heights", "Middleburgh"]
+  },
+
+  {
+    id: "approach-middlefield",
+    name: "Middlefield",
+    lat: 41.4680,
+    lng: -81.0711,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Middlefield, the village in Geauga County. I will not make the township this village. Once named Batavia. Once stays. The quotes stay. I will not move Painesville, or Warren, or Cleveland. If you stay on the road, I'll start at the midway.",
+    long: "",
+    names: ["Middlefield", "Batavia"]
+  },
+  {
+    id: "middlefield-1799",
+    name: "Midway",
+    lat: 41.4600,
+    lng: -81.0711,
+    radius: 40,
+    short: "The page says it was established in 1799, and incorporated in 1901. I will not average the years. It was the midway point. Midway stays. A page prints December 1, 1900, and eighty for, and sixty-two against. Against stays. I will not average them. Another line prints a letter out of place, and zeros where letters belong, and no space after a comma. I will not repair them. The census says two thousand seven hundred forty-eight people in 2020. I will not average that with two thousand six hundred ninety, or with two thousand seven hundred. I did not see an area, or a height. This pin is the village.",
+    long: "",
+    names: ["Middlefield"]
+  },
+  {
+    id: "middlefield-few",
+    name: "Very Few",
+    lat: 41.4595,
+    lng: -81.0703,
+    radius: 40,
+    short: "Known for being the center stays. But very few actually live within the limits. But stays. Actually stays. I will not average them. One page says one man built the hotel. Another says another man. I will not average them. The Century stays, and so does the missing The. Burned down twice stays. A camp is in the township. Easternmost stays. I will not move it. There is no person with years, no nation, and no battle. The next place, when you want it, is Middleport.",
+    long: "",
+    names: ["Middlefield"]
+  },
+
+  {
+    id: "approach-middleport",
+    name: "Middleport",
+    lat: 38.0090,
+    lng: -82.0583,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Middleport, the largest village in Meigs County, along the Ohio River. Largest stays. I will not make the township this village, and I will not make it the county seat. The picture is a downtown street in 2007. If you stay on the road, I'll start at the two dates.",
+    long: "",
+    names: ["Middleport"]
+  },
+  {
+    id: "middleport-1820s",
+    name: "Despite",
+    lat: 38.0014,
+    lng: -82.0583,
+    radius: 40,
+    short: "One page says it was founded during the 1820s. During stays. I will not pick a year. Another says 1798. I will not average them. Founded as Sheffield stays. The quotes stay. Also Coalport, and Salisbury. Also stays. Another page says originally a creek settlement, and it lists names the first page does not. Originally stays. Eventually stays. I will not average the lists. The name refers to the city's location, halfway between two cities. City's stays. Halfway stays. I will not move them. The census says two thousand two hundred eight people at the time of 2020. At the time stays. The water is not nothing. I did not see a height. This pin is the village.",
+    long: "",
+    names: ["Middleport", "Sheffield", "Coalport"]
+  },
+  {
+    id: "middleport-entering",
+    name: "From Entering",
+    lat: 38.0009,
+    lng: -82.0575,
+    radius: 40,
+    short: "A cotton mill was built despite the lack. Despite stays. Lack stays. A skirmish on a hill stopped raiders from entering. From entering stays. I will not invent the day. Incidences stays. I will not repair it. Bi-lingual stays. A cemetery is nearby. Nearby stays. I will not move it. There is no person with years, and no nation. The next place, when you want it, is Midland.",
+    long: "",
+    names: ["Middleport"]
+  },
+
+  {
+    id: "approach-midland",
+    name: "Midland",
+    lat: 39.3140,
+    lng: -83.9108,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Midland, the village in Clinton County. I will not make the township this village. Originally called Clinton Valley. Originally stays. The picture is a former station. Former stays. If you stay on the road, I'll start at the name.",
+    long: "",
+    names: ["Midland", "Clinton Valley"]
+  },
+  {
+    id: "midland-called",
+    name: "Ithe",
+    lat: 39.3069,
+    lng: -83.9108,
+    radius: 40,
+    short: "One page says originally called Clinton Valley. Another says originally named, in honor of the county. Called stays. Named stays. In honor stays. I will not average them. In 1886 a page says it was renamed, and it prints an extra letter in a small word. I will not repair it. Eventually the name was shortened to just Midland. Eventually stays. Just stays. A county page says no records are available as to the platting. No records stays. A quote says it was first laid out. First stays. I will not invent the year. The census says three hundred seven people in 2020. I will not average that with three hundred fifteen, or with approximately four hundred. At present stays. All land stays. I did not see a height. This pin is the village.",
+    long: "",
+    names: ["Midland", "Clinton Valley", "Midland City"]
+  },
+  {
+    id: "midland-said-road",
+    name: "The Said Road",
+    lat: 39.3064,
+    lng: -83.9100,
+    radius: 40,
+    short: "Noted for being a great coaling and water station of the said road. Noted for stays. Said stays. A number of men stays. I will not invent the number. Also accommodated stays. The station is former. Former stays. There is no person with years, no yard, no nation, and no battle. I will not move the other stops. The next place, when you want it, is Midvale.",
+    long: "",
+    names: ["Midland"]
+  },
+
+  {
+    id: "approach-midvale",
+    name: "Midvale",
+    lat: 40.4460,
+    lng: -81.3739,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Midvale, the village in Tuscarawas County. The box puts it in three townships. I will not make any one of them this village. Part stays, on one township's page. Halfway between two cities. Halfway stays. I will not move them. If you stay on the road, I'll start at the plat.",
+    long: "",
+    names: ["Midvale"]
+  },
+  {
+    id: "midvale-1888",
+    name: "Halfway",
+    lat: 40.4381,
+    lng: -81.3739,
+    radius: 40,
+    short: "The encyclopedia says it was platted in 1888, and named for its location halfway between two cities. Halfway stays. I will not move them, and I will not add a meaning the page does not print. The census says six hundred seventy-three people in 2020. I will not average that with seven hundred fifty-four. As of stays. All land stays. I did not see a height on the village. An office map prints another point. I will not average them. This pin is the village.",
+    long: "",
+    names: ["Midvale"]
+  },
+  {
+    id: "midvale-part",
+    name: "Part",
+    lat: 40.4376,
+    lng: -81.3731,
+    radius: 40,
+    short: "Part of the village stays in the southeast of one township. Part stays. I will not move the other part. The picture is a town hall. A township page puts an old settlement inside its own boundaries, and it marks the citation as needed. Needed stays. I will not move it. There is no person with years, and no battle. The next place, when you want it, is Midway.",
+    long: "",
+    names: ["Midvale"]
+  },
+
+  {
+    id: "approach-midway",
+    name: "Midway",
+    lat: 39.7410,
+    lng: -83.4767,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Midway, the village in Range Township, Madison County. I will not make the township this village. Also called Sedalia. Also stays. By some sources stays. Officially stays, on the addresses. I will not average the names. If you stay on the road, I'll start at the two Junes.",
+    long: "",
+    names: ["Midway", "Sedalia"]
+  },
+  {
+    id: "midway-1830",
+    name: "Half Way",
+    lat: 39.7331,
+    lng: -83.4767,
+    radius: 40,
+    short: "One page says laid out by two men, and recorded June 13, 1830. Another says the exact date cannot be definitely stated, but a record of June 13, 1833, names three men. Cannot stays. Definitely stays. I will not average the years, or the names. Half-way stays, with the hyphen. Half way stays, as two words. Also a middle point stays. I will not move the cities. The census says two hundred sixty-nine people in 2020. I will not average that with two hundred fifty. As of stays. All land stays. I did not see a height. This pin is the village.",
+    long: "",
+    names: ["Midway", "Sedalia"]
+  },
+  {
+    id: "midway-mister",
+    name: "A Mister",
+    lat: 39.7326,
+    lng: -83.4759,
+    radius: 40,
+    short: "The picture is a fire department, downtown. Downtown stays. As of 1875, the shops are counted. As of stays. A first smith is a mister. A mister stays. I will not invent the rest of his name. And others stays. There is no yard, no nation, and no battle. The next place, when you want it, is Mifflin.",
+    long: "",
+    names: ["Midway"]
+  },
+
+  {
+    id: "approach-mifflin",
+    name: "Mifflin",
+    lat: 40.7810,
+    lng: -82.3639,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Mifflin, the village in Mifflin Township, Ashland County. Central stays. I will not make the township this village. The picture is Maine Street. I will not repair it. The code prints another city. I will not move it. If you stay on the road, I'll start at the latter name.",
+    long: "",
+    names: ["Mifflin", "Petersburg"]
+  },
+  {
+    id: "mifflin-1816",
+    name: "The Latter Name",
+    lat: 40.7733,
+    lng: -82.3639,
+    radius: 40,
+    short: "Originally called Petersburg, and under the latter name laid out in 1816. Originally stays. Latter stays. I will not average the names. An office called Mifflin remained until 1907. Remained stays. Until stays. I will not say it is open. The census says one hundred fifty-eight people in 2020. I will not average that with one hundred thirty-seven. As of stays. The table skips a year. I will not invent it. All land stays. One page leaves the area blank. I will not fill it. I did not see a height. This pin is the village.",
+    long: "",
+    names: ["Mifflin", "Petersburg"]
+  },
+  {
+    id: "mifflin-maine",
+    name: "Maine",
+    lat: 40.7728,
+    lng: -82.3631,
+    radius: 40,
+    short: "The street is Maine. I will not repair it. A township page says about 1814, and a date with the day first, and old and new in quotes. About stays. I will not flip the date, and I will not move the other township. No husband present stays. There is no person with years, no yard, no nation, and no battle. The next place, when you want it, is Milan.",
+    long: "",
+    names: ["Mifflin"]
+  },
+
+  {
+    id: "approach-milan",
+    name: "Milan",
+    lat: 41.2960,
+    lng: -82.5994,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Milan, the village in Erie and Huron counties. Both stay. I will not average them. I will not move the other Milan. Best known stays. If you stay on the road, I'll start at the two years of the plat.",
+    long: "",
+    names: ["Milan", "Beatty"]
+  },
+  {
+    id: "milan-1817",
+    name: "The Two Years",
+    lat: 41.2881,
+    lng: -82.5994,
+    radius: 40,
+    short: "One page says platted in 1817. Another says laid out in 1816. I will not average them. Originally named Beatty. Originally stays. Incorporated in 1833. Named after stays, and named for stays. I will not move the other city. A mission was previously abandoned, and the years are a range. Previously stays. Another page spells the name differently, and says 1804. I will not average them. A mill has no apostrophe. I will not add one. The canal opened on July 4, 1839. The day stays. Another page prints 1832 to 1839. I will not average them. The census says one thousand three hundred seventy-one people in 2020. I will not average the other counts. The water is not nothing. It is six hundred sixty-six feet up. This pin is the village.",
+    long: "",
+    names: ["Milan", "Beatty", "Petquotting"]
+  },
+  {
+    id: "milan-seven",
+    name: "Until He Was Seven",
+    lat: 41.2876,
+    lng: -82.5986,
+    radius: 40,
+    short: "Born February 11, 1847. Until he was 7 stays. The first seven years stay. I will not average them, and I will not move the town where he died. Hillside brick stays. Redbrick stays. I will not average them. A refusal stays. Terminated stays. I will not average the causes. Permanently stays. The mission is the page's word. I will not invent a nation. There is no battle. The next place, when you want it, is Milford.",
+    long: "",
+    names: ["Milan"]
+  },
+
+  {
+    id: "approach-milford",
+    name: "Milford",
+    lat: 39.1780,
+    lng: -84.2811,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Milford, the city in Clermont and Hamilton counties. Both stay. Westernmost stays. Tied with another town stays. I will not move that town, or Cincinnati. Settled stays. Commenced stays. I will not average them. If you stay on the road, I'll start at the day.",
+    long: "",
+    names: ["Milford"]
+  },
+  {
+    id: "milford-1836",
+    name: "Styled Forth",
+    lat: 39.1700,
+    lng: -84.2811,
+    radius: 40,
+    short: "Formally incorporated January 23, 1836, as a village. Formally stays. The day stays. For some time stays, on the plat. I will not invent the year. After generations, in 1982, with a count printed without a comma, it was styled forth a city. Styled forth stays. I will not add the comma, and I will not average that count with the census. The census says six thousand five hundred eighty-two people in 2020. An estimate says six thousand four hundred seventy. Estimate stays. The water is not nothing. It is five hundred sixty-eight feet up. The name came into prominent use. Prominent stays. A newspaper changed it in February 1806. Another page says widespread, in 1811. I will not average them. This pin is the city.",
+    long: "",
+    names: ["Milford"]
+  },
+  {
+    id: "milford-believed",
+    name: "Now Believed",
+    lat: 39.1695,
+    lng: -84.2803,
+    radius: 40,
+    short: "Now believed stays, on a village in a period the page names. I will not invent the nation. A field belongs to a conservancy. Belongs stays. Having been stays. A mill keeps an apostrophe. I will not drop it. A house is below. Below stays. I will not repair the name, and I will not move it. There is no person with years, and no battle. Struck with rapture stays. I will not say the metropolis arrived. The next place, when you want it, is Milford Center.",
+    long: "",
+    names: ["Milford"]
+  },
+
+  {
+    id: "approach-milford-center",
+    name: "Milford Center",
+    lat: 40.1860,
+    lng: -83.4358,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Milford Center, the village in Union County. I will not make the township this village. Originally called Milford. Originally stays. Latter stays. I will not move the city. If you stay on the road, I'll start at the two spellings.",
+    long: "",
+    names: ["Milford Center", "Milford", "Milford Centre"]
+  },
+  {
+    id: "milford-center-1816",
+    name: "Centre",
+    lat: 40.1786,
+    lng: -83.4358,
+    radius: 40,
+    short: "Under the latter name, platted in 1816. Latter stays. Incorporated in 1853. I will not average them. An office was Milford in 1823, Milford Centre in 1829, and Milford Center in 1893. Centre stays. Finally stays. Again stays. I will not repair it. A marker says laid out in 1814, and it prints a title with no space. I will not add one. It says the name changed in the 1820s, and it keeps an apostrophe, for a more dignified status, as the village became the county seat. Became stays. I will not average that with 1829, and I will not say it is the seat now. The census says eight hundred seven people in 2020. The box and the line do not agree on the land or the water. I will not average them. The water is not nothing. It is nine hundred ninety-four feet up. This pin is the village.",
+    long: "",
+    names: ["Milford Center", "Milford Centre", "Milford"]
+  },
+  {
+    id: "milford-center-ford",
+    name: "Mill-Ford",
+    lat: 40.1781,
+    lng: -83.4350,
+    radius: 40,
+    short: "Known as Mill-Ford. Known as stays. The hyphen stays. Nearly a half mile stays. A later line prints the half without nearly. I will not average them. The marker is in a park. Both past and present stays, on the churches. There is no person with years, no nation, and no battle. I will not move the next village's man. The next place, when you want it, is Millbury.",
+    long: "",
+    names: ["Milford Center"]
+  },
+
+  {
+    id: "approach-millbury",
+    name: "Millbury",
+    lat: 41.5720,
+    lng: -83.4256,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Millbury, the village in Wood County. I will not make the township this village. Previously known as Clay Junction. Previously stays. The picture is a post office. Named after another town. I will not move it. If you stay on the road, I'll start at the office.",
+    long: "",
+    names: ["Millbury", "Clay Junction"]
+  },
+  {
+    id: "millbury-1857",
+    name: "Since",
+    lat: 41.5647,
+    lng: -83.4256,
+    radius: 40,
+    short: "An office called Millbury has been in operation since 1857. Called stays. Has been stays. Since stays. Platted in 1864. A page says platted out. Out stays. Incorporated in 1874. I will not average the years. Named after stays. The census says one thousand one hundred ninety-three people in 2020. I will not average that with one thousand two hundred, or with an estimate, or with about one thousand two hundred. About stays. Rebased stays. All land stays. I did not see a height. This pin is the village.",
+    long: "",
+    names: ["Millbury", "Clay Junction"]
+  },
+  {
+    id: "millbury-coin",
+    name: "The Coin",
+    lat: 41.5642,
+    lng: -83.4248,
+    radius: 40,
+    short: "A mayor said there was a coin toss. Said stays. Two guys stay. Won stays. I will not move the other name's country, and I will not put the toss on the encyclopedia. At approximately a minute stays. At least fifty stays. Many stays. I will not average them. Seven people stay. I will not invent their names. Near a park stays. Also destroyed stays, on the township's buildings. I will not move them. There is no nation, and no battle. The next place, when you want it, is Milledgeville.",
+    long: "",
+    names: ["Millbury"]
+  },
+
+  {
+    id: "approach-milledgeville",
+    name: "Milledgeville",
+    lat: 39.6010,
+    lng: -83.5878,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Milledgeville, the village in Jasper Township, Fayette County. I will not make the township this village. Looking north stays. A heading says city. The article says village. I will not average them. I will not move the other town that shares the name. If you stay on the road, I'll start at the word.",
+    long: "",
+    names: ["Milledgeville"]
+  },
+  {
+    id: "milledgeville-1855",
+    name: "Of Ville",
+    lat: 39.5933,
+    lng: -83.5878,
+    radius: 40,
+    short: "Laid out in 1855. A mill was built on the town site in 1855. I will not make them one event. The name is an amalgamation of a phrase in quotes. Amalgamation stays. I will not repair the last word. An office has been in operation since 1877. Has been stays. Since stays. I will not average the years. The census says ninety-eight people in 2020. I will not average that with one hundred twelve. As of stays. All land stays. A zero of water stays a zero. One page says one thousand forty-seven feet. Another says one thousand fifty. I will not average them. The points do not agree. I will not average them, and I will not add a missing space. This pin is the village.",
+    long: "",
+    names: ["Milledgeville"]
+  },
+  {
+    id: "milledgeville-zero",
+    name: "A Zero",
+    lat: 39.5928,
+    lng: -83.5870,
+    radius: 40,
+    short: "A box prints nine hundred eighty-three. Another page prints nine hundred eighty, and the same kilometer figure. I will not average them. No husband present stays. No wife present stays. There is no person with years, no yard, no nation, and no battle. I will not move the county seat. The next place, when you want it, is Miller.",
+    long: "",
+    names: ["Milledgeville"]
+  },
+
+  {
+    id: "approach-miller",
+    name: "Miller",
+    lat: 38.5400,
+    lng: -82.3061,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Miller, the unincorporated community in Lawrence County. And a designated place. And stays. I will not make the township this place. West bank stays. Bordered to the south stays. I will not move that village. First listed, prior to the census. Prior to stays. If you stay on the road, I'll start at the listing.",
+    long: "",
+    names: ["Miller"]
+  },
+  {
+    id: "miller-prior",
+    name: "Prior To",
+    lat: 38.5325,
+    lng: -82.3061,
+    radius: 40,
+    short: "The page says it was first listed as a designated place prior to the 2020 census. First listed stays. Prior to stays. I will not invent a plat. The census says four hundred fifty-five people. The box prints a density. I will not average them. The water is not nothing. It is five hundred sixty-five feet up. The code prints another town. I will not move it. Upriver stays. Downriver stays. Across from stays. I will not move those towns. This pin is the place.",
+    long: "",
+    names: ["Miller"]
+  },
+  {
+    id: "miller-bank",
+    name: "The West Bank",
+    lat: 38.5320,
+    lng: -82.3053,
+    radius: 40,
+    short: "West bank stays. A street passes through the center. Center stays. I will not make it a building. There is no person with years, no yard, no nation, and no battle. A township page prints other places, and an office with an apostrophe. I will not move them. The next place, when you want it, is Millersburg.",
+    long: "",
+    names: ["Miller"]
+  },
+
+  {
+    id: "approach-millersburg",
+    name: "Millersburg",
+    lat: 40.5630,
+    lng: -81.9181,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Millersburg, the village in Holmes County, and its county seat. And stays. Heart stays, on the region. I will not invent a nation. Sixty-six miles stay, and so do the kilometers. I will not move the city. If you stay on the road, I'll start at the two names.",
+    long: "",
+    names: ["Millersburg"]
+  },
+  {
+    id: "millersburg-1815",
+    name: "The Two Names",
+    lat: 40.5550,
+    lng: -81.9181,
+    radius: 40,
+    short: "Old Town was laid out in November 1815 by Adam Johnson and Charles Miller. November stays. On April 8, 1824, the plan was filed by Andrew Johnston. Andrew stays. Johnston stays. I will not average the names. A marker says the seat was chosen on April 12. Chosen stays. I will not average the days. Itself was established in 1825. Itself stays. Incorporated in 1835, and a marker prints March 6. The day stays. New Town stays, in quotes. One hundred ninety-four lots stay. The census says three thousand one hundred fifty-one people in 2020. The box prints the same miles for the whole and the land, and it also prints a water. I will not average them. The water is not nothing. It is eight hundred ninety-nine feet up. Elevated stays. I will not turn the word into the number. This pin is the village.",
+    long: "",
+    names: ["Millersburg"]
+  },
+  {
+    id: "millersburg-rods",
+    name: "Two Letters",
+    lat: 40.5545,
+    lng: -81.9173,
+    radius: 40,
+    short: "The page prints two letters where a measure should be. I will not repair them. Four rods stay. About one hundred steps stay. I will not convert them. Very nearly stays. A block was for public use. For public use stays. Court house stays, as two words. A picture prints one word. I will not average them. It's stays, where the marker prints the apostrophe. The the stays. I will not remove one. There is no person with years, and no battle. I will not move the buildings that are out of the village. The next place, when you want it, is Millersport.",
+    long: "",
+    names: ["Millersburg"]
+  },
+
+  {
+    id: "approach-millersport",
+    name: "Millersport",
+    lat: 39.9060,
+    lng: -82.5386,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Millersport, the village in Fairfield County. The box does not name a township. I will not add one. The picture is a street, downtown. Downtown stays. Named for a man. I will not invent his years. If you stay on the road, I'll start at the two words for the same year.",
+    long: "",
+    names: ["Millersport"]
+  },
+  {
+    id: "millersport-1825",
+    name: "Laid Out, and Founded",
+    lat: 39.8981,
+    lng: -82.5386,
+    radius: 40,
+    short: "Laid out in 1825, and named for him. Named for stays. A page says founded in 1825, as a port of trade. Founded stays. I will not average the verbs. An office has been in operation since 1839. Since stays. I will not average the years. I did not see an incorporation day. The census says nine hundred seventy-eight people in 2020. I will not average that with one thousand forty-four, or with approximately one thousand two hundred. Approximately stays. The table prints one hundred forty-nine twice. I will not average them, and I will not fill the skipped years. The box and the line do not agree on the land or the water. I will not average them. The water is not nothing. It is nine hundred twenty-two feet up. This pin is the village.",
+    long: "",
+    names: ["Millersport"]
+  },
+  {
+    id: "millersport-licks",
+    name: "The Three Names",
+    lat: 39.8976,
+    lng: -82.5378,
+    radius: 40,
+    short: "A swamp was called one name by the early pioneers, then known as a reservoir, then changed. Originally stays. Later stays. I will not average the three names, and I will not make the swamp this village. South and west banks stay. To the east stays. I will not average the directions. Well preserved stays. I will not add a hyphen. Sovereignty stays. I will not drop it. There is no person with years, no nation, and no battle. I will not move the other town that shares the name. The next place, when you want it, is Millfield.",
+    long: "",
+    names: ["Millersport", "Buffalo Licks"]
+  },
+
+  {
+    id: "approach-millfield",
+    name: "Millfield",
+    lat: 39.4420,
+    lng: -82.0950,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Millfield, in northern Dover Township, Athens County. Northern stays. I will not make the township this place. Although unincorporated stays, on an older line. I will not average it with the newer word. Midway stays. I will not move the two towns. If you stay on the road, I'll start at the office.",
+    long: "",
+    names: ["Millfield"]
+  },
+  {
+    id: "millfield-1827",
+    name: "Besides",
+    lat: 39.4342,
+    lng: -82.0950,
+    radius: 40,
+    short: "An office was established here in 1827. Established stays. Besides the office, it had a gristmill. Besides stays. Had stays. I will not say it stands. The census says three hundred eleven people in 2020. I will not average that with three hundred forty-one, or with only about one thousand five hundred. Only stays. About stays. I did not see a square mile. It is six hundred thirty-three feet up. The points do not agree. I will not average them. A variant name has no apostrophe. I will not add one. A history line is blank. Blank stays. This pin is the place.",
+    long: "",
+    names: ["Millfield", "Denmans Salt Works"]
+  },
+  {
+    id: "millfield-1930",
+    name: "Believed",
+    lat: 39.4337,
+    lng: -82.0942,
+    radius: 40,
+    short: "The worst stays. One page prints the day, November 5, 1930. I will not drop it. A box names the mine one way. The sentence names it another. Number stays. No. stays. I will not average them. Eighty-two stays. I will not average the parts. Only two were believed. Believed stays. Wasn't until midnight stays. I will not repair it. A man died on January 3, 2009. I will not invent his birth. There is no yard, no nation, and no battle. I will not move the mine onto the office. The next place, when you want it, is Millville.",
+    long: "",
+    names: ["Millfield"]
+  },
+
+  {
+    id: "approach-millville",
+    name: "Millville",
+    lat: 39.4000,
+    lng: -84.6528,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Millville, the village in Butler County. The box names two townships. I will not pick one. Sits between two cities. Sits stays. I will not move them. Just west stays. The motto keeps an exclamation. I will not drop it. If you stay on the road, I'll start at the mill.",
+    long: "",
+    names: ["Millville"]
+  },
+  {
+    id: "millville-1805",
+    name: "About",
+    lat: 39.3925,
+    lng: -84.6528,
+    radius: 40,
+    short: "A man opened a grist mill there about 1805. About stays. There stays. The mill is two words. I will not close them. The village was established in 1815. Established stays. I will not average the years. I did not see a later day. The census says six hundred thirty-four people in 2020. The box and the line do not agree on the kilometers. I will not average them. All land stays. A zero of water stays a zero. It is six hundred twenty feet up. A historical office prints another height. Historical stays. I will not average them, and I will not say the office is open. This pin is the village.",
+    long: "",
+    names: ["Millville"]
+  },
+  {
+    id: "millville-north",
+    name: "Some",
+    lat: 39.3920,
+    lng: -84.6520,
+    radius: 40,
+    short: "A cemetery is approximately five and a half miles to the north. Approximately stays. I will not move it. Some who are buried there served. Some stays. The war is printed in small letters. I will not raise them. A man was born here. I will not invent his years, and I will not repair his name. There is no nation. I will not make a census line one. The next place, when you want it, is Miltonsburg.",
+    long: "",
+    names: ["Millville"]
+  },
+
+  {
+    id: "approach-miltonsburg",
+    name: "Miltonsburg",
+    lat: 39.8390,
+    lng: -81.1647,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Miltonsburg, the village in Monroe County. I will not make the township this village. Named after a son. Named after stays. Pioneer stays. He named another town after a daughter. I will not move that town. The picture is along a street. Along stays. If you stay on the road, I'll start at the two verbs.",
+    long: "",
+    names: ["Miltonsburg"]
+  },
+  {
+    id: "miltonsburg-1836",
+    name: "Laid Out, and Organized",
+    lat: 39.8314,
+    lng: -81.1647,
+    radius: 40,
+    short: "A record says laid out in 1836, of another village. Laid out stays. I will not move that village. A page says organized in 1836, and named after the son. Organized stays. I will not average the verbs. The encyclopedia prints the name and not the year. I will not add it. The office is printed as one word, of the same name. I will not split it. The census says forty-two people in 2020. The box and the line do not agree on the miles or the kilometers. I will not average them. All of it land stays. A zero of water stays a zero. It is one thousand two hundred ninety-three feet up. This pin is the village.",
+    long: "",
+    names: ["Miltonsburg"]
+  },
+  {
+    id: "miltonsburg-north",
+    name: "Was",
+    lat: 39.8309,
+    lng: -81.1639,
+    radius: 40,
+    short: "A church was demolished, and a larger one was built on the North side. North stays. Two churches were also here, and the verb is singular. Was stays. I will not repair it. Around stays, on the men who settled near. Among stays. I will not move the township's cabin. There is no person with years, no yard, no nation, and no battle. The next place, when you want it, is Mineral City.",
+    long: "",
+    names: ["Miltonsburg"]
+  },
+
+  {
+    id: "approach-mineral-city",
+    name: "Mineral City",
+    lat: 40.6100,
+    lng: -81.3614,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Mineral City, the village in Tuscarawas County. Central in the township stays. I will not make the township this village. Once known as another name. Once known as stays. The picture is Victorian homes. Victorian stays. If you stay on the road, I'll start at the two verbs for the same year.",
+    long: "",
+    names: ["Mineral City", "Mineral Point"]
+  },
+  {
+    id: "mineral-city-1853",
+    name: "Platted, and Founded",
+    lat: 40.6028,
+    lng: -81.3614,
+    radius: 40,
+    short: "Platted in 1853, and named for deposits near the original town site. Named for stays. Near stays. A page says founded in 1853, and named after the abounding, in quotes. Founded stays. The quotes stay. I will not average the verbs, or the phrases. A mine began in 1850. Beginning stays. Not incorporated until Oct. 11, 1882. Not until stays. I will not average the years. The census says six hundred fifty-two people in 2020. I will not average four hundred with one hundred seventy-five, or one thousand thirty-five with one thousand thirty-two. The box and the line do not agree on the miles. I will not average them. All land stays. A zero of water stays a zero. It is nine hundred fifty-one feet up. This pin is the village.",
+    long: "",
+    names: ["Mineral City"]
+  },
+  {
+    id: "mineral-city-express",
+    name: "Most Famous",
+    lat: 40.6023,
+    lng: -81.3606,
+    radius: 40,
+    short: "A newspaper in 1884 still prints the older name. I will not rename it. By 1890, an opera house. By stays. The most famous person to perform is named. Most stays. I will not invent the night. A man was born here in 1893. I will not invent his death. There is no yard, no nation, and no battle. Influx stays. I will not add a country. The next place, when you want it, is Mineral Ridge.",
+    long: "",
+    names: ["Mineral City", "Mineral Point"]
+  },
+
+  {
+    id: "approach-mineral-ridge",
+    name: "Mineral Ridge",
+    lat: 41.1380,
+    lng: -80.7669,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Mineral Ridge. Unincorporated stays, and so does the other word. Southern one county, northern another. I will not pick. Two townships. I will not make either this place. A page says the ridge made several moves from incorporated to not. Several stays. To not stays. If you stay on the road, I'll start at the name.",
+    long: "",
+    names: ["Mineral Ridge"]
+  },
+  {
+    id: "mineral-ridge-name",
+    name: "Valuable",
+    lat: 41.1306,
+    lng: -80.7669,
+    radius: 40,
+    short: "Named for valuable coal deposits near the original town site. Valuable stays. Near stays. I did not see a plat. Primarily a farming community, with some mining in the 1830s. Primarily stays. Some stays. A discovery in the mid-1850s. Mid stays. April 1871, and an election in April 1872. I will not average them. Unincorporated, reincorporated, and disincorporated. I will not average the words. The census says three thousand nine hundred fifty-one people in 2020. The water is not nothing. It is nine hundred ninety-four feet up. This pin is the place.",
+    long: "",
+    names: ["Mineral Ridge"]
+  },
+  {
+    id: "mineral-ridge-pump",
+    name: "Although",
+    lat: 41.1301,
+    lng: -80.7661,
+    radius: 40,
+    short: "The first mayor is not the first elected mayor. Although stays. Two weeks stay. A school still exists today. Still stays. Around 1873 stays. Two names for the iron stay, in quotes. I will not average them. Largely stays. However, some mines still operated. I will not average them. Benefitted stays. I will not repair it. Unsuccessful stays, on one try. I will not move it. Believed stays. Never stays. There is no person with years, no yard, no nation, and no battle. The next place, when you want it, is Minerva.",
+    long: "",
+    names: ["Mineral Ridge"]
+  },
+
+  {
+    id: "approach-minerva",
+    name: "Minerva",
+    lat: 40.7360,
+    lng: -81.1019,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Minerva, the village primarily in two counties, with a small district in a third. Primarily stays. Small stays. I will not pick. Three townships. I will not make one of them a direction. The motto capitalizes a word I would not. I will not repair it. If you stay on the road, I'll start at the acres.",
+    long: "",
+    names: ["Minerva"]
+  },
+  {
+    id: "minerva-1818",
+    name: "Who",
+    lat: 40.7289,
+    lng: -81.1019,
+    radius: 40,
+    short: "A surveyor bought land in 1818 for a log mill. One page says one hundred twenty-five acres. Another says one hundred twenty-three. I will not average them. Named for a niece. Named for stays. The town grew up around the mill. A page says who grew up. Who stays. I will not repair it. Established in 1833. Incorporated in 1862. I will not average them. A birth is printed as a day in 1833. I will not average the day with the year. The census says three thousand six hundred eighty-four people in 2020. Just under four thousand stays. I will not average them. The box and the line do not agree on the miles. I will not average them. All land stays. A zero of water stays a zero. It is one thousand fifty-six feet up. This pin is the village.",
+    long: "",
+    names: ["Minerva"]
+  },
+  {
+    id: "minerva-car",
+    name: "In Fact",
+    lat: 40.7284,
+    lng: -81.1011,
+    radius: 40,
+    short: "A canal on one page, and canals on another. I will not average them. Then later stays. In fact, the first steel railroad car, in the nineteenth century. I will not invent the year. A paper charged one dollar. One dollar stays. A man was born here, and the sentence says he died. He stays. I will not invent the office. Many parks stay, within the limits. I will not name one. There is no nation, and no battle. The next place, when you want it, is Minford.",
+    long: "",
+    names: ["Minerva"]
+  },
+
+  {
+    id: "approach-minford",
+    name: "Minford",
+    lat: 38.8760,
+    lng: -82.8606,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Minford, on the border of two townships, in northeastern Scioto County. On the border stays. I will not pick a township. About fourteen miles, and twenty-three kilometers, from the county seat. About stays. I will not move that city. Originally another name. Originally stays. If you stay on the road, I'll start at the change.",
+    long: "",
+    names: ["Minford", "Harrisonville"]
+  },
+  {
+    id: "minford-1859",
+    name: "Already",
+    lat: 38.8681,
+    lng: -82.8606,
+    radius: 40,
+    short: "Originally formed as another name in 1859. Formed stays. The name changed in 1917, because a town along the railroad already had it. Already stays. I will not move that town. A page prints August 17. I will not drop the day. A railroad was built in 1916. I will not average the years. In honor of a local family stays. I will not invent their years. The census says six hundred forty-one people in 2020. The miles agree, and the kilometers do not. I will not average them. The water is not nothing. It is six hundred eighty-six feet up. The office is a different point. I will not average them. This pin is the place.",
+    long: "",
+    names: ["Minford", "Harrisonville"]
+  },
+  {
+    id: "minford-fifth",
+    name: "Recently",
+    lat: 38.8676,
+    lng: -82.8598,
+    radius: 40,
+    short: "The fifth office. Fifth stays. However, the original building is no longer standing. A new one was recently built at that location, in 2000. Recently stays. I will not average them. A township office in 1825 had no apostrophe. I will not add one, and I will not move it here. May be incomplete stays. Officiately stays. I will not repair it. There is no person with years, no yard, no nation, and no battle. I will not move the nearby park. The next place, when you want it, is Mingo Junction.",
+    long: "",
+    names: ["Minford"]
+  },
+
+  {
+    id: "approach-mingo-junction",
+    name: "Mingo Junction",
+    lat: 40.3290,
+    lng: -80.6092,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Mingo Junction, the village in Jefferson County, along the Ohio River. Along stays. I will not make the township this village. Originally two older names. Or stays. The picture is downtown. A view keeps an apostrophe. I will not drop it. If you stay on the road, I'll start at the source of the name.",
+    long: "",
+    names: ["Mingo Junction", "Mingo Bottom", "Mingo Town"]
+  },
+  {
+    id: "mingo-junction-once",
+    name: "Once",
+    lat: 40.3214,
+    lng: -80.6092,
+    radius: 40,
+    short: "A people once had a settlement here, and that is the source of the name. Once stays. Present-day keeps a hyphen. An older page says a tribe, and two words. I will not average them. About twenty cabins, and about seventy inhabitants. About stays. One page names one confederacy. Another names another. I will not average them. The box says founded in 1869. The sentence says circa. Circa stays. A page prints later years for the lots and the incorporation. I will not average them. The census says three thousand three hundred forty-seven people in 2020. I will not average that with three thousand four hundred fifty-four. The water is not nothing. It is nine hundred ninety-four feet up. This pin is the village.",
+    long: "",
+    names: ["Mingo Junction"]
+  },
+  {
+    id: "mingo-junction-ill-fated",
+    name: "Ill-Fated",
+    lat: 40.3209,
+    lng: -80.6084,
+    radius: 40,
+    short: "It was the starting point, in 1782, during the war. Ill-fated stays. One page says Native Americans. An older page says hostile. Hostile stays. I will not average them, and I will not invent the rest. A camp in 1770 is not that year. In 1900, the only plant was a mill. Only stays. I will not say only now. There is no person with years, and no yard. A neighborhood is printed as it is. I will not repair it. The next place, when you want it, is Minster.",
+    long: "",
+    names: ["Mingo Junction"]
+  },
+
+  {
+    id: "approach-minster",
+    name: "Minster",
+    lat: 40.4010,
+    lng: -84.3761,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Minster, the village in two counties. I will not pick one. Adjacent to another village, to the north. Adjacent stays. I will not move it. The picture is a church. The older name is not this one. A region’s name keeps two dots. I will not drop them. If you stay on the road, I'll start at the two years.",
+    long: "",
+    names: ["Minster", "Stallostown"]
+  },
+  {
+    id: "minster-1832",
+    name: "Now Call",
+    lat: 40.3939,
+    lng: -84.3761,
+    radius: 40,
+    short: "Founded in 1832 as another name, for a founder. For stays. The name changed in 1836. After stays. Heavily stays. I will not average the years, or the spellings. A marker prints a day, with a mark in front of it. The mark stays. A line says now call. Call stays. I will not repair it. One page says one form of his name. Another says another. I will not average them. The census says three thousand forty-six people in 2020. The box and the line do not agree on the miles. I will not average them. All land stays. A zero of water stays a zero. It is nine hundred sixty-eight feet up. This pin is the village.",
+    long: "",
+    names: ["Minster", "Stallostown"]
+  },
+  {
+    id: "minster-colonie",
+    name: "Barely",
+    lat: 40.3934,
+    lng: -84.3753,
+    radius: 40,
+    short: "A sign said Colonie. I will not repair it. Barely stays. From a hat stays. Some land was reserved, and some is not capitalized. Market place stays two words. All a virgin forest stays. I will not name a nation. Around 1920 stays. Largely stays. Some street names remained. Or stays, between two cities. I will not pick one. There is no person with years, and no battle. One of the world's largest stays. The next place, when you want it, is Mitiwanga.",
+    long: "",
+    names: ["Minster", "Stallostown"]
+  },
+
+  {
+    id: "approach-mitiwanga",
+    name: "Mitiwanga",
+    lat: 41.3890,
+    lng: -82.4658,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Mitiwanga, an unincorporated community and a census-designated place, in Erie County. Both words stay. Within two townships, on the south shore. Within stays. I will not pick a township, and I will not move the city that shares a name. A page does not have a founding date. Might stays. If you stay on the road, I'll start at the office.",
+    long: "",
+    names: ["Mitiwanga"]
+  },
+  {
+    id: "mitiwanga-1917",
+    name: "Might",
+    lat: 41.3811,
+    lng: -82.4658,
+    radius: 40,
+    short: "A page says it does not have a founding date, and you might consider that the office opened in 1917. Might stays. I will not turn it into a founding. The same list says the office closed in 1958. A store was an office until 1959. Until stays. I will not average them. The census says three hundred twenty-six people in 2020. The miles agree, and the kilometers do not. I will not average them. The water is not nothing. One page says one hundred eighty meters. Another says one hundred eighty-three. I will not average them. It is six hundred feet up. This pin is the place.",
+    long: "",
+    names: ["Mitiwanga"]
+  },
+  {
+    id: "mitiwanga-reputedly",
+    name: "Reputedly",
+    lat: 41.3806,
+    lng: -82.4650,
+    radius: 40,
+    short: "Reputedly a word, in quotes. Reputedly stays. I will not name a nation. Apparently split stays. Around the time stays. Possibly stays. I will not drop it. About thirty cottages stay. About fifteen acres stay. A name is printed as it is. I will not repair it. A building was demolished. Fifty year old stays, as three words. A death is printed as 1840. I will not invent a birth. There is no yard I can move here, and no battle. The next place, when you want it, is Mogadore.",
+    long: "",
+    names: ["Mitiwanga"]
+  },
+
+
+
 
 
 

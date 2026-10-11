@@ -25587,6 +25587,326 @@ STORIES.push(
     names: ["Malta"]
   },
 
+  {
+    id: "approach-malvern",
+    name: "Malvern",
+    lat: 40.6970,
+    lng: -81.1803,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Malvern, the village in Brown Township, in northwestern Carroll County. Northwestern stays. Not the lake. The page says it is not technically part of the village. Not technically stays. Not Malta. If you stay on the road, I'll start at the two plat years.",
+    long: "",
+    names: ["Malvern"]
+  },
+  {
+    id: "malvern-1834",
+    name: "At Some Point",
+    lat: 40.6894,
+    lng: -81.1803,
+    radius: 40,
+    short: "The box says settled in 1806, platted in 1834, and incorporated on May 31, 1869. The day stays. It was laid out as Troy, and renamed in 1840. Renamed stays. A village page says at some point early, and it prints troy in small letters. At some point stays. I will not average them. A society page says platted in 1835, under the man's name. I will not average the years, or the names. Lodi was nearby, its own entity for some years, and eventually annexed. Eventually stays. The census says one thousand one hundred ten people in 2020. A village page says one thousand two hundred. I will not average them. The box and the geography line do not agree on the miles. I will not average them. It is nine hundred ninety-four feet up. The picture is the post office. This pin is the village.",
+    long: "",
+    names: ["Malvern"]
+  },
+  {
+    id: "malvern-bricks",
+    name: "As In the Year",
+    lat: 40.6889,
+    lng: -81.1795,
+    radius: 40,
+    short: "Some of the first paving bricks were made in 1893. Some of stays. First stays. The page prints two yearly counts. I will not average them. As in the year stays. They can be seen today. Today stays. A village page says the early nineteen hundreds, and keeps the apostrophe. I will not average the dates. The lake is not technically part of the village. Not technically stays. I will not move it, or the creek, or Canton, or Manchester. There is no person with years, no yard, no nation, and no battle. The next place, when you want it, is Manchester.",
+    long: "",
+    names: ["Malvern"]
+  },
+
+  {
+    id: "approach-manchester",
+    name: "Manchester",
+    lat: 38.6920,
+    lng: -83.6147,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Manchester, the village in Manchester Township, Adams County, along the Ohio River. Along stays. Not England. Not Lebanon. The picture is Second Street. If you stay on the road, I'll start at the two years.",
+    long: "",
+    names: ["Manchester"]
+  },
+  {
+    id: "manchester-1790",
+    name: "First and Fourth",
+    lat: 38.6847,
+    lng: -83.6147,
+    radius: 40,
+    short: "The history says it was founded in 1790 as Massie's Station, and in 1791 it became known as Manchester. Became known stays. The box says established in 1791, and incorporated in 1850. A newspaper says officially incorporated in 1839. Officially stays. I will not average the years. It was the first permanent settlement in the district, and the fourth in the territory. First stays. Fourth stays. One page says ancestral home. Another says hometown. I will not average them. The census says one thousand eight hundred thirty-nine people in 2020. Another page prints one thousand eight hundred forty-five. I will not average them. The total miles agree. The land and the water do not. I will not average the parts. One height is five hundred twelve feet. Another page prints one hundred fifty-four meters. I will not average them. This pin is the village.",
+    long: "",
+    names: ["Manchester"]
+  },
+  {
+    id: "manchester-pickets",
+    name: "At the Helm",
+    lat: 38.6842,
+    lng: -83.6139,
+    radius: 40,
+    short: "A man who lived in the fort wrote in 1834 that by the middle of March the whole town was enclosed with strong pickets, and blockhouses stood at each angle, for defense. The quote stays. At the helm stays. With spirit stays. I will not invent a battle. One page says near three islands. Another says located at Three Islands. I will not average them. A flood figure is 79.99 feet, according to Foster. According to stays. I will not round it. I will not move England, or Lebanon, or the river. There is no person with years, no yard, and no nation. The next place, when you want it, is Mantua.",
+    long: "",
+    names: ["Manchester"]
+  },
+
+  {
+    id: "approach-mantua",
+    name: "Mantua",
+    lat: 41.2890,
+    lng: -81.2225,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Mantua, the village in northern Portage County, along the Cuyahoga River. Along stays. Not the township center. Not Italy. Not Ravenna. The picture is businesses in a brick district. If you stay on the road, I'll start at the station.",
+    long: "",
+    names: ["Mantua"]
+  },
+  {
+    id: "mantua-1840s",
+    name: "A Stop",
+    lat: 41.2819,
+    lng: -81.2225,
+    radius: 40,
+    short: "The encyclopedia says the village was laid out in the eighteen forties as Mantua Station, a stop on a railroad, and incorporated in 1898. The decade stays. A stop stays. Settlers came to the township in 1798. I will not put that year on the plat. The name honors a capture in early 1797, at the end of a siege. At the end stays. Another page says besieged in 1797. The township page says 1796. I will not average them. The siege stays in Italy. The census says one thousand one people in 2020. The box and the geography line do not agree on the miles, or on the water. I will not average them. It is one thousand ninety-six feet up. The picture is the businesses. This pin is the village.",
+    long: "",
+    names: ["Mantua"]
+  },
+  {
+    id: "mantua-center",
+    name: "Three Sides",
+    lat: 41.2814,
+    lng: -81.2217,
+    radius: 40,
+    short: "The village became independent of the township in 1993, and it borders that township on three sides. Independent stays. Three stays. The green, the cemetery, and the eighteen-forty church stay there. I will not move them. Three buildings are on the register here. I do not have their years. I will not move Ravenna, or Akron, or Italy, or Maple Ridge. There is no person with years, no yard, no nation, and no battle on this ground. The next place, when you want it, is Maple Ridge.",
+    long: "",
+    names: ["Mantua"]
+  },
+
+  {
+    id: "approach-maple-ridge",
+    name: "Maple Ridge",
+    lat: 40.9220,
+    lng: -81.0469,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Maple Ridge, the census place in Smith Township, southwestern Mahoning County, between Alliance and Sebring. Between stays. I will not make it either city. Not a village. If you stay on the road, I'll start at the count.",
+    long: "",
+    names: ["Maple Ridge"]
+  },
+  {
+    id: "maple-ridge-2020",
+    name: "Between",
+    lat: 40.9142,
+    lng: -81.0469,
+    radius: 40,
+    short: "The census says six hundred sixty-seven people in 2020. The groups add to that count, and the page keeps urban and rural. Both stay. A survey prints four hundred thirty-three, unless noted. Unless noted stays. I will not average them. The table begins at 2000. Another page prints 1990, and says the figures were rebased. Rebased stays. For 2000 the pages do not agree. I will not average them. The box and the geography line do not agree on the miles, or on the water. I will not average them. One height is one thousand seventy feet. Another page prints three hundred thirty-six meters, plus or minus one. The plus or minus stays. I will not average them. The picture is a map. This pin is the census place.",
+    long: "",
+    names: ["Maple Ridge"]
+  },
+  {
+    id: "maple-ridge-skips",
+    name: "No Office",
+    lat: 40.9137,
+    lng: -81.0461,
+    radius: 40,
+    short: "There is no plat, and no office of its own. The postal line names two other cities, and the parentheses stay. The 2000 household shares do not add to a hundred. I will not make them a hundred. No husband present stays. There is no person with years, no yard, no building, no nation, and no battle. I will not move Alliance, or Sebring, or Youngstown, or Warren. The next place, when you want it, is Maplewood Park.",
+    long: "",
+    names: ["Maple Ridge"]
+  },
+
+  {
+    id: "approach-maplewood-park",
+    name: "Maplewood Park",
+    lat: 41.1470,
+    lng: -80.5797,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Maplewood Park, the unincorporated place in southern Hubbard Township, Trumbull County. Southern stays. The name says Park. The page does not call it a park. I will not. Not Hubbard the city. If you stay on the road, I'll start at the count.",
+    long: "",
+    names: ["Maplewood Park"]
+  },
+  {
+    id: "maplewood-park-2020",
+    name: "All Land",
+    lat: 41.1392,
+    lng: -80.5797,
+    radius: 40,
+    short: "The census says two hundred forty-three people in 2020. The groups add to that count. Rural and urban both stay. A survey prints two hundred fifty-one, unless noted. Unless noted stays. I will not average them. The table begins at 2000. Another page prints 1990, and says the figures were rebased. Rebased stays. For 2000 the pages do not agree. I will not average them. One table prints a zero. Another page prints one. A zero stays a zero. The box says seventy-nine hundredths of a mile, and the water is written as zero. The geography line says eight tenths, all land. All stays. I will not average them. It is one thousand sixty-six feet up. The picture is a map. This pin is the census place.",
+    long: "",
+    names: ["Maplewood Park"]
+  },
+  {
+    id: "maplewood-park-name",
+    name: "Not a Park",
+    lat: 41.1387,
+    lng: -80.5789,
+    radius: 40,
+    short: "The name says Park. The page does not describe one. I will not invent it. There is no plat, and no office on the page. The 2000 household shares do not add to a hundred. No husband present stays. A copy leaves the area blank, and it spells census wrong. The blank stays. I will not repair it. There is no person with years, no building, no nation, and no battle. I will not move Hubbard, or Youngstown, or Warren. The next place, when you want it, is Marathon.",
+    long: "",
+    names: ["Maplewood Park"]
+  },
+
+  {
+    id: "approach-marathon",
+    name: "Marathon",
+    lat: 39.1530,
+    lng: -84.0064,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Marathon, the unincorporated place in Jackson Township, Clermont County. One page says northeastern. Another says eastern. I will not average them. Not a race. If you stay on the road, I'll start at the old name.",
+    long: "",
+    names: ["Marathon"]
+  },
+  {
+    id: "marathon-1838",
+    name: "The Latter Name",
+    lat: 39.1453,
+    lng: -84.0064,
+    radius: 40,
+    short: "The page says it was originally called Cynthiana, and laid out in 1838 under the latter name. Originally stays. Latter stays. I will not move the village that still uses that name. An office called Marathon was established in 1845, and remained until its discontinuation in 2011. Discontinuation stays. Another page says discontinued. I will not average the words. I will not say the office is open. Although it is unincorporated, it had a post office. Although stays. The old code and the current code do not agree. Current stays. I will not average them. As of the 2020 census, the page says one hundred fifty-five people. As of stays. I did not see an area, or a height. The pictures are a sign, and the street, looking east. This pin is the place.",
+    long: "",
+    names: ["Marathon"]
+  },
+  {
+    id: "marathon-name",
+    name: "Not a Race",
+    lat: 39.1448,
+    lng: -84.0056,
+    radius: 40,
+    short: "The name is not a race, and it is not a battle the page tells. I will not invent why the office took it. The lead says Route. The caption says Highway. I will not average them. There is no person with years, no yard, no nation, and no fight. I will not move the other Cynthiana, or the road's whole course. The next place, when you want it, is Marblehead.",
+    long: "",
+    names: ["Marathon"]
+  },
+
+  {
+    id: "approach-marblehead",
+    name: "Marblehead",
+    lat: 41.5160,
+    lng: -82.7283,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Marblehead, the village in Danbury Township, Ottawa County, at the tip of the peninsula. Tip stays. It divides the lake proper from the bay. Proper stays. Not Sandusky. Not the islands. The picture is the lighthouse. If you stay on the road, I'll start at the name.",
+    long: "",
+    names: ["Marblehead"]
+  },
+  {
+    id: "marblehead-stone",
+    name: "Mistaken",
+    lat: 41.5083,
+    lng: -82.7283,
+    radius: 40,
+    short: "A village page says limestone hugs the shore, and early settlers mistook it for marble. Mistaken stays. That is the name. A quarry did not open until 1834. Until stays. The light and the house were built in 1821 and 1822. The hyphen stays. Another page says constructed in 1822, and completed in 1821. I will not average them. The census says eight hundred sixty-five people in 2020. A village page says approximately one thousand. Approximately stays. I will not average them. The box, the geography line, and the village page do not agree on the miles. Just over stays. I will not average the three. It is five hundred ninety-four feet up. The picture is the light. This pin is the village.",
+    long: "",
+    names: ["Marblehead"]
+  },
+  {
+    id: "marblehead-certain",
+    name: "For Certain",
+    lat: 41.5078,
+    lng: -82.7275,
+    radius: 40,
+    short: "A marker says it cannot say for certain that the stone in front of it built the light. Cannot stays. For certain stays. Seem stays. Probably stays. The park is within the village. Within stays. The page prints fifty feet, and another fifteen. I will not add them. A keeper is called a veteran. Veteran stays. I will not invent the battle. An island in the bay stays nearby. Nearby stays. I will not move it, or Lake Superior, or Cedar Point. There is no person with years, and no nation on this village. The next place, when you want it, is Marengo.",
+    long: "",
+    names: ["Marblehead"]
+  },
+
+  {
+    id: "approach-marengo",
+    name: "Marengo",
+    lat: 40.4080,
+    lng: -82.8111,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Marengo, the village in Bennington Township, Morrow County, south of Mount Gilead. South stays. I will not move the seat. Not the other Marengo. The picture is Main Street. If you stay on the road, I'll start at the old name.",
+    long: "",
+    names: ["Marengo"]
+  },
+  {
+    id: "marengo-1843",
+    name: "Either",
+    lat: 40.4008,
+    lng: -82.8111,
+    radius: 40,
+    short: "The encyclopedia says it was platted in 1873, although a settlement had been at the site since 1843. Although stays. Initially it was Freeman's Corners. Initially stays. One page says a cottage. Another says a log cabin, and it prints an asterisk. I will not average them. The office was established in either 1847 or 1848. Either stays. Or stays. I will not pick. The name was reportedly chosen in honor of a battle in 1800. Reportedly stays. I will not move the battle. The census says two hundred eighty-three people in 2020. An estimate prints three hundred forty-one. Estimates stay. I will not average them. The miles agree, and the water is written as zero. The heights do not agree. I will not average them. The picture is the street. This pin is the village.",
+    long: "",
+    names: ["Marengo"]
+  },
+  {
+    id: "marengo-curfew",
+    name: "Seem",
+    lat: 40.4003,
+    lng: -82.8103,
+    radius: 40,
+    short: "A page says a curfew rings at seven, and the children seem to be very observant. Seem stays. Thirty lots were platted, and later additions were one hundred and five. Later stays. I will not add them. Fires in 1871 and 1874 both stay. A grove is not a park. Native trees are trees. There is no person with years, and no battle on this ground. I will not move New Jersey, or Toledo, or the Austrians, or the other Marengo. The next place, when you want it, is Maria Stein.",
+    long: "",
+    names: ["Marengo"]
+  },
+
+  {
+    id: "approach-maria-stein",
+    name: "Maria Stein",
+    lat: 40.4150,
+    lng: -84.4933,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Maria Stein, the unincorporated place in Marion Township, Mercer County. The name is German, literally two phrases. Literally stays. Or stays. Not the abbey. Not Basel. The pictures are a church and two houses. If you stay on the road, I'll start at the two communities.",
+    long: "",
+    names: ["Maria Stein"]
+  },
+  {
+    id: "maria-stein-1833",
+    name: "No Written Evidence",
+    lat: 40.4075,
+    lng: -84.4933,
+    radius: 40,
+    short: "The page says St. Johns was established in 1833, because all of its early male settlers bore the name of John. All stays. A railroad came some decades later. A copy says some years later. I will not average them. The two places were only half a mile apart, and they eventually merged. Eventually stays. Only stays. Although there is no written evidence a priest named the town. Although stays. Probably stays. Supportive stays. I will not drop them. A shrine page says that location was settled in 1846. I will not make that the year of St. Johns. As of the 2020 census, the page says one thousand sixty-seven people. As of stays. The water is one thousandth of a mile. I will not round it away. It is nine hundred seventy-four feet up. This pin is the census place.",
+    long: "",
+    names: ["Maria Stein"]
+  },
+  {
+    id: "maria-stein-relics",
+    name: "Believe",
+    lat: 40.4070,
+    lng: -84.4925,
+    radius: 40,
+    short: "The page says Catholics believe the relics retain and transmit graces. Believe stays. Usually stays. I will not drop the hedge. A courtyard can be seen yet today. Yet today stays. I will not call it a park. A deed was signed to the laity on the eighth of December in 2017. Laity stays. There is no person with the years of a life, no nation, and no battle on this ground. I will not move Switzerland, or Basel, or Italy. The next place, when you want it, is Mariemont.",
+    long: "",
+    names: ["Maria Stein"]
+  },
+
+  {
+    id: "approach-mariemont",
+    name: "Mariemont",
+    lat: 39.1520,
+    lng: -84.3761,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Mariemont, the village in eastern Hamilton County, in the Cincinnati metropolitan area. Eastern stays. I will not make it that city. Not Rhode Island. Not England. The picture is the inn. If you stay on the road, I'll start at the groundbreaking.",
+    long: "",
+    names: ["Mariemont"]
+  },
+  {
+    id: "mariemont-1923",
+    name: "However",
+    lat: 39.1442,
+    lng: -84.3761,
+    radius: 40,
+    short: "The page says ground was broken on April 23, 1923. Other dignitaries stay. A page says the first spadeful of Earth. The capital stays. The plan was accepted in 1921, and the village was incorporated in 1949. I will not average them. The name was for a summer home, and thus an English pronunciation. Thus stays. One page says not Marie-mont. Not stays. The dream of welcoming all classes was not achieved in the end. However stays. In the end stays. It was originally an exclusively white community. Originally stays. Exclusively stays. I will not soften it. The census says three thousand five hundred eighteen people in 2020. The box, the geography line, and a profile do not agree on the miles. I will not average them. It is five hundred eighty-four feet up. The picture is the inn. This pin is the village.",
+    long: "",
+    names: ["Mariemont"]
+  },
+  {
+    id: "mariemont-nearby",
+    name: "Nearby",
+    lat: 39.1437,
+    lng: -84.3753,
+    radius: 40,
+    short: "A pioneer cemetery is adjacent to the one church. Adjacent stays. Only stays. The remains of a Fort Ancient village are nearby. Nearby stays. A page says the acres were anciently inhabited by Indians. Anciently stays. I will not average the words, and I will not move the site. One page says one of the few criers. Another says the nation's only. I will not average them. A spelling, Neighbourhood, stays. I will not repair it. There is no person with years, and no battle on this ground. I will not move Cincinnati, or the river, or England. The next place, when you want it, is Marietta.",
+    long: "",
+    names: ["Mariemont"]
+  },
+
 
 
 

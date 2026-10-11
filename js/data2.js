@@ -26483,6 +26483,295 @@ STORIES.push(
     names: ["McDonald"]
   },
 
+  {
+    id: "approach-mcguffey",
+    name: "McGuffey",
+    lat: 40.7000,
+    lng: -83.7858,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on McGuffey, the village in Hardin County. I will not make the township this village. The picture is an aerial view from the south. From the south stays. If you stay on the road, I'll start at the name.",
+    long: "",
+    names: ["McGuffey"]
+  },
+  {
+    id: "mcguffey-1890",
+    name: "December",
+    lat: 40.6928,
+    lng: -83.7858,
+    radius: 40,
+    short: "The encyclopedia says it was laid out in 1890, and named for John McGuffey. A museum says December 1890, and of Columbus. December stays. Of stays. I will not move that city, and I will not average the dates. He had donated land for a depot, in exchange for the naming rights. In exchange stays. An office has been in operation since 1883. Since stays. Incorporated in 1896. I will not average the three years. The census says four hundred sixty-six people in 2020. Another page prints four hundred sixty-three. I will not average them. The water is a zero. A zero stays a zero. All land stays. I will not average them. It is nine hundred seventy-one feet up. The pictures are the office and the hall. This pin is the village.",
+    long: "",
+    names: ["McGuffey"]
+  },
+  {
+    id: "mcguffey-hugh",
+    name: "Hugh",
+    lat: 40.6923,
+    lng: -83.7850,
+    radius: 40,
+    short: "A brick school house was built in 1908. School house stays. The warehouses were hugh. Hugh stays. I will not repair it. Carrot stays. Always stays. A man from here was killed in 1943, on an island. I will not move the island, and I will not invent his birth year. A bear is said to come from the area. Said to stays. I will not move the museums, or the marsh. There is no yard, and no nation. The next place, when you want it, is McKinley Heights.",
+    long: "",
+    names: ["McGuffey"]
+  },
+
+  {
+    id: "approach-mckinley-heights",
+    name: "McKinley Heights",
+    lat: 41.1940,
+    lng: -80.7178,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on McKinley Heights, unincorporated, and a census place, in northeastern Weathersfield Township, Trumbull County. Unincorporated stays. Northeastern stays. I will not make the township this place. Not Niles. The picture is a location. If you stay on the road, I'll start at the two names.",
+    long: "",
+    names: ["McKinley Heights"]
+  },
+  {
+    id: "mckinley-heights-zero",
+    name: "A Zero",
+    lat: 41.1861,
+    lng: -80.7178,
+    radius: 40,
+    short: "The encyclopedia does not print a plat, or an office. I will not invent them. The census says nine hundred fifty people in 2020. A sentence says 1060, and no year. I will not add a comma, and I will not average them. Estimates place it at one thousand two hundred thirty-one. Estimates stays. The water is a zero. A zero stays a zero. All land stays. Approximately nine tenths stays. I will not average them. It is nine hundred ninety-one feet up. This pin is the place.",
+    long: "",
+    names: ["McKinley Heights"]
+  },
+  {
+    id: "mckinley-heights-until",
+    name: "Until",
+    lat: 41.1856,
+    lng: -80.7170,
+    radius: 40,
+    short: "A page says it was known as Tibbets Corners. Known as stays. The later name honored a president, born nearby in 1843. Nearby stays. I will not move that city. Sections of a house were relocated, and it was a public attraction until a fire in 1937. Until stays. Sections stays. I will not say it is still there. I will not average the two crossings. There is no person with years, no yard, no nation, and no battle. The next place, when you want it, is Mechanicsburg.",
+    long: "",
+    names: ["McKinley Heights"]
+  },
+
+  {
+    id: "approach-mechanicsburg",
+    name: "Mechanicsburg",
+    lat: 40.0810,
+    lng: -83.5564,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Mechanicsburg, the village in Champaign County. I will not make the township this village. An older page points to another place with this name. I will not move it. The motto is in quotes. The picture is the village hall. If you stay on the road, I'll start at the name.",
+    long: "",
+    names: ["Mechanicsburg"]
+  },
+  {
+    id: "mechanicsburg-1814",
+    name: "A Large Share",
+    lat: 40.0733,
+    lng: -83.5564,
+    radius: 40,
+    short: "The box says established in 1814. The history says platted in 1814. I will not average the words. So named for the fact a large share worked as mechanics. A large share stays. For the fact stays. By 1833, a gristmill and a saw mill. I will not average the two spellings. Incorporated in 1834. I will not average 1814 and 1834. The census says one thousand six hundred eighty-one people in 2020. An estimate prints one thousand five hundred ninety-one. Estimate stays. I will not average them. The box and the geography line do not agree on the miles. The water is not nothing. I will not round it. It is one thousand eighty-six feet up. The picture is the hall. This pin is the village.",
+    long: "",
+    names: ["Mechanicsburg"]
+  },
+  {
+    id: "mechanicsburg-standoff",
+    name: "Between",
+    lat: 40.0728,
+    lng: -83.5556,
+    radius: 40,
+    short: "Udney Hyde, 1808 to 1887, is credited with helping more than five hundred. Credited stays. More than stays. The quotes on conductor stay. A standoff stays. The people paid between nine hundred and nine hundred fifty dollars. Between stays. I will not average them. Two are buried at Maple Grove. Buried stays. I will not move Kentucky, or the river, or the other place with this name. There is no nation. The next place, when you want it, is Medway.",
+    long: "",
+    names: ["Mechanicsburg"]
+  },
+
+  {
+    id: "approach-medway",
+    name: "Medway",
+    lat: 39.8910,
+    lng: -84.0136,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Medway, unincorporated, and a census place, in Bethel Township, Clark County. Unincorporated stays. A page also says hamlet, and the history says village. I will not average the words. Also known as Midway stays. I will not move Springfield, or Dayton. If you stay on the road, I'll start at the midway.",
+    long: "",
+    names: ["Medway", "Midway"]
+  },
+  {
+    id: "medway-1816",
+    name: "Midway",
+    lat: 39.8836,
+    lng: -84.0136,
+    radius: 40,
+    short: "The page says it was platted in 1816, and named for being the midway point. Midway stays. I will not average the spellings, and I will not move the two cities. An office has been in operation since 1850. Since stays. A list prints 08/06/1850. I will not average the day with the year. The census says six hundred twenty-seven people, as of 2020. As of stays. I did not see an area. One page says eight hundred fifty feet. Another says eight hundred forty-six. I will not average them. The points do not agree. I will not average them either. This pin is the place.",
+    long: "",
+    names: ["Medway", "Midway"]
+  },
+  {
+    id: "medway-therefore",
+    name: "Therefore",
+    lat: 39.8831,
+    lng: -84.0128,
+    radius: 40,
+    short: "Beaver pelt stays. I will not make it plural. A camp was later moved. Later stays. Near stays. I will not move the post. The page puts a fight on August 8, 1782, in present-day Medway. Present-day stays. Therefore stays. As such stays. The quote ends with thereto. I will not repair it. Amerindians stays. I will not repair that either. There is no person with years, and no yard. A school is four kilometers north. North stays. I will not move it. The next place, when you want it, is Melmore.",
+    long: "",
+    names: ["Medway", "Midway"]
+  },
+
+  {
+    id: "approach-melmore",
+    name: "Melmore",
+    lat: 41.0340,
+    lng: -83.1050,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Melmore, the census place in central Eden Township, Seneca County. Central stays. I will not make the township this place. An older printing says although it is unincorporated. Although stays. I will not average the words. The picture is a location. If you stay on the road, I'll start at the name.",
+    long: "",
+    names: ["Melmore"]
+  },
+  {
+    id: "melmore-1824",
+    name: "The Hyphen",
+    lat: 41.0261,
+    lng: -83.1050,
+    radius: 40,
+    short: "The page says it was platted in 1824. The name was formed from a Latin word, meaning honey, and an adjective with a hyphen. The hyphen stays. Honey standing for a creek, upon which the town is situated. Standing for stays. Upon which stays. I will not move the creek. An office was established in 1825, and remained until 1993. Until stays. The lead says it has an office. Has stays. I will not average them. The census says one hundred seventy-three people in 2020. The water is a zero. A zero stays a zero. It is eight hundred fifty-six feet up. The points do not agree. I will not average them. This pin is the place.",
+    long: "",
+    names: ["Melmore"]
+  },
+  {
+    id: "melmore-until",
+    name: "Until",
+    lat: 41.0256,
+    lng: -83.1042,
+    radius: 40,
+    short: "Until stays. Has stays. I will not average open and closed. There is no person with years, no yard, no building I can point at, no nation, and no battle. I will not make the county a nation, and I will not move a war out of a book's title. The next place, when you want it, is Mentor-on-the-Lake.",
+    long: "",
+    names: ["Melmore"]
+  },
+
+  {
+    id: "approach-mentor-on-the-lake",
+    name: "Mentor-on-the-Lake",
+    lat: 41.7180,
+    lng: -81.3717,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Mentor-on-the-Lake, the city in Lake County. The hyphens stay. One page prints capitals. Another prints spaces. I will not average them. Originally a township with Mentor. Originally stays. I will not make it that city. If you stay on the road, I'll start at the day.",
+    long: "",
+    names: ["Mentor-on-the-Lake"]
+  },
+  {
+    id: "mentor-on-the-lake-1924",
+    name: "Over",
+    lat: 41.7108,
+    lng: -81.3717,
+    radius: 40,
+    short: "The encyclopedia says the village was established October 22, 1924. A city page says the government began that day. Began stays. I will not average the words. It became a city on February 12, 1971, because a census was over five thousand. Over stays. Thus stays. The table says six thousand five hundred seventeen. A page says above 5000, and no comma. I will not average them. The census says seven thousand one hundred thirty-one people in 2020. An estimate prints seven thousand one hundred twenty. Estimate stays. The water is not nothing. One page says one and six tenths of a mile. I will not average it with the other miles. I did not see a height. This pin is the city.",
+    long: "",
+    names: ["Mentor-on-the-Lake"]
+  },
+  {
+    id: "mentor-on-the-lake-resort",
+    name: "No Longer",
+    lat: 41.7103,
+    lng: -81.3709,
+    radius: 40,
+    short: "A book still calls it a tourist resort. Still stays. It can no longer be referred to that way. No longer stays. The quotes stay. Two parks are right on the lake. Right on stays. I will not invent the other two, and I will not move the college, or Mentor. There is no person with years, no nation, and no battle. The next place, when you want it, is Metamora.",
+    long: "",
+    names: ["Mentor-on-the-Lake"]
+  },
+
+  {
+    id: "approach-metamora",
+    name: "Metamora",
+    lat: 41.7190,
+    lng: -83.9056,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Metamora, the village in Fulton County. I will not make the township this village. I will not move the other towns with this name. The picture is Maple Street. If you stay on the road, I'll start at the decade.",
+    long: "",
+    names: ["Metamora"]
+  },
+  {
+    id: "metamora-1830s",
+    name: "The Semicolon",
+    lat: 41.7114,
+    lng: -83.9056,
+    radius: 40,
+    short: "One page says the first settlement was made at this place in the 1830s. Another says in. I will not average them, and I will not pick a year. An office called Metamora has been in operation since 1841. Since stays. Called stays. The name is from an 1829 play. One title has a semicolon. The other does not. I will not average them. Over sixty years stays. Very popular stays. The census says five hundred sixty-six people in 2020. I will not average that with six hundred twenty-seven. There is no 1890 line. I will not invent it. The water is not nothing. I did not see a height. This pin is the village.",
+    long: "",
+    names: ["Metamora"]
+  },
+  {
+    id: "metamora-removal",
+    name: "Caused",
+    lat: 41.7109,
+    lng: -83.9048,
+    radius: 40,
+    short: "A war caused the removal of this name from one territory into this state. Caused stays. Removal stays. I will not invent a battle here, and I will not move the other towns. The play's nation stays in the title. I will not move it. Tragic stays. At the hand stays. Inspired stays. Led stays. I will not average them. There is no person with years, and no yard. The next place, when you want it, is Meyers Lake.",
+    long: "",
+    names: ["Metamora"]
+  },
+
+  {
+    id: "approach-meyers-lake",
+    name: "Meyers Lake",
+    lat: 40.8230,
+    lng: -81.4164,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Meyers Lake, the village in central Stark County. Central stays. I will not move Canton, or Massillon. The picture is a park that entertained visitors. Entertained stays. If you stay on the road, I'll start at the two spellings.",
+    long: "",
+    names: ["Meyers Lake"]
+  },
+  {
+    id: "meyers-lake-1812",
+    name: "The Extra S",
+    lat: 40.8158,
+    lng: -81.4164,
+    radius: 40,
+    short: "The village says it was founded in 1812, and incorporated in 1927. I will not average the years. The encyclopedia says the lake was named for Andrew Meyer, a pioneer who settled there. Settled stays. The place has an s. The name on that page does not. I will not average them. A page prints his death in 1848. I do not have his birth. The census says seven hundred twenty-four people in 2020. According to the 2000 census, five hundred sixty-five. According to stays. I will not average them. The water is not nothing. I will not average it with the land. I did not see a height. This pin is the village.",
+    long: "",
+    names: ["Meyers Lake"]
+  },
+  {
+    id: "meyers-lake-defunct",
+    name: "Stayed Tuned",
+    lat: 40.8153,
+    lng: -81.4156,
+    radius: 40,
+    short: "One caption runs from 1920 to 1974. A book runs from 1869 to 1979. I will not average them. Now-defunct stays. Not a family operation stays. One page says 144 acre, and no hyphen. Another says roughly 140. Roughly stays. I will not average them. Stayed tuned stays. I will not repair it. There is no nation, and no battle. I will not move the church. The next place, when you want it, is Miami Heights.",
+    long: "",
+    names: ["Meyers Lake"]
+  },
+
+  {
+    id: "approach-miami-heights",
+    name: "Miami Heights",
+    lat: 39.1750,
+    lng: -84.7153,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Miami Heights, the census place in Miami Township, Hamilton County. I will not make the township this place. Fourteen miles, and twenty-three kilometers, northwest of downtown Cincinnati. I will not average the numbers, and I will not move that city. If you stay on the road, I'll start at what the page does not print.",
+    long: "",
+    names: ["Miami Heights"]
+  },
+  {
+    id: "miami-heights-zero",
+    name: "A Zero",
+    lat: 39.1678,
+    lng: -84.7153,
+    radius: 40,
+    short: "The encyclopedia does not print a plat, or an office, or a year. I will not invent them. The census says five thousand one hundred sixty-six people in 2020. As of stays. The densities do not agree on the last digit. I will not average them. The water is a zero. A zero stays a zero. All land stays. I will not average them. One page says seven hundred eighty-four feet. Another says eight hundred twenty-three. I will not average them. The points do not agree. I will not average them either. This pin is the place.",
+    long: "",
+    names: ["Miami Heights"]
+  },
+  {
+    id: "miami-heights-neighbors",
+    name: "The Neighbors",
+    lat: 39.1673,
+    lng: -84.7145,
+    radius: 40,
+    short: "The neighbors are printed. I will not move them. A camp was at another place, in a vicinity that would later become this one. Vicinity stays. Would later stays. I will not move the camp, or the judge. I will not make the township's name a nation. There is no person with years, no yard, and no battle. The next place, when you want it, is Miamitown.",
+    long: "",
+    names: ["Miami Heights"]
+  },
+
+
 
 
 

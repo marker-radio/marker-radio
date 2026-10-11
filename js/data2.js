@@ -25907,6 +25907,584 @@ STORIES.push(
     names: ["Mariemont"]
   },
 
+  {
+    id: "approach-marietta",
+    name: "Marietta",
+    lat: 39.4320,
+    lng: -81.4464,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Marietta, the city and the county seat in Washington County, at the meeting of the Muskingum and the Ohio. Confluence stays. Not Parkersburg. The picture has one river in front and the other at the back right. If you stay on the road, I'll start at the landing.",
+    long: "",
+    names: ["Marietta"]
+  },
+  {
+    id: "marietta-1788",
+    name: "Later",
+    lat: 39.4242,
+    lng: -81.4464,
+    radius: 40,
+    short: "The box says settled on April 7, 1788, and incorporated on December 2, 1800. Named after a queen. Named after stays. Then stays. In honor stays. Forty-eight men landed that day. By the end of the year the page says one hundred thirty-seven people. By the end stays. I will not average them. It was the first permanent United States settlement in the territory. First stays. A parenthesis lists older places. The parenthesis stays. I will not move them, and I will not drop first. The acres and the kilometers do not get averaged. The census says thirteen thousand three hundred eighty-five people in 2020. Another page prints two areas, and a height with a plus or minus. The plus or minus stays. I will not average them. It is six hundred fifty-three feet up, on this page. The picture is the rivers. This pin is the city.",
+    long: "",
+    names: ["Marietta"]
+  },
+  {
+    id: "marietta-fort",
+    name: "But It Wasn't",
+    lat: 39.4237,
+    lng: -81.4456,
+    radius: 40,
+    short: "A column says the fort had the look of a military fort, but it wasn't. But it wasn't stays. I call it stays. One house is still there, in the same place. Still stays. A caption says free soil, and no slavery. No slavery stays. Native Americans seemed friendly enough at another fort. Seemed stays. I will not move that fort, and I will not invent the attack. A page prints 1808 and 1884 for a man born here. I will not invent the life between. I will not move Boston, or France, or Parkersburg. The next place, when you want it, is Marlboro.",
+    long: "",
+    names: ["Marietta"]
+  },
+
+  {
+    id: "approach-marlboro",
+    name: "Marlboro",
+    lat: 40.9580,
+    lng: -81.2164,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Marlboro, the unincorporated place in Stark County. A page also calls it a census place, and it capitalizes Census. The capital stays. Not the township. If you stay on the road, I'll start at the laying out.",
+    long: "",
+    names: ["Marlboro"]
+  },
+  {
+    id: "marlboro-1827",
+    name: "About Fifty",
+    lat: 40.9506,
+    lng: -81.2164,
+    radius: 40,
+    short: "The page says it was laid out in 1827, taking its name from the township. Taking stays. I will not make the township this place. By 1833, Marlborough had about fifty inhabitants. About stays. The extra letters stay. An office called Marlborough was established that year, the name was changed to Marlboro in 1893, and the office closed in 1906. Closed stays. I will not say it is open. As of the 2020 census, the page says two hundred forty-seven people. As of stays. I will not average that with about fifty. The miles print forty-three hundredths twice, and the kilometers do not agree. The water is thirty-nine ten-thousandths. I will not round it away. Both pages say one thousand one hundred sixty-eight feet. The points do not agree. I will not average them. This pin is the census place.",
+    long: "",
+    names: ["Marlboro"]
+  },
+  {
+    id: "marlboro-chiefly",
+    name: "Chiefly",
+    lat: 40.9501,
+    lng: -81.2156,
+    radius: 40,
+    short: "The page says the place was originally built up chiefly by Quakers. Originally stays. Chiefly stays. That is not a nation, and it is not a person with years. Two men are named, and no years are printed. I will not invent them. There is no yard, no building, and no battle. I will not move the township, or the old spelling onto a different town. The next place, when you want it, is Marne.",
+    long: "",
+    names: ["Marlboro"]
+  },
+
+  {
+    id: "approach-marne",
+    name: "Marne",
+    lat: 40.0790,
+    lng: -82.3094,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Marne, the unincorporated place in the eastern part of Madison Township, Licking County. Eastern stays. I will not make the township this place. A road forms the southern edge. Forms stays. The picture is houses. If you stay on the road, I'll start at the count.",
+    long: "",
+    names: ["Marne"]
+  },
+  {
+    id: "marne-2020",
+    name: "Zero and a Percent",
+    lat: 40.0711,
+    lng: -82.3094,
+    radius: 40,
+    short: "As of the 2020 census, the page says seven hundred seventy-two people. As of stays. A children's page says about. About stays. As of the census of 2010, the page says seven hundred eighty-three. I will not average them. The box writes the water as zero. The geography line says nine tenths of an acre, or sixteen hundredths of one percent, are water. Are stays. Or stays. I will not average zero with the percent, and I will not turn the acres into miles. The miles do not agree either. It is eight hundred one feet up. I did not see a plat, an office, or a reason for the name. I will not invent them. The picture is houses on a road. This pin is the census place.",
+    long: "",
+    names: ["Marne"]
+  },
+  {
+    id: "marne-name",
+    name: "Not a Battle",
+    lat: 40.0706,
+    lng: -82.3086,
+    radius: 40,
+    short: "The name is not a battle the page tells. I will not move one onto it. A citation is marked as needed. Needed stays. I will not fill it. A sentence says no husband present. No husband present stays. That is not a life. A census fraction is not a nation. There is no yard, no building, and no fight. I will not move Newark, or Coshocton, or the rivers. The next place, when you want it, is Marseilles.",
+    long: "",
+    names: ["Marne"]
+  },
+
+  {
+    id: "approach-marseilles",
+    name: "Marseilles",
+    lat: 40.7090,
+    lng: -83.3922,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Marseilles, the village in Marseilles Township, Wyandot County, at the western edge of a wildlife area. Western edge stays. I will not move the area, or the township. Not France. The picture is downtown. If you stay on the road, I'll start at the name.",
+    long: "",
+    names: ["Marseilles"]
+  },
+  {
+    id: "marseilles-name",
+    name: "After",
+    lat: 40.7011,
+    lng: -83.3922,
+    radius: 40,
+    short: "The page says the village was named after Marseille, France. Named after stays. I will not add the letter the French name lacks, and I will not move that city. A page says it does not have a founding date, and that you might consider an office opened in 1844. Might stays. Consider stays. The office closed in 1920. Closed stays. I will not say it is open. The census says ninety-three people in 2020. An estimate prints one hundred seven. I will not average them. The box and the geography line do not agree on the miles. All land stays. One page says eight hundred seventy-nine feet. Another says eight hundred seventy-six. I will not average them. The picture is downtown. This pin is the village.",
+    long: "",
+    names: ["Marseilles"]
+  },
+  {
+    id: "marseilles-near",
+    name: "Near",
+    lat: 40.7006,
+    lng: -83.3914,
+    radius: 40,
+    short: "On March 5, 1967, a plane crashed in a field near the county line, near the village. Near stays. All thirty-eight people on it were killed. All stays. I will not call it a battle, and I will not move the field. A page says unincorporated, and a former canal town. Former stays. The encyclopedia says a village, and all land. I will not average them. There is no person with years, no yard, and no nation. I will not move France, or Illinois, or the township's count. The next place, when you want it, is Marshallville.",
+    long: "",
+    names: ["Marseilles"]
+  },
+
+  {
+    id: "approach-marshallville",
+    name: "Marshallville",
+    lat: 40.9070,
+    lng: -81.7331,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Marshallville, the village in Wayne County. One page puts it in one township. A list prints the postal code for two. I will not average them. Not Bristol. The picture is a post office. If you stay on the road, I'll start at the old name.",
+    long: "",
+    names: ["Marshallville"]
+  },
+  {
+    id: "marshallville-1817",
+    name: "The Latter Name",
+    lat: 40.8997,
+    lng: -81.7331,
+    radius: 40,
+    short: "The encyclopedia says it was originally called Bristol, and under the latter name was laid out in 1817. Originally stays. Latter stays. A county page says it was surveyed on February 7, 1817, and the plat was recorded on February 27. Was stays. I will not average the two days. A line prints the first date with no space after the comma. I will not repair it. It may be the first town laid out in the county after Wooster. May stays. I will not move that city. The population was seven hundred eighty-nine at the time of the 2020 census. At the time stays. The box and the geography line do not agree on the miles. All of it land stays. The heights do not agree. Metres stays. The picture is a post office. This pin is the village.",
+    long: "",
+    names: ["Marshallville"]
+  },
+  {
+    id: "marshallville-school",
+    name: "Could Not",
+    lat: 40.8992,
+    lng: -81.7323,
+    radius: 40,
+    short: "A three-year school lasted until 1938, when the state said it could not operate as one. Could not stays. The building was then closed. Then stays. Students were sent across another district. Across stays. I will not move Dalton, or Orrville, or Smithville. Two spellings of this village are missing a letter or have one too many. I will not repair them. There is no person with years, no yard, no nation, and no battle. The next place, when you want it, is Martins Ferry.",
+    long: "",
+    names: ["Marshallville"]
+  },
+
+  {
+    id: "approach-martins-ferry",
+    name: "Martins Ferry",
+    lat: 40.1270,
+    lng: -80.7181,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Martins Ferry, the most populous city in Belmont County, along the Ohio, across from Wheeling. Across stays. Most populous stays. Not the city on the other bank. If you stay on the road, I'll start at the names.",
+    long: "",
+    names: ["Martins Ferry"]
+  },
+  {
+    id: "martins-ferry-names",
+    name: "Sometime Later",
+    lat: 40.1194,
+    lng: -80.7181,
+    radius: 40,
+    short: "The page says it has been known as Hoglinstown, Mercertown, Norristown, Jefferson, Martinsville, and Martin's Ferry. The apostrophe stays. It was disbanded a couple of times. Couple stays. One page says established in 1785. Another says permanent. A citation is needed. Needed stays. I will not average them. A plat in 1795 was abandoned in 1801. Abandoned stays. A grid from 1835 survives. Much stays. To this day stays. The village year is 1865. The city year is 1885. Sometime later, the apostrophe was dropped. Sometime later stays. I will not invent the year. A page says at least as early as 1779. At least stays. I will not average that with 1785. The census says six thousand two hundred sixty people in 2020. The kilometers do not agree. All land stays. It is seven hundred sixty-one feet up. This pin is the city.",
+    long: "",
+    names: ["Martins Ferry"]
+  },
+  {
+    id: "martins-ferry-ferry",
+    name: "The Father's Ferry",
+    lat: 40.1189,
+    lng: -80.7173,
+    radius: 40,
+    short: "One page says the ferry was the father's. Another says a son owned and operated it. Owned stays. I will not average them. A woman lived here until her death at sixty-three. Until stays. I will not invent her years, or the fight. The fort stays on the Virginia side. Shadow stays. I will not move it. There is no park, and no nation on this bank. Pride of the Valley stays. I will not move Wheeling, or the county seat. The next place, when you want it, is Martinsburg.",
+    long: "",
+    names: ["Martins Ferry"]
+  },
+
+  {
+    id: "approach-martinsburg",
+    name: "Martinsburg",
+    lat: 40.2770,
+    lng: -82.3544,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Martinsburg, the village in Clay Township, Knox County. Southwestern stays. I will not make the township this place. Not the city in West Virginia. The picture is the village hall. If you stay on the road, I'll start at the merger.",
+    long: "",
+    names: ["Martinsburg"]
+  },
+  {
+    id: "martinsburg-1828",
+    name: "Which Was Which",
+    lat: 40.2697,
+    lng: -82.3544,
+    radius: 40,
+    short: "The encyclopedia says it was founded in 1828, when two nearby rival towns merged. Nearby stays. Rival stays. A page says the villages sprung up. Sprung stays. I will not repair it. They sat side by side, though a history fails to specify which was which. Though stays. Fails stays. After discussion, they dropped the old names. After stays. Drop stays. The census says two hundred twenty-two people in 2020. Another page prints two hundred twenty-four, and it says the figures were rebased. Rebased stays. I will not average them. A page says a grand three hundred, which it has never exceeded. Never stays. I will not average that with the table. The kilometers do not agree. All land stays. It is one thousand one hundred seventy-five feet up. The picture is the hall. This pin is the village.",
+    long: "",
+    names: ["Martinsburg"]
+  },
+  {
+    id: "martinsburg-square",
+    name: "Perched",
+    lat: 40.2692,
+    lng: -82.3536,
+    radius: 40,
+    short: "The hall is perched on the southern edge of what was originally the square. Perched stays. Originally stays. A school was formed in 1838, and it finally closed in 1860. Finally stays. Sagged stays. I will not say it stands. A man had to light bonfires to keep the wolves off his sheep. Had to stays. Probably stays. I will not invent his years. There is no nation, and no battle on this ground. Just before a war stays. I will not move the war. The next place, when you want it, is Martinsville.",
+    long: "",
+    names: ["Martinsburg"]
+  },
+
+  {
+    id: "approach-martinsville",
+    name: "Martinsville",
+    lat: 39.3300,
+    lng: -83.8117,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Martinsville, the village in Clark Township, Clinton County, along the route west of New Vienna. West stays. I will not move that town. The picture is Main Street. If you stay on the road, I'll start at the plat.",
+    long: "",
+    names: ["Martinsville"]
+  },
+  {
+    id: "martinsville-1816",
+    name: "The Day and the Year",
+    lat: 39.3228,
+    lng: -83.8117,
+    radius: 40,
+    short: "The encyclopedia says it was platted in 1816. A history says September 23, 1816, by three proprietors. The day stays. I will not drop it. The same history says a store in the place held a township election in 1806. I will not average 1806 and 1816. A man bought the larger part of the present site at two dollars an acre. Larger stays. Present stays. Mainly instrumental stays. By 1833 the page says seventy-five inhabitants. By stays. The census says four hundred sixteen people in 2020. I will not average them. The box and the geography line do not agree on the miles. All land stays. It is one thousand ninety-three feet up. About midway stays. I will not move the towns on either side. The picture is Main Street. This pin is the village.",
+    long: "",
+    names: ["Martinsville"]
+  },
+  {
+    id: "martinsville-bridge",
+    name: "West of the Village",
+    lat: 39.3223,
+    lng: -83.8109,
+    radius: 40,
+    short: "A covered bridge was built in 1871, west of the village. West of stays. I will not move it onto this point. Less than one acre stays. A company considers it a first work. Considers stays. I will not make a later year the building date. In 2013, prosecutors charged two people with stealing more than one hundred thousand dollars. Charged stays. More than stays. I did not see a verdict. There is no person with years, no yard, no nation, and no battle. A citation is needed. Needed stays. The next place, when you want it, is Massieville.",
+    long: "",
+    names: ["Martinsville"]
+  },
+
+  {
+    id: "approach-massieville",
+    name: "Massieville",
+    lat: 39.2640,
+    lng: -82.9683,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Massieville, the unincorporated place in Ross County, south of Chillicothe. South stays. I will not move that city. A revision also calls it a census place, and it capitalizes Census. The capital stays. If you stay on the road, I'll start at the name.",
+    long: "",
+    names: ["Massieville"]
+  },
+  {
+    id: "massieville-name",
+    name: "The Sawmill Man",
+    lat: 39.2567,
+    lng: -82.9683,
+    radius: 40,
+    short: "The page says the variant names were Massie and Waller. The quotes stay. It has the name of a man who was proprietor of a local sawmill. Local stays. Proprietor stays. One page says the mid-nineteenth century. Mid stays. The encyclopedia does not print the year. I will not average them. A different man laid out the county seat. I will not move him, or his year. One revision says five hundred eighty-four people in 2020. Another printing of the page does not. I will not average a count with a blank. The percents do not add. I will not make them. A names record says six hundred twenty feet. The points do not agree. I will not average them. This pin is the unincorporated place.",
+    long: "",
+    names: ["Massieville"]
+  },
+  {
+    id: "massieville-born",
+    name: "Born Here",
+    lat: 39.2562,
+    lng: -82.9675,
+    radius: 40,
+    short: "A composer was born here in 1875. Born at stays. I will not invent his death, or the music. The sawmill is named, and I cannot see it. I will not point at it. There is no yard, no nation, and no battle. I will not move a treaty, or a military survey, or the county seat. The next place, when you want it, is Matamoras.",
+    long: "",
+    names: ["Massieville"]
+  },
+
+  {
+    id: "approach-matamoras",
+    name: "Matamoras",
+    lat: 39.5280,
+    lng: -81.0686,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Matamoras, also known as New Matamoras, the village in Washington County, along the Ohio. Also known as stays. Approximately twenty miles east of Marietta, and directly across from Friendly. Approximately stays. Directly stays. I will not move them. The picture is a scene along State Street. If you stay on the road, I'll start at the two names.",
+    long: "",
+    names: ["Matamoras", "New Matamoras"]
+  },
+  {
+    id: "matamoras-1846",
+    name: "The Missing Space",
+    lat: 39.5203,
+    lng: -81.0686,
+    radius: 40,
+    short: "The encyclopedia says the vicinity was first settled in 1797. Vicinity stays. The village was named for a battle whose spelling is not this village's. I will not repair it, and I will not move Mexico. It was platted in 1846. A page prints September with no space after the comma. I will not repair it. Incorporated in 1861, and the first office came that year. That year stays. One page says the office changed the name. Another says it insisted. Insisted stays. I will not average them, and I will not move Metamora. The census says seven hundred two people in 2020. The kilometers do not agree. The water is thirty-nine thousandths on one line and four hundredths on another. I will not round them. It is six hundred thirty feet up. The picture is State Street. This pin is the village.",
+    long: "",
+    names: ["Matamoras", "New Matamoras"]
+  },
+  {
+    id: "matamoras-once",
+    name: "Once",
+    lat: 39.5198,
+    lng: -81.0678,
+    radius: 40,
+    short: "Once a boom town for shipping. Once stays. A page adds the river itself. Itself stays. I will not average the sentences. They feared hostile Indians and camped on the other side. Feared stays. A page spells that side with a letter out of place. I will not repair it, and I will not move the camp. Many were veterans. Many stays. I will not invent the battles. There is no person with years, and no yard. I will not make the township this village. The next place, when you want it, is Maumee.",
+    long: "",
+    names: ["Matamoras", "New Matamoras"]
+  },
+
+  {
+    id: "approach-maumee",
+    name: "Maumee",
+    lat: 41.5810,
+    lng: -83.6458,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Maumee, the city in Lucas County, along the Maumee River. A page capitalizes the last syllable of the name. The capitals stay. A suburb, about ten miles southwest of Toledo. About stays. I will not move that city. If you stay on the road, I'll start at the foot of the rapids.",
+    long: "",
+    names: ["Maumee"]
+  },
+  {
+    id: "maumee-1817",
+    name: "Foot",
+    lat: 41.5736,
+    lng: -83.6458,
+    radius: 40,
+    short: "A section that cites no sources says a plat was laid out in 1817 at the Foot of the Rapids. Foot stays. May be challenged stays. May be removed stays. Within a decade it was a major trans-shipment point. The hyphen stays. It was the county seat in 1840, and it lost the seat in 1854. Lost stays. I will not average them. A book says an office was moved to the first plat in 1824, and that the limits were established in 1838. I will not average those years with the plat. The census says thirteen thousand eight hundred ninety-six people in 2020. Another page prints thirteen thousand eight hundred eighty-nine. I will not average them. The water is not nothing. It is six hundred thirty-three feet up. This pin is the city.",
+    long: "",
+    names: ["Maumee"]
+  },
+  {
+    id: "maumee-forts",
+    name: "Two Forts",
+    lat: 41.5731,
+    lng: -83.6450,
+    radius: 40,
+    short: "The page names the Ottawa, and also the Odawa. Notably stays. I will not average the spellings. A battle in 1794 is put at Maumee. At stays. One fort was built on the way. On his way stays. A book puts a different fort inside the limits. I will not average them. A war in 1812 and a close in 1813 both stay. I will not average them. A man predicted the great city of the West. The quotes stay. I will not make it come true. There is no person with years. I will not move Toledo, or the lake. The next place, when you want it, is Mayfield.",
+    long: "",
+    names: ["Maumee"]
+  },
+
+  {
+    id: "approach-mayfield",
+    name: "Mayfield",
+    lat: 41.5590,
+    lng: -81.4375,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Mayfield, also known as Mayfield Village, in eastern Cuyahoga County. Also known as stays. Eastern stays. A suburb of Cleveland. I will not move that city, or the city on the south. The picture is the Old Center School. If you stay on the road, I'll start at the years.",
+    long: "",
+    names: ["Mayfield", "Mayfield Village"]
+  },
+  {
+    id: "mayfield-1819",
+    name: "Two Years",
+    lat: 41.5520,
+    lng: -81.4375,
+    radius: 40,
+    short: "The box says founded in 1819, and incorporated in 1920. A history says settlement in the area began in 1805. In the area stays. Began stays. The township was formed on 14 June 1819. The day stays. I will not average 1805 and 1819, and I will not make the township this village. The same history says the village was incorporated on 21 March 1921. I will not average 1920 and 1921. The census says three thousand three hundred fifty-six people in 2020. An estimate prints three thousand three hundred eighty-six. Estimate stays. I will not average them. Just over four miles stays. The box prints a smaller figure, and a water that is not nothing. I will not round it. It is nine hundred thirty-five feet up. A historical office is nine hundred twenty-five, at another point. Historical stays. I will not average them. The picture is the school. This pin is the village.",
+    long: "",
+    names: ["Mayfield", "Mayfield Village"]
+  },
+  {
+    id: "mayfield-centre",
+    name: "Centre",
+    lat: 41.5515,
+    lng: -81.4367,
+    radius: 40,
+    short: "An area known as Mayfield Centre formed at the present crossing. Centre stays. I will not repair it. A sawmill was north of there. North stays. I will not move it onto the school. Principally farming stays. Zoning secured the residential character. Secured stays. There is no person with years, no yard, no nation, and no battle. I will not move the city to the south, or its mayors. The next place, when you want it, is McArthur.",
+    long: "",
+    names: ["Mayfield", "Mayfield Village"]
+  },
+
+  {
+    id: "approach-mcarthur",
+    name: "McArthur",
+    lat: 39.2560,
+    lng: -82.4783,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on McArthur, the village in, and the county seat of, Vinton County. In and stays. One page says one township. Another says another. I will not average them. Not Chillicothe. The pictures are a church and the village hall. If you stay on the road, I'll start at the old name.",
+    long: "",
+    names: ["McArthur"]
+  },
+  {
+    id: "mcarthur-1815",
+    name: "The Old Name",
+    lat: 39.2486,
+    lng: -82.4783,
+    radius: 40,
+    short: "The encyclopedia says it was laid out and platted in 1815, and originally called McArthurstown. Originally stays. A scan prints the old name with a letter missing. I will not repair it, and I will not average the spellings. Named for a general. I will not invent his years. A special act on February 7, 1851, changed the name. Special stays. I will not average 1815 and 1851. The census says one thousand seven hundred eighty-three people in 2020. Another page prints one thousand seven hundred six, and no year. I will not average them. More than four hundred stays. I will not average that with the table. The box and the geography line do not agree on the miles. The water is not nothing. It is seven hundred sixty-eight feet up. The pictures are the church and the hall. This pin is the village.",
+    long: "",
+    names: ["McArthur"]
+  },
+  {
+    id: "mcarthur-hotel",
+    name: "Extensive Damages",
+    lat: 39.2481,
+    lng: -82.4775,
+    radius: 40,
+    short: "The oldest surviving building is a hotel from 1839. Surviving stays. A fire on July 8, 2025, led to extensive damages. Damages stays. I will not say it is gone. A mill was just east of town. Just east stays. I will not move it. Beautifully located stays. Small scale stays. There is no person with years, no yard, no nation, and no battle. I will not move the war, or the tunnel, or Chillicothe. The next place, when you want it, is McComb.",
+    long: "",
+    names: ["McArthur"]
+  },
+
+  {
+    id: "approach-mccomb",
+    name: "McComb",
+    lat: 41.1140,
+    lng: -83.7900,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on McComb, the village in Hancock County, northwest of Findlay. Northwest stays. I will not move that city. The picture is Main Street. If you stay on the road, I'll start at the old name.",
+    long: "",
+    names: ["McComb"]
+  },
+  {
+    id: "mccomb-1847",
+    name: "The Missing Letter",
+    lat: 41.1069,
+    lng: -83.7900,
+    radius: 40,
+    short: "The encyclopedia says it was laid out in 1847 as Pleasantville, and renamed in 1858. A village page says incorporated in 1858, when the name was changed. When stays. I will not average them. The same page prints a man's name and then a word missing a letter. I will not repair it. Acknowledged Aug. 18, 1847, and recorded Sept. 4. I will not average the days. Another name preceded it. Preceded stays. The census says one thousand five hundred fifty-eight people at the time of 2020. At the time stays. By 1872 the page says three hundred fifty to four hundred. To stays. I will not average them. The box and the geography line do not agree on the miles. The water is not nothing. It is seven hundred sixty-eight feet up. The picture is Main Street. This pin is the village.",
+    long: "",
+    names: ["McComb"]
+  },
+  {
+    id: "mccomb-toad",
+    name: "Crocking",
+    lat: 41.1064,
+    lng: -83.7892,
+    radius: 40,
+    short: "The crocking of the frogs gave rise to the nickname Toad Town. Crocking stays. I will not repair it. Despite its spelling, the name is a general's, spelled another way. Despite stays. One page says Scotchman. Another says Scotsman. I will not average them. Two men are buried here. Buried stays. I will not repair the sentence, and I will not move the chase. There is no person with years, and no yard. I will not move Findlay, or the battle. The next place, when you want it, is McConnelsville.",
+    long: "",
+    names: ["McComb"]
+  },
+
+  {
+    id: "approach-mcconnelsville",
+    name: "McConnelsville",
+    lat: 39.6640,
+    lng: -81.8467,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on McConnelsville, the village in, and the county seat of, Morgan County, on the east bank of the Muskingum, opposite Malta. Opposite stays. I will not move that village. A page capitalizes a piece of the pronunciation. The capitals stay. If you stay on the road, I'll start at the plat.",
+    long: "",
+    names: ["McConnelsville"]
+  },
+  {
+    id: "mcconnelsville-1817",
+    name: "The Old Town",
+    lat: 39.6567,
+    lng: -81.8467,
+    radius: 40,
+    short: "The encyclopedia says it was laid out in 1817, and named after Robert McConnell. A history says the spring of 1817, for General Robert McConnel, who then resided in another county. Then stays. I will not average the spellings, and I will not move him. He bought the land in 1805. I will not average 1805 and 1817. A page does not have a founding date, and says you might consider an office in 1819. Might stays. I will not average that either. Ninety-two lots, known as The Old Town. The quotes stay. The census says one thousand six hundred sixty-seven people in 2020. An estimate prints one thousand seven hundred forty-seven. The page says an population. I will not repair it, and I will not average the counts. One page says six hundred ninety-two feet. Another says eight hundred ninety. I will not average them. The water is not nothing. The pictures with a year are 2007. I will not give the year to the rest. This pin is the village.",
+    long: "",
+    names: ["McConnelsville"]
+  },
+  {
+    id: "mcconnelsville-green",
+    name: "Rumored",
+    lat: 39.6562,
+    lng: -81.8459,
+    radius: 40,
+    short: "Two squares were a military parade ground, in quotes. One is now the village green, and the other the grove. Now stays. I will not average them. The courthouse is rumored to be haunted. Rumored stays. I will not invent the man. A bridge was built in 1913. A caption drops an apostrophe the other line prints. I will not average them. A bucket stays nearby. Nearby stays. I will not move it, or Malta, or the other place with this name. There is no person with years, no nation, and no battle. The next place, when you want it, is McCutchenville.",
+    long: "",
+    names: ["McConnelsville"]
+  },
+
+  {
+    id: "approach-mccutchenville",
+    name: "McCutchenville",
+    lat: 40.9980,
+    lng: -83.2594,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on McCutchenville. The page calls it a census place, in northern Wyandot and southern Seneca. The box prints one county. I will not average them. The list says unincorporated. I will not average that either. A nickname is Scutch. If you stay on the road, I'll start at the name.",
+    long: "",
+    names: ["McCutchenville"]
+  },
+  {
+    id: "mccutchenville-1829",
+    name: "The Extra Letter",
+    lat: 40.9906,
+    lng: -83.2594,
+    radius: 40,
+    short: "The page says it was laid out in 1829, and named for Joseph McCutchen, the original owner. Original stays. The same page says Joseph McCuthchen built an inn that year. I will not repair the extra letter, and I will not average the spellings. An office has been in operation since 1833. Since stays. I will not average the years. The census says three hundred seventy-one people in 2020. The water is not nothing. I will not round it. It is seven hundred ninety-one feet up. The box says ZIP codes, and prints one. Codes stays. I do not have a picture. This pin is the place.",
+    long: "",
+    names: ["McCutchenville"]
+  },
+  {
+    id: "mccutchenville-inn",
+    name: "Soon",
+    lat: 40.9901,
+    lng: -83.2586,
+    radius: 40,
+    short: "The inn was a stagecoach stop, and later a hotel, before it fell into disrepair. Before stays. It was restored to its stagecoach days, and soon dedicated. Soon stays. Days stays. One of only two remaining. Only stays. I will not name the other. There is no person with years, no yard, no nation, and no battle. I will not make the trail a fight, or the county a nation. The next place, when you want it, is McDermott.",
+    long: "",
+    names: ["McCutchenville"]
+  },
+
+  {
+    id: "approach-mcdermott",
+    name: "McDermott",
+    lat: 38.8420,
+    lng: -83.0586,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on McDermott, in western Rush Township, Scioto County. Western stays. The page calls it a census place. An older printing says although it is unincorporated. Although stays. I will not average the words. I do not have a picture. If you stay on the road, I'll start at the day.",
+    long: "",
+    names: ["McDermott"]
+  },
+  {
+    id: "mcdermott-1898",
+    name: "The Day",
+    lat: 38.8344,
+    lng: -83.0586,
+    radius: 40,
+    short: "The page says it was platted on July 28, 1898, and named after one of the area's earliest commercial ventures, a stone company. One of stays. Earliest stays. Area's stays. I will not invent a person. An office called McDermott has been in operation since 1898. Called stays. Since stays. I will not give the office the day. As of 2020, three hundred eight people. As of stays. An older printing says four hundred thirty-four. I will not average them. I did not see an area. It is five hundred seventy-one feet up. Two area codes stay. This pin is the place.",
+    long: "",
+    names: ["McDermott"]
+  },
+  {
+    id: "mcdermott-includes",
+    name: "Includes",
+    lat: 38.8339,
+    lng: -83.0578,
+    radius: 40,
+    short: "A district includes a high school. Includes stays. I will not move the school onto this ground. There is no person with years, no yard, no building I can point at, no nation, and no battle. I will not invent the quarry. The next place, when you want it, is McDonald.",
+    long: "",
+    names: ["McDermott"]
+  },
+
+  {
+    id: "approach-mcdonald",
+    name: "McDonald",
+    lat: 41.1710,
+    lng: -80.7233,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on McDonald, the village in southern Trumbull County, along the Mahoning River. Southern stays. Along stays. A suburb. A page believes this is the one in this county, and knows of another three. Believe stays. I will not move them. If you stay on the road, I'll start at the family.",
+    long: "",
+    names: ["McDonald"]
+  },
+  {
+    id: "mcdonald-family",
+    name: "No Date",
+    lat: 41.1636,
+    lng: -80.7233,
+    radius: 40,
+    short: "The encyclopedia says it was named after the local McDonald family, and founded as a company town. Local stays. Later known as stays. I will not average the two company names. A page does not have a founding date. You might consider an office opened in 1918. Might stays. I will not make that the founding. The census says three thousand one hundred seventy-two people in 2020. An estimate prints three thousand forty-one. Estimate stays. I will not average them. A minus of six and three tenths stays. I will not average it with six and twenty-six hundredths. The water is a zero. A zero stays a zero. All land stays. I will not average them. It is nine hundred fifty-five feet up. A building on Ohio Street was built in 1921. This pin is the village.",
+    long: "",
+    names: ["McDonald"]
+  },
+  {
+    id: "mcdonald-believe",
+    name: "Believe",
+    lat: 41.1631,
+    lng: -80.7225,
+    radius: 40,
+    short: "A page believes this is the one in this county. Believe stays. Places in an old atlas were in the area. In the area stays. I will not move them. There is no person with years, no yard, no nation, and no battle. I will not make the river a nation. The next place, when you want it, is McGuffey.",
+    long: "",
+    names: ["McDonald"]
+  },
+
+
+
 
 
 

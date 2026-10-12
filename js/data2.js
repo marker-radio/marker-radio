@@ -28947,6 +28947,584 @@ STORIES.push(
     names: ["Moscow"]
   },
 
+  {
+    id: "approach-mount-blanchard",
+    name: "Mount Blanchard",
+    lat: 40.9060,
+    lng: -83.5567,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Mount Blanchard, the village in Hancock County. The encyclopedia does not name a township. A marker puts a father, and a church, in a township. I will not make the township this place. A page says platted. The box says established. The marker says founded. I will not average the verbs. A directory says it does not have a founding date. Might consider stays. If you stay on the road, I'll start at the three verbs.",
+    long: "",
+    names: ["Mount Blanchard"]
+  },
+  {
+    id: "mount-blanchard-1830",
+    name: "Three Verbs",
+    lat: 40.8986,
+    lng: -83.5567,
+    radius: 40,
+    short: "Platted in 1830, and the box says established, and the marker says founded. I will not drop a verb. So named for a lofty elevation over a valley. Lofty stays. Over stays. A marker says on the banks, and that the town and the river are named for a man. And stays. I will not average the stories, and I will not move the river. An office called Mount Blanchard since 1837. Called stays. Since stays. A directory says you might consider the office. Might consider stays. Incorporated in 1865. The census says four hundred seventy-one people in 2020. A page says an population of four hundred eighty-three. An stays. I will not repair it. Two years print four hundred ninety-two. I will not average the years. The box says fifty-one hundredths of a mile. The line says fifty-four hundredths, all land. All land stays. A zero of water stays a zero. I will not average them. The kilometers do not agree. Two densities stay two densities. One height is eight hundred forty-three feet. Another is eight hundred forty. I will not average them. One code, and two codes with an and-sign. The and-sign stays. This pin is the village.",
+    long: "",
+    names: ["Mount Blanchard"]
+  },
+  {
+    id: "mount-blanchard-among",
+    name: "Among",
+    lat: 40.8981,
+    lng: -83.5559,
+    radius: 40,
+    short: "A son, and a father. I will not make them one man. The father was a veteran of two wars, and the first settler of the township. First stays. I will not add their years, and I will not invent a fight here. The town and the river are named for a man who resided among a nation, in the area, during a period. Among stays. Area stays. During stays. I will not make the period a life. A nursery on three lots. Known as stays. I will not add his years. A school, the first outside another city. Outside stays. I will not move that city. Island Park stays. The marker has been reported missing. Missing stays. There is no battle in the village. The next place, when you want it, is Mount Carmel.",
+    long: "",
+    names: ["Mount Blanchard"]
+  },
+
+  {
+    id: "approach-mount-carmel",
+    name: "Mount Carmel",
+    lat: 39.1050,
+    lng: -84.2994,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Mount Carmel, the census-designated place in Union Township, Clermont County, on the western edge. Western stays. I will not make the township this place. A page says village limits. I will not average the words. Neighbors sit on the north and on the west. I will not move them. An office was being built outside. Outside stays. If you stay on the road, I'll start at the two years.",
+    long: "",
+    names: ["Mount Carmel"]
+  },
+  {
+    id: "mount-carmel-1788",
+    name: "Came In",
+    lat: 39.0978,
+    lng: -84.2994,
+    radius: 40,
+    short: "One of the oldest stays. In 1788 a surveyor and his team came in. Came in stays. I will not add a mark to his name. Mostly unsettled stays. To prepare stays. I will not say the homes were finished. In 1796 a man, one of the first, is actually considered the father. One of stays. Actually stays. Considered stays. I will not average the years. An office in 1887, being built outside the village limits. Being built stays. So another name was created. So stays. I will not add the period the page left off, and I will not make that name this place. After a few years, though, it was redesignated. A few stays. Though stays. I will not move the later offices. The census says four thousand three hundred eight people in 2000, and four thousand eight hundred twenty-eight in 2020. I will not average them. A page says about. About stays. A page says the figures are rebased. Rebased stays. The miles do not agree. The water miles do not. A percent stays on the page that prints it. Two densities stay two densities. It is eight hundred eighty-nine feet up. The box does not print a code. I will not add one. This pin is the place.",
+    long: "",
+    names: ["Mount Carmel"]
+  },
+  {
+    id: "mount-carmel-may",
+    name: "May",
+    lat: 39.0973,
+    lng: -84.2986,
+    radius: 40,
+    short: "The only historical sign of him today is a very small graveyard, going down a hill and entering another county. Only stays. Very stays. Entering stays. I will not move that county, and I will not add his years. According to one historian, he may have picked the name from a book. May stays. I will not name a verse. Mostly soldiers. Mostly stays. Basically payment stays. Could have stays. I will not move the battles. A grape the page calls hearty. Hearty stays. I will not repair it. Arbors were popping up throughout the township. Throughout stays. I will not move the township. There is no nation, and no battle here. The next place, when you want it, is Mount Cory.",
+    long: "",
+    names: ["Mount Carmel"]
+  },
+
+  {
+    id: "approach-mount-cory",
+    name: "Mount Cory",
+    lat: 40.9425,
+    lng: -83.8236,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Mount Cory, the village in Hancock County. The encyclopedia does not name a township. A local page puts the plat in a township. I will not make the township this place. It was originally called Cory. Originally stays. I will not average the names. Oil was located near. Near stays. I will not move it. If you stay on the road, I'll start at the two names.",
+    long: "",
+    names: ["Mount Cory"]
+  },
+  {
+    id: "mount-cory-1872",
+    name: "The Latter Name",
+    lat: 40.9350,
+    lng: -83.8236,
+    radius: 40,
+    short: "Originally called Cory, and under the latter name laid out in 1872, when the railroad was extended to that point. Latter stays. When stays. To that point stays. A local page says platted, and prints two names. I will not make those men the man the village is named for, and I will not add his years. An office has been in operation at Mount Cory since 1873. At stays. Since stays. Incorporated in 1887, with about three hundred people. About stays. I will not average it with the later counts. The census says two hundred twenty-five people in 2020. A page says two hundred twenty-nine in 2022. I will not average them. Two years print three hundred two. The year between them prints three hundred one. I will not average them. Stable stays. An estimate stays an estimate. The box says thirty-nine hundredths of a mile. The line says thirty-eight hundredths, all land. All land stays. A zero of water stays a zero. I will not average them. The kilometers do not agree. Three densities stay three densities. It is eight hundred fourteen feet up. One pair of decimals, and another pair. I will not average them. This pin is the village.",
+    long: "",
+    names: ["Mount Cory"]
+  },
+  {
+    id: "mount-cory-gold",
+    name: "Liquid Gold",
+    lat: 40.9345,
+    lng: -83.8228,
+    radius: 40,
+    short: "A page prints a mayor. I will not add his years. Houses on the street the picture names. A depot, where the present elevator stands. Present stays. Where stays. Oil near the village, and the height of it four years later. Near stays. I will not do the arithmetic. It is estimated that more than five hundred wells were drilled in the area. Estimated stays. More than stays. In the area stays. I will not move them. Liquid gold stays. However stays. A war kept two stores alive. Alive stays. Shortly after stays. Gradually stays. I will not invent a battle, and I will not move the nearby towns. A page says the community will be celebrate. I will not repair it. There is no yard, and no nation. The next place, when you want it, is Mount Eaton.",
+    long: "",
+    names: ["Mount Cory"]
+  },
+
+  {
+    id: "approach-mount-eaton",
+    name: "Mount Eaton",
+    lat: 40.7020,
+    lng: -81.7022,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Mount Eaton, the village in Wayne County. It was formerly known as Paintville. Formerly stays. A page says platted in 1814. A page says laid out as early as 1813. As early as stays. I will not average the years. A farm is near. Near stays. I will not move it. If you stay on the road, I'll start at the two years.",
+    long: "",
+    names: ["Mount Eaton"]
+  },
+  {
+    id: "mount-eaton-1813",
+    name: "As Early As",
+    lat: 40.6947,
+    lng: -81.7022,
+    radius: 40,
+    short: "Platted in 1814. Laid out as early as 1813. A line says plotted out. I will not average the verbs. Two men on the plat. The name was changed in 1829 on one page, and a line puts the change in 1813. I will not average the years. A page says they had the named changed. I will not repair the word. Mt. stays. I will not average it with Mount. The census says one hundred seventy-one people in 2020, and the same number in 1930. I will not average the years. A page prints two hundred forty-one, and an estimate of the same number. Estimate stays. A page prints two hundred forty-two beside another year. I will not average them. The box says seventeen hundredths of a mile. The line says eighteen hundredths, all of it land. All of it stays. A zero of water stays a zero. I will not average them. The kilometers do not agree. A register prints two areas that do not agree in the last place. I will not average them. Two densities stay two densities. The feet agree. The meters do not. Plus or minus stays. I will not average them. The encyclopedia does not print an office. I will not add one. This pin is the village.",
+    long: "",
+    names: ["Mount Eaton"]
+  },
+  {
+    id: "mount-eaton-said",
+    name: "Is Said",
+    lat: 40.6942,
+    lng: -81.7014,
+    radius: 40,
+    short: "Named Paintville because a nearby spring had a reddish hue and colored everything that came into contact with it. Nearby stays. Everything stays. I will not move the spring. A first cabin, is said. Is said stays. A first tavern, is said, and a line that says opened. I will not average the verbs. Services in a tent for several years. Several stays. A line says in a ten, for a years. I will not repair it. The page names the men and does not print their years. I will not add a life. A farm is near, also known by another name. Also known as stays. I will not move it. A first settler, and a tie, the page puts in the township. I will not move them. There is no yard, no nation, and no battle. The next place, when you want it, is Mount Gilead.",
+    long: "",
+    names: ["Mount Eaton"]
+  },
+
+  {
+    id: "approach-mount-gilead",
+    name: "Mount Gilead",
+    lat: 40.5610,
+    lng: -82.8281,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Mount Gilead, the village in, and the county seat of, Morrow County. In and stays. The box names a township. I will not make the township this place. The box says established in 1824. The lead says established in 1832. I will not average the years. A park is nearby. Nearby stays. I will not move it. If you stay on the road, I'll start at the two years.",
+    long: "",
+    names: ["Mount Gilead"]
+  },
+  {
+    id: "mount-gilead-1824",
+    name: "Two Years",
+    lat: 40.5533,
+    lng: -82.8281,
+    radius: 40,
+    short: "Established in 1824, and established in 1832. I will not drop either year. Eight years after stays. I will not do the arithmetic. A first settler in 1817. Though stays. Then called Whetstone stays. A page says around 1817, and white settlers. Around stays. I will not average white and European. Variously stays. And/or stays. A page prints a spelling I will not repair. Unofficially stays. I will not move another city of that name. Drew out stays. The day stays. A cabin in December. I will not average the months. The office was in the cabin. As well stays. A vote, by a significant margin. A page says the legislature changed the name. I will not average them. Incorporated in 1839. Several years later stays. They village stays. I will not repair it. Almost unanimously stays. A page says close, and would be very close. I will not average them. Parts stay. Portions stay. The census says three thousand five hundred three people in 2020. A page says three thousand three hundred thirty-one, unless noted. Unless noted stays. I will not average them. The miles agree. The kilometers do not, and the water miles do not. I will not average them. Two densities stay two densities. One height, and an approximate height. Approximate stays. I will not average them. A page says city. I will not average it with village. It is the center of population of the state. Is stays. I will not add a year. This pin is the village.",
+    long: "",
+    names: ["Mount Gilead"]
+  },
+  {
+    id: "mount-gilead-once",
+    name: "Once",
+    lat: 40.5528,
+    lng: -82.8273,
+    radius: 40,
+    short: "Once a forest and a hunting area for a nation. Once stays. I will not make a village for them. One square, and a page that says two. I will not average them. Lesser known stays. A shaft in the middle, erected in December 1919, following a war. Following stays. Middle stays. A page says the center. I will not average them. Highest stays. During a two-year period stays. I will not name the years, and I will not invent a battle. A man died before they had moved. Before stays. I will not move the death. A woman is buried here. I will not add her years. May have stays. Deserves credit stays. Believed stays. A cemetery, just east. Just east stays. A park is nearby. Nearby stays. I will not move it. There is no battle in the village. The next place, when you want it, is Mount Healthy.",
+    long: "",
+    names: ["Mount Gilead"]
+  },
+
+  {
+    id: "approach-mount-healthy",
+    name: "Mount Healthy",
+    lat: 39.2415,
+    lng: -84.5467,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Mount Healthy, the city in Hamilton County. A suburb of Cincinnati. Suburb stays. I will not move Cincinnati. The box says founded in 1817, as Mount Pleasant. As stays. A page says it began its life, and prints Mt. I will not average the spellings. If you stay on the road, I'll start at the two names.",
+    long: "",
+    names: ["Mount Healthy"]
+  },
+  {
+    id: "mount-healthy-1817",
+    name: "As",
+    lat: 39.2339,
+    lng: -84.5467,
+    radius: 40,
+    short: "Founded in 1817, as Mount Pleasant. Began its life stays. Small stays. Originally called stays. More or less midway stays. Approximately halfway stays. I will not average them. A fort to the north, and a page that says a city. I will not average them, and I will not move either. In 1850 the village renamed itself. Itself stays. A page says was renamed to, and puts the epidemic in 1849. I will not average the years, and I will not move that city. Many survived. Surrounding stays. Undoubtedly stays. Sanctuary stays. Some confusion stays. I will not move the other town. A village in 1893. Eventually stays. A city in 1951, when the count finally exceeded five thousand. Finally stays. The census already prints five thousand five hundred thirty-three in 1950. I will not average them. The census says six thousand nine hundred ninety-six people in 2020. An estimate says six thousand eight hundred seventy-one. Estimate stays. I will not average them. A drop and a rise print the same number. The minus stays. The box says one and forty-nine hundredths of a mile. The line says one and forty-one hundredths, all land. All land stays. A page says one and a half. I will not average them. A zero of water stays a zero. The kilometers do not agree. Two densities stay two densities. The miles of them do not. It is eight hundred thirty-seven feet up. A page says city, or township. Or stays. I will not pick one. This pin is the city.",
+    long: "",
+    names: ["Mount Healthy"]
+  },
+  {
+    id: "mount-healthy-could",
+    name: "Could",
+    lat: 39.2334,
+    lng: -84.5459,
+    radius: 40,
+    short: "A school the picture names. A toll house, and a page that prints one word. I will not average them. Now belongs stays. Now part of a museum complex stays. Among the first stays. Near stays. A meeting house, in the 1840s. I will not pick the year. Many homes, and several homes. I will not average them. Stations, and stops. I will not repair the capitals. Could stays. Northward stays. Generally stays. Quite stays. For all men stays. Uniforms, during the war. During stays. I will not invent a battle. The motto says working toward the future. Toward stays. I will not add a comma. There is no yard, and no nation. The page names two people and does not print their years. I will not add a life. The next place, when you want it, is Mount Healthy Heights.",
+    long: "",
+    names: ["Mount Healthy"]
+  },
+
+  {
+    id: "approach-mount-healthy-heights",
+    name: "Mount Healthy Heights",
+    lat: 39.2780,
+    lng: -84.5692,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Mount Healthy Heights, the census-designated place in Colerain Township, Hamilton County. I will not make the township this place. Heights stays. I will not drop it, and I will not make the city this place. There is no plat on the page. The box says seventy-four hundredths of a mile. The line says eight-tenths of a square mile, all land. All land stays. If you stay on the road, I'll start at the two areas.",
+    long: "",
+    names: ["Mount Healthy Heights"]
+  },
+  {
+    id: "mount-healthy-heights-areas",
+    name: "All Land",
+    lat: 39.2703,
+    lng: -84.5692,
+    radius: 40,
+    short: "A census-designated place. I will not make it a city. The box says seventy-four hundredths, and seventy-three hundredths of land, and a water figure. The line says eight-tenths of a square mile, all land. Square mile stays. A page says seventy-nine hundredths. I will not average them. The kilometers do not agree. A zero is not what the line says. The census says two thousand nine hundred eighteen people in 2020. A page says three thousand four hundred fifty in 2000. A page prints three thousand two hundred sixty-four for 2010, and says the figures are rebased. Rebased stays. In case of stays. A page says estimated, and prints a different count. Estimated stays. I will not average them. Two densities stay two densities. The miles do not agree. The kilometers do. A page says inhabitants. Inhabitants stays. It is eight hundred fifty-three feet up. A page says average, and prints a low and a high. Average stays. I will not average the heights. A page prints two area codes. I will not pick one. A percent stays. A count stays. I will not average them. This pin is the place.",
+    long: "",
+    names: ["Mount Healthy Heights"]
+  },
+  {
+    id: "mount-healthy-heights-count",
+    name: "A Count",
+    lat: 39.2698,
+    lng: -84.5684,
+    radius: 40,
+    short: "A page prints Indigenous, and a page prints Native American. I will not average the words. A count is not a nation, and a percent is not a site. There is no person with years, no yard, no building you can point at, and no battle. Estimated stays. That is not a story. The next place, when you want it, is Mount Hope.",
+    long: "",
+    names: ["Mount Healthy Heights"]
+  },
+
+  {
+    id: "approach-mount-hope",
+    name: "Mount Hope",
+    lat: 40.6333,
+    lng: -81.7761,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Mount Hope, the unincorporated community in eastern Salt Creek Township, Holmes County. Eastern stays. I will not make the township this place. A page says it is bordered by a village on the north. Bordered by stays. I will not move that village. It was laid out in 1827. A page also says founded. I will not make them two years. If you stay on the road, I'll start at the year.",
+    long: "",
+    names: ["Mount Hope"]
+  },
+  {
+    id: "mount-hope-1827",
+    name: "Laid Out",
+    lat: 40.6256,
+    lng: -81.7761,
+    radius: 40,
+    short: "Laid out in 1827. Founded stays. I will not make them two years. A page says a hamlet. Hamlet stays. Impressed stays. By stays. With stays. I will not average them. Rolling land stays. Topography stays. By 1841 it had one store. Had stays. A page says twelve houses. A page says twelve homes. According to records stays. I will not say the office opened that year. The census says one hundred ninety-seven people in 2020. A page says estimated, between one hundred twenty-five and two hundred, and that the actual figures are not available. Estimated stays. Between stays. Not available stays. I will not average them. Rebased stays. In case of stays. A page splits the count. The parts add. Rural stays. One height, and another, and a page that says metres. Metres stays. I will not average them. One pair of decimals, and another pair. A file prints a variant. A postal line prints one word. I will not repair it. An office, until a day in 2024. Until stays. Temporarily relocated stays. I will not move the village. A new location was selected. Selected stays. I will not say the door is open. This pin is the place.",
+    long: "",
+    names: ["Mount Hope"]
+  },
+  {
+    id: "mount-hope-near",
+    name: "Near",
+    lat: 40.6251,
+    lng: -81.7753,
+    radius: 40,
+    short: "A man was born near here. Near stays. A page says two years later, and a page says 1843. I will not average the wording, and I will not add a death. As an adult stays. I will not move the falls. Later renamed stays. A square. A store is just south of it. Just south stays. A school, and two churches. Two stays. I will not name them. The scene takes the imagination back. Imagination stays. Yesteryear stays. Most stays. Except stays. I will not say it is still quiet. There is no nation, and no battle. The next place, when you want it, is Mount Orab.",
+    long: "",
+    names: ["Mount Hope"]
+  },
+
+  {
+    id: "approach-mount-orab",
+    name: "Mount Orab",
+    lat: 39.0383,
+    lng: -83.9272,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Mount Orab, in Brown County. The box says city. The line says village. A page says small. Small stays. I will not average them. The box names three townships. I will not make a township this village. It was laid out on September 3, 1850. A page splits that date with a period. I will not repair it. If you stay on the road, I'll start at the day.",
+    long: "",
+    names: ["Mount Orab"]
+  },
+  {
+    id: "mount-orab-1850",
+    name: "The Day",
+    lat: 39.0306,
+    lng: -83.9272,
+    radius: 40,
+    short: "Laid out on September 3, 1850. A page splits the date with a period. I will not repair it. Two spellings of the man stay two spellings. A page says a surveyor. A stays. Only nineteen lots, in the beginning. Only stays. On the east bank. East bank stays. I will not move the creek. Growth was slow until a railroad reached town. Slow stays. Until stays. A day in 1877. Same year stays. I will not add the lots. By 1880 it had become an incorporated village. By stays. Had become stays. I will not give the year a day. The first office is a day in 1854. First stays. I will not average it with the plat. The line says four thousand three hundred forty-seven. Is stays. Had stays. A page says about. About stays. A page prints four thousand three hundred fifty-three. I will not average them. The parts add to one count. I will not make them add to the other. Older counts do not agree. I will not average them. The box says nine and sixty-nine hundredths of a mile. The line says eight and eighty-nine hundredths, all land. All land stays. I will not average them. A zero of water stays a zero. I will not drop two places. The kilometers do not agree. Two densities stay two densities. I will not drop the last digit. One height, and a page that prints another meter. I will not average them. Two area codes stay two codes. A page says Mt. I will not average the spellings. About twelve miles from the county seat. About stays. I will not move it. This pin is the village.",
+    long: "",
+    names: ["Mount Orab"]
+  },
+  {
+    id: "mount-orab-likely",
+    name: "Most Likely",
+    lat: 39.0301,
+    lng: -83.9264,
+    radius: 40,
+    short: "Most likely derived. Most likely stays. A page says likely. A page says was named after. I will not average them, and I will not name a verse. In the Bible stays. A railroad passes through, and a page says runs through. Passes stays. Runs stays. Also stays. Now stays. I will not point at a depot the page does not name. An ampersand stays. The page names the men and does not print their years. I will not add a life. Officers who served, and a general the county is named for. Served stays. The page puts the wars on the county. I will not move them, and I will not invent a battle. A count is not a nation. There is no yard. The next place, when you want it, is Mount Pleasant.",
+    long: "",
+    names: ["Mount Orab"]
+  },
+
+  {
+    id: "approach-mount-pleasant",
+    name: "Mount Pleasant",
+    lat: 40.1835,
+    lng: -80.7997,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Mount Pleasant, the village in Jefferson County. The township wears the same name. I will not make the township this village. A page says it had been settled in 1796. Had been stays. A page says it was laid out in 1803. I will not average the years. An advance party, of which none were Quakers. Of which none stays. If you stay on the road, I'll start at the two years.",
+    long: "",
+    names: ["Mount Pleasant"]
+  },
+  {
+    id: "mount-pleasant-1796",
+    name: "Of Which None",
+    lat: 40.1758,
+    lng: -80.7997,
+    radius: 40,
+    short: "Had been settled in 1796. Twenty men. Of which none were Quakers. None stays. Had scouted stays. Laid out in 1803. Founded stays. Platted stays. Established stays. A page says started. Started stays. I will not average the verbs. In part stays. Out of stays. Specifically stays. Could stays. A purchase in July 1800. Later stays. A Friend stays. I will not average Friend and Quaker. A man settled north in 1802. North stays. A page says Pennsylvanian. I will not repair it. Named for a scenic landscape. Scenic stays. An early variant, and a page that splits the words. Early stays. I will not average the spellings. For several years stays. I will not count them. More ground in 1815, and in 1817. I will not average the years. The census says three hundred ninety-four people in 2020. A page says about. About stays. Small stays. Southern stays. The table skips years and prints a dash. A dash stays. I will not fill them. The box says twenty-five hundredths of a mile. The line says twenty-six hundredths, all land. All land stays. A page says no water, within the limits. Within stays. I will not average them. A page pairs the miles with one kilometer. A page pairs them with another. I will not average the pairs. Two densities stay two densities. I will not drop the last digit. It is one thousand two hundred seventeen feet up. This pin is the village.",
+    long: "",
+    names: ["Mount Pleasant"]
+  },
+  {
+    id: "mount-pleasant-could",
+    name: "Could",
+    lat: 40.1753,
+    lng: -80.7989,
+    radius: 40,
+    short: "A son, and the page does not print the mark. I will not repair it. The years are 1789 and 1864. A conductor. I will not add a life the page does not print. Most of the village has been designated. Most stays. It too stays. Around an intersection stays. Intact stays. A meeting house in 1814, to house the first yearly meeting west of the mountains. West of stays. I will not move them. A school operated from 1837 to 1875. Operated stays. I will not average the buildings. A haven. Well-known stays. A newspaper, the first in the country. Would later stays. I will not move the cities. A supply center for a war. I will not invent a battle. Scenic stays. Almost entirely stays. Now stays. I will not drop almost. There is no nation. The next place, when you want it, is Mount Repose.",
+    long: "",
+    names: ["Mount Pleasant"]
+  },
+
+  {
+    id: "approach-mount-repose",
+    name: "Mount Repose",
+    lat: 39.1983,
+    lng: -84.2197,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Mount Repose, the census-designated place in Miami Township, Clermont County. I will not make the township this place. A page says slightly southeast of the geographic center. Slightly stays. A page says in the center. I will not average them. It had its start in the 1820s. The decade stays. I will not pick the year. If you stay on the road, I'll start at the decade.",
+    long: "",
+    names: ["Mount Repose"]
+  },
+  {
+    id: "mount-repose-1820s",
+    name: "The Decade",
+    lat: 39.1906,
+    lng: -84.2197,
+    radius: 40,
+    short: "Had its start in the 1820s, when a small country store was established there. Small stays. Country stays. There stays. I will not pick the year, and I will not say the store is standing. An office called by this name opened in 1867, and remained until 1907. Called stays. Remained stays. Until stays. I will not average the years, and I will not say it is open. Northwestern stays. Slightly southeast stays. In the center stays. I will not average them, and I will not move the other place. The census says four thousand six hundred forty-eight people in 2020. A page prints four thousand six hundred seventy-two for 2010. A page says four thousand one hundred two in 2000. Inhabitants stays. A five-year page says three thousand seven hundred ninety-eight, unless noted. Unless noted stays. I will not average them. A dash stays. The minus stays. The parts add. I will not average the two ratios. One age, and another with a plus and a minus. About stays. I will not average the ages. The box says two and five hundredths of a mile. The line says two miles, all land. All land stays. A page says two and one-tenth. I will not average them. The box does not agree with itself on the kilometers. A zero of water stays a zero. Two densities stay two densities. It is eight hundred sixty-nine feet up. This pin is the place.",
+    long: "",
+    names: ["Mount Repose"]
+  },
+  {
+    id: "mount-repose-called",
+    name: "Called",
+    lat: 39.1901,
+    lng: -84.2189,
+    radius: 40,
+    short: "The office was called by this name. Called stays. There is no story of the name. I will not invent one. A store was established. I will not point at a building the page does not name. There is no person with years, no yard, and no nation. I will not move the surveyor, and I will not move the rapture, and I will not move the war. The same postal number is on the township. I will not make the township this place. The next place, when you want it, is Mount Sterling.",
+    long: "",
+    names: ["Mount Repose"]
+  },
+
+  {
+    id: "approach-mount-sterling",
+    name: "Mount Sterling",
+    lat: 39.7210,
+    lng: -83.2736,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Mount Sterling, the village in Pleasant Township, Madison County. I will not make the township this village. A page says it was laid out in 1826 or 1828. Or stays. A page says no town until 1828. Until stays. I will not average them. The Kentucky town keeps its own name. I will not move it. If you stay on the road, I'll start at the or.",
+    long: "",
+    names: ["Mount Sterling"]
+  },
+  {
+    id: "mount-sterling-or",
+    name: "Or",
+    lat: 39.7133,
+    lng: -83.2736,
+    radius: 40,
+    short: "Laid out in 1826 or 1828. Or stays. A page says until 1828. Until stays. However stays. I will not average them. A page prints the initial and the title. I will not drop them. Of a town in Kentucky stays. I will not move it. Hometown stays. A page says a favorite town. Favorite stays. I will not average them. Recorded at London on June 26, 1829. At stays. I will not move London. An office on June 8, 1830. A page says around 1840. Around stays. I will not average them. Discontinued, and re-established. The hyphen stays. I will not say it is closed. Incorporated on March 12, 1845. Shortly stays. Cabins in 1797, in the area. In the area stays. Last years stay last years. I will not pick them. The census says one thousand nine hundred forty-five people in 2020. A page says about. About stays. Small stays. A part of stays. Larger stays. I will not average them. A dash stays. I will not fill the year the table skips. The box says one and sixty-nine hundredths of a mile. The line says one and seventy-three hundredths, all land. All land stays. A page says no large lakes or rivers within the limits. No large stays. Within stays. I will not average them. Two densities stay two densities. I will not drop the last digits. It is nine hundred six feet up. This pin is the village.",
+    long: "",
+    names: ["Mount Sterling"]
+  },
+  {
+    id: "mount-sterling-one",
+    name: "One of Those",
+    lat: 39.7128,
+    lng: -83.2728,
+    radius: 40,
+    short: "One company was raised here. One of those stays. I will not move the county's other companies, and I will not invent a battle. A picture is captioned in the historic district. In stays. I will not say the whole village. A library is located at a numbered street. The abbreviation stays. The street wears a city's name. I will not move the city. As of a year, a mill, and a waterworks the page calls city. As of stays. City stays. I will not say they are standing. There is no person with years, and no nation. Or stays. Near stays. I will not name the counties. Overlooking stays. I will not move the creek inside the limits. Two words stay two words. A doubling stays. I will not count it. The next place, when you want it, is Mount Vernon.",
+    long: "",
+    names: ["Mount Sterling"]
+  },
+
+  {
+    id: "approach-mount-vernon",
+    name: "Mount Vernon",
+    lat: 40.3910,
+    lng: -82.4833,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Mount Vernon, the city in Knox County, and the county seat. I will not make the county this city. A place to the south wears part of the name. I will not make it this city. The estate it was named after keeps its own ground. I will not move it. A page says it was platted in 1805. Platted stays. If you stay on the road, I'll start at the plat.",
+    long: "",
+    names: ["Mount Vernon"]
+  },
+  {
+    id: "mount-vernon-1805",
+    name: "The Plat",
+    lat: 40.3833,
+    lng: -82.4833,
+    radius: 40,
+    short: "Platted in 1805. Established stays. Laid out stays. Inception stays. I will not average the verbs. Three men are named. I will not add their years. The county was organized in 1808. I will not make the county this city. It became a village in 1830, a town in 1845, and a city in 1880. Became stays. I will not average the years. Named after an estate. Estate stays. A page says a famous home, in honor of the general, and President. The comma stays. Famous stays. I will not average them. Along a river stays. A page says near another name. Near stays. I will not repair it. Forty miles northeast. Northeast stays. I will not move the city. The census says sixteen thousand nine hundred fifty-six people in 2020. The parts add. A page prints seventeen thousand sixty-five. I will not average them. Unless noted stays. An estimate stays an estimate. The box says nine and ninety-two hundredths of a mile. The line says nine and sixty hundredths, of which the land is another figure. Of which stays. A page says nine and nine-tenths. I will not average them. The miles of water agree. The kilometers do not. Two densities stay two densities. It is nine hundred seventy-four feet up. A page prints another figure for the meters. I will not average them. This pin is the city.",
+    long: "",
+    names: ["Mount Vernon"]
+  },
+  {
+    id: "mount-vernon-one",
+    name: "One Of",
+    lat: 40.3828,
+    lng: -82.4825,
+    radius: 40,
+    short: "A motto says one of, and likable. One of stays. Most stays. A magazine says livable. I will not average them. A page prints a space inside the quotes. The space stays. An opera house, downtown. Of its kind stays. Known stays. Has been transformed stays. In the process stays. I will not average them. A cemetery is named. Buried stays. A park system stays. I will not count the parks. Indians came in, in large numbers, to trade. Came in stays. I will not name a nation. There is no battle. Entire stays. Severe stays. A trail begins here. Begins stays. Some of stays. I will not say all of the country. Thinly stays. Only stays. Nearly stays. The page does not print a life. I will not add one. The next place, when you want it, is Mount Victory.",
+    long: "",
+    names: ["Mount Vernon"]
+  },
+
+  {
+    id: "approach-mount-victory",
+    name: "Mount Victory",
+    lat: 40.5413,
+    lng: -83.5211,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Mount Victory, the village in Hale Township, Hardin County. I will not make the township this village. A page puts the township in the village. I will not reverse them. The town site was surveyed in 1851. Surveyed stays. A page says established. I will not average the verbs. If you stay on the road, I'll start at the survey.",
+    long: "",
+    names: ["Mount Victory"]
+  },
+  {
+    id: "mount-victory-1851",
+    name: "The Town Site",
+    lat: 40.5336,
+    lng: -83.5211,
+    radius: 40,
+    short: "The town site was surveyed in 1851. Town site stays. Established stays. I will not average the verbs. One year before a railroad was extended to that point. One year before stays. To that point stays. I will not print the year, and I will not name the railroad. An office has been in operation since 1854. Has been stays. Since stays. The census says six hundred one people in 2020. The parts add. A page prints six hundred four, and says the figures were rebased. Rebased stays. Significant stays. I will not average them. A five-year page prints five hundred seventy-seven, unless noted. Unless noted stays. Two earlier counts do not agree. I will not average them. The box says eighty-five hundredths of a mile. The line says seventy-seven hundredths, all land. All land stays. A page says eight-tenths. I will not average them. A zero of water stays a zero. Three densities stay three densities. It is one thousand forty feet up. The box pairs the feet with one meter figure. A page prints another. I will not average them. This pin is the village.",
+    long: "",
+    names: ["Mount Victory"]
+  },
+  {
+    id: "mount-victory-shout",
+    name: "By Reason Of",
+    lat: 40.5331,
+    lng: -83.5203,
+    radius: 40,
+    short: "The village received its name by reason of the proprietor shouting. By reason of stays. The exclamation stays. A page says a friend exclaimed, loudly, and the proprietor adopted the name. Loudly stays. We shall stays. Adopted stays. Has since been known stays. I will not average them. Hoping stays. An auction in 1849. I will not average the years. Two shouts stay two shouts. A district is listed. A page says Registry. I will not repair it. Downtown stays. A school, the only one in the district. Only stays. A library, a branch. Branch stays. A marker was erected in 2024. Erected stays. There is no person with years, and no nation. Planned stays. I will not invent a battle. The next place, when you want it, is Mowrystown.",
+    long: "",
+    names: ["Mount Victory"]
+  },
+
+  {
+    id: "approach-mowrystown",
+    name: "Mowrystown",
+    lat: 39.0480,
+    lng: -83.7500,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Mowrystown, the village in Highland County. The page does not name a township. I will not invent one. A page says the history section is empty. Empty stays. I will not fill it. Another page says it was laid out in 1829. Laid out stays. If you stay on the road, I'll start at the empty section.",
+    long: "",
+    names: ["Mowrystown"]
+  },
+  {
+    id: "mowrystown-empty",
+    name: "Empty",
+    lat: 39.0403,
+    lng: -83.7500,
+    radius: 40,
+    short: "A page says the section is empty. Empty stays. I will not fill it. Another page says it was laid out in 1829, and named after Abe Mowry, an early settler. Laid out stays. Early stays. I will not add his years. A page says it does not have a date for the founding. Does not stays. You might consider stays. An office opened in 1832. So far stays. I will not make the office the founding. The census says three hundred eighty-five people in 2020. A page says three hundred sixty in 2010. Inhabitants stays. A page says three hundred fifty-two, from estimates. Estimates stays. A page prints an. I will not repair it. Fifth stays. Most stays. I will not update the rank. A dash stays. The minus stays. I will not explain it. The land miles agree. The kilometers do not. Of which stays. The water does not agree with itself. I will not average it. Two densities stay two densities. It is nine hundred ninety-one feet up. A page prints another pair. I will not average them. The office is a feature. I will not make it the village. This pin is the village.",
+    long: "",
+    names: ["Mowrystown"]
+  },
+  {
+    id: "mowrystown-early",
+    name: "Early",
+    lat: 39.0398,
+    lng: -83.7492,
+    radius: 40,
+    short: "Named after an early settler. Early stays. The section is empty. Empty stays. Might stays. So far stays. A page says it can not guarantee, and says to use it with care. Can not stays. Care stays. I will not drop the hedges. The village is the home of a high school. Home stays. I will not add a story. A picture looks west on a street. Looking west stays. There is no person with years, no yard, no nation, and no battle. The next place, when you want it, is Mulberry.",
+    long: "",
+    names: ["Mowrystown"]
+  },
+
+  {
+    id: "approach-mulberry",
+    name: "Mulberry",
+    lat: 39.2038,
+    lng: -84.2472,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Mulberry, the census-designated place in Miami Township, Clermont County. I will not make the township this place. It is bordered to the east by Mount Repose. Bordered stays. I will not move it. A page says it was known as Newberry when it was laid out in 1818. Known as stays. If you stay on the road, I'll start at the old name.",
+    long: "",
+    names: ["Mulberry"]
+  },
+  {
+    id: "mulberry-1818",
+    name: "Known As",
+    lat: 39.1961,
+    lng: -84.2472,
+    radius: 40,
+    short: "Known as Newberry when it was laid out in 1818. Known as stays. The quotes stay. A page says only a few lots, on the highway as its course then ran. Only a few stays. Then ran stays. Another hamlet was laid out on a day in 1833. The abbreviation stays. Variable stays. Practically one small village stays. Practically stays. I will not average the names. Whose office bears this name. Bears stays. Established the same year. Same year stays. A page says the office closed in 1971. Closed stays. I will not average them. Near the center stays. A page says in the west. I will not average them. A road forms the western edge. Forms stays. Downtown is eighteen miles to the west. I will not move the city. The census says three thousand four hundred fifty-nine people in 2020. The parts add. A five-year page prints another count, unless noted. Unless noted stays. Rebased stays. I will not average them. One age, and another with a plus and a minus. About stays. The box says one and sixty hundredths of a mile. The line says one and six-tenths, all land. All land stays. A zero of water stays a zero. I will not drop a place. It is seven hundred ninety-seven feet up. A page printed another pair. I will not average them. This pin is the place.",
+    long: "",
+    names: ["Mulberry"]
+  },
+  {
+    id: "mulberry-said",
+    name: "Is Said",
+    lat: 39.1956,
+    lng: -84.2464,
+    radius: 40,
+    short: "It is said a man was the first in trade, sometime about 1820. Is said stays. Sometime about stays. I will not add a life, and I will not make an appointment a life. A page says here are a seminary and churches, and several dozen houses. Here stays. Several dozen stays. I will not say they are standing. A store, at present, on that page. At present stays. I will not make that present this year. There is no yard, no nation, and no battle. Practically stays. For many years stays. I will not count them. The same postal number is on the township. I will not make the township this place. The next place, when you want it, is Munroe Falls.",
+    long: "",
+    names: ["Mulberry"]
+  },
+
+  {
+    id: "approach-munroe-falls",
+    name: "Munroe Falls",
+    lat: 41.1355,
+    lng: -81.4300,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Munroe Falls, the city in east-central Summit County, along the Cuyahoga River. A page says eastern. A page says between Stow and Tallmadge. Between stays. I will not average the words, and I will not move those cities. It is a suburb of Akron. Suburb stays. I will not move Akron. A page says the first name was Kelsey's Mills, also Kelsey Mills. Also stays. If you stay on the road, I'll start at the also.",
+    long: "",
+    names: ["Munroe Falls"]
+  },
+  {
+    id: "munroe-falls-also",
+    name: "Also",
+    lat: 41.1278,
+    lng: -81.4300,
+    radius: 40,
+    short: "Kelsey's Mills, also Kelsey Mills. Also stays. A page says Kelsey's Mill. I will not average the spellings. Changed to Florence in 1817, when a wooden dam was built. A page says a log dam. I will not average them. A page says the falls were created then. Created stays. A page says the dam dated to 1903. I will not average them. Around 1836 stays. A page says in 1836. Also spelled Monroe stays. Approximately two hundred fifty acres stays. Incorporated October 26, 1838. Until stays. Village status in 1921, and a city in 1991. I will not average them. Not enough stays. A canal in 1840, and a page says 1841. Closed around 1870. A page says 1869, and filled. I will not average them. The census says five thousand forty-four people in 2020. A page says five thousand twelve in 2010. Two estimates stay two estimates. The box says two and eighty-six hundredths of a mile. The line says two and eighty-one hundredths. I will not drop a digit. Balance stays. A page prints it's. I will not repair it. It is one thousand twenty-four feet up. A page prints one thousand thirty. I will not average them. Mostly stays. Now-defunct stays. I will not make the townships this city. This pin is the city.",
+    long: "",
+    names: ["Munroe Falls"]
+  },
+  {
+    id: "munroe-falls-likely",
+    name: "Likely",
+    lat: 41.1273,
+    lng: -81.4292,
+    radius: 40,
+    short: "Various tribes. Various stays. A page says likely the Seneca. Likely stays. I will not drop likely. Many stays. A metro park features a swimming lake. Features stays. A park carries another city's name, and a page says it is located here. Located stays. I will not move it. A schoolhouse continues as the hall. Continues stays. Until stays. In the 1960s stays. A house, today known as another name. Circa stays. The trees thrived, and the worms did not. A page says the climate was not suitable. Unfortunately stays. Only a few years, and about ten years. I will not average them. Nearly stays. There is no person with years, and no battle. A panic is not a battle. The next place, when you want it, is Murray City.",
+    long: "",
+    names: ["Munroe Falls"]
+  },
+
+  {
+    id: "approach-murray-city",
+    name: "Murray City",
+    lat: 39.5174,
+    lng: -82.1678,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Murray City, the village in Ward Township, Hocking County. I will not make the township the village. It was platted in 1873 and incorporated in 1891. It was named after John Murray Brown. I will not add his years. If you stay on the road, I'll start at the plat.",
+    long: "",
+    names: ["Murray City"]
+  },
+  {
+    id: "murray-city-1873",
+    name: "In the Area",
+    lat: 39.5097,
+    lng: -82.1678,
+    radius: 40,
+    short: "Platted in 1873. Incorporated in 1891. A hotel in the area in 1875. In the area stays. Original stays. I will not average the three dates, and I will not add a life. Grew rapidly. Rapidly stays. One of the largest stays. At its peak, the population exceeded two thousand. Exceeded stays. Early stays. The table prints one thousand four hundred ninety-three. I will not average them. A dash stays. The minus stays. I will not explain it. Steep stays. Major stays. The census says three hundred forty-one people in 2020. The parts add. A page prints three hundred forty-seven. Rebased stays. I will not average them. Suggest stays. Approximately stays. The box says eighty-two hundredths of a kilometer. The line says eighty-three, all land. All land stays. A zero of water stays a zero. It is seven hundred sixty-four feet up. Along a creek stays. I will not call the creek a yard. This pin is the village.",
+    long: "",
+    names: ["Murray City"]
+  },
+  {
+    id: "murray-city-once",
+    name: "Once",
+    lat: 39.5092,
+    lng: -82.1670,
+    radius: 40,
+    short: "The village once fielded a team. Once stays. Semi-professional stays. In the 1920s stays. Noted stays. I will not invent a score, and I will not pick the year. A preserved red caboose. Preserved stays. I will not make it the depot. A church, and a dash before hilltop. The dash stays. Much stays. Historic storefronts along a street. Along stays. I will not say the hotel is standing. There is no person with years, no yard, and no nation. A count of one is not a nation. A closure is not a battle. The residents are served by a district that carries another city's name. I will not move that city. The next place, when you want it, is Mutual.",
+    long: "",
+    names: ["Murray City"]
+  },
+
+
+
 
 
 

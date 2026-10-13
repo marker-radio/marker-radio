@@ -1121,6 +1121,1090 @@ STORIES.push(
     long: "",
     names: ["New Carlisle"]
   },
+  {
+    id: "approach-new-concord",
+    name: "New Concord",
+    lat: 40.0030,
+    lng: -81.7383,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on New Concord, the village in Highland Township and Union Township, Muskingum County. Not Concord, and not Zanesville. One page says the plat was 1828, when the road arrived. If you stay on the road, I'll start at the plat.",
+    long: "",
+    names: ["New Concord"]
+  },
+  {
+    id: "new-concord-1828",
+    name: "March 24",
+    lat: 39.9944,
+    lng: -81.7383,
+    radius: 40,
+    short: "The encyclopedia says New Concord was laid out in 1828, when the National Road was extended to that point. A marker says the Scotch-Irish settlement that became New Concord was laid out on March 24, 1828, by Judge David Findley. I will not average 1828 and March 24. Scotch-Irish stays. That is not a nation that was here before the plat. The marker says Findley was born in Belfast, Ireland, in 1762, and that he and his six sons carved out farms. I will not move Belfast here, and I will not give the sons years the marker does not print. A tour says he had acquired most of the land by 1806, laid out 50 lots, and named it New Concord after his Pennsylvania home. Most stays. I will not move Pennsylvania here, and I will not average Belfast and Pennsylvania. The marker says that within two years the population was 32, that by 1833 it was 75, and that in 1837 it was 200. Within two years stays. I will not add a year the marker does not print. It says the village was officially incorporated in 1838. Officially stays. The encyclopedia says a post office named New Concord has been in operation since 1832. This pin is the plat.",
+    long: "",
+    names: ["New Concord"]
+  },
+  {
+    id: "new-concord-glenn",
+    name: "1921 to 2016",
+    lat: 39.9939,
+    lng: -81.7378,
+    radius: 40,
+    short: "An obituary prints John H. Glenn, July 18, 1921, to December 8, 2016. It says he was born in Cambridge, and that during his early childhood the family moved to New Concord. A tour says when John was two. I will not average two and early childhood, and I will not move Cambridge here. The obituary says interment will be in Arlington National Cemetery. I will not move Arlington here. A church page says he died at the age of 95, and that the town's population was 2,400. The 2020 count says 2,361. I will not average 2,400 and 2,361. The encyclopedia says he was the first American to orbit the Earth. It does not print his years.",
+    long: "",
+    names: ["New Concord"]
+  },
+  {
+    id: "new-concord-cemetery",
+    name: "The Father's Grave",
+    lat: 39.9985,
+    lng: -81.7449,
+    radius: 40,
+    short: "A memorial page says John Herschel Glenn Sr., January 5, 1895, to September 9, 1966, is buried in New Concord Cemetery. It says he was born in Cambridge and died in New Concord. I will not move Cambridge here. It prints the grave at 39.99847 and -81.74493. The encyclopedia prints the village at 39.99444 and -81.73833. I will not average them, and I will not move the grave onto the plat.",
+    long: "",
+    names: ["New Concord"]
+  },
+  {
+    id: "new-concord-paul",
+    name: "The Oldest Building",
+    lat: 39.9944,
+    lng: -81.7390,
+    radius: 40,
+    short: "A walking tour says Muskingum University, formerly Muskingum College, has been one of the centers of village life since 1837, and that Paul Hall is the oldest building on the campus. Formerly stays. The encyclopedia says that in 1837, almost ten years later, the university was founded, with its first class graduating in 1839. Almost ten stays. I will not correct it. A tour says the post office was built in 1938, on a lot which likely housed a log house. Likely stays. The office since 1832 and the building of 1938 stay two dates. The marker says they built a carding mill. The tour says two mills. I will not average a carding mill and two mills, and I will not say the mill still stands.",
+    long: "",
+    names: ["New Concord"]
+  },
+  {
+    id: "new-concord-1917",
+    name: "July of 1917",
+    lat: 39.9939,
+    lng: -81.7388,
+    radius: 40,
+    short: "The same memorial page says the father enlisted in the Ohio National Guard in July of 1917, then served as a bugler, a horseshoer, and a corporal in the Wagon Company and Company G of the 112th Ammunition Train, 37th Division. I will not invent a battle in the village. An obituary says the son began flying lessons at the New Philadelphia airport and earned a license in 1941. I will not move New Philadelphia here.",
+    long: "",
+    names: ["New Concord"]
+  },
+  {
+    id: "new-concord-home",
+    name: "It's Great to Be Home",
+    lat: 39.9950,
+    lng: -81.7388,
+    radius: 40,
+    short: "A page says that when he came home he said, from a swim in the college pool to outer space is a big jump and it could happen nowhere else in this country. Could stays. It says his feelings showed, and he paused, and then he said it is great to be an American, it is great to be home. It says the town had 2,127 people then. Then stays. The encyclopedia's table prints 2,127 at 1960. I will not decide that then is 1960. The same page says the boyhood home at 72 Main Street joined the register in 2018. A tour says Herschel Glenn moved the house from Route 40 in west New Concord to the corner of Friendship Drive and Westview Drive. I will not average 72 Main and that corner. The box says 1.81 square miles, 4.68 square kilometers, all land. The geography line says 1.63 square miles, 4.22 square kilometers, all land. I will not average them. No page of the town names a nation. I will not invent one. The next place, when you want it, is New Cumberland.",
+    long: "",
+    names: ["New Concord"]
+  },
+
+  {
+    id: "approach-new-cumberland",
+    name: "New Cumberland",
+    lat: 40.5470,
+    lng: -81.3000,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on New Cumberland, the unincorporated place in Warren Township, Tuscarawas County. Not Mineral City, and not Cumberland. One page says the plat was 1826. If you stay on the road, I'll start at the plat.",
+    long: "",
+    names: ["New Cumberland"]
+  },
+  {
+    id: "new-cumberland-1826",
+    name: "May, 1826",
+    lat: 40.5386,
+    lng: -81.3000,
+    radius: 40,
+    short: "The encyclopedia says New Cumberland was laid out and platted in 1826. It does not print the month, and it does not print the name. The county history says Philip Suter laid it out in May, 1826, on the northwest quarter of Section 29. A chronology says the same month, and the same man, and thirty-two lots. I will not average 1826 and May. The history says the plat included thirty-two lots, each three perches wide and twelve long, sixteen on Main Street and sixteen on Cross Street. James Meek, in 1841, added ten lots. John Suter, in 1847, added twenty. The history says a post office was established in 1831 or 1832. Or stays. The chronology says 1831. The encyclopedia says 1832, and that it remained until 1957. I will not average 1831 and 1832, and I will not average open and closed. The mail now goes through Mineral City. I will not move Mineral City here. The history says the village secured a charter, that Joseph Kerr was elected mayor in 1849 and resigned the same year, and that the people soon tired of the government. Soon stays. Tired stays. By common consent, it was allowed to lapse through neglect to elect officers. The chronology says by common consent it allowed its village status to lapse. I will not repair it. The census in the history says 203 people in 1850, and 163 in 1880. Slightly declined stays. This pin is the plat.",
+    long: "",
+    names: ["New Cumberland"]
+  },
+  {
+    id: "new-cumberland-lappin",
+    name: "Died in 1827",
+    lat: 40.5381,
+    lng: -81.2995,
+    radius: 40,
+    short: "The county history says that shortly before the plat, Philip Suter induced Samuel Lappin, Jr., to open a store, and that his brother Samuel died in 1827. Shortly stays. It does not print a birth year. I will not add one. It says Israel S. Lappin then took the store and continued a merchant fourteen years. I will not turn fourteen years into a pair of dates. John Black built the first house and kept the first tavern. His residence was very brief. Very brief stays. The canal, then building through Bolivar, attracted him there. I will not move Bolivar here. David McConnell started the second store about 1830, and was the postmaster. About stays.",
+    long: "",
+    names: ["New Cumberland"]
+  },
+  {
+    id: "new-cumberland-cemetery",
+    name: "The Cemetery List",
+    lat: 40.5391,
+    lng: -81.2995,
+    radius: 40,
+    short: "A county cemetery index lists New Cumberland Cemetery under this place. It does not, in the line I have, print a burial or a year. I will not invent one. I will not move Mineral City Cemetery here.",
+    long: "",
+    names: ["New Cumberland"]
+  },
+  {
+    id: "new-cumberland-church",
+    name: "About 1830",
+    lat: 40.5386,
+    lng: -81.3005,
+    radius: 40,
+    short: "The county history says the Methodist Church was the first one built. The date was about 1830, on the site of the present building on Cross Street, which is larger than the old one, and was built in 1878. About stays. Larger stays. I will not average about 1830 and 1878. It says the Lutheran church stands at the eastern extremity of Main Street. The encyclopedia's picture line says the public school is now the Warren Township Community Center. I will not decide that is the schoolhouse the history counted. Students attend the Tuscarawas Valley district. I will not move that district's other schools here.",
+    long: "",
+    names: ["New Cumberland"]
+  },
+  {
+    id: "new-cumberland-one-leg",
+    name: "Some Now Forgotten Way",
+    lat: 40.5391,
+    lng: -81.3005,
+    radius: 40,
+    short: "The county history says One Leg Creek was named for a red man dwelling near its mouth, who in some now forgotten way had lost one of his limbs. Some stays. Now forgotten stays. Near the mouth stays. I will not move the mouth here, and I will not invent the nation. Red man stays. It says the stream was declared navigable in 1808, and the act was repealed in 1816, probably to permit mill dams. Probably stays. I will not put a mill in the village. Some of late, it says, would substitute the more euphonic name Connotton. Some stays. Of late stays. Euphonic stays. Not without determined opposition. Judge Lappin is the stanch supporter of the ancient title. Stanch stays. I will not repair it. The encyclopedia spells the creek Conotton. I will not average Connotton and Conotton. No page names a battle. I will not invent one. The next place, when you want it, is New Dover.",
+    long: "",
+    names: ["New Cumberland"]
+  },
+
+  {
+    id: "approach-new-dover",
+    name: "New Dover",
+    lat: 40.2550,
+    lng: -83.3047,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on New Dover, the unincorporated place in Dover Township, Union County. Not Dover, and not Marysville. One page says the plat was 1854, under another name. If you stay on the road, I'll start at the plat.",
+    long: "",
+    names: ["New Dover"]
+  },
+  {
+    id: "new-dover-1854",
+    name: "Under the Latter Name",
+    lat: 40.2467,
+    lng: -83.3047,
+    radius: 40,
+    short: "The encyclopedia says New Dover was originally called Dover, and under the latter name was laid out and platted in 1854. Latter stays. A history says Dover was surveyed by William B. Irwin for William Richey, Adam Richey, Thomas Alpin, and B. F. Benton, and it prints May 11, 1854. I will not drop May 11, and I will not add it to the encyclopedia. Alpin stays. It says the first house on the plat was built by Adam Richey in the fall of 1854. I will not average May 11 and the fall. The same history says the railroad of 1852 and 1853 encouraged the laying out of this embryo village, which in 1882 had a population of only one hundred and fifty. Embryo stays. Only stays. I will not move Cleveland, Columbus, Cincinnati, or Indianapolis here. An atlas says that as of 1877 the village did a considerable amount of manufacturing, and that it contained several other stores. Considerable stays. Several stays. The office was established February 5, 1856. The encyclopedia says it was discontinued April 30, 1935, and that the mail is now sent through the Marysville branch. Now stays. I will not move Marysville here. A history written while the office was open still listed it among the present offices. I will not average present and closed. The encyclopedia says the place is about three miles east of Marysville. About stays. This pin is the plat.",
+    long: "",
+    names: ["New Dover"]
+  },
+  {
+    id: "new-dover-shuler",
+    name: "December 9, 1810",
+    lat: 40.2462,
+    lng: -83.3042,
+    radius: 40,
+    short: "A county history says William A. Shuler was born in Northumberland County, Pennsylvania, on December 9, 1810, and that his wife Sarah was born in Perry County, Ohio, on April 15, 1810. I will not average the two days, and I will not move Pennsylvania or Perry County here. It says he moved to this village in 1855, and that they live in retirement. It does not print a death. I will not add one. The history prints Servin for the man who kept the first harness shop in the embryo village, and Sevryn for a later postmaster. I will not average the spellings.",
+    long: "",
+    names: ["New Dover"]
+  },
+  {
+    id: "new-dover-church",
+    name: "Summer of 1867",
+    lat: 40.2472,
+    lng: -83.3042,
+    radius: 40,
+    short: "A church history says the Methodist Episcopal church at the village of Dover was built in the summer of 1867, at a cost of one thousand two hundred dollars, and dedicated February 8, 1868. I will not average the summer and February 8. It says a page of the older class concluded to disobe and divide, part going to this village and others to Grass Run. Disobe stays. I will not repair it, and I will not move Grass Run here, or the Mount Herman cemetery. The encyclopedia's picture is labeled Methodist church. I will not decide it is the 1867 house. In 1914 the membership was two hundred and eighty-five, and the property was valued at five thousand five hundred dollars. I will not average that with one thousand two hundred. No page puts a cemetery on the village. No page names a nation. A page says many of the men were away during the Civil War, and that a man of the village belonged to the G. A. R. Many stays. It does not print an enlistment. I will not invent a battle, and I will not invent a legend. The next place, when you want it, is New Garden.",
+    long: "",
+    names: ["New Dover"]
+  },
+
+  {
+    id: "approach-new-garden",
+    name: "New Garden",
+    lat: 40.8040,
+    lng: -80.9261,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on New Garden, the unincorporated place in Hanover Township, Columbiana County. Not Hanoverton, and not Winona. One page says the plat was 1810. If you stay on the road, I'll start at the plat.",
+    long: "",
+    names: ["New Garden"]
+  },
+  {
+    id: "new-garden-1810",
+    name: "A Dash",
+    lat: 40.7953,
+    lng: -80.9261,
+    radius: 40,
+    short: "The encyclopedia says New Garden was laid out in 1810. The county history says the village, about three miles due north from Hanover, was laid out in 1810 by a Sinclair whose first name is a dash, and by Benjamin Saunders, early settlers upon section 9. About stays. Due north stays. The dash stays. I will not fill it in, and I will not move Hanover here. Jacob Ritter laid out an addition on April 4, 1832. I will not average 1810 and April 4. A post office called New Garden was established in 1830, and remained until 1893. A gazetteer says it does not have a founding date, and that you might consider the office. Might consider stays. I will not make 1830 the plat. The encyclopedia says the place is 9 miles, 14 kilometers, west of Lisbon. I will not move Lisbon here. The box says 1,286 feet. The gazetteer says 1,280 feet. I will not average them. This pin is the plat.",
+    long: "",
+    names: ["New Garden"]
+  },
+  {
+    id: "new-garden-graham",
+    name: "Died in 1870",
+    lat: 40.7948,
+    lng: -80.9256,
+    radius: 40,
+    short: "The county history says James Graham, one of the most prominent men in the town, kept store there, and was postmaster as well for about forty years. One of the most stays. About stays. Since his death, in 1870, his widow has continued his business. It does not print his birth, and it does not print her name. I will not add either. I will not count forty years back to 1830.",
+    long: "",
+    names: ["New Garden"]
+  },
+  {
+    id: "new-garden-burying",
+    name: "Near",
+    lat: 40.7958,
+    lng: -80.9256,
+    radius: 40,
+    short: "The county history says there is an old burying-ground, also, near New Garden. Near stays. It too was laid out by the Friends, near their meeting-house. Although the Friends and their meeting-house have passed out of the township, the graveyard still remains. Passed out stays. Still remains stays. It is kept in excellent repair and tastefully beautified from time to time. From time to time stays. Another ground, near Hanover, is the one with the eight hundred graves. I will not move that ground here.",
+    long: "",
+    names: ["New Garden"]
+  },
+  {
+    id: "new-garden-church",
+    name: "Some Importance",
+    lat: 40.7953,
+    lng: -80.9266,
+    radius: 40,
+    short: "The encyclopedia's picture is the New Garden United Methodist Church. It does not print a year. I will not add one. The county history says that at this place E. K. Liber has a carriage-manufactory of some importance, and Charles Liber has a foundry. Some stays. The encyclopedia says a covered bridge, 28 feet long, 8.5 meters, built in 1978, is in a golf course in New Garden. A note on that encyclopedia says the course is near the village. In stays. Near stays. I will not average them, and I will not move the bridge onto the plat.",
+    long: "",
+    names: ["New Garden"]
+  },
+  {
+    id: "new-garden-wood",
+    name: "The Medal",
+    lat: 40.7948,
+    lng: -80.9266,
+    radius: 40,
+    short: "The encyclopedia names Robert B. Wood, and says he was awarded the Medal of Honor for his actions during the Civil War. It does not print the fight, and it does not print his years. I will not invent the battle. A family page says he was born in New Garden in 1833, and died July 1, 1878, in Columbus, and is buried at Hanoverton. I will not move Columbus or Hanoverton here. The same page says he registered for military service in 1857. I will not average 1857 and the Civil War. The encyclopedia says an anti-slavery auxiliary was formed here in 1834. A note says that society was the meeting's, and not exclusively this village. Not exclusively stays. It says Martin Delany, in 1848, wrote of the respectable and praiseworthy black farmers of New Garden. Respectable stays. Praiseworthy stays.",
+    long: "",
+    names: ["New Garden"]
+  },
+  {
+    id: "new-garden-quiet",
+    name: "Especially",
+    lat: 40.7958,
+    lng: -80.9266,
+    radius: 40,
+    short: "The county history says that, unlike the other villages of the township, New Garden has never experienced any especially eventful episode, and is to-day what it has always been, a quiet rural village. Especially stays. To-day stays. Always stays. The encyclopedia says Stephen Grellet passed through in 1824, under great depression of body and mind, and that many were carried away by the spirit of infidelity. Many stays. Carried away stays. A note says that visit was the meeting in the village later known as Winona, and that missionary is a later word. I will not move Winona here, and I will not repair the word. I will not average never especially eventful with that visit. The township page names Hanoverton, Kensington, and Guilford, and does not name this place. I will not move those three here. No page names a nation. I will not invent one. The next place, when you want it, is New Germany.",
+    long: "",
+    names: ["New Garden"]
+  },
+
+  {
+    id: "approach-new-germany",
+    name: "New Germany",
+    lat: 39.7835,
+    lng: -84.0800,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on New Germany, in the northwest corner of Beavercreek Township, Greene County. Not Harshmanville, and not Alpha. One page says it was not officially platted. If you stay on the road, I'll start at the name.",
+    long: "",
+    names: ["New Germany"]
+  },
+  {
+    id: "new-germany-name",
+    name: "Most Likely",
+    lat: 39.7747,
+    lng: -84.0800,
+    radius: 40,
+    short: "The encyclopedia says New Germany was not officially platted, and that a share of the early settlers being natives of Germany most likely caused the name to be selected. A share stays. Most likely stays. The 1918 county history does not print the words not officially platted. It says a small cluster of houses in the extreme northwestern corner of Beavercreek Township, in the northwest quarter of section 5, township 2, range 7, on the Harshmanville road. It says the records do not reveal when the site was first settled. Do not reveal stays. Apparently the first residents were of Teutonic origin, because the name is New Germany. Apparently stays. Because stays. A 1961 directory says farmers of German extraction, and it drops the apparently. I will not average the three. It is not on a railroad. The encyclopedia says it is mostly a neighborhood of Beavercreek, with small adjacent areas still in the township. Mostly stays. Small stays. I will not average 1918 township and mostly a neighborhood. I will not move Harshmanville here. This pin is the name.",
+    long: "",
+    names: ["New Germany"]
+  },
+  {
+    id: "new-germany-school",
+    name: "No Reported Injuries",
+    lat: 39.7742,
+    lng: -84.0795,
+    radius: 40,
+    short: "A heritage trail says that in town in the mid-1800s you'd have found a general store and a blacksmith shop, and New Germany School number 11. You'd have found stays. It says the school burned in February 1920 while the teacher and the pupils were eating lunch, and that there were no reported injuries. No reported stays. The 1961 directory says it has two blacksmith shops, two grocery stores, a dry goods store, a saloon, a school house, and an Old Stage Coach Inn, and that the road from Cincinnati through Dayton, Fairfield, Springfield, and Columbus used the inn as a stopping place. It has stays. I will not average it has with you'd have found. A heritage trail says much of the land in 1874 was owned by members of the Harshman family. Much stays. It does not print one person's years. I will not invent a life.",
+    long: "",
+    names: ["New Germany"]
+  },
+  {
+    id: "new-germany-hall",
+    name: "Fifty-Fifty",
+    lat: 39.7752,
+    lng: -84.0805,
+    radius: 40,
+    short: "The 1961 directory says New Germany had a band organized in 1896, which played at political rallies, lawn fetes, picnics, and many other places where they were in demand. Many stays. A heritage trail says that in the early twentieth century the social life of northern Beavercreek Township revolved around New Germany Hall, famous for 50/50 dances, 50 percent round and 50 percent square. Famous stays. It also names a Hall clothing store. I will not make the store and the hall the same building. The same trail says the town has been consumed by progress, but its remnants are still there, at Colonel Glenn Highway and Grange Hall Road. Consumed stays. Remnants stay. A portion of the land is now the air base, and other portions a store and a business park. A portion stays. I will not move the base here. No page prints a person's years, a burying-ground, a nation, or a battle. The word natives on the encyclopedia is Germany, which is the name, not a nation that was here before. I will not invent the four. The next place, when you want it, is New Hampshire.",
+    long: "",
+    names: ["New Germany"]
+  },
+
+  {
+    id: "approach-new-hampshire",
+    name: "New Hampshire",
+    lat: 40.5620,
+    lng: -83.9531,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on New Hampshire, the census-designated place in Goshen Township, Auglaize County. Not the state, and not Wapakoneta. One page says the plat was 1836. If you stay on the road, I'll start at the plat.",
+    long: "",
+    names: ["New Hampshire"]
+  },
+  {
+    id: "new-hampshire-1836",
+    name: "Sixteen Acres",
+    lat: 40.5539,
+    lng: -83.9531,
+    radius: 40,
+    short: "The county history says the village of New Hampshire, in Goshen Township, was laid out by John Kindle in 1836, and was given its name by Mrs. Kindle. The town plat covers sixteen acres. The encyclopedia says it was laid out in 1836 and named after the state of New Hampshire. I will not make Mrs. Kindle and the state into one sentence. A post office called New Hampshire has been in operation since 1855. I will not average 1836 and 1855. The encyclopedia says 0.61 square miles, all land, and 150 people in 2020. An older copy says 174 people in 2010. I will not average 150 and 174, and I will not average sixteen acres and 0.61 square miles. The box says 1,034 feet. A post-office map says 1,033 feet. Both say 315 meters. I will not average the feet. A children's page puts Union in the box and Goshen in the sentence. I will not average them, and I will not move Union Township here. This pin is the plat.",
+    long: "",
+    names: ["New Hampshire"]
+  },
+  {
+    id: "new-hampshire-kindle",
+    name: "June 8, 1805",
+    lat: 40.5534,
+    lng: -83.9526,
+    radius: 40,
+    short: "The county history does not print John Kindle's years. A grave page says he was born June 8, 1805, in Thornville, and died January 8, 1885, in Auglaize County, and that he laid out New Hampshire. I will not put those years into the county history, and I will not move Thornville here. The same page names a wife, Elizabeth Stillwell. The county history says only Mrs. Kindle. I will not make Mrs. Kindle into Elizabeth. It does not print her years. I will not invent them.",
+    long: "",
+    names: ["New Hampshire"]
+  },
+  {
+    id: "new-hampshire-walnut",
+    name: "East Of",
+    lat: 40.5578,
+    lng: -83.9222,
+    radius: 40,
+    short: "A cemetery page says Walnut Hill Cemetery is east of New Hampshire, on the north side of the road, in Goshen Township, section 34. East of stays. It says the ground is in average condition and is still accepting new burials. Average stays. Still stays. It says the list is not complete. Not complete stays. The grave page cites the same cemetery and says New Hampshire. East of stays. New Hampshire stays. I will not average them, and I will not move this ground onto the sixteen acres.",
+    long: "",
+    names: ["New Hampshire"]
+  },
+  {
+    id: "new-hampshire-mill",
+    name: "The First Steam Mill",
+    lat: 40.5539,
+    lng: -83.9536,
+    radius: 40,
+    short: "The county history says Orin North built the first steam mill. It does not print the year. I will not add one. It says the village now has two hotels, two stores, two blacksmith shops, one grocery, a grist and saw-mill, one physician, S. J. Pollock, one Methodist church, and one Baptist church. Now is 1880. The encyclopedia says the village maintains a small post office and a country store. Small stays. I will not average the mill and the churches with the country store. It says the community is served by the Waynesfield-Goshen schools. Served by stays. I will not move Waynesfield here.",
+    long: "",
+    names: ["New Hampshire"]
+  },
+  {
+    id: "new-hampshire-veteran",
+    name: "The Mark",
+    lat: 40.5534,
+    lng: -83.9536,
+    radius: 40,
+    short: "The grave page marks John Kindle a veteran. It does not name the war, the muster, or the enlistment. I will not invent the battle. The burial is the cemetery east of the plat. I will not move that ground here.",
+    long: "",
+    names: ["New Hampshire"]
+  },
+  {
+    id: "new-hampshire-yeas",
+    name: "Yeas",
+    lat: 40.5544,
+    lng: -83.9531,
+    radius: 40,
+    short: "The county history says about one-fourth of the township, not the sixteen acres, was prairie or black muck, and that it is only a few yeas since it was covered with water, and only good for duck shooting. About stays. Only stays. Yeas stays. I will not repair yeas, and I will not move that water onto the plat. It prints the creek as Muchanippe. I will not repair the word. No page puts a nation on this village. I will not borrow Wapakoneta's. The next place, when you want it, is New Harrisburg.",
+    long: "",
+    names: ["New Hampshire"]
+  },
+
+  {
+    id: "approach-new-harrisburg",
+    name: "New Harrisburg",
+    lat: 40.6300,
+    lng: -81.1458,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on New Harrisburg, the unincorporated place in Harrison Township, Carroll County. Not Carrollton, and not the pottery west of here. One page says the plat was December 26, 1828. If you stay on the road, I'll start at the plat.",
+    long: "",
+    names: ["New Harrisburg"]
+  },
+  {
+    id: "new-harrisburg-1828",
+    name: "Five Miels",
+    lat: 40.6214,
+    lng: -81.1458,
+    radius: 40,
+    short: "The county history says New Harrisburg was platted by Jacob Harsh on December 26, 1828, and that it held its own share of the patronage so long as the stage line continued from Steubenville to Canton. So long as stays. The encyclopedia says the line was established by Bezaleel Wells. I will not move Steubenville or Canton here. Howe says it is a small village five miels northwest of Carrollton. Miels stays. I will not repair it. He says about 200 inhabitants. A writer says that in 1884 the population was 200, and the postmaster was James Barr. About stays. I will not average about 200 and 200. The encyclopedia says the place is now served by the Carrollton post office, ZIP 44615. I will not average James Barr and Carrollton, and I will not move Carrollton here. This pin is the plat.",
+    long: "",
+    names: ["New Harrisburg"]
+  },
+  {
+    id: "new-harrisburg-weaver",
+    name: "February 23, 1824",
+    lat: 40.6209,
+    lng: -81.1453,
+    radius: 40,
+    short: "Howe says this village was the birth place of Jonathan weaver, bishop of the United Brethren and president of Otterbein University. The quotation prints weaver with a small w. I will not repair it. His own page says he was born February 23, 1824, in Harrison Township, Carroll County, and died February 6, 1901, and that Otterbein hired him as soliciting agent. I will not average the village and the township, and I will not average president and soliciting agent. I will not move Otterbein or his burying-ground here. It says he was the youngest of twelve, and that he converted at a camp meeting in 1841, when he was 17. It does not put the camp on this plat. I will not move it here.",
+    long: "",
+    names: ["New Harrisburg"]
+  },
+  {
+    id: "new-harrisburg-lewis",
+    name: "Hard By",
+    lat: 40.6208,
+    lng: -81.1483,
+    radius: 40,
+    short: "Howe says that in the little cemetery hard by the village may be seen a grave stone about twelve by eighteen inches, inscribed Jonathan Lewis, aged 104. Hard by stays. About stays. Aged 104 stays. I will not invent his birth year. A cemetery page puts New Harrisburg Cemetery on the south side of the road, about 0.1 miles west of Arrow Road. About stays. Hard by and 0.1 miles stay two distances. I will not average them, and I will not move the ground onto the plat.",
+    long: "",
+    names: ["New Harrisburg"]
+  },
+  {
+    id: "new-harrisburg-school",
+    name: "The Old School",
+    lat: 40.6214,
+    lng: -81.1463,
+    radius: 40,
+    short: "The encyclopedia's picture is the old school in New Harrisburg. It does not print a year. I will not add one. Howe says the village has one Presbyterian and one Christian church. Has stays. The 1884 list says Colonel Ayers was running a general store, and that Conrad Wertz was the village blacksmith. The words village blacksmith stay in quotation marks. Students now attend the Carrollton schools. Attend stays. I will not move those schools here.",
+    long: "",
+    names: ["New Harrisburg"]
+  },
+  {
+    id: "new-harrisburg-memory",
+    name: "A Memory",
+    lat: 40.6219,
+    lng: -81.1453,
+    radius: 40,
+    short: "The county history says that in 1920 there was nothing to note a commercial interest at this point, and that it only remains in memory of the older citizens. The encyclopedia prints a memory, not in memory. In memory stays. A memory stays. I will not average them. It says the horse of flesh and blood was superseded by the horse of iron and steel. Flesh and blood stays. Iron and steel stays. The old Connotton Valley Railroad left the village off the line by three miles. Three stays. I will not move the railroad here. Howe says the village in 1883 contested for the county seat. The encyclopedia says the early 1880s, and a local merchant, and ten acres, and unsuccessful. The 1884 writer says early in the eighties, and names Colonel Ayers. I will not fill in the merchant, and I will not average 1883 and the early eighties. A pottery, a tavern, and a still-house were two and a half miles west, and the page says it has been long years since any trace. I will not move them here. No page names a nation or a battle. I will not invent either. The next place, when you want it, is New Haven.",
+    long: "",
+    names: ["New Harrisburg"]
+  },
+
+  {
+    id: "approach-new-haven-hamilton",
+    name: "New Haven",
+    lat: 39.2850,
+    lng: -84.7467,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on New Haven, the census-designated place in Crosby Township, Hamilton County. Not the New Haven in Huron County, and not New Baltimore. One page says the plat was 1815. If you stay on the road, I'll start at the plat.",
+    long: "",
+    names: ["New Haven"]
+  },
+  {
+    id: "new-haven-hamilton-1815",
+    name: "Preston",
+    lat: 39.2761,
+    lng: -84.7467,
+    radius: 40,
+    short: "The encyclopedia says New Haven was platted as a village by Joab Comstock in 1815. It says the office was known as Preston, because there was already a New Haven in Huron County, and that the name was assigned by Alexander Preston Cavender. It marks that sentence as needing a citation. Needed stays. A list of offices in 1830 prints Preston, Hamilton County, and the postmaster as Alex'r P. Cavender. I will not repair Alex'r, and I will not average Alexander Preston and Alex'r P. An 1881 history says the present village of New Haven, Preston post office. I will not move the Huron County office here. The current box is 39 degrees 16 minutes 34 seconds north, 84 degrees 44 minutes 48 seconds west, and 572 people in 2020. An older copy says 39 degrees 16 minutes 32 seconds north, 84 degrees 44 minutes 26 seconds west, and 583 people in 2010, and 561 feet. I will not average the points, the people, or add 561 to the current box. Both say 1.3 square miles, all land. This pin is the plat.",
+    long: "",
+    names: ["New Haven"]
+  },
+  {
+    id: "new-haven-hamilton-comstock",
+    name: "The Day",
+    lat: 39.2756,
+    lng: -84.7462,
+    radius: 40,
+    short: "One page says Joab Comstock was born April 4, 1768, in Hadlyme, Connecticut, and died April 14, 1825. Its own source says May 14, 1825. The grave page says May 14, 1825, and prints 57y. 1m. 10d. Another page says he died April 14, 1827. I will not average April 14, May 14, 1825, and 1827, and I will not count the stone into a winner. The grave page says he married Eunice Willey, born October 3, 1765, died August 23, 1858, in Burlington, Iowa. I will not move Hadlyme or Burlington here. An 1881 history says he was probably the pioneer, and that his home was about one mile and a half east of the village. Probably stays. About stays. I will not move that house onto the plat.",
+    long: "",
+    names: ["New Haven"]
+  },
+  {
+    id: "new-haven-hamilton-cemetery",
+    name: "The Cemetery",
+    lat: 39.2766,
+    lng: -84.7462,
+    radius: 40,
+    short: "The grave page buries Joab Comstock at New Haven Cemetery, Crosby Township. It does not print a separate gate. I will not invent one. A Shaker burying-ground is one to two miles from the village. One to two stays. I will not move the Shakers here.",
+    long: "",
+    names: ["New Haven"]
+  },
+  {
+    id: "new-haven-hamilton-south",
+    name: "Not Those",
+    lat: 39.2756,
+    lng: -84.7472,
+    radius: 40,
+    short: "An 1881 history says that exactly south of New Haven, on the hills along the Dry Fork, there seems to be an ancient cemetery. It is said the bodies were placed in square spaces, protected by a kind of red limestone. It is said stays. A kind stays. About fifty graves have been identified, with one or two mounds. About stays. One or two stays. Dr. Bartlett declares that the bones found here are not those of the red man. Declares stays. Not those stays. I will not move that hill onto the plat, and I will not invent a nation. Southwest, half or three-fourths of a mile, on the Simonson farm, is a mound of eight to ten feet. Half stays. Three-fourths stays. Eight stays. Ten stays. I will not average them, and I will not move that mound here.",
+    long: "",
+    names: ["New Haven"]
+  },
+  {
+    id: "new-haven-hamilton-ox",
+    name: "Except the Wheels",
+    lat: 39.2766,
+    lng: -84.7472,
+    radius: 40,
+    short: "The genealogy says that in 1801 he moved to Hamilton County, building his own ox-cart except the wheels, and that the family traveled in it and beside it to Pittsburg, then by flat-boat to Cincinnati. Except the wheels stays. Beside stays. It prints Pittsburg. I will not repair the spelling, and I will not move Pittsburg or Cincinnati here. The township page says he named the township for his wife's family. The 1881 history says he laid out Crosby and gave it his mother's maiden name. I will not average wife and mother, and I will not move Crosby here. No page points me at a church, a school, or a mill in this village, and no page puts a battle here. Morgan's ford is New Baltimore. I will not move it. The next place, when you want it, is New Haven in Huron County.",
+    long: "",
+    names: ["New Haven"]
+  },
+
+  {
+    id: "approach-new-haven-huron",
+    name: "New Haven",
+    lat: 41.0400,
+    lng: -82.6814,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on New Haven, the census-designated place in New Haven Township, Huron County. Not the New Haven in Hamilton County, and not Plymouth. One page says the plat was 1815. If you stay on the road, I'll start at the plat.",
+    long: "",
+    names: ["New Haven"]
+  },
+  {
+    id: "new-haven-huron-1815",
+    name: "The Diamond",
+    lat: 41.0306,
+    lng: -82.6814,
+    radius: 40,
+    short: "The encyclopedia says New Haven was laid out and platted in 1815, and named for New Haven, Connecticut. It does not name the men. A newspaper says that as early as 1815 the brothers Dr. Royal Powers and David Powers platted it into streets and lots, the first platted village in what is now Huron County, and the second plat on the Firelands. As early as stays. What is now stays. The township page says the deed to David and Royal N. Powers was early in 1815, for the center upon which the village was laid out. Early stays. A marker says the streets were at right angles around a diamond-shaped town green, after the plan of New Haven, Connecticut. The newspaper says an 1879 history says the plat is based on that city, but if you compare them there is not a great deal of resemblance. After the plan stays. Not a great deal stays. I will not average them. The encyclopedia says the office is open, ZIP 44850. The township page says Caleb Palmer was the first postmaster, and it also says Joseph Dana was the first postmaster. A list of offices in 1830 prints John W. Johnston. I will not average the three. In 1833 the encyclopedia says three stores, two taverns, two physicians, and one tin factory. I will not say they are still standing. It says 356 people in 2020, and 932 feet. A population page prints 384 in 1990, 482 in 2000, 399 in 2010, and 356 in 2020, and says the figures were rebased and, where the change was significant, recalculated. Rebased stays. I will not average them with the township's 86 house-holders in 1826, or 1,270 in 1840, or 1,807 in 1880. This pin is the plat.",
+    long: "",
+    names: ["New Haven"]
+  },
+  {
+    id: "new-haven-huron-palmer",
+    name: "Horse Neck",
+    lat: 41.0301,
+    lng: -82.6809,
+    radius: 40,
+    short: "A marker prints Caleb Palmer, 1775 to 1854. Another page says he was born in Horse Neck, Connecticut, in 1775. I will not repair Horse Neck. It says he bought land in 1810 and settled in 1811. The marker says he bought his first land around 1811 and settled shortly thereafter. Around stays. Shortly stays. I will not average 1810 and around 1811. It says his first house was along the Huron River, on the north side of Green Bush Road. I will not move that house onto the green. It says his first wife, Harriet Smith Palmer, died in 1818, and that it is assumed she lies in an unmarked grave. Assumed stays. Unmarked stays.",
+    long: "",
+    names: ["New Haven"]
+  },
+  {
+    id: "new-haven-huron-cemetery",
+    name: "Across the Road",
+    lat: 41.0218,
+    lng: -82.6777,
+    radius: 40,
+    short: "The grave page puts New Haven Cemetery, also called the old one, at this point. A marker says Caleb Palmer and Rouse Bly are buried there. Another page says the old cemetery is across the road from Maple Grove. Across stays. Maple Grove's own page puts that ground at a different point, about 0.1 miles north of Skinner Street. About stays. I will not average the two grounds. The township page says the first cemetery was a sandy knoll on John Skinner's farm, and that the earliest death on a headstone there was 1817. It does not say that knoll is this cemetery. I will not move the knoll.",
+    long: "",
+    names: ["New Haven"]
+  },
+  {
+    id: "new-haven-huron-church",
+    name: "Between",
+    lat: 41.0311,
+    lng: -82.6814,
+    radius: 40,
+    short: "A marker says the Methodist Episcopal congregation, which it also calls New Haven United Methodist, built a New England-style house of worship on the village green between 1841 and 1842. Between stays. I will not pick one of those years, and I will not invent a door if the page does not say the building is still standing. The green is the diamond. The saw mill is William Clark's, in 1816, and the grist mill is Caleb Palmer's, in 1816 or 1817. Or stays. Neither page prints the spot. I will not point at the mills.",
+    long: "",
+    names: ["New Haven"]
+  },
+  {
+    id: "new-haven-huron-bly",
+    name: "Near",
+    lat: 41.0223,
+    lng: -82.6782,
+    radius: 40,
+    short: "A marker says Rouse Bly, 1793 to 1866, was a veteran of the war of 1812, and that he is buried in the old cemetery. It says he settled near New Haven around 1825. Near stays. Around stays. The township list puts his arrival in 1816. I will not average 1816 and around 1825. It says he was known for his compassion and his abolitionist opinions, and that he opened his home as a station on the Underground Railroad in the decades prior to the Civil War. Known for stays. Decades stays. I will not move that house onto the plat, and I will not invent the battle he was in.",
+    long: "",
+    names: ["New Haven"]
+  },
+  {
+    id: "new-haven-huron-rail",
+    name: "We're Told",
+    lat: 41.0301,
+    lng: -82.6819,
+    radius: 40,
+    short: "A newspaper says one history says Dr. Royal Powers was ridden out of town on a rail, and that we're told he died in Natchez, Mississippi, in 1830, but the writer has not been able to verify that. One history stays. We're told stays. Not verified stays. I will not move Delaware, or Natchez, here. A marker says residents described immense wagons, or land schooners, lined up for miles. Described stays. Or stays. For miles stays. I will not count them. The township page says John Chapman, also known as Johnny Appleseed, lived for a time with Caleb Palmer, beginning in 1811, and for much of the time during the war of 1812, except for times of pilgrimage. For a time stays. Much stays. Except stays. The page does not print his years. I will not add them. No page names a nation on this village. The next place, when you want it, is New Holland.",
+    long: "",
+    names: ["New Haven"]
+  },
+
+  {
+    id: "approach-new-holland",
+    name: "New Holland",
+    lat: 39.5620,
+    lng: -83.2556,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on New Holland, the village in Pickaway County and Fayette County. Not Circleville, and not Washington Court House. One page says it was founded on September 2, 1818, under another name. If you stay on the road, I'll start at the name.",
+    long: "",
+    names: ["New Holland"]
+  },
+  {
+    id: "new-holland-1818",
+    name: "Or",
+    lat: 39.5536,
+    lng: -83.2556,
+    radius: 40,
+    short: "The encyclopedia says the town was founded as Flemingsburgh, or Flemingsburg, on September 2, 1818, and named for John Fleming, son of Captain Fleming of Berkeley County, Virginia. Or stays. One sentence says he settled in the area in 1802. The next says he settled in New Holland in 1802. I will not average the area and the name. The name section says the name changed to New Holland between 1818 and 1827, after Holland, the native land of a share of the first settlers. A share stays. The history says the name remained until about 1825, when the people were thinking about a post office, and that the settlers, being of Dutch descent, renamed it. About stays. Dutch stays. I will not average about 1825 and the span from 1818 to 1827. It also says the 1818 settlers were Pennsylvania Dutch, Hollanders, and Germans. I will not average those three with Dutch. A directory says it does not have a founding date, and that you might consider the office, opened in 1827. Might consider stays. A newspaper says a post office was in operation by 1827. By stays. The encyclopedia says the state chartered the village in 1834. The newspaper says it was officially incorporated on March 9, 1835. I will not average 1834 and March 9, 1835. The encyclopedia says 804 people in 2020. The box says 1.96 square miles, all land. The geography line says 1.88 square miles, all land. I will not average them. It says the Fayette portion is often called West New Holland. Often stays. A directory says you might consider that there are two communities. I will not average one village and two. This pin is the name.",
+    long: "",
+    names: ["New Holland"]
+  },
+  {
+    id: "new-holland-harrison",
+    name: "Not Complete",
+    lat: 39.5531,
+    lng: -83.2551,
+    radius: 40,
+    short: "A cemetery list says it is not complete. Not complete stays. It prints George Harrison, born February 20, 1792, in Circleville, died March 25, 1836, and married to Sally Tomlinson on April 10, 1813, in Ohio. I will not move Circleville here, and I will not invent what he did in this village. The newspaper says Dr. James F. Wilson practiced here for nearly forty-three years. Nearly stays. It does not print his years. I will not add them.",
+    long: "",
+    names: ["New Holland"]
+  },
+  {
+    id: "new-holland-cemetery",
+    name: "The Pike",
+    lat: 39.5594,
+    lng: -83.2617,
+    radius: 40,
+    short: "The cemetery list puts New Holland Cemetery and Mausoleum at 39 degrees 33 minutes 34 seconds north, 83 degrees 15 minutes 42 seconds west, on the right of the New Holland-Bloomingburg Pike. A topographic page prints two points for a New Holland Cemetery, a hair apart, and 856 feet. The village box says 853 feet. I will not average the points, or the feet. Cedar Grove is a different ground. I will not move it here.",
+    long: "",
+    names: ["New Holland"]
+  },
+  {
+    id: "new-holland-bridge",
+    name: "Until 1943",
+    lat: 39.5531,
+    lng: -83.2561,
+    radius: 40,
+    short: "The encyclopedia says the covered bridge spanned the North Fork of Paint Creek on the Zanesville Cincinnati Trace, which it also marks as U.S. Route 22. It was built in 1840 and stood until 1943. I will not say it is standing, and I will not invent the abutment. The same page prints a high school from 1887 until the last class on May 27, 1959, and a school built in 1927. I will not say those are one building, and I will not say either one is the bridge. A newspaper says a Methodist church was in operation by 1827. By stays. I will not move a later church onto that year.",
+    long: "",
+    names: ["New Holland"]
+  },
+  {
+    id: "new-holland-trail",
+    name: "As Early As",
+    lat: 39.5541,
+    lng: -83.2561,
+    radius: 40,
+    short: "The encyclopedia says Four Corners was the intersection of a stagecoach line running east and west and an Indian foot trail going from north to south, and that this crossing is today Main and Front. It prints the word tact for the tract. I will not repair tact. It does not name the nation on that trail. I will not name one. A newspaper says, did you know, that New Holland, then Flemingsburg, was visited by the Reverend David Jones, a missionary among the Shawnee, as early as 1772. Did you know stays. Then stays. As early as stays. I will not move 1772 onto the 1818 plat, and I will not put the Shawnee onto the unnamed trail.",
+    long: "",
+    names: ["New Holland"]
+  },
+  {
+    id: "new-holland-after",
+    name: "After",
+    lat: 39.5536,
+    lng: -83.2566,
+    radius: 40,
+    short: "The encyclopedia says one of the most dramatic events came after the Civil War, when a portion of General Sherman's Union Army marched through the covered bridge and through New Holland. After stays. Portion stays. I will not invent a battle here. A page says Frank Wood is believed to be one of the last, if not the last, World War II veteran from New Holland. Believed stays. If not stays. It does not print his years. I will not add them.",
+    long: "",
+    names: ["New Holland"]
+  },
+  {
+    id: "new-holland-scrap",
+    name: "Some Have Claimed",
+    lat: 39.5541,
+    lng: -83.2551,
+    radius: 40,
+    short: "The encyclopedia says some have claimed that the old covered bridge is now preserved in the Henry Ford Museum at Dearborn, Michigan. Some have claimed stays. Now stays. It says that while Henry Ford did express admiration for the bridge, its remnants were used as scrap wood. While stays. I will not move Dearborn here, and I will not average the claim and the scrap. The next place, when you want it, is New Hope.",
+    long: "",
+    names: ["New Holland"]
+  },
+
+  {
+    id: "approach-new-hope-brown",
+    name: "New Hope",
+    lat: 38.9720,
+    lng: -83.9125,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on New Hope, the unincorporated community in Scott Township, Brown County. Not the New Hope in Preble County. One page says the office was confirmed in 1828. If you stay on the road, I'll start at the office.",
+    long: "",
+    names: ["New Hope"]
+  },
+  {
+    id: "new-hope-brown-1828",
+    name: "Seventy-five Years Ago",
+    lat: 38.9639,
+    lng: -83.9125,
+    radius: 40,
+    short: "The 1883 history says the New Hope is indebted to Daniel Holloway and Lawrence Rose for the site. It says seventy-five years ago Holloway, with assistance of neighbors, laid the foundation of the first house, unhewn logs, rough fashioned, one room, one small window. Seventy-five stays. I will not turn it into a year. A few years that house stood alone on the slight plateau above White Oak, and then came Rose. A few years stays. Slight stays. I will not move White Oak. The same book says Dr. Enoch M. Ellsbury kept the first post office in the township, and that the appointment was confirmed and dated at Washington on December 15, 1828. Another printing of the name is Ellsberry. I will not average them. It says that after him the office was kept by Benjamin Purdum, O. J. Stewart, G. W. Stayton, W. P. Wharton, and F. M. Patten, and then it calls the present incumbent F. M. Patton, for the last eighteen years. Patten stays. Patton stays. Present means the book's present. Eighteen stays. Another sketch says Patton was appointed in 1864, under Lincoln, and has held it ever since. Ever since means the book's ever since. I will not average eighteen years and 1864. The encyclopedia says the office was established in 1828 and remained until 1893, and it points that sentence at this 1883 book. I will not make an 1883 book say 1893. A directory says it does not have a founding date, and that you might consider the office opened in 1851. Might consider stays. I will not average December 15, 1828, and 1851. The directory says 890 feet. The encyclopedia does not print the feet. I will not add them. This pin is the office.",
+    long: "",
+    names: ["New Hope"]
+  },
+  {
+    id: "new-hope-brown-ellsberry",
+    name: "Over Fifty",
+    lat: 38.9634,
+    lng: -83.9120,
+    radius: 40,
+    short: "The history says E. M. Ellsberry died at New Hope on November 25, 1854, and that he was a physician in Brown County for over fifty years. Over stays. It does not print his birth. I will not subtract one. The same book says W. W. Ellsberry was born in Scott Township on December 18, 1832. Another page says December 18, 1833, and that he died September 7, 1894. I will not average 1832 and 1833, and I will not move Georgetown here.",
+    long: "",
+    names: ["New Hope"]
+  },
+  {
+    id: "new-hope-brown-ground",
+    name: "South",
+    lat: 38.9600,
+    lng: -83.9125,
+    radius: 40,
+    short: "The history mentions Young's Burying-Ground, south of New Hope. South stays. It does not print a gate. I will not invent one. The brick church is on the commons, not in this ground. I will not move the commons here.",
+    long: "",
+    names: ["New Hope"]
+  },
+  {
+    id: "new-hope-brown-brick",
+    name: "About Two Thousand",
+    lat: 38.9644,
+    lng: -83.9125,
+    radius: 40,
+    short: "The history says the first Methodist Episcopal house stood nearly opposite the former residence of Dr. Enoch Ellsberry, where A. J. Bingamoo now lives, in the town. Nearly stays. It prints Bingamoo. I will not repair it. Now means the book's now. For a quarter of a century there was no other place of worship. Then, in 1849, Temperance Hall was used till 1851, when the substantial brick that crowns the commons was erected, at a cost of about two thousand dollars. About stays. Crowns stays. The post office was a small house about ten by twelve, still standing in the book, an appurtenance to Jonah Purdum's dwelling. About stays. Still standing means the book's still. I will not say it is standing now, and I will not say it is the brick. Ere long a mill was added. Ere long stays. The page does not print the spot. I will not point at the mill.",
+    long: "",
+    names: ["New Hope"]
+  },
+  {
+    id: "new-hope-brown-rookie",
+    name: "The Legend",
+    lat: 38.9634,
+    lng: -83.9130,
+    radius: 40,
+    short: "The history says old inhabitants remember seeking the legend, Peter Rookie, the first storekeeper, above the entrance of a low-browed, rambling frame building on the spot the book says F. M. Patton's residence now occupies. Remember stays. Low-browed stays. I will not say the sign is there now. The same book says that in the summer of 1849 the cholera scourge appeared, and that on the third day seven deaths occurred, the first victim being William Purdum, twenty-two deaths in a population of one hundred. The encyclopedia says the outbreak decimated the town. Decimated stays. Twenty-two stays. I will not average them. Another sketch says Martin Gotts and Perry Applegate fell victims. The cholera list is hard to read, and it does not agree with itself on the names. I will not repair it. No page names a nation on this village, and no page puts a battle or a muster here. I will not move the township's soldiers onto the plat. The next place, when you want it, is New Hope in Preble County.",
+    long: "",
+    names: ["New Hope"]
+  },
+
+  {
+    id: "approach-new-hope-preble",
+    name: "New Hope",
+    lat: 39.8000,
+    lng: -84.7133,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on New Hope, the unincorporated community in Preble County. Not the New Hope in Brown County, and not Eaton. One page says the plat was 1841. If you stay on the road, I'll start at the plat.",
+    long: "",
+    names: ["New Hope"]
+  },
+  {
+    id: "new-hope-preble-1841",
+    name: "June",
+    lat: 39.7917,
+    lng: -84.7133,
+    radius: 40,
+    short: "The encyclopedia says New Hope was laid out in 1841. It does not name the month or the man. A directory says it was laid out in June, 1841, by Daniel Hank. June stays. It prints an Addiiton inOct. 1842, by A. Leedy, and Cline's Addition in August, 1847. I will not repair Addiiton, and I will not pull in away from Oct. I will not average June 1841, October 1842, and August 1847. The same lines say the population in June, 1875, was 134. The encyclopedia does not print a population. I will not add one. It says the office in the community was called Upshur, established in 1844, and open until 1906. A church page says Upshur was a burg just east of New Hope, and that it is no longer visible. Just east stays. No longer visible stays. I will not move Upshur onto the plat. A topographic page prints a New Hope Station post office at a different name. I will not average Upshur and the station. The encyclopedia says eastern Jackson Township. An older copy says eastern Washington Township. The directory's heading says Monroe Township, and the lines about the town do not. I will not average the three. It says about five miles north-west of the county seat, on the turnpike to Eaton and Richmond, Indiana. About stays. North-west stays. The encyclopedia says approximately 2.5 miles east of Campbellstown, and 5 miles northwest of Eaton. Approximately stays. I will not average about five and 5, and I will not move Eaton, Richmond, or Campbellstown. It says 1,152 feet. This pin is the plat.",
+    long: "",
+    names: ["New Hope"]
+  },
+  {
+    id: "new-hope-preble-cemetery",
+    name: "Also Called",
+    lat: 39.7867,
+    lng: -84.7000,
+    radius: 40,
+    short: "The grave page puts Bonebrake Cemetery, also called New Hope Cemetery, at this point, on Cemetery Road. Also called stays. A county list says it is in New Hope, north of U.S. 35, and it prints the longitude as 0844957W. The grave page does not. I will not average them, and I will not repair a digit. The grave page says Washington Township. The encyclopedia says the community is in Jackson Township. I will not average them. A topographic page says the cemetery is 1,125 feet. The village box says 1,152. I will not average the feet. Spacht and Crumbaker are other grounds. I will not move them.",
+    long: "",
+    names: ["New Hope"]
+  },
+  {
+    id: "new-hope-preble-church",
+    name: "No Building",
+    lat: 39.7917,
+    lng: -84.7125,
+    radius: 40,
+    short: "A church page says the congregation was founded in 1808, and that in 1815 a hewn-log house was built in the burg of Upshur, just east. I will not average 1808 with the June 1841 plat, and I will not move that log house onto the plat. It says a brick church was built in 1848 on the site of the current building, a wooden one in 1882 at a cost of 1,600 dollars, and that a fire was discovered on the roof just before noon on Good Friday, 1929. Just before stays. I will not say the 1848 brick is the building standing now. The 1875 directory lists Methodist Episcopal, United Brethren, and Ger. Evan. Ass'n., and says the latter denomination have no church building. Latter stays. I will not expand the abbreviations, and I will not point at a building the page says they do not have. It also lists steam saw and grist mills, Ashinger, Kramer and Brother. It does not print the spot. I will not point. The encyclopedia says the community is served by National Trail High School. Served by stays. That building is not this corner. I will not move it.",
+    long: "",
+    names: ["New Hope"]
+  },
+  {
+    id: "new-hope-preble-pulpit",
+    name: "Where He Preached",
+    lat: 39.7922,
+    lng: -84.7133,
+    radius: 40,
+    short: "A church page says Jacob Surface, a former preacher, asked to be buried where he preached, and that his grave marker marks the place of the original pulpit. Asked stays. Marks stays. The page does not print his years. I will not add them. It says a silver bell from an Ohio River steamer was donated by the Surface family, and that the bell would later melt in the 1929 fire. Would later stays. I will not move the river here. The directory lists a hotel called Five Mile House, and also says the town is about five miles north-west of the county seat. I will not measure the hotel by its name. It prints Daniel Hank for the plat, and Cline and Hauk for a store. Hank stays. Hauk stays. I will not average them. No page names a nation here, and no page puts a battle, a muster, or an enlistment on this village. The next place, when you want it, is New Jasper.",
+    long: "",
+    names: ["New Hope"]
+  },
+
+  {
+    id: "approach-new-jasper",
+    name: "New Jasper",
+    lat: 39.6620,
+    lng: -83.8194,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on New Jasper, the unincorporated community in Greene County. Not Jamestown, and not Xenia. One page says the office opened in 1847. If you stay on the road, I'll start at the office.",
+    long: "",
+    names: ["New Jasper"]
+  },
+  {
+    id: "new-jasper-1847",
+    name: "Or a Mile Off",
+    lat: 39.6542,
+    lng: -83.8194,
+    radius: 40,
+    short: "The encyclopedia says a post office called New Jasper was established in 1847, and remained until 1905. A roads page says you might consider that the office opened in 1847, because it does not have a founding date. Might consider stays. The encyclopedia says New Jasper moved to its present location in the 1870s, when the railroad was extended to that point. A newspaper says the railroad did not pass through, and that the railway bed was laid about a mile north, so New Jasper Station came into being. A township page says the tracks were laid about a mile away, and does not print the direction. About stays. North stays. To that point stays. Did not pass through stays. I will not average them. The newspaper says there was a store as early as the 1840s, but the village itself was not established until 1870. As early as stays. Until 1870 stays. The township page says the village was established before the township was named, and the township petition was 1853, with 128 names. Before stays. I will not average 1847, 1853, and 1870. One page says 1,020 feet. Another says 997. I will not average them. The 2020 census count is the township, 2,639. I will not put that on the village. This pin is the name on the map.",
+    long: "",
+    names: ["New Jasper"]
+  },
+  {
+    id: "new-jasper-cemetery",
+    name: "South Side",
+    lat: 39.6385,
+    lng: -83.7777,
+    radius: 40,
+    short: "The grave page puts Caesarscreek Baptist Church Cemetery, also called Baptist Cemetery and Caesar Creek Cemetery, at this point, on the south side of Jasper Road, one mile east of Saint John Road. South side stays. One mile east stays. Also called stays. It is addressed New Jasper, and it is not the village point. I will not move it west. Mount Tabor is another ground. I will not move it.",
+    long: "",
+    names: ["New Jasper"]
+  },
+  {
+    id: "new-jasper-church",
+    name: "Perhaps",
+    lat: 39.6556,
+    lng: -83.8233,
+    radius: 40,
+    short: "A directory puts New Jasper United Methodist Church at 3060 Jasper Road. A newspaper says the Methodists established a church as early as 1820, perhaps 1810, that the log house was too far from town, that a brick building was constructed in 1851, and that another brick structure was dedicated in 1884. Perhaps stays. Too far stays. As early as stays. A township page says around 1820, and that some sources say 1819, that the meeting began in Mr. Bone's home and then Phillip Spahr's, that a small brick building of 30 by 40 feet came in 1852, and that the later house was completed in 1883 and dedicated in January 1884. Around stays. Some sources stays. I will not average 1810, 1819, and 1820, and I will not average 1851 and 1852, and I will not average 1883 and 1884. I will not move the Spahr farm onto this corner. The same newspaper says the first school opened in 1816 under David Bell. The township page says 1816, and Mr. Shields, and that it did not last long. I will not average Bell and Shields. It prints a pot-bellied store in the Schooley school on Ballard Road. I will not repair store. A marker says the Ballard Road bridge is a 92-foot span. The encyclopedia says 80 feet, built in 1883. I will not average them. The marker says the road is believed to be named for Nathan Ballard. Another page says the bridge was named for Lyman Ballard. Believed stays. I will not move Ballard Road onto Jasper Road.",
+    long: "",
+    names: ["New Jasper"]
+  },
+  {
+    id: "new-jasper-henpeck",
+    name: "Better Known",
+    lat: 39.6547,
+    lng: -83.8194,
+    radius: 40,
+    short: "A township page says that at one time there were two villages called New Jasper, and that the original was better known as Henpeck, on the Jamestown Mud Road. Better known stays. It prints, it is aid that a man named Slagle was the first settler, and although the village was not officially platted, he may get credit. Aid stays. Although stays. Not officially stays. May stays. I will not repair aid. A newspaper says Henpeck was laid out along that road, east of Xenia, and that today the road is called Jasper Pike and Henpeck is known as New Jasper. The township page says Jasper road. Pike stays. Road stays. The newspaper says it is said the place was named for an early settler in honor of his previous home in Virginia, that apparently it was not platted and there was no proprietor of record, and that some historians state the first family was the Slagle family. Said stays. Apparently stays. Some historians stays. I will not name the Virginia home. It quotes a description of a store, a township house, a Methodist church, and a natural resistance to high blood pressure. The quotation stays. I will not measure anyone's blood. No page prints the years of Slagle, Dr. Davis, David Bell, Mr. Shields, or John Jenks. I will not add them. No page puts a nation on this village. Shawnee Hills is a newer settlement, and the residents say they live at the lake. I will not make the name a nation, and I will not move the lake. The township is in the Virginia Military Survey, and a page says grants went to Revolutionary War soldiers. It does not print a fight, a muster, a burial, or an enlistment in the village. I will not invent one. The next place, when you want it, is New Knoxville.",
+    long: "",
+    names: ["New Jasper"]
+  },
+
+  {
+    id: "approach-new-knoxville",
+    name: "New Knoxville",
+    lat: 40.5060,
+    lng: -84.3111,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on New Knoxville, the village in Washington Township, Auglaize County. Not another Knoxville, and not New Bremen. One page says the plat was 1836, and the name was Knoxville. If you stay on the road, I'll start at the plat.",
+    long: "",
+    names: ["New Knoxville"]
+  },
+  {
+    id: "new-knoxville-1836",
+    name: "Hone",
+    lat: 40.4983,
+    lng: -84.3111,
+    radius: 40,
+    short: "The encyclopedia says New Knoxville was platted in 1836, and that the office has been open since 1858. A marker says James Knox Lytle, cousin to James Knox Polk, platted 102 lots in 1836 and called it Knoxville to honor his mother's family. Another marker says that on June 30, 1836, James K. Lytle had the townsite surveyed and plotted, and named it Knoxville in hone of his mother, Hannah Knox. June 30 stays. Platted stays. Plotted stays. Hone stays. I will not repair hone. I will not average James Knox and James K. I will not add the cousin to the page that does not print him. The same marker says that in 1858 a petition was told a Knoxville already existed, so the prefix New was added. A kinship marker says the place was renamed New Knoxville in 1858. I will not put New on the 1836 plat. It also says that in the summer of 1835 the Fledderjohanns, Meckstroth's, and Lutterbecks bought land near the site. Near stays. The apostrophe stays. I will not average 1835 and 1836. The box says 946 people in 2020, and 899 feet. A map says the post office is at 905 feet, and prints a different point for the village. I will not average 899 and 905, and I will not average the points. This pin is the encyclopedia point.",
+    long: "",
+    names: ["New Knoxville"]
+  },
+  {
+    id: "new-knoxville-fledderjohann",
+    name: "1855",
+    lat: 40.4935,
+    lng: -84.3158,
+    radius: 40,
+    short: "A marker says the office was built in 1890 by Dr. Henry Fledderjohann, 1855 to 1950, and calls him a native pioneer medical doctor. Native pioneer stays. I will not add a day to either year, and I will not make that word a nation. The encyclopedia says Dr. H. E. Fledderjohann, a leading member at the turn of the twentieth century. Henry stays. The initials stay. Turn stays. I will not average 1890 and the turn, and I will not average Henry and H. E.",
+    long: "",
+    names: ["New Knoxville"]
+  },
+  {
+    id: "new-knoxville-cemetery",
+    name: "Also Called",
+    lat: 40.4889,
+    lng: -84.3347,
+    radius: 40,
+    short: "A topographic page puts Pilger Ruhe Cemetery at this point, at 905 feet, on the New Knoxville map. A directory also calls it Pigler Cemetery, Pigler Ruhe Cemetery, and Ruhe Cemetery, and prints the road as New Brennen. Pigler stays. Brennen stays. Another page prints the cemetery a hair off this point. I will not average them. The village is east of here. I will not move the ground into town. A veterans stone here says fallen comrades, and does not name a war. I will not invent one.",
+    long: "",
+    names: ["New Knoxville"]
+  },
+  {
+    id: "new-knoxville-church",
+    name: "Although",
+    lat: 40.4948,
+    lng: -84.3180,
+    radius: 40,
+    short: "A topographic page prints First United Church of Christ at this point. A church history says the congregation was formed in 1838 with 40 charter members, and that it is assumed the wives were included. Assumed stays. It says a log church and a log parsonage were built in 1840. A later account says the new church was dedicated on May 29, 1855, although it was completed and in use in the latter part of 1854. Although stays. Latter part stays. I will not average 1854 and 1855, and I will not say the log house is this point. The encyclopedia says First Church of New Knoxville, and a Methodist church formerly called Salem. I will not average those names with United Church of Christ. In 1868 a page says a 40-foot addition and a special tower for a special bell. Special stays. I will not move the 1897 town hall onto this church.",
+    long: "",
+    names: ["New Knoxville"]
+  },
+  {
+    id: "new-knoxville-shawnee",
+    name: "After",
+    lat: 40.4988,
+    lng: -84.3111,
+    radius: 40,
+    short: "A marker says that after the Shawnee were removed from what would become Auglaize County, James Knox Lytle purchased land in Washington Township. After stays. Removed stays. What would become stays. I will not put a Shawnee town on the 102 lots, and I will not move Wapakoneta here.",
+    long: "",
+    names: ["New Knoxville"]
+  },
+  {
+    id: "new-knoxville-boat",
+    name: "Missed",
+    lat: 40.4978,
+    lng: -84.3111,
+    radius: 40,
+    short: "A marker says Wilhelm and Elisabeth Fledderjohann Kuckhermann, later Kuck, missed their boat to St. Louis, and lived briefly in Stallostown, which it sets beside Minster, and in Bremen, which it sets beside New Bremen. Missed stays. Briefly stays. Stallostown stays. I will not move St. Louis, Minster, or New Bremen onto this plat. It says that until 1850 all the settlers were from Ladbergen. All stays. Until stays. It says that for more than a century the residents were trilingual, in Platt, High german, or English. More than stays. I will not repair the lowercase g. It calls this one of the best examples of chain migration. Best stays. No page prints a fight, a muster, or an enlistment in the village. The next place, when you want it, is New Lebanon.",
+    long: "",
+    names: ["New Knoxville"]
+  },
+
+  {
+    id: "approach-new-lebanon",
+    name: "New Lebanon",
+    lat: 39.7540,
+    lng: -84.3936,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on New Lebanon, the village in Montgomery County. Not Lebanon, and not New Bremen. One page says the plat was 1843. If you stay on the road, I'll start at the plat.",
+    long: "",
+    names: ["New Lebanon"]
+  },
+  {
+    id: "new-lebanon-1843",
+    name: "Medill",
+    lat: 39.7458,
+    lng: -84.3936,
+    radius: 40,
+    short: "The encyclopedia says New Lebanon was platted in 1843. It says an office called Medill was established in 1847, and the name was changed to New Lebanon in 1849. An 1882 history says the plat was June 3, 1843, and that the office was established in 1842. June 3 stays. I will not average 1842 and 1847. The same book prints the platter's name across a broken line, rcob Grice, and an addition the same day by John rouse, in Jackson Township, and another addition by John Weaver in 1854. I will not repair rcob, and I will not repair rouse. It says the town lies on the southern line of the township, and the township name is broken on the line. I will not finish it, and I will not put the whole village in Jackson because the addition is. It says the first house was Samuel Ludy's log store in 1838, before the plat. I will not average 1838 and 1843. It says about 200 inhabitants. The census says 76 in 1880, and 3,796 in 2020. A village page says 3,770, and a median age of 41. The census page says 38.8. About stays. I will not average them. It says the town was incorporated in 1878. The encyclopedia says the charter didn't go into effect until January 1, 1979. Didn't stays. I will not average 1878 and 1979. The box does not print the feet. A map says the post office is at 908 feet, and not at this point. I will not move it. This pin is the encyclopedia point.",
+    long: "",
+    names: ["New Lebanon"]
+  },
+  {
+    id: "new-lebanon-cemetery",
+    name: "Private",
+    lat: 39.7628,
+    lng: -84.3745,
+    radius: 40,
+    short: "The grave page puts Erbaugh Cemetery, also called Crull Cemetery and Wogaman Cemetery, at this point, and files it under New Lebanon. Also called stays. It says the ground is in Perry Township, on private land, 0.4 mile west of Diamond Mill Road and 1,000 feet north of Old Dayton Road, and that you must get permission. Private stays. Permission stays. I will not move it onto the plat.",
+    long: "",
+    names: ["New Lebanon"]
+  },
+  {
+    id: "new-lebanon-house",
+    name: "No Longer",
+    lat: 39.7451,
+    lng: -84.4199,
+    radius: 40,
+    short: "A map prints New Lebanon United Methodist Church at this point, west of the post office. I will not move it onto the pike. The 1882 history names the New Lebanon House, and says the stage coach no longer comes lumbering up to it. No longer stays. One scan prints the daily wagon as running to Eaton, and another prints Eaten. I will not average them, and I will not move Dayton. The book does not print a spot for the house. I will not point at a door.",
+    long: "",
+    names: ["New Lebanon"]
+  },
+  {
+    id: "new-lebanon-lion",
+    name: "The Lion",
+    lat: 39.7453,
+    lng: -84.3936,
+    radius: 40,
+    short: "The 1882 history says that in the days of the stage, the driver looked down from his high seat, and that he was the lion of the day. Lion stays, in the book's quotes. It says relays of horses were kept for what it prints as the cbress, messengers at a breakneck rate of sped. I will not repair cbress, and I will not repair sped. It says the first blacksmith came in 1844, and one scan prints Lorenzo Yence and another prints Lorenzo Vence. I will not average them. It names Samuel Ludy, Aaron and Jacob Diehl, N. S. Ice, and a landlord named Goode, and it does not print their years. I will not add them. No page puts a nation on this village. A Shaker page is about Union Village, west of Lebanon. I will not move it. No page prints a fight, a muster, a burial, or an enlistment in this village. The next place, when you want it, is New Lexington.",
+    long: "",
+    names: ["New Lebanon"]
+  },
+
+  {
+    id: "approach-new-lexington",
+    name: "New Lexington",
+    lat: 39.7240,
+    lng: -82.2081,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on New Lexington, the village in Perry County. Not Somerset, and not Rehoboth. One page says the settlement was 1817. If you stay on the road, I'll start at the plat.",
+    long: "",
+    names: ["New Lexington"]
+  },
+  {
+    id: "new-lexington-1817",
+    name: "Not Conscious",
+    lat: 39.7161,
+    lng: -82.2081,
+    radius: 40,
+    short: "The encyclopedia says New Lexington was first formally settled in 1817 by James Comly, though he was not conscious of it at the time. Not conscious stays. It says he had apparently sold his home near Circleville and signed a deed for Perry County while he was sick. Apparently stays. A local page says the family moved to Perry County in 1815, and that he laid out the town in 1817. I will not average 1815 and 1817, and I will not move Circleville. It says the village was named for Lexington, Massachusetts, and that the original plan was 64 lots. The encyclopedia says he sold them from 25 to 50 dollars. The local page says a public auction, and one fourth of an acre each, on Main, Jackson, and High, with two alleys, and that a few lots at the east end were John Comly's. Few stays. I will not give John years. It says a post office was first established in 1829. It says that after a bitter and hotly contested contest with Somerset and Rehoboth, this place became the county seat in 1857. Bitter stays. I will not move those towns. December 26, 1817, is the county, and the first courthouse was the residence of Thomas Mains in Somerset. I will not put that house here. A local page says the population was 100 by 1840. An older table says 406 in 1850. The census says 4,435 in 2020. I will not average them. The box says 929 feet. One page says 1.95 square miles, all land. Another says 0.0039 square miles of water. All land stays. I will not average them. An older point for the village is not this one. I will not average the points. This pin is the encyclopedia point.",
+    long: "",
+    names: ["New Lexington"]
+  },
+  {
+    id: "new-lexington-comly",
+    name: "October 3",
+    lat: 39.7156,
+    lng: -82.2081,
+    radius: 40,
+    short: "A local page says James Comly was born on October 3, 1779, in Burgettstown, Pennsylvania, and died on August 10, 1827. It says his wife Catherine died in 1870 at the age of 89, and that they are buried behind the First United Methodist Church at 126 South High Street. At the age of stays. I will not compute her birth, and I will not move that yard to the cemetery on Swigart Street. It says the family was of Quaker ancestry, and that he probably made as much as he anticipated from the plat. Probably stays. I will not move Pennsylvania here.",
+    long: "",
+    names: ["New Lexington"]
+  },
+  {
+    id: "new-lexington-cemetery",
+    name: "Also Called",
+    lat: 39.7073,
+    lng: -82.2136,
+    radius: 40,
+    short: "A village page says the entrance to New Lexington Cemetery is on Swigart Street. A directory also calls it Maplewood Cemetery, at 440 Swigart Street, and prints this point. Also called stays. A grave page prints a stone a hair off this point. I will not average them. The village point is north of here. I will not move the ground onto the square.",
+    long: "",
+    names: ["New Lexington"]
+  },
+  {
+    id: "new-lexington-courthouse",
+    name: "A Few Years",
+    lat: 39.7143,
+    lng: -82.2078,
+    radius: 40,
+    short: "A marker stands at this point, on North Main Street, just north of East Brown Street. An older encyclopedia says the Perry County Courthouse at the corner of Main and West Brown was erected in 1887 and dedicated one year later. The current page says it was erected in 1887 to replace a smaller building, and that it stood vacant for a few years. One year later stays. A few years stays. I will not average them. The marker is near the courthouse. Near stays. I will not say the statue is the courthouse. A local page says Comly bought a farm, including a grist mill, on Rush Creek. I will not point at a wheel the page does not locate.",
+    long: "",
+    names: ["New Lexington"]
+  },
+  {
+    id: "new-lexington-shawnee",
+    name: "Many",
+    lat: 39.7166,
+    lng: -82.2081,
+    radius: 40,
+    short: "The encyclopedia says the Shawnee lived across wide areas of Ohio, including Perry County, before the 1800s, and that after Tecumseh's defeat at the Thames in 1813, many Shawnee were forced to relocate to Oklahoma. Many stays. Including stays. I will not move the Thames here, and I will not move Oklahoma. It says Adena and Hopewell relics have been found near present-day New Lexington, most notably the Glenford Fort mound. Near stays. Most notably stays. I will not move Glenford.",
+    long: "",
+    names: ["New Lexington"]
+  },
+  {
+    id: "new-lexington-macgahan",
+    name: "Liberator",
+    lat: 39.7062,
+    lng: -82.2135,
+    radius: 40,
+    short: "A grave page says Januarius Aloysius MacGahan was born in New Lexington on June 12, 1844, and died in Istanbul on June 9, 1878, and that he was later buried here. The stone says Liberator of Bulgaria. A marker on Main Street says Januarius A. MacGahan, 1844 to 1878, champion of Bulgarian freedom. The days stay on the grave page. The initials stay on the marker. I will not average Aloysius and A. I will not move Istanbul or Bulgaria here. The encyclopedia says large numbers of people from New Lexington fought for the United States in the Civil War, and that General Philip Sheridan's horse Rienzi was from New Lexington. Large numbers stays. I will not invent the battle. A village page says it is said that Rehoboth, after losing the courthouse, raised a brand of tobacco. It is said stays. I will not move Rehoboth.",
+    long: "",
+    names: ["New Lexington"]
+  },
+  {
+    id: "new-lexington-fire",
+    name: "Around Midnight",
+    lat: 39.7158,
+    lng: -82.2076,
+    radius: 40,
+    short: "The encyclopedia says a fire in February 1874 started in a drug store around midnight, and that the damage was estimated at 50,000 dollars. Around stays. Estimated stays. It says the townspeople tore down a one-story building by a wide alley and stopped the spread. I will not name a building the page does not name. No page prints a muster or an enlistment roll for this village beyond the fight it already names. The next place, when you want it, is New London.",
+    long: "",
+    names: ["New Lexington"]
+  },
+
+  {
+    id: "approach-new-london",
+    name: "New London",
+    lat: 41.0880,
+    lng: -82.4067,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on New London, the village in Huron County. Not Fitchville, and not Ruggles. One page says the cabin was 1816. If you stay on the road, I'll start at the cabin.",
+    long: "",
+    names: ["New London"]
+  },
+  {
+    id: "new-london-1816",
+    name: "A Share",
+    lat: 41.0797,
+    lng: -82.4067,
+    radius: 40,
+    short: "The encyclopedia says the first permanent settlement at New London was made in 1816, and that the village was named for New London, Connecticut, the native home of a share of the early settlers. A share stays. A hotel page says John Corey built the first cabin in present-day New London in 1816. A county history says the first settler of what is now the village was John Corey, in 1816, and that from 1817 to 1822 it was called Merrifield Settlement, from 1822 to 1837 Kinsley's Corners, and from 1840 to 1853 King's Corners. A later page spells it Kingsley's. I will not average the spellings, and I will not fill the years the history leaves empty. A township page says the township name stayed, and that Abner Green settled the township in February 1815. I will not move his cabin onto the village, and I will not average 1815 and 1816. It says the village, about eight hundred acres, was incorporated in the fall of 1853, and that the first council was December 3, 1853. About stays. The encyclopedia says incorporated in 1853, and that the census was 2,416 in 2020. The history says about 1,500 in 1909. A directory says approximately 2,461, and approximately 2.10 square miles, and a different point. Approximately stays. The encyclopedia says 2.54 square miles, of which 2.21 is land and 0.33 is water, and 984 feet, at this point. I will not average the counts, the miles, or the points.",
+    long: "",
+    names: ["New London"]
+  },
+  {
+    id: "new-london-johnson",
+    name: "Half",
+    lat: 41.0792,
+    lng: -82.4067,
+    radius: 40,
+    short: "A news page says Homer Johnson, an attorney who made his millions in Alcoa, paid for half the cost of the library in 1916. Half stays. Millions stays. That page does not print his years. A grave page says Homer Hosea Johnson was born June 26, 1862, in Hartland, and died March 26, 1960, in Norwalk, and calls New London his home town. Another page says he was buried in Cleveland. I will not average Homer and Homer Hosea. I will not average Norwalk and Cleveland. I will not move Hartland.",
+    long: "",
+    names: ["New London"]
+  },
+  {
+    id: "new-london-cemetery",
+    name: "A Few Blocks",
+    lat: 41.0800,
+    lng: -82.4017,
+    radius: 40,
+    short: "A cemetery page says Grove Street Cemetery is in New London, and prints 41 degrees 4 minutes 48 seconds north, 82 degrees 24 minutes 6 seconds west. It says drive south on the state highway a few blocks, then right onto Grove Street, and the ground is on the south side. A few blocks stays. Another page prints a point a hair off. I will not average them. A news page says John Corey built his home south of what is now this cemetery. South of stays. I will not move the cabin into the ground. The encyclopedia says a village green, in a section that cites no sources. I will not point at it. The outlying grounds stay where they are.",
+    long: "",
+    names: ["New London"]
+  },
+  {
+    id: "new-london-gregory",
+    name: "More Than",
+    lat: 41.0850,
+    lng: -82.3981,
+    radius: 40,
+    short: "A page says the Gregory House stands at 1 East Main Street, and prints this point. It says the fire of November 17, 1872, destroyed more than forty thousand dollars of property, and that one year later the blacksmith Charles Gregory erected the hotel, two-thirds for himself and one-third for the lawyer Albert Porter. More than stays. Two-thirds stays. A county history says the 1872 loss was forty to fifty thousand dollars. Forty to fifty stays. I will not average them. A newsletter says the frame American House burned in the wee morning hours of Sunday, November 17, 1872, that the fire was of unknown origin in Dr. McClellan's store, and that the brick hotel was built in 1873. Wee stays. Unknown stays. It says it is said Lorton Holiday started a tavern on this corner and Peter Holiday finished it, and that the first building may have been logs. It is said stays. May stays. It says the post office moved into the corner room in July 1902. I will not call that the opening. The history says the office receipts exceed twelve thousand dollars a year. Exceed stays. The encyclopedia says the Carnegie library was built in 1914 and open since 1916. I will not average 1914 and 1916.",
+    long: "",
+    names: ["New London"]
+  },
+  {
+    id: "new-london-cline",
+    name: "Company G",
+    lat: 41.0796,
+    lng: -82.4017,
+    radius: 40,
+    short: "A transcription of Grove Street Cemetery prints a stone for Henry Cline, Company G, 1st Ohio Light Artillery, and a GAR marker. It does not print his years. I will not invent them, and I will not invent the battle. The hotel page says the building is like many hotels put up in the years after the Civil War. After stays. That is not a fight in this village. No page puts a nation on the village. The township page puts the word sufferers, in quotes, on men who lived in Connecticut. I will not turn that word into a nation, and I will not move Connecticut.",
+    long: "",
+    names: ["New London"]
+  },
+  {
+    id: "new-london-ferrets",
+    name: "Popularly",
+    lat: 41.0794,
+    lng: -82.4062,
+    radius: 40,
+    short: "The encyclopedia says that in the early 20th century New London, popularly known as Ferretville, was the center of the American ferret industry, and that the surrounding region raised around 20,000 ferrets a year. Popularly stays. Around stays. Surrounding stays. A county history says ferret breeding was a business peculiar to New London farmers, and that the animals were shipped to all parts of the country. Peculiar stays. A news page says someone mentioned that the village was called the ferret capital of the world, and that the work was on a few farms. Someone mentioned stays. Few stays. I will not average center, capital, and around 20,000. The history says the railroad commenced to run through the town in 1850. I will not move Cleveland. The next place, when you want it, is New Lyme.",
+    long: "",
+    names: ["New London"]
+  },
+
 
 
 

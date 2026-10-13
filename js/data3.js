@@ -2204,7 +2204,717 @@ STORIES.push(
     long: "",
     names: ["New London"]
   },
+  {
+    id: "approach-new-lyme",
+    name: "New Lyme",
+    lat: 41.6120,
+    lng: -80.7809,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on New Lyme, the populated place in New Lyme Township, Ashtabula County. Not South New Lyme, and not Dodgeville. One page says the settlement was 1803. If you stay on the road, I'll start at the name.",
+    long: "",
+    names: ["New Lyme"]
+  },
+  {
+    id: "new-lyme-1803",
+    name: "Until 1825",
+    lat: 41.6048,
+    lng: -80.7809,
+    radius: 40,
+    short: "The encyclopedia says the township was first settled in 1803 by Joel Owen, a former Connecticut resident, that it was known as Lebanon until 1825, and that it was renamed for Lyme, Connecticut, the former home of many of its early settlers. Many stays. It says this is the only New Lyme Township in the state, and that no municipality is here. Only stays. A county history says the land was purchased in 1799 by Elisha Tracy, and that during 1801 to 1803 it was disposed of to S. Gilbert, E. Tracy, J. Pepoon, and Joel Owen, whose share was 1,000 acres. A women's page says it was bought in 1795, and first settled by Mr. and Mrs. Joel Owen in 1803. I will not average 1795 and 1799. The history says he left his wife and children at Amsterdam, New York, owing to the inclemency of the late fall, and came back with them in the spring. Owing stays. I will not move Amsterdam, and I will not make the two arrivals one trip. It says the township was organized in 1813 as Lebanon, and changed by the legislature in 1825. I will not average 1813 and 1825. It spells the treasurer Joel Owens, and a trustee Dan Huntley, where another line says Daniel. I will not average the names. It says Lemuel Lee was the first postmaster, and that a route established in 1826 was worked, in quotes, at his home. I will not move Warren, Painesville, Jefferson, or Austinburg. The census says 1,015 people in the township in 2020. That count is not this spot. A map page puts the place at this point, and the elevation at about 948 feet. The township box says 981 feet, at a different point. Another page says 290 feet. About stays. I will not average them. A directory titles the same point New Lyme and also South New Lyme. The history says those are distinct settlements. I will not average the names.",
+    long: "",
+    names: ["New Lyme"]
+  },
+  {
+    id: "new-lyme-tuckerman",
+    name: "About",
+    lat: 41.6043,
+    lng: -80.7809,
+    radius: 40,
+    short: "A county history says Professor Jacob E. Tuckerman became president of New Lyme Institute in the fall of 1882 and remained fifteen years. Fifteen stays. A tree page says he was born about July 31, 1824, uncertain, in Sterling, Connecticut, uncertain, and died February 5, 1897, in New Lyme. About stays. Uncertain stays. A sketch on that page says he was born in Sterling on July 31, 1824, and that he resided here until his death. I will not average the about with the line that drops it. I will not move Sterling, Kingsville, Oberlin, or Austinburg.",
+    long: "",
+    names: ["New Lyme"]
+  },
+  {
+    id: "new-lyme-sixty",
+    name: "Sixty",
+    lat: 41.6052,
+    lng: -80.7809,
+    radius: 40,
+    short: "A women's page says that when the Owens first came to New Lyme they found sixty Indians living on their land, that they were of a peaceful disposition, and that they often supplied game in exchange for articles. Sixty stays. Peaceful stays. Often stays. The page does not name a nation. I will not name one. A county page puts the Erie on Ashtabula County. I will not move that nation onto this place.",
+    long: "",
+    names: ["New Lyme"]
+  },
+  {
+    id: "new-lyme-freedom",
+    name: "Stronghold",
+    lat: 41.6045,
+    lng: -80.7814,
+    radius: 40,
+    short: "A women's page says New Lyme was a stronghold of anti-slavery sentiment in its early days, and that many a fleeing slave has had reason to bless the help that moved him on to freedom. Stronghold stays. Many stays. I will not invent the house or the road. A township list says Asa Case was an 1812 veteran, buried west of Dodgeville, and that the body was transferred to Hyde Cemetery in 1966, and that no evidence is left. No evidence stays. I will not point at the empty spot, and I will not move Dodgeville or Hyde.",
+    long: "",
+    names: ["New Lyme"]
+  },
+  {
+    id: "new-lyme-pocket",
+    name: "Very Near",
+    lat: 41.6040,
+    lng: -80.7804,
+    radius: 40,
+    short: "A county history says one company came very near to losing their teams, and that even their lives were endangered, and that Eusebius Dodge was carrying his title to 1,280 acres and 1,000 dollars in his pocket. Very near stays. Even stays. The history says the cabin was seven miles from the nearest neighbor. The women's page says seven miles from any white neighbor, for seven years. I will not average nearest and white, and I will not average seven years with the line that says until 1811. The institute faced Lebanon Creek. I will not invent that corner. The register puts the town hall at 6000 County Road 46, in South New Lyme. I will not move it. Dodgeville Cemetery is also called South New Lyme Cemetery. I will not move that ground. The next place, when you want it, is New Madison.",
+    long: "",
+    names: ["New Lyme"]
+  },
 
+  {
+    id: "approach-new-madison",
+    name: "New Madison",
+    lat: 39.9750,
+    lng: -84.7081,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on New Madison, the village in Darke County. Not Greenville, and not Weaver's Station. One page says the plat was 1817. If you stay on the road, I'll start at the plat.",
+    long: "",
+    names: ["New Madison"]
+  },
+  {
+    id: "new-madison-1817",
+    name: "Any",
+    lat: 39.9672,
+    lng: -84.7081,
+    radius: 40,
+    short: "The encyclopedia says New Madison was platted by Zadock Smith in 1817 for land speculation, and that he was unable to sell any of the lots. Any stays. It says two years later he sold the land to Ernestus Putnam, who began to sell lots in 1831. Two years later stays. I will not turn that into a year the page does not print. A marker says the town of Madison was platted on that spot in December 1817, probably named for President James Madison, and that Ernestus Putnum purchased and vacated the plat and recorded a new town in 1831 and called it New Madison. Probably stays. Vacated stays. December stays. The encyclopedia says Ernestus Putman had lived in Madison, In., and named the village for Madison, Indiana. I will not average the president and Indiana. I will not average Putnam, Putman, and Putnum. A directory says it does not have a founding date, and that you might consider the post office opened in 1820. Might consider stays. The box says 840 people in 2020, 1,102 feet, and 0.47 square miles, all land. The geography line says 0.41 square miles, all land. A post office map says 1,108 feet. I will not average them. This pin is the encyclopedia point.",
+    long: "",
+    names: ["New Madison"]
+  },
+  {
+    id: "new-madison-putman",
+    name: "Most Probably",
+    lat: 39.9670,
+    lng: -84.7076,
+    radius: 40,
+    short: "A county sketch says David Putman was born August 4, 1821, on the present site of New Madison, within the stockade of old Fort Black. It says his father, Ernestus Putman, was born in 1776 and died in October 1865, and that his wife died in February 1864, nearly two years before. Nearly stays. A family card says Ernestus was born October 27, 1776, and died October 20, 1865, in Winchester, Indiana, and that he is buried in the First Universalist ground here. I will not average October with the day, and I will not move Winchester. The sketch says the family still spells the name both ways, interchanging the m and the n, which most probably came from the Low Dutch. Most probably stays. It says he was a direct descendant of John Putnam of the Mayflower. I will not add a hedge the sketch does not print.",
+    long: "",
+    names: ["New Madison"]
+  },
+  {
+    id: "new-madison-cemetery",
+    name: "Also Called",
+    lat: 39.9628,
+    lng: -84.7053,
+    radius: 40,
+    short: "A page says Green Mound Cemetery is in New Madison, on Duffield Street, and also calls it New Madison Cemetery and Greenmound Cemetery, and prints this point. Also called stays. The family card puts Ernestus in the First Universalist Church Cemetery, and that ground prints a different point. I will not average them. I will not move Hill, Harter, or Wilt.",
+    long: "",
+    names: ["New Madison"]
+  },
+  {
+    id: "new-madison-marker",
+    name: "A Larger Built",
+    lat: 39.9698,
+    lng: -84.7077,
+    radius: 40,
+    short: "A marker stands at this point, at Main Street and Fayette Street, near the base of the water tower, and the page says it was put up in 1938. The encyclopedia says the first church was a Presbyterian congregation, and that the first school, founded in its early years, was replaced by a substantial two-story structure in 1870, and that it in turn was replaced by a larger built in 1897. Early stays. I will not repair the line, and I will not invent the school. A sketch says the first flouring mill in the southern part of the county was near Weaver's Station. Near stays. I will not move that mill.",
+    long: "",
+    names: ["New Madison"]
+  },
+  {
+    id: "new-madison-fort",
+    name: "Immediately Southwest",
+    lat: 39.9694,
+    lng: -84.7082,
+    radius: 40,
+    short: "The marker says Fort Black, a sturdy log outpost, was erected immediately southwest of this site in the fall of 1813, under Lieutenant James Black, commanding a detachment of Preble County troops, to protect settlers against bands of hostile Indians who were harassing the frontier. Immediately southwest stays. Bands stays. Hostile stays. Harassing stays. The page does not name a nation. I will not name one. I will not move Preble County, and I will not say the marker is the fort. An encyclopedia says James G. Blunt was born July 21, 1826, in Trenton, Maine, and died July 27, 1881, in Washington, and that he started a practice here in February 1849, and married Nancy G. Putman on January 15, 1850. I will not move Maine, Washington, or his later war.",
+    long: "",
+    names: ["New Madison"]
+  },
+  {
+    id: "new-madison-probably",
+    name: "Probably",
+    lat: 39.9668,
+    lng: -84.7084,
+    radius: 40,
+    short: "The marker says the plat was probably named for President James Madison. The encyclopedia says it was named for Madison, Indiana. Probably stays. I will not pick one. No page prints a muster roll for this village. The American Legion stone and the Lincoln train marker stay on their own pages. I will not move them. The next place, when you want it, is Newman.",
+    long: "",
+    names: ["New Madison"]
+  },
+
+  {
+    id: "approach-newman",
+    name: "Newman",
+    lat: 40.8380,
+    lng: -81.5639,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on Newman, the unincorporated community in Stark County. Not North Lawrence, and not Canal Fulton. One page says the office opened in 1889. If you stay on the road, I'll start at the office.",
+    long: "",
+    names: ["Newman"]
+  },
+  {
+    id: "newman-1889",
+    name: "Nearby",
+    lat: 40.8308,
+    lng: -81.5639,
+    radius: 40,
+    short: "The encyclopedia says Newman is an unincorporated community in Stark County, that a post office called Newman was established in 1889 and remained until 1906, and that the community takes its name from nearby Newman Creek. Nearby stays. Until stays. An old index puts Newman in Highland County. I will not average the counties, and I will not invent a village there. The encyclopedia prints this point, and 1,129 feet. A map page prints the populated place a hair off, and the old post office a hair off again, at about 342 meters, with a second reading of 345. About stays. I will not average the points or the heights. A township page says Lawrence Township was laid out on December 4, 1815, and that it includes Newman, North Lawrence, Urban Hill, and Canal Fulton. I will not make the township day the office, and I will not move those places. It says Henry Clapper and Adam Lower planted three acres along Newman's Creek in 1808. Along stays. The apostrophe stays. I will not make 1808 the founding of the office.",
+    long: "",
+    names: ["Newman"]
+  },
+  {
+    id: "newman-cemetery",
+    name: "About 400",
+    lat: 40.8291,
+    lng: -81.5598,
+    radius: 40,
+    short: "A map page says Newman Cemetery is in Lawrence Township, on the north side of Orrville Street, about 400 feet west of Young Avenue, and prints this point. About stays. Other pages print the ground a hair off. I will not average them. Newmans Creek Cemetery is in North Lawrence, and a page also calls it the Chapel of the Cross. I will not move it, and I will not average Newman and Newmans. Clapper Cemetery stays where it is.",
+    long: "",
+    names: ["Newman"]
+  },
+  {
+    id: "newman-school",
+    name: "Early",
+    lat: 40.8387,
+    lng: -81.5732,
+    radius: 40,
+    short: "A map page prints Newman Elementary School at this point, at 1,102 feet. A news page says the school closed in the early 2000s and was razed, and that the lot is 11881 Orville Street, and also that the frontage is on Orrville Road and Forty Corners Road. Early stays. Razed stays. I will not average Orville and Orrville, and I will not average a school on the map with a building the news says is gone. It says the parcel is more than six acres, and the auditor says 6.28 acres, appraised at 179,300 dollars. More than stays. I will not average them. No page prints a person with years, a nation, or a fight on this community. The township page says it is believed the township was named for Captain James Lawrence, and it prints his words from the Chesapeake. It is believed stays. I will not move that war here. The next place, when you want it, is New Market.",
+    long: "",
+    names: ["Newman"]
+  },
+
+  {
+    id: "approach-new-market",
+    name: "New Market",
+    lat: 39.1420,
+    lng: -83.6689,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on New Market, the unincorporated community in Highland County. Not the New Market in Geauga, and not the one in Lake. Not Hillsboro. One page says the plat was the spring of 1797. A marker says 1798. If you stay on the road, I'll start at the plat.",
+    long: "",
+    names: ["New Market"]
+  },
+  {
+    id: "new-market-1797",
+    name: "Six or Seven",
+    lat: 39.1353,
+    lng: -83.6689,
+    radius: 40,
+    short: "A folklore page says Henry Massie came upon this ground in the spring of 1797 and platted a town after Philadelphia, the plot covering 400 acres, and that by the fall of 1799 six or seven cabins had been built. Six or seven stays. A county history says the plat covered over four hundred acres. Over stays. I will not average 400 and over four hundred. A marker says he platted it in 1798, the earliest permanent settlement in the county, covering 400 acres, named after a town in his native Virginia. The encyclopedia says the first settlement was 1797, and that it was named after New Market, Virginia. I will not average 1797 and 1798. The encyclopedia says a post office called New Market was established in 1803 and remained until 1907. A directory says you might consider that the office opened in 1803, and it also says the office closed in 1895. Might consider stays. I will not average 1895 and 1907. A history says an office was established in the fall, in the season of 1799, and that Wishart was postmaster. I will not average 1799 and 1803. The map prints the old office as Newmarket, a hair off this point. The spelling stays. I will not average the points. The folklore page says it was the first county seat, and that early in 1807 it ceased. Early stays. The marker says unofficial, until Hillsboro assumed the title in 1807. Unofficial stays. I will not average first and unofficial. A 1946 page says the population was about 126, the altitude 1,137 feet, and the place 6 miles southwest of Hillsboro. About stays. It says 212 people in 1840, and 143 in 1870. A directory says 1,120 feet. The township page says 1,874 people in 2020, and 1,142 feet, and that no municipality is in the township. I will not put the township on the hamlet, and I will not average the heights.",
+    long: "",
+    names: ["New Market"]
+  },
+  {
+    id: "new-market-harris",
+    name: "1780",
+    lat: 39.1345,
+    lng: -83.6655,
+    radius: 40,
+    short: "A marker says Oliver Harris, 1780 to 1845, migrated here from New Jersey in 1810 with his wife, Amy Bereman Harris, and kept a journal for 35 years until his death. It says he organized a church, originally known as the Little Rocky Fork Church, at his home in 1838. Originally stays. At his home stays. It says he and his great, great grandson, the namesake Oliver Harris, are interred in Baptist Cemetery. The comma stays. I do not have the grandson's years. The marker was erected in 2002. I will not make 2002 a year of his life. A folklore page says that in 1837, 16 Baptists met under an apple tree to constitute the Baptist church. I will not average 1837 and 1838, and I will not average the home and the tree. This pin is the cemetery the marker names. The church is its own pin.",
+    long: "",
+    names: ["New Market"]
+  },
+  {
+    id: "new-market-presbyterian",
+    name: "Believed",
+    lat: 39.1381,
+    lng: -83.6716,
+    radius: 40,
+    short: "A page says Presbyterian Cemetery was plotted in February 1799 by Henry Massie, on Mad River Road, and that the oldest burials are believed to be Robert Branson and Adam Medsker in 1801. Believed stays. Another page says it is on the east side of Mad River Road, 600 feet north of West New Market Road, and also calls it New Market Presbyterian Cemetery. Also stays. It says the cemetery is not large, and that many of the old stones are no longer legible. Not large stays. Baptist Cemetery is on the south side of New Market Road, 1,000 feet east of the highway, on the east side of the village. I will not move it here.",
+    long: "",
+    names: ["New Market"]
+  },
+  {
+    id: "new-market-church",
+    name: "Also Called",
+    lat: 39.1351,
+    lng: -83.6660,
+    radius: 40,
+    short: "A map page prints New Market Baptist Church at this point, at 1,148 feet. Another page also calls it the Little Rocky Fork Baptist Church, and says the elevation is about 350 meters, with a second reading of 353. About stays. Also stays. I will not average the feet and the meters. The marker said Little Rocky Fork Church. I will not average Church and Baptist Church. A folklore page says the brick Grant McConnaughey house in the southern part of the village was once the Ohio Tavern. Once stays. Southern stays. I will not invent a point for the tavern. It says there is a modern grade school, and that high school pupils attend school at Hillsboro. I will not move Hillsboro.",
+    long: "",
+    names: ["New Market"]
+  },
+  {
+    id: "new-market-1812",
+    name: "Jos.",
+    lat: 39.1383,
+    lng: -83.6712,
+    radius: 40,
+    short: "The marker says Oliver Harris served as a lieutenant during the War of 1812. Lieutenant stays. I will not invent a battle on this ground. A cemetery page says War of 1812 veterans buried at Presbyterian Cemetery are George Barrere, Jos. Malcom, Solomon Ludwick, James Morrow John Eakins, and Benjamin Eakins. Jos. stays. The page does not put a comma between James Morrow and John Eakins. I will not repair it. The ground stays on the cemetery pin. I will not move it.",
+    long: "",
+    names: ["New Market"]
+  },
+  {
+    id: "new-market-apple",
+    name: "Under an Apple Tree",
+    lat: 39.1348,
+    lng: -83.6666,
+    radius: 40,
+    short: "The folklore page says that in 1837, 16 Baptists met under an apple tree to constitute the Baptist church. Sixteen stays. The page does not print the tree. I will not put the tree on the church door. It says Massie was confident the town would outshine Chillicothe. Confident stays. Would stays. A page puts Indian relics at God's Garden, two miles southeast, and says they were found in abundance until recent years. Until stays. Two miles stays. It does not name a nation. I will not move that ground here. The next place, when you want it, is New Marshfield.",
+    long: "",
+    names: ["New Market"]
+  },
+
+  {
+    id: "approach-new-marshfield",
+    name: "New Marshfield",
+    lat: 39.3320,
+    lng: -82.2164,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on New Marshfield, in central Waterloo Township, Athens County. Not Athens, and not Carbondale. One page says the office was 1857. Another says 1859. If you stay on the road, I'll start at the office.",
+    long: "",
+    names: ["New Marshfield"]
+  },
+  {
+    id: "new-marshfield-1857",
+    name: "Marshfield",
+    lat: 39.3253,
+    lng: -82.2164,
+    radius: 40,
+    short: "The encyclopedia says New Marshfield is a census-designated place in central Waterloo Township, that the population was 316 in 2020, and that it has a post office with the ZIP code 45766. An earlier reading of that page says it is unincorporated, and that the 2010 population was 326. Unincorporated stays. I will not average 326 and 316, and I will not average the two statuses. It says a post office called Marshfield was established in 1857, and the office was renamed New Marshfield in 1909. A township page says the office was established in 1859. I will not average 1857 and 1859. A directory says we don't have a date for the founding, and that you might consider that the office opened in 1909. Don't stays. Might consider stays. I will not make the rename the founding. The encyclopedia says that by the 1880s, (New) Marshfield had a train station and several stores. The parentheses stay. By stays. It says the B&O formerly passed through, and that the line was abandoned in the 1980s, and it marks the sentence citation needed. Formerly stays. Citation needed stays. I will not repair it. A history says the village was on the C. W. and B. railroad, seven miles from Athens. Another history says the Marietta and Cincinnati Railroad, and about two hundred and fifty inhabitants. About stays. Seven stays. I will not average the three railroad names. The township page says the population was 250 in 1883. I will not average 250 and about two hundred and fifty. The encyclopedia prints this point, and 843 feet, and 257 meters. A map prints the place a hair off, at about 820 feet, and 250 meters. About stays. I will not average the points or the heights. The township page says the first settlements in Waterloo were in 1806, and that Moses Hewitt was the first settler. I will not move 1806 onto this village.",
+    long: "",
+    names: ["New Marshfield"]
+  },
+  {
+    id: "new-marshfield-withers",
+    name: "3d",
+    lat: 39.3250,
+    lng: -82.2168,
+    radius: 40,
+    short: "A page says Kathleen Withers, deceased 1976, taught school at Carbondale and New Marshfield. It says she would have been in the 3d grade in 1911. Would stays. 3d stays. It says she is probably in a picture, and that the writer could not identify her, and that he thinks she is the first girl in the 2d row. Probably stays. I think stays. 2d stays. I will not invent a birth year, and I will not turn the 3d grade into one. The page does not print her door. Carbondale stays where it is.",
+    long: "",
+    names: ["New Marshfield"]
+  },
+  {
+    id: "new-marshfield-cemetery",
+    name: "Both Sides",
+    lat: 39.3244,
+    lng: -82.2114,
+    radius: 40,
+    short: "A page says New Marshfield Cemetery is also called Marshfield Cemetery, that it is on both sides of Ohio State Route 7, about 0.2 miles east of Hawk Road, and it prints this point. Also stays. Both sides stay. About stays. It prints the ZIP code 45701. I will not average 45701 and 45766. It says the ground is registered as Marshfield. A map page prints the cemetery a hair off, at about 287 meters, with a second reading of 284. About stays. I will not average them, and I will not average them with the village height. Another page calls a ground New Marshfield (Waterloo Twp) Cemetery and does not print this point. I will not move that name onto this pin. New Mansfield stays where it is.",
+    long: "",
+    names: ["New Marshfield"]
+  },
+  {
+    id: "new-marshfield-office",
+    name: "marshfield",
+    lat: 39.3251,
+    lng: -82.2179,
+    radius: 40,
+    short: "A map page prints the New Marshfield post office at this point, and also calls it marshfield Post Office. The lowercase stays. It says the elevation is about 255 meters, with a second reading of 253. About stays. I will not average them with 843 feet. Another page prints 836 feet, and a rounded point. I will not average the points. A history says the Methodist Protestant church was erected in 1860, the Methodist Episcopal church in 1869, and the Christian church was organized in 1870. I will not average the years, and the pages do not print the doors. A photo page says it appears the grade school stood where the fire department now stands. Appears stays. Now stays. I will not invent that door. The encyclopedia says the Alexander schools serve this community. A map puts Alexander Middle School west of the cemetery. I will not move the schools here.",
+    long: "",
+    names: ["New Marshfield"]
+  },
+  {
+    id: "new-marshfield-lodge",
+    name: "I Believe",
+    lat: 39.3255,
+    lng: -82.2160,
+    radius: 40,
+    short: "A page says New Marshfield Christian Church 1911 is noted on the border of a picture. It says I believe the building is still in use by the Masonic Lodge, and that the church is still active. I believe stays. Still stays. I will not average a lodge and an active church, and I will not put either one on a door the page does not print. No page names a nation on this village. A township scrapbook records mounds, and it does not put a mound here. No page prints a fight, a muster, or an enlistment on this village. I will not invent one. The next place, when you want it, is New Martinsburg.",
+    long: "",
+    names: ["New Marshfield"]
+  },
+
+  {
+    id: "approach-new-martinsburg",
+    name: "New Martinsburg",
+    lat: 39.4040,
+    lng: -83.4639,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on New Martinsburg, the unincorporated community in Fayette County. Not Martinsburg in West Virginia, and not Washington Court House. The histories say Thomas Ellis laid the village out in 1831. If you stay on the road, I'll start at the plat.",
+    long: "",
+    names: ["New Martinsburg"]
+  },
+  {
+    id: "new-martinsburg-1831",
+    name: "A Share",
+    lat: 39.3967,
+    lng: -83.4639,
+    radius: 40,
+    short: "A county history says Martinsburg was laid out by Thomas Ellis in 1831, on the Martinsburg and Washington turnpike, at the crossing of the Greenfield and Sabina pike, the only village in the township, and that the name was afterward changed to New Martinsburg, on account of the establishment of a post office. Afterward stays. On account of stays. Only stays. It says the first house was built by Thomas Ellis, jr. Another history prints Jr. I will not average the case. The encyclopedia says it was originally called Martinsburg until 1831, that the name comes from Martinsburg, West Virginia, the native home of a share of the first settlers, and that a post office was established here in 1831 and remained until 1906. A share stays. Native home stays. Until stays. I will not move West Virginia here, and I will not turn native home into a nation. The county history says a postoffice was established in 1851, with Gersham Perdue as postmaster, who retained the office fifteen years. Postoffice stays. Gersham stays. Fifteen stays. I will not average 1831 and 1851, and I will not turn fifteen years into a year the page does not print. It says the 1880 population was about two hundred souls, and the 1910 figures were about two hundred and fifty, according to United States reports. About stays. Souls stays. According to stays. Another page says about two hundred and does not print the year. I will not average them. The encyclopedia prints this point. A map prints the place a hair off, and one page prints the longitude as 49 seconds and also as a decimal that is not 49 seconds and not the encyclopedia's 50. I will not average the points. A record page prints the elevation as 302 feet. The old office is printed at 990 feet, and a directory prints 990 feet and 301.75 meters, and says the height is an estimate, higher in some places and lower in others. Estimate stays. I will not average 302 feet and 990 feet.",
+    long: "",
+    names: ["New Martinsburg"]
+  },
+  {
+    id: "new-martinsburg-williams",
+    name: "1878",
+    lat: 39.3965,
+    lng: -83.4642,
+    radius: 40,
+    short: "The county history says Richard L. Williams opened a store in 1838 and continued down to 1878, when his death occurred. Down to stays. I will not invent a birth year. The page does not print his door. It says James and Thomas Ellis opened the first store soon after the platting and remained only a brief time. Another page says a short time. Brief stays. Short stays. I will not average them. It says Joseph Patterson was perhaps the second storekeeper. Perhaps stays. Greenfield and Leesburg stay where they are.",
+    long: "",
+    names: ["New Martinsburg"]
+  },
+  {
+    id: "new-martinsburg-cochran",
+    name: "Southeast Corner",
+    lat: 39.4236,
+    lng: -83.4428,
+    radius: 40,
+    short: "A page says Cochran Cemetery is in New Martinsburg, also called Cochran Church Cemetery, on the southeast corner of York Road and Washington New Martinsburg Road, and it prints this point. Also stays. Southeast corner stays. I will not move this ground onto the village point. Anders Cemetery, Anderson Cemetery, and Old Stone Cemetery stay where they are.",
+    long: "",
+    names: ["New Martinsburg"]
+  },
+  {
+    id: "new-martinsburg-office",
+    name: "990",
+    lat: 39.3973,
+    lng: -83.4638,
+    radius: 40,
+    short: "A map page prints the old New Martinsburg post office at this point, at 990 feet. Another page prints 302 meters beside 990 feet, and a rounded point. I will not average the points, and I will not average the meters with the 302 feet on the village record. A history says the Thomas Ellis school house was built as early as 1815, or about the close of the war of 1812, on land now owned by Isaac Smith, on the edge of Martinsburg. As early as stays. Or stays. About stays. Now stays. Edge stays. I will not invent that door, and I will not put the edge in the center. It says a Methodist church was organized at Martinsburg prior to 1836, in an empty store room, and at the house of Thomas Fishbnek, till a log church in 1838 on a lot donated by Mr. Buck. Prior to stays. Empty stays. Fishbnek stays. Till stays. I will not repair the name, and the page does not print the door. A mapped Methodist Episcopal church, and Pikes Peak School, are off this point. I will not move them.",
+    long: "",
+    names: ["New Martinsburg"]
+  },
+  {
+    id: "new-martinsburg-perhaps",
+    name: "Perhaps",
+    lat: 39.3969,
+    lng: -83.4634,
+    radius: 40,
+    short: "The history says Joseph Patterson was perhaps the second to keep a store, and that the first store continued a short time, and another page says a brief time. Perhaps stays. I will not average short and brief. No page names a nation on this village. Native home, on the encyclopedia, is Martinsburg, West Virginia, and that place does not move. No page prints a fight, a muster, or an enlistment here. The war of 1812 is only the history's other way of dating the school on the edge. I will not invent a battle. The next place, when you want it, is New Matamoras.",
+    long: "",
+    names: ["New Martinsburg"]
+  },
+
+  {
+    id: "approach-new-matamoras",
+    name: "New Matamoras",
+    lat: 39.5120,
+    lng: -81.0686,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on New Matamoras, the village in Washington County, along the Ohio River. The encyclopedia also calls it Matamoras. Not Friendly, and not Metamora. One page says the plat was 1846. If you stay on the road, I'll start at the plat.",
+    long: "",
+    names: ["New Matamoras"]
+  },
+  {
+    id: "new-matamoras-1846",
+    name: "September",
+    lat: 39.5203,
+    lng: -81.0686,
+    radius: 40,
+    short: "The encyclopedia says Matamoras, also known as New Matamoras, was platted in 1846, named for the Battle of Matamoros, incorporated in 1861, and received its first post office that year. Also stays. That year stays. It says the Post Office changed the name to New Matamoras to avoid confusion with Metamora in Fulton County. Changed stays. Avoid stays. Metamora stays where it is. A local history says the village was first platted in September, 1846, by Stinson Burris and Henry Sheets, with Adam Cline platting the first addition, and that the founders named it for Matamoros, Mexico. September stays. First addition stays. I will not average 1846 and September, 1846, and I will not average the battle and the city, and I will not average Matamoros and Matamoras. It says the office insisted on New Matamoras, to avoid confusion with a small town, Metamora. Insisted stays. Small stays. It says the population was 702 in 2020, the village 630 feet and 190 meters, and about 0.39 square miles. One reading of the area prints 1.00 square kilometers, and another prints 1.01, and the water is printed as 0.04 and as 0.039. I will not average them. A map prints this place a hair off, at 643 feet, and about 196 meters. About stays. I will not average 630 and 643, or 190 and 196. It says the town is approximately 20 miles east of Marietta, directly across from Friendly, and south of Wayne National Forest. Approximately stays. Directly stays. I will not move Marietta, Friendly, or the forest. A page says Grandview Township was officially cut off from Newport in 1803. Officially stays. I will not make 1803 the plat.",
+    long: "",
+    names: ["New Matamoras"]
+  },
+  {
+    id: "new-matamoras-riggs",
+    name: "15 September 1742",
+    lat: 39.5286,
+    lng: -81.0617,
+    radius: 40,
+    short: "A cemetery register says James Riggs, 15 September 1742 to 27 February 1815, is buried in New Matamoras Cemetery, also called Matamoras Cemetery. Also stays. The history says James Riggs and his sons-in-law, Martin and Anthony Sheets, settled this vicinity in 1797. Another page says two sons-in-law. Another prints son-in-laws. Two stays. Son-in-laws stays. I will not repair it. The encyclopedia says they built three cabins. Three stays. Another page says cabins and does not print three. I will not average them. I will not decide the man of 1742 and the settler of 1797 are the same man. The register also names George Cline/Kline, 1740 to 14 April 1801. The slash stays. I will not fill in a day for 1740, and I will not make him Adam Cline.",
+    long: "",
+    names: ["New Matamoras"]
+  },
+  {
+    id: "new-matamoras-cemetery",
+    name: "813",
+    lat: 39.5287,
+    lng: -81.0615,
+    radius: 40,
+    short: "A map page prints New Matamoras Cemetery at this point, at 813 feet. Other pages print the ground a hair off. I will not average them, and I will not average 813 feet with the village height. One page prints the address 290 Cemetery Road and the ZIP code 45767. Another prints 26146, and the words Lucas County. I will not average the ZIP codes, and I will not move this ground to Lucas County. A register says aka Matamoras Cemetery. Aka stays. Grandview Cemetery and the West Virginia grounds stay where they are.",
+    long: "",
+    names: ["New Matamoras"]
+  },
+  {
+    id: "new-matamoras-ems",
+    name: "515",
+    lat: 39.5225,
+    lng: -81.0650,
+    radius: 40,
+    short: "A map page prints the New Matamoras emergency building at this point. A page prints the New Matamoras post office at 515 2nd Street and does not print a coordinate. I will not invent the door. Church records for the New Matamoras Presbyterian church begin in 1850, and the page does not print the church door. I will not invent that one either.",
+    long: "",
+    names: ["New Matamoras"]
+  },
+  {
+    id: "new-matamoras-indians",
+    name: "Fearing",
+    lat: 39.5206,
+    lng: -81.0680,
+    radius: 40,
+    short: "A local history says that, fearing hostile Indians, the 1797 party camped on the Virginia side of the river while clearing the Ohio land and building cabins. Fearing stays. Hostile stays. While stays. Virginia side stays. Another page prints Vriginia. I will not repair it. The page does not name a nation. I will not invent one, and I will not move the camp onto this bank.",
+    long: "",
+    names: ["New Matamoras"]
+  },
+  {
+    id: "new-matamoras-veterans",
+    name: "Many",
+    lat: 39.5284,
+    lng: -81.0618,
+    radius: 40,
+    short: "The encyclopedia says many of the first settlers were Revolutionary War veterans. Many stays. A local history says many of our first settlers, and it capitalizes Veterans. Our stays. I will not average them. The cemetery register names two patriots buried here, James Riggs and George Cline/Kline. I will not invent a battle on this bank. The history says that in the spring of 1846, Zachary Taylor's troops drove the Mexican Army back to Matamoros, before the Mexican War was declared. Spring stays. Before stays. I will not move Texas, or Mexico, or that battle, here.",
+    long: "",
+    names: ["New Matamoras"]
+  },
+  {
+    id: "new-matamoras-boom",
+    name: "Once",
+    lat: 39.5208,
+    lng: -81.0689,
+    radius: 40,
+    short: "The encyclopedia says that once a boom town for shipping, Matamoras has been supported by farming and oil. Once stays. Boom stays. A local history says it was once a boom town and a major shipping point, and that the industries have been farming, oil, and the river itself. Major stays. Itself stays. It says most of the official books of that era have been destroyed, and that the township journal which survived is unique. Most stays. Destroyed stays. Unique stays. I will not repair any of that. The next place, when you want it, is New Miami.",
+    long: "",
+    names: ["New Matamoras"]
+  },
+
+  {
+    id: "approach-new-miami",
+    name: "New Miami",
+    lat: 39.4240,
+    lng: -84.5400,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on New Miami, the village in St. Clair Township, Butler County, sitting north of Hamilton. Not Middletown, and not Miami County. The encyclopedia says the ovens were circa 1905, and the village was incorporated in 1929. If you stay on the road, I'll start at the name.",
+    long: "",
+    names: ["New Miami"]
+  },
+  {
+    id: "new-miami-1929",
+    name: "Coke Otto",
+    lat: 39.43194,
+    lng: -84.54000,
+    radius: 40,
+    short: "The encyclopedia says New Miami was originally known as Coke Otto, Otto, or Kokotto, for its large coal field and steel mill. Originally stays. A children's page says once known, and that the mill used to be here. Once stays. Used to stays. It says the United Coke and Gas Company built Otto-Hoffman ovens circa 1905 for the Hamilton Otto Coke Company, about 50 acres, which it also prints as 200,000 square meters, with 120 ovens, and thus the place was referred to as Coke Otto. Circa stays. About stays. Thus stays. It says the property was purchased in 1937, the company changed its name to ARMCO in 1948, and the village was incorporated in 1929. Another page says a mill started around 1900, and that Armco bought it from the Hamilton Coke and Iron Company. Around stays. I will not average 1900 and circa 1905, and I will not average Hamilton Otto Coke with Hamilton Coke and Iron. One page says the site is in the village, about 252 acres. Another says the plants line Augsberger Road just outside the town, and prints 252 acres with no about. Just outside stays. Augsberger stays. The encyclopedia prints Augspurger. I will not average the spellings, and I will not average about 50 and about 252. The box says 0.94 square miles, and 2.43 square kilometers, and the geography line says 3.95 square miles, and 10.23 square kilometers. The water is 0.035 and also 0.04. I will not average them. The box says 591 feet and 180 meters. A map says 590 feet. Another says 594 feet and 181 metres. Metres stays. I will not average them. It says 2,217 people in 2020, and 2,249 in 2010, and 2,469 in 2000. A map says 2,250. A children's page says about 2,217. About stays. I will not average them. The ZIP line prints 45011 and 45013 West of Four Mile Creek. I will not average them, and I will not move the creek. A map also calls the place New River Junction. I will not decide that is a second town. It says the company is now AK Steel in Middletown. One page prints the takeover as April 6, 1994, and headquarters in West Chester. I will not move Middletown or West Chester. A page prints Environment Protection Agency. I will not repair it. It says operations ceased during the 1980's, most of the structures demolished by 1989, and another page says the plant formally closed in 1991. The apostrophe stays. Formally stays. I will not average 1989 and 1991.",
+    long: "",
+    names: ["New Miami"]
+  },
+  {
+    id: "new-miami-wesleyan",
+    name: "590",
+    lat: 39.43645,
+    lng: -84.53745,
+    radius: 40,
+    short: "A map page prints New Miami Wesleyan Church at this point, at 590 feet. It also prints New Miami First Church of God, and Mount Zion Apostolic Temple, each at its own door. I will not average the doors. The high school page says New Miami High School is just outside New Miami, at 600 Seven Mile Avenue. Just outside stays. I will not move that school in. The Augspurger Schoolhouse is in Woodsdale. I will not move it. A cache page says today the whole mill all is gone. All stays. I will not invent the mill door.",
+    long: "",
+    names: ["New Miami"]
+  },
+  {
+    id: "new-miami-force",
+    name: "Force",
+    lat: 39.4322,
+    lng: -84.5396,
+    radius: 40,
+    short: "The encyclopedia says that around January 2013 the village fit speed cameras around US-127, and that a person caught speeding would be force to pay ninety-five dollars. Around stays. Force stays. I will not repair it. It says the village is notable as a potential speed trap. Potential stays. It says that by February 2014 a judge stopped the system, and that the village had received at least one million dollars. At least stays. The suit ran from 2014 to 2017 and would eventually force the village to pay back the close to two million it received, and the over one million paid to Optotraffic, over the approximately forty-five thousand citations. Close to stays. Over stays. Approximately stays. Would eventually stays. I will not average one million and two million. It says one of Armco's best-known products may be the crash barriers, commonly called Armco. May stays. Commonly stays. I will not move a racetrack here. There is no person with years. The page names Mayor Jewel Hayes Hensley, and Donald L. Fox, Sr., and does not print their years. I will not invent a life. There is no cemetery in the village. Saint Stephens and Greenwood stay where they are. A page says the company helped build a town park and a fire hall, and does not print the door. Helped stays. I will not invent it. The census prints Native American as a percentage and does not name a nation. I will not invent one. There is no fight, no muster, no burial, and no enlistment. I will not invent a battle. The next place, when you want it, is New Middletown.",
+    long: "",
+    names: ["New Miami"]
+  },
+
+  {
+    id: "approach-new-middletown",
+    name: "New Middletown",
+    lat: 40.9720,
+    lng: -80.5597,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on New Middletown, the village in Springfield Township, Mahoning County. Not Middletown in Pennsylvania, and not New Springfield. One page says it was founded in 1825. If you stay on the road, I'll start at the name.",
+    long: "",
+    names: ["New Middletown"]
+  },
+  {
+    id: "new-middletown-1825",
+    name: "Might Consider",
+    lat: 40.96472,
+    lng: -80.55972,
+    radius: 40,
+    short: "The encyclopedia says New Middletown was founded in 1825 by Samuel Moore, and became an incorporated town in 1972. Another page says that while it does not have a date for the founding, you might consider that the post office opened in 1832. While stays. Does not have stays. Might consider stays. I will not average 1825 and 1832, and I will not drop 1972. A page prints the pronunciation MIH-duhl-town. I will not repair it. The box says 0.88 square miles, and 2.27 square kilometers, of which 0.87 is land. The geography line says 0.87 square miles, and 2.25 square kilometers, all land. All stays. I will not average 0.88 and 0.87, or 2.27 and 2.25. The box says 1,224 feet and 373 meters. Another page says 1,220 feet and 372 meters. A populated-place map says 1,253 feet and 382 meters, and prints the point a hair off. I will not average them, and I will not average the points. It says 1,507 people in 2020, and 1,621 in 2010. A 2019 estimate says 1,558. Another count says 1,550. I will not average them. The census table prints 147 in 1870 and 190 in 1880, and then 168 in 1920. I will not fill the years it skips. The encyclopedia says southeastern Mahoning County. Another page says the northeast area of the township. Southeastern stays. Northeast stays. I will not average them. I do not have Samuel Moore's years. I will not invent a life.",
+    long: "",
+    names: ["New Middletown"]
+  },
+  {
+    id: "new-middletown-zion",
+    name: "Twonship",
+    lat: 40.95903,
+    lng: -80.53940,
+    radius: 40,
+    short: "A cemetery page puts Zion Lutheran Cemetery at this point, and says it is also known as Zion Cemetery, in New Middletown. Also stays. It says section 11, Springfield Twonship, the north west corner of Middletown Road and Rapp Road. Twonship stays. North west stays. I will not repair them, and I will not move this ground to the village point. It says the church was established in the 1850's, and prints the apostrophe. I will not make that 1850. It says the ground appears in a township book, and is cared for by a board of trustees. Appears stays. The Zion Lutheran cemeteries in Seneca County and Coshocton County stay where they are. Old Springfield Cemetery is printed south east of New Middletown. South east stays. I will not move it. Petersburg and New Springfield stay where they are.",
+    long: "",
+    names: ["New Middletown"]
+  },
+  {
+    id: "new-middletown-school",
+    name: "The Elementary",
+    lat: 40.96423,
+    lng: -80.56118,
+    radius: 40,
+    short: "A map page prints New Middletown Elementary School at this point. The encyclopedia says the children are served by Springfield Local School District, which includes one elementary school, one intermediate school, and Springfield Local High School. Includes stays. I will not make the intermediate school, or the high school, this building, and I will not move them. A map prints the post office a hair off from the populated place. I will not average those doors, and I will not make the present office the office of 1832. The cemetery page prints Zion Lutheran Church at 10857 Main Street and does not print a coordinate. The encyclopedia shows a municipal building and does not print a coordinate. I will not invent either door.",
+    long: "",
+    names: ["New Middletown"]
+  },
+  {
+    id: "new-middletown-share",
+    name: "A Share",
+    lat: 40.9651,
+    lng: -80.5592,
+    radius: 40,
+    short: "The encyclopedia says the village was most likely named after Middletown, Dauphin County, Pennsylvania, the former home of a share of the first settlers. Most likely stays. A share stays. Former stays. Another page says likely, and that it is where its founders were from. Likely stays. Founders stays. I will not average most likely and likely, and I will not average a share of the first settlers with the founders. I will not move that Middletown. There is no person with years. There is no nation on the page. I will not invent one. There is no fight, no muster, and no enlistment. I will not invent a battle. The next place, when you want it, is New Paris.",
+    long: "",
+    names: ["New Middletown"]
+  },
+
+  {
+    id: "approach-new-paris",
+    name: "New Paris",
+    lat: 39.8700,
+    lng: -84.7922,
+    radius: 2500,
+    layer: "approach",
+    short: "You are coming up on New Paris, the village in Preble County, just east of the Indiana line. Not the New Paris in Perry County, and not Paris, Kentucky. One page says the plat was 1817. If you stay on the road, I'll start at the plat.",
+    long: "",
+    names: ["New Paris"]
+  },
+  {
+    id: "new-paris-1817",
+    name: "August 18",
+    lat: 39.85639,
+    lng: -84.79222,
+    radius: 40,
+    short: "The encyclopedia says New Paris was platted in 1817, and named after Paris, Kentucky, the former home of a share of the first settlers. A share stays. Former stays. It says a post office called New Paris has been in operation since 1820. Since stays. A local page says four or five families made the hazardous journey from Bourbon County, Paris, Kentucky, to escape the practice of slavery. Four or five stays. Hazardous stays. It says James Fleming and Andrew Ireland, from the vicinity of Paris, Kentucky, plotted adjoining lands, and they decide the name should be New Paris. Decide stays. Vicinity stays. I will not repair it, and I will not average vicinity with a share, or four or five with a share. It says the original plat of 20 lots was acknowledged August 18, 1817, before Issac Stephens. Issac stays. August 18 stays. The encyclopedia prints 1817 and does not print the day. I will not drop the day, and I will not add a day the encyclopedia does not print. It says the plat ran to Main,east to High Street. I will not put the space in. It says the village was incorporated in 1832, by a special act. Special stays. The current encyclopedia does not print 1832. I will not add it to that sentence. Another page says that while it does not have a date for the founding, you might consider that the post office opened in 1820. While stays. Does not have stays. Might consider stays. I will not average a page with no date and a page with 1817. It says the first settlements in Jefferson Township were 1806, the township officially established in 1807, and that by 1808 it was populated with good, industrious and religious people. Officially stays. By stays. Good stays. Those dates are the township. I will not move them onto the plat. The box says 0.76 square miles and 1.97 square kilometers. An older page says 0.7 and 1.9, and also 1.8, and prints the water as 0.02, as 0.0, and as 0.04. I will not average them. A map says 1,033 feet. An older page says 1,037 feet and 316 meters. I will not average them, and I will not average the encyclopedia point with the populated-place point. It says 1,494 people in 2020, and 1,629 in 2010, and 1,623 in 2000. A local page says 1,577 on July 1, 2018, and 3,204 in the township on that date. An estimate page says 1,570, and prints an population. An stays. I will not average them, and I will not move the township count onto the village. The census prints 154 in 1830 and then 835 in 1880. I will not fill the years it skips. It says the village is just east of Indiana, and heavily dominated by cornfields, a staple of this area. Just stays. Heavily stays. Staple stays. Perry County's New Paris stays where it is. Paris, Kentucky, stays where it is.",
+    long: "",
+    names: ["New Paris"]
+  },
+  {
+    id: "new-paris-hanby",
+    name: "July 22, 1833",
+    lat: 39.8568,
+    lng: -84.7918,
+    radius: 40,
+    short: "The encyclopedia says Benjamin Russell Hanby, or Russel, was born July 22, 1833, in Rushville, and died March 16, 1867, in Chicago, aged 33. Or stays. Russel stays. Aged stays. It says he composed approximately 80 songs. Approximately stays. It says that by Christmas of 1864, after some time as a minister in a church in New Paris, he was operating a singing school here. By stays. Some time stays. A local page says he was the former local minister, and writes the song in 1864. Former stays. Another page says he was called here in 1863, when the population was 500, much to the displeasure of members of the congregation. Displeasure stays. I will not average 1863 and 1864, and I will not average 500 with the census. His grave is printed at Otterbein Cemetery in Westerville. I will not move it. Rushville stays where it is. Chicago stays where it is. The page names James Fleming, Andrew Ireland, Issac Stephens, John H. Cottom, a man named Pryor, Robert Sprowls, and Robert McGill, and does not print their years. A man named stays. I will not invent a life. It names Elder David Purviance and does not print his years. He is buried at Old North Cemetery. I will not move that ground, and I will not move Oxford.",
+    long: "",
+    names: ["New Paris"]
+  },
+  {
+    id: "new-paris-spring-lawn",
+    name: "1046",
+    lat: 39.84925,
+    lng: -84.79242,
+    radius: 40,
+    short: "A map page prints Spring Lawn Cemetery at this point, at 1,046 feet, on State Route 320, and says New Paris is 0.5 miles north. Another reading is a hair off. I will not average them. One page prints the ground as NEAR Preble County. Near stays. I will not move it out of the county. A genealogy page prints the cemetery at the village point. I will not move this ground there. The marker page says the marker is in front of the cemetery, at 617 South Washington Street. In front stays. France Park, Cedar Springs, New Westville, and Old North Cemetery stay where they are.",
+    long: "",
+    names: ["New Paris"]
+  },
+  {
+    id: "new-paris-office",
+    name: "1979",
+    lat: 39.85508,
+    lng: -84.79290,
+    radius: 40,
+    short: "A map page prints the New Paris post office at this point. A local page says an early post office was established, now at 306 South Washington Street, built in 1979. Early stays. Now stays. I will not make 1979 the opening, and I will not decide this map point is that door. It says a free lot went to the first house, and that John H. Cottom built a square log house on the south west corner and opened a hotel. Free stays. South west stays. It says a man named Pryor opened the first store, Robert Sprowls built a large frame house, and in 1820 Robert McGill's blacksmith shop was on the northeast corner. I will not invent those doors. It says the JeffersonTwp School was in the process of being demolished during 2020, to make way for a village park. JeffersonTwp stays. In the process stays. During stays. I will not invent that door. It says a limestone quarry, discovered in 1889, was the largest industry until the 1920's, employing 50 men daily, mostly local. Largest stays. Mostly stays. The apostrophe stays. I will not invent the quarry door. It says that in 2020 the area has five churches. Five stays. Area stays. Cedar Springs, and its hotel, stay where they are.",
+    long: "",
+    names: ["New Paris"]
+  },
+  {
+    id: "new-paris-nations",
+    name: "Pottawatomi",
+    lat: 39.8560,
+    lng: -84.7935,
+    radius: 40,
+    short: "An older encyclopedia page says the area was in the tribal grounds of the Pottawatomi, Miami, and Wyandot. The area stays. Pottawatomi stays. I will not repair the spelling, and I will not pick a door for it. The current encyclopedia does not print those nations. I will not add them to that sentence.",
+    long: "",
+    names: ["New Paris"]
+  },
+  {
+    id: "new-paris-1865",
+    name: "About 300",
+    lat: 39.8555,
+    lng: -84.7938,
+    radius: 40,
+    short: "An older encyclopedia page says that on April 30, 1865, a nine-car funeral train, carrying Abraham Lincoln's body and about 300 mourners, stopped here for memorial ceremonies. Nine-car stays. About stays. It says New Paris, and nearby Greenville, and Richmond, Indiana, were selected because of strong Union support during the Civil War, and to avoid the Copperhead hotbeds of Dayton and Cincinnati. Strong stays. Nearby stays. Copperhead stays. I will not invent a battle on this ground, and I will not invent the depot door. I will not move Greenville, Richmond, Dayton, or Cincinnati. A marker page prints a veterans memorial about 600 feet from the song marker, and does not print the names. About stays. I will not invent them.",
+    long: "",
+    names: ["New Paris"]
+  },
+  {
+    id: "new-paris-housetop",
+    name: "Said To",
+    lat: 39.84912,
+    lng: -84.79250,
+    radius: 40,
+    short: "A marker in front of the cemetery says the Reverend Benjamin Hanby wrote Up on the Housetop here in 1864. A local page prints Up On the Housetop, and says he wrote the new world famous Christmas song for our children. New stays. World famous stays. For our children stays. I will not average Up on and Up On. The encyclopedia says that by Christmas of 1864 he composed it here, originally titled Santa Claus. Originally stays. By stays. Another page says the song is also known as Santa Claus. Also stays. A hymn page says that, said to, it is the second oldest secular Christmas song, preceded only by Jingle Bells, and the first to suggest the sleigh landed on the roof. Said to stays. Only stays. First stays. I will not drop said to. The local page prints Applefest the 2nd weekend in September, and prints treasurers, and Todays Harvest, and past time. I will not repair them. The next place, when you want it, is New Philadelphia.",
+    long: "",
+    names: ["New Paris"]
+  },
+
+{
+  id: "new-philadelphia-approach",
+  name: "New Philadelphia",
+  lat: 40.508,
+  lng: -81.455,
+  radius: 2500,
+  layer: "approach",
+  short: "You are arriving at New Philadelphia. Tuscarawas County. The river here is the Tuscarawas. Dover stays adjacent. This is not Philadelphia, Pennsylvania. The first story is the plat.",
+  long: "",
+  names: ["New Philadelphia"]
+},
+{
+  id: "new-philadelphia-plat",
+  name: "The plat",
+  lat: 40.49167,
+  lng: -81.44111,
+  radius: 40,
+  short: "The guide says John Knisley founded New Philadelphia on 23 Oct 1804. Knisley stays. It says Knisley aids in the county, and the seat is 15 Mar 1808. Britannica says John Knisely, a tavern keeper from York, Pa., founded it in 1804, and named it for Philadelphia, Pa. The seat there is 1808. York stays. The Charles H. Knisely paper's description says founded in 1804, born September 21, 1752, and in 1795 he moved to Bedford County, Pa., with a grist mill and hostelry. Bedford stays. I will not average York and Bedford. That paper's transcript prints founded in 180JU and born September 21, 175>2. I will not repair the transcript. An atlas note says he arrived from Bedford with 33 souls on October 25, 1803. Wikipedia says he returned in 1804 with his family and 33 other pioneers. October 25 stays. 1804 stays. 33 souls stays. 33 other pioneers stays. The courthouse marker says David Knisely, the founder, first arrived on August 27, 1803. David stays. John stays. I will not average the two names. The same marker says John Knisely donated the northeast corner of the square. Heckewelder, agent for Godfrey Haga of Philadelphia, deeded 3,554 acres to John Knisely for $5,776.33 on October 23, 1804. The transcript also prints aqyes. aqyes stays. Wikipedia says John Wells plotted the city in the same grid style as Philadelphia. The 1884 history says John Wells of Somerset County, Pa., and three squares. The main public square. Upper Market Square, also called Franklin Square. Lower Market Square, also called Washington Square. Also stays. The industrial page says Henry Laffer of Philadelphia platted and staked it off, and the name was for Laffer's native city, out of courtesy. Courtesy stays. Wells stays. Laffer stays. I will not average the two surveyors. The plat was enlarged in 1805. Lamneck says the county seat was laid out January 8, 1808. The marker says the county was organized effective March 15, 1808, the seat was chosen shortly thereafter, and the commissioners met at Leininger's tavern on April 16, 1808. Shortly thereafter stays. A 2003 guide says the county was established in 1807. 1807 stays. I will not average it with 1808. Wikipedia says incorporated February 12, 1833. Britannica says village in 1833, and city in 1895. The industrial page says the first election was May 6, 1833, and thirty-seven votes were east. East stays. I will not repair it. That page says in November 1915 about twenty-two hundred votes were cast. About stays. Wikipedia says in 1833 the town had county buildings, a printing office, several stores, and five taverns. Five stays. Wikipedia prints the city point as 40.49167, -81.44111, and also 40°29′30″N 81°26′28″W. Topoquest prints the populated place at N40.48979° W81.44567°, and the civil point at N40.48608° W81.44010°. I will not average them. The infobox says 8.25 square miles, land 8.15, water 0.097. The geography line on the same page says 8.39 square miles, of which 0.17 is water. I will not average 8.25 and 8.39. Elevation there is 899 feet, which that page also prints as 274 meters. Population there is 17,677 in 2020. Britannica prints 17,056 in 2000 and 17,288 in 2010. I will not fold the census into one number. ZIP 44663 stays.",
+  long: "",
+  names: ["New Philadelphia"]
+},
+{
+  id: "new-philadelphia-knisely",
+  name: "John Knisely",
+  lat: 40.493,
+  lng: -81.44111,
+  radius: 40,
+  short: "SAR prints John KNISELY/KNEISLEY. The slash stays. Born 21 Sep 1752, York, York County, Pennsylvania. Died 15 Dec 1834. SAR puts that death in New Philadelphia. FamilySearch also puts the death in New Philadelphia, at the age of 82. WikiTree puts the death in Dover Township, at age 82, and prints John Kneisly war born. War stays. I will not repair it. The 1884 history says he died December 15, 1834, in Dover Township, at the residence of his son John Knisely, Jr. That page prints no years for the son. I will not invent them. It says he is buried in the Fair Avenue Cemetery. Fair Avenue stays. Dover Township stays. I will not move that house onto the square. A 2003 guide says he died December 15, 1834, at the age of 84, and the plot is in the East Fair Street Cemetery. 84 stays. 82 stays. I will not average them. East Fair Street stays. The paper's transcript says he sold his possessions for #16,000, and the family was a wife, six sons, and four daughters. #16,000 stays. Six stays. Four stays. I will not invent years for them. The marker's David Knisely stays on the marker. I will not give David these years. Henry Laffer has no years on these pages. John Wells has no years on these pages. I will not invent a life.",
+  long: "",
+  names: ["John Knisely", "John Knisley", "John KNISELY/KNEISLEY"]
+},
+{
+  id: "new-philadelphia-fair-street",
+  name: "Fair Street Cemetery",
+  lat: 40.4914,
+  lng: -81.4392,
+  radius: 40,
+  short: "Fair Street Cemetery is also called New Philadelphia Cemetery. Also stays. Find a Grave prints 40.49140, -81.43920. SAR's cemetery GPS is 40.491402, -81.439201. Topoquest prints N40.49145° W81.43900°. I will not average them. The 1884 history says Fair Avenue Cemetery. A 2003 guide says East Fair Street Cemetery. Those names stay. This pin is that ground. Schoenbrunn does not move here.",
+  long: "",
+  names: ["Fair Street Cemetery", "New Philadelphia Cemetery"]
+},
+{
+  id: "new-philadelphia-courthouse",
+  name: "The courthouse",
+  lat: 40.49,
+  lng: -81.445,
+  radius: 40,
+  short: "Wikipedia puts the Tuscarawas County Courthouse at 125 East High Avenue, at 40.49000, -81.44500. It says built in 1882, by Thomas Boyd and T.B. Townsend, and placed on the National Register on July 16, 1973. Another map page prints 101 East High Avenue, and the point 40.49011, -81.44505. Both addresses stay. I will not invent the door. Topoquest prints N40.49006° W81.44512°. The marker is at the outside corner of the square, East High Avenue and North Broadway, and it prints 40° 29.384′ N, 81° 26.721′ W. I will not average those points. The marker says the commissioners approved a two-story jail and county office on land John Knisely donated, northeast corner of the square. A brick courthouse was authorized by 1818, occupied in 1825, and used until 1882. The present building was occupied in 1888. Occupied stays. The city guide says the cornerstone was 25 Oct 1882, and the building is on the National Register of Historic Buildings. Buildings stays. I will not repair it to Places. An expansion was added in 1990. 1990 stays.",
+  long: "",
+  names: ["Tuscarawas County Courthouse"]
+},
+{
+  id: "new-philadelphia-goshen",
+  name: "Goshen and Schoenbrunn",
+  lat: 40.4902,
+  lng: -81.4424,
+  radius: 40,
+  short: "Wikipedia says John Knisely was welcomed by the Christian Indians of Goshen. Goshen stays where that page puts it. I will not move Goshen onto this plat. The same page says the Moravian Church, under David Zeisberger, founded Schoenbrunn in 1772. It is also Schönbrunn, beautiful spring. It is also Welhik Tuppeek, the best spring. Both names stay. It was a mission to the Delaware Indians. Munsee and Germans are both printed. Both stay. Schönbrunn was two miles south-east of present-day New Philadelphia. Two miles stays. South-east stays. Sixty dwellings. More than 300 inhabitants. More than stays. Britannica says Schoenbrunn Village, 1772 to 1777, lies a short distance southeast. A short distance stays. I will not average two miles and a short distance. Problems associated with the American Revolution prompted the closing in 1777. Problems stays. I will not invent a battle there. I will not move Schoenbrunn onto the city. A 2003 guide says he called this the first white man's settlement in the county. That phrase stays on that page. I will not average it with 1772. Zoar Village, 1817 to 1898, stays nearby. I will not move Zoar. Dover stays adjacent.",
+  long: "",
+  names: ["New Philadelphia"]
+},
+{
+  id: "new-philadelphia-muster",
+  name: "The Pennsylvania muster",
+  lat: 40.490473,
+  lng: -81.439408,
+  radius: 40,
+  short: "SAR says the service was in Pennsylvania. Private. Capt Jacob Wilhelm's 8th Co, 8th Battalion, Lancaster County Militia, 1781 to 1782. It also lists Capt John Sharp's Third Battalion, 1786 to 1788. 1786 stays. That is not a fight in New Philadelphia. I will not invent a battle here. SAR says the sheet was assembled from numerous sources and cannot be used directly as proof. Cannot stays. It is a research aid. The burial it prints is Fair Street Cemetery. The grave GPS is 40.490473, -81.439408. The marker type prints Memoiral / DAR. Memoiral stays. I will not repair it. The same cemetery page prints Jacob Albert, abt 1740, bef 12 Jul 1816. Abt stays. Bef stays. And John BALTZLY/BALSLEY. The slash stays. 13 Oct 1759 to 29 Oct 1814. Old Part of Section D. I will not make them the founder. Schoenbrunn's 1777 closing stays two miles south-east. I will not move that closing here.",
+  long: "",
+  names: ["New Philadelphia"]
+},
+{
+  id: "new-philadelphia-great-city",
+  name: "Perhaps a great city",
+  lat: 40.49167,
+  lng: -81.4434,
+  radius: 40,
+  short: "The Charles H. Knisely paper says he chose the site because he liked to hunt. In the autumn of 1803 he and his son Samuel went on a deer hunting trip into the Ohio Country. Autumn stays. The description says they crossed the Ohio River just about where Steubenville is now. About stays. Steubenville stays where it is. The transcript says a plateau in the bend of the river would make a beautiful site for a town, and perhaps, as he hoped, a great city. Perhaps stays. As he hoped stays. I will not turn perhaps into a fact. The transcript says he and David Zeisberger because good friends, until Zeisberger's death in 1818. Because stays. I will not repair it. Samuel remained at the Schoenbrunn Mission the winter the transcript prints as 1803-18GU. 18GU stays. Schoenbrunn stays two miles south-east. I will not move it. The industrial page says four years passed and only four cabins had been raised. Four stays. Dover was thrifty, and it threatened to capture the county government. Dover stays next door. I will not move Dover. Tuscora Park stays on the guide. It opened 01 Jun 1907. A crowd of over 1,000. Over stays. I have no printed point for that park. I will not invent the gate. There is no city battle on these pages. I will not invent one. The next place is New Pittsburg.",
+  long: "",
+  names: ["New Philadelphia"]
+},
 
 
 

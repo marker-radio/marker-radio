@@ -5855,6 +5855,504 @@ STORIES.push(
   names: ["Petersburg Cemetery", "St. John's Cemetery"]
 },
 
+{
+  id: "pheasant-run-approach",
+  name: "Pheasant Run",
+  lat: 41.195,
+  lng: -82.16,
+  radius: 2500,
+  layer: "approach",
+  short: "You are arriving at Pheasant Run. The first story is the name. This pin is only an offset so the arrival fires first. It is not a survey point.",
+  long: "",
+  names: ["Pheasant Run"]
+},
+{
+  id: "pheasant-run-name",
+  name: "The name",
+  lat: 41.20722,
+  lng: -82.14806,
+  radius: 40,
+  short: "The name comes first. This pin is the decimal Wikipedia prints, 41.20722 and -82.14806. That page also prints 41 degrees 12 minutes 26 seconds north and 82 degrees 8 minutes 53 seconds west. I will not extend those seconds. It prints elevation 833 ft (254 m), population 1,362 in 2020, density 1,458.8, area code 440, and GNIS 2633217. No ZIP is printed. I will not invent one. The infobox prints 0.97 square miles (2.51 square kilometers), land 0.93 (2.42), and water 0.035 (0.09). The geography section prints 0.970, land 0.934, and water 0.036 (0.093). I will not average those. An older page prints population 1,397 in 2010 and density 1,400. A survey range printed as 2020 to 2024 prints 1,258. I will not average those counts. The list says unincorporated. The page says an unincorporated community and a census-designated place. A record says it is without an official federally recognized name, and that it is not a legal entity. Without stays. Not stays. The township is printed as LaGrange and as Lagrange. I will not average the spellings. The place file prints 41.211352 and -82.145523. A census point prints N41.207210 and W82.148087. A populated place called Pheasant Run Village prints N41.206164 and W82.153208. I will not stack those pairs, and I will not average village and census-designated place. La Grange Cemetery stays at N41.238101 and W82.125979. I will not move it here. Wellington stays the map name. Penfield stays. Pittsfield stays. I will not move them. No page prints a story for the name. I will not invent one.",
+  long: "",
+  names: ["Pheasant Run"]
+},
+{
+  id: "pheasant-run-airport",
+  name: "Pheasant Run Airport",
+  lat: 41.211442,
+  lng: -82.153764,
+  radius: 40,
+  short: "This pin is Pheasant Run Airport, N41.211442 and W82.153764. The map says it is historical. Historical stays. I will not invent a building. No page prints a birth and a death. I will not invent a life. No page names a nation here. I will not invent one. No page prints a battle. I will not invent one. The next place is Phillipsburg.",
+  long: "",
+  names: ["Pheasant Run Airport"]
+},
+
+{
+  id: "phillipsburg-approach",
+  name: "Phillipsburg",
+  lat: 39.92,
+  lng: -84.402,
+  radius: 2500,
+  layer: "approach",
+  short: "You are arriving at Phillipsburg. The first story is the name. This pin is only an offset so the arrival fires first. It is not a survey point.",
+  long: "",
+  names: ["Phillipsburg"]
+},
+{
+  id: "phillipsburg-name",
+  name: "The name",
+  lat: 39.90389,
+  lng: -84.40111,
+  radius: 40,
+  short: "The name comes first. This pin is the decimal Wikipedia prints, 39.90389 and -84.40111. That page also prints 39 degrees 54 minutes 14 seconds north and 84 degrees 24 minutes 4 seconds west. I will not extend those seconds. It prints elevation 1,034 ft (315 m), population 498 in 2020, ZIP 45354, area codes 937 and 326, FIPS 39-62414, and GNIS 2399662. I will not average the area codes. The area is 0.27 square miles (0.70 square kilometers), all land. The place file prints 39.903957 and -84.400980. I will not stack that pair. A page says approximately 20 miles northwest of Dayton. Approximately stays. I will not move Dayton. It was platted in 1836 and named for Philip Studybaker. One page says a member of the town company. Another says proprietor. I will not average those words, and I will not invent his years. James Hanks is printed as the surveyor. I will not invent his years. A post office was established as Centre in 1848, changed to Center in 1893, and changed to Phillipsburg in 1903. I will not average Centre and Center. A village page skips Center and prints the paragraph twice. I will not make that two foundings. It was incorporated in 1899. Officially stays. Unspecified stays. I will not invent the day. State Route 49 bisects the village. Bisects stays. Interstate 70 stays 4 miles south. I will not move it. The airport is printed on the Northeast edge, opened in 1949, and remains active to this day. Northeast stays capitalized. To this day stays. I will not invent its door. A village page says Jesse Haines was born here. Another page says he was raised here. I will not average born and raised, and I will not invent his years. St. Louis stays. I will not move it. Clay Township stays. What is now stays. Peaceful stays. Close-knit stays.",
+  long: "",
+  names: ["Phillipsburg", "Centre", "Center"]
+},
+{
+  id: "phillipsburg-cemetery",
+  name: "Phillipsburg Christian Cemetery",
+  lat: 39.90682,
+  lng: -84.40269,
+  radius: 40,
+  short: "This pin is Phillipsburg Christian Cemetery, 39.90682 and -84.40269. It is also known as Grace Baptist Cemetery and as Liberty Baptist Church Cemetery. I will not average those names. No page names a nation here. I will not invent one. No page prints a battle. I will not invent one. The next place is Philo.",
+  long: "",
+  names: ["Phillipsburg Christian Cemetery", "Grace Baptist Cemetery", "Liberty Baptist Church Cemetery"]
+},
+{
+  id: "philo-approach",
+  name: "Philo",
+  lat: 39.845,
+  lng: -81.925,
+  radius: 2500,
+  layer: "approach",
+  short: "You are arriving at Philo. The first story is the name. This pin is only an offset so the arrival fires first. It is not a survey point.",
+  long: "",
+  names: ["Philo"]
+},
+{
+  id: "philo-name",
+  name: "The name",
+  lat: 39.86139,
+  lng: -81.90889,
+  radius: 40,
+  short: "The name comes first. This pin is the decimal Wikipedia prints, 39.86139 and -81.90889. That page also prints 39 degrees 51 minutes 41 seconds north and 81 degrees 54 minutes 32 seconds west. I will not extend those seconds. It prints elevation 755 ft (230 m), population 720 in 2020, ZIP 43771, area code 740, FIPS 39-62442, and GNIS 2399665. One line prints 0.42 square miles (1.09 square kilometers), all land. Another prints 0.51 square miles (1.33 square kilometers). I will not average those. A 2010 count prints 733. I will not average 733 and 720. The place file prints 39.861312 and -81.908796. I will not stack that pair. It is along the Muskingum River. Zanesville stays. I will not move it. It is the closest municipality to Blue Rock State Park. Closest stays. I will not move the park. An old variant was Taylorsville, laid out in 1833 by James Taylor and named for him. Old stays. A post office called Philo has been in operation since 1851. I will not average 1833 and 1851. The present name is for Philo Buckingham, an early settler. Present stays. Early stays. I will not merge him with James Taylor, and I will not invent their years. Duncan Falls stays on the other side of the river. Other side stays. Now known stays. I will not move it. A page says the Shawnee story is at the falls. Reportedly stays. According to legend stays. I will not move that story here. The previous bridge stays a caption. Previous stays. I will not invent its door. The power plant ran from 1924 to 1975. I will not average those years. Unit 6 in 1957 is printed as the first commercial unit of its kind in the world. First stays. In the world stays. Today the rotors are a sculpture in Columbus. Today stays. I will not move Columbus, and I will not invent the plant's door.",
+  long: "",
+  names: ["Philo", "Taylorsville"]
+},
+{
+  id: "philo-cemetery",
+  name: "Philo Cemetery",
+  lat: 39.85895,
+  lng: -81.91319,
+  radius: 40,
+  short: "This pin is Philo Cemetery, 39.85895 and -81.91319. A list says Philo is 0.4 miles to the east-northeast. I will not move the village onto this pin. Duncan Falls stays 0.9 miles off. I will not move it. Roseville is printed twice. I will not erase the second line. Norwich stays. I will not move it. No page prints a birth and a death. I will not invent a life. No page prints a battle in this village. I will not invent one. The next place is Pigeon Creek.",
+  long: "",
+  names: ["Philo Cemetery"]
+},
+
+{
+  id: "pigeon-creek-approach",
+  name: "Pigeon Creek",
+  lat: 41.125,
+  lng: -81.672,
+  radius: 2500,
+  layer: "approach",
+  short: "You are arriving at Pigeon Creek. The first story is the name. This pin is only an offset so the arrival fires first. It is not a survey point.",
+  long: "",
+  names: ["Pigeon Creek"]
+},
+{
+  id: "pigeon-creek-name",
+  name: "The name",
+  lat: 41.11,
+  lng: -81.67222,
+  radius: 40,
+  short: "The name comes first. This pin is the decimal Wikipedia prints, 41.11000 and -81.67222. That page also prints 41 degrees 6 minutes 36 seconds north and 81 degrees 40 minutes 20 seconds west. I will not extend those seconds. It prints elevation 1,037 ft (316 m), population 886 in 2020, density 990.3, FIPS 39-62578, and GNIS 2393184. No ZIP is printed. I will not invent one. The infobox prints 0.90 square miles (2.32 square kilometers) and water 0. The geography section prints 0.9 square miles (2.3 square kilometers), all land. I will not average 0.90 and 0.9, or 2.32 and 2.3. The census prints 1,008 in 1990, 945 in 2000, 882 in 2010, and 886 in 2020. I will not average those rows. The 2000 line also prints 322 households and 285 families. I will not average people and households. The list says unincorporated. The page says a census-designated place. A name record says an unincorporated place, number 1867464, and it prints 41.1108881 and -81.6729036, and 41 degrees 6 minutes 39.20 seconds north and 81 degrees 40 minutes 22.45 seconds west. I will not average those seconds with 36 and 20, and I will not stack that pair. The place file prints 41.110123 and -81.672235. I will not stack that pair. Akron stays the metropolitan area. I will not move it. Wadsworth stays the map name. I will not move it. Norton stays. I will not move it. The page also names a stream that receives water from Schocalog Run and flows into Wolf Creek, a tributary of the Tuscarawas river. Also stays. The lowercase word stays. I will not invent the stream's mouth, and I will not average the stream and the place. The record's entry date is May 15, 2000. I will not call that a founding. No page prints a birth and a death. I will not invent a life. No cemetery is printed with a point. I will not invent one. No page names a nation. I will not invent one. No page prints a battle. I will not invent one. No page tells a story about the name. I will not invent one. The next place is Piketon.",
+  long: "",
+  names: ["Pigeon Creek"]
+},
+
+{
+  id: "piketon-approach",
+  name: "Piketon",
+  lat: 39.07,
+  lng: -83.014,
+  radius: 2500,
+  layer: "approach",
+  short: "You are arriving at Piketon. The first story is the name. This pin is only an offset so the arrival fires first. It is not a survey point.",
+  long: "",
+  names: ["Piketon"]
+},
+{
+  id: "piketon-name",
+  name: "The name",
+  lat: 39.06417,
+  lng: -83.01111,
+  radius: 40,
+  short: "The name comes first. This pin is the decimal Wikipedia prints, 39.06417 and -83.01111. That page also prints 39 degrees 3 minutes 51 seconds north and 83 degrees 0 minutes 40 seconds west. I will not extend those seconds. It prints elevation 581 ft (177 m), population 2,111 in 2020, ZIP 45661, area code 740, FIPS 39-62708, and GNIS 2399673. The area is 2.57 square miles (6.65 square kilometers), land 2.51 (6.51), and water 0.054 (0.14). The place file prints 39.065950 and -82.997131. I will not stack that pair. It is along the Scioto River. A book says the east bank, about one-fourth of a mile, above high water. About stays. Above stays. The book prints the word teh. I will not repair it. The history section says it does not cite sources. Unsourced stays. It was originally called Jefferson. A book says it was platted in 1814 and named after Thomas Jefferson, and that one year later the hamlet was called Piketon. One year later stays. I will not average 1814 and 1815. It was the county seat from 1815 to 1845. Waverly stays. I will not move it. Then-new stays the canal. Closer stays. A page says it was rumored that the canal was pushed to the opposite side of the river. Rumored stays. Opposite stays. I will not state the rumor as a fact. A deed is printed on the 12th of May, 1815, for $870, and the book prints his Indention. I will not repair it. The survey was recorded on the 17th of May, 1815. I will not average those days. A settlement is printed near the present location in 1796. Near stays. Present stays. Judge Reed is credited as the first settler after the survey. Credited stays. After stays. I will not invent his years. Robert Lucas built Friendly Grove around 1824, two miles east. Around stays. Two miles stays. I will not invent the door, and I will not invent his years. Iowa stays. I will not move it. The plant is printed as located there, one of only three. Only stays. I will not invent its door. Beaver stays third. I will not move it.",
+  long: "",
+  names: ["Piketon", "Jefferson"]
+},
+{
+  id: "piketon-mounds",
+  name: "Piketon Mounds",
+  lat: 39.05111,
+  lng: -83.01944,
+  radius: 40,
+  short: "This pin is the decimal the mounds page prints, 39.05111 and -83.01944. That page also prints 39 degrees 3 minutes 4 seconds north and 83 degrees 1 minute 10 seconds west. I will not extend those seconds. It is also called Graded Way. Also stays. One line says Mound Cemetery, south of Piketon. South stays. Another line says the site is located in Piketon. I will not average south of and in. The area is 3 acres. I will not average that with the village. It was added on May 2, 1974. The age is unknown. Unknown stays. Some mounds are printed as Adena and others as Hopewell. Some stays. Other stays. As of 1848 stays. Today stays. Three mounds are printed from two feet to five feet, and the largest is 25 feet high. I will not average those heights. A sentence says one was reported of housing a girl wrapped in bark. Reported stays. I will not repair of housing. A county page says the Shawnee made their homes in southern Ohio. I will not move a village of theirs here. No page prints a battle. I will not invent one. The next place is Pitsburg.",
+  long: "",
+  names: ["Piketon Mounds", "Graded Way", "Mound Cemetery"]
+},
+
+{
+  id: "pitsburg-approach",
+  name: "Pitsburg",
+  lat: 40,
+  lng: -84.488,
+  radius: 2500,
+  layer: "approach",
+  short: "You are arriving at Pitsburg. The first story is the name. This pin is only an offset so the arrival fires first. It is not a survey point.",
+  long: "",
+  names: ["Pitsburg"]
+},
+{
+  id: "pitsburg-name",
+  name: "The name",
+  lat: 39.98722,
+  lng: -84.48778,
+  radius: 40,
+  short: "The name comes first. This pin is the decimal Wikipedia prints, 39.98722 and -84.48778. That page also prints 39 degrees 59 minutes 14 seconds north and 84 degrees 29 minutes 16 seconds west. I will not extend those seconds. It prints elevation 1,024 ft (312 m), population 381 in 2020, ZIP 45358, area codes 937 and 326, FIPS 39-62890, and GNIS 2399680. I will not average the area codes. A geography line prints 0.19 square miles (0.49 square kilometers), all land. Another line prints 0.17 square miles (0.44 square kilometers). I will not average those. A map prints 39.987551 and -84.4874508, an approximate elevation of 1,024 feet, and the feature type city. Approximate stays. I will not average village and city, and I will not stack that pair. The place file prints 39.987156 and -84.487830. I will not stack that pair. It was founded as Arnettsville in the 19th century. The quotes stay. It languished. An 1880 line prints liv[ing] only in name and story. The brackets stay. Another line prints Pittsburg, and lives only in name and story, and the ravages of time. I will not average Pitsburg and Pittsburg, or liv[ing] and lives. A page says the name was officially changed in 1909. Officially stays. Several years stays. Variably stays. By 1914 the village had a school, a church, and over two hundred residents. Over stays. The census prints 157 in 1900 and 240 in 1910. I will not average those with over two hundred. Sections 7 and 12 stay. Nominal stays. However stays. Laura stays the map name. I will not move it. Arcanum stays. Gordon stays. Greenville stays. I will not move the treaty here. A page says Native American-held lands. I will not name a nation the page does not name, and I will not invent a battle. Jefferson Street is a caption. I will not invent a door, and I will not move the other Jefferson. No page prints a birth and a death. I will not invent a life. No cemetery is printed with a point. I will not invent one. The next place is Plain City.",
+  long: "",
+  names: ["Pitsburg", "Arnettsville", "Pittsburg"]
+},
+
+{
+  id: "plain-city-approach",
+  name: "Plain City",
+  lat: 40.112,
+  lng: -83.258,
+  radius: 2500,
+  layer: "approach",
+  short: "You are arriving at Plain City. The first story is the name. This pin is only an offset so the arrival fires first. It is not a survey point.",
+  long: "",
+  names: ["Plain City"]
+},
+{
+  id: "plain-city-name",
+  name: "The name",
+  lat: 40.107778,
+  lng: -83.263889,
+  radius: 40,
+  short: "The name comes first. This pin is the conversion of the degrees Wikipedia prints, 40 degrees 6 minutes 28 seconds north and 83 degrees 15 minutes 50 seconds west. I will not extend those seconds. It prints elevation 932 ft (284 m), population 4,065 in 2020, ZIP 43064, FIPS 39-63030, and GNIS 2399682. The area is 2.78 square miles (7.20 square kilometers), land 2.75 (7.13), water 0.027 (0.07), and 1.2 percent. The place file prints 40.105705 and -83.274669. A populated place prints N40.107562 and W83.267416. I will not stack those pairs. It is in Madison County and Union County, along the Big Darby Creek. I will not move either county. Until about 1800 stays. The page names the Mingo and the Wyandot, and an Indian village just north of the present-day place. Just north stays. Present-day stays. I will not invent that village's door. A page says the creek is named after Chief Darby of the Wyandot. I will not invent his years. After 1795 the area was called Pleasant Valley, and that name remained into the late Depression years. Remained stays. Late stays. Isaac Bigelow travelled from Centre County in 1814, returned in 1817, and settled in 1818. Travelled stays. I will not average those years, and I will not invent his birth. A page says he died in 1857. I will not merge that with the naming. Westminster was laid out on June 11, 1818. A page calls that the official date of incorporation. Official stays. Another page says it was incorporated in 1839. I will not average those. Another page prints July 8. I will not average July 8 and June 11. Wholly stays. The county line was moved to the middle in 1820. Middle stays. In 1823 the name became Pleasant Valley. In 1851 it became Plain City because another town already had the name. Already stays. A page prints a petition in 1877. I will not average 1851 and 1877. Six additions stay. A trunk-line stays. Boomed stays. But stays. Slow stays. An Amish settlement was founded in 1896 and dissolved in 2011. I will not average those years. A first train is printed as July 4, 1853. I will not average that day with the 1850s. Jonathan Alder is printed as captured in 1782. Youth stays. Later stays. I will not invent the rest of his life. Pennsylvania stays. I will not move it.",
+  long: "",
+  names: ["Plain City", "Westminster", "Pleasant Valley"]
+},
+{
+  id: "plain-city-cemetery",
+  name: "Forest Grove Cemetery",
+  lat: 40.093951,
+  lng: -83.252694,
+  radius: 40,
+  short: "This pin is Forest Grove Cemetery, N40.093951 and W83.252694, elevation 912 ft. I will not average 912 and 932. The map name is Plain City. Finch Cemetery stays 1.7 miles off. I will not move it. The elementary school stays at N40.108950 and W83.270472. I will not stack it on the name, and I will not invent a mill's door. A fire district still prints the name Pleasant Valley. I will not decide that it is the old town. A historical airport stays historical. No page prints a battle. I will not invent one. The next place is Plainfield.",
+  long: "",
+  names: ["Forest Grove Cemetery"]
+},
+
+{
+  id: "plainfield-approach",
+  name: "Plainfield",
+  lat: 40.22,
+  lng: -81.72,
+  radius: 2500,
+  layer: "approach",
+  short: "You are arriving at Plainfield. The first story is the name. This pin is only an offset so the arrival fires first. It is not a survey point.",
+  long: "",
+  names: ["Plainfield"]
+},
+{
+  id: "plainfield-name",
+  name: "The name",
+  lat: 40.205,
+  lng: -81.71806,
+  radius: 40,
+  short: "The name comes first. This pin is the decimal Wikipedia prints, 40.20500 and -81.71806. That page also prints 40 degrees 12 minutes 18 seconds north and 81 degrees 43 minutes 5 seconds west. I will not extend those seconds. It prints elevation 791 ft (241 m), population 141 in 2020, density 359.6, ZIP 43836, area code 740, FIPS 39-63044, and GNIS 2399683. The mayor is printed as Michael LaVigne. I will not invent his years. The infobox prints 0.39 square miles (1.02 square kilometers) and water 0. The geography section prints 0.41 square miles (1.06 square kilometers), all land. I will not average those. The census prints 30 in 1860 and then 300 in 1880, with a dash between them. I will not invent the missing year. A 2019 estimate prints 157. The 2010 census also prints 157. I will not average those lines with 141. The place file prints 40.205097 and -81.718175. I will not stack that pair. Another page prints 40 degrees 11 minutes 55 seconds north and 81 degrees 38 minutes 11 seconds west. I will not average that pair, and I will not move the village to it. It is along Wills Creek. Linton Township stays. It was laid out in 1816 and named from its setting upon the plains. Upon stays. A page says it was formally laid out on October 10, 1816, by Thomas Johnson, and that it was initially called Jacobsport. Formally stays. Initially stays. Contrasting stays. I will not average upon and contrasting. A page says it does not have a founding date, and that you might consider a post office in 1819. Might stays. So far stays. I will not average 1816 and 1819. By 1833 there was one store and one tavern. By stays. It was incorporated in 1878. A house is captioned the Thomas Johnson House. I will not invent its door, and I will not invent his years. A page says residents frequently use Plainfielder, and that others may use something different. Frequently stays. May stays. Informal stays. Plain City stays. I will not move it.",
+  long: "",
+  names: ["Plainfield", "Jacobsport"]
+},
+{
+  id: "plainfield-cemetery",
+  name: "Plainfield Cemetery",
+  lat: 40.2075,
+  lng: -81.7218,
+  radius: 40,
+  short: "This pin is the marker's pair, 40 degrees 12.45 minutes north and 81 degrees 43.308 minutes west. I will not turn those minutes into invented seconds. It is on Jacobsport Drive, and the address also prints 111 Church Street. I will not average the two locations. A gift is printed in the early 1800's. The apostrophe stays. Early stays. It came to be known as Johnson Cemetery and was later changed to Plainfield Cemetery. Later stays. A page says the cemetery was founded in 1810. I will not average 1810 and the early 1800's. William is printed as the first son and the first buried. I will not invent his years. Many who gave their lives nobly stays. Nobly stays. I will not invent the war. The marker was erected in 2011. I will not average that with a photograph dated November 26, 2025. A page names men as Revolutionary War veterans, and the word is like. Like stays. I will not invent their years or a battle. No page names a nation here. I will not invent one. The next place is Plainville.",
+  long: "",
+  names: ["Plainfield Cemetery", "Johnson Cemetery"]
+},
+
+{
+  id: "plainville-approach",
+  name: "Plainville",
+  lat: 39.155,
+  lng: -84.359,
+  radius: 2500,
+  layer: "approach",
+  short: "You are arriving at Plainville. The first story is the name. This pin is only an offset so the arrival fires first. It is not a survey point.",
+  long: "",
+  names: ["Plainville"]
+},
+{
+  id: "plainville-name",
+  name: "The name",
+  lat: 39.14389,
+  lng: -84.35917,
+  radius: 40,
+  short: "The name comes first. This pin is the decimal Wikipedia prints, 39.14389 and -84.35917. That page also prints 39 degrees 8 minutes 38 seconds north and 84 degrees 21 minutes 33 seconds west. I will not extend those seconds. It prints elevation 509 ft (155 m), population 120 in 2020, density 1,318.68, 67 housing units, FIPS 39-63072, and GNIS 2585519. No ZIP is printed. I will not invent one. One area line prints 0.077 square miles (0.2 square kilometers), all land. Another prints 0.093 square miles (0.24 square kilometers). An older page prints 0.08 and water 0. I will not average those. An older page prints 39 degrees 8 minutes 31 seconds north and 84 degrees 21 minutes 35 seconds west, elevation 499 ft (152 m), population 87 in 2010, density 1,100, and GNIS 1056477. I will not average 87 and 120, or the two GNIS numbers, and I will not stack that pair. It also prints 100 percent Caucasian and 89.7 percent over the age of 18. Over stays. I will not average Caucasian and White. The 2020 census prints 95.8 percent White and 0.0 percent Native American. I will not erase the zero, and I will not turn it into a history. A map prints a rounded pair, 39.14 and -84.35, and elevation 498 feet, and the mark after 498 stays. A page prints 490 feet and 149 meters in brackets. The brackets stay. I will not average 509, 499, 498, and 490. The place file prints 39.143837 and -84.359299. I will not stack that pair. The list says unincorporated. The page says a census-designated place. It is in a valley on the banks of the Little Miami, opposite Newtown, and adjacent to Mariemont and Indian Hill. Opposite stays. Adjacent stays. I will not move them. Cincinnati stays. Columbia Township stays. Madeira stays the map name. I will not move it. Many structures are from the 19th century. Many stays. The old school was built in 1910 and closed in 1957, and it still stands. Still stands stays. Now stays. I will not invent its door. A page says it does not have a founding date, and that you might consider a post office that opened in 1838 and closed in 1957. Might stays. So far stays. I will not average the two closings in 1957, and I will not average 1838 with 1910. No page prints a birth and a death. I will not invent a life. No cemetery is printed with a point. I will not invent one. No page names a nation. I will not invent one. No page prints a battle. I will not invent one. Plainfield stays. I will not move it. The next place is Pleasant City.",
+  long: "",
+  names: ["Plainville"]
+},
+
+{
+  id: "pleasant-city-approach",
+  name: "Pleasant City",
+  lat: 39.92,
+  lng: -81.538,
+  radius: 2500,
+  layer: "approach",
+  short: "You are arriving at Pleasant City. The first story is the name. This pin is only an offset so the arrival fires first. It is not a survey point.",
+  long: "",
+  names: ["Pleasant City"]
+},
+{
+  id: "pleasant-city-name",
+  name: "The name",
+  lat: 39.90333,
+  lng: -81.54389,
+  radius: 40,
+  short: "The name comes first. This pin is the decimal Wikipedia prints, 39.90333 and -81.54389. That page also prints 39 degrees 54 minutes 12 seconds north and 81 degrees 32 minutes 38 seconds west. I will not extend those seconds. It prints elevation 837 ft (255 m), population 400 in 2020, density 2,267.6, ZIP 43772, area code 740, FIPS 39-63436, and GNIS 2399689. The infobox prints 0.18 square miles (0.46 square kilometers) and water 0. The geography section prints 0.18 square miles (0.47 square kilometers), all land. I will not average 0.46 and 0.47. The census prints 1,006 in 1900 and 447 in 2010. I will not average those with 400. The place file prints 39.903274 and -81.543808. I will not stack that pair. It was originally called Point Pleasant, and under the latter name was platted in 1829. Latter stays. A page says Benjamin Wilson platted it on July 24, 1829, on land owned by Joseph Dyson, at the junction of the Beaver and Seneca forks of Wills Creek. Another page says Joseph Dyson laid it out on August 29, 1836. I will not average the men or the dates. Plainfield stays on Wills Creek. I will not move it. Lots were four rods by ten rods. Main street was only a country road straightened and widened. Only stays. The lowercase word stays. Presumably stays. Shoulder stays. Thought stays. But little stays. A mill was first run by water and later by both water and steam. Later stays. I will not invent its door. A page cuts a name after Harrison. I will not finish it. A page cuts a name after Mt. I will not finish it. Nearly all the settlers came from the Shenandoah valley. Nearly stays. The lowercase word stays. I will not move Virginia. There being a Point Pleasant post office in Clermont County, the office here was named Dyson. There being stays. I will not move that Point Pleasant. Both names gave way in 1887. Both stays. It was incorporated in 1896. I will not average 1887 and 1896. Fairview has never become part of the corporation. Never stays. West stays. I will not move it. Cumberland stays nearby. Nearby stays. I will not move it. A page says many families were of Scots-Irish descent. Many stays. I will not invent a nation, and I will not invent their years.",
+  long: "",
+  names: ["Pleasant City", "Point Pleasant", "Dyson"]
+},
+{
+  id: "pleasant-city-cemetery",
+  name: "Pleasant City Cemetery",
+  lat: 39.9097,
+  lng: -81.53306,
+  radius: 40,
+  short: "This pin is Pleasant City Cemetery, 39.90970 and -81.53306, also known as Pleasant City Protestant Cemetery, on the southeast corner of Pleasant Road and Kackley Road. A book prints the number 4468. The cemetery's name record is 1963739. I will not average that with the village's number. The James Albin family is printed just north of town, and the Jackson family just south. Just stays. I will not invent their years or move them onto this pin. No page prints a battle. I will not invent one. The next place is Pleasant Grove.",
+  long: "",
+  names: ["Pleasant City Cemetery", "Pleasant City Protestant Cemetery"]
+},
+
+{
+  id: "pleasant-grove-approach",
+  name: "Pleasant Grove",
+  lat: 39.968,
+  lng: -81.959,
+  radius: 2500,
+  layer: "approach",
+  short: "You are arriving at Pleasant Grove. The first story is the name. This pin is only an offset so the arrival fires first. It is not a survey point.",
+  long: "",
+  names: ["Pleasant Grove"]
+},
+{
+  id: "pleasant-grove-name",
+  name: "The name",
+  lat: 39.95111,
+  lng: -81.95944,
+  radius: 40,
+  short: "The name comes first. This pin is the decimal Wikipedia prints, 39.95111 and -81.95944. That page also prints 39 degrees 57 minutes 4 seconds north and 81 degrees 57 minutes 34 seconds west. I will not extend those seconds. It prints elevation 951 ft (290 m), population 1,726 in 2020, ZIP 43701, and the parentheses say Zanesville. I will not move Zanesville onto this pin. FIPS is 39-63478. GNIS is 2393189. The infobox prints 3.22 square miles (8.35 square kilometers), land 3.22 (8.33), and water 0.0077 (0.02). The geography section prints 3.2 square miles (8.3 square kilometers), water 0.01 (0.03), or 0.22 percent. I will not average those. The list says unincorporated. The page says an unincorporated community and a census-designated place. A name record prints 1049090, and 39.9520127 and -81.9590239, and 39 degrees 57 minutes 7.25 seconds north and 81 degrees 57 minutes 32.49 seconds west. I will not average 4 seconds and 7.25 seconds, and I will not stack that pair. The place file prints 39.951989 and -81.957312. I will not stack that pair. It is close to the center of the county, at the southern end of the township. Close stays. Southern end stays. Wayne Township stays south. Zanesville stays southwest. I will not move it. Interstate 70 runs across the center. Center stays. Routes 40 and 22 run concurrently as East Pike, south of the interstate. Concurrently stays. South stays. New Concord stays 12 miles east. Adamsville stays 10 miles north. I will not move them. Philo stays. Duncan Falls stays. Pleasant City stays. I will not move them. The record's entry date is July 12, 1979. I will not call that a founding. No page prints a plat. I will not invent one. No page prints a birth and a death. I will not invent a life. No page names a nation. I will not invent one. No page prints a battle. I will not invent one. No page tells a story about the name. I will not invent one.",
+  long: "",
+  names: ["Pleasant Grove"]
+},
+{
+  id: "pleasant-grove-cemetery",
+  name: "Pleasant Grove Cemetery",
+  lat: 39.951172,
+  lng: -81.960687,
+  radius: 40,
+  short: "This pin is Pleasant Grove Cemetery, N39.951172 and W81.960687, elevation 938 ft. I will not average 938 and 951. The map name is Zanesville East. I will not move Zanesville. The next place is Pleasant Hill.",
+  long: "",
+  names: ["Pleasant Grove Cemetery"]
+},
+
+{
+  id: "pleasant-hill-approach",
+  name: "Pleasant Hill",
+  lat: 40.065,
+  lng: -84.345,
+  radius: 2500,
+  layer: "approach",
+  short: "You are arriving at Pleasant Hill. The first story is the name. This pin is only an offset so the arrival fires first. It is not a survey point.",
+  long: "",
+  names: ["Pleasant Hill"]
+},
+{
+  id: "pleasant-hill-name",
+  name: "The name",
+  lat: 40.05056,
+  lng: -84.34611,
+  radius: 40,
+  short: "The name comes first. This pin is the decimal Wikipedia prints, 40.05056 and -84.34611. That page also prints 40 degrees 3 minutes 2 seconds north and 84 degrees 20 minutes 46 seconds west. I will not extend those seconds. It prints elevation 925 ft (282 m), population 1,241 in 2020, density 1,973, ZIP 45359, area codes 937 and 326, FIPS 39-63534, and GNIS 2399691. I will not average the area codes. The infobox prints 0.63 square miles (1.63 square kilometers). The geography section prints 0.61 square miles (1.58 square kilometers), all land. A page says less than one square mile. Less than stays. I will not average those. A village page prints 40 degrees 3 minutes 9 seconds north and 84 degrees 20 minutes 42 seconds west, and also 40.052427 and -84.344878. I will not average those pairs, and I will not stack them. The place file prints 40.050624 and -84.346185. I will not stack that pair. Dayton stays. I will not move it. It was originally called Newton, and under the latter name was platted in 1843. Latter stays. A post office has been in operation since 1839, although it was originally about one mile away. Although stays. About stays. A page says one mile south, on a hill, and therefore the name. Therefore stays. I will not average about one mile and one mile. The lowercase this stays. It was established in 1866 and incorporated in 1866. I will not average those two words. A page says over 150 years ago. Over stays. A page says the first house was built in the new town was a small frame. I will not repair the second was. Flourishing stays. As early as 1837 stays. But stays. In the County stays the capital. A page says David Patty arrived became a physician in 1820 and continued for twenty years. I will not repair arrived became, and I will not invent his birth or his death. A mill is printed near a bridge. Near stays. I will not invent its door. A density line prints the word as. I will not repair it. The 2010 count is printed as 1,200 and as 1200. I will not average the comma. Newton Township stays. Pleasant Hills stays. I will not move it.",
+  long: "",
+  names: ["Pleasant Hill", "Newton"]
+},
+{
+  id: "pleasant-hill-monument",
+  name: "The monument",
+  lat: 40.05185,
+  lng: -84.34415,
+  radius: 40,
+  short: "This pin is the marker's pair, 40 degrees 3.111 minutes north and 84 degrees 20.649 minutes west. I will not turn those minutes into invented seconds. It is in the median. Median stays. A page says the middle of town. Middle stays. I will not average median and middle. The page breaks between Monument Street and Route 718. I will not repair the break. The address also prints 2 North Main Street. The stone says defence. I will not correct it. It says 1861 - 1865, with the spaces. It was erected in 1895. One line prints Post No 369. Another prints Post #369. I will not average those. It says her fallen heroes sleep in unknown graves. Sleep stays. Unknown stays. I will not invent the graves, and I will not invent a battle beyond the stone. One line prints O.V.R. and others print O.V.I. I will not average them. No cemetery is printed with a separate point. I will not invent one. No page names a nation. I will not invent one. The next place is Pleasant Hills.",
+  long: "",
+  names: ["Newton Township Civil War Memorial"]
+},
+
+{
+  id: "pleasant-hills-approach",
+  name: "Pleasant Hills",
+  lat: 39.25,
+  lng: -84.523,
+  radius: 2500,
+  layer: "approach",
+  short: "You are arriving at Pleasant Hills. The first story is the name. This pin is only an offset so the arrival fires first. It is not a survey point.",
+  long: "",
+  names: ["Pleasant Hills"]
+},
+{
+  id: "pleasant-hills-name",
+  name: "The name",
+  lat: 39.23639,
+  lng: -84.52278,
+  radius: 40,
+  short: "The name comes first. This pin is the decimal Wikipedia prints, 39.23639 and -84.52278. That page also prints 39 degrees 14 minutes 11 seconds north and 84 degrees 31 minutes 22 seconds west. I will not extend those seconds. It prints elevation 791 ft (241 m), population 950 in 2020, FIPS 39-63548, and GNIS 2585520. No ZIP is printed. I will not invent one. The infobox prints 0.36 square miles (0.92 square kilometers) and water 0, and density 2,665.0. The geography section prints 0.35 square miles (0.9 square kilometers), all land. The census paragraph prints density 2,668.54. I will not average those. An older page prints 39 degrees 14 minutes 16 seconds north, the same west seconds, elevation 790 ft (240 m), population 606 in 2010, density 1,700, area 0.3, and GNIS 1049093. It also says the page is a stub. Stub stays. I will not average 11 seconds and 16 seconds, or 606 and 950, or the two GNIS numbers, and I will not stack that pair. A name record prints 39.2358910 and -84.5249441, and 39 degrees 14 minutes 9.21 seconds north and 84 degrees 31 minutes 29.80 seconds west. I will not average those seconds, and I will not stack that pair. The place file prints 39.236463 and -84.522857. I will not stack that pair. The list says unincorporated. The page says a census-designated place. It is 11 miles north of downtown Cincinnati. I will not average 11 miles and 18 kilometers, and I will not move Cincinnati. It lies north of Finneytown, between Mount Healthy and Wyoming. Between stays. North stays. I will not move them. Springfield Township stays. The map name is Cincinnati West. I will not move the city onto the map name. The record's entry date is July 12, 1979. I will not call that a founding. Pleasant Hill stays. I will not move it. No page prints a plat. I will not invent one. No page prints a birth and a death. I will not invent a life. No cemetery is printed with a point. I will not invent one. No page names a nation. I will not invent one. No page prints a battle. I will not invent one. No page tells a story about the name. I will not invent one. The next place is Pleasant Plain.",
+  long: "",
+  names: ["Pleasant Hills"]
+},
+
+{
+  id: "pleasant-plain-approach",
+  name: "Pleasant Plain",
+  lat: 39.292,
+  lng: -84.112,
+  radius: 2500,
+  layer: "approach",
+  short: "You are arriving at Pleasant Plain. The first story is the name. This pin is only an offset so the arrival fires first. It is not a survey point.",
+  long: "",
+  names: ["Pleasant Plain"]
+},
+{
+  id: "pleasant-plain-name",
+  name: "The name",
+  lat: 39.27833,
+  lng: -84.11222,
+  radius: 40,
+  short: "The name comes first. This pin is the decimal Wikipedia prints, 39.27833 and -84.11222. That page also prints 39 degrees 16 minutes 42 seconds north and 84 degrees 6 minutes 44 seconds west. I will not extend those seconds. It prints elevation 886 ft (270 m), population 129 in 2020, ZIP 45162, area code 513, FIPS 39-63576, and GNIS 2399693. The area is 0.16 square miles (0.41 square kilometers), all land. A map prints an average elevation of 269 meters, a minimum of 258, and a maximum of 279. Average stays. I will not average 270 and 269. The place file prints 39.278433 and -84.112115. I will not stack that pair. It is in Harlan Township. The census prints 151 in 1880 and then a dash until 154 in 1920. I will not invent the missing years. A 2010 line prints 154 people, 58 households, and 42 families. I will not average people and households. A page prints the density was and then stops. I will not finish it. It was originally called New Columbia, and under the latter name was laid out in 1852. Latter stays. The page prints Was founded by Samuel Craig. I will not repair that sentence. A book says he laid it out on November 13, 1852, and named it New Columbia, and that the Legislature changed the name about 1860. About stays. I will not average 1852 and about 1860. An addition is printed on October 2, 1854. On January 23, 1872, Thomas laid out eleven lots. I will not invent his other name. On December 5, 1873, Ira Dudley added seven lots. I will not add eleven and seven, and I will not invent his years. A post office has been in operation since 1851. I will not average 1851 and 1852. The book prints Fox,a with no space. I will not add one. The only steam flouring mill was erected about 1861. Only stays. About stays. Now stays the book's year, 1882. I will not invent the mill's door. The former school is a caption. I will not invent its door. Marietta stays. Cincinnati stays. Chicago stays. Blanchester stays. I will not move them. Pleasant Hills stays. I will not move it. No page prints a birth and a death. I will not invent a life. No cemetery is printed with a point. I will not invent one. No page names a nation. I will not invent one. No page prints a battle. I will not invent one. The next place is Pleasant Run.",
+  long: "",
+  names: ["Pleasant Plain", "New Columbia"]
+},
+
+{
+  id: "pleasant-run-approach",
+  name: "Pleasant Run",
+  lat: 39.31,
+  lng: -84.57,
+  radius: 2500,
+  layer: "approach",
+  short: "You are arriving at Pleasant Run. The first story is the name. This pin is only an offset so the arrival fires first. It is not a survey point.",
+  long: "",
+  names: ["Pleasant Run"]
+},
+{
+  id: "pleasant-run-name",
+  name: "The name",
+  lat: 39.29278,
+  lng: -84.57583,
+  radius: 40,
+  short: "The name comes first. This pin is the decimal Wikipedia prints, 39.29278 and -84.57583. That page also prints 39 degrees 17 minutes 34 seconds north and 84 degrees 34 minutes 33 seconds west. I will not extend those seconds. It prints elevation 873 ft (266 m), population 4,861 in 2020, density 2,346.9, FIPS 39-63604, and GNIS 2393190. No ZIP is printed. I will not invent one. The infobox prints 2.07 square miles (5.36 square kilometers) and water 0. The geography section prints 2.1 square miles (5.4 square kilometers), all land. I will not average those. An older page prints 39 degrees 17 minutes 26 seconds north and 84 degrees 34 minutes 4 seconds west, and also 39.290557 and -84.567860. I will not average those pairs, and I will not stack them. It prints elevation 748 ft (228 m), population 4,953 in 2010, and density 2,400. A 2000 line prints 5,267 people, 1,778 households, and 1,477 families. I will not average 5,267, 4,953, and 4,861. A guide in 1940 calls it a rural village with 39 inhabitants. Rural stays. I will not average 39 and 4,861. The place file prints 39.292694 and -84.575724. I will not stack that pair. A name record prints 1056480, and 39.2997791 and -84.5635567. I will not average that number with 2393190, and I will not stack that pair. The variant is Pleasantrun, with no space. Various edition dates stays. I will not pick one. The list says unincorporated. The page says a census-designated place. It takes its name from a stream. I will not invent the stream's mouth. A post office was established on March 4, 1846, and discontinued on February 15, 1907. I will not average those dates. Mount Healthy stays. I will not move it. Greenhills stays the map name. I will not move it. Colerain stays. Pleasant Run Farm stays to the east, in neighboring Springfield Township. East stays. Neighboring stays. I will not move it. The record's entry date is July 12, 1979. I will not call that a founding. A census line prints 0.40 percent Native American. I will not turn that into a nation. No page prints a birth and a death. I will not invent a life. No cemetery is printed with a point. I will not invent one. No page prints a battle. I will not invent one. Pleasant Plain stays. I will not move it. The next place is Pleasant Run Farm.",
+  long: "",
+  names: ["Pleasant Run", "Pleasantrun"]
+},
+
+{
+  id: "pleasant-run-farm-approach",
+  name: "Pleasant Run Farm",
+  lat: 39.318,
+  lng: -84.549,
+  radius: 2500,
+  layer: "approach",
+  short: "You are arriving at Pleasant Run Farm. The first story is the name. This pin is only an offset so the arrival fires first. It is not a survey point.",
+  long: "",
+  names: ["Pleasant Run Farm"]
+},
+{
+  id: "pleasant-run-farm-name",
+  name: "The name",
+  lat: 39.30167,
+  lng: -84.54944,
+  radius: 40,
+  short: "The name comes first. This pin is the decimal Wikipedia prints, 39.30167 and -84.54944. That page also prints 39 degrees 18 minutes 6 seconds north and 84 degrees 32 minutes 58 seconds west. I will not extend those seconds. It prints elevation 764 ft (233 m), population 4,779 in 2020, FIPS 39-63618, and GNIS 2393191. No ZIP is printed. I will not invent one. One line prints 1.0 square miles (2.7 square kilometers), all land. Another prints 1.06 square miles (2.75 square kilometers). I will not average those. The place file prints 39.301608 and -84.549319. I will not stack that pair. The list says unincorporated. The page says a census-designated place. It is named after Pleasant Run Farms, and the page prints sic. Sic stays. I will not average Farm and Farms. A page puts the word Farms in quotes, as residents know it. As stays. It is northwest of Cincinnati, between Forest Park and Fairfield. Between stays. Northwest stays. I will not move them. Pleasant Run stays to the west, in neighboring Colerain Township. West stays. Neighboring stays. I will not move it, and I will not average 4,779 with 4,861. One page says the show was hosted in 1965. Another says it was first announced on March 14, 1965. First stays. One page prints Homearama. Another prints HOMERAMA. I will not average the capitals. One page says Commission, and up to that time. Another says Committee, and ever. I will not average those words. The page prints 670 acres and also 270 hectares. I will not average them. It prints we developed. I will not repair we. It prints $40 million. An open house is printed on May 5, 1967, and the line ends with two periods. I will not delete one. Beginning in 1967 stays. The association was founded in 1969. I will not average 1965, 1967, and 1969. Always stays. Entirely stays. Past stays. Strickers stays the spelling. I will not move that grove. Splashes stays. Now stays. No page prints a birth and a death. I will not invent a life. No cemetery is printed with a point. I will not invent one. No page names a nation. I will not invent one. No page prints a battle. I will not invent one. The next place is Pleasantville.",
+  long: "",
+  names: ["Pleasant Run Farm", "Pleasant Run Farms"]
+},
+
+{
+  id: "pleasantville-approach",
+  name: "Pleasantville",
+  lat: 39.825,
+  lng: -82.523,
+  radius: 2500,
+  layer: "approach",
+  short: "You are arriving at Pleasantville. The first story is the name. This pin is only an offset so the arrival fires first. It is not a survey point.",
+  long: "",
+  names: ["Pleasantville"]
+},
+{
+  id: "pleasantville-name",
+  name: "The name",
+  lat: 39.80972,
+  lng: -82.5225,
+  radius: 40,
+  short: "The name comes first. This pin is the decimal Wikipedia prints, 39.80972 and -82.52250. That page also prints 39 degrees 48 minutes 35 seconds north and 82 degrees 31 minutes 21 seconds west. I will not extend those seconds. It prints elevation 912 ft (278 m), population 934 in 2020, ZIP 43148, area code 740, FIPS 39-63716, and GNIS 2398987. The area is 0.27 square miles (0.70 square kilometers), all land. The 2010 count is 960. I will not average 960 and 934. The place file prints 39.809833 and -82.522390. I will not stack that pair. It was laid out in 1828. A post office has been in operation since 1828. I will not make those one event. A page says the land was sold on August 21, 1821, for $100, and that five acres were laid out in 1828 by John Boston and Ewel Jefferies. Ewel stays. It was first called Vicksburg, then New Boston, and eventually Pleasantville. Eventually stays. The dash stays. One page says the name is from the township and from Pleasant Run, the principal stream. Principal stays. Another page says it was chosen to distinguish it from another village. Chosen stays. I will not average those reasons, and I will not move the other Pleasantville. I will not move Pleasant Run Farm, and I will not invent the stream's mouth. Lots were auctioned on October 6, 1828, and dedicated the following day. Following stays. Seventeen of twenty-five sold from $2 to $26. I will not average those prices. It was incorporated in 1886. A railroad in 1879 is said to have shifted the center eastward. Shifted stays. Eastward stays. Short-lived stays a factory in 1904. I will not invent its door. A platoon trained here in 1898 to 1899, and a company was housed here in 1917 at the old Academy. Later stays. Old stays. I will not invent a battle, and I will not invent the academy's door. Columbus Street is a caption. I will not move the city. Most families arrived in the early 1800s. Most stays. Early stays. Around stays a first settler. I will not invent his year. A mill is said to still stand. Still stays. I will not invent its door. Pleasant Run Farm stays. I will not move it.",
+  long: "",
+  names: ["Pleasantville", "Vicksburg", "New Boston"]
+},
+{
+  id: "pleasantville-cemetery",
+  name: "Hampson Cemetery",
+  lat: 39.802723,
+  lng: -82.526283,
+  radius: 40,
+  short: "This pin is Hampson Cemetery, 39.802723 and -82.526283, also known as Hampson-Pleasantville Cemetery, at 5500 Lancaster Thornville Road North East. I will not average those names. Established is printed as unknown. The first burial is printed as unknown. Unknown stays. Historic site is printed as no. No stays. A page says it is named for the Hampson family, and that a grant was 160 acres in 1804. I will not invent a life. A Geiger cemetery is printed at the north end. North end stays. I will not invent its pin, and I will not move it here. Lancaster stays. Thornville stays. I will not move them. No page names a nation. I will not invent one. The next place is Plumwood.",
+  long: "",
+  names: ["Hampson Cemetery", "Hampson-Pleasantville Cemetery"]
+},
+
+{
+  id: "plumwood-approach",
+  name: "Plumwood",
+  lat: 40.025,
+  lng: -83.415,
+  radius: 2500,
+  layer: "approach",
+  short: "You are arriving at Plumwood. The first story is the name. This pin is only an offset so the arrival fires first. It is not a survey point.",
+  long: "",
+  names: ["Plumwood"]
+},
+{
+  id: "plumwood-name",
+  name: "The name",
+  lat: 40.00889,
+  lng: -83.41472,
+  radius: 40,
+  short: "The name comes first. This pin is the decimal Wikipedia prints, 40.00889 and -83.41472. That page also prints 40 degrees 0 minutes 32 seconds north and 83 degrees 24 minutes 53 seconds west. I will not extend those seconds. It prints elevation 1,007 ft (307 m), population 257 in 2020, ZIP 43140, and the parentheses say London. I will not move London onto this pin. FIPS is 39-63758. GNIS is 2628953. The area is 0.62 square miles (1.61 square kilometers), all land. An older page prints 40 degrees 0 minutes 29 seconds north and 83 degrees 24 minutes 56 seconds west, and GNIS 1070904. I will not average those seconds or those numbers, and I will not stack that pair. The place file prints 40.008792 and -83.414812. I will not stack that pair. The list says unincorporated. The page says an unincorporated community and a census-designated place. Central stays the township. Northern stays the county. It was laid out on December 23, 1895, by Charles F. Sanford, and it was originally named Sanford. Later stays the change. I will not invent why, and I will not invent his years. As of 1915 the population was 200, and it was one of the largest trade posts. One of stays. As of stays. I will not average 200, 319 in 2010, and 257. One page says 9 miles north of London. An older page says 8 and one-half miles, and it prints the fraction. I will not average 9 and 8 and one-half. Marysville stays 17 miles south of the sentence's start. Columbus stays 24 miles east. I will not move them, and I will not average miles and kilometers. The Spring Fork flows past, to the south and west. Past stays. One page prints the before Little Darby Creek. I will not erase it, and I will not add it where it is missing. The township hall is a caption. I will not invent its door. A school district is named Jonathan Alder. I will not move the person, and I will not invent the school's door. No page prints a birth and a death. I will not invent a life. No cemetery is printed with a point. I will not invent one. No page names a nation. I will not invent one. No page prints a battle. I will not invent one. No page tells a story about the name. I will not invent one. Pleasantville stays. Plymouth stays. I will not move them. The next place is Plymouth.",
+  long: "",
+  names: ["Plumwood", "Sanford"]
+},
+
+
+
+
 
 
 

@@ -3509,6 +3509,344 @@ STORIES.push(
   long: "",
   names: ["Saints Peter and Paul Church", "SS Peter and Paul Church"]
 },
+{
+  id: "newtown-approach",
+  name: "Newtown",
+  lat: 39.145,
+  lng: -84.352,
+  radius: 2500,
+  layer: "approach",
+  short: "You are arriving at Newtown. The first story is the name. This pin is only an offset so the arrival fires first. It is not a survey point.",
+  long: "",
+  names: ["Newtown"]
+},
+{
+  id: "newtown-name",
+  name: "The name",
+  lat: 39.12639,
+  lng: -84.35194,
+  radius: 40,
+  short: "The name comes first. This pin is the decimal Wikipedia prints, 39.12639 and -84.35194. That page also prints 39 degrees 7 minutes 35 seconds north and 84 degrees 21 minutes 7 seconds west. I will not extend those seconds. It prints elevation 512 ft (156 m), GNIS 1086222, FIPS 39-55678, ZIP 45244, area code 513, and a 2020 population of 2,702. The infobox prints 2.22 square miles (5.76 square kilometers), land 2.07 (5.35), water 0.16 (0.41). The geography section prints 2.37 square miles (6.14 square kilometers), land 2.17 (5.62), water 0.20 (0.52). I will not average 2.22 and 2.37, or 0.16 and 0.20. The infobox density is 1,307.0 per square mile. The 2020 census section prints 1,307.21. I will not average those. A German page prints 39 degrees 8 minutes north and 84 degrees 21 minutes west, elevation 152 m, area 6.0 square kilometers of which 6.0 is land, density 450, households 1,051, GNIS 1065151, mayor Curt Cosby, and the site villageofnewtown.com. Wikipedia prints mayor Terry Fairely and the site newtownohio.gov. I will not average 152 m with 156 m, or the two mayors, or the two sites, or the two GNIS numbers. A data page prints elevation 156.057600. I will not round it. A map prints the populated place at N39.124505 and W84.361606, elevation 498 ft, and that feature is GNIS 1065151. I will not average 498 ft with 512 ft, and I will not stack that point. The same map prints a historical post office at N39.12478 and W84.35772. I will not invent an opening date for it. Wikipedia says the village was settled in 1792 under the name Mercersburg, and incorporated in 1901, and that the name was changed before the incorporation. A German page says whites settled it in 1792 under Mercer's Station, including Captain Aaron Mercer, and that General James Taylor, 1769 to 1848, platted it in 1801. A marker prints Mercersburgh, Captain Aaron Mercer in 1792, and the figures 1803 and 1953, 500 feet west of the marker, near the big spring, on Church Street. I will not average Mercersburg, Mercer's Station, and Mercersburgh. I will not average 1792, 1801, and 1901, and I will not invent the spring's door. The census table prints 1890 and then 1910. I will not invent a 1900 count. About 20 kilometers east of Cincinnati stays about. The south bank of the Little Miami stays. Anderson Township stays around the village. The paper township of the 1960s stays in the 1960s. The gravel pit and the brick kiln stay without a door I do not have.",
+  long: "",
+  names: ["Newtown", "Mercersburg", "Mercer's Station"]
+},
+{
+  id: "newtown-mound",
+  name: "Odd Fellows' Cemetery Mound",
+  lat: 39.12725,
+  lng: -84.355694,
+  radius: 40,
+  short: "This pin is the decimal Wikipedia prints for the Odd Fellows' Cemetery Mound, 39.127250 and -84.355694. That page also prints 39 degrees 7 minutes 38.1 seconds north and 84 degrees 21 minutes 20.5 seconds west. Another page prints 39.12725. I will not drop the last zero, and I will not stack a second pin. It is along Round Bottom Road, in the village of Newtown, and the nearest city is also printed as Newtown. I will not average in the village with nearest city. The mound is an oval approximately 110 feet (34 m) long and 90 feet (27 m) wide. Approximately stays. The height is 11.3 feet (3.4 m). I will not add approximately to the height. Area 0.3 acres (0.12 hectares). Added to the National Register on 18 June 1973, number 73001474. It is believed to have been built by the Adena culture. Believed stays. A 1943 survey called it the only mound distinctly visible. Distinctly stays. Thirty years later stays. A few graves have been dug around it. A few stays. Odd Fellows' Cemetery Mound 2 is in the same cemetery. I will not invent its door. A map prints Flag Spring Cemetery at N39.12728 and W84.35549. I will not average that name with Odd Fellows, and I will not stack it. The Perin Village Site stays 0.3 miles (0.5 km) to the northwest. I will not average 0.3 miles with 0.5 kilometers, and I will not move Perin here. The Turpin site and the Hahn Field district stay just outside the village. Just outside stays. I will not move Fort Ancient or Late Woodland onto this pin. A census row is not a nation. I will not turn it into one.",
+  long: "",
+  names: ["Odd Fellows' Cemetery Mound", "Flag Spring Cemetery"]
+},
+{
+  id: "newtown-hall",
+  name: "Newtown Town Hall",
+  lat: 39.12562,
+  lng: -84.36077,
+  radius: 40,
+  short: "This pin is Newtown Town Hall on the map, N39.12562 and W84.36077. I will not invent a year for it. Judson Harmon is printed born 3 February 1846 in Newtown, and died 22 February 1927 in Cincinnati, aged 81. The same page prints late February 1927. I will not average 22 February with late February. Cincinnati stays in Cincinnati. He was named after Adoniram Judson. His parents are printed as Benjamin Franklin Harmon and Julia Brunson, a native of Olean, New York. New York stays in New York. The page says ancestors served in the colonial wars and the Revolutionary War, including Cornelius Brooks and James Brooks. I will not move those wars here, and I will not invent his door. John Lambert Richmond is printed 1787 to 1845 on a German page, and 1827 for a surgery. I will not invent where that surgery was done. The marker says the 1792 stockade was to thwart Indian attacks. It does not name a battle. I will not invent one. No separate legend is printed beyond believed and distinctly visible. I will not invent one. The next place is North Baltimore.",
+  long: "",
+  names: ["Newtown Town Hall"]
+},
+
+{
+  id: "north-baltimore-approach",
+  name: "North Baltimore",
+  lat: 41.192,
+  lng: -83.672,
+  radius: 2500,
+  layer: "approach",
+  short: "You are arriving at North Baltimore. The first story is the name. This pin is only an offset so the arrival fires first. It is not a survey point.",
+  long: "",
+  names: ["North Baltimore"]
+},
+{
+  id: "north-baltimore-name",
+  name: "The name",
+  lat: 41.18028,
+  lng: -83.66944,
+  radius: 40,
+  short: "The name comes first. This pin is the decimal Wikipedia prints, 41.18028 and -83.66944. That page also prints 41 degrees 10 minutes 49 seconds north and 83 degrees 40 minutes 10 seconds west. I will not extend those seconds. It prints elevation 725 ft (221 m), GNIS 2399509, FIPS 39-56154, ZIP 45872, area codes 419 and 567, and the motto Crossroads of the Heartland. The infobox prints 2.55 square miles (6.60 square kilometers), land 2.52 (6.53), water 0.027 (0.07). The geography section prints 2.50 square miles (6.47 square kilometers), land 2.47 (6.40), water 0.03 (0.08). I will not average 2.55 and 2.50, or 0.027 and 0.03. The 2020 census is 3,369. The 1880 census is 701. The village page prints 700 in 1880. I will not average 700 and 701. Both pages print 2,857 in 1890. A map prints the populated place at N41.182830 and W83.678267, and the post office at N41.182552 and W83.677434. I will not stack those points. Wikipedia says the village was platted in 1874, when the Baltimore and Ohio Railroad was extended to that point, that a post office called North Baltimore has been in operation since 1874, and that it was incorporated in 1876. The village page says New Baltimore was founded in 1860, that B.L. Peters recorded a plat of twenty-nine acres in 1873, that it was incorporated on 7 February 1876, and that the name was changed to North Baltimore in 1880. It also says the town was named after the railroad of 1873. I will not average 1860, 1873, 1874, and 1880. A history page prints Basset L. Peters, one t, beginning in the early 1850s, at what eventually became known as Peters Crossroads, and that on 7 February 1876 Peters Crossroads became the village of New Baltimore. Early stays. Eventually stays. Considered the founder stays. I will not average B.L. with Basset L. The first post office is printed in 1874, Lincoln P. Hudson, postmaster. I will not average that with a post office already called North Baltimore in 1874, and I will not invent his years. The 1875 newspaper is The New Baltimore Enterprise. Wikipedia prints In September 26, 1986, fumes hospitalizing 89 people. I will not repair In September 26, and I will not invent the plant. Ironically stays: this village is not next to Baltimore in Fairfield County. Approximately 140 miles stays. About halfway between Lima and Toledo stays. About 12 miles south of Bowling Green stays. Findlay, Portage, and Detroit stay where their pages put them. Henry Township stays around the village. The Great Black Swamp stays a swamp, not a nation.",
+  long: "",
+  names: ["North Baltimore", "New Baltimore", "Peters Crossroads"]
+},
+{
+  id: "north-baltimore-cemetery",
+  name: "Maplewood Cemetery",
+  lat: 41.171156,
+  lng: -83.688818,
+  radius: 40,
+  short: "This pin is Maplewood Cemetery as Topoquest prints it, N41.171156 and W83.688818, elevation 731 ft. I will not average 731 ft with 725 ft. Find a Grave prints New Maplewood Cemetery at 41.17110 and -83.68890, also called Maplewood Cemetery and North Baltimore Cemetery, on Briar Hill Road, established in 1938, 33 acres, GNIS 1042979. It says this ground is about a mile from the old Maplewood Cemetery, and that they are distinct. About stays. Distinct stays. I will not stack a second pin on 41.17110. A page prints Old Maplewood Cemetery at 41.17302 and -83.67342, also called Maple Cemetery. A map also prints Maplewood Cemetery at N41.171997 and W83.672989, and Maple Cemetery at N41.171997 and W83.673267. I will not average those old points, and I will not move the old cemetery onto this pin. A history says Hull camped on the present site of Maplewood Cemetery. Present site stays. I will not decide that the 1812 camp was this 1938 ground. The village page says Hull's army marched in 1812 along Rocky Ford Creek at the southeast edge of town. I will not average camped with marched, and I will not invent a battle. The Beeson gristmill of 1834 stays north of East Broadway. I will not invent that mill door.",
+  long: "",
+  names: ["Maplewood Cemetery", "New Maplewood Cemetery"]
+},
+{
+  id: "north-baltimore-school",
+  name: "North Baltimore High School",
+  lat: 41.179497,
+  lng: -83.680489,
+  radius: 40,
+  short: "This pin is North Baltimore High School, N41.179497 and W83.680489. The middle school stays at N41.180052 and W83.680767. I will not stack it on this school. A memorial prints Bassett Lewis Peters, two t's, born 13 July 1830 in Guernsey County, died 8 September 1910 in North Baltimore, aged 80, buried in Old Maplewood Cemetery, northwest section, row 1. Guernsey County stays. I will not move that grave onto the 1938 cemetery, and I will not average Bassett with Basset. Basset Leroy Peters, born 8 September 1881 in Henry Township, died 1 October 1954 in Hancock County, is a different printed life. A record prints Bassett Leroy. I will not average those spellings, and Hancock stays in Hancock. Henry's Opera House, 129 North Main Street, dedicated in 1884, stays an address. I will not invent its door. The 1860 building at the northwest corner of Main and Broadway stays a corner. I will not invent its door. No page names a nation on this village. I will not turn a census count into one. No separate legend is printed beyond the hedges already on these pages. I will not invent one. The next place is North Bend.",
+  long: "",
+  names: ["North Baltimore High School"]
+},
+
+{
+  id: "north-bend-approach",
+  name: "North Bend",
+  lat: 39.168,
+  lng: -84.746,
+  radius: 2500,
+  layer: "approach",
+  short: "You are arriving at North Bend. The first story is the name. This pin is only an offset so the arrival fires first. It is not a survey point.",
+  long: "",
+  names: ["North Bend"]
+},
+{
+  id: "north-bend-name",
+  name: "The name",
+  lat: 39.15056,
+  lng: -84.74444,
+  radius: 40,
+  short: "The name comes first. This pin is the decimal Wikipedia prints, 39.15056 and -84.74444. That page also prints 39 degrees 9 minutes 2 seconds north and 84 degrees 44 minutes 40 seconds west. I will not extend those seconds. It prints elevation 614 ft (187 m), GNIS 2399511, FIPS 39-56182, ZIP 45052, area code 513, and a 2020 population of 835. The infobox prints 1.15 square miles (2.98 square kilometers), land 1.09 (2.83), water 0.058 (0.15), and density 764.0. The geography section prints the same total, but land 1.07 (2.77) and water 0.08 (0.21). The 2020 census section prints density 763.95. I will not average 1.09 and 1.07, or 0.058 and 0.08, or 764.0 and 763.95. The census table prints 1880 and then 1900. I will not invent an 1890 count. 1920 and 1930 both print 597. Miami Township stays around the village. The village is along the Ohio River, where the river meanders to the north. It was founded in 1789. It was platted as Symmes City but ultimately never took that name. Ultimately stays. It was incorporated as North Bend in 1845. I will not average 1789 and 1845. The village page says it was settled by John Cleves Symmes in 1789. I will not average founded with settled by, and I will not invent his years. An 1840 lithograph is captioned the first building on North Bend. I will not invent that door. The village page says North Bend and Quincy, Massachusetts, are the only two communities that can claim two presidents. Are stays, as the page prints it. Quincy stays in Massachusetts. Mayor Doug Sammons is printed with no years. I will not invent them. Benjamin Harrison is printed as born here. The pages I am using do not print his birth year. I will not invent it. Eliza Hendricks is printed as born here, with no years. I will not invent them.",
+  long: "",
+  names: ["North Bend", "Symmes City"]
+},
+{
+  id: "north-bend-tomb",
+  name: "Harrison Tomb",
+  lat: 39.15167,
+  lng: -84.75222,
+  radius: 40,
+  short: "This pin is the decimal Wikipedia prints for the William Henry Harrison Tomb State Memorial, 39.15167 and -84.75222. That page also prints 39 degrees 9 minutes 6 seconds north and 84 degrees 45 minutes 8 seconds west. It is on Mount Nebo, on State Route 128, and also on Brower Road about one-half mile west of U.S. 50. Approximately one-half mile stays. Another page prints Mt. Nebo. I will not average Mount and Mt. Another page prints 39.150781 and -84.751071, at 41 Cliff Road. I will not average that pair with this pin, and I will not stack it. The memorial was built in 1841, 14 acres (5.7 hectares), added to the National Register on 10 November 1970, number 70000499. A list prints William Henry Harrison, 1773 to 1841. He died 4 April 1841. He was buried in the Congressional Cemetery in Washington, D.C., and in June his remains were removed. The interment at North Bend was 7 July 1841. Washington stays in Washington. I will not move the Congressional Cemetery here, and I will not merge that name with Congress Green. Another page says he was laid to rest in the tomb in 1841, and buried on 7 July 1841. I will not average those sentences. He had expressed a desire to be buried on Mt. Nebo. Expressed a desire stays. Indiana and Kentucky stay outside Ohio. Anna is printed as died in 1864. A different Anna Symmes died 26 August 1838, aged 1 year and 3 days. I will not merge them. John Scott Harrison is printed 1804 to 1878, born here and buried in his father's vault. A tomb page says John Harrison sold the estate in 1871. I will not average John and John Scott. One page prints all but 6 acres (2.4 hectares). Another prints six acres of Congress Green. The memorial page prints 14 acres. I will not average 6 and 14. One page leaves the acre number blank. I will not fill that blank. Congress Green Cemetery stays northwest of the tomb. I will not invent its decimal. A 1912 list is according to the Cincinnati Enquirer. According to stays. A 1945 burial is unknown whether or not it occurred. Unknown stays. Dr. Benjamin Harrison, born 8 September 1806 in Vincennes and died 17 June 1840 in North Bend, is not the president. Vincennes stays in Indiana. On 5 May 1865 the village was the site of an early train hold-up. Early stays. I will not invent the robbers, and I will not call it a battle. No page names a nation here. I will not turn a census count into one. No separate legend is printed beyond ultimately, expressed a desire, and unknown whether or not. I will not invent one. The next place is North Canton.",
+  long: "",
+  names: ["William Henry Harrison Tomb", "Congress Green Cemetery"]
+},
+
+{
+  id: "north-canton-approach",
+  name: "North Canton",
+  lat: 40.89,
+  lng: -81.397,
+  radius: 2500,
+  layer: "approach",
+  short: "You are arriving at North Canton. The first story is the name. This pin is only an offset so the arrival fires first. It is not a survey point.",
+  long: "",
+  names: ["North Canton"]
+},
+{
+  id: "north-canton-name",
+  name: "The name",
+  lat: 40.874177,
+  lng: -81.397228,
+  radius: 40,
+  short: "The name comes first. This pin is the decimal Wikipedia prints, 40.874177 and -81.397228. That page also prints 40 degrees 52 minutes 27 seconds north and 81 degrees 23 minutes 50 seconds west. I will not extend those seconds. It prints elevation 1,129 ft (344 m), GNIS 2395252, FIPS 39-56294, ZIP codes 44709, 44720, and 44799, and area codes 330 and 234. The nickname is The Dogwood City. The infobox prints 6.426 square miles (16.642 square kilometers), water 0, and 0.0 percent. The geography section prints 6.425 square miles (16.64 square kilometers), all land. I will not average 6.426 and 6.425, or 16.642 and 16.64. The 2020 census is 17,842. A 2024 estimate is 17,677. The table also prints a 2025 estimate of 17,692. I will not average those three. The city page says the area was first settled in 1805, primarily by German settlers, two years after Ohio joined the Union. Two years after stays. Wikipedia says it was established by German settlers, and it puts those words in quotation marks, on February 19, 1831, as the village of New Berlin, the first village platted in Plain Township. I will not average 1805 and 1831. The city page says the blacksmith John Hower had the first plat recorded on February 19, 1831, 23 lots, at the corner of North Main and West Maple. I will not invent that corner's door, and I will not merge John Hower with William H. Hoover. It was incorporated on November 21, 1905, as New Berlin, with 865 people. The 1910 census is also 865. A newspaper page prints about 1,301 in 1917. About stays. I will not average 865 and about 1,301. The infobox says renamed in January 1918. The prose says in 1918. A petition was filed December 3, 1917. A hearing was set for January 30, 1918. Judge Day then declared the name North Canton. I will not average those dates. Unfashionable stays. Anti-German sentiment stays. The headline says residents assert a stigma. Assert stays. Divided sentiment is declared to exist. Declared stays. A petition of 784 and a count of 110 against stay two numbers. The opposition did not appear. The city page says a 1960 annexation, 130 years after the plat, and that the city was effective January 1, 1962. I will not repair 130 years, and I will not average 1960 and 1962. Wikipedia says the first upright vacuum was invented in June 1908 in North Canton. The name North Canton is not printed until 1918. I will not move June 1908. William H. Hoover, called Boss on the page, moved a tannery to the center of New Berlin in 1873. Boss stays his printed nickname. I will not invent his years. He was the first mayor. Meetings were in the Hoover offices, because there was no city hall. I will not invent that hall. In 2007 the plant shut down. In 2008 the city left Plain Township by a paper township named Hoover Township. Plain Township stays. Canton and Massillon stay in the metropolitan name. The West Branch of Nimishillen Creek stays a creek. I will not turn it into a nation.",
+  long: "",
+  names: ["North Canton", "New Berlin"]
+},
+{
+  id: "north-canton-cemetery",
+  name: "North Canton Cemetery",
+  lat: 40.896994,
+  lng: -81.420388,
+  radius: 40,
+  short: "This pin is North Canton Cemetery as Topoquest prints it, N40.896994 and W81.420388, elevation 1,128 ft, on the North Canton map, in Stark County. I will not average 1,128 ft with 1,129 ft. I will not invent a city-limit line the page does not print. Hoover Park stays at N40.877836 and W81.370390. I will not move that park onto this cemetery. West Lawn Cemetery stays in Canton. I will not move it here. Henry Cemetery and Beechy Cemetery stay where the map puts them.",
+  long: "",
+  names: ["North Canton Cemetery"]
+},
+{
+  id: "north-canton-school",
+  name: "Hoover High School",
+  lat: 40.872836,
+  lng: -81.405947,
+  radius: 40,
+  short: "This pin is Hoover High School, N40.872836 and W81.405947. Hoover High School North stays at N40.885891 and W81.394279. I will not average the two schools. The Hoover Historical Center stays at N40.878113 and W81.369556. I will not move it onto this school. James Murray Spangler is printed born November 20, 1848, in Plain Township, and died January 23, 1915. One page prints the death in Chicago. Another prints Canton, and also January 22, 1915. I will not average Chicago and Canton, or January 22 and January 23. A death record prints J. Murry Spangler. I will not repair Murry. His wife is printed Elesta Holtz, and also Electa. I will not average those names. He is buried at West Lawn Cemetery in Canton. Canton stays. His house on 12th Street Northwest stays in Canton. I will not invent a door here. The patent is printed as expired June 2, 1925. No page names a nation on this city. I will not turn a census count into one. No page prints a battle here. The world war stays the reason for the name. I will not invent a fight. No separate legend is printed beyond unfashionable, assert, and declared. I will not invent one. The next place is North College Hill.",
+  long: "",
+  names: ["Hoover High School"]
+},
+
+{
+  id: "north-college-hill-approach",
+  name: "North College Hill",
+  lat: 39.23,
+  lng: -84.552,
+  radius: 2500,
+  layer: "approach",
+  short: "You are arriving at North College Hill. The first story is the name. This pin is only an offset so the arrival fires first. It is not a survey point.",
+  long: "",
+  names: ["North College Hill"]
+},
+{
+  id: "north-college-hill-name",
+  name: "The name",
+  lat: 39.2175,
+  lng: -84.55194,
+  radius: 40,
+  short: "The name comes first. This pin is the decimal Wikipedia prints, 39.21750 and -84.55194. That page also prints 39 degrees 13 minutes 3 seconds north and 84 degrees 33 minutes 7 seconds west. I will not extend those seconds. It prints elevation 824 ft (251 m), GNIS 1086223, FIPS 39-56322, ZIP codes 45224, 45239, and 45231, and area code 513. The area is 1.83 square miles (4.73 square kilometers), land 1.82 (4.72), water 0.0039 (0.01). The 2020 census is 9,663. A 2022 estimate is 9,484. I will not average those. A map prints the populated place at N39.21839 and W84.55078, and a civil point at N39.21736 and W84.55175. I will not stack those. The city is about 10 miles (16 km) north of downtown Cincinnati. About stays. The name is from College Hill, formerly Pleasant Hill, which borders it to the south. College Hill stays south. Mount Healthy stays north. John Cleves Symmes visited in 1787. Tentative permission stays. New Jersey stays. Symmes Township stays named for him. I will not move that township here. The tract is printed as the Symmes Purchase or the Miami Purchase. I will not average those names. The Little Miami and the Great Miami stay rivers. The city page says this ground was largely farmland through the nineteenth century. Largely stays. In 1905 John Meyer called a subdivision Meyerville, north of Galbraith Road and west of Hamilton Avenue. Within the next ten years, Clovernook, east of Hamilton Avenue, and Sunshine, south of Galbraith and west of Hamilton, were started. About 500 residents incorporated as a village in 1916. About stays. John E. Williamson took the oath on June 24, 1916. I will not invent his years. The population went from about 1,100 to 4,100 in the 1920s. In 1941 it incorporated as a city. The peak is printed as around 12,000 by 1960. Around stays. The 1970 census is 12,363. I will not average around 12,000 with 12,363. A few homes were removed for the Ronald Reagan Cross County Highway in 1997. A few stays. The population has declined more or less steadily. More or less stays. Mayor Tracie Nichols is printed with no years. I will not invent them. In 1925 Mayor A. R. Pugh was in a Prohibition case. Tumey v. Ohio was decided in 1927. At least some of the fines stays. I will not call that case a battle.",
+  long: "",
+  names: ["North College Hill", "Meyerville"]
+},
+{
+  id: "north-college-hill-cemetery",
+  name: "LaBoiteaux-Cary Cemetery",
+  lat: 39.21811,
+  lng: -84.54994,
+  radius: 40,
+  short: "This pin is Laboiteaux-Cary Cemetery on the North College Hill map, N39.21811 and W84.54994. Wikipedia spells it LaBoiteaux-Cary. A city page spells it LaBoyteaux-Cary. A locator spells it Laboiteaux - Cary and prints 39.21810 and -84.54965. Another page prints 39.21809 and -84.54969, and elevation 827 feet (252 metres). I will not average the spellings, and I will not average 827 feet with 824 ft. I will not stack those points. It is at Hamilton Avenue and West Galbraith Road. Established in approximately 1806. Approximately stays. The last burial was in 1860. It includes two Revolutionary War veterans and several members of the Cary family. I will not invent the veterans' names. La Boiteaux Pond stays where the map puts it. I will not move it onto this cemetery.",
+  long: "",
+  names: ["LaBoiteaux-Cary Cemetery", "LaBoyteaux-Cary Cemetery"]
+},
+{
+  id: "north-college-hill-clovernook",
+  name: "Clovernook Home",
+  lat: 39.22034,
+  lng: -84.54744,
+  radius: 40,
+  short: "This pin is Clovernook Home on the map, N39.22034 and W84.54744. Wikipedia says Cary Cottage, the white brick house of 1832, stands on the campus of the Clovernook Center for the Blind and Visually Impaired. I will not invent a second door for the cottage. The high school stays at N39.21895 and W84.55050. I will not stack it on the cemetery. Alice Cary is printed born April 26, 1820, in Mount Healthy, and died February 12, 1871, in New York, aged 50. Mount Healthy stays. New York stays. She is buried at Green-Wood Cemetery in Brooklyn. Brooklyn stays. A caption says a portrait hangs in her childhood home in North College Hill. Another caption says the cottage is near Cincinnati. Both stay. Her page says Robert Cary bought 27 acres in 1813 and called it Clovernook Farm. The city page says William Cary bought 491 acres in 1813-14, and 75 acres soon after, and sold part to Robert. I will not average 27, 75, and 491. Soon after stays. Within a year stays. Phoebe Cary is printed 1824 to 1871. I will not invent a longer life. Their mother died in 1835. Wholly unsympathetic stays. William Cary is printed 1783 to 1862, died March 25, 1862, aged 79, in College Hill, and buried in Cincinnati. College Hill stays. Cincinnati stays. I will not move that grave into the cemetery whose last burial is printed as 1860. New Hampshire stays. Pleasant Hill, Farmers College, Belmont College, the Ohio Military Institute, and the Ohio Female College, 1849 to 1873, stay the College Hill story. I will not move them here. Dr. Isaac Mayer Wise is printed with a house in 1861 near Goodman and Hamilton. Has been called stays. I will not invent his years, and I will not invent the park's door. No page names a nation here. I will not invent one. No separate legend is printed beyond approximately, about, around, tentative, and has been called. I will not invent one. The next place is North Fairfield.",
+  long: "",
+  names: ["Clovernook Home", "Cary Cottage"]
+},
+
+{
+  id: "north-fairfield-approach",
+  name: "North Fairfield",
+  lat: 41.118,
+  lng: -82.62,
+  radius: 2500,
+  layer: "approach",
+  short: "You are arriving at North Fairfield. The first story is the name. This pin is only an offset so the arrival fires first. It is not a survey point.",
+  long: "",
+  names: ["North Fairfield"]
+},
+{
+  id: "north-fairfield-name",
+  name: "The name",
+  lat: 41.10444,
+  lng: -82.61361,
+  radius: 40,
+  short: "The name comes first. This pin is the decimal Wikipedia prints, 41.10444 and -82.61361. That page also prints 41 degrees 6 minutes 16 seconds north and 82 degrees 36 minutes 49 seconds west. I will not extend those seconds. It prints elevation 935 ft (285 m), GNIS 2399514, FIPS 39-56420, ZIP 44855, and area code 419. The infobox prints 0.46 square miles (1.20 square kilometers), land 0.46 (1.20), and water 0.0039 (0.01). The geography section prints 0.46 square miles (1.19 square kilometers), all land. I will not average 1.20 and 1.19, and I will not average 0.0039 with all land. The 2020 census is 465. The 2010 census is 560, density 1,217.4. The 2000 census is 573, density 1,229.2. The 2020 density is 1,006.8. I will not average those. The census table starts at 1940. I will not invent an earlier count. A map prints the civil point at N41.10448 and W82.61374, the populated place at N41.10394 and W82.61184, and the post office at N41.10422 and W82.61240. I will not stack those points. A post office called North Fairfield has been in operation since 1828. The village derives its name from Fairfield Township. A township page says the township was named after Fairfield, Connecticut, detached from Bronson, and organized in 1823, with 22 voters at a school house in the third section. Connecticut stays. Bronson stays. I will not invent that school door. The same page says the village was then named Steam Corners, and later Steamburg. Then stays. Later stays. A steam saw mill was built in 1834 by Ebenezer Foote, Sampson Baker, and Dr. Campbell. A first saw mill, Philip Moffitt's, was built about 1828. About stays. I will not average that mill with the post office of 1828. The first grist mill is printed as Reuben Draper and John Mitchell, with no year. I will not invent one. Dr. Moses Saunders stays in Peru. Dr. J. N. Campbell came in 1832. I will not invent their birth years. A marker prints a township settlement in 1816, a village established in 1847, and incorporation in 1939. It also prints Chair Factory 1850 - 1847 - Foundry 1873. I will not reorder 1850 and 1847. I will not average 1816, 1823, 1828, 1847, and 1939. Willard stays where the library branch is named. A footnote prints holmeslibrary.org. The village site is printed as northfairfieldv.com. I will not average those sites.",
+  long: "",
+  names: ["North Fairfield", "Steam Corners", "Steamburg"]
+},
+{
+  id: "north-fairfield-cemetery",
+  name: "North Fairfield Cemetery",
+  lat: 41.10477,
+  lng: -82.60573,
+  radius: 40,
+  short: "This pin is North Fairfield Cemetery as the map prints it, N41.10477 and W82.60573. A township list prints North Farifield Cemetery, Old, in section 4, and North Fairfield Cemetery, New, in section 3. Farifield stays as that list prints it. I will not decide that this one point is the old cemetery or the new one, and I will not invent a second door. The North Fairfield Museum is printed in section 3. I will not invent its door. Curtis, Hinkley or Mcdonald, McCord, Hoyt, and Day cemeteries stay in the sections that list gives them. I will not move them onto this pin.",
+  long: "",
+  names: ["North Fairfield Cemetery", "North Farifield Cemetery"]
+},
+{
+  id: "north-fairfield-marker",
+  name: "The marker",
+  lat: 41.1042,
+  lng: -82.611917,
+  radius: 40,
+  short: "This pin is the marker at North Main Street and West Main Street, Ohio Route 162. The page prints 41 degrees 6.252 minutes north and 82 degrees 36.715 minutes west. I will not extend those minutes, and I will not average them with 41.10444 and -82.61361. The populated place at N41.10394 and W82.61184 stays off this pin. I will not stack it. The rock is from the Arthur Burras farm, in honor of Arthur L. and Bessie K. Burras. I will not invent their years. The pages I am using do not print a birth and a death for a person of this village. I will not invent a life. A library and a village hall are printed on Main Street. I will not invent that door. A database says this point finds itself in what was once the Haudenosaunee, also called Iroquois, Confederacy, the territory of the Mississippian Culture, and the Northwest Territory. Once stays. Finds itself stays. I will not invent a village those nations built. A census percent is not a nation. No page prints a fight, a muster, or an enlistment here. I will not invent one. No separate legend is printed beyond then, later, and about. I will not invent one. The next place is North Hampton.",
+  long: "",
+  names: ["North Fairfield"]
+},
+
+{
+  id: "north-hampton-approach",
+  name: "North Hampton",
+  lat: 40.008,
+  lng: -83.942,
+  radius: 2500,
+  layer: "approach",
+  short: "You are arriving at North Hampton. The first story is the name. This pin is only an offset so the arrival fires first. It is not a survey point.",
+  long: "",
+  names: ["North Hampton"]
+},
+{
+  id: "north-hampton-name",
+  name: "The name",
+  lat: 39.99056,
+  lng: -83.94167,
+  radius: 40,
+  short: "The name comes first. This pin is the decimal the geography section prints, 39.99056 and -83.94167. That section also prints 39 degrees 59 minutes 26 seconds north and 83 degrees 56 minutes 30 seconds west, and the longer pair 39.990592 and -83.941676. I will not extend the seconds, and I will not average 39.99056 with 39.990592. The infobox prints 39 degrees 59 minutes 22 seconds north and 83 degrees 56 minutes 38 seconds west, and 39.98944 and -83.94389. I will not average that pair with this pin. GNIS 2399515 prints 39.9893074 and -83.9439933, and 39 degrees 59 minutes 21.51 seconds north and 83 degrees 56 minutes 38.38 seconds west, elevation 326 meters / 1070 feet. Wikipedia prints elevation 1,070 ft (330 m). I will not average 326 meters with 330 m. A map prints the civil point at N39.988613 and W83.944294, elevation 1,069 ft. I will not average 1,069 with 1,070. Another page prints 39.9900594 and -83.9399333, approximate elevation 1,096 feet (334 meters). Approximate stays. A commons page prints 333 plus or minus 1 meter, and the areas 1.118075 and 1.118077 square kilometers. Plus or minus stays. I will not average those areas. The infobox prints 0.39 square miles (1.00 square kilometers), water 0. The geography section prints 0.43 square miles (1.11 square kilometers), all of it land. I will not average 0.39 and 0.43. The 2020 census is 457, density 1,188. The 2010 density is 1,111.6. The 2000 density is 1,440.7. I will not average those. The table prints 1880 and then 1930. I will not invent 1890, 1900, 1910, or 1920. ZIP 45349. Area codes 937 and 326 both stay. FIPS 39-56588. Pike Township stays. Springfield stays the metropolitan name. Donnelsville stays the map name. It was platted in 1829. A post office called North Hampton has been in operation since 1839. A map prints a historical post office at N39.990337 and W83.939933, and the populated place at N39.990059 and W83.939933. I will not stack those points, and I will not average since 1839 with historical. The village is in the Northwestern Local School District. The high school stays at N39.989782 and W83.909377. I will not move it here.",
+  long: "",
+  names: ["North Hampton"]
+},
+{
+  id: "north-hampton-school",
+  name: "North Hampton School",
+  lat: 39.990893,
+  lng: -83.944378,
+  radius: 40,
+  short: "This pin is North Hampton School, N39.990893 and W83.944378. A map prints Asbury Untied Methodist Church at N39.990337 and W83.936322. Untied stays as that list prints it. I will not repair it. Asbury Cemetery stays at N39.996718 and W83.937151, 0.7 miles off. I will not move it into the village, and I will not invent a cemetery the pages do not name. No page prints a birth and a death for a person of this village. I will not invent a life. In 1969 Vanilla Fudge arrived here instead of the Blossom Amphitheater, because of Northampton Township. Northampton stays. Blossom stays near Cleveland. Cleveland stays. Montreal stays. Nearly 200 miles stays. Four hours late stays. Mark Stein said they were looking at a map and sure enough there was this town, near Dayton somewhere. Somewhere stays. Sure enough stays. We figured stays. A weird place stays. I will not invent the door where the band stopped, and I will not move Dayton. The page calls the village a well-known speed trap. Well-known stays. In 2019 it was among the highest speeding-citation counts. In 2022 the mayor's court processed 1,065 new cases. I will not invent a battle. A census percent is not a nation. I will not invent one. The next place is North Industry.",
+  long: "",
+  names: ["North Hampton School"]
+},
+
+{
+  id: "north-industry-approach",
+  name: "North Industry",
+  lat: 40.76,
+  lng: -81.378,
+  radius: 2500,
+  layer: "approach",
+  short: "You are arriving at North Industry. The first story is the name. This pin is only an offset so the arrival fires first. It is not a survey point.",
+  long: "",
+  names: ["North Industry"]
+},
+{
+  id: "north-industry-name",
+  name: "The name",
+  lat: 40.74444,
+  lng: -81.37833,
+  radius: 40,
+  short: "The name comes first. This pin is the decimal Wikipedia prints, 40.74444 and -81.37833. That page also prints 40 degrees 44 minutes 40 seconds north and 81 degrees 22 minutes 42 seconds west. I will not extend those seconds. It prints a census-designated place in southern Canton Township, elevation 1,056 ft (322 m), population 1,528 in 2020, and GNIS 2812841. A data page prints elevation 321.868800, and also 1,056 ft, and the coordinates 40.74444444444445 and -81.37833333333333, and also 40.744446 and -81.378334. I will not average 321.868800 with 322 m, and I will not shorten those decimals. A 2016 snapshot prints an unincorporated community, altitude 1,001 feet (305 m), also Slabtown or Slab Town, and says it is often referred to as Canton South. Often stays. The list prints unincorporated. I will not average unincorporated, census-designated place, and a page that calls it a city. I will not average Slabtown with Slab Town. A map prints the populated place at N40.738948 and W81.366781, elevation 997 ft, GNIS 1065168, on the Waynesburg map. I will not average 997 ft with 1,001 or 1,056, and I will not merge 1065168 with 2812841. Another page prints 40.7390 and -81.3668, and also 40 degrees 44 minutes 20 seconds north and 81 degrees 22 minutes 0 seconds west, and the pair 40.7389500 and -81.3667800. I will not average those. The place file prints 40.736186 and -81.372756. I will not average that pair with this pin. Apple Maps prints 40.74246 and -81.37199. I will not stack it. A post office was established in 1832 and remains in operation. The 2016 snapshot says it remained in operation until 1956. I will not average remains with until 1956. An 1870 atlas prints North Industry P.O. I will not average 1870 with 1832. A post office list puts North Industry Post Office in Canton, ZIP 44707. Canton stays. I will not invent that door. Early industries were a blast furnace and a watermill. Early stays. I will not invent the mill door. The school sentence is marked citation needed. Citation needed stays. I will not invent a school door. Nimishillen Creek stays a creek. I will not turn it into a nation. Canton and Massillon stay in the metropolitan name. Waynesburg stays the map name. Battlesburg stays where the map puts it. No page I am using prints a cemetery here, a birth and a death, a fight, or a legend beyond often. I will not invent them. The next place is North Kingsville.",
+  long: "",
+  names: ["North Industry", "Slabtown", "Slab Town"]
+},
+
+{
+  id: "north-kingsville-approach",
+  name: "North Kingsville",
+  lat: 41.928,
+  lng: -80.681,
+  radius: 2500,
+  layer: "approach",
+  short: "You are arriving at North Kingsville. The first story is the name. This pin is only an offset so the arrival fires first. It is not a survey point.",
+  long: "",
+  names: ["North Kingsville"]
+},
+{
+  id: "north-kingsville-name",
+  name: "The name",
+  lat: 41.90583,
+  lng: -80.69028,
+  radius: 40,
+  short: "The name comes first. This pin is the decimal Wikipedia prints, 41.90583 and -80.69028. That page also prints 41 degrees 54 minutes 21 seconds north and 80 degrees 41 minutes 25 seconds west. I will not extend those seconds. It prints elevation 709 ft (216 m), GNIS 1056455, FIPS 39-56700, ZIP 44068, and area code 440. The infobox prints 8.87 square miles (22.98 square kilometers), land 8.85 (22.93), water 0.019 (0.05). The geography section prints 8.91 square miles (23.08 square kilometers), land 8.89 (23.02), water 0.02 (0.05). I will not average 8.87 and 8.91, or 0.019 and 0.02. The 2020 census is 2,742, density 309.7. The 2010 census is 2,923, density 328.8. The 2000 census is 2,658, density 298.5. I will not average those. The table starts at 1920. I will not invent an earlier count. A map prints the populated place at N41.90589 and W80.69036, and another page prints 41.905887 and -80.6903597, approximate elevation 709 feet. Approximate stays. I will not stack that point. The civil point stays at N41.91883 and W80.67228. The post office stays at N41.90561 and W80.69008. I will not stack it. Wikipedia says the settlement of Kingsville-on-the-Lake is located in North Kingsville. A map prints Kingsville On-the-Lake. I will not average the hyphens, and I will not invent its door. Kingsville stays Kingsville. A township page says Kingsville was organized in 1810, township 13, range 2. Ashtabula, Plymouth, Sheffield, Conneaut, and Monroe stay where that page puts them. A county history says the north ridge was known as Northtown, and the page puts that name in quotation marks. The residents resolved to pull out, and the page puts those words in quotation marks. It appears stays. The lion's share stays. About 1910 stays for the incorporation. I will not average 1810 and about 1910. A big fight over the boundary line stays the page's words. I will not turn it into a battle. Practically flat stays, and flat is in quotation marks. The repair shop was shut down in 1876. Soon after stays. Some years stays. I will not invent that shop door. James Callow stays a short distance west. Short distance stays. I will not invent his father's name. Madison stays about 20 miles west. About stays. The page prints might he neighborly. I will not repair he.",
+  long: "",
+  names: ["North Kingsville", "Northtown"]
+},
+{
+  id: "north-kingsville-cemetery",
+  name: "Greenlawn Memory Gardens",
+  lat: 41.91143,
+  lng: -80.67424,
+  radius: 40,
+  short: "This pin is Greenlawn Memory Gardens on the North Kingsville map, N41.91143 and W80.67424. A county history says Walter Fobes donated an allotment for the village cemetery and that his was the first burial. Another page prints that he donoted the land and was the first buried in North Kingsville. Donoted stays. I will not average donated and donoted, and I will not decide that this garden is that cemetery. Village Green Park stays at N41.91672 and W80.68175. Sunset Park is printed as a playground. I will not invent its door, and I will not average it with Village Green. The historical airport stays at N41.90783 and W80.67703. I will not move it.",
+  long: "",
+  names: ["Greenlawn Memory Gardens"]
+},
+{
+  id: "north-kingsville-school",
+  name: "North Kingsville Elementary School",
+  lat: 41.90811,
+  lng: -80.68453,
+  radius: 40,
+  short: "This pin is North Kingsville Elementary School, N41.90811 and W80.68453. One page prints Walter Fobes born 20 August 1758 in Preston, Connecticut, and died about 1814, uncertain, about age 55, in Kingsville. About stays. Uncertain stays. That page says the tree is unsourced. Unsourced stays. Another page prints him born 20 August 1748, and dead in the spring of 1814 at North Kingsville. I will not average 1748 and 1758, or Kingsville and North Kingsville. Connecticut stays. A probate line prints Ashtabula County, Massachusetts. Massachusetts stays as that line prints it. We assume stays. Could stays. Tho' stays. May 1814 and the heirs in 1816 stay two dates. I will not invent his grave's door. Eldad Harrington's cabin of 1803 stays on the bottom land at the bend of the river. A couple of years stays. I will not invent that door, and I will not invent the river's name. It appears that North Kingsville is really the parent town. It appears stays. Really stays. Roger Nettleton stays on the North Ridge. I will not invent his years. No page names a nation here. I will not turn a census count into one. No separate legend is printed beyond it appears, really, and about. I will not invent one. The next place is North Lawrence.",
+  long: "",
+  names: ["North Kingsville Elementary School"]
+},
+
 
 
 

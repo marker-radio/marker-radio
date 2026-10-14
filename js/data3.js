@@ -4910,6 +4910,953 @@ STORIES.push(
   long: "",
   names: ["Falls - Lenox Primary School"]
 },
+{
+  id: "ontario-approach",
+  name: "Ontario",
+  lat: 40.766,
+  lng: -82.629,
+  radius: 2500,
+  layer: "approach",
+  short: "You are arriving at Ontario. The first story is the name. This pin is only an offset so the arrival fires first. It is not a survey point.",
+  long: "",
+  names: ["Ontario"]
+},
+{
+  id: "ontario-name",
+  name: "The name",
+  lat: 40.76806,
+  lng: -82.61139,
+  radius: 40,
+  short: "The name comes first. This pin is the decimal Wikipedia prints, 40.76806 and -82.61139. That page also prints 40 degrees 46 minutes 5 seconds north and 82 degrees 36 minutes 41 seconds west. I will not extend those seconds. A German page prints 40 degrees 46 minutes north and 82 degrees 37 minutes west. I will not stack that pair. It prints elevation 1,371 ft (418 m), population 6,656 in 2020, ZIP 44906, FIPS 39-58520, and GNIS 2396070. The motto is We Serve Community Education Industry. I will not add commas. The infobox prints 11.09 square miles (28.72 square kilometers), land 11.07 (28.66), and water 0.023 (0.06). The geography section prints 11.10 (28.75), land 11.08 (28.70), and water 0.02 (0.05). A German page prints 28.70 square kilometers, about 11 square miles, of which 28.65 is land. About stays. I will not average those areas. The place file prints 40.768202 and -82.614767. A map prints a populated place at N40.759501 and W82.590172. I will not stack those points. It was founded by Hiram Cook and platted in December 1834. I will not invent his years. During that same month thereafter, it merged with New Castle. Thereafter stays. Others stated that New Castle was named for Newcastle upon Tyne. Others stated stays. A line says it was named for Henry Cassell. I will not average those. England stays. It was named after Ontario County, New York, the native place of the founder. Native place stays a phrase about New York. I will not move New York here, and I will not move the province of Ontario here. Mansfield stays just west of this place on one sentence, and this place stays just west of Mansfield on another. Just stays. I will not average those directions, and I will not move Mansfield. Bucyrus stays. Springfield Township stays. The village vote was June 25, 1958. The city date is April 30, 2001, with a population over 5,300. Over stays. I will not average 1958 and 2001, or over 5,300 and 6,656. The building is printed as the Charles K. Hellinger Municipal Building, and a caption says Ontario Hellinger Municipal Building, and a German caption says Ontario Municipal Building. I will not average those names. I will not invent his years.",
+  long: "",
+  names: ["Ontario", "New Castle"]
+},
+{
+  id: "ontario-cemetery",
+  name: "Ontario Cemetery",
+  lat: 40.760605,
+  lng: -82.640448,
+  radius: 40,
+  short: "This pin is Ontario Cemetery, N40.760605 and W82.640448. A pet cemetery stays at N40.759645 and W82.613005. I will not call it this cemetery, and I will not invent a story for it. Crestline stays the map name. I will not move the city of Crestline here.",
+  long: "",
+  names: ["Ontario Cemetery"]
+},
+{
+  id: "ontario-school",
+  name: "Ontario High School",
+  lat: 40.764779,
+  lng: -82.647675,
+  radius: 40,
+  short: "This pin is Ontario High School, N40.764779 and W82.647675, elevation 1,384 ft. I will not average 1,384 and 1,371. A page says the new school was built in 1960, complete with a pool, a theatre, and 3 shops. Complete with stays. 3 stays. The junior high stays at N40.760890 and W82.642675. I will not stack it. The station was later demolished. Later stays. Much of the railway stays. Late stays. No page names a nation here. Native place stays New York. I will not invent a nation. No page prints a battle. I will not invent one. No separate legend is printed beyond thereafter, others stated, and over. I will not invent one. The next place is Oregon.",
+  long: "",
+  names: ["Ontario High School"]
+},
+
+{
+  id: "oregon-approach",
+  name: "Oregon",
+  lat: 41.64,
+  lng: -83.48,
+  radius: 2500,
+  layer: "approach",
+  short: "You are arriving at Oregon. The first story is the name. This pin is only an offset so the arrival fires first. It is not a survey point.",
+  long: "",
+  names: ["Oregon"]
+},
+{
+  id: "oregon-name",
+  name: "The name",
+  lat: 41.64917,
+  lng: -83.46139,
+  radius: 40,
+  short: "The name comes first. This pin is the decimal Wikipedia prints, 41.64917 and -83.46139. That page also prints 41 degrees 38 minutes 57 seconds north and 83 degrees 27 minutes 41 seconds west. I will not extend those seconds. It prints elevation 594 ft (181 m), population 19,950 in 2020, ZIP codes 43605, 43616, and 43618, FIPS 39-58730, and GNIS 1086529. The area is 28.90 square miles (74.85 square kilometers), land 28.52 (73.87), and water 0.38 (0.98). I will not average the three ZIP codes. A children's page says about 19,950. About stays. The place file prints 41.655956 and -83.438325. I will not stack that pair. A quoted page says Pierre M. Irving named the town Oregon, and it marks the claim citation needed. Citation needed stays. The quote says that in 1838 he went to New York expecting to remain for the summer, but for some reason he never returned. For some reason stays. Never returned stays. Another page says he named it in 1838. I will not average the naming and the trip. Astoria stays a book. The state of Oregon stays the book's land. I will not move it here. Another page says Mr. Street platted a paper town of that name near Miami Street and Oregon Road. Paper town stays. Never much more stays. I will not invent Mr. Street's other name, and I will not average him with Pierre M. Irving. Manhattan and Marengo stay on the other side of the river. Utah stays the first post office name. East Toledo stays its own streets. A page says the township was formed in 1837. Another says the first government was created in 1838. I will not average those years. The city is bounded by Toledo, by Maumee Bay and Lake Erie, by Jerusalem Township, and by Northwood. I will not move Northwood. The 1957 vote was 3,660 in favor and 2,925 opposed. I will not add those. The charter is 1958. I will not average 1957 and 1958. Failed stays. The page says the city is home to Maumee Bay State Park. I will not invent the gate.",
+  long: "",
+  names: ["Oregon"]
+},
+{
+  id: "oregon-cemetery",
+  name: "Willow Cemetery",
+  lat: 41.62949,
+  lng: -83.49993,
+  radius: 40,
+  short: "This pin is Willow Cemetery, N41.62949 and W83.49993, on the Oregon map. A page says the township took ownership of two cemeteries in 1856, and that the city still owns them. Two stays. I will not invent the second name. Oliver Stevens is printed among the settlers of 1832, and a book says he is buried here with other early pioneers. I will not invent his birth or his death. Mr. Steven's stays the book's spelling. Navarre Park stays where the map puts it, and a book says that park is in East Toledo. I will not move East Toledo. Joseph Prentice is printed as having died young. Young stays. Frederick Prentice is printed as having died in New York City at the age of 91. I will not invent the year, and I will not move New York.",
+  long: "",
+  names: ["Willow Cemetery"]
+},
+{
+  id: "oregon-school",
+  name: "Saint Marks School",
+  lat: 41.63061,
+  lng: -83.48827,
+  radius: 40,
+  short: "This pin is Saint Marks School, N41.63061 and W83.48827. I will not decide that it is the only school. The ditches are printed as following old Indian trails, and another page says old Native American trails. I will not average those words, and I will not name a nation the pages do not name. Still very wet stays. However stays. The port operations in the bay are printed as 1955. Early 1800s stays the other date. I will not average them. No page I am using prints a battle in the city. I will not invent one. No separate legend is printed beyond for some reason, paper town, and citation needed. I will not invent one. The next place is Orient.",
+  long: "",
+  names: ["Saint Marks School"]
+},
+
+{
+  id: "orient-approach",
+  name: "Orient",
+  lat: 39.815,
+  lng: -83.154,
+  radius: 2500,
+  layer: "approach",
+  short: "You are arriving at Orient. The first story is the name. This pin is only an offset so the arrival fires first. It is not a survey point.",
+  long: "",
+  names: ["Orient"]
+},
+{
+  id: "orient-name",
+  name: "The name",
+  lat: 39.80556,
+  lng: -83.15278,
+  radius: 40,
+  short: "The name comes first. This pin is the decimal Wikipedia prints, 39.80556 and -83.15278. That page also prints 39 degrees 48 minutes 20 seconds north and 83 degrees 9 minutes 10 seconds west. I will not extend those seconds. It prints population 246 in 2020, ZIP 43146, area code 614, FIPS 39-58800, and GNIS 2771741. The area is printed as 0.12 sqmi (0.31 square kilometers), all land. Sqmi stays the page's spacing. A roadside page prints 270 people in 2010, and calls that the most recent number it has, and elevation 840 feet and 256 meters. Most recent stays that page's words. I will not average 246 and 270. The place file prints 39.806745 and -83.151753. A map prints the census place at N39.805583 and W83.152776, a populated place at N39.804596 and W83.153007, and a historical village at N39.805280 and W83.152119. I will not stack those points. Historical stays. The list says unincorporated. The page says a census-designated place and a former village. A 2000 map says village. I will not average those labels. It was a station on the Baltimore and Ohio Railroad, in the northwest corner of Scioto township. Township stays lowercase as printed. A page says it does not have a founding date, and that you might consider the post office, which opened in 1885. Might stays. The pronunciation is printed OR-ee-uhnt. Residents began seeking dissolution in January 2012. Clarification needed stays. Thirty-three signatures were collected, one more than required. One more stays. The board rejected the petition. A May 2013 vote was 38 to 30. I will not add those numbers, and I will not average 2012 and 2013. Harrisburg stays the map name. I will not move it. Franklin County stays a locator word. I will not move the county line.",
+  long: "",
+  names: ["Orient"]
+},
+{
+  id: "orient-cemetery",
+  name: "Orient Feeble Minded Institute Cemetery",
+  lat: 39.797017,
+  lng: -83.154233,
+  radius: 40,
+  short: "This pin is the name the map prints, N39.797017 and W83.154233. I will not rename it, and I will not invent a second cemetery. The Orient State Institute school stays at N39.794229 and W83.153522. I will not stack it. The town hall stays at N39.805278 and W83.155000. I will not stack it on the name pin.",
+  long: "",
+  names: ["Orient Feeble Minded Institute Cemetery"]
+},
+{
+  id: "orient-prison",
+  name: "Pickaway Correctional Institution",
+  lat: 39.79839,
+  lng: -83.156043,
+  radius: 40,
+  short: "This pin is the Pickaway Correctional Institution, N39.798390 and W83.156043, elevation 800 ft. I will not average 800 and 840. A locator prints 39.79832 and -83.15649, and the address 11781 State Highway 762, and ZIP 43126, and the word NEAR. I will not average 43126 with 43146, and I will not stack that pair. The page also names the Correctional Reception Center. I will not invent its door. No page prints a birth and a death. I will not invent a life. No page names a nation here. I will not invent one. No page prints a battle. I will not invent one. No separate legend is printed beyond might, most recent, and clarification needed. I will not invent one. The next place is Orrville.",
+  long: "",
+  names: ["Pickaway Correctional Institution"]
+},
+
+{
+  id: "orrville-approach",
+  name: "Orrville",
+  lat: 40.865,
+  lng: -81.773,
+  radius: 2500,
+  layer: "approach",
+  short: "You are arriving at Orrville. The first story is the name. This pin is only an offset so the arrival fires first. It is not a survey point.",
+  long: "",
+  names: ["Orrville"]
+},
+{
+  id: "orrville-name",
+  name: "The name",
+  lat: 40.85,
+  lng: -81.76111,
+  radius: 40,
+  short: "The name comes first. This pin is the decimal Wikipedia prints, 40.85000 and -81.76111. That page also prints 40 degrees 51 minutes 0 seconds north and 81 degrees 45 minutes 40 seconds west. I will not extend those zeros. It prints elevation 1,043 ft (318 m), population 8,452 in 2020, ZIP 44667, area code 330, FIPS 3958828, and GNIS 2396086. I will not add a hyphen the page does not print. The area is 5.75 square miles (14.89 square kilometers), land 5.74 (14.87), and water 0.01 (0.03). The motto is A City of Diversified Industry. It is about 9 miles east of Wooster and 20 miles southwest of Akron. About stays. I will not average the miles and the kilometers. Wooster stays. Akron stays. The place file prints 40.848267 and -81.776894. I will not stack that pair. It was laid out in 1852 and named after Judge Smith Orr, its proprietor. A post office has been in operation since 1852. I will not make those one event. A caption says Judge Smith Orr and Robert Taggard were planning the settlement. Planning stays. A city page says Robert Taggart. I will not average Taggard and Taggart. Jesse Straughn made the first plat and gave it the name. I will not average that with named after the judge. The lots lay north of the railroad. Lay stays. Meanwhile stays. It was incorporated on May 9, 1864. William Gailey was the first mayor. I will not invent his years. Smith Orr was born November 23, 1797, in Tallford, County Tyrone. His mother died giving birth. Latter who stays the page's grammar. The family arrived at New Castle, Delaware, in August 1801. I will not move that New Castle here. They settled in the spring of 1812 near Apple Creek. Spring stays. Apple Creek stays. East Union Township stays. His father died in 1818. Until he was 25 stays. He married Maria Foreman on February 1, 1821, when she was 22. She was born March 10, 1799. I will not invent his death. Unique stays. Little disposed stays. A page says Smucker's asserts that a plant is the largest in the world. Asserts stays. I will not decide that.",
+  long: "",
+  names: ["Orrville"]
+},
+{
+  id: "orrville-cemetery",
+  name: "Crown Hill Cemetery",
+  lat: 40.845745,
+  lng: -81.784931,
+  radius: 40,
+  short: "This pin is Crown Hill Cemetery, 40.845745 and -81.784931, at 1729 West High Street. It was opened in the early 1900s. Early stays. A page says burial dates in the records run from 1899 to 2019. I will not average 1899 and early 1900s. Orr Cemetery stays at North Mill Street and East Church Street, 1.6 acres, established in 1861, when Robert Taggart dedicated the land. Lots are no longer for sale. No longer stays. I will not invent that cemetery's door. A house at 421 East Fike Street is printed as still standing, and as one of those in the chain of the Underground Railway. Still standing stays. One of those stays. Railway stays the page's spelling. I will not invent the door, and I will not invent a battle. James Taggart Jr. is printed as a veteran of the Revolutionary War. I will not invent the fight. No page names a nation here. I will not invent one. Considered burglarproof stays. Burglarproof stays one word. The next place is Orwell.",
+  long: "",
+  names: ["Crown Hill Cemetery"]
+},
+
+{
+  id: "orwell-approach",
+  name: "Orwell",
+  lat: 41.542,
+  lng: -80.864,
+  radius: 2500,
+  layer: "approach",
+  short: "You are arriving at Orwell. The first story is the name. This pin is only an offset so the arrival fires first. It is not a survey point.",
+  long: "",
+  names: ["Orwell"]
+},
+{
+  id: "orwell-name",
+  name: "The name",
+  lat: 41.53167,
+  lng: -80.85667,
+  radius: 40,
+  short: "The name comes first. This pin is the decimal Wikipedia prints for the village, 41.53167 and -80.85667. That page also prints 41 degrees 31 minutes 54 seconds north and 80 degrees 51 minutes 24 seconds west. I will not extend those seconds. It prints elevation 889 ft (271 m), population 1,533 in 2020, density 775.5, ZIP 44076, area code 440, FIPS 39-58856, and GNIS 1065217. The area is 1.98 square miles (5.12 square kilometers) and water 0. The motto is Together We Achieve the Extraordinary. A photo is captioned circa 1910. Circa stays. A census page prints 1,707 people and 1.9 square miles. I will not average 1,533 and 1,707, or 1.98 and 1.9. The place file prints 41.536120 and -80.858170. A map prints the populated place at N41.53506 and W80.86814. I will not stack those points. The township point is 41.53722 and -80.85556, and its count is 3,077, and its FIPS is 39-58870. I will not average the village and the township. Only stays a word about the township. I will not put only on the village. A post office has been in operation since 1826. The name is derived from Orwell, Vermont, the native home of an early settler. Native home stays Vermont. I will not invent that settler's name, and I will not move Vermont here. The township was Leffingwell until 1826. A page says A. H. Paine arrived in 1815. Another says A. R. Paine came in October 1815 and settled on the first day of April 1817. I will not average the initials, or 1815 and 1817. Stillwater stays. In those days stays. Considered superior stays. Moses Cleaveland is also printed as Moses Cleveland. I will not average the spellings. September 5, 1798, and $12,903.23 stay. Probably stays. Jabes and Ashael stay the page's spellings. A 1920 count is printed as 800. I will not average 800 and 1,533. East Orwell stays about a mile from the village center on one page, and at N41.53506 and W80.84370 on a map. About stays. I will not correct the mile. Rome, Windsor, Colebrook, and Warren stay. I will not move them.",
+  long: "",
+  names: ["Orwell", "Leffingwell"]
+},
+{
+  id: "orwell-cemetery",
+  name: "North Orwell Cemetery",
+  lat: 41.53921,
+  lng: -80.86981,
+  radius: 40,
+  short: "This pin is North Orwell Cemetery, N41.53921 and W80.86981. South Orwell Cemetery stays at N41.52140 and W80.85896. I will not average north and south. The post office stays at N41.53478 and W80.86787. I will not stack it on the populated place.",
+  long: "",
+  names: ["North Orwell Cemetery"]
+},
+{
+  id: "orwell-school",
+  name: "Grand Valley High School",
+  lat: 41.53644,
+  lng: -80.86592,
+  radius: 40,
+  short: "This pin is Grand Valley High School, N41.53644 and W80.86592. The elementary school stays at N41.54367 and W80.86925. I will not stack it. Daniel Wolcott is printed as arriving in April 1822, and as buying 476.5 acres of the present townsite. Present stays. I will not invent his birth or his death. Gates Chandler is printed as the first white boy born here. I will not invent the year. No page names a nation here. Native home stays Vermont. I will not invent a nation. No page I am using prints a battle. I will not invent one. Not content stays. The next place is Osgood.",
+  long: "",
+  names: ["Grand Valley High School"]
+},
+
+{
+  id: "osgood-approach",
+  name: "Osgood",
+  lat: 40.355,
+  lng: -84.495,
+  radius: 2500,
+  layer: "approach",
+  short: "You are arriving at Osgood. The first story is the name. This pin is only an offset so the arrival fires first. It is not a survey point.",
+  long: "",
+  names: ["Osgood"]
+},
+{
+  id: "osgood-name",
+  name: "The name",
+  lat: 40.33861,
+  lng: -84.49889,
+  radius: 40,
+  short: "The name comes first. This pin is the decimal Wikipedia prints, 40.33861 and -84.49889. That page also prints 40 degrees 20 minutes 19 seconds north and 84 degrees 29 minutes 56 seconds west. I will not extend those seconds. It prints elevation 961 ft (293 m), population 306 in 2020, ZIP 45351, area code 419, FIPS 39-58912, and GNIS 2399590. The geography section prints 0.34 square miles (0.88 square kilometers), all land. Another figure prints 0.35 square miles (0.91 square kilometers). I will not average 0.34 and 0.35. The census table also prints 306 in 1980, and 255 in 1990 and in 2000. I will not average those rows. The place file prints 40.339526 and -84.496105. I will not stack that pair. It was founded in the 1880s. A page says it was named after Captain Osgood, its first settler. I will not invent his years. Anne Brewer transferred seventy acres in 1881. The same page says three years later, on August 6, 1883, the town was incorporated. Three years later stays. I will not correct the count. Around the same time stays. The depot and water tower were completed in 1891. I will not average 1881, 1883, and 1891. Present day stays. Blackmith stays the page's spelling. German and French decent stays the page's spelling. Primarily stays. Predominantly stays. I will not average them. Patterson Township stays. Minster stays. Fort Loramie stays. North Star stays. Frenchtown stays. Russia stays. I will not move them.",
+  long: "",
+  names: ["Osgood"]
+},
+{
+  id: "osgood-cemetery",
+  name: "Saint Martins Catholic Cemetery",
+  lat: 40.3356,
+  lng: -84.4903,
+  radius: 40,
+  short: "This pin is 40.33560 and -84.49030. The page also calls it Saint Martins Cemetery and Saint Nicholas Catholic Cemetery. A book prints Saint Martin Catholic Cemetery and Saint Martins Cemetery, and the number 2758. The name record is 1045631. I will not average Martin and Martins, or Nicholas and Martin. It is about 1/2 mile south of State Route 705, down a narrow lane. About stays. Not visible stays. Very easy to drive right by stays. The page prints ZIP 45388. I will not average 45388 and 45351. Osgood Park is named on a page. I will not invent its door.",
+  long: "",
+  names: ["Saint Martins Catholic Cemetery", "Saint Nicholas Catholic Cemetery"]
+},
+{
+  id: "osgood-church",
+  name: "St. Nicholas Catholic Church",
+  lat: 40.34056,
+  lng: -84.4925,
+  radius: 40,
+  short: "This pin is the decimal Wikipedia prints for the church, 40.34056 and -84.49250, at State Route 705 and Washington Street. That page also prints 40 degrees 20 minutes 26 seconds north and 84 degrees 29 minutes 33 seconds west. The village page says the parish was erected in 1906, and it prints St. Nicholas' with an apostrophe. The church page says it was built in 1907, and added on July 26, 1979. I will not average 1906 and 1907, and I will not drop the apostrophe. Less than 1 acre stays. Edward Schlochtmeyer stays. I will not invent his years. One of the newest stays. Although stays. Medicine shows stay a use of the town hall. I will not invent the hall's door. The American Legion is printed at 228 North Street. I will not invent that door, and I will not invent a battle. No page names a nation here. Decent stays a spelling. I will not turn it into a nation. No separate legend is printed beyond about, three years later, and very easy. I will not invent one. The next place is Ostrander.",
+  long: "",
+  names: ["St. Nicholas Catholic Church"]
+},
+
+{
+  id: "ostrander-approach",
+  name: "Ostrander",
+  lat: 40.29,
+  lng: -83.211,
+  radius: 2500,
+  layer: "approach",
+  short: "You are arriving at Ostrander. The first story is the name. This pin is only an offset so the arrival fires first. It is not a survey point.",
+  long: "",
+  names: ["Ostrander"]
+},
+{
+  id: "ostrander-name",
+  name: "The name",
+  lat: 40.26917,
+  lng: -83.2075,
+  radius: 40,
+  short: "The name comes first. This pin is the decimal Wikipedia prints, 40.26917 and -83.20750. That page also prints 40 degrees 16 minutes 9 seconds north and 83 degrees 12 minutes 27 seconds west. I will not extend those seconds. It prints elevation 938 ft (286 m), population 1,094 in 2020, ZIP 43061, area code 740, FIPS 39-58940, and GNIS 2399592. The geography section prints 0.84 square miles (2.18 square kilometers), all land. Another figure prints 0.94 square miles (2.43 square kilometers). I will not average 0.84 and 0.94. The place file prints 40.269042 and -83.207419. I will not stack that pair. It was laid out in 1852 and incorporated in 1875. The village page prints May 18, 1875, and a first council on April 5, 1876. I will not average those days. The railroad is printed as CCC and I, and as CCC&I. I will not average the marks. It was taken out of service in 1971. Lifeline stays. A bridge remains over Blues Creek. I will not invent the bridge's door. The village page says folklore assumed Jacob Ostrander. Folklore stays. However, research points to Shelemiah Ostrander. However stays. Seems more logical stays. Oddly, no known familial connection stays. Wikipedia says one Shelemiah Ostrander, a railroad official. A village page says a civil engineer. Early histories did not give his first name. Did not give stays. I will not average official and civil engineer, and I will not invent either man's years. A 1908 history calls the site a bare clay knob. Bare stays. More colorfully stays. Effectively destroyed stays. Edinburg stays. I will not move it. Destined to flourish stays. Peaking around 1900 stays. Around stays. Scioto Township here is in Delaware County. I will not move the other Scioto Township. The census prints 431 in 1910 and again in 1990, and 391 in 1920 and again in 1930. I will not average those rows.",
+  long: "",
+  names: ["Ostrander"]
+},
+{
+  id: "ostrander-cemetery",
+  name: "Fairview Cemetery",
+  lat: 40.27637,
+  lng: -83.21479,
+  radius: 40,
+  short: "This pin is Fairview Cemetery, 40.27637 and -83.21479. It is also known as Edinburg Cemetery. I will not average those names, and I will not move Edinburg here. A book prints the number 2962, and the name record is 1806213. It is on the east side of Ostrander Road, about 1000 feet north of Marysville Road. About stays. A tree-shaped tombstone is printed for Jacob Ostrander. I will not invent his years. West Elementary is printed as formerly in Ostrander, and as no longer in use, replaced close by in Bellepoint. Formerly stays. No longer stays. Close by stays. I will not invent the school's door, and I will not move Bellepoint here. The Little Mill Creek church moved from Edinburg in 1862. Decades earlier stays. No page names a nation here. I will not invent one. No page prints a battle. I will not invent one. The next place is Ottawa Hills.",
+  long: "",
+  names: ["Fairview Cemetery", "Edinburg Cemetery"]
+},
+
+{
+  id: "ottawa-hills-approach",
+  name: "Ottawa Hills",
+  lat: 41.685,
+  lng: -83.632,
+  radius: 2500,
+  layer: "approach",
+  short: "You are arriving at Ottawa Hills. The first story is the name. This pin is only an offset so the arrival fires first. It is not a survey point.",
+  long: "",
+  names: ["Ottawa Hills"]
+},
+{
+  id: "ottawa-hills-name",
+  name: "The name",
+  lat: 41.665556,
+  lng: -83.630556,
+  radius: 40,
+  short: "The name comes first. This pin is the degrees and minutes Wikipedia prints, 41 degrees 39 minutes 56 seconds north and 83 degrees 37 minutes 50 seconds west. I will not extend those seconds. It prints elevation 610 ft (190 m), population 4,790 in 2020, FIPS 39-59010, and GNIS 1086530. The area is 1.90 square miles (4.91 square kilometers), land 1.88 (4.87), and water 0.015 (0.04). No ZIP is printed for the village. I will not invent one. The place file prints 41.667058 and -83.639770. I will not stack that pair. It was developed beginning in 1915. John North Willys acquired approximately 1,200 acres, printed as 4.9 square kilometers, from Bancroft Street and Indian Road along the Ottawa River to Central Avenue. Approximately stays. I will not average 1,200 acres with the present 4.91 square kilometers. Several annexations substantially changed the shape. Substantially stays. Much of the early development stays. Very similar stays. Plat 1 stays. A booklet is dated 1915 and also published around 1915. Around stays. A caption prints a wooded bit of lowlands in May 1914. I will not finish a quoted line that the page cuts. The village was incorporated August 14, 1924. I will not average 1914, 1915, and 1924. A sentence says they were also established. I will not repair the grammar. Citation needed stays on that claim. More than 1,000 acres stays a different count. Bedroom community stays. Both sides of the river stay. Toledo stays. I will not move it. Indian Road stays a street. I will not invent a nation from the road or from the river. I will not invent a life for John North Willys.",
+  long: "",
+  names: ["Ottawa Hills"]
+},
+{
+  id: "ottawa-hills-school",
+  name: "Ottawa Hills High School",
+  lat: 41.66972,
+  lng: -83.63139,
+  radius: 40,
+  short: "This pin is the decimal Wikipedia prints for the high school, 41.66972 and -83.63139. That page also prints 41 degrees 40 minutes 11 seconds north and 83 degrees 37 minutes 53 seconds west. The address line says Toledo and ZIP 43606. The lead says the school is in the village, just west of Toledo. Just west stays. I will not average Toledo and the village, and I will not give 43606 to the village. It is the only high school in the district. Only stays. The mascot is printed as the Green Bear and as the Green Bears, and formerly as the Green Arrows. Formerly stays. I will not average Bear and Bears. A page says the district ranked first in the state for 2007 to 2008. First stays. I will not invent a later rank. A Liberty Memorial is named by the flagpole. I will not invent the fight. No cemetery is printed with a point. I will not invent one. No person is printed with a birth and a death. I will not invent a life. Scenic home park stays the booklet's words. The next place is Otway.",
+  long: "",
+  names: ["Ottawa Hills High School"]
+},
+
+{
+  id: "otway-approach",
+  name: "Otway",
+  lat: 38.882,
+  lng: -83.189,
+  radius: 2500,
+  layer: "approach",
+  short: "You are arriving at Otway. The first story is the name. This pin is only an offset so the arrival fires first. It is not a survey point.",
+  long: "",
+  names: ["Otway"]
+},
+{
+  id: "otway-name",
+  name: "The name",
+  lat: 38.865,
+  lng: -83.18806,
+  radius: 40,
+  short: "The name comes first. This pin is the decimal Wikipedia prints, 38.86500 and -83.18806. That page also prints 38 degrees 51 minutes 54 seconds north and 83 degrees 11 minutes 17 seconds west. I will not extend those seconds. It prints elevation 591 ft (180 m), population 92 in 2020, density 525.8, ZIP 45657, area code 740, FIPS 39-59066, and GNIS 2399599. The area is 0.18 square miles (0.46 square kilometers), land 0.17 (0.45), and water 0.0039 (0.01). A map prints 38.86646 and -83.1874, and 84 residents, and about 84. About stays. A roadside page prints 86 in 2000, 87 in 2010, and 95 in 2020. I will not average 92, 84, 86, 87, and 95. The place file prints 38.864932 and -83.188227. I will not stack that pair. It is also printed as Otaway and as Ottway. I will not average those spellings. A post office has been in operation since 1861. The town site was platted on March 29, 1884. It was incorporated in 1890. I will not average those years. A page says it does not have a founding date, and that you might consider the post office. Might stays. It was named after Thomas Otway, an English dramatist. I will not invent his years, and I will not move England here. The pronunciation is printed AUT-way. Scioto County stays. I will not move the Scioto townships already pinned. Henley stays. Lombardsville stays. Portsmouth stays 23 kilometers southeast. I will not move it. Toledo stays the bridge company's city. I will not move it.",
+  long: "",
+  names: ["Otway", "Otaway", "Ottway"]
+},
+{
+  id: "otway-cemetery",
+  name: "Otway Cemetery",
+  lat: 38.86868,
+  lng: -83.19129,
+  radius: 40,
+  short: "This pin is the decimal a page prints, 38.86868 and -83.19129. That page also prints 38 degrees 52 minutes 7 seconds north and 83 degrees 11 minutes 29 seconds west. I will not average those. It prints elevation 191 meters, about 191 meters, and a DEM of 186 meters. About stays. I will not average 191, 186, and the village's 180 meters. Washington stays about 535 kilometers east. About stays. I will not move it.",
+  long: "",
+  names: ["Otway Cemetery"]
+},
+{
+  id: "otway-bridge",
+  name: "Otway Covered Bridge",
+  lat: 38.86278,
+  lng: -83.19,
+  radius: 40,
+  short: "This pin is the decimal Wikipedia prints for the bridge, 38.86278 and -83.19000, north of State Route 348. That page also prints 38 degrees 51 minutes 46 seconds north and 83 degrees 11 minutes 24 seconds west. It was built in 1874 and added on May 3, 1974. I will not drop the day. It is 127 feet, printed as 39 meters, and the site is 3.9 acres, printed as 1.6 hectares. I will not average those with the village area. Multiple stays a credit. It was closed to traffic in 1961. Subsequently stays. A tornado on March 2, 2012, is printed with winds upwards of 75 miles an hour, and as damaging the fire department and two houses. The bridge page says March 2012 damaged the roof. Upwards stays. I will not average the day and the month, and I will not make one damage list. A ribbon-cutting was in August 2014. The award is printed in 2015, in the page's quotes. No page names a nation here. I will not invent one. No page prints a battle. I will not invent one. The next place is Owensville.",
+  long: "",
+  names: ["Otway Covered Bridge"]
+},
+
+{
+  id: "owensville-approach",
+  name: "Owensville",
+  lat: 39.14,
+  lng: -84.136,
+  radius: 2500,
+  layer: "approach",
+  short: "You are arriving at Owensville. The first story is the name. This pin is only an offset so the arrival fires first. It is not a survey point.",
+  long: "",
+  names: ["Owensville"]
+},
+{
+  id: "owensville-name",
+  name: "The name",
+  lat: 39.12361,
+  lng: -84.13639,
+  radius: 40,
+  short: "The name comes first. This pin is the decimal Wikipedia prints, 39.12361 and -84.13639. That page also prints 39 degrees 7 minutes 25 seconds north and 84 degrees 8 minutes 11 seconds west. I will not extend those seconds. It prints elevation 866 ft (264 m), population 786 in 2020, density 1,271.6, ZIP 45160, area code 513, FIPS 39-59220, and GNIS 2399604. The infobox prints 0.62 square miles (1.60 square kilometers) and water 0. The geography section prints 0.43 square miles (1.11 square kilometers), all land. I will not average 0.62 and 0.43. The place file prints 39.120837 and -84.136130. I will not stack that pair. It was called Boston, and under the latter name was platted in 1836. Latter stays. A post office called Owensville has been in operation since 1832. Another page says the post office was established in 1833. I will not average 1832 and 1833. Wikipedia says the name comes from Mr. Owens, the first postmaster. Another page says William Owens. I will not average Mr. Owens and William Owens, and I will not invent his years. Another page says the village was incorporated on June 5, 1867, after a petition on January 10. I will not add a year to January 10. The census prints 357 people in 1860. I will not average 1860 and 1867. A page says the area was named Allisonia. I will not drop Boston. Stonelick Township stays. Cincinnati stays. I will not move it. Mayor Rick McEvoy is printed. I will not invent his years. The census prints 1,019 in 1990 and 816 in 2000. I will not average them.",
+  long: "",
+  names: ["Owensville", "Boston", "Allisonia"]
+},
+{
+  id: "owensville-cemetery",
+  name: "Saint Louis Cemetery",
+  lat: 39.12469,
+  lng: -84.13426,
+  radius: 40,
+  short: "This pin is Saint Louis Cemetery, 39.12469 and -84.13426, at 210 North Broadway. The page says it has no description. I will not invent one. Boston Methodist Episcopal Church Cemetery stays 0.4 miles off. I will not invent its door. A village page says Dr. Richard Allison died in 1816 and was buried in Cincinnati, at the site of Fort Washington. I will not move that grave here. He is printed as the first man to be called Surgeon General. Called stays. The quotes around Mad stay. Early stays. The grant was originally 441 acres. Originally stays. In 1792 people were immediately run out by the Indians. Immediately stays. I will not name a nation the page does not name, and I will not invent a battle. The hut stood empty until 1798. Empty stays. Next year stays. I will not turn next year into a numbered year. Hewed stays. Harsh' Run stays the apostrophe. Was to be renovated in 1989 stays. I will not invent the bridge's door. Later to become stays the church site. I will not invent that door. The next place is Painesville.",
+  long: "",
+  names: ["Saint Louis Cemetery"]
+},
+
+{
+  id: "painesville-approach",
+  name: "Painesville",
+  lat: 41.734,
+  lng: -81.242,
+  radius: 2500,
+  layer: "approach",
+  short: "You are arriving at Painesville. The first story is the name. This pin is only an offset so the arrival fires first. It is not a survey point.",
+  long: "",
+  names: ["Painesville"]
+},
+{
+  id: "painesville-name",
+  name: "The name",
+  lat: 41.73944,
+  lng: -81.24972,
+  radius: 40,
+  short: "The name comes first. This pin is the decimal Wikipedia prints, 41.73944 and -81.24972. That page also prints 41 degrees 44 minutes 22 seconds north and 81 degrees 14 minutes 59 seconds west. I will not extend those seconds. It prints elevation 643 ft (196 m), population 20,312 in 2020, ZIP 44077, FIPS 39-59416, and GNIS 1086428. The area is 7.01 square miles (18.15 square kilometers), land 6.83 (17.68), and water 0.18 (0.47). The place file prints 41.721635 and -81.258357. I will not stack that pair. It is along the Grand River, a northeast suburb of Cleveland. Northeast stays. Cleveland stays. I will not move it. General Edward Paine is printed as 1746 to 1841, a native of Bolton, Connecticut, and a captain during the war. I will not add a war name the sentence does not print. A library page says he was formerly of Connecticut but more recently of Scipio, New York. Formerly stays. More recently stays. Scipio stays. I will not move it. Sixty-six settlers arrived in 1800. The survey is 1798. The township was organized in 1802. The post office opened in 1803. I will not average those years. The township was the smallest. A page says embraced. Another says encompassed. I will not average those words. Perry, Leroy, Hambden, Concord, Chardon, Mentor, and Kirtland stay. I will not move them. Oak Openings stays a descriptive name. Descriptive stays. Henry Champion laid out a plat called Champion in 1805. It carried that name only until 1832. Only until stays. The name Painesville is in quotes on one page. The quotes stay. A page says the town became a village in 1852, and a city in 1902. Another page says the city hall was built in 1852. I will not make those one event. Geauga stays. Cuyahoga stays. Lake County stays the 1840 county. I will not move the courthouse off the county seat.",
+  long: "",
+  names: ["Painesville", "Champion", "Oak Openings"]
+},
+{
+  id: "painesville-cemetery",
+  name: "Evergreen Cemetery",
+  lat: 41.728923,
+  lng: -81.233433,
+  radius: 40,
+  short: "This pin is Evergreen Cemetery, N41.728923 and W81.233433, elevation 685 ft. I will not average 685 and 643. The village began to buy the land in 1859. It was established on March 17, 1860, on 24 acres, at Casement Avenue and Main Street. I will not average 1859 and 1860. Celebrated stays. Unique stays. A page says newspapers reported in 1897 that the Old Burying Ground would be used for Harvey High School. Would be stays. Reported stays. I will not invent the school's door. The statue is printed at Charter Oak Park. I will not invent the park's door. Eleazer Paine, the nephew, is printed as a drummer in the Revolutionary War, and as having died shortly after 1803. Shortly after stays. I will not invent the year. Eleazer A. Paine and Halbert E. Paine are printed as later Union generals. I will not make them the same man. A page says Morse fought hardly. Hardly stays. I will not invent his first name, and I will not invent the battle. Kirtland stays. Skinner Avenue stays. No page names a nation here. I will not invent one. The next place is Palestine.",
+  long: "",
+  names: ["Evergreen Cemetery"]
+},
+
+{
+  id: "palestine-approach",
+  name: "Palestine",
+  lat: 40.068,
+  lng: -84.745,
+  radius: 2500,
+  layer: "approach",
+  short: "You are arriving at Palestine. The first story is the name. This pin is only an offset so the arrival fires first. It is not a survey point.",
+  long: "",
+  names: ["Palestine"]
+},
+{
+  id: "palestine-name",
+  name: "The name",
+  lat: 40.05028,
+  lng: -84.74722,
+  radius: 40,
+  short: "The name comes first. This pin is the decimal Wikipedia prints, 40.05028 and -84.74722. That page also prints 40 degrees 3 minutes 1 second north and 84 degrees 44 minutes 50 seconds west. I will not extend those seconds. It prints elevation 1,109 ft (338 m), population 180 in 2020, density 1,232.1, ZIP 45352, area codes 937 and 326, FIPS 39-59598, and GNIS 2399609. I will not average the two area codes. The infobox prints 0.15 square miles (0.38 square kilometers) and water 0. The geography section prints 0.15 square miles (0.39 square kilometers), all land. I will not average 0.38 and 0.39. The place file prints 40.050152 and -84.744321. I will not stack that pair. It was platted by Samuel Loring in 1833. I will not invent his years. A page says the name was chosen as a memorial because of its beautiful location. The printed line is broken. Beautiful stays. I will not move the country here. The township was German Township in December 1820, and later Liberty Township. I will not average those names. About 33 square miles stays, and over 21,000 acres stays. About stays. James Cloyd arrived in 1814, just south of the present site. Just stays. Present stays. Probably stays. I will not invent his years. The page says it has always been a small community, although it declined in the twentieth century, and it prints 216 in 1910. Always stays. Although stays. The table also prints 264 in 1870 and in 1880, and 257 in 1960. I will not average those rows, and I will not invent the missing 1890. New London City stays only a brief allusion. Only stays. Doomed stays. I will not invent its door. Pennsylvania stays. Virginia stays. Osgood stays. I will not move them.",
+  long: "",
+  names: ["Palestine"]
+},
+{
+  id: "palestine-cemetery",
+  name: "Palestine Cemetery",
+  lat: 40.05397,
+  lng: -84.74249,
+  radius: 40,
+  short: "This pin is Palestine Cemetery, 40.05397 and -84.74249, on the east side of Palestine-Union City Road. It is also known as Universalist Cemetery. A book prints both names and the number 2741. The name record is 1044284. The page prints ZIP 45331. I will not average 45331 and 45352. A page says the township has eight cemeteries, and that this one is the largest. Eight stays. Largest stays. I will not invent the other seven. Union City stays in the road name. I will not move it. No school is printed with a door. I will not invent one. No page names a nation here. I will not invent one. No page prints a battle. I will not invent one. The next place is Pancoastburg.",
+  long: "",
+  names: ["Palestine Cemetery", "Universalist Cemetery"]
+},
+
+{
+  id: "pancoastburg-approach",
+  name: "Pancoastburg",
+  lat: 39.64,
+  lng: -83.264,
+  radius: 2500,
+  layer: "approach",
+  short: "You are arriving at Pancoastburg. The first story is the name. This pin is only an offset so the arrival fires first. It is not a survey point.",
+  long: "",
+  names: ["Pancoastburg"]
+},
+{
+  id: "pancoastburg-name",
+  name: "The name",
+  lat: 39.62556,
+  lng: -83.26444,
+  radius: 40,
+  short: "The name comes first. This pin is the decimal Wikipedia prints, 39.62556 and -83.26444. That page also prints 39 degrees 37 minutes 32 seconds north and 83 degrees 15 minutes 52 seconds west. I will not extend those seconds. It prints elevation 863 ft (263 m), population 68 in 2020, ZIP 43160, area code 740, FIPS 39-59724, and GNIS 2628950. The area is 0.35 square miles (0.90 square kilometers), land 0.34 (0.88), and water 0.0039 (0.01). The list says unincorporated. The page says an unincorporated community and a census-designated place. I will not average those labels. The place file prints 39.623949 and -83.265036. I will not stack that pair. It is along State Route 207, about 6 miles south of Mount Sterling. About stays. I will not average the miles and the kilometers. Mount Sterling stays. I will not move it. It was originally known as Pancoastburgh. Samuel Pancoast established a carding mill in the 1820s. Isaiah Pancoast platted the town. Then stays. I will not merge the two men, and I will not invent their years. Yankeetown was a short distance away. Short distance stays. Short lived stays. I will not invent its door. About this time the name was changed to Waterloo. About this time stays. By 1860 it was changed back. By stays. The page says the post office was established as Pancoastburgh after George washington on August 19, 1786. The w stays lowercase. I will not identify that name as a president. Another page prints August 19, 1847, and does not print that phrase. I will not average 1786 and 1847. The name was changed on May 16, 1893, and discontinued on December 15, 1920. The mail now goes through Washington Court House. Now stays. I will not move that city, and I will not merge it with the lowercase name. Chillicothe stays. Urbana stays. Madison Township stays. I will not move them.",
+  long: "",
+  names: ["Pancoastburg", "Pancoastburgh", "Waterloo"]
+},
+{
+  id: "pancoastburg-mound",
+  name: "Jackson Mound",
+  lat: 39.67778,
+  lng: -83.26528,
+  radius: 40,
+  short: "This pin is the decimal Wikipedia prints for the Jackson Mound, 39.67778 and -83.26528. That page also prints 39 degrees 40 minutes 40 seconds north and 83 degrees 15 minutes 55 seconds west. It is east of State Route 207. One page says 4 miles, printed as 6 kilometers, north of Pancoastburg. The mound page says 4 miles, printed as 6.4 kilometers. I will not average 6 and 6.4, and I will not move the mound into the community. Less than 1 acre stays. Approximately 75 feet stays, and 5.5 feet stays. Never been excavated stays. Certain stays impossible. However stays. Suggests stays. If true stays. Likely stays. A 1914 survey listed forty-two mounds. Forty-two stays. Only one has survived. Only stays. It was added on October 21, 1975, and a sentence says late 1975. Late stays. I will not drop the day. The Adena culture is the culture the page suggests. I will not invent a nation beyond that. No cemetery is printed with a point. I will not invent one. No page prints a birth and a death. I will not invent a life. No page prints a battle. I will not invent one. The next place is Park Layne.",
+  long: "",
+  names: ["Jackson Mound"]
+},
+
+{
+  id: "park-layne-approach",
+  name: "Park Layne",
+  lat: 39.905,
+  lng: -84.044,
+  radius: 2500,
+  layer: "approach",
+  short: "You are arriving at Park Layne. The first story is the name. This pin is only an offset so the arrival fires first. It is not a survey point.",
+  long: "",
+  names: ["Park Layne"]
+},
+{
+  id: "park-layne-name",
+  name: "The name",
+  lat: 39.88806,
+  lng: -84.03944,
+  radius: 40,
+  short: "The name comes first. This pin is the decimal Wikipedia prints, 39.88806 and -84.03944. That page also prints 39 degrees 53 minutes 17 seconds north and 84 degrees 2 minutes 22 seconds west. I will not extend those seconds. It prints elevation 840 ft (260 m), population 4,248 in 2020, FIPS 39-59920, and GNIS 2393177. No ZIP is printed. I will not invent one. The infobox prints 1.46 square miles (3.79 square kilometers). The geography section prints 1.5 square miles (3.8 square kilometers), all of it land. All of it stays. I will not average 1.46 and 1.5, or 3.79 and 3.8. The place file prints 39.888137 and -84.039386. I will not stack that pair. The list says unincorporated. The page says a census-designated place. I will not average those labels. A page says it does not have a post office, and that the church uses a New Carlisle address. Does not stays. However, the church is in Park Layne and not in New Carlisle. However stays. I will not move New Carlisle. Often times people say Park Layne Manor. Often times stays. The page says it has not been able to find and documentation. I will not repair that sentence, and I will not adopt the extra name. Crystal Lakes stays the eastern border. Bethel Township in Miami County stays the western border. I will not average it with Bethel Township in Clark County. New Carlisle stays 3.5 miles north. Dayton stays 14 miles southwest. I will not average the miles and the kilometers. Exit 41 stays. The elementary school is printed in the northwest corner. I will not invent its door. The district was formerly the New Carlisle-Bethel Local District prior to the fall of 1989. Formerly stays. Fall stays. The page prints Tecumseh as the district name. I will not invent a nation from that name.",
+  long: "",
+  names: ["Park Layne"]
+},
+{
+  id: "park-layne-cemetery",
+  name: "Huber Mennonite Cemetery",
+  lat: 39.8914,
+  lng: -84.0483,
+  radius: 40,
+  short: "This pin is the decimal a page prints, 39.8914 and -84.0483. That page also prints 39 degrees 53 minutes 29 seconds north and 84 degrees 2 minutes 53 seconds west. I will not average those. A list says the cemetery is about 0.5 miles away. About stays. The church was established in 1858. The building was not utilized till 1867. Till stays. However stays. The page says the cemetery bears his and and the cemetery. I will not finish that broken sentence. Only fitting stays. Henry Huber is printed as the first interment, and as one of 109 people buried here. I will not invent his years. Most of the time stays. Exactly stays. New Carlisle Cemetery stays 2.5 miles off. I will not move it. No page names a nation here. I will not invent one. No page prints a battle. I will not invent one. The next place is Parkman.",
+  long: "",
+  names: ["Huber Mennonite Cemetery"]
+},
+
+{
+  id: "parkman-approach",
+  name: "Parkman",
+  lat: 41.388,
+  lng: -81.061,
+  radius: 2500,
+  layer: "approach",
+  short: "You are arriving at Parkman. The first story is the name. This pin is only an offset so the arrival fires first. It is not a survey point.",
+  long: "",
+  names: ["Parkman"]
+},
+{
+  id: "parkman-name",
+  name: "The name",
+  lat: 41.37361,
+  lng: -81.05944,
+  radius: 40,
+  short: "The name comes first. This pin is the decimal Wikipedia prints, 41.37361 and -81.05944. That page also prints 41 degrees 22 minutes 25 seconds north and 81 degrees 3 minutes 34 seconds west. I will not extend those seconds. It prints population 282 in 2020, ZIP 44080, FIPS 39-59934, and GNIS 2628951. The pages I am using do not print an elevation or an area for the place. I will not invent them. The list says unincorporated. The page says a census-designated place in southern Parkman Township. Southern stays. I will not average those labels. The place file prints 41.372206 and -81.055012. I will not stack that pair. It was laid out in 1804 and named for Samuel Parkman, an official of the Connecticut Land Company. A post office has been in operation since 1806. I will not average 1804 and 1806. Another page says Robert Breck Parkman founded it, and that Samuel of Boston owned it, along with 40,000 acres here and 40,000 acres in Parkman, Maine. I will not average the two 40,000s, and I will not move Boston or Maine here. The nephew settled on 600 acres in 1804 and built the first cabin. First stays. A quoted line says he had the first house and the first caucasian child born here. According to the account stays. Caucasian stays the page's word. I will not invent the child's name. It lies at U.S. Route 422 and State Routes 88, 168, and 528. I will not average those roads. Seth Ledyard Phelps is printed as a Navy officer. I will not invent his years, and I will not invent a battle. The post office is in a caption. I will not invent a second door.",
+  long: "",
+  names: ["Parkman"]
+},
+{
+  id: "parkman-cemetery",
+  name: "Old Cemetery",
+  lat: 41.36867,
+  lng: -81.06343,
+  radius: 40,
+  short: "This pin is the decimal a page prints, 41.36867 and -81.06343. That page also prints 41 degrees 22 minutes 7 seconds north and 81 degrees 3 minutes 48 seconds west. I will not average those. The title says near the township. A genealogy page says the burial is in Old Cemetery, Parkman. Near stays. I will not average near and in. It prints elevation about 329 meters, and a DEM of 330 meters. About stays. I will not average 329 and 330. Robert Breck Parkman is printed as born May 21, 1771, and as died 21 March 1832, and also as March 21, 1832, aged 60 years. Aged 60 stays. I will not correct the count. Five years before the Declaration stays. I will not invent a battle. Lucy Phelps Parkman is printed as 1783 to 1820. Adeline is printed as 1807 to 1836, and Henry S. as 1807 to 1867. I will not merge the two 1807 births. Edwin is printed as 1808 to 1828. Calculated stays. Champion Heights stays 20 kilometers east. Washington stays about 440 kilometers southeast. I will not move them. No page names a nation here. I will not invent one. The next place is Parma Heights.",
+  long: "",
+  names: ["Old Cemetery"]
+},
+
+{
+  id: "parma-heights-approach",
+  name: "Parma Heights",
+  lat: 41.405,
+  lng: -81.757,
+  radius: 2500,
+  layer: "approach",
+  short: "You are arriving at Parma Heights. The first story is the name. This pin is only an offset so the arrival fires first. It is not a survey point.",
+  long: "",
+  names: ["Parma Heights"]
+},
+{
+  id: "parma-heights-name",
+  name: "The name",
+  lat: 41.38611,
+  lng: -81.76333,
+  radius: 40,
+  short: "The name comes first. This pin is the decimal Wikipedia prints, 41.38611 and -81.76333. That page also prints 41 degrees 23 minutes 10 seconds north and 081 degrees 45 minutes 48 seconds west. The leading zero stays. A geography line prints the same degrees without the leading zero, and also 41.386051 and -81.763459. I will not stack that pair. It prints elevation 856 ft (261 m), population 20,863 in 2020, density 4,971.4, ZIP 44130, area codes 440, 216, and 436, FIPS 39-61028, and GNIS 1056914. I will not average the area codes. The infobox prints 4.20 square miles (10.87 square kilometers) and water 0. The geography section prints 4.19 square miles (10.85 square kilometers), all land. A history line prints 4.13 square miles. I will not average 4.20, 4.19, and 4.13. The place file prints 41.383386 and -81.761273. I will not stack that pair. The sentence says it is a suburb of Cleveland, it is a part of the metropolitan area. I will not repair the repeated it is. Cleveland stays. Parma stays on the north, east, and south. Brook Park stays. Middleburg Hts. stays the abbreviation. I will not move them. Wikipedia prints Greenbriar. A marker prints Greenbrier, in quotes. I will not average the spellings. The quote is cut by dots. The dots stay. Deserved a better name stays. March 7, 1826, stays the township of Parma. I will not make the township this city. The village vote in 1911 was 42 to 32. I will not add those. Temperance mood stays. Perceived a lack of representation stays. I will not average those reasons. A page says 310 residents in 1920. Another says 900 in 1920, and only 1,330 by 1940. Only stays. I will not average 310 and 900. One page says the city dates from December 1956. Another says 1959. I will not average them. The township count of 1,631 in 1910 stays the township. I will not put it on the city. Italy stays. I will not move it. Mayor Marie Gallo is printed. I will not invent her years.",
+  long: "",
+  names: ["Parma Heights", "Greenbriar", "Greenbrier"]
+},
+{
+  id: "parma-heights-cemetery",
+  name: "Parma Heights Cemetery",
+  lat: 41.398917,
+  lng: -81.751524,
+  radius: 40,
+  short: "This pin is the marker's pair, 41.398917 and -81.751524. The cemetery has been a resting place since the 1820s. Since stays. A log building at the north end stood from 1826 to 1841. A page says the northern corner. I will not average end and corner. A plate marks the spot. I will not invent a second door. The vault was erected in 1892. The grounds were expanded in 1913, in 1925 to 1927, and in 1972. The page prints 1925-'27. The mark stays. Around 1936 stays. The city has maintained it since 1955. I will not average 1955 with 1956 or 1959. Veterans' graves have small plaques. I will not invent the wars. Decoration Day and then Memorial Day stays, since 1868. And then stays. A fire on November 26, 2014, is printed as early-morning, and as intentionally set. Early-morning stays. Intentionally stays. I will not invent the city hall's door. No page names a nation here. Germans stays a printed word for early settlers. I will not turn it into a nation on this ground. The next place is Parral.",
+  long: "",
+  names: ["Parma Heights Cemetery"]
+},
+
+{
+  id: "parral-approach",
+  name: "Parral",
+  lat: 40.575,
+  lng: -81.495,
+  radius: 2500,
+  layer: "approach",
+  short: "You are arriving at Parral. The first story is the name. This pin is only an offset so the arrival fires first. It is not a survey point.",
+  long: "",
+  names: ["Parral"]
+},
+{
+  id: "parral-name",
+  name: "The name",
+  lat: 40.56083,
+  lng: -81.495,
+  radius: 40,
+  short: "The name comes first. This pin is the decimal a page prints, 40.56083 and -81.49500. That page also prints 40 degrees 33 minutes 39 seconds north and 81 degrees 29 minutes 42 seconds west. I will not extend those seconds. It prints elevation 922 ft (281 m), population 205 in 2020, density 1,138.89, ZIP 44622, area code 330, FIPS 39-61056, and GNIS 2399627. The area is 0.18 square miles (0.47 square kilometers). One line prints water 0.00. Another prints all land. I will not average those words. A map prints 40.5611743 and -81.4970623, and an approximate elevation of 906 feet (276 meters), and the feature type city. Approximate stays. I will not average 922 and 906, and I will not average village and city. The place file prints 40.560946 and -81.495098. A civil point prints N40.560945 and W81.494971. I will not stack those points. It was laid out in 1900 and named after Parral, Mexico. I will not move Mexico here. A post office was established in 1902 and remained until 1915. Remained stays. A page says it does not have a founding date, and that you might consider the post office. Might stays. A 1901 map is the earliest mention that page has found so far. So far stays. I will not average 1900, 1901, and 1902. The census prints 205 in 1930, in 1940, and in 2020. I will not average those rows. A 2019 estimate prints 212. I will not average 212 and 205. A historical post office is printed at N40.561174 and W81.497618. I will not stack it. Dover stays the township and the map name. I will not move the city of Dover. Strasburg stays. Beartown stays. Wooster Avenue is a caption. I will not invent a building's door. No page prints a birth and a death. I will not invent a life. No cemetery is printed in the village. I will not move Saint Peters Cemetery here. No page names a nation. I will not invent one. No page prints a battle. I will not invent one. No separate legend is printed beyond might, so far, and remained. I will not invent one. The next place is Pataskala.",
+  long: "",
+  names: ["Parral"]
+},
+
+{
+  id: "pataskala-approach",
+  name: "Pataskala",
+  lat: 39.993,
+  lng: -82.694,
+  radius: 2500,
+  layer: "approach",
+  short: "You are arriving at Pataskala. The first story is the name. This pin is only an offset so the arrival fires first. It is not a survey point.",
+  long: "",
+  names: ["Pataskala"]
+},
+{
+  id: "pataskala-name",
+  name: "The name",
+  lat: 39.99778,
+  lng: -82.71556,
+  radius: 40,
+  short: "The name comes first. This pin is the decimal Wikipedia prints, 39.99778 and -82.71556. That page also prints 39 degrees 59 minutes 52 seconds north and 82 degrees 42 minutes 56 seconds west. I will not extend those seconds. It prints elevation 1,027 ft (313 m), population 17,886 in 2020, ZIP 43062, area codes 740 and 614, FIPS 39-61112, and GNIS 1086476. I will not average the area codes. The infobox prints 29.06 square miles (75.26 square kilometers), land 28.96 (75.01), and water 0.097 (0.25). The geography section prints 28.72 (74.38), land 28.62 (74.13), and water 0.10 (0.26). I will not average those. The place file prints 40.019795 and -82.719880. I will not stack that pair. It is approximately 19 miles east of Columbus. Approximately stays. Columbus stays. I will not move it. It was a small community until 1996, when what was then the village merged with Lima Township. What was then stays. Vastly stays. I will not move Lima. It was laid out in 1851. A post office has been in operation since 1852. The name was changed in 1852. I will not average 1851 and 1852. It was originally Conine Town. One page puts that name in quotes. The quotes stay. Richard Conine and Sarah (Van Dorn) Conine settled permanently in 1821. Permanently stays. Over 2000 acres stays. Most of the land was sold by 1850. Most stays. Jess Stoneman Green likewise laid out lots in 1852. Likewise stays. A page says the town was renamed soon after. Soon after stays. I will not average soon after with 1852. The page says the name is derived from the Delaware language. Derived stays. I will not invent the meaning. New Jersey stays. Newark stays. I will not move them. Two school districts stay. I will not average them.",
+  long: "",
+  names: ["Pataskala", "Conine Town"]
+},
+{
+  id: "pataskala-cemetery",
+  name: "Pataskala Cemetery",
+  lat: 39.98877,
+  lng: -82.6731,
+  radius: 40,
+  short: "This pin is Pataskala Cemetery, 39.98877 and -82.67310, on Creek Road. The locator prints the word NEAR. NEAR stays. A list says Pataskala is 0.5 miles north. I will not move the city onto this pin. A page says the Conines gave the land. I will not invent their years. Their home stood until 1964. Until stays. A marker is printed at 66 East Broad Street. I will not invent a second door. A grist mill is printed as nearby. Nearby stays. I will not invent the mill's door. A subscription school is printed in the 1820s, on the banks of the South Fork. In the 1820s stays. A Queen Anne school is printed on South High Street. I will not invent its door. Mud pike stays. Before the railroad stays. One couple stays. Etna stays. Reynoldsburg stays. Kirkersville stays. No page prints a battle. I will not invent one. The next place is Patterson.",
+  long: "",
+  names: ["Pataskala Cemetery"]
+},
+
+{
+  id: "patterson-approach",
+  name: "Patterson",
+  lat: 40.8,
+  lng: -83.527,
+  radius: 2500,
+  layer: "approach",
+  short: "You are arriving at Patterson. The first story is the name. This pin is only an offset so the arrival fires first. It is not a survey point.",
+  long: "",
+  names: ["Patterson"]
+},
+{
+  id: "patterson-name",
+  name: "The name",
+  lat: 40.78222,
+  lng: -83.52611,
+  radius: 40,
+  short: "The name comes first. This pin is the decimal Wikipedia prints, 40.78222 and -83.52611. That page also prints 40 degrees 46 minutes 56 seconds north and 83 degrees 31 minutes 34 seconds west. I will not extend those seconds. A name record prints 40.7821796 and -83.5261345, and 40 degrees 46 minutes 55.85 seconds north and 83 degrees 31 minutes 34.08 seconds west. I will not average 56 seconds with 55.85 seconds. It prints elevation 925 ft (282 m), population 130 in 2020, density 1,480.2, ZIP 45843, area code 419, FIPS 39-61182, and GNIS 2399631. The infobox prints 0.089 square miles (0.23 square kilometers) and water 0. The geography section prints 0.11 square miles (0.28 square kilometers), all land. I will not average 0.089 and 0.11. The place file prints 40.782180 and -83.526134. I will not stack that pair. It was platted in 1846 and named for Robert Patterson, a railroad official. A book prints August 29, 1846, and says the name proposed was Petersburg. Proposed stays. It was named in honor of Robert Patterson of Bellefontaine. I will not move Bellefontaine. Secretary and Treasurer stay. Now stays the later railroad name. Special friend stays. I will not invent his years. H. Gr. Harris and H. G. Harris both stay. I will not average them. Additions are printed on April 14, 1855, December 13, 1855, and January 30, 1866. I will not average those days. The book prints the word embiaced for four entire sections. I will not repair it. It remained thus until February 6, 1883, and was reduced to less than one-quarter of a section. Less than stays. I will not average that with 0.089 or 0.11. A post office named Sylvia was established about 1847 or 1848, with either Dr. A. F. Stanley or Mr. Lewis. About stays. Either stays. About 1850 the name was changed. Wikipedia says the Patterson post office was established in 1869 and remained until 1978. Remained stays. I will not average those years. Forest stays the other town in Jackson Township, and it stays the map name. I will not move it. Kenton street stays a street. I will not move the city of Kenton. The Darke County township of the same name stays where it was. I will not move it.",
+  long: "",
+  names: ["Patterson", "Petersburg", "Sylvia"]
+},
+{
+  id: "patterson-cemetery",
+  name: "Patterson Cemetery",
+  lat: 40.787269,
+  lng: -83.528534,
+  radius: 40,
+  short: "This pin is Patterson Cemetery, N40.787269 and W83.528534. It also prints elevation 925 ft. I will not decide that this 925 and the village's 925 are one survey. Price Cemetery stays at N40.789491 and W83.531589. I will not stack it. A populated place is printed at N40.780610 and W83.525760, and a post office at N40.780610 and W83.526316. I will not stack those. Oak Harbor Church stays 4.5 miles off. I will not move the village of Oak Harbor here. No page prints a birth and a death. I will not invent a life. No page names a nation here. I will not invent one. No page prints a battle. I will not invent one. No school is printed with a door in the village. I will not invent one. The next place is Peebles.",
+  long: "",
+  names: ["Patterson Cemetery"]
+},
+
+{
+  id: "peebles-approach",
+  name: "Peebles",
+  lat: 38.96,
+  lng: -83.409,
+  radius: 2500,
+  layer: "approach",
+  short: "You are arriving at Peebles. The first story is the name. This pin is only an offset so the arrival fires first. It is not a survey point.",
+  long: "",
+  names: ["Peebles"]
+},
+{
+  id: "peebles-name",
+  name: "The name",
+  lat: 38.94639,
+  lng: -83.40944,
+  radius: 40,
+  short: "The name comes first. This pin is the decimal Wikipedia prints, 38.94639 and -83.40944. That page also prints 38 degrees 56 minutes 47 seconds north and 83 degrees 24 minutes 34 seconds west. I will not extend those seconds. It prints population 1,774 in 2020, ZIP 45660, area codes 937 and 326, FIPS 39-61420, and GNIS 2399644. I will not average the area codes. The geography section prints 1.18 square miles (3.06 square kilometers), all land. A map prints a rounded pair, 38.94 and -83.4, and elevation 826 feet (252 meters). I will not stack the rounded pair, and I will not invent a second elevation. The place file prints 38.946291 and -83.409378. I will not stack that pair. It is 64 miles east of Cincinnati. I will not average the miles and the kilometers, and I will not move Cincinnati. It was founded in 1881 and officially incorporated in 1886. Officially stays. A page says Isaiah Custer platted it in 1881. It was named for John G. Peebles. One page says he was instrumental. Instrumental stays. Another says he was a Portsmouth businessman. I will not move Portsmouth, and I will not merge him with Isaiah Custer, and I will not invent either man's years. Zane's Trace is printed as 1796 to 1797, and also as 1796-97. I will not average the marks with 1881. The railroad is printed as the Cincinnati and Eastern Railway, and as the Cincinnati and Eastern Railroad, and as today the Cincinnati Eastern Railroad. Today stays. I will not average Railway and Railroad. David Nixon built the first house, later the Nixon Hotel. Later stays. For many years stays. Chautauquas were just south of the railroad from 1906 through 1917. Just south stays. Beginning stays. Continuing through stays. A cairn of peace is printed as 1957, on the corner of Main and Elm. I will not invent the door, and I will not invent the war. A page says the Great Serpent Mound is near, and that it is 1,348 feet long. Near stays. Mysteries stays. I will not move the mound here, and I will not name a nation the page does not name. Locust Grove Cemetery is printed on a Peebles address, and also as 2.2 miles from Peebles. NEAR stays. I will not move it. Otway stays. Sinking Spring stays. Meigs Township stays. I will not move Meigs County. Edmund Wittenmyer is printed as a major general. I will not invent his years or a battle. The next place is Pemberville.",
+  long: "",
+  names: ["Peebles"]
+},
+
+{
+  id: "pekin-approach",
+  name: "Pekin",
+  lat: 40.735,
+  lng: -81.126,
+  radius: 2500,
+  layer: "approach",
+  short: "You are arriving at Pekin. The first story is the name. This pin is only an offset so the arrival fires first. It is not a survey point.",
+  long: "",
+  names: ["Pekin"]
+},
+{
+  id: "pekin-name",
+  name: "The name",
+  lat: 40.72139,
+  lng: -81.12611,
+  radius: 40,
+  short: "The name comes first. This pin is the decimal Wikipedia prints, 40.72139 and -81.12611. That page also prints 40 degrees 43 minutes 17 seconds north and 81 degrees 7 minutes 34 seconds west. I will not extend those seconds. It prints elevation 1,050 ft (320 m), population 314 in 2020, density 628.5, ZIP 44657 with Minerva in parentheses, area codes 330 and 234, FIPS 39-61448, and GNIS 2805300. I will not drop Minerva from the ZIP, and I will not average the area codes. The area is 0.50 square miles (1.29 square kilometers) and water 0. The list says unincorporated. The page says an unincorporated community and a census-designated place, first listed prior to the 2020 census. Prior stays. I will not average those labels. The place file prints 40.720697 and -81.124619. I will not stack that pair. It is on the northern edge of Carroll County, in northeastern Brown Township. Northern stays. Northeastern stays. Minerva stays the eastern border. Paris Township in Stark County stays the northern border. I will not move them. State Route 183 is also printed as Valley Street. Malvern stays 4 miles southwest. I will not average the miles and the kilometers. Canton stays 17 miles from Minerva. From Minerva stays. I will not move Canton. It is on the north side of Sandy Creek. North side stays. The Tuscarawas River stays. I will not move it. Warren County's Pekin stays. I will not move it. I will not move the Illinois city, and I will not bring its legend here. No page I am using prints a birth and a death for this place. I will not invent a life.",
+  long: "",
+  names: ["Pekin"]
+},
+{
+  id: "pekin-cemetery",
+  name: "Pekin Cemetery",
+  lat: 40.71589,
+  lng: -81.13081,
+  radius: 40,
+  short: "This pin is Pekin Cemetery, 40.71589 and -81.13081, on the south side of Leisure Road, about 0.3 miles west of Linden Road. About stays. The page prints that sentence twice. I will not make it two distances. A book prints the number 1399. The address prints Pekin and ZIP 44657. I will not drop the Minerva parenthesis from the other ZIP line. Pekin Burial Ground stays 0.3 miles off. I will not invent its door. Bever Cemetery stays. Minerva Junction stays. No school is printed with a door. I will not invent one. No page names a nation here. I will not invent one. No page prints a battle. I will not invent one. No separate legend is printed for this place. I will not invent one. The next place is Pemberville.",
+  long: "",
+  names: ["Pekin Cemetery"]
+},
+{
+  id: "pemberville-approach",
+  name: "Pemberville",
+  lat: 41.42,
+  lng: -83.459,
+  radius: 2500,
+  layer: "approach",
+  short: "You are arriving at Pemberville. The first story is the name. This pin is only an offset so the arrival fires first. It is not a survey point.",
+  long: "",
+  names: ["Pemberville"]
+},
+{
+  id: "pemberville-name",
+  name: "The name",
+  lat: 41.40972,
+  lng: -83.45889,
+  radius: 40,
+  short: "The name comes first. This pin is the decimal the infobox prints, 41.40972 and -83.45889. That page also prints 41 degrees 24 minutes 35 seconds north and 83 degrees 27 minutes 32 seconds west. A geography line prints 41 degrees 24 minutes 41 seconds north and 83 degrees 27 minutes 31 seconds west, and 41.41139 and -83.45861, and also 41.411371 and -83.458710. I will not average those pairs. It prints elevation 643 ft (196 m), population 1,326 in 2020, ZIP 43450, FIPS 39-61504, and GNIS 2399646. The infobox prints 1.20 square miles (3.10 square kilometers). The geography section prints 1.16 square miles (3.00 square kilometers), all land. I will not average 1.20 and 1.16. The place file prints 41.409592 and -83.458762. I will not stack that pair. A news page says about 1300. About stays. A village page says the count stands above 1,326. Above stays. I will not average those. It was platted in 1854. A survey is printed on May 24, 1854. I will not drop the day. It was named for James Pember, a first settler, and a page says he built the first frame house. First stays. I will not invent his years. An early variant was The Forks. Early stays. The page also says it rests on the forks, and Wikipedia says the banks. I will not average banks and forks. A post office has been in operation since 1866. The village was incorporated in 1876. A page says it was ordered on June 8, 1876, and that the state records December 20, 1876. I will not average those days. A 2026 page says this year is celebrating 150 years. This year stays. One page prints Mayor Carol Ann Bailey. A news page prints Mayor Ed Wozniak. I will not average them, and I will not invent their years. Front Street is printed as the strip, in quotes. The quotes stay. A water tower stood about a century and was torn down in 2025. About stays. The quote prints its without an apostrophe. I will not repair it. Freedom Township stays. Bradner stays. I will not move them.",
+  long: "",
+  names: ["Pemberville", "The Forks"]
+},
+{
+  id: "pemberville-park",
+  name: "William Henry Harrison Park",
+  lat: 41.402274,
+  lng: -83.456596,
+  radius: 40,
+  short: "This pin is William Henry Harrison Park, N41.402274 and W83.456596, elevation 649 ft. I will not average 649 and 643. A village page prints the name as Harrison Park, in quotes, and says the army was encamped in the area now known as that park. Now known stays. The quotes stay. It was the War of 1812. After the battle of Fallen Timbers stays. After stays. Gradually stays. I will not move Fallen Timbers here. The page names the Iroquois, the Wyandot, and the Ottawa as the original inhabitants of this area. Original stays. I will not invent a village for them. The river stays an important water route. Important stays.",
+  long: "",
+  names: ["William Henry Harrison Park", "Harrison Park"]
+},
+{
+  id: "pemberville-cemetery",
+  name: "Pemberville Cemetery",
+  lat: 41.395878,
+  lng: -83.491314,
+  radius: 40,
+  short: "This pin is Pemberville Cemetery, N41.395878 and W83.491314. A map says it is 1.9 miles from the park. I will not move it to the village center. Webster Township Cemetery stays at 41.407005 and -83.531262, and it is also printed as Scotch Ridge Cemetery and as Township Cemetery. I will not average those names, and I will not move it. It prints established 1802, and the first burial as unknown. Unknown stays. I will not average 1802 and 1854. The opera house is printed as built in 1891, the oldest functioning one in the state, with an addition in early 2016. Oldest stays. Early stays. Completely restored stays. I will not invent its door. The elementary school stays at N41.413238 and W83.459618. I will not stack it on the name. Peaceful stays. Still stays. The next place is Peninsula.",
+  long: "",
+  names: ["Pemberville Cemetery"]
+},
+
+{
+  id: "peninsula-approach",
+  name: "Peninsula",
+  lat: 41.255,
+  lng: -81.552,
+  radius: 2500,
+  layer: "approach",
+  short: "You are arriving at Peninsula. The first story is the name. This pin is only an offset so the arrival fires first. It is not a survey point.",
+  long: "",
+  names: ["Peninsula"]
+},
+{
+  id: "peninsula-name",
+  name: "The name",
+  lat: 41.24222,
+  lng: -81.54778,
+  radius: 40,
+  short: "The name comes first. This pin is the decimal Wikipedia prints, 41.24222 and -81.54778. That page also prints 41 degrees 14 minutes 32 seconds north and 81 degrees 32 minutes 52 seconds west. I will not extend those seconds. It prints elevation 748 ft (228 m), population 536 in 2020, ZIP 44264, area code 330, FIPS 39-61574, and GNIS 2399650. The area is 4.42 square miles (11.44 square kilometers), land 4.41 (11.41), and water 0.0077 (0.02). The place file prints 41.233971 and -81.553175. A civil point prints N41.23776 and W81.55202. A populated place prints N41.24117 and W81.55262. I will not stack those pairs. It is along the Cuyahoga River, in the middle of the park. Middle stays. Akron stays the metropolitan area. I will not move it. Boston Mills stays near. Near stays. Wikipedia says settlement began in 1818, and that Herman Bronson officially platted the village in 1837. Officially stays. Another page prints Hermon Bronson, and says he arrived in 1824, and that he plotted the village. I will not average Herman and Hermon, or platted and plotted, or 1818 and 1824. Seems stays. However, Alonzo Dee is the first known settler. However stays. First known stays. The cabin no longer exists. No longer stays. A page prints the year 18J5. I will not repair it. Around 1800 stays. Waterbury stays. I will not move it. The name is in quotes, in recognition of a bend in the river. In recognition stays. Obviously stays. It was incorporated in 1859. Formally stays. I will not invent a life for Hiram Volney Bronson. Leading up to 1887 stays. Prime stays. Five hotels and 14 taverns stay. Boston Heights stays its own vote of 87 to 12. I will not move that vote here. Everett stays. I will not move it.",
+  long: "",
+  names: ["Peninsula"]
+},
+{
+  id: "peninsula-cemetery",
+  name: "Cedar Grove Cemetery",
+  lat: 41.24088,
+  lng: -81.56095,
+  radius: 40,
+  short: "This pin is Cedar Grove Cemetery, N41.24088 and W81.56095. The historic district stays at N41.24144 and W81.55484, and a page says it covers 53 acres on both sides of the road. Both sides stays. I will not stack that pin. A school is printed at N41.23986 and W81.55947. I will not decide that it is the 1886 building. The museum is printed as built in 1886, originally the high school and later the township hall. Originally stays. Later stays. I will not invent its door. The church is printed as built in 1835 as Bethel Church, and redesigned in 1889. I will not average those years, and I will not invent its door. A historian described the boatmen as rowdy and illicit. Described as stays. Common stays. I will not invent a battle. Many of the workers are printed as Irish Catholics. Many stays. I will not invent a nation beyond that. The next place is Perry.",
+  long: "",
+  names: ["Cedar Grove Cemetery"]
+},
+{
+  id: "peninsula-lock",
+  name: "Deep Lock",
+  lat: 41.23339,
+  lng: -81.55956,
+  radius: 40,
+  short: "This pin is Deep Lock, N41.23339 and W81.55956. The map says it is historical, and it calls it a dam. Historical stays. A page says the quarries and the canal are preserved in Deep Lock Quarry Metropolitan Park, south of town. South stays. I will not average dam and park, and I will not move the park off this point if the map prints the lock here. Riverview is also printed as River view. I will not average the spellings. Limited stays the canal after the railroad. After stays. The next place is Perry.",
+  long: "",
+  names: ["Deep Lock"]
+},
+
+{
+  id: "perry-approach",
+  name: "Perry",
+  lat: 41.78,
+  lng: -81.15,
+  radius: 2500,
+  layer: "approach",
+  short: "You are arriving at Perry. The first story is the name. This pin is only an offset so the arrival fires first. It is not a survey point.",
+  long: "",
+  names: ["Perry"]
+},
+{
+  id: "perry-name",
+  name: "The name",
+  lat: 41.76361,
+  lng: -81.14306,
+  radius: 40,
+  short: "The name comes first. This pin is the decimal Wikipedia prints for the village, 41.76361 and -81.14306. That page also prints 41 degrees 45 minutes 49 seconds north and 81 degrees 8 minutes 35 seconds west. I will not extend those seconds. It prints elevation 699 ft (213 m), population 1,602 in 2020, density 706, ZIP 44081, area code 440, FIPS 39-61882, and GNIS 1086431. The motto is Together We Take Pride. The geography section prints 2.18 square miles (5.65 square kilometers), all land. Another figure prints 2.27 square miles (5.88 square kilometers). A page says about 2 square miles. About stays. I will not average 2.18, 2.27, and about 2. The place file prints 41.763674 and -81.143013. A populated place prints N41.760326 and W81.140932. I will not stack those pairs. The township point is 41.75750 and -81.14944, and its count is 8,862, and its FIPS is 39-61896. I will not average the village and the township. One of 26 stays a word about the townships. I will not put it on the village. The village is in the center. Center stays. North Perry stays northeast. I will not move it. Painesville Township stays west. I will not move the city of Painesville. It is named for Commodore Oliver Hazard Perry, to commemorate the victory at the Battle of Lake Erie in September 1813. Turning point stays. Western theater stays. Another page prints September 10, 1813. I will not drop the day, and I will not move the battle here. The township was organized on July 1, 1815. The village was incorporated on June 2, 1913, from a portion of the township. Approximately 80 electors stays. Approximately stays. I will not average 1815 and 1913. A page says Ezra Beebe arrived in 1808 and died in 1813, near the Grand River. Near stays. I will not move that house here, and I will not invent his birth, and I will not invent the fight. The Lucius Green House is printed as built in 1880. I will not invent its door. Perry Heights stays the next place. I will not move it.",
+  long: "",
+  names: ["Perry"]
+},
+{
+  id: "perry-cemetery",
+  name: "Perry Cemetery",
+  lat: 41.776428,
+  lng: -81.147873,
+  radius: 40,
+  short: "This pin is Perry Cemetery, N41.776428 and W81.147873, elevation 688 ft. I will not average 688 and 699. The nuclear station is printed as nearby. Nearby stays. Recent stays. I will not invent its door. The Christian church stays at N41.777825 and W81.147044. I will not stack it, and I will not decide that it is the 1880 house. No page names a nation here. I will not invent one. The next place is Perry Heights.",
+  long: "",
+  names: ["Perry Cemetery"]
+},
+
+{
+  id: "perry-heights-approach",
+  name: "Perry Heights",
+  lat: 40.812,
+  lng: -81.47,
+  radius: 2500,
+  layer: "approach",
+  short: "You are arriving at Perry Heights. The first story is the name. This pin is only an offset so the arrival fires first. It is not a survey point.",
+  long: "",
+  names: ["Perry Heights"]
+},
+{
+  id: "perry-heights-name",
+  name: "The name",
+  lat: 40.79778,
+  lng: -81.46806,
+  radius: 40,
+  short: "The name comes first. This pin is the decimal Wikipedia prints, 40.79778 and -81.46806. That page also prints 40 degrees 47 minutes 52 seconds north and 81 degrees 28 minutes 5 seconds west. I will not extend those seconds. It prints elevation 1,083 ft (330 m), population 8,391 in 2020, density 2,936.2, FIPS 39-62134, and GNIS 2393183. No ZIP is printed. I will not invent one. The infobox prints 2.90 square miles (7.51 square kilometers), land 2.86 (7.40), and water 0.042 (0.11). The geography section prints 3.0 (7.8), land 2.9 (7.5), water 0.04 (0.10), and 1.35 percent. I will not average those. The census prints 8,900 in 2000 and 8,441 in 2010. I will not average those rows. The list says unincorporated. The page says a census-designated place. A name record says an unincorporated place, and its number is 1049078, and it prints 40.7953358 and -81.4734515. I will not average the two numbers, and I will not stack that pair. The place file prints 40.798468 and -81.468819. I will not stack that pair. The record's entry date is July 12, 1979. I will not call that the founding. It is part of the Canton-Massillon area. The mark between the names stays. I will not move Canton or Massillon. The township page says Perry Heights is in the northeast. Northeast stays. Most of Massillon stays the western half. Navarre stays a small part. Richville stays south. I will not move them. The township was named on December 7, 1813. A sentence says the battle on Lake Erie was September 10, 1812. I will not average 1812 and 1813, and I will not move the battle here, and I will not correct this page to match the other Perry. Kendal stays, founded in 1812. I will not average 1812 and December 7, 1813. Thomas Rotch and his wife are printed as Quakers from Massachusetts. I will not invent her name or their years, and I will not move Massachusetts. A saw mill is printed. I will not invent its door. The police department is a caption. I will not invent its door. Jonathan Chapman is also printed as Johnny Appleseed. The page says he planted the first orchard, on the south side of the road, on the Daum Farm. First stays. South side stays. I will not invent the farm's door. No cemetery is printed with a point in this place. I will not invent one. No page names a nation here. Quakers stays a printed word. I will not turn it into a nation. The next place is Perrysburg.",
+  long: "",
+  names: ["Perry Heights"]
+},
+
+{
+  id: "perrysburg-approach",
+  name: "Perrysburg",
+  lat: 41.545,
+  lng: -83.62,
+  radius: 2500,
+  layer: "approach",
+  short: "You are arriving at Perrysburg. The first story is the name. This pin is only an offset so the arrival fires first. It is not a survey point.",
+  long: "",
+  names: ["Perrysburg"]
+},
+{
+  id: "perrysburg-name",
+  name: "The name",
+  lat: 41.53778,
+  lng: -83.64028,
+  radius: 40,
+  short: "The name comes first. This pin is the decimal Wikipedia prints, 41.53778 and -83.64028. That page also prints 41 degrees 32 minutes 16 seconds north and 83 degrees 38 minutes 25 seconds west. I will not extend those seconds. It prints elevation 637 ft (194 m), population 25,041 in 2020, density 1,818.6, ZIP codes 43551 to 43552, area code 419, FIPS 39-62148, and GNIS 1087193. I will not average the two ZIP codes. The motto keeps its capitals. The infobox prints 11.93 square miles (30.91 square kilometers), land 11.89 (30.80), and water 0.042 (0.11). The geography section prints 11.51 square miles (29.81 square kilometers), all land. The same page says the 1816 survey encompassed 1.786 square miles, NOT 1.000. Contrary stays. Hundreds stays. NOT stays in capitals. I will not average those areas. The place file prints 41.538986 and -83.644132. I will not stack that pair. It is along the south side of the Maumee River, about 12 miles southwest of Toledo. About stays. South side stays. I will not move Toledo. A federal team platted it in the summer of 1816. Summer stays. Another page says late June and early July 1816. Late stays. Early stays. A marker says April 27, 1816. I will not average those. It was named Perrysburgh, and the h was later dropped. Later stays. Young stays. A marker says formerly spelled Perrysburgh, for the 1813 victory. Formerly stays. I will not move Put-in-Bay, and I will not import another page's 1812. Superior stays. The county seat is printed as 1822 to 1868, and as 1823 until 1870, and as the early 1870s. Early stays. I will not average those. Bowling Green stays. Maumee stays. Lucas County stays 1835. I will not move them. Port Miami of Lake Erie stays the 1810 town. Orleans of the North stays a nickname. Twice stays. Short-lived stays. New Orleans stays. I will not move it. Higher ground stays. Up on the bluff stays. East stays.",
+  long: "",
+  names: ["Perrysburg", "Perrysburgh", "Orleans of the North"]
+},
+{
+  id: "perrysburg-cemetery",
+  name: "Fort Meigs Union Cemetery",
+  lat: 41.55109,
+  lng: -83.6414,
+  radius: 40,
+  short: "This pin is Fort Meigs Union Cemetery, 41.55109 and -83.64140, on West Indiana Avenue. The locator prints NEAR, and it says Perrysburg is 0.8 miles to the northeast. NEAR stays. I will not move the city onto this pin. Maumee stays 1.1 miles to the northwest. I will not move it. Ottawa Hills stays. A page says Amos Spafford died in 1817 and was buried in the family cemetery immediately west of Fort Meigs. Immediately west stays. I will not decide that this cemetery is that one, and I will not invent the fort's door, and I will not invent his birth. Olive is printed as born 26 August 1756 in Granville, Massachusetts, and as died 18 January 1823 in Perrysburg. I will not move Granville. The fort was begun in February 1813. Beginning stays. Would be stays the county's name. I will not invent a battle beyond the pages. A treaty in 1817 is printed as having extinguished Native Americans' claim. Extinguished stays. I will not name a nation the page does not name. The next place is Perrysville.",
+  long: "",
+  names: ["Fort Meigs Union Cemetery"]
+},
+
+{
+  id: "perrysville-approach",
+  name: "Perrysville",
+  lat: 40.675,
+  lng: -82.313,
+  radius: 2500,
+  layer: "approach",
+  short: "You are arriving at Perrysville. The first story is the name. This pin is only an offset so the arrival fires first. It is not a survey point.",
+  long: "",
+  names: ["Perrysville"]
+},
+{
+  id: "perrysville-name",
+  name: "The name",
+  lat: 40.658333,
+  lng: -82.314444,
+  radius: 40,
+  short: "The name comes first. This pin is the conversion of the degrees Wikipedia prints, 40 degrees 39 minutes 30 seconds north and 82 degrees 18 minutes 52 seconds west. I will not extend those seconds. It prints elevation 978 ft (298 m), population 729 in 2020, ZIP 44864, area code 419, FIPS 39-62190, and GNIS 2399657. An older page prints GNIS 1068213, and population 735 in 2010. I will not average those. The area is 0.79 square miles (2.05 square kilometers), all land. The place file prints 40.658402 and -82.314380. I will not stack that pair. It is the third largest municipality in the county after Ashland and Loudonville. Third stays. I will not move them. It is along the Black Fork of the Mohican River. The page says the area was permanently settled in 1810, and not laid out until 1812. Not until stays. A village page says the fall of 1810, and that Jonathan Coulter was twenty years old. Twenty stays. I will not invent his birth year. The page also says John's father. I will not average Jonathan and John. Laying along stays. Approximately eighteen by sixteen stays. As early as 1803 stays. Would stays. The dedication is printed as June 10, 1812, on the western bank of Armstrong's Creek, now known as the Black Fork. Now known stays. Wikipedia says it was originally Freeport, laid out in 1815. Originally stays. Latter stays. I will not average 1812 and 1815. Neighbors jokingly called it Coulterville. Jokingly stays. Although stays. An older page says the intentions were to name it Coulterville, and that the village was established in 1813. However stays. I will not average jokingly and intentions, or 1812 and 1813. The present name honors Oliver Hazard Perry. Decisive stays. I will not move the battle. A post office called Perryville was established in 1820 and changed to Perrysville in 1883. I will not average those names. A schoolhouse is printed in 1816, on what was then a farm. Then stays. I will not invent its door. A gristmill is printed as occasional. Occasional stays. I will not invent its door. Perrysburg stays. I will not move it.",
+  long: "",
+  names: ["Perrysville", "Freeport", "Coulterville", "Perryville"]
+},
+{
+  id: "perrysville-cemetery",
+  name: "Perrysville Union Cemetery",
+  lat: 40.65584,
+  lng: -82.31169,
+  radius: 40,
+  short: "This pin is Perrysville Union Cemetery, 40.65584 and -82.31169, on the southeast corner of Bridge Street and Church Street. The page prints that sentence twice. I will not make it two corners. It is also printed as Old Perrysville Presbyterian Cemetery, Old Presbyterian Cemetery, and Perrysville Cemetery. A book prints the number 242. The cemetery's name record is 1806361. I will not average that with the village's number. A page says both were laid to rest next to Solomon, in the sacred grove, now the Pioneer Corner, and the printed mark is broken. Sacred stays. I will not invent the two names. An old page names the Greentown Indians and an early unknown tribe, and says burial mounds were opened. Unknown stays. Unfortunately stays. I will not finish a cut sentence about a massacre, and I will not invent a battle. The next place is Petersburg.",
+  long: "",
+  names: ["Perrysville Union Cemetery", "Old Presbyterian Cemetery"]
+},
+
+{
+  id: "petersburg-approach",
+  name: "Petersburg",
+  lat: 40.925,
+  lng: -80.533,
+  radius: 2500,
+  layer: "approach",
+  short: "You are arriving at Petersburg. The first story is the name. This pin is only an offset so the arrival fires first. It is not a survey point.",
+  long: "",
+  names: ["Petersburg"]
+},
+{
+  id: "petersburg-name",
+  name: "The name",
+  lat: 40.90944,
+  lng: -80.53306,
+  radius: 40,
+  short: "The name comes first. This pin is the decimal Wikipedia prints, 40.90944 and -80.53306. That page also prints 40 degrees 54 minutes 34 seconds north and 80 degrees 31 minutes 59 seconds west. I will not extend those seconds. It prints elevation 1,089 ft (332 m), population 405 in 2020, ZIP 44454, and GNIS 2812828. The area is 1.53 square miles (3.95 square kilometers), land 1.52 (3.93), and water 0.0077 (0.02). The page I am using does not print a FIPS. I will not invent one. A name record prints 1061535, census code 62302, and 40.9125611 and -80.5303471. I will not average the two numbers, and I will not stack that pair. The place file prints 40.909970 and -80.533551. I will not stack that pair. The list says unincorporated. The page says a small unincorporated community and a census-designated place. Small stays. I will not average the labels. It is skirted by Interstate 76, at the far eastern end of the turnpike. Skirted stays. Far eastern stays. Youngstown stays. Warren stays. The mark between them stays. Pennsylvania stays the neighbor. I will not move it. It was founded in the 1790s. It was platted around 1805 by Peter Musser and named for him. Around stays. I will not average the 1790s and around 1805, and I will not invent his years. The post office is printed as Musser's Mill, and as Mussers Mills, established in 1807, changed to Petersburgh in 1819, and renamed Petersburg in 1893. I will not average the apostrophes. A board decision is printed as January 1, 1961. An inn burned to the ground in 1961 and was believed to have been built around 1800. Believed stays. To the ground stays. I will not average those 1961 lines, and I will not invent the inn's door. New Middletown stays the map name. I will not move it. The proposed name at Patterson stays there. I will not move it. Germans stays the page's word for the immigrants. I will not invent a nation.",
+  long: "",
+  names: ["Petersburg", "Petersburgh", "Mussers Mill"]
+},
+{
+  id: "petersburg-cemetery",
+  name: "Petersburg Cemetery",
+  lat: 40.9221389,
+  lng: -80.5339524,
+  radius: 40,
+  short: "This pin is Petersburg Cemetery, 40.9221389 and -80.5339524, also known as St. John's Cemetery, on Youngstown-Pittsburgh Road. I will not average those names. Pittsburgh stays in the road name. I will not move it. A page names St. John's Lutheran Church and the Presbyterian church. I will not decide that either church is this cemetery, and I will not invent their doors. No page prints a birth and a death. I will not invent a life. No page prints a battle. I will not invent one. The next place is Pheasant Run.",
+  long: "",
+  names: ["Petersburg Cemetery", "St. John's Cemetery"]
+},
+
+
+
 
 
 

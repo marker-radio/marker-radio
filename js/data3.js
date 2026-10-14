@@ -6971,6 +6971,374 @@ STORIES.push(
   long: "",
   names: ["Rayland", "Portland Station"]
 },
+{
+  id: "raymond-approach",
+  name: "Raymond",
+  lat: 40.35,
+  lng: -83.464,
+  radius: 2500,
+  layer: "approach",
+  short: "You are arriving at Raymond. The first story is the name. This pin is only an offset so the arrival fires first. It is not a survey point.",
+  long: "",
+  names: ["Raymond"]
+},
+{
+  id: "raymond-name",
+  name: "The name",
+  lat: 40.335,
+  lng: -83.46361,
+  radius: 40,
+  short: "The name comes first. This pin is the decimal Wikipedia prints, 40.33500 and -83.46361. That page also prints 40 degrees 20 minutes 6 seconds north and 83 degrees 27 minutes 49 seconds west. I will not extend those seconds. It prints elevation 1,070 ft (330 m), population 280 in 2020, ZIP 43067, and GNIS 2628957. No area is printed. I will not invent one. The list says unincorporated. The page says a census-designated place. A mirror says although it is unincorporated. Although stays. I will not average those words. The place file prints 40.340482 and -83.468152. I will not stack that pair. It is in eastern Liberty Township. Eastern stays. I will not move another Liberty. It is at the intersection of State Routes 347 and 739. I will not invent a second corner. Unofficial stays. Of its own stays. It was originally called Newton, and it was laid out and platted in 1838. I will not average laid out and platted. A page says the Newton post office opened in 1839. A mirror says a post office called Raymond has been in operation since 1839. Since stays. I will not average opened and since, and I will not average Newton and Raymond. Three of the first six postmasters had the surname Raymond. Three stays. Over time stays. Sobriquet stays. The quotes stay on Raymond's post office, on Raymond's P.O., on Raymond's, and on Raymonds. Eventually stays. I will not skip a step. A sign currently on the post office is a representation of signage that once adorned a station on the south edge. Currently stays. Representation stays. Once stays. The ampersand stays. South stays. I will not invent the station. A cemetery prints 40.33526 and -83.46266, ZIP 43007, and says the place is 0.2 miles off. NEAR stays. I will not average 43007 and 43067, and I will not stack that pair. A page says honoring a prominent family. Honoring stays. Prominent stays. I will not average that with the shortening. Smart stays. Prime stays. Would later stays. Fertile stays. Strategic stays. Informal stays. Hub stays, and center stays. I will not average them. Soul stays. Quiet stays. Friendly stays. Easy stays. East Liberty stays. West Mansfield stays. Marysville stays. Columbus stays. I will not move them. Rayland stays. I will not move it. No page prints a birth and a death. I will not invent a life. No page names a nation. I will not invent one. No page prints a battle. I will not invent one. The next place is Reading.",
+  long: "",
+  names: ["Raymond", "Newton", "Raymond's", "Raymonds"]
+},
+
+{
+  id: "reading-approach",
+  name: "Reading",
+  lat: 39.24,
+  lng: -84.436,
+  radius: 2500,
+  layer: "approach",
+  short: "You are arriving at Reading. The first story is the name. This pin is only an offset so the arrival fires first. It is not a survey point.",
+  long: "",
+  names: ["Reading"]
+},
+{
+  id: "reading-name",
+  name: "The name",
+  lat: 39.22417,
+  lng: -84.43333,
+  radius: 40,
+  short: "The name comes first. This pin is the decimal Wikipedia prints, 39.22417 and -84.43333. That page also prints 39 degrees 13 minutes 27 seconds north and 84 degrees 26 minutes 0 seconds west. The zero seconds stay. The geography section prints 39 degrees 13 minutes 22 seconds north and 84 degrees 26 minutes 21 seconds west, and the decimal 39.22278 and -84.43917, and also 39.222709 and -84.439036. I will not average those pairs, and I will not stack them. It prints elevation 755 ft (230 m). A map prints 39.22 and -84.44, and 561 feet with a prime, and 171 meters. I will not extend those decimals, and I will not average 561 and 755. The place file prints 39.224230 and -84.433341. I will not stack that pair. The population is 10,600 in 2020, and an estimate for 2022 is 10,397. Estimate stays. Density 3,669.1. The area is 2.89 square miles (7.48 square kilometers), and 0 of water. The ZIP codes are 45215, 45236, and 45237. I will not average them. Area code 513, FIPS 39-65732, and GNIS 1086225. The mayor is printed as Robert Bemmes, and the R stays in parentheses. I will not invent his years. The site has no scheme. I will not add one. The pronunciation is printed RED-ing. The hyphen stays. Mottoes stays plural. The German stays, and We Do Our Best stays. I will not repair the capitals. It was settled in 1797, incorporated on March 24, 1851, became a city on January 1, 1932, and withdrew from Sycamore Township on May 19, 1943. I will not average those days. A book title prints founded 1794 and city status 1931. I will not average 1794 and 1797, or 1931 and 1932. Paper stays the township. The quotes stay. Forming stays. Inner stays the suburb. I will not move Cincinnati. A cabin is printed in present-day Lockland. Present-day stays. I will not move Lockland. Millcreek stays one word. West bank stays. German stays, and Somerset County stays, and near Philadelphia stays. I will not average them. Spring of 1795 stays, and shortly after stays. I will not average them. Pleased stays. In the area of stays. Around 1798 stays. Did not record stays until January 7, 1804. Convinced stays. By then stays. In the honor stays the extra word. A page adds England, and a father-in-law. I will not average England and Pennsylvania, and I will not invent his years. Forty five stays two words. Grew with it stays. I will not repair it. Planning stays. Brick yard stays two words. Act stays. Passed stays. As a village stays. Between stays. Rapidly stays. Largest stays. First record stays. Any stays. Compelled stays. No match stays. Institutes stays the present tense. I will not invent a life. Benson Street downtown is a caption. I will not invent the door. Raymond stays. I will not move it. No cemetery is printed with a point. I will not invent one. No page names a nation. I will not invent one. No page prints a battle. I will not invent one. The next place is Reedurban.",
+  long: "",
+  names: ["Reading", "Voorhees-Town"]
+},
+
+{
+  id: "reedurban-approach",
+  name: "Reedurban",
+  lat: 40.812,
+  lng: -81.436,
+  radius: 2500,
+  layer: "approach",
+  short: "You are arriving at Reedurban. The first story is the name. This pin is only an offset so the arrival fires first. It is not a survey point.",
+  long: "",
+  names: ["Reedurban"]
+},
+{
+  id: "reedurban-name",
+  name: "The name",
+  lat: 40.79778,
+  lng: -81.43583,
+  radius: 40,
+  short: "The name comes first. This pin is the decimal Wikipedia prints, 40.79778 and -81.43583. That page also prints 40 degrees 47 minutes 52 seconds north and 81 degrees 26 minutes 9 seconds west. I will not extend those seconds. It prints elevation 1,122 ft (342 m), population 5,889 in 2020, density 3,106.3, ZIP codes 44708 and 44710, area codes 330 and 234 with a slash, FIPS 39-66012, and GNIS 2812843. The parenthesis says Canton. I will not average the codes, and I will not move Canton. The area is 1.90 square miles (4.91 square kilometers), and 0 of water. The list says unincorporated. The page says an unincorporated community and a census-designated place. It was first listed as a census-designated place prior to the 2020 census. Prior stays. First listed stays. I will not call that a founding. The place file prints 40.797851 and -81.435840. I will not stack that pair. A name record prints 40.7945026 and -81.4367831, and 40 degrees 47 minutes 40.21 seconds north and 81 degrees 26 minutes 12.42 seconds west. I will not extend those decimals, and I will not average them with 52 seconds and 9 seconds. Its feature number is 1061592. I will not average that with 2812843. Its entry date is July 12, 1979, and a distribution date is December 31, 1981. I will not average those dates, and I will not call them a founding. Primarily stays. The title and the edition are blank. I will not fill them. A variant prints Reed Urban, with a space. In Part prints No. I will not average the space away. Doctor stays. It is on the west side of Canton, in northeastern Perry Township. West stays. Northeastern stays. Central stays the county. A road leads east 3 miles to the center of Canton and west 4.5 miles to Massillon, through Perry Heights. Through stays. Center stays. I will not average 3 and 4.5, and I will not move them. A township page prints December 7, 1813, and a battle on September 10, 1812. I will not average 1812 and 1813, and I will not move the battle. In honor stays. Hero stays. Kendal stays. Formal stays. I will not move it. A banner says the section needs more citations. Needs stays. I will not invent them, and I will not remove the words. A school is a caption. I will not invent its door. The one-room era stays. I will not invent the school. Reading stays. I will not move it. No cemetery is printed with a point. I will not invent one. No page prints a birth and a death. I will not invent a life. No page names a nation on this place. I will not invent one. The next place is Reminderville.",
+  long: "",
+  names: ["Reedurban", "Reed Urban"]
+},
+
+{
+  id: "reminderville-approach",
+  name: "Reminderville",
+  lat: 41.348,
+  lng: -81.4,
+  radius: 2500,
+  layer: "approach",
+  short: "You are arriving at Reminderville. The first story is the name. This pin is only an offset so the arrival fires first. It is not a survey point.",
+  long: "",
+  names: ["Reminderville"]
+},
+{
+  id: "reminderville-name",
+  name: "The name",
+  lat: 41.33389,
+  lng: -81.40167,
+  radius: 40,
+  short: "The name comes first. This pin is the decimal Wikipedia prints, 41.33389 and -81.40167. That page also prints 41 degrees 20 minutes 2 seconds north and 81 degrees 24 minutes 6 seconds west. I will not extend those seconds. It prints elevation 997 ft (304 m), population 5,412 in 2020, density 2,477.9, ZIP 44202, area code 330, FIPS 39-66152, and GNIS 1087013. The infobox prints 2.22 square miles (5.75 square kilometers), land 2.19 (5.66), and water 0.035 (0.09). The geography section prints 2.21 (5.72), land 2.18 (5.65), and water 0.03 (0.08). I will not average those. The site has no scheme. I will not add one. The motto stays in quotes. The place file prints 41.327165 and -81.397353. I will not stack that pair. It is a city, and the history still says the village. I will not average city and village. It was incorporated in 1955, and it became a city in 2021 after the count exceeded 5,000. After stays. Exceeded stays. I will not average 5,000 and 5,412. Noted stays. Unusual stays. Nickname stays. Before stays. A page says Clement L. Reminder, an early mayor, gave the village his name. Early stays. Gave stays. Another page says they chose the name, and it prints the Reminder's and the Grimm's. The apostrophes stay. Another page prints Reminders, with no apostrophe. I will not average the apostrophe, and I will not average gave and chose. First stays, and early stays. I will not average them. April 1955 stays. Only one year stays. Forced stays. Illness stays. I will not invent his years. My stays. Great-great-grandfather stays. I will not invent the speaker. Most stays. Tip stays. One of three stays. Single point stays. I will not invent the other two places. Bound stays. A few minutes stays. The ampersand stays. A page adds Bainbridge. I will not drop Twinsburg, and I will not move Solon, Aurora, or Akron. Truly stays. Grass roots stays two words. Wasn't stays. Great story stays. Post war stays two words. Isolated stays. Old stays. Rt. stays. Swampy stays. Just over stays. Old timers stays. Bog stays. In essence stays. Way of life stays. A couple hundred stays. Over 4,000 stays. Today stays. I will not average those counts. Early 1940's stays, and the apostrophe stays. Vast stays. Welcomed stays. Official stays. Put forth stays. Forthright stays. Ever stays. Reedurban stays. I will not move it. No cemetery is printed with a point. I will not invent one. No page names a nation. I will not invent one. No page prints a battle. I will not invent one. The next place is Remington.",
+  long: "",
+  names: ["Reminderville"]
+},
+
+{
+  id: "remington-approach",
+  name: "Remington",
+  lat: 39.245,
+  lng: -84.322,
+  radius: 2500,
+  layer: "approach",
+  short: "You are arriving at Remington. The first story is the name. This pin is only an offset so the arrival fires first. It is not a survey point.",
+  long: "",
+  names: ["Remington"]
+},
+{
+  id: "remington-name",
+  name: "The name",
+  lat: 39.22889,
+  lng: -84.32222,
+  radius: 40,
+  short: "The name comes first. This pin is the decimal Wikipedia prints, 39.22889 and -84.32222. That page also prints 39 degrees 13 minutes 44 seconds north and 84 degrees 19 minutes 20 seconds west. I will not extend those seconds. It prints elevation 581 ft (177 m), population 368 in 2020, FIPS 39-66180, and GNIS 2585523. No ZIP is printed. I will not invent one. The infobox prints 0.23 square miles (0.60 square kilometers), land 0.23 (0.59), and water 0.0039 (0.01). The geography section prints 0.19 square miles (0.5 square kilometers), all land. I will not extend 0.5, and I will not average those areas. The infobox density is 1,614.0. A sentence prints 1,614.04. I will not average them. The kilometer density is 623.16. Housing units are 148. The page prints 0.0 percent Native American. I will not turn a zero into a nation. Some other stays. Two or more stays. The census prints only 2020, and a dash. I will not invent an earlier count. The list says unincorporated. The page says a small hamlet and a census-designated place. Small stays. I will not average those words. The place file prints 39.229214 and -84.322940. I will not stack that pair. It is in Symmes Township, adjacent to Loveland, Indian Hill, and Camp Dennison. Adjacent stays. Considered stays. Greater stays. Included stays. Exempted stays. I will not move them. It is in the valley of the Little Miami River, 16 miles northeast of downtown Cincinnati. Valley stays. Downtown stays. I will not average miles and kilometers, and I will not move Cincinnati. A township page names three cemeteries, and it places one in Camp Dennison. I will not move them here. Early stays. I will not invent a pin. A governor's years in office are printed as 1822 to 1826. I will not invent his birth and death, and I will not move him. Reminderville stays. Reading stays. I will not move them, and I will not average the names. No page prints a plat. I will not invent one. No page prints a birth and a death. I will not invent a life. No page prints a battle. I will not invent one. The next place is Rendville.",
+  long: "",
+  names: ["Remington"]
+},
+
+{
+  id: "rendville-approach",
+  name: "Rendville",
+  lat: 39.638,
+  lng: -82.09,
+  radius: 2500,
+  layer: "approach",
+  short: "You are arriving at Rendville. The first story is the name. This pin is only an offset so the arrival fires first. It is not a survey point.",
+  long: "",
+  names: ["Rendville"]
+},
+{
+  id: "rendville-name",
+  name: "The name",
+  lat: 39.62222,
+  lng: -82.08917,
+  radius: 40,
+  short: "The name comes first. This pin is the decimal Wikipedia prints, 39.62222 and -82.08917. That page also prints 39 degrees 37 minutes 20 seconds north and 82 degrees 5 minutes 21 seconds west. I will not extend those seconds. It prints population 28 in 2020, density 89.8, postal codes original 43775 and current 43730, area code 740, FIPS 39-66222, and GNIS 2399056. Original stays. Current stays. I will not average the codes. The geography section prints 0.31 square miles (0.80 square kilometers), all land. A mirror prints 0.31 (0.81), elevation 758 ft (231 m), and density 89.74. I will not average those. The place file prints 39.623178 and -82.089287. I will not stack that pair. It was established in 1879, founded in 1879 by William P. Rend, and a post office was established in 1879 and remained until 1982. Until stays. I will not average the verbs, and I will not invent his years. It is an old mining town. Old stays. Smallest stays. A page says town, and another says community. I will not average them. A page says the count surged to 1,800 by the middle of the 1880s. Quickly stays. Middle stays. The census prints 349 in 1880 and 859 in 1890. I will not average 1,800, 349, and 859. A page says 300 people. I will not average 300 with those counts. Isiah Tuppins was elected in 1888. I will not repair Isiah, and I will not invent his years. The hyphen stays. Quietly stays. Amongst stays. Sleepy stays. Not always stays. Unfortunately stays. Out migration stays two words. Life long stays two words. Tight knit stays two words. However stays. Side by side stays. Before stays. Movements stays plural. I will not invent a fight. Compelling stays. Incredible stays. Wayne National Forest stays. I will not move it. Sunday Creek stays. Corning stays. Shawnee stays a town. I will not move it, and I will not invent a nation. Village Hall is a caption. I will not invent the door. Remington stays. I will not move it.",
+  long: "",
+  names: ["Rendville"]
+},
+{
+  id: "rendville-cemetery",
+  name: "Rendville Cemetery",
+  lat: 39.62339,
+  lng: -82.09042,
+  radius: 40,
+  short: "This pin is Rendville Cemetery, 39.62339 and -82.09042. The page prints NEAR in capitals, ZIP 43730, and says the village is 0.3 miles south. NEAR stays. I will not average 0.3 miles with this pin. A page prints Rendville/Scotch Hill, and it says the cemetery is on the town's largest hill, at the end of historic Main Street. The slash stays. Peacefully stays. Largest stays. Historic stays. Gentle stays. Sweet stays. Only occasionally stays. I will not average the names, and I will not invent the hill. The next place is Reno.",
+  long: "",
+  names: ["Rendville Cemetery", "Scotch Hill"]
+},
+
+{
+  id: "reno-approach",
+  name: "Reno",
+  lat: 39.39,
+  lng: -81.392,
+  radius: 2500,
+  layer: "approach",
+  short: "You are arriving at Reno. The first story is the name. This pin is only an offset so the arrival fires first. It is not a survey point.",
+  long: "",
+  names: ["Reno"]
+},
+{
+  id: "reno-name",
+  name: "The name",
+  lat: 39.37444,
+  lng: -81.39361,
+  radius: 40,
+  short: "The name comes first. This pin is the decimal Wikipedia prints, 39.37444 and -81.39361. That page also prints 39 degrees 22 minutes 28 seconds north and 81 degrees 23 minutes 37 seconds west. I will not extend those seconds. It prints elevation 650 ft (200 m), population 1,129 in 2020, ZIP 45773, and GNIS 2633221. No area is printed. I will not invent one. The list says unincorporated. The page says a census-designated place. A mirror says although it is unincorporated. Although stays. I will not average those words. The place file prints 39.374170 and -81.390542. I will not stack that pair. It is in southern Marietta Township, on the Ohio River. Southern stays. A page says a short distance south of Marietta. Another says a short distance above Marietta. Short stays. South stays. Above stays. I will not average them, and I will not move Marietta. State Route 7 forms its main street. Forms stays. I will not invent the door. It was originally called Jericho. The present name honors Jesse L. Reno, and it was adopted when at the time the post office was established. When at the time stays. I will not repair it. Honoring stays. Present stays. A post office has been in operation since 1887. Since stays. I will not invent his years, and I will not invent a battle. I will not move Nevada. A page is a stub, and it says missing information. Missing stays. I will not invent it. Harmar stays. I will not move it. Rendville stays. I will not move it. No cemetery is printed with a point on this place. I will not invent one. No page prints a birth and a death. I will not invent a life. No page names a nation. I will not invent one. The next place is Reno Beach.",
+  long: "",
+  names: ["Reno", "Jericho"]
+},
+
+{
+  id: "reno-beach-approach",
+  name: "Reno Beach",
+  lat: 41.678,
+  lng: -83.265,
+  radius: 2500,
+  layer: "approach",
+  short: "You are arriving at Reno Beach. The first story is the name. This pin is only an offset so the arrival fires first. It is not a survey point.",
+  long: "",
+  names: ["Reno Beach"]
+},
+{
+  id: "reno-beach-name",
+  name: "The name",
+  lat: 41.66111,
+  lng: -83.26417,
+  radius: 40,
+  short: "The name comes first. This pin is the decimal Wikipedia prints, 41.66111 and -83.26417. That page also prints 41 degrees 39 minutes 40 seconds north and 83 degrees 15 minutes 51 seconds west. I will not extend those seconds. It prints elevation 571 ft (174 m), population 713 in 2020, density 575.7, ZIP 43412, area codes 419 and 567 with a slash, FIPS 39-66264, and GNIS 2812827. The parenthesis says Curtice. I will not move Curtice. The area is 1.63 square miles (4.22 square kilometers), land 1.24 (3.21), and water 0.39 (1.01). The census prints only 2020, and a dash. I will not invent an earlier count. The list says unincorporated. The page says a census-designated place that contains Lakemont Landing, Reno Beach, Lakeland, and Howard Farms Beach, from west to east. From west to east stays. I will not drop them, and I will not invent their pins. First listed stays. Prior stays. The place file prints 41.662408 and -83.265618. I will not stack that pair. It is on the southwest shore of Lake Erie, 2 miles north of a road and 14 miles east of Toledo. Southwest stays. I will not average miles and kilometers, and I will not move Toledo. A page says Henry Reno bought a mill in 1899, and 960 acres in 1902, with approximately 2 miles of sandy beach. Approximately stays. Sandy stays. I will not invent his years, and I will not move the other Reno. Wards stays, and Ward's stays. I will not average the apostrophe. By 1921 stays. Trust stays the capital. Old Reno stays in quotes. North of stays. Rd. stays. The page prints 400-acre18- hole, with the space missing and the space after the hyphen. I will not repair it. Quarter-acre stays the fraction. The roman numerals stay. I will not invent the plat pins. Near stays a lodge in 1989. A dike is printed in 1993. Effectively stays. Flourish stays. A page prints 7,520 feet, and AKA, and the quotes on the project segment. Southwesterly stays. I will not average the dike sentences. Generally stays the district. Approximately 1,200 acres stays, and 2,287 parcels stay. I will not average those with 960 acres. Two stays in parentheses. Est. stays. An order in 1994 stays. I will not average 1993 and 1994. Greatest stays a flood. Recorded stays. I will not invent a battle. A township was established on March 10th, 1893. 10th stays. Approximately 34 square miles stays. I will not average that with this place. Turtle Island stays. West Sister stays. I will not move them. Bono stays. Previously stays. I will not move it. Today stays. Private stays. Reno stays. I will not move it. No cemetery is printed with a point. I will not invent one. No page prints a birth and a death. I will not invent a life. No page names a nation. I will not invent one. The next place is Republic.",
+  long: "",
+  names: ["Reno Beach", "Old Reno", "Lakemont Landing", "Lakeland", "Howard Farms Beach"]
+},
+
+{
+  id: "republic-approach",
+  name: "Republic",
+  lat: 41.138,
+  lng: -83.016,
+  radius: 2500,
+  layer: "approach",
+  short: "You are arriving at Republic. The first story is the name. This pin is only an offset so the arrival fires first. It is not a survey point.",
+  long: "",
+  names: ["Republic"]
+},
+{
+  id: "republic-name",
+  name: "The name",
+  lat: 41.12278,
+  lng: -83.01722,
+  radius: 40,
+  short: "The name comes first. This pin is the decimal Wikipedia prints, 41.12278 and -83.01722. That page also prints 41 degrees 7 minutes 22 seconds north and 83 degrees 1 minute 2 seconds west. I will not extend those seconds. It prints elevation 869 ft (265 m), population 556 in 2020, density 644.8, ZIP 44867, area code 419, FIPS 39-66320, and GNIS 2399059. The area is 0.86 square miles (2.23 square kilometers), and 0 of water. A map prints 41.122000 and -83.015747, and 885 feet. I will not average 885 and 869, and I will not stack that pair. The place file prints 41.125017 and -83.016657. I will not stack that pair. The township point prints 41.12417 and -83.01917, and its count is 1,674. I will not stack that pair, and I will not average 1,674 and 556. Central stays the village. East central stays the township. In 1834 he called it Republic, though many early settlers knew it simply as Scipio Center. Though stays. Simply stays. The quotes stay. A page prints Scipio-Center, with a hyphen, and 1816. I will not average the hyphen away, and I will not average 1816 and 1834. July 1834 stays, and about 1834 stays. I will not average them. Sea stays in parentheses. Public good stays. Shrewd stays. Northwest corner stays, and the corners of four sections stay. I will not average them. Exact stays a center. Present stays the streets. I will not invent the corner. Almost overnight stays. Contemplated stays. I will not move Melmore, and I will not move Tiffin. Unsuccessful stays. Stimulated stays. What is now stays a bridge. Via stays. I will not invent the bridge. On January 4, 1887, just west of town, an accident was designated the Republic Horror. Just west stays. Designated stays. Head on stays two words. Stalled stays. I will not invent the dead, and I will not invent a battle. A page prints a broken word before today's. I will not repair it. Hustle stays. Not remained stays. Or stays the two surveys. Not all stays. Finally stays. Balance stays. I will not move Kentucky. One square mile stays. I will not average it with 0.86. Small part stays. West side stays. Set off stays, and organized stays. I will not average them. December 25, 1824 stays. I will not move Scipio, and I will not move New York. Only stays the other township. I will not move Meigs. Aerial view stays. I will not invent the camera. A post office prints 41.122277 and -83.015192. I will not stack that pair. Bloomville stays the map name. I will not move it. Reno Beach stays. I will not move it. No cemetery is printed on this village. I will not invent one. No page prints a birth and a death. I will not invent a life. No page names a nation. I will not invent one.",
+  long: "",
+  names: ["Republic", "Scipio Center", "Scipio-Center"]
+},
+{
+  id: "republic-school",
+  name: "The school",
+  lat: 41.120888,
+  lng: -83.014914,
+  radius: 40,
+  short: "This pin is the pair a map prints for Republic Elementary School, 41.120888 and -83.014914. I will not invent the door. The next place is Richfield.",
+  long: "",
+  names: ["Republic"]
+},
+
+{
+  id: "richfield-approach",
+  name: "Richfield",
+  lat: 41.252,
+  lng: -81.636,
+  radius: 2500,
+  layer: "approach",
+  short: "You are arriving at Richfield. The first story is the name. This pin is only an offset so the arrival fires first. It is not a survey point.",
+  long: "",
+  names: ["Richfield"]
+},
+{
+  id: "richfield-name",
+  name: "The name",
+  lat: 41.24167,
+  lng: -81.62944,
+  radius: 40,
+  short: "The name comes first. This pin is the decimal Wikipedia prints, 41.24167 and -81.62944. That page also prints 41 degrees 14 minutes 30 seconds north and 81 degrees 37 minutes 46 seconds west. I will not extend those seconds. It prints elevation 1,188 ft (362 m), population 3,729 in 2020, density 403.1, ZIP 44286, area code 330, FIPS 39-66530, and GNIS 2399063. The infobox prints 9.25 square miles (23.97 square kilometers), land 9.25 (23.96), and water 0.0039 (0.01). The geography section prints 9.32 (24.14), all land. I will not average those. A page prints the pair 41.233722 and -81.632228. I will not stack it. The place file prints 41.233132 and -81.643941. I will not stack that pair. The township count is 6,437. I will not average 6,437 and 3,729. A page prints an estimate of 3,644. Estimate stays. I will not average it with 3,729. It was founded in 1809 and incorporated in 1967. I will not average those years. It was named for the richness of their soil. Their stays. A township page says Oxbalm, or rich feed. The quotes stay. Or stays. I will not average richness and rich feed. Midway stays. I will not move Akron, and I will not move Cleveland. Central stays the village. Northwestern stays the township. I will not average them. No county stays the year 1811. I will not invent a county. Other townships stay in Henry and in Lucas. I will not move them. A page says William Cullen Wilcox was born here in 1850, and that he was honoured in 2009. Honoured stays. I will not invent his death, and I will not move South Africa. First stays a world city. The quotes stay. I will not invent the mayor's years. Until stays, and to stays. I will not average them. A page adds more teams. I will not drop them. The Coliseum was demolished in 1999. I will not invent its pin, and I will not average the two names of the building. Taverne stays the spelling. Behind stays. I will not invent the park. The site is printed with a scheme. I will not strip it. Republic stays. I will not move it.",
+  long: "",
+  names: ["Richfield"]
+},
+{
+  id: "richfield-cemetery",
+  name: "Fairview Cemetery",
+  lat: 41.2442,
+  lng: -81.6406,
+  radius: 40,
+  short: "This pin is Fairview Cemetery, 41.24420 and -81.64060. A page says it is also known as East Richfield Cemetery, and as East Richfield Fairview Cemetery. Also known as stays. I will not average the names. A page says four children, Austin, Charles, Peter, and Sarah, died in 1843 and are buried here. I will not invent their births, and I will not invent a fight. A record date of 1 January 2000 stays a record. I will not call it a founding. The next place is Richmond.",
+  long: "",
+  names: ["Fairview Cemetery", "East Richfield Cemetery"]
+},
+
+{
+  id: "richmond-approach",
+  name: "Richmond",
+  lat: 40.448,
+  lng: -80.774,
+  radius: 2500,
+  layer: "approach",
+  short: "You are arriving at Richmond. The first story is the name. This pin is only an offset so the arrival fires first. It is not a survey point.",
+  long: "",
+  names: ["Richmond"]
+},
+{
+  id: "richmond-name",
+  name: "The name",
+  lat: 40.43278,
+  lng: -80.77194,
+  radius: 40,
+  short: "The name comes first. This pin is the decimal Wikipedia prints, 40.43278 and -80.77194. That page also prints 40 degrees 25 minutes 58 seconds north and 80 degrees 46 minutes 19 seconds west. I will not extend those seconds. It prints elevation 1,243 ft (379 m), population 412 in 2020, density 744.8, ZIP 43944, area code 740, FIPS 39-66824, and GNIS 2399066. The infobox prints 0.55 square miles (1.43 square kilometers), and 0 of water. The geography section prints 0.55 (1.42), all land. I will not average 1.43 and 1.42. The place file prints 40.432850 and -80.771890. I will not stack that pair. It was laid out in 1815. A post office has been in operation since 1817. Since stays. A page says he did not lay it out until 1815, and that the work was completed on September 20, 1815. Did not stays. Until stays. Completed stays. I will not average those words with laid out. A page prints Bezaleel, and another prints Bazaleel. I will not average the spellings. A page prints Talbott, and another prints Talbot. I will not average them. Friend stays. A quarter section stays, and the northeast quarter stays. I will not average them. Streets stay, and street stays. I will not average them. A tavern stays, and a hotel stays. I will not average them. Now stands stays a drug store. I will not invent the door. Viz. stays the five families. I will not drop a name. About 11 miles stays, and about 9 miles stays. Direct line stays. I will not average them, and I will not move Steubenville. About 300 stays. The census prints 231 in 1830 and 514 in 1850, and it skips a year. I will not invent the missing year, and I will not average the counts. Thriving stays. High and healthy stays. Bids fairly stays. Shelly's addition stays in quotes. Largely stays. Since that time stays. A sentence stops at Adam. I will not finish it. A sentence stops at a stage line. I will not finish it. Westward stays a caption. I will not invent the camera. He traveled through in 1863, on his way to a defeat. Traveled through stays. On his way stays. I will not move Salineville, and I will not invent a battle here. Richfield stays. I will not move it. No page names a nation. I will not invent one.",
+  long: "",
+  names: ["Richmond"]
+},
+{
+  id: "richmond-cemetery",
+  name: "Richmond Cemetery",
+  lat: 40.4289553,
+  lng: -80.7761926,
+  radius: 40,
+  short: "This pin is Richmond Cemetery, 40.4289553 and -80.7761926. A ledger calls it Richmond Union Cemetery. I will not average the names. It was bought on January 7, 1881, and a deed is dated Jan, 22, 1881. The comma stays. The page prints 9 and 9/100 acres. I will not rewrite the fraction. All who died before April 12, 1881 were removals. All stays. Removals stay. A woman died on December 17, 1880, and was buried on April 12, 1881. I will not average those days. She was moved from the Quaker Cemetery. I will not move that cemetery. A man was born on February 9, 1805, and died on May 30, 1887, in his 82nd year. 82nd stays. By his request stays. Mother earth stays. On the spot stays. A page says one person was 101, and another was oldest by birth, born in 1738 and died on August 30, 1810. I will not average the two. Presby stays, and the semicolon stays. Old M.E. stays. I will not expand them. Exactly as it appears stays. The next place is Richmond Dale.",
+  long: "",
+  names: ["Richmond Cemetery", "Richmond Union Cemetery"]
+},
+
+{
+  id: "richmond-dale-approach",
+  name: "Richmond Dale",
+  lat: 39.218,
+  lng: -82.812,
+  radius: 2500,
+  layer: "approach",
+  short: "You are arriving at Richmond Dale. The first story is the name. This pin is only an offset so the arrival fires first. It is not a survey point.",
+  long: "",
+  names: ["Richmond Dale"]
+},
+{
+  id: "richmond-dale-name",
+  name: "The name",
+  lat: 39.20194,
+  lng: -82.81389,
+  radius: 40,
+  short: "The name comes first. This pin is the decimal Wikipedia prints, 39.20194 and -82.81389. That page also prints 39 degrees 12 minutes 7 seconds north and 82 degrees 48 minutes 50 seconds west. I will not extend those seconds. It prints elevation 594 ft (181 m), population 386 in 2020, density 781, ZIP 45673, and GNIS 1085483. The area is 0.49 square miles (1.28 square kilometers). No water line is printed. I will not invent one. The list says unincorporated. The page says an unincorporated community and a census-designated place. A mirror says although it is unincorporated. Although stays. I will not average those words. It is also known as Richmondale. A page says sometimes. I will not average also known as and sometimes. An old page prints Richmon Dale. I will not repair it. The place file prints 39.204191 and -82.812150. I will not stack that pair. It is in central Jefferson Township, along a road southeast of Chillicothe. Central stays. Southeast stays. I will not move Chillicothe. It was laid out in 1811. The name derives from Richmond, Virginia, the native home of a first settler. Derives stays. Native home stays. A first stays. I will not invent the settler's name, and I will not move Virginia. A post office called Richmond was established in 1814, and the name was changed to Richmond Dale in 1829. I will not average those years. Intended stays. Prevent stays. Repetition stays. I will not move the other Richmond. Looking south stays a caption. Towards stays. I will not invent the corner. A sign is a caption. I will not invent it. The ampersand stays a library. Branch stays. I will not invent the door. Richmond stays. I will not move it. No page names a nation. I will not invent one. No page prints a battle. I will not invent one.",
+  long: "",
+  names: ["Richmond Dale", "Richmondale", "Richmon Dale"]
+},
+{
+  id: "richmond-dale-cemetery",
+  name: "Little Mound Cemetery",
+  lat: 39.209167,
+  lng: -82.810278,
+  radius: 40,
+  short: "This pin is the pair a page prints for Little Mound Cemetery, 39 degrees 12 minutes 33 seconds north and 82 degrees 48 minutes 37 seconds west. I will not extend those seconds. The page says from Main Street, also known as Richmondale, turn onto Vigo Road, across the tracks, on the left. Across stays. On the left stays. In good condition stays. It says this is not a complete listing. Not stays. The exclamation stays. Last edited stays December 23, 2006. I will not call that a founding. It prints 29 records. I will not invent the rest. Charles R. Cartee is printed as born in 1906 and died in 1975. I will not invent the middle of that life. A page prints more names. I will not drop them, and I will not invent a battle from a service line. The next place is Richmond Heights.",
+  long: "",
+  names: ["Little Mound Cemetery"]
+},
+
+{
+  id: "richmond-heights-approach",
+  name: "Richmond Heights",
+  lat: 41.572,
+  lng: -81.505,
+  radius: 2500,
+  layer: "approach",
+  short: "You are arriving at Richmond Heights. The first story is the name. This pin is only an offset so the arrival fires first. It is not a survey point.",
+  long: "",
+  names: ["Richmond Heights"]
+},
+{
+  id: "richmond-heights-name",
+  name: "The name",
+  lat: 41.55806,
+  lng: -81.50361,
+  radius: 40,
+  short: "The name comes first. This pin is the decimal Wikipedia prints, 41.55806 and -81.50361. That page also prints 41 degrees 33 minutes 29 seconds north and 81 degrees 30 minutes 13 seconds west, and the pair 41.558183 and -81.503651. I will not extend those seconds, and I will not stack that pair. It prints population 10,801 in 2020. A page prints 10,546 in 2010, an estimate of 10,488, and an estimate of 10,380. Estimate stays. I will not average those counts. A page prints 265, and only 891, and more than fivefold, and nearly doubled, and peaking at 10,944. Only stays. More than stays. Nearly stays. Peaking stays. I will not average them. A page prints elevation 869 feet and 267 meters, and another prints 265 meters. I will not average 267 and 265. A page prints 4.45 square miles and 11.53 kilometers, and the square is missing on the kilometers. I will not add it. Another line prints 4.7 square miles. I will not average 4.7 and 4.45. Water is printed as 0.02 and as 0.03. I will not average them. The place file prints 41.560646 and -81.507700. I will not stack that pair. It was founded in 1917 as the Village of Claribel, renamed in 1918, and a city was formed in 1960. City Formed stays the capitals. But stays. Later stays. A page says it was incorporated as a village in 1917. I will not average 1917 and 1918. Twp. stays. Hts. stays. Last stays. Called stays, and founded as stays. I will not average them. A motto prints Brighter Tomorrow, and another prints Forward Look. I will not average them, and I will not add quotes. A caption prints Greenwood Farm, and another prints a shopping mall. I will not invent either door. Slowly stays. Principally stays. A series of pits stays. I will not invent the pits. One campus stays. Combined stays. I will not invent the school. Near stays an airport. Off stays, and off of stays. A development is named Richwood. I will not move the village. Largest stays. Scottish stays a name. I will not invent a nation. Euclid stays. Willoughby Hills stays. I will not move them, and I will not drop a direction. Mirroring stays. Older stays. Has since fallen stays. Richmond Dale stays. I will not move it. No cemetery is printed with a point. I will not invent one. No page prints a birth and a death. I will not invent a life. No page prints a battle. I will not invent one. The next place is Richville.",
+  long: "",
+  names: ["Richmond Heights", "Claribel"]
+},
+
+{
+  id: "richville-approach",
+  name: "Richville",
+  lat: 40.765,
+  lng: -81.47,
+  radius: 2500,
+  layer: "approach",
+  short: "You are arriving at Richville. The first story is the name. This pin is only an offset so the arrival fires first. It is not a survey point.",
+  long: "",
+  names: ["Richville"]
+},
+{
+  id: "richville-name",
+  name: "The name",
+  lat: 40.74722,
+  lng: -81.47,
+  radius: 40,
+  short: "The name comes first. This pin is the decimal Wikipedia prints, 40.74722 and -81.47000. That page also prints 40 degrees 44 minutes 50 seconds north and 81 degrees 28 minutes 12 seconds west. I will not extend those seconds. It prints elevation 1,155 ft (352 m), population 3,209 in 2020, and GNIS 2628959. No area is printed. I will not invent one. No ZIP is printed on the place. I will not invent one. As of the census, the median age is 45.1. As of stays. I will not average 19.0 and 22.7. The list says unincorporated. The page says an unincorporated community and a census-designated place. An older page leaves off the census-designated place. I will not drop it. The place file prints 40.752134 and -81.466249. I will not stack that pair. It is in southern Perry Township. Southern stays. A township page says in the south. I will not average southern and south. The en dash stays between Canton and Massillon. I will not move them. It was laid out in 1836. A post office was established in 1872 and remained until 1902. Until stays. I will not average those years. A former school was sold in 1997, later abandoned, and later demolished. Former stays. Later stays. In part stays. Potential stays. Unsuccessful stays. I will not invent the building. A township page says the section needs more citations. Needs stays. I will not invent them. A battle stays off this place. I will not move it. Reedurban stays. I will not move it. Richmond Heights stays. I will not move it. No page prints a birth and a death. I will not invent a life. No page names a nation. I will not invent one.",
+  long: "",
+  names: ["Richville"]
+},
+{
+  id: "richville-cemetery",
+  name: "Richville Cemetery",
+  lat: 40.75617,
+  lng: -81.47123,
+  radius: 40,
+  short: "This pin is Richville Cemetery, 40.75617 and -81.47123. The page says about 250 feet east of the road, and about 0.1 miles north of an intersection. About stays. I will not average those distances with this pin. The address prints 44706. I will not move that code onto the place page. Its feature number is 1731040. I will not average that with 2628959. A license number stays. A book title prints 1803 to 2003. I will not call that a founding. The next place is Richwood.",
+  long: "",
+  names: ["Richville Cemetery"]
+},
+
 
 
 

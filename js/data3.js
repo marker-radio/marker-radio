@@ -3846,6 +3846,724 @@ STORIES.push(
   long: "",
   names: ["North Kingsville Elementary School"]
 },
+{
+  id: "north-lawrence-approach",
+  name: "North Lawrence",
+  lat: 40.855,
+  lng: -81.612,
+  radius: 2500,
+  layer: "approach",
+  short: "You are arriving at North Lawrence. The first story is the name. This pin is only an offset so the arrival fires first. It is not a survey point.",
+  long: "",
+  names: ["North Lawrence"]
+},
+{
+  id: "north-lawrence-name",
+  name: "The name",
+  lat: 40.84111,
+  lng: -81.62917,
+  radius: 40,
+  short: "The name comes first. This pin is the decimal Wikipedia prints, 40.84111 and -81.62917. That page also prints 40 degrees 50 minutes 28 seconds north and 81 degrees 37 minutes 45 seconds west. I will not extend those seconds. It prints a census-designated place in southwestern Lawrence Township, elevation 1,001 ft (305 m), population 212 in 2020, ZIP 44666, and GNIS 2628946. The list prints unincorporated. A 2016 page says although it is unincorporated. A name record prints class Unincorporated Place, GNIS 1065170. I will not average those labels, and I will not merge 2628946 with 1065170. That populated place is at N40.839779 and W81.628458, elevation 1,033 ft, on the Dalton map. Another record prints 40.8397785 and -81.6284585, and a second pair, 40.8395008 and -81.6190136, on the Massillon map. I will not average the two pairs. Massillon the city stays Massillon. A map prints the census place at N40.841666 and W81.634602. The place file prints 40.841878 and -81.639934. Another page prints 40.84186 and also 40 degrees 50 minutes 31 seconds north, and -81.62911 and also 81 degrees 37 minutes 45 seconds west, and elevation 1,033 feet (315 metres). I will not average 1,001, 1,033, 305, and 315. I will not stack those points. The post office is at N40.840334 and W81.628736. I will not stack it. It was originally called Lawrence, and under that name laid out in 1852. A newspaper says it was platted in 1852. I will not average laid out and platted. A post office called North Lawrence was established in 1854. I will not average 1852 and 1854. Variant names stay Bowdil, Bowdill, Lawrence, and Lawrence City. I will not average Bowdil and Bowdill. Wikipedia says North Lawrence includes Bowdil. I will not invent Bowdil's door. The name is from the township. Canton and Massillon stay in the metropolitan name. Dalton stays the map name. An older page says the main road is Ohio 93, and that the place is one mile south of Canal Fulton. One mile stays. Canal Fulton stays. Pittsburgh and Crestline stay on the railroad sentence. The Slark-Wayne county line stays as the newspaper prints it. I will not repair Slark. Prussia and Germany stay. Wayne County stays on that line.",
+  long: "",
+  names: ["North Lawrence", "Lawrence", "Bowdil", "Bowdill"]
+},
+{
+  id: "north-lawrence-cemetery",
+  name: "Newman Creek Cemetery",
+  lat: 40.848937,
+  lng: -81.620954,
+  radius: 40,
+  short: "This pin is Newman Creek Cemetery on the map, N40.848937 and W81.620954, 0.7 miles from the populated place. A newspaper prints Newman's Creek Cemetery, north of the village, and says the first church was on that site. I will not average Newman and Newman's. The next sentence prints the church now al the site the Chapel of the Cross United Methodist was built in 1864. I will not repair al the site. A map prints North Lawrence Church at N40.848667 and W81.622069. I will not stack it on this cemetery, and I will not decide it is the 1864 chapel. A Methodist church, now Faith United Methodist, was organized about 1857, and the present structure built about 1860. About stays. I will not invent that door.",
+  long: "",
+  names: ["Newman Creek Cemetery", "Newman's Creek Cemetery"]
+},
+{
+  id: "north-lawrence-park",
+  name: "Clays Park",
+  lat: 40.862001,
+  lng: -81.595679,
+  radius: 40,
+  short: "This pin is Clays Park on the map, N40.862001 and W81.595679, 2.3 miles from the populated place. An older page prints Clay's Park, and says North Lawrence is the site of that water resort. I will not average Clays and Clay's, and I will not move this park onto the village pin. The lake stays at N40.864441 and W81.593548. The dam stays at N40.863390 and W81.589845. I will not stack them. Clay's RV Airport stays at N40.855468 and W81.601267. I will not move it.",
+  long: "",
+  names: ["Clays Park", "Clay's Park"]
+},
+{
+  id: "north-lawrence-fire",
+  name: "North Lawrence Fire Department",
+  lat: 40.842727,
+  lng: -81.628372,
+  radius: 40,
+  short: "This pin is the North Lawrence Fire Department, N40.842727 and W81.628372. The newspaper puts the words most prominent and influential pioneer families in quotation marks, for the Philip Lawrence family, who came in 1844. About a dozen families stays. About stays. It calls the place a rough town. Rough stays. It calls it the cradle of the United Mine Workers. Cradle stays. I will not invent a mine. Robert A. Pollock is printed dead in 1955, after 10 terms in the Senate and four in the House. The page does not print his birth. I will not invent it. The same paragraph prints the all-time of United on political office record. I will not repair that line. It prints 2 bill. I will not repair 2. Michael D. Ratchford is printed with no years. I will not invent them. William L. Higginbotham stays, and the page prints Penn a i a Railroad. I will not repair that. Logan Higginbottom stays a different spelling. I will not average it with Higginbotham. Eddie Rickenbacker stays where that sentence puts him. I will not invent his years. No page names a nation here. I will not invent one. No page prints a battle. I will not invent one. The next place is North Lewisburg.",
+  long: "",
+  names: ["North Lawrence Fire Department"]
+},
+
+{
+  id: "north-lewisburg-approach",
+  name: "North Lewisburg",
+  lat: 40.242,
+  lng: -83.558,
+  radius: 2500,
+  layer: "approach",
+  short: "You are arriving at North Lewisburg. The first story is the name. This pin is only an offset so the arrival fires first. It is not a survey point.",
+  long: "",
+  names: ["North Lewisburg"]
+},
+{
+  id: "north-lewisburg-name",
+  name: "The name",
+  lat: 40.22056,
+  lng: -83.55806,
+  radius: 40,
+  short: "The name comes first. This pin is the decimal Wikipedia prints, 40.22056 and -83.55806. That page also prints 40 degrees 13 minutes 14 seconds north and 83 degrees 33 minutes 29 seconds west. I will not extend those seconds. It prints elevation 1,099 ft (335 m), GNIS 2399517, FIPS 39-56770, ZIP 43060, and area codes 937 and 326. The motto is Where Family, Friends, and Traditions Stay for a Lifetime. The infobox prints 1.08 square miles (2.81 square kilometers) and water 0. The geography section prints 1.15 square miles (2.98 square kilometers), all of it land. I will not average 1.08 and 1.15. The 2020 census is 1,636, density 1,505.8. The 2010 density is 1,295.7. I will not average those. 1920 and 1940 both print 720. Mayor Cheryl Hollingsworth is marked citation needed. Citation needed stays. I will not invent her years. A map prints the populated place at N40.223113 and W83.557427, elevation 1,089 ft, and the civil point at N40.220594 and W83.558428. I will not average 1,089 with 1,099, and I will not stack those points. Wikipedia says it was platted in 1826 and incorporated in 1844, and that a post office has been in operation since 1845. The village page says Gray Gary platted it on September 6, 1826, on a high point of land on Spain's Creek near the big spring, and that the land is level. I will not average high point and level. It says he bought 150 acres from Hezekiah Spain in 1810, sold a part in 1814, and later bought the tract. Later stays. He died in 1839. A newspaper says settlers since 1805, and the first official platting in 1826. I will not average 1805 and 1826. It prints Northern Part. The village page prints northern part. I will not average the capitals. The first lot was $18.00 on one page and $18 on another. I will not average them. Thirteen years after stays. Five years after his death stays. July 11, 1844 stays, with mayor Russell B. Spain. I will not invent his years. The first post master was Royal Jennings. Post master stays. I will not invent his years. There were 32 lots. Sycamore and Maple stay the first streets. Logan County and Union County stay on the county line. Rush Township stays. The minutes were in quaint Quaker language, not as we do today. Quaint stays. Not as we do today stays.",
+  long: "",
+  names: ["North Lewisburg"]
+},
+{
+  id: "north-lewisburg-cemetery",
+  name: "Butcher Cemetery",
+  lat: 40.223939,
+  lng: -83.564089,
+  radius: 40,
+  short: "This pin is Butcher Cemetery on the map, N40.223939 and W83.564089. The village page says it is known also as Walnut Grove Cemetery, and the page puts that name in quotation marks. A transcription prints BUTCHER-GARWOOD CEMETERY, also Walnut Grove, also North Lewisburg Cemetery, and it prints VOL I I. I will not repair VOL I I. I will not average those names. Garwood Cemetery stays at N40.277271 and W83.562423. I will not move it here. The transcription prints John Butcher, 1816 to 1891, and Nancy J. Butcher, 1823 to 1898. I will not invent a life beyond those years. Friends Cemetery is printed west of the Friends Church, used from circa 1846 through circa 1885. Circa stays, both times. The first recorded burial is Moses Winder on August 5, 1846. The last is Caroline S. Pim on May 18, 1885. I will not invent that cemetery's door, and I will not move those burials onto this pin. William W. Fell is printed as a Civil War veteran there. I will not invent a battle, and I will not invent his years. Harmon Limes is printed as the first marshal of Lewisburg. I will not average Lewisburg with North Lewisburg.",
+  long: "",
+  names: ["Butcher Cemetery", "Walnut Grove Cemetery", "Butcher-Garwood Cemetery"]
+},
+{
+  id: "north-lewisburg-church",
+  name: "Immaculate Conception Church",
+  lat: 40.228391,
+  lng: -83.559649,
+  radius: 40,
+  short: "This pin is Immaculate Conception Church, N40.228391 and W83.559649, elevation 1,099 ft. A village marker prints 40 degrees 13.754 minutes north and 83 degrees 33.546 minutes west, at 286 Winder Street. I will not extend those minutes, and I will not stack that marker on this church. It says line of the Underground Railroad, and that many Quaker residents provided safety and shelter. Another marker says although not a stop on the Underground Railroad, the church supported ardent abolitionists, and that freedom was in Canada. Although not a stop stays. Canada stays. I will not average those two sentences, and I will not invent a station. The Friends meeting house on that site was 1842. The present church replaced it in the 1870s, at a cost of $4,245. The 1870s stay the 1870s. Pennsylvania and North Carolina stay the states the page names. The Friends marker is about 600 feet away. About stays. The village page says the crack in the bell was the result of two local citizens ringing it for the ending of World War II. Two stays. I will not invent their names, and I will not invent a battle here. No page names a nation on this village. I will not invent one. The next place is North Lima.",
+  long: "",
+  names: ["Immaculate Conception Church"]
+},
+
+{
+  id: "north-lima-approach",
+  name: "North Lima",
+  lat: 40.962,
+  lng: -80.661,
+  radius: 2500,
+  layer: "approach",
+  short: "You are arriving at North Lima. The first story is the name. This pin is only an offset so the arrival fires first. It is not a survey point.",
+  long: "",
+  names: ["North Lima"]
+},
+{
+  id: "north-lima-name",
+  name: "The name",
+  lat: 40.94972,
+  lng: -80.66111,
+  radius: 40,
+  short: "The name comes first. This pin is the decimal Wikipedia prints, 40.94972 and -80.66111. That page also prints 40 degrees 56 minutes 59 seconds north and 80 degrees 39 minutes 40 seconds west. I will not extend those seconds. It prints elevation 1,096 ft (334 m), area 7.07 square miles (18.30 square kilometers), land 6.86 (17.76), water 0.21 (0.54), population 1,369 in 2020, ZIP 44452, FIPS 39-56798, GNIS 2812831, and area codes 330 and 234. A place page prints 40.948333 and -80.658889, and density 199.65. An older page prints a 2019 estimate of 3,515 and density 263. I will not average 1,369 and 3,515, or 199.65 and 263. The place file prints 40.947372 and -80.664007. I will not stack those points. The census table prints only 2020. I will not invent an earlier count. It is an unincorporated community and a census-designated place in Beaver Township. An older page says central Beaver Township, and although it is unincorporated. Central stays on that page. Although stays. The live page puts it at State Routes 7, 164, and 165. The older page prints 7 and 164. I will not drop 165, and I will not add it to the older sentence. The live metro name is Youngstown-Warren. The older name includes Boardman and Pennsylvania. Boardman stays. Pennsylvania stays. It was laid out around 1826. Around stays. A place page says platted around 1826. I will not average laid out and platted. The name may be a transfer from Lima, New York. May stays. Lima, New York stays in New York. A post office has been in operation since 1832, which bears the ZIP code 44452. Which bears stays. I will not average 1826 and 1832. The former South Range High School is in the town center, and the building now hosts businesses. The district still includes a South Range High School. I will not decide those are one building. A cemetery page says the ground is south of the now old high school. Now old stays. I will not invent that school door.",
+  long: "",
+  names: ["North Lima"]
+},
+{
+  id: "north-lima-cemetery",
+  name: "Mount Olivet Cemetery",
+  lat: 40.9442,
+  lng: -80.66352,
+  radius: 40,
+  short: "This pin is Mount Olivet Cemetery as Find a Grave prints it, 40.94420 and -80.66352, at 410 West South Range Road. Another page prints 40.944202 and -80.6648075. I will not stack that pair. The same ground is also printed as Good Hope Church Cemetery, Good Hope Lutheran Cemetery, North Lima Cemetery, North Lima Union Cemetery, Henry Grove Cemetery, and Ernst and Ruhlman Cemetery, and as Mt Olivet and Mt. Olivet. I will not average those names. A line prints Est. 1817, and ZIP 44452-9727. I will not average 1817 with around 1826, or 44452-9727 with 44452. It appears stays. The old section is now called te Township Section. Te stays. I will not repair it. The church is this address. I will not stack a second pin on the church. Charlotte Amanda Benkner, born Enterlein, is printed born 16 November 1889 in Leipzig, and died 14 May 2004 in Youngstown, aged 114 years, 180 days. Leipzig stays. Youngstown stays. She lived her last few years in North Lima. Last few stays. One of the oldest stays. The page prints her buried in Peekskill, Ohio, and also that she grew up in Peekskill, New York. I will not average Ohio and New York, and I will not move that grave here. Tillie Hare died 25 January 2004, two weeks short of a hundred. Two weeks short stays. An older page prints Bob Mortimer born here. The current page does not. I will not invent his years. Samuel J. Steiner is printed as a draft resister. I will not invent a battle, and I will not invent his years. Frank DiLeo died outside Youngstown. Outside stays. No page names a nation here. I will not invent one. No separate legend is printed beyond may, around, and it appears. I will not invent one. The next place is North Madison.",
+  long: "",
+  names: ["Mount Olivet Cemetery", "North Lima Cemetery", "Good Hope Cemetery"]
+},
+
+{
+  id: "north-madison-approach",
+  name: "North Madison",
+  lat: 41.82,
+  lng: -81.049,
+  radius: 2500,
+  layer: "approach",
+  short: "You are arriving at North Madison. The first story is the name. This pin is only an offset so the arrival fires first. It is not a survey point.",
+  long: "",
+  names: ["North Madison"]
+},
+{
+  id: "north-madison-name",
+  name: "The name",
+  lat: 41.801996,
+  lng: -81.048986,
+  radius: 40,
+  short: "The name comes first. This pin is the unincorporated place the map prints, N41.801996 and W81.048986. The record also prints 41.8019960 and -81.0489860, and 41 degrees 48 minutes 7.19 seconds north and 81 degrees 2 minutes 56.35 seconds west. I will not extend those seconds. GNIS 1043960. Class Unincorporated Place. The list says unincorporated. Wikipedia prints a census-designated place at 41.82972 and -81.05083, and 41 degrees 49 minutes 47 seconds north and 81 degrees 3 minutes 3 seconds west, elevation 604 ft (184 m), GNIS 2393153. A map prints that census place at N41.829814 and W81.050957. The place file prints 41.829815 and -81.050961. I will not average those pairs, and I will not move the census place onto this pin. The page says the census place is 1 mile (1.6 km) north of the unincorporated community and U.S. 20. One mile stays. I will not replace it. Redbird stays in the western part of the census place. Madison-on-the-Lake stays in the eastern part. The village of Madison stays 4 miles (6 km) from the census place. Geneva stays 7 miles (11 km). Perry stays 9 miles (14 km). I will not average 4 miles with 6 km. Lake Erie stays the shore of the census place. I will not put that shore on this pin. The census place infobox prints 3.91 square miles (10.12 square kilometers) and water 0. The geography section prints 3.9 square miles (10.1 square kilometers), all land. I will not average 3.91 and 3.9. The 2020 census of that place is 8,188. I will not invent an earlier count. The mailing address is printed as Madison, ZIP 44057. I will not average that name with this one. FIPS 39-56812 and census code 56812 both print 56812. I will not merge 2393153 with 1043960. A historical post office is at N41.801441 and W81.048430. I will not stack it. The page prints no plat year for this community. I will not invent one. North Perry stays where the map puts it.",
+  long: "",
+  names: ["North Madison"]
+},
+{
+  id: "north-madison-cemetery",
+  name: "North Madison Cemetery",
+  lat: 41.797544,
+  lng: -81.04676,
+  radius: 40,
+  short: "This pin is North Madison Cemetery, N41.797544 and W81.046760, elevation 675 ft. I will not average 675 with 604. It is on the east side of Lake Street, State Route 528, across from Immaculate Conception Catholic Church, about 1/4 mile south of North Ridge Road. About stays. I will not invent the church door. The page says although North Madison was originally north of the north glacieral ridge, this cemetery is at least north of the village of Madison. Glacieral stays. Although stays. Originally stays. At least stays. Middle Ridge Cemetery stays 0.5 miles off. I will not move it. A WPA map said established 1812 and 2.5 acres. The deed is 3 acres and 4 rods, dated December 12, 1863, recorded June 27, 1864. I will not average 2.5 acres with 3 acres and 4 rods, or 1812 with 1863. The meeting was November 28, 1863. John P. Hewitt was chairman. A trustee is printed John P. Hewit. I will not average Hewitt and Hewit. The page prints center and also centre. I will not average them. Section B is printed as a half-acre mark, bought February 23, 1935, for $300.00. The page puts for use as a cemetery for burial purposes in quotation marks. The page prints 2000 for two new areas, and a record in 1989. I will not decide that one records the other. Labelled stays. A rock at the entrance is in memory of Anson Bartlett, co-founder of the Grange, born in Danby, Vermont, October 21, 1816. Danby stays. In memory stays. The page does not print his death. I will not invent it, and I will not decide the rock is a grave.",
+  long: "",
+  names: ["North Madison Cemetery"]
+},
+{
+  id: "north-madison-school",
+  name: "North Madison Elementary School",
+  lat: 41.803107,
+  lng: -81.046486,
+  radius: 40,
+  short: "This pin is North Madison Elementary School, N41.803107 and W81.046486. No page names a nation here. I will not invent one. No page prints a battle. I will not invent one. No separate legend is printed beyond although, originally, at least, and about. I will not invent one. The next place is North Olmsted.",
+  long: "",
+  names: ["North Madison Elementary School"]
+},
+
+{
+  id: "north-olmsted-approach",
+  name: "North Olmsted",
+  lat: 41.428,
+  lng: -81.91,
+  radius: 2500,
+  layer: "approach",
+  short: "You are arriving at North Olmsted. The first story is the name. This pin is only an offset so the arrival fires first. It is not a survey point.",
+  long: "",
+  names: ["North Olmsted"]
+},
+{
+  id: "north-olmsted-name",
+  name: "The name",
+  lat: 41.415,
+  lng: -81.91444,
+  radius: 40,
+  short: "The name comes first. This pin is the decimal Wikipedia prints, 41.41500 and -81.91444. That page also prints 41 degrees 24 minutes 54 seconds north and 81 degrees 54 minutes 52 seconds west. I will not extend those seconds. It prints elevation 761 ft (232 m), area 11.67 square miles (30.23 square kilometers), water 0, population 32,442 in 2020, ZIP 44070, FIPS 39-56882, and GNIS 1056457. The place file prints 41.414929 and -81.919131. I will not stack that pair. An encyclopedia says the city hall is 17 miles southwest of Public Square. Seventeen stays. Public Square stays in Cleveland. It was a village in 1908, a city in 1950, and a charter city in 1960. I will not average those. Farmers decided in June 1908. The election was in September. It officially became a village on 12 October 1908. Officials took office on 1 January 1909. I will not average June, September, 12 October, and 1 January. At incorporation it covered approximately 14 square miles, 10 from Olmsted Township and four from Dover Township. Approximately stays. I will not average 14 with 11.67. The South Ridge is printed at 750 feet or more. Or more stays. I will not average that with 761. The ridge was locally known as Butternut Ridge. Locally stays. In Dover Township it was Sugar Ridge and later Coe Ridge. Later stays. Dover today is Westlake. Westlake stays. Olmsted Falls stays. The area was called North Olmsted as early as the late 1870s. As early as stays. The page puts North Olmsted in quotation marks for that sentence. An 1839 annexation was set aside one year later, for unknown reasons. Unknown stays. I will not invent 1840. David Johnson Stearns of Dover, Vermont, arrived in 1815 and is considered the first settler. Considered stays. Asher Miller Coe arrived in 1823 from Middleton, Connecticut. I will not invent their years. The first mayor is printed as George Willet. I will not invent his years. Old Town Hall was built in 1914. The current city hall was built adjacent in 1984. I will not invent either door. The police department is 1915. The fire department is 1924.",
+  long: "",
+  names: ["North Olmsted"]
+},
+{
+  id: "north-olmsted-cemetery",
+  name: "Butternut Ridge Cemetery",
+  lat: 41.407067,
+  lng: -81.905717,
+  radius: 40,
+  short: "This pin is the Butternut Ridge Cemetery marker, which prints 41 degrees 24.424 minutes north and 81 degrees 54.343 minutes west, on Butternut Ridge Road. I will not extend those minutes. The marker says Isaac Scales, 1786 to 1821, settled on this site and at his death was buried in his back yard. Back yard stays two words. A large rock marked his grave. The encyclopedia says he was buried in 1821, and that the ground became a township cemetery in 1835. The marker says Charles Olmsted deeded it to the township in 1835. I will not average buried, became, and deeded. The crypt was built in 1879. The marker was erected in 1978, number 8-18. Early settlers and veterans who fought in six American wars, including the Revolutionary, are buried here. Six stays. I will not name the other five, and I will not invent a battle. A database says this point finds itself in what was once the Haudenosaunee, also called Iroquois, Confederacy, the Mississippian Culture, and the Northwest Territory. Once stays. Finds itself stays. I will not invent a village those nations built. The city owns Coe Cemetery at Lorain Road and Walter Road. I will not invent that door. Coe Ridge Cemetery stays at N41.42809 and W81.89208. I will not average those names. Frostville stays in the Rocky River Reservation. Close stays. I will not move the reservation.",
+  long: "",
+  names: ["Butternut Ridge Cemetery"]
+},
+{
+  id: "north-olmsted-school",
+  name: "Coe School",
+  lat: 41.42644,
+  lng: -81.89625,
+  radius: 40,
+  short: "This pin is Coe School, N41.42644 and W81.89625, elevation 757 ft. Another page prints 41 degrees 25 minutes 35 seconds north and 81 degrees 53 minutes 46 seconds west, elevation about 231 meters, and a DEM of 230 meters. About stays. I will not average 757 ft, about 231 meters, and 230 meters, or those seconds with this pin. That page says the nearest larger town is North Olmsted, 3 kilometers to the west. Three kilometers stays. I will not move the school onto the city pin. The pages I am using do not print a birth and a death for David Johnson Stearns or Asher Miller Coe. I will not invent them. No separate legend is printed beyond considered, locally, unknown, as early as, and approximately. I will not invent one. The next place is North Perry.",
+  long: "",
+  names: ["Coe School"]
+},
+
+{
+  id: "north-perry-approach",
+  name: "North Perry",
+  lat: 41.818,
+  lng: -81.132,
+  radius: 2500,
+  layer: "approach",
+  short: "You are arriving at North Perry. The first story is the name. This pin is only an offset so the arrival fires first. It is not a survey point.",
+  long: "",
+  names: ["North Perry"]
+},
+{
+  id: "north-perry-name",
+  name: "The name",
+  lat: 41.79889,
+  lng: -81.12806,
+  radius: 40,
+  short: "The name comes first. This pin is the decimal Wikipedia prints, 41.79889 and -81.12806. That page also prints 41 degrees 47 minutes 56 seconds north and 81 degrees 7 minutes 41 seconds west. I will not extend those seconds. It prints elevation 630 ft (190 m), GNIS 1086427, FIPS 39-56910, ZIP 44081, and area code 440. The infobox prints 3.88 square miles (10.05 square kilometers) and water 0. The geography section prints 3.87 square miles (10.02 square kilometers), all land. I will not average 3.88 and 3.87, or 10.05 and 10.02. The 2020 census is 915, density 235.9. The table starts at 1930, which is 316. I will not invent an earlier row. A village page, as a newspaper quotes it, says the village formally came into existence on January 1, 1926, with 430 residents. I will not average 430 and 316. A petition was sent on July 18, 1925. I will not average 1925 and 1926. The same pages call 2025 the 100th anniversary. I will not correct that year. The place file prints 41.800253 and -81.124138. I will not stack that pair. The village is in Perry Township and Madison Township. Perry stays. Madison stays. Mayor Brian Titus is printed with no years. I will not invent them. The start and finish times of a celebration have not yet been announced. Not yet stays. One page prints also might be take place. I will not repair that. Another page prints might take place. I will not average the two sentences. Close to July 18 stays. A newspaper prints achives. I will not repair it. The Perry Historical Museum stays at 3885 Main Street in Perry Village. I will not move Perry Village here.",
+  long: "",
+  names: ["North Perry"]
+},
+{
+  id: "north-perry-park",
+  name: "North Perry Park",
+  lat: 41.807826,
+  lng: -81.131766,
+  radius: 40,
+  short: "This pin is North Perry Park on the map, N41.807826 and W81.131766. A newspaper prints Townline Park at the northern end of Townline Road, on the Lake Erie shoreline. I will not average those names, and I will not invent Townline Park's door. The village hall is printed at 4449 Lockwood Road, and a map prints the hall at N41.808333 and W81.132222. I will not stack the hall on this park. The police building stays at N41.808665 and W81.130026. I will not stack it. No page I am using prints a cemetery in the village. I will not invent one.",
+  long: "",
+  names: ["North Perry Park"]
+},
+{
+  id: "north-perry-plant",
+  name: "Perry Nuclear Generating Station",
+  lat: 41.80083,
+  lng: -81.14333,
+  radius: 40,
+  short: "This pin is the decimal Wikipedia prints for the plant, 41.80083 and -81.14333. That page also prints 41 degrees 48 minutes 3 seconds north and 81 degrees 8 minutes 36 seconds west. The village page calls it the Perry Nuclear Generating Station. The plant page's title is that name, and the infobox prints Perry Nuclear Power Plant. A map prints 41.8008333 and -81.1441667, approximate elevation 620 feet (189 meters). Approximate stays. I will not average 620 with 630, or 189 meters with 190 m, and I will not stack that pair. Construction began October 1, 1974. The commission date is November 18, 1987. I will not average those. The site is printed as 1,100 acres (450 hectares), 40 miles (64 kilometers) northeast of Cleveland. I will not average 40 miles and 64 kilometers. One cooling tower is in use. One stays. A unit of 1,205 megawatts is printed cancelled. Cancelled stays. The original thermal figure is 3,579, and a later figure is 3,758. I will not average them. Headlands Park stays a viewpoint. I will not move it. The pages do not print a birth and a death for a person of this village. I will not invent a life. No page names a nation here. I will not invent one. No page prints a battle. I will not invent one. The next place is North Randall.",
+  long: "",
+  names: ["Perry Nuclear Generating Station", "Perry Nuclear Power Plant"]
+},
+
+{
+  id: "north-randall-approach",
+  name: "North Randall",
+  lat: 41.45,
+  lng: -81.53,
+  radius: 2500,
+  layer: "approach",
+  short: "You are arriving at North Randall. The first story is the name. This pin is only an offset so the arrival fires first. It is not a survey point.",
+  long: "",
+  names: ["North Randall"]
+},
+{
+  id: "north-randall-name",
+  name: "The name",
+  lat: 41.43111,
+  lng: -81.53056,
+  radius: 40,
+  short: "The name comes first. This pin is the decimal Wikipedia prints, 41.43111 and -81.53056. That page also prints 41 degrees 25 minutes 52 seconds north and 81 degrees 31 minutes 50 seconds west. I will not extend those seconds. A geography line also prints the pair 44.431203 and -81.530582. I will not average 44.431203 with 41.43111, and I will not move this pin to 44 degrees. It prints elevation 1,043 ft (318 m), ZIP 44128, FIPS 39-56924, and GNIS 1065160. The nickname is Randall. A map prints a different populated place named Randall at N41.42505 and W81.52651. I will not move that place here. The infobox prints 0.78 square miles (2.02 square kilometers) and land 0.78 (2.01). The geography section prints 0.77 square miles (1.99 square kilometers), all land. An encyclopedia says less than 1 square mile. Less than stays. I will not average 0.78, 0.77, 2.02, 2.01, and 1.99. The 2020 census is 954. A map prints the populated place at N41.434776 and W81.525677, elevation 1,043 ft, and the civil point at N41.43264 and W81.52898. The place file prints 41.431839 and -81.530299. I will not stack those points. The historical post office is at N41.43478 and W81.52623. I will not stack it on the populated place. Settlement began in earnest in the 1850s, when the railroad was extended to that point. In earnest stays. To that point stays. The encyclopedia says the railroad was nearby in 1857. Nearby stays. I will not average the 1850s and 1857. It was known as Plank Road Station in the early 1800s. Early stays. It was incorporated in 1908. The same year a page says the North Randall Park race track opened, later the Randall Park Race Track. Later stays. I will not make those one event. It is 7 miles southeast of Cleveland. Seven stays. Warrensville Heights bounds it on the north, east, and west. Bedford Heights bounds it on the south. Those cities stay. Highland Hills stays a cross-reference. Shaker Heights stays the map name. It was originally part of Warrensville Township. The schools are the Warrensville Heights district, approximately 2,500 students. Approximately stays. I will not invent a school door in the village.",
+  long: "",
+  names: ["North Randall", "Plank Road Station", "Randall"]
+},
+{
+  id: "north-randall-track",
+  name: "Thistledown Racetrack",
+  lat: 41.43811,
+  lng: -81.53207,
+  radius: 40,
+  short: "This pin is Thistledown Racetrack on the map, N41.43811 and W81.53207. The encyclopedia says it opened in 1925. The village page says since 1925 it has been the home of Thistledown and the Ohio Derby, held every June. Every June stays. In 2010 it reopened as Thistledown Racino under Harrah's, and more recently Rock Gaming. More recently stays. Detroit stays. The village page says in 2013 Rock Ohio Caesars invested over 89 million dollars, and in 2016 Dan Gilbert permanently secured the location as JACK Thistledown Racino. Over stays. Permanently stays. I will not average 2010, 2013, and 2016, and I will not invent his years. Randall Park Mall is at N41.43172 and W81.53095. The historical racetrack is at N41.43144 and W81.53123. I will not stack those two points on each other or on the village pin. The encyclopedia says the mall was constructed in 1975. Wikipedia says it opened in 1976 and closed in 2009, and that Amazon built a distribution center on the site in 2018. I will not average 1975 and 1976. The village page says the mall was the world's largest upon opening, and that in August 2018 the village will officially welcome AMAZON. World's largest stays the page's words. Will stays. AMAZON stays in capitals on that page. Youngstown stays DeBartolo's city. I will not move it. Cleveland Memorial Gardens stays where the map puts it. I will not invent a cemetery in the village. No page prints a birth and a death for a person of this village. I will not invent a life. No page names a nation here. I will not invent one. No page prints a battle. I will not invent one. The next place is North Robinson.",
+  long: "",
+  names: ["Thistledown Racetrack", "Thistledown Racino"]
+},
+
+{
+  id: "north-robinson-approach",
+  name: "North Robinson",
+  lat: 40.81,
+  lng: -82.857,
+  radius: 2500,
+  layer: "approach",
+  short: "You are arriving at North Robinson. The first story is the name. This pin is only an offset so the arrival fires first. It is not a survey point.",
+  long: "",
+  names: ["North Robinson"]
+},
+{
+  id: "north-robinson-name",
+  name: "The name",
+  lat: 40.7925,
+  lng: -82.85667,
+  radius: 40,
+  short: "The name comes first. This pin is the decimal Wikipedia prints, 40.79250 and -82.85667. That page also prints 40 degrees 47 minutes 33 seconds north and 82 degrees 51 minutes 24 seconds west. I will not extend those seconds. It prints elevation 1,070 ft (330 m), population 219 in 2020, density 2,059.0, ZIP 44856, area code 419, FIPS 39-56994, and GNIS 2399522. The infobox prints 0.11 square miles (0.28 square kilometers) and water 0. The geography section prints 0.10 square miles (0.26 square kilometers), all land. I will not average 0.11 and 0.10, or 0.28 and 0.26. The census table starts at 1880. I will not invent 1860 or 1870. GNIS prints 40.7923822 and -82.8567961, and 40 degrees 47 minutes 32.58 seconds north and 82 degrees 51 minutes 24.47 seconds west, and elevation 326 meters / 1070 feet. I will not average 326 meters with 330 m. A map prints the populated place at N40.79256 and W82.85713. The place file prints 40.792382 and -82.856796. I will not stack those points. The post office is at N40.79311 and W82.85685. I will not stack it. It was laid out in 1861 and named for the Robinson family of pioneer settlers. I will not invent their first names or their years. On September 4, 2017, a tornado struck the northern part of the village. Northern part stays. The damage is printed as significant. Significant stays. I will not invent a death count. A record collection prints church books from this village for 1853 to 2007. I will not average 1853 with 1861. Varies stays. Some records are in German. German stays a language. May stays. A sample title prints Offficer's Register. I will not repair the spelling. I will not invent the church door. Houses on Main Street are printed. I will not invent a house door. Biddle, Leesville, and the other cemeteries stay where the map puts them. I will not move them here.",
+  long: "",
+  names: ["North Robinson"]
+},
+{
+  id: "north-robinson-school",
+  name: "Colonel Crawford High School",
+  lat: 40.78811,
+  lng: -82.85602,
+  radius: 40,
+  short: "This pin is Colonel Crawford High School, N40.78811 and W82.85602. The intermediate school stays at N40.78922 and W82.85629. I will not stack it. The village area is printed as 0.10 and 0.11 square miles. I will not decide that this school is inside that area. No page I am using prints a cemetery in the village. I will not invent one. No page prints a birth and a death for a Robinson of this village. I will not borrow a Robinson from another state. No page names a nation here. I will not invent one. No page prints a battle. I will not turn the tornado into one. No separate legend is printed beyond significant and northern part. I will not invent one. The next place is North Royalton.",
+  long: "",
+  names: ["Colonel Crawford High School"]
+},
+
+{
+  id: "north-royalton-approach",
+  name: "North Royalton",
+  lat: 41.335,
+  lng: -81.735,
+  radius: 2500,
+  layer: "approach",
+  short: "You are arriving at North Royalton. The first story is the name. This pin is only an offset so the arrival fires first. It is not a survey point.",
+  long: "",
+  names: ["North Royalton"]
+},
+{
+  id: "north-royalton-name",
+  name: "The name",
+  lat: 41.32222,
+  lng: -81.74639,
+  radius: 40,
+  short: "The name comes first. This pin is the decimal Wikipedia prints, 41.32222 and -81.74639. That page also prints 41 degrees 19 minutes 20 seconds north and 81 degrees 44 minutes 47 seconds west, and the longer pair 41.322276 and -81.746393. I will not extend the seconds, and I will not average 41.32222 with 41.322276. It prints population 31,322 in 2020, ZIP 44133, FIPS 39-57008, and GNIS 1065175. The area is 21.32 square miles (55.22 square kilometers), land 21.31 (55.19), water 0.01 (0.03). An encyclopedia prints 21 square miles. I will not average 21 and 21.32. A map prints the populated place at N41.313664 and W81.724574, elevation 1,197 ft, on the Broadview Heights map. The place file prints 41.315918 and -81.748063. I will not stack those points. Broadview Heights stays. Parma stays north. Strongsville stays west. Medina County stays south. Brecksville stays east. It was founded in 1818. A township page says it was formed on 27 October 1818 and voted into existence on 6 November 1818. I will not average those two dates. Wikipedia says Knight Sprague had it named for his native town, Royalton, in Vermont. Another page says the Vermont home town of 2 early settlers, David and Knight Sprague. Two stays. Another page says an early resident, and it prints Royalton, VT. I will not average one resident and two. It says the name changed in 1881. Wikipedia says sometime between 1880 and 1890. Another page says the 1880s. Sometime between stays. I will not average 1881 with that range. It became a village on April 4, 1927. Another page says April 1927. I will not drop the day. It became a city in 1961. Wikipedia says the first mayor, E. C. McCombs, was elected. Another page says Charles E. McCombs was appointed. I will not average the names, or elected and appointed. I will not invent his years. The 1840 count is 1,051. The 1940 count is 2,559. I will not average those with 31,322. Largely dairy farmers stays. Slowly but steadily stays. Exact shape stays. Only a few stays. Melzer Clark is printed in 1811. I will not repair Melzer. Robert Engle is printed in 1816. The election was at his home. I will not invent that door. Royalton Center stays the only village that page names. I will not invent its door. The John M. Annis House is 1833. The Smith-Rutledge house is 1855. A stone house on Wallings Road dates to 1831. Dating to stays. Oldest remaining stays. I will not invent those doors.",
+  long: "",
+  names: ["North Royalton", "Royalton"]
+},
+{
+  id: "north-royalton-cemetery",
+  name: "North Royalton Cemetery",
+  lat: 41.31449,
+  lng: -81.72957,
+  radius: 40,
+  short: "This pin is North Royalton Cemetery on the map, N41.314490 and W81.729570. Another page prints 41.31393 and -81.7305, at 6170 Royalton Road. I will not stack that pair. Barr Road Cemetery and Center Cemetery stay where the map puts them. I will not move them. A page says Knight Sprague's burial details are unknown. Unknown stays. I will not put him in this cemetery.",
+  long: "",
+  names: ["North Royalton Cemetery"]
+},
+{
+  id: "north-royalton-hall",
+  name: "North Royalton City Hall",
+  lat: 41.315053,
+  lng: -81.735686,
+  radius: 40,
+  short: "This pin is North Royalton City Hall, N41.315053 and W81.735686. One page prints Knight Sprague born 21 October 1765 in Hingham, in the Massachusetts Bay Colony, and dead after 1842 in Royalton. After stays. Another page prints him born in 1770 in Spencer, Massachusetts, and dead in 1840, aged 69 to 70, and says those years are rounded, expected to be within five years. Within five years stays. It says 1765 is ruled out, and that 1768 to 1770 seems in the middle. Seems stays. It says most likely 1842. Most likely stays. I will not average 1765, 1768, 1770, 1840, and 1842. About 1842 stays. It is said he lost his sight as a blacksmith. It is said stays. Almost stays. A line prints afiars. I will not repair it. The record fails to state how he viewed the fences. Fails to state stays. One page says he settled in the spring of 1817. Another says the winter of 1818 and the spring of 1819. I will not average those. Royalton, Vermont, stays. Kingston, Vermont, stays. May be others stays. No documentation stays. I will not invent a grave. The first high school is printed in 1907. I will not invent its door. No page names a nation here. I will not invent one. No page prints a battle. I will not invent one. No separate legend is printed beyond it is said, seems, most likely, and about. I will not invent one. The next place is North Star.",
+  long: "",
+  names: ["North Royalton City Hall"]
+},
+
+{
+  id: "north-star-approach",
+  name: "North Star",
+  lat: 40.335,
+  lng: -84.552,
+  radius: 2500,
+  layer: "approach",
+  short: "You are arriving at North Star. The first story is the name. This pin is only an offset so the arrival fires first. It is not a survey point.",
+  long: "",
+  names: ["North Star"]
+},
+{
+  id: "north-star-name",
+  name: "The name",
+  lat: 40.32444,
+  lng: -84.56889,
+  radius: 40,
+  short: "The name comes first. This pin is the decimal Wikipedia prints, 40.32444 and -84.56889. That page also prints 40 degrees 19 minutes 28 seconds north and 84 degrees 34 minutes 8 seconds west. I will not extend those seconds. It prints elevation 1,001 ft (305 m), area 0.51 square miles (1.33 square kilometers), water 0, population 224 in 2020, density 437.6, ZIP 45350, area code 419, FIPS 39-57064, and GNIS 2399523. An older page prints 40 degrees 19 minutes 20 seconds north and 84 degrees 34 minutes 6 seconds west, and the pair 40.322103 and -84.568338. I will not average those with this pin. That page prints elevation 1,004 ft (306 m). I will not average 1,001 and 1,004, or 305 and 306. Its infobox prints 0.51 square miles and water 0.00. Its geography section prints 0.53 square miles (1.37 square kilometers), all land. I will not average 0.51 and 0.53. It prints the 2010 census as 236, density 445.3, and a 2019 estimate of 221. Another page prints a 2019 estimate of 214, a 2010 count of 236, and a 2000 count of 209. I will not average 214, 221, 224, 236, and 209. The older GNIS is 1043972. I will not merge it with 2399523. The place file prints 40.324308 and -84.568933. I will not stack it. It was platted in 1852, along the road between Greenville and Celina, approximately midway. Approximately stays. Greenville stays. Celina stays. A page says it does not have a founding date, and that you might consider the post office opened in 1850. Might consider stays. I will not average 1850 and 1852. It prints the abbreviation N. Star. The name is from the edge of the Great Black Swamp, the northernmost point in Darke County that was not wetland. Edge stays. Northernmost stays. Not wetland stays. Wabash Township stays. U.S. 127 stays.",
+  long: "",
+  names: ["North Star", "N. Star"]
+},
+{
+  id: "north-star-cemetery",
+  name: "Saint Louis Cemetery",
+  lat: 40.3244,
+  lng: -84.5344,
+  radius: 40,
+  short: "This pin is Saint Louis Cemetery as Find a Grave prints it, 40.32440 and -84.53440, at North Star Fort Loramie Road and Mangen Road, on the southwest corner. The church page says the parish cemetery still remains at the original site, nearly 2 miles (3.2 kilometers) east of North Star. Nearly stays. I will not replace nearly 2 miles. The names also printed are Saint Louis Catholic Cemetery, Saint Louis North Star Cemetery, and St. Louis North Star Cemetery. I will not average Saint and St. GNIS 1045607 stays. The cemetery page prints ZIP 45380. The village page prints 45350. I will not average them. Versailles stays. Osgood stays. I will not move them.",
+  long: "",
+  names: ["Saint Louis Cemetery", "St. Louis North Star Cemetery"]
+},
+{
+  id: "north-star-church",
+  name: "St. Louis Catholic Church",
+  lat: 40.32472,
+  lng: -84.57028,
+  radius: 40,
+  short: "This pin is the decimal Wikipedia prints for the church, 40.32472 and -84.57028. That page also prints 40 degrees 19 minutes 29 seconds north and 84 degrees 34 minutes 13 seconds west. It is east of the intersection of North Star Road and U.S. 127. The village page says the church is in the village. The church page says the nearest city is North Star. I will not average in the village and nearest city. The caption drops the apostrophe. The history prints St. Louis' Catholic Church. The register name includes the rectory. I will not average those. Less than 1 acre stays. It was built in 1914 and added to the register on July 26, 1979. The parish was established in 1892 in the vicinity. Vicinity stays. The first church was completed in 1893, nearly 2 miles east. By the early 1910s the parish decided to move. Early 1910s stay. One of the newest stays. Heavily Catholic stays. Unique stays. Off-center stays. No page prints a birth and a death for a person of this village. I will not invent a life. No page names a nation here. I will not invent one. No page prints a battle. I will not invent one. The next place is North Zanesville.",
+  long: "",
+  names: ["St. Louis Catholic Church", "St. Louis' Catholic Church"]
+},
+
+{
+  id: "north-zanesville-approach",
+  name: "North Zanesville",
+  lat: 39.99,
+  lng: -82.0,
+  radius: 2500,
+  layer: "approach",
+  short: "You are arriving at North Zanesville. The first story is the name. This pin is only an offset so the arrival fires first. It is not a survey point.",
+  long: "",
+  names: ["North Zanesville"]
+},
+{
+  id: "north-zanesville-name",
+  name: "The name",
+  lat: 39.99556,
+  lng: -82.00111,
+  radius: 40,
+  short: "The name comes first. This pin is the decimal Wikipedia prints, 39.99556 and -82.00111. That page also prints 39 degrees 59 minutes 44 seconds north and 82 degrees 0 minutes 4 seconds west. I will not extend those seconds. It prints elevation 863 ft (263 m), population 3,116 in 2020, up from 2,816 in 2010, density 877.8, ZIP 43701 with Zanesville in parentheses, FIPS 39-57218, and GNIS 2393156. Up from stays. Zanesville stays the city to the south and west. I will not move the city onto this pin. The infobox prints 3.55 square miles (9.20 square kilometers), land 3.55 (9.19), and water 0.0039 (0.01). The geography section prints 3.553 square miles (9.202 square kilometers), of which 0.003 square miles (0.008 square kilometers), or 0.08 percent, are water. I will not average 3.55 and 3.553, or 0.0039 and 0.003, or 0.01 and 0.008. A map prints the census place at N39.990614 and W81.998191, elevation 862 ft. I will not average 863 and 862. It prints a populated place at N39.978679 and W82.003469. The place file prints 39.986242 and -81.992345. I will not stack those points. The census table prints 1950, 1960, 1970, then 1990. I will not invent 1980. The 1990 percent is a dash. I will not invent that percent. It is in the northeastern part of Falls Township, just north of Zanesville, along the Muskingum River. Just north stays. High ground stays. It drains east toward the Muskingum and west toward Joes Run. Joes stays with no apostrophe. The Licking River joins the Muskingum in Zanesville. That junction stays in Zanesville. The list says unincorporated. The page says unincorporated and a census-designated place. I will not average those labels. No page I am using prints a plat or a post office for this community. The ZIP is the city's. I will not invent a founding year. The Quaker burying ground and the other grounds stay where their pages put them, west of the city. I will not move them here.",
+  long: "",
+  names: ["North Zanesville"]
+},
+{
+  id: "north-zanesville-school",
+  name: "Richey Elementary School",
+  lat: 39.996178,
+  lng: -82.009303,
+  radius: 40,
+  short: "This pin is Richey Elementary School, N39.996178 and W82.009303. A map prints it 0.7 miles from the census place. I will not decide that it is inside the 3.55 square miles, and I will not move Zanesville's schools here. No page I am using prints a cemetery in this community. I will not invent one. No page prints a birth and a death for a person of this community. I will not borrow a life from the city or the township. No page names a nation here. I will not invent one. No page prints a battle. I will not invent one. No separate legend is printed beyond just north, high ground, and up from. I will not invent one. The next place is Northbrook.",
+  long: "",
+  names: ["Richey Elementary School"]
+},
+
+{
+  id: "northbrook-approach",
+  name: "Northbrook",
+  lat: 39.265,
+  lng: -84.581,
+  radius: 2500,
+  layer: "approach",
+  short: "You are arriving at Northbrook. The first story is the name. This pin is only an offset so the arrival fires first. It is not a survey point.",
+  long: "",
+  names: ["Northbrook"]
+},
+{
+  id: "northbrook-name",
+  name: "The name",
+  lat: 39.24861,
+  lng: -84.57861,
+  radius: 40,
+  short: "The name comes first. This pin is the decimal Wikipedia prints, 39.24861 and -84.57861. That page also prints 39 degrees 14 minutes 55 seconds north and 84 degrees 34 minutes 43 seconds west. I will not extend those seconds. It prints elevation 817 ft (249 m), population 10,912 in 2020, FIPS 39-56280, and GNIS 2393157. The infobox prints 1.93 square miles (5.00 square kilometers) and water 0. The geography section prints 1.9 square miles (4.9 square kilometers), all land. I will not average 1.93 and 1.9, or 5.00 and 4.9. One density is 5,652.3. Another is 5,650.96. Both print 2,182.38 per square kilometer. I will not average 5,652.3 and 5,650.96. The census table prints only 2020. I will not invent an earlier count. The median age is 34.9. That is not a person. A page prints 4,407 housing units, and it prints 0.4 percent Native American. That is a percentage. I will not turn it into a nation. The list says unincorporated. The page says a census-designated place in Colerain Township. A name record prints Unincorporated Place, GNIS 1049024, at 39.2464460 and -84.5835566, and 39 degrees 14 minutes 47.21 seconds north and 84 degrees 35 minutes 0.80 seconds west. I will not merge 1049024 with 2393157. The place file prints 39.246685 and -84.579624. I will not stack those points. The record was entered July 12, 1979. I will not call that a founding. Cincinnati stays the map name. Colerain in Belmont County stays there, with its own post office. I will not move it here. Colerain High School stays at N39.232279 and W84.602724. I will not move it here. No page I am using prints a plat, a cemetery, a building, a person with years, a nation, a battle, or a legend for this place. I will not invent them. The next place is Northfield.",
+  long: "",
+  names: ["Northbrook"]
+},
+
+{
+  id: "northfield-approach",
+  name: "Northfield",
+  lat: 41.345,
+  lng: -81.53,
+  radius: 2500,
+  layer: "approach",
+  short: "You are arriving at Northfield. The first story is the name. This pin is only an offset so the arrival fires first. It is not a survey point.",
+  long: "",
+  names: ["Northfield"]
+},
+{
+  id: "northfield-name",
+  name: "The name",
+  lat: 41.3425,
+  lng: -81.52861,
+  radius: 40,
+  short: "The name comes first. This pin is the decimal Wikipedia prints, 41.34250 and -81.52861. That page also prints 41 degrees 20 minutes 33 seconds north and 81 degrees 31 minutes 43 seconds west. I will not extend those seconds. It prints population 3,541 in 2020, ZIP codes 44056 and 44067, area code 330, FIPS 39-56448, and GNIS 1087010. I will not average the two ZIP codes. The infobox prints 1.05 square miles (2.72 square kilometers). The geography section prints 1.08 square miles (2.80 square kilometers), all land. I will not average 1.05 and 1.08. The place file prints 41.338857 and -81.526841. I will not stack that pair. The census table starts at 1920. I will not invent an earlier row. 1930 prints 1,750 and 1940 prints 575. I will not invent a reason for the drop. A post office has been in operation since 1837. Some say the name is a transfer from Northfield, Massachusetts. Others believe it was chosen because the site is in the northern part of Summit County. Some say stays. Others believe stays. I will not pick one. A village page prints Olde Northfield Township, established in 1807, as 27 square miles in the northeast corner of Portage County, before Summit County. Olde stays. Before stays. Portage stays. It says Isaac Bacon of Massachusetts arrived in 1807, on the north side of Valley View Road, west of Boyden Road. A cemetery page says he came in April, 1897, and built a log cabin on a spot that is now Route 631, about one mile west of County Highway 16. April stays. About stays. I will not average 1807 and 1897, or the two roads. Covered wagon stays. Macedonia stays. Northfield Center stays. Sagamore Hills stays. Akron stays in the metropolitan name. Mayor Jennifer Domzalski is printed with no years. I will not invent them. The page says the township evolved into a village in 1912. Evolved stays. I will not average 1837, 1912, and the 1920 census.",
+  long: "",
+  names: ["Northfield", "Olde Northfield"]
+},
+{
+  id: "northfield-cemetery",
+  name: "Northfield-Macedonia Cemetery",
+  lat: 41.327824,
+  lng: -81.537337,
+  radius: 40,
+  short: "This pin is Northfield - Macedonia Cemetery on the map, N41.327824 and W81.537337, elevation 994 ft. Another page prints 41.32782 and -81.53734, at Valley View Road and Olde 8 Road. I will not stack that pair. The names also printed are Northfield Cemetery, Macedonia Cemetery, Chesnut Hill Cemetery, and Chestnut Hill Cemetery. I will not average Chesnut and Chestnut, or the hyphens. A page says the cemetery is in the village. A locator says Northfield is 1.2 miles north-northeast. I will not average those. The first known burial is Abram Cranmer in 1812, and the oldest marker prints 9-8-1812. I will not average those writings, and the page does not print his birth. I will not invent it. The land was deeded August 28, 1847, 1.5 acres, from William and June Lemmon. A sexton was appointed in 1842. I will not average 1842 and 1847. High and dry stays. The name changed some time between July 1918 and April 1919. Some time between stays. There are no records available stays. Emmons Corner stays 0.3 miles off. I will not move it.",
+  long: "",
+  names: ["Northfield-Macedonia Cemetery", "Chestnut Hill Cemetery", "Chesnut Hill Cemetery"]
+},
+{
+  id: "northfield-racino",
+  name: "Northfield Park Racino",
+  lat: 41.3492,
+  lng: -81.5214,
+  radius: 40,
+  short: "This pin is Northfield Park Racino, 41.3492 and -81.5214. The same page also prints 41 degrees 20 minutes 57.12 seconds north and 81 degrees 31 minutes 17.04 seconds west. I will not extend 41.3492. A village page prints Sportsmans Park, and a heading prints Sportsman Park. I will not average those names, and I will not decide they are this racino. It says the track was origianlly built in 1934. Origianlly stays. It was during Max Kliens term as mayor, 1934 to 1938. Kliens stays with no apostrophe. Shortly after, it switched from greyhound racing to midget car racing. Shortly after stays. I will not invent his birth or his death. Frank Powers is printed as mayor from 1942 to 1950. I will not invent his years beyond that term. The town hall was built in 1935. First and only stays. I will not invent its door. No page names a nation here. I will not invent one. No page prints a battle. I will not invent one. No separate legend is printed beyond some say, others believe, and about. I will not invent one. The next place is Northgate.",
+  long: "",
+  names: ["Northfield Park Racino"]
+},
+
+{
+  id: "northgate-approach",
+  name: "Northgate",
+  lat: 39.27,
+  lng: -84.596,
+  radius: 2500,
+  layer: "approach",
+  short: "You are arriving at Northgate. The first story is the name. This pin is only an offset so the arrival fires first. It is not a survey point.",
+  long: "",
+  names: ["Northgate"]
+},
+{
+  id: "northgate-name",
+  name: "The name",
+  lat: 39.24778,
+  lng: -84.59833,
+  radius: 40,
+  short: "The name comes first. This pin is the decimal Wikipedia prints, 39.24778 and -84.59833. That page also prints 39 degrees 14 minutes 52 seconds north and 84 degrees 35 minutes 54 seconds west. I will not extend those seconds. It prints elevation 876 ft (267 m), population 7,277 in 2020, FIPS 39-56553, and GNIS 2393158. The infobox prints 2.55 square miles (6.60 square kilometers), land 2.53 (6.54), and water 0.023 (0.06). The geography section prints 2.5 square miles (6.5 square kilometers) of land and 0.04 square miles (0.10 square kilometers) of water, or 0.79 percent. I will not average 2.55 and 2.5, or 0.023 and 0.04, or 0.06 and 0.10. The infobox density is 2,880.7. The census section prints 2,880.84. Both print 1,112.25 per square kilometer. I will not average 2,880.7 and 2,880.84. The census table prints only 2020. I will not invent an earlier count. The list says unincorporated. The page says a census-designated place in Colerain Township. I will not average those labels. A map prints the census place at N39.25313 and W84.59422, and a populated place at N39.25283 and W84.59245. The place file prints 39.252953 and -84.592682. I will not stack those points. Northbrook stays at its own pin. Dornbusch stays. Bevis stays, and its historical post office stays. Cincinnati stays the west side the page names. I will not move the city here. Cedar Grove Cemetery stays at N39.25811 and W84.60272. I will not call it this place's cemetery. No page I am using prints a plat or a post office for Northgate. I will not invent one.",
+  long: "",
+  names: ["Northgate"]
+},
+{
+  id: "northgate-mall",
+  name: "Northgate Mall",
+  lat: 39.244652,
+  lng: -84.599172,
+  radius: 40,
+  short: "This pin is the decimal Wikipedia prints for Northgate Mall, 39.244652 and -84.599172. That page also prints 39 degrees 14 minutes 41 seconds north and 84 degrees 35 minutes 57 seconds west, at 9501 Colerain Avenue. A map prints the shopping center at N39.24450 and W84.59883. I will not stack that pair. The location line says Cincinnati. The lead says the mall is in Northgate. I will not average those. Construction began in 1970, on the site of a former airport. Former stays. The page does not name the airport. I will not invent the name or the door. It opened September 10, 1972. The enclosed mall closed September 14, 2026. Enclosed only stays. The infobox prints JC Penny. The history prints J. C. Penney. I will not average Penny and Penney. Pogue's became L. S. Ayres in 1984 and J. C. Penney in 1988. I will not average those stores. All vacant stays. Two at peak stays. A page says plans had not been announced. Not stays. No page prints a birth and a death for a person of this place. I will not invent a life. No page names a nation on this place. Fort Colerain stays on the river. I will not move it here, and I will not invent a battle. No separate legend is printed beyond a former airport. I will not invent one. The next place is Northridge.",
+  long: "",
+  names: ["Northgate Mall"]
+},
+
+{
+  id: "northridge-approach",
+  name: "Northridge",
+  lat: 40.008,
+  lng: -83.79,
+  radius: 2500,
+  layer: "approach",
+  short: "You are arriving at Northridge. The first story is the name. This pin is only an offset so the arrival fires first. It is not a survey point.",
+  long: "",
+  names: ["Northridge"]
+},
+{
+  id: "northridge-name",
+  name: "The name",
+  lat: 40.00139,
+  lng: -83.77861,
+  radius: 40,
+  short: "The name comes first. This pin is the decimal Wikipedia prints for the Clark County place, 40.00139 and -83.77861. That page also prints 40 degrees 0 minutes 5 seconds north and 83 degrees 46 minutes 43 seconds west. I will not extend those seconds. It prints elevation 1,102 ft (336 m), FIPS 39-56938, and GNIS 2393159. The infobox prints 3.06 square miles (7.93 square kilometers) and water 0. The geography section prints 3.1 square miles (7.9 square kilometers), all land. I will not average 3.06 and 3.1, or 7.93 and 7.9. The 2020 census is 7,518. A figure of 8,369 is printed for 2023. I will not average them. The census table I first saw printed only the 2020 count. I will not invent an earlier row. A name record prints two pairs. The first is 39.9971079 and -83.7770484, on the Springfield map. The second is 40.0052177 and -83.7795452, on the Urbana West map. The record says the coordinates are at the centroid. Centroid stays. I will not average the two pairs. The place file prints 39.997107 and -83.777048. I will not stack it on the first pair. The list says unincorporated. The page says a census-designated place. A variant name is Northridge CDP. I will not average those labels. It is in the western part of Moorefield Township. Springfield stays to the south, about 6 miles (10 kilometers). About stays. I will not average 6 miles and 10 kilometers. Urbana stays the road name and the map name. I will not move the city of Urbana here. New Moorefield stays, with its historical post office. I will not invent a post office for this place. The Montgomery County Northridge stays north of Dayton, at 39.809458 and -84.189864, population 8,487 in 2000. I will not move it here, and I will not average 8,487 with 7,518. The page says this place is in the Northeastern Local School District. I will not invent a founding year.",
+  long: "",
+  names: ["Northridge"]
+},
+{
+  id: "northridge-school",
+  name: "Northridge School",
+  lat: 39.994504,
+  lng: -83.802429,
+  radius: 40,
+  short: "This pin is Northridge School, N39.994504 and W83.802429, elevation 961 ft. I will not average 961 with 1,102. I will not decide that this school is the Northeastern district's building, and I will not decide it is inside the 3.06 square miles. Northridge United Methodist Church stays at N39.991171 and W83.781873. I will not stack it. Moorefield Chapel Cemetery stays where the map puts it. I will not invent a cemetery in this place. No page prints a birth and a death for a person of this place. I will not invent a life. No page names a nation here. I will not invent one. No page prints a battle. I will not invent one. No separate legend is printed beyond about. I will not invent one. The next place is Northwood.",
+  long: "",
+  names: ["Northridge School"]
+},
+
+{
+  id: "northwood-approach",
+  name: "Northwood",
+  lat: 41.625,
+  lng: -83.478,
+  radius: 2500,
+  layer: "approach",
+  short: "You are arriving at Northwood. The first story is the name. This pin is only an offset so the arrival fires first. It is not a survey point.",
+  long: "",
+  names: ["Northwood"]
+},
+{
+  id: "northwood-name",
+  name: "The name",
+  lat: 41.60889,
+  lng: -83.48361,
+  radius: 40,
+  short: "The name comes first. This pin is the decimal Wikipedia prints, 41.60889 and -83.48361. That page also prints 41 degrees 36 minutes 32 seconds north and 83 degrees 29 minutes 1 second west. I will not extend those seconds. It prints elevation 614 ft (187 m), population 5,160 in 2020, ZIP 43619, area code 419, FIPS 39-57190, and GNIS 1087191. The motto is Where Opportunity Abounds. The area is 8.57 square miles (22.20 square kilometers), land 8.56 (22.16), water 0.012 (0.03). Another page prints 41.6 and -83.46, and elevation 613 feet and 187 meters. I will not average 613 and 614, and I will not treat 41.6 as this pin. A map prints the populated place at N41.60727 and W83.46882, on the Walbridge map, and the civil point at N41.60886 and W83.48376. The place file prints 41.610064 and -83.482704. I will not stack those points. Walbridge stays the map name. It was Ross Township from April 18, 1874 until December 1, 1962. Northernmost stays. A county list still prints Ross founded in 1874, and Northwood founded in 1962. I will not average ceased to exist with a township that is still listed. In 1898 Edward Ford's glass factory was built along the Maumee River, which ultimately led to Rossford in 1939. Ultimately stays. Rossford stays. Rossford Township stays a barrier. Barrier stays. On December 1, 1962, the page says the township became the city of Northwood, so aptly named, at the top of Wood County. Aptly stays. Another page says it became a village in 1962 and a city in 1982, about six miles from Toledo, with a population of about 5,400, in the northeast corner. About stays. I will not average city in 1962 and city in 1982, or 5,160 and about 5,400, or top and northeast corner. Townships dropped from 20 to 19. East Toledo stays. Lucas County stays. Ottawa County stays. Fort Meigs stays a county site. I will not move it here. Northwood Hills stays where its map puts it. I will not move it here.",
+  long: "",
+  names: ["Northwood", "Ross Township"]
+},
+{
+  id: "northwood-park",
+  name: "Central Park",
+  lat: 41.61061,
+  lng: -83.48271,
+  radius: 40,
+  short: "This pin is one Central Park the map prints, N41.61061 and W83.48271. The same map prints another Central Park at N41.60949 and W83.48327. I will not average those pairs, and I will not stack the second one on the name pin. A page says the city maintains three parks, and it names the Wales Road Industrial Community Park at the corner of Wales and Tracy Roads. Three stays. I will not invent the other doors. No page I am using prints a cemetery in the city. I will not invent one.",
+  long: "",
+  names: ["Central Park"]
+},
+{
+  id: "northwood-school",
+  name: "Northwood High School",
+  lat: 41.60488,
+  lng: -83.47481,
+  radius: 40,
+  short: "This pin is Northwood High School, N41.60488 and W83.47481. Northwood Elementary School stays at N41.60816 and W83.47491. Olney Elementary School stays at N41.60702 and W83.47480. I will not stack them. A page says two elementary buildings, one junior high, and one high school. I will not decide that the map's elementary is one of the two. Hirzel Canning Company is printed as the claim to fame. Claim to fame stays. All over the world stays. I will not invent the plant door. Edward Ford is printed in 1898. I will not invent his birth or his death. No page names a nation here. I will not invent one. No page prints a battle. I will not invent one. No separate legend is printed beyond aptly, ultimately, about, and claim to fame. I will not invent one. The next place is Norton.",
+  long: "",
+  names: ["Northwood High School"]
+},
+
+{
+  id: "norton-approach",
+  name: "Norton",
+  lat: 41.032,
+  lng: -81.667,
+  radius: 2500,
+  layer: "approach",
+  short: "You are arriving at Norton. The first story is the name. This pin is only an offset so the arrival fires first. It is not a survey point.",
+  long: "",
+  names: ["Norton"]
+},
+{
+  id: "norton-name",
+  name: "The name",
+  lat: 41.029167,
+  lng: -81.646111,
+  radius: 40,
+  short: "The name comes first. This pin is the degrees and minutes Wikipedia prints, 41 degrees 1 minute 45 seconds north and 81 degrees 38 minutes 46 seconds west. I will not extend those seconds. It prints elevation 1,106 ft (337 m), population 11,673 in 2020, ZIP 44203, FIPS 39-57260, and GNIS 1087012. The area is 20.51 square miles (53.13 square kilometers), land 20.19 (52.28), water 0.32 (0.84). A 4.4-acre district extends into Wayne County. I will not average 4.4 acres and 1.8 hectares. Wayne County stays. The place file prints 41.028931 and -81.645535. I will not stack that pair. The township was organized in 1818, as part of Wolf Creek Township. Copley, Wadsworth, Sharon, Guilford, and Montville stay. It was plotted into lots half a square mile. Plotted stays. Half stays. It was Town 1, Range 12. Wikipedia says it was named after Birdseye Norton. Another page prints Birdsey Norton. I will not average the spellings. James Robinson and John Cahow settled in 1810, on lots 19 and 20. The first marriage was in the fall of 1814. Fall stays. The saw mill is 1823 and the grist mill is 1830. I will not average those. A city page says it was a township from 1818 until March of 1961, and a village in 1961. Wikipedia says the village passed in 1961, and the city status was assumed on January 11, 1969. Another line says the November 1968 election brought city status. I will not average March of 1961, November 1968, and January 11, 1969. Although defeated stays. After time stays. Fast-growing stays. The first ballot failed. The second passed. 8 candidates for mayor and 62 for 6 council seats stay. The first mayor was Richard DuFore. The first council president was Marcus Bertsch. I will not invent their years. The charter date prints November 6,, 1962. The double comma stays. Council went from 6 to 7. The election counted 5,037 voters, just 37 over the required 5,000. Just stays. Akron stays. Strong mayor stays.",
+  long: "",
+  names: ["Norton"]
+},
+{
+  id: "norton-cemetery",
+  name: "Western Star Cemetery",
+  lat: 41.0293,
+  lng: -81.68778,
+  radius: 40,
+  short: "This pin is Western Star Cemetery, 41.02930 and -81.68778. It is also printed as Griswolds Corners Cemetery. I will not average those names. It is on the east side of Medina Line Road, near the former hamlet of Western Star. Former stays. East side stays. The oldest section has been closed to burials since 1959. Closed stays. The earliest known burial is Seth Lucas, who died on September 5, 1815, at the age of 49. I will not invent his birth. The page prints veteran soldiers from the Wars of 1776, 1812, and the World Wars. Wars of 1776 stays the page's words. I will not invent a battle. Norton Cemetery stays at 4230 South Cleveland-Massillon Road. A page says, according to legend, Indians are buried there. According to legend stays. I will not name a nation the page does not name. Loyal Oak was formerly Bates Corners. Formerly stays. Three stones were moved from the Black Plague Cemetery on Wadsworth Road. Recently stays. Out of a possible two dozen, these were the only one located. Possible stays. Only one stays the page's grammar. The earliest of those dates is 1844. Wadsworth stays. I will not move it.",
+  long: "",
+  names: ["Western Star Cemetery", "Griswolds Corners Cemetery"]
+},
+{
+  id: "norton-school",
+  name: "Norton High School",
+  lat: 41.0346097,
+  lng: -81.64220979999999,
+  radius: 40,
+  short: "This pin is the decimal Wikipedia prints for Norton High School, 41.0346097 and -81.64220979999999, at 1 Panther Way. I will not round the long west figure. The page also prints 41 degrees 2 minutes 5 seconds north and 81 degrees 38 minutes 32 seconds west. The motto is Every Child, Every Day. It is the only high school. Only stays. The building opened in January 2017, replacing the one built in 1953. I will not average those years. The former building was re-purposed as Norton Middle School. Re-purposed stays. The colors are red and white, and also can be black. Also can stays. The infobox prints red, white, and black. I will not average those. Enrollment is 715 for 2023 to 2024. The staff figure is 57.50. The decimal stays. Coventry stays the rival. I will not move it. A country store at 2334 South Cleveland-Massillon Road dates to 1828 and is believed to have been owned by Birdsey Norton. Believed stays. Local legend has it that a tunnel runs under the intersection. Local legend stays. Has it stays. I will not invent the store's door, and I will not turn the legend into a fact. The next place is Norwich.",
+  long: "",
+  names: ["Norton High School"]
+},
+
+{
+  id: "norwich-approach",
+  name: "Norwich",
+  lat: 40.0,
+  lng: -81.791,
+  radius: 2500,
+  layer: "approach",
+  short: "You are arriving at Norwich. The first story is the name. This pin is only an offset so the arrival fires first. It is not a survey point.",
+  long: "",
+  names: ["Norwich"]
+},
+{
+  id: "norwich-name",
+  name: "The name",
+  lat: 39.98472,
+  lng: -81.79222,
+  radius: 40,
+  short: "The name comes first. This pin is the decimal Wikipedia prints, 39.98472 and -81.79222. That page also prints 39 degrees 59 minutes 5 seconds north and 81 degrees 47 minutes 32 seconds west. I will not extend those seconds. It prints elevation 968 ft (295 m), population 87 in 2020, density 1,129.9, ZIP 43767, area code 740, FIPS 39-57372, and GNIS 2399529. The infobox prints 0.077 square miles (0.20 square kilometers) and water 0. The geography section prints 0.10 square miles (0.26 square kilometers), all land. I will not average 0.077 and 0.10, or 0.20 and 0.26. The place file prints 39.984630 and -81.792206. I will not stack that pair. It was laid out in 1827 and named after Norwich, in England, the native home of a first settler. I will not invent that settler's name. Native home stays a phrase about England. I will not turn it into a nation. A post office has been in operation since 1828. I will not average 1827 and 1828. By 1833 it had four stores, two churches, and two taverns. By stays. It was incorporated in 1833. I will not make those one event. The census table prints 1830, then 1850. I will not invent 1840. Union Township stays. Zanesville stays the micropolitan name. I will not move it here. The Wyandot village called Muskingum stays at Coshocton. I will not move it here.",
+  long: "",
+  names: ["Norwich"]
+},
+{
+  id: "norwich-house",
+  name: "Ralph Hardesty Stone House",
+  lat: 39.98556,
+  lng: -81.79,
+  radius: 40,
+  short: "This pin is the decimal Wikipedia prints for the Ralph Hardesty Stone House, 39.98556 and -81.79000, on Main Street. That page also prints 39 degrees 59 minutes 8 seconds north and 81 degrees 47 minutes 24 seconds west. I will not extend those seconds. It was built in 1836. Less than 1 acre stays. It was added on 11 March 1980, and another line prints March 11, 1980. I will not average the date order. A marker says it was built for Ralph Hardesty at a cost of 500 dollars, and that little is known of him except that he was 43 in the 1850 census. Little is known stays. Except stays. I will not invent his birth or his death. The marker says the house was place on the register. Was place stays. A page prints the marker at 39Â° 59.071â€² N and 81Â° 47.618â€² W, at Norwich Drive and Harding Way Road. I will not repair those symbols, and I will not stack that pair. Main Street stays. Norwich Drive stays. The west gable show evidence an addition might have been attached. Show stays. Might stays. Native sandstone stays a stone. I will not turn it into a nation. First and only stays. No page I am using prints a cemetery in the village. I will not invent one. No page prints a battle. I will not invent one. The next place is Norwood.",
+  long: "",
+  names: ["Ralph Hardesty Stone House"]
+},
+
+{
+  id: "norwood-approach",
+  name: "Norwood",
+  lat: 39.175,
+  lng: -84.456,
+  radius: 2500,
+  layer: "approach",
+  short: "You are arriving at Norwood. The first story is the name. This pin is only an offset so the arrival fires first. It is not a survey point.",
+  long: "",
+  names: ["Norwood"]
+},
+{
+  id: "norwood-name",
+  name: "The name",
+  lat: 39.16,
+  lng: -84.455,
+  radius: 40,
+  short: "The name comes first. This pin is the decimal Wikipedia prints, 39.16000 and -84.45500. That page also prints 39 degrees 9 minutes 36 seconds north and 84 degrees 27 minutes 18 seconds west, and the pair 39.160060 and -84.455074. I will not average those. It prints elevation 660 ft (200 m), population 19,043 in 2020, a 2022 estimate of 19,108, density 6,058.8, ZIP codes 45212 and 45207, FIPS 39-57386, and GNIS 1056460. I will not average the two ZIP codes, or 19,043 and 19,108. The area is printed as 3.14 square miles (8.14 square kilometers), water 0, and also as 3.15 square miles (8.16 square kilometers), all land. I will not average 3.14 and 3.15. The place file prints 39.160503 and -84.453599. A map prints the civil point at N39.16049 and W84.45347, and a populated place at N39.15561 and W84.45966. I will not stack those points. Cincinnati stays. The map name is Cincinnati East. A city page starts at 1809. Wikipedia says the village was incorporated on May 14, 1888, and a city page says it became a city on May 4, 1903. I will not average 1809, 1888, and 1903. A week after stays. Finally stays. Inevitably stays. Official stays. Samuel Bowman is also printed as Samuel D. Bowman. I will not drop the D. John Sharp stays the store. Sharpsburg stays the old name. Sarah Bolles is also printed as Mr. and Mrs. Bolles, and as the wife of Lemuel Bolles. I will not average those. The name is printed as short for North Woods Heights, as an abbreviation of Northwood, as North Wood, and as North Woods. A book prints indorsement. Another printing of the same sentence prints endorsement. I will not average those spellings. Commonly believed stays. Commonly disputed stays. In any case stays. As far as can be determined stays. Probably stays. A novel by Henry Ward Beecher stays a book. I will not decide it is the source. The post office was renamed in 1870. Old Norwood stays a later name for one subdivision. Dr. John Weyer is also printed as Dr. John C. Weyer. I will not drop the C, and I will not invent his years.",
+  long: "",
+  names: ["Norwood", "Sharpsburg", "Norwood Heights"]
+},
+{
+  id: "norwood-park",
+  name: "Victory Park",
+  lat: 39.15895,
+  lng: -84.45828,
+  radius: 40,
+  short: "This pin is Victory Park, N39.15895 and W84.45828. No page I am using prints a cemetery in the city. I will not invent one. Surrey Square stays a shopping center. I will not call it this park.",
+  long: "",
+  names: ["Victory Park"]
+},
+{
+  id: "norwood-school",
+  name: "Norwood High School",
+  lat: 39.16145,
+  lng: -84.45855,
+  radius: 40,
+  short: "This pin is Norwood High School, N39.16145 and W84.45855. Another page prints 39.161389 and -84.459444. I will not stack that pair. The middle school stays at N39.16173 and W84.45939. I will not stack it. A page says the earliest people here are believed to have been of the Adena culture. Believed stays. I will not invent a nation beyond that. Historians believe troops passed through on the way toward a camp that is now St. Bernard. Historians believe stays. St. Bernard stays. The Battle of Fallen Timbers stays where it was. I will not move it here, and I will not invent a battle in the city. Peter Smith settled in 1794, in or near this place. In or near stays. If not the first stays. I will not invent his years. The next place is Oak Harbor.",
+  long: "",
+  names: ["Norwood High School"]
+},
+
 
 
 

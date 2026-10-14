@@ -4563,6 +4563,354 @@ STORIES.push(
   long: "",
   names: ["Norwood High School"]
 },
+{
+  id: "oak-harbor-approach",
+  name: "Oak Harbor",
+  lat: 41.525,
+  lng: -83.148,
+  radius: 2500,
+  layer: "approach",
+  short: "You are arriving at Oak Harbor. The first story is the name. This pin is only an offset so the arrival fires first. It is not a survey point.",
+  long: "",
+  names: ["Oak Harbor"]
+},
+{
+  id: "oak-harbor-name",
+  name: "The name",
+  lat: 41.51,
+  lng: -83.13833,
+  radius: 40,
+  short: "The name comes first. This pin is the decimal Wikipedia prints, 41.51000 and -83.13833. That page also prints 41 degrees 30 minutes 36 seconds north and 83 degrees 8 minutes 18 seconds west. I will not extend those seconds. It prints elevation 591 ft (180 m), population 2,821 in 2020, ZIP 43449, FIPS 39-57582, and GNIS 2399536. The infobox prints 1.71 square miles (4.42 square kilometers), land 1.56 (4.03), and water 0.15 (0.40). The geography section prints 1.70 (4.40), land 1.55 (4.01), and water 0.15 (0.39). I will not average those. The 2010 count is 2,759. I will not average it with 2,821. The census table starts at 1880. I will not invent an earlier row. The place file prints 41.505127 and -83.134962. A map prints the populated place at N41.506717 and W83.146587. I will not stack those points. A village page says Joseph Wardlow plotted it in October 1832, approximately ten miles inland from the mouth of the Portage River. Approximately stays. Another page says the 1830s, and ten miles west of Port Clinton. I will not average those. It was incorporated October 12, 1835, as Hartford, perhaps to honor Connecticut. Perhaps stays. The name changed to Oak Harbor on March 27, 1863. It was formally incorporated April 17, 1871. I will not average 1835, 1863, and 1871. A page says the new name was Adolphus' idea. I will not invent the rest of his name. Good choice stays the page's words. Beautiful stays. Abundance stays. A post office door still prints Oakharbor as one word. Still stays. I will not average Oak Harbor and Oakharbor. W. W. Wardlow was the first mayor. I will not invent his years, and I will not average him with Joseph Wardlow. Mayor Quinton Babcock is printed with no years. I will not invent them. Toledo stays 30 miles east. I will not average 30 miles and 48 kilometers. Davis-Besse stays a short distance to the northeast. Short distance stays. I will not move the plant here. Port Clinton stays the mouth of the river, and it stays the county seat. A winter attempt in 1897 and 1898 stays an attempt. I will not say the seat moved. Sandusky County stays the 1835 courthouse. The bridge is printed as built in 1934. I will not invent its door. Biggest little town stays the page's phrase.",
+  long: "",
+  names: ["Oak Harbor", "Hartford", "Oakharbor"]
+},
+{
+  id: "oak-harbor-cemetery",
+  name: "Union Cemetery",
+  lat: 41.506431,
+  lng: -83.157139,
+  radius: 40,
+  short: "This pin is Union Cemetery, N41.506431 and W83.157139, elevation 587 ft, on the Oak Harbor map. I will not average 587 with 591. A map prints it 0.5 miles from the populated place. I will not decide that it is inside the village, and I will not invent an Oak Harbor cemetery name. Limestone Cemetery stays where the map puts it. I will not move it.",
+  long: "",
+  names: ["Union Cemetery"]
+},
+{
+  id: "oak-harbor-school",
+  name: "Oak Harbor High School",
+  lat: 41.513706,
+  lng: -83.156822,
+  radius: 40,
+  short: "This pin is Oak Harbor High School, N41.513706 and W83.156822. Another line prints N41.51371 and W83.15682. I will not stack that pair. The middle school stays at N41.512720 and W83.148038. I will not stack it. No page prints a birth and a death for a person of this village. I will not invent a life. No page names a nation here. I will not invent one. After the Civil War stays a time. Approximately 166 workmen stays. I will not invent a battle. No separate legend is printed beyond perhaps, approximately, and the biggest little town. I will not invent one. The next place is Oak Hill.",
+  long: "",
+  names: ["Oak Harbor High School"]
+},
+
+{
+  id: "oak-hill-approach",
+  name: "Oak Hill",
+  lat: 38.915,
+  lng: -82.565,
+  radius: 2500,
+  layer: "approach",
+  short: "You are arriving at Oak Hill. The first story is the name. This pin is only an offset so the arrival fires first. It is not a survey point.",
+  long: "",
+  names: ["Oak Hill"]
+},
+{
+  id: "oak-hill-name",
+  name: "The name",
+  lat: 38.89722,
+  lng: -82.56944,
+  radius: 40,
+  short: "The name comes first. This pin is the decimal Wikipedia prints, 38.89722 and -82.56944. That page also prints 38 degrees 53 minutes 50 seconds north and 82 degrees 34 minutes 10 seconds west. I will not extend those seconds. An older page prints 38 degrees 53 minutes 47 seconds north and 82 degrees 34 minutes 14 seconds west. I will not average those seconds. It prints elevation 715 ft (218 m), population 1,407 in 2020, density 1,107.3, ZIP 45656, area code 740, FIPS 39-57596, and GNIS 2399537. The area is 1.27 square miles (3.29 square kilometers) and water 0. An older page prints the 2010 count as 1,551. I will not average 1,407 and 1,551. The place file prints 38.897295 and -82.569345. A map prints the populated place at N38.893965 and W82.573495, and a historical post office at N38.894520 and W82.573495. I will not stack those points. The history section prints that it does not cite sources. Unsourced stays. It was formed on January 12, 1873, from portions of Jefferson and Madison townships. Another page says parts. I will not average portions and parts. It was first named Lewisburg, then Portland, and finally Oak Hill. Finally stays. It was named after the stately White Oaks. Stately stays. The post office is printed as March 11, 1837, and also as 1837. I will not drop the day. Salt Lick stays near Jackson. I will not move Jackson. Cardiganshire stays. Cilcennin stays. Aberaeron stays. Six hardy families stays. Hardy stays. Eventually stays. Present-day stays. The Great Welsh Tide stays in the page's words. In to the 1920s stays. Gallipolis stays. Stranded stays. I will not average stranded in Gallipolis with eventually settling here. Peter Seel is printed in 1814. I will not invent his birth or his death. Mayor Paul McNeal is printed with a citation needed. Citation needed stays. I will not invent his years. Jefferson Furnace stays a couple miles west. Couple stays. Acclaimed stays. I will not move the furnace here. Moriah stays the Mother Church where the map puts it.",
+  long: "",
+  names: ["Oak Hill", "Lewisburg", "Portland"]
+},
+{
+  id: "oak-hill-cemetery",
+  name: "Oak Hill Cemetery",
+  lat: 38.896735,
+  lng: -82.554601,
+  radius: 40,
+  short: "This pin is Oak Hill Cemetery, N38.896735 and W82.554601. Congregational Cemetery stays at N38.893124 and W82.560157, elevation 833 ft. I will not average 833 with 715, and I will not stack it. A newspaper prints Old Congressional Cemetery on North Bingham Street. I will not average Congressional and Congregational, and I will not invent that they are this pin. A date and time are to be determined. To be determined stays. Price Cemetery stays where the map puts it.",
+  long: "",
+  names: ["Oak Hill Cemetery"]
+},
+{
+  id: "oak-hill-church",
+  name: "Oak Hill Welsh Congregational Church",
+  lat: 38.895631,
+  lng: -82.56905,
+  radius: 40,
+  short: "This pin is the Oak Hill Welsh Congregational Church, N38.895631 and W82.569050. A page says the Welsh-American Heritage Museum is in the former church on East Main Street. Former stays. The high school stays at N38.897020 and W82.576828. A page says the district was formed around 1890, and the first class was 1893. Another list prints the district in 1893. Around stays. I will not average around 1890 and 1893. The current school opened in August 2003. I will not invent the school's door beyond the map point, and I will not stack it. A page says Oak Hill was a stop on Morgan's Raid. I will not invent a battle, and I will not move John Hunt Morgan's fight to a door. Central Memorial Park is printed as the place of the World's Largest Acorn. World's Largest stays the page's words. I will not invent the park's door. More information will be released later. Later stays. Few firebrick businesses stay. To date stays. The next place is Oberlin.",
+  long: "",
+  names: ["Oak Hill Welsh Congregational Church", "Welsh-American Heritage Museum"]
+},
+
+{
+  id: "oberlin-approach",
+  name: "Oberlin",
+  lat: 41.305,
+  lng: -82.227,
+  radius: 2500,
+  layer: "approach",
+  short: "You are arriving at Oberlin. The first story is the name. This pin is only an offset so the arrival fires first. It is not a survey point.",
+  long: "",
+  names: ["Oberlin"]
+},
+{
+  id: "oberlin-name",
+  name: "The name",
+  lat: 41.28333,
+  lng: -82.23333,
+  radius: 40,
+  short: "The name comes first. This pin is the decimal Wikipedia prints, 41.28333 and -82.23333. That page also prints 41 degrees 17 minutes 0 seconds north and 82 degrees 14 minutes 0 seconds west. I will not extend those zeros. It prints elevation 807 ft (246 m), population 8,555 in 2020, ZIP 44074, FIPS 39-57834, and GNIS 2395295. The infobox prints 4.96 square miles (12.85 square kilometers), land 4.92 (12.75), and water 0.039 (0.10). The geography section prints 5.11 (13.23), land 5.07 (13.13), and water 0.04 (0.10). I will not average those. The place file prints 41.286063 and -82.219565. I will not stack that pair. It is about 31 miles southwest of Cleveland. About stays. I will not average 31 miles and 50 kilometers. Cleveland stays. It was founded in 1833 and named for J. F. Oberlin, whose years the page prints as 1740 to 1826. He was an Alsatian minister. I will not move him here, and I will not invent a grave. The city motto is Live. Learn. Lead. The college motto is Learning and Labor. I will not average them. The founders are printed as John Jay Shipherd and Philo P. Stewart, and also as Philo Penfield Stewart, and also as Philo Stewart. I will not average those names. They spent the summer of 1832 in nearby Elyria. Nearby stays. Elyria stays. Eventually stays. A timeline says the college was founded at the same time, and that the first structure was the Peter Pindar Pease cabin, near the Historic Elm. Near stays. I will not invent the cabin's door. Unusual stays. Required stays. The city charter is printed as 1956, after a 1950 count of 5000. I will not add a comma the page did not print, and I will not average 5000 with 8,555.",
+  long: "",
+  names: ["Oberlin"]
+},
+{
+  id: "oberlin-cemetery",
+  name: "Westwood Cemetery",
+  lat: 41.285042,
+  lng: -82.233209,
+  radius: 40,
+  short: "This pin is Westwood Cemetery, N41.285042 and W82.233209, elevation 816 ft. I will not average 816 with 807. A timeline says the cemetery was moved in 1863 from the corner of Morgan and Professor streets to this 47-acre plot, further from the town center. Further stays. I will not invent the old corner's door. Wellington Creek stays a stream. I will not move the town of Wellington here.",
+  long: "",
+  names: ["Westwood Cemetery"]
+},
+{
+  id: "oberlin-college",
+  name: "Oberlin College",
+  lat: 41.29306,
+  lng: -82.22167,
+  radius: 40,
+  short: "This pin is the decimal Wikipedia prints for Oberlin College, 41.29306 and -82.22167. That page also prints 41 degrees 17 minutes 35 seconds north and 82 degrees 13 minutes 18 seconds west. The city page says approximately 3,000 students. The college page prints 2,785 in 2019. Approximately stays. I will not average them. It was established December 3, 1833. A line says the name changed to Oberlin College in 1850. The former-name line runs from 1833 to 1864. I will not average 1850 and 1864. Oldest stays the page's word. Second-oldest stays. Continuously stays. Quite literally stays. A page says Philo Stewart was formerly a missionary among the Cherokees in Mississippi. Formerly stays. Mississippi stays. I will not move that place here. A timeline says Native peoples ceded land west of the Cuyahoga in 1805, and that indigenous peoples continue to live in the area to the present day. Continue stays. I will not name a nation the page does not name. No page I am using prints a battle in the city. I will not invent one. The next place is Oceola.",
+  long: "",
+  names: ["Oberlin College", "Oberlin Collegiate Institute"]
+},
+
+{
+  id: "oceola-approach",
+  name: "Oceola",
+  lat: 40.86,
+  lng: -83.092,
+  radius: 2500,
+  layer: "approach",
+  short: "You are arriving at Oceola. The first story is the name. This pin is only an offset so the arrival fires first. It is not a survey point.",
+  long: "",
+  names: ["Oceola"]
+},
+{
+  id: "oceola-name",
+  name: "The name",
+  lat: 40.8447792,
+  lng: -83.0938027,
+  radius: 40,
+  short: "The name comes first. This pin is the name record, 40.8447792 and -83.0938027, and 40 degrees 50 minutes 41.21 seconds north and 83 degrees 5 minutes 37.69 seconds west. I will not extend those seconds. It prints elevation 932 feet and 284 meters, and the class Unincorporated Place. A map prints the census place at N40.844087 and W83.094763. The place file prints the same pair. I will not stack it. The list says unincorporated. The page says a census-designated place. An older page says although it is unincorporated. Although stays. I will not average those labels. A variant name is Osceola. A post office on the map is spelled Oscola. I will not average Oceola, Osceola, and Oscola, and I will not repair Oscola. The population is 156 in 2020. An older page prints 190 in 2010. I will not average them. It was laid out in 1842. A post office has been in operation since 1840. I will not average those years. It was named for Osceola, the leader of the Seminole in Florida. Florida stays. I will not move him here, and the page does not print his years. I will not invent them. ZIP 44860 stays. The road was U.S. Route 30 until it was upgraded to a freeway. Until stays. Nevada stays. I will not move it. The name was entered July 12, 1979. I will not call that a founding.",
+  long: "",
+  names: ["Oceola", "Osceola"]
+},
+{
+  id: "oceola-cemetery",
+  name: "Oceola Number 1 Cemetery",
+  lat: 40.843938,
+  lng: -83.08852,
+  radius: 40,
+  short: "This pin is Oceola Number 1 Cemetery, N40.843938 and W83.088520, elevation 925 ft. I will not average 925 and 932. Number 2 stays at N40.838938 and W83.092687. Number 3 stays at N40.841438 and W83.093520. I will not stack them, and I will not average the numbers. The Wyandot cemetery stays where the map puts it. I will not move it here.",
+  long: "",
+  names: ["Oceola Number 1 Cemetery"]
+},
+{
+  id: "oceola-church",
+  name: "Oceola United Methodist Church",
+  lat: 40.843946,
+  lng: -83.093247,
+  radius: 40,
+  short: "This pin is the Oceola United Methodist Church, N40.843946 and W83.093247. A page says the Society officially opened since 1850, and the church opened on the present site in 1854. Since stays. Present stays. In 1901 the page says the Society was remodeled. Society stays the page's word. Construction completed in 1954. I will not average 1854 and 1954. A centennial is printed in 1951, with over 147 members. Over stays. I will not correct the year. The same year a merger made the Evangelical-United Brethren Church. The hyphen stays. In 1968 it became the United Methodist Church. The Methodist Church closed permanently on May 31, 2016. Permanently stays. I will not average Methodist and United Methodist. Early years stays. Split stays. No page prints a battle here. I will not invent one. No separate legend is printed beyond although, until, and over. I will not invent one. The next place is Octa.",
+  long: "",
+  names: ["Oceola United Methodist Church"]
+},
+
+{
+  id: "octa-approach",
+  name: "Octa",
+  lat: 39.625,
+  lng: -83.612,
+  radius: 2500,
+  layer: "approach",
+  short: "You are arriving at Octa. The first story is the name. This pin is only an offset so the arrival fires first. It is not a survey point.",
+  long: "",
+  names: ["Octa"]
+},
+{
+  id: "octa-name",
+  name: "The name",
+  lat: 39.61333,
+  lng: -83.61056,
+  radius: 40,
+  short: "The name comes first. This pin is the decimal Wikipedia prints, 39.61333 and -83.61056. That page also prints 39 degrees 36 minutes 48 seconds north and 83 degrees 36 minutes 38 seconds west. I will not extend those seconds. It prints elevation 1,047 ft (319 m), population 58 in 2020, density 200.0, FIPS 39-57918, and GNIS 2399556. The infobox prints 0.29 square miles (0.75 square kilometers) and water 0. The geography section prints 0.28 square miles (0.73 square kilometers), all land. I will not average 0.29 and 0.28. The place file prints 39.613422 and -83.610573. A map prints the civil point at N39.613501 and W83.610536, elevation 1,046 ft, on the Milledgeville map. I will not average 1,046 and 1,047, and I will not stack those points. A populated place is printed at N39.603950 and W83.612977. I will not stack it. It was originally called Allentown, laid out by Elijah Allen, and named for him. The present name honors a person named Octa Barnes. A person named stays. Another page says Miss Octa Barnes, and that details of her life remain limited. Limited stays. I will not invent her years, and I will not invent his. Another page says he came from Virginia. I will not invent the year. The plat is undated on one page and mid-19th century on another. Mid stays. A post office was established in 1882 and remained until 1929. Another page prints April 18, 1882, and September 15, 1929, and says it closed likely because of rural delivery, when the population was around 91 in 1910. Likely stays. Around stays. I will not average 58 and around 91. H. B. Barnes is printed as the first postmaster. I will not invent his years. Rattlesnake Creek stays. Milledgeville stays. Jamestown stays. The village of Fayette in Fulton County stays there. I will not move it. A caption prints a large shopping center on the northern edge, along U.S. 35. Northern edge stays. I will not invent the store's door.",
+  long: "",
+  names: ["Octa", "Allentown"]
+},
+{
+  id: "octa-church",
+  name: "Octa Methodist Episcopal Church",
+  lat: 39.605061,
+  lng: -83.614088,
+  radius: 40,
+  short: "This pin is the Octa Methodist Episcopal Church, marked historical, at N39.605061 and W83.614088. Historical stays. The historical post office stays at N39.604228 and W83.612421. I will not stack it on the populated place. A page says the village contains 2 parks. The linear Park currently ends in Octa and goes toward Jamestown. Currently stays. Toward stays. I will not invent the park's door. Booco - Ryan Cemetery stays 1.2 miles off. I will not call it this village's cemetery. No page names a nation here. I will not invent one. No page prints a battle. I will not invent one. No separate legend is printed beyond limited, likely, around, and mid. I will not invent one. The next place is Old Fort.",
+  long: "",
+  names: ["Octa Methodist Episcopal Church"]
+},
+
+{
+  id: "old-fort-approach",
+  name: "Old Fort",
+  lat: 41.255,
+  lng: -83.15,
+  radius: 2500,
+  layer: "approach",
+  short: "You are arriving at Old Fort. The first story is the name. This pin is only an offset so the arrival fires first. It is not a survey point.",
+  long: "",
+  names: ["Old Fort"]
+},
+{
+  id: "old-fort-name",
+  name: "The name",
+  lat: 41.24194,
+  lng: -83.15139,
+  radius: 40,
+  short: "The name comes first. This pin is the decimal Wikipedia prints, 41.24194 and -83.15139. That page also prints 41 degrees 14 minutes 31 seconds north and 83 degrees 9 minutes 5 seconds west. I will not extend those seconds. An older page prints 41 degrees 14 minutes 26 seconds north and 83 degrees 9 minutes 2 seconds west. I will not average those seconds. It prints population 143 in 2020, ZIP 44861, FIPS 39-58156, and GNIS 2628948. The census table prints only 2020. I will not invent an earlier count. The place file prints 41.241877 and -83.151417. I will not stack that pair. The list says unincorporated. The page says a census-designated place. An older page says although it is unincorporated. Although stays. I will not average those labels. It is in northern Pleasant Township, about a mile east of State Route 53, where N. Township Road 73 meets E. County Road 51. About stays. It was platted in 1882 and named after Fort Seneca, a fort built during the War of 1812. A post office has been in operation since 1882. I will not make the plat and the post office one event. It sits adjacent to the Sandusky River. Adjacent stays. Lake Erie stays the river's end. Paul Gillmor is printed as a representative from 1988 to 2007. I will not invent his birth or his death. An older page says the high school is on County Road 51. I will not invent the school's door. Tiffin stays. Fremont stays. Upper Sandusky stays. I will not move them here.",
+  long: "",
+  names: ["Old Fort"]
+},
+{
+  id: "old-fort-marker",
+  name: "Fort Seneca marker",
+  lat: 41.238,
+  lng: -83.149583,
+  radius: 40,
+  short: "This pin is the marker page's pair, 41 degrees 14.28 minutes north and 83 degrees 8.975 minutes west, at County Road 51 and Harrison Street, on the right when traveling north. On the right stays. The page says the tablet marks the site of Fort Seneca, built in July 1813. I will not average July 1813 with during the War of 1812. The trail was blazed in 1812. By order stays. The page says the fort was headquarters during the battle of Fort Stephenson and during Perry's Victory. Those fights stay where the page puts them. I will not move them onto this pin. The message stays in the page's quotes. The page names the Delawares, Shawnees, Wyandots, and Senecas. Four stays. Friendly stays. Franklinton stays the council. I will not move it. The Battle of the Thames stays. Procter stays the page's spelling. Tecumseh's death stays at that battle. I will not invent his birth, and I will not move the Thames here. What is now stays. No cemetery is printed in the place. I will not invent one. No separate legend is printed beyond the quoted message and about. I will not invent one. The next place is Old Washington.",
+  long: "",
+  names: ["Fort Seneca"]
+},
+
+{
+  id: "old-washington-approach",
+  name: "Old Washington",
+  lat: 40.055,
+  lng: -81.443,
+  radius: 2500,
+  layer: "approach",
+  short: "You are arriving at Old Washington. The first story is the name. This pin is only an offset so the arrival fires first. It is not a survey point.",
+  long: "",
+  names: ["Old Washington"]
+},
+{
+  id: "old-washington-name",
+  name: "The name",
+  lat: 40.0375,
+  lng: -81.444167,
+  radius: 40,
+  short: "The name comes first. This pin is the degrees and minutes Wikipedia prints, 40 degrees 2 minutes 15 seconds north and 81 degrees 26 minutes 39 seconds west. I will not extend those seconds. It prints elevation 1,004 ft (306 m), population 223 in 2020, ZIP 43768, area code 740, FIPS 39-58226, and GNIS 2399570. Both the infobox and the geography section print 0.67 square miles (1.74 square kilometers). One says water 0. The other says all land. I will not treat those as two areas. The place file prints 40.037618 and -81.444218. I will not stack that pair. It was platted by George and Henry Beymer in 1805. Another page prints September 28, 1805, when this county was still part of Muskingum County. Still stays. I will not drop the day. It was known as Beymerstown and as New Washington. Two names stay. Little recognition stays. Generally stays. It was incorporated as Washington in 1829, soon after the National Road. Soon after stays. A marker prints February 10, 1829, two years after the road was completed. Two years after stays. I will not average soon after and two years after. The prefix New was dropped. Similar name stays. Later, the postal department asked for a change because of Washington Court House. Reluctantly, Old was added because it was an older town. Reluctantly stays. Mitigate stays. Now known stays. I will not move Washington Court House here. A county list still prints Washington. I will not erase it. The marker says the town grow rapidly, and that the peak was in 1850. Grow stays. Peak stays. I will not invent the count. Within two years stays. Oldest stays the page's word. Cambridge stays. Easton stays. Elizabethtown stays. Indian Camp stays on its own list. I will not move it.",
+  long: "",
+  names: ["Old Washington", "Beymerstown", "New Washington", "Washington"]
+},
+{
+  id: "old-washington-cemetery",
+  name: "Old Washington Cemetery",
+  lat: 40.03618,
+  lng: -81.44317,
+  radius: 40,
+  short: "This pin is Old Washington Cemetery, 40.03618 and -81.44317. Another page prints 40.03617 and -81.44317. I will not stack that pair. It prints elevation 312 meters, and a DEM of 314 meters, and about 312 meters. About stays. I will not average 312, 314, and the village's 306 meters. A locator says the village is 0.3 miles west-southwest, and it prints ZIP 43755 and the word NEAR. I will not average 43755 with 43768, and I will not correct 0.3 miles. In July 1863 the page says a small engagement happened here during Morgan's Raid. Small stays. Wreaked havoc stays. The three Confederate dead are buried at the cemetery. Three stays. I will not invent their names. Caught by Union cavalry stays. I will not invent a second battlefield.",
+  long: "",
+  names: ["Old Washington Cemetery"]
+},
+{
+  id: "old-washington-marker",
+  name: "Old Washington marker",
+  lat: 40.03795,
+  lng: -81.440767,
+  radius: 40,
+  short: "This pin is the marker, 40 degrees 2.277 minutes north and 81 degrees 26.446 minutes west, at Old National Road and Maple Lane, on the left when traveling east, in front of the village playground. On the left stays. The playground stays. I will not invent another park. Because of lack of growth after the Civil War stays. Excellent example stays the page's word. No page prints a birth and a death for the Beymers. I will not invent a life. No page names a nation on this village. I will not invent one. No separate legend is printed beyond reluctantly, generally, and excellent. I will not invent one. The next place is Olde West Chester.",
+  long: "",
+  names: ["Old Washington"]
+},
+
+{
+  id: "olde-west-chester-approach",
+  name: "Olde West Chester",
+  lat: 39.34,
+  lng: -84.409,
+  radius: 2500,
+  layer: "approach",
+  short: "You are arriving at Olde West Chester. The first story is the name. This pin is only an offset so the arrival fires first. It is not a survey point.",
+  long: "",
+  names: ["Olde West Chester"]
+},
+{
+  id: "olde-west-chester-name",
+  name: "The name",
+  lat: 39.33528,
+  lng: -84.40361,
+  radius: 40,
+  short: "The name comes first. This pin is the decimal Wikipedia prints, 39.33528 and -84.40361. That page also prints 39 degrees 20 minutes 7 seconds north and 84 degrees 24 minutes 13 seconds west. I will not extend those seconds. It prints elevation 712 ft (217 m), population 201 in 2020, and FIPS 39-58149, and GNIS 2393173. The infobox prints 0.36 square miles (0.93 square kilometers) and water 0. The geography section prints 0.35 square miles (0.9 square kilometers), all land. I will not average 0.36 and 0.35, or 0.93 and 0.9. The 2000 count is 232, with a density of 666.8. I will not average 201 and 232. The place file prints 39.335215 and -84.403475. I will not stack that pair. The list says unincorporated. The page says a census-designated place. I will not average those labels. No ZIP is printed for the place. I will not invent one. It was originally known as Mechanicsburg, and under the latter name was laid out in 1817 by Hezekiah Smith. Latter stays. I will not invent his years, and I will not move any other Mechanicsburg here. The geography section says it was originally called simply West Chester. Simply stays. The township is also commonly known simply as West Chester. I will not make the place and the township one pin. The township was Union, created June 2, 1823, out of Liberty Township. No boundaries were given. No stays. Just short of a full survey township stays. The name change was ratified March 7, 2000, and took effect June 28, 2000. I will not average those days. The 2000 census still says Union. Still stays. The township population is 65,242. I will not average that with 201. Beckett Ridge stays the western border. Cincinnati stays 19 miles south. Dayton stays 34 miles north. I will not average the miles and the kilometers. Interstate 75 stays the northwestern edge. Exit 21 stays north. Exit 19 stays south. Formerly U.S. Route 25 stays. The Dixie Highway stays a road. I will not invent a building's door.",
+  long: "",
+  names: ["Olde West Chester", "Mechanicsburg", "West Chester"]
+},
+{
+  id: "olde-west-chester-cemetery",
+  name: "Brookside Cemetery",
+  lat: 39.32449,
+  lng: -84.41438,
+  radius: 40,
+  short: "This pin is Brookside Cemetery, 39.32449 and -84.41438. A township page prints 6425 West Chester Road and ZIP 45069. A locator prints West Chester Township and ZIP 45071, and the word NEAR. I will not average 45069 and 45071. The locator says Olde West Chester is 0.8 miles north. I will not move this cemetery into the place, and I will not move the place here. Approximately 12 acres stays, and 12.66 acres stays. I will not average them. Mid-1800s stays. A double ash tree and a black walnut stump stay the page's boundaries. I will not invent the stump. Nancy (Legg) McMacken died in 1820 at the age of 27. I will not invent her birth. There may be older graves. May stays. Unreadable stays. John Beckett is printed as the only Revolutionary War veteran buried here. Only stays. I will not invent his years. Walter W. Wharton is printed as a Civil War veteran. I will not invent his years. Originator stays. Westchester, with no space, stays a different printed name. I will not average it. No page names a nation on this place. I will not invent one. No separate legend is printed beyond simply, may, and approximately. I will not invent one. The next place is Olmsted Falls.",
+  long: "",
+  names: ["Brookside Cemetery", "West Chester Cemetery"]
+},
+
+{
+  id: "olmsted-falls-approach",
+  name: "Olmsted Falls",
+  lat: 41.385,
+  lng: -81.905,
+  radius: 2500,
+  layer: "approach",
+  short: "You are arriving at Olmsted Falls. The first story is the name. This pin is only an offset so the arrival fires first. It is not a survey point.",
+  long: "",
+  names: ["Olmsted Falls"]
+},
+{
+  id: "olmsted-falls-name",
+  name: "The name",
+  lat: 41.367626,
+  lng: -81.904818,
+  radius: 40,
+  short: "The name comes first. This pin is a decimal a page prints, 41.367626 and -81.904818. The same page prints 41 degrees 22 minutes 3 seconds north and 81 degrees 54 minutes 17 seconds west. I will not average those. It prints elevation 774 ft (236 m), population 8,582 in 2020, ZIP 44138, FIPS 39-58422, and GNIS 1072238. The infobox prints 4.08 square miles (10.57 square kilometers) and water 0. The geography section prints 4.12 square miles (10.67 square kilometers), all land. I will not average 4.08 and 4.12. Another page prints an oddly shaped 3 square miles, and 8,628 in 2021. Oddly stays. I will not average 8,582 and 8,628. A city page prints about 2,400 residents in 1.52 square miles, and about 2,500 in 1.95 square miles. About stays. I will not add those areas. The place file prints 41.365749 and -81.903792. A map prints the civil point at N41.365666 and W81.904271, elevation 777 ft, on the West View map. I will not average 774 and 777, and I will not stack those points. Aaron Olmsted died in 1806. The sale was completed in 1807. I will not invent his birth, and I will not name the widow. Almost half stays. However stays. James Geer planted corn in 1814 and moved in 1815. I will not average those years. It was incorporated April 7, 1856. Another page says the village was carved out in 1857. I will not average 1856 and 1857. Plum Creek was annexed in 1857. Norris Falls stays a brief name. Briefly stays. Voters agreed on May 5, 1970. Another page says the combined village began in 1971, and that it became a city in 1972 upon reaching 5,000. A city page says about 5,600 by 1972, and Ohio's 231st city. About stays. I will not average 5,000 and about 5,600, or 1970 and 1971 and 1972. West View is also printed as Westview. Altered slightly stays. North Olmsted stays. Berea stays. Olmsted Township stays. Strongsville stays. Cleveland stays 14 miles on one page. I will not move it. Most of North Olmsted stays most. The page that prints Olmsted Fall, with no s, stays that spelling in that sentence.",
+  long: "",
+  names: ["Olmsted Falls", "West View", "Westview", "Norris Falls"]
+},
+{
+  id: "olmsted-falls-cemetery",
+  name: "Chestnut Grove Cemetery",
+  lat: 41.38007,
+  lng: -81.89619,
+  radius: 40,
+  short: "This pin is Chestnut Grove Cemetery, 41.38007 and -81.89619. The page also prints 41 degrees 22 minutes 48 seconds north and 81 degrees 53 minutes 46 seconds west, and elevation 728 feet (222 metres). Metres stays. I will not average 728 with 774 or 777. It is also known as Olmsted Township Cemetery and as Turkey Foot Cemetery. I will not average those names, and I will not invent a story from Turkey Foot. A page says North Olmsted, population 32,442, is 3 miles northwest. I will not move it here, and I will not average 32,442 with 8,582.",
+  long: "",
+  names: ["Chestnut Grove Cemetery", "Turkey Foot Cemetery"]
+},
+{
+  id: "olmsted-falls-school",
+  name: "Falls - Lenox Primary School",
+  lat: 41.373623,
+  lng: -81.913404,
+  radius: 40,
+  short: "This pin is Falls - Lenox Primary School, N41.373623 and W81.913404. The hyphen and the spaces stay. Harding Memorial Bridge is named on a page. I will not invent its door. The falls of the west branch of the Rocky River stay a description. West branch stays. I will not invent the mill's door. Charles Hyde Olmsted offered about 500 books. About stays. Oxcart stays. Philip Yenyo is printed as a Native American civil rights activist. I will not invent a nation, and I will not invent his years. No page I am using prints a battle in the city. I will not invent one. No separate legend is printed beyond about, oddly, and briefly. I will not invent one. The next place is Ontario.",
+  long: "",
+  names: ["Falls - Lenox Primary School"]
+},
+
 
 
 

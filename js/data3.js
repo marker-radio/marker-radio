@@ -3206,7 +3206,309 @@ STORIES.push(
   long: "",
   names: ["New Vienna Elementary School"]
 },
+{
+  id: "new-washington-approach",
+  name: "New Washington",
+  lat: 40.978,
+  lng: -82.855,
+  radius: 2500,
+  layer: "approach",
+  short: "You are arriving at New Washington. The first story is the name. This pin is only an offset so the arrival fires first. It is not a survey point.",
+  long: "",
+  names: ["New Washington"]
+},
+{
+  id: "new-washington-name",
+  name: "The name",
+  lat: 40.96028,
+  lng: -82.85472,
+  radius: 40,
+  short: "The name comes first. This pin is the decimal Wikipedia prints, 40.96028 and -82.85472. That page also prints 40 degrees 57 minutes 37 seconds north and 82 degrees 51 minutes 17 seconds west. I will not extend those seconds past the decimal it prints. It prints elevation 988 ft (301 m), GNIS 2399485, and area in the infobox of 1.34 square miles (3.47 square kilometers), water 0. The geography section prints 1.37 square miles (3.55 square kilometers), all land. I will not average 1.34 and 1.37. Topoquest prints the populated place at N40.962278 and W82.854350, elevation 994 ft, GNIS 1056451. TopoZone prints 40.9622785 and -82.8543501, and 994 feet (303 meters). I will not average 40.962278 with 40.9622785, or 994 ft with 994 feet, or 301 m with 303 meters. The civil village is printed at N40.960503 and W82.854736, and a map prints N40.96050 and W82.85474, GNIS 2399485. A misc page prints Elev 302 ft on the populated place record. A profile prints 990 feet [302 m]. I will not average 988, 990, 994, or 302 ft, and I will not repair 302 ft. The profile prints a 2019 estimate of 918 people. Wikipedia prints 2020 as 873 and 2010 as 967. I will not average 918, 873, and 967. One page prints the pronunciation WASH-ing-tuhn. Wikipedia prints area code 419. The profile also prints 567. I will not drop 567, and I will not add it to Wikipedia. Wikipedia says George Washington Meyers platted the village in 1833, and that it was nicknamed Dutchtown for the large amount of German families. The marker says Dutchtown for the many German families, platted in 1833 by George Washington Meyers, who arrived in Cranberry Township in 1826. A county history prints George Myers, in about 1826, and the 3d of September, 1833, and the sennces of T. C. Sweney, and thirty-one lots. I will not repair sennces. Another book prints September 3, 1833, and T. C. Sweeney, and thirty-one lots. I will not average Sweney and Sweeney, and I will not average George Myers with George Washington Meyers. That book prints Chipmunk. The county history prints chipmunk and Chipmunk, and it prints sti'aight and Avhich. I will not repair them, and I will not hang Chipmunk on the pages that do not print it. One page says the name may keep it from being confounded with a town on the Potomac. The other says a patriotic impulse for the Father of his Country. I will not average those reasons. The Potomac town stays there. The cabin is printed near the present site of the grist-mill, and another page says probably the first building. Probably stays. I will not invent the mill door. It is generally believed the second cabin was Jacob Hoover's, with his brother Nimrod. Generally believed stays. Wikipedia says that by 1862 there were two dry goods stores, six grocery stores, three blacksmith shops, a flouring mill, and a sawmill. Another page prints April, 1862, and two churches, one drug store, six groceries, five shoe shops, two wagon shops, one flouring and sawmill, a tannery, and an ashery. I will not average a flouring mill and a sawmill with one flouring and sawmill. Wikipedia says that in 1872 the Pennsylvania Railroad, at the time called the Mansfield, Coldwater, and Lake Erie railroad, ran its first trains from Toledo to New Washington, and that the village was incorporated in 1874. The marker prints the Mansfield, Coldwater & Lake Erie Railroad, and 1874 with no day. Another page prints the Mansfield, Coldwater and Michigan Railroad, later the Pennsylvania, and October 1872. I will not average Lake Erie and Michigan, and I will not average bare 1872 with October 1872. The county history prints the March session of 1874 and the 4th day of the same month. I will not average a bare 1874 with that 4th day. A second railroad, the Pittsburgh, Akron and Western, is printed in 1891. I will not move it onto the first train. The Church of God is printed as organized March 19, 1871, with forty-six worshippers, and a building in 1872 that cost 2,200 dollars, on a deed of September 3, 1872. I will not merge that September 3 with the 1833 plat. The page prints a planning Mill. I will not repair planning. I will not invent that church door. St. John's book address, 203 East Mansfield St., stays that book's address. Roadsidethoughts says it does not have a founding date, that you might consider the post office opened in 1846, and it names a book of October 1846. I will not make October the opening day. Topoquest prints the post office at N40.962556 and W82.854072, and a map prints N40.96256 and W82.85407. I will not stack a pin on the post office. The marker says baby chicks were shipped by rail in 1900. That sentence stays.",
+  long: "",
+  names: ["New Washington", "Dutchtown"]
+},
+{
+  id: "new-washington-lutheran",
+  name: "Lutheran Cemetery",
+  lat: 40.96477,
+  lng: -82.85462,
+  radius: 40,
+  short: "This pin is the Lutheran Cemetery a New Washington map prints, N40.96477 and W82.85462. Find a Grave prints Saint Johns Lutheran Cemetery at 40.96483 and -82.85369. I will not average the names, and I will not average the points, and I will not stack a second pin. Saint Bernard Cemetery stays at N40.967752 and W82.852939, and a map prints N40.96775 and W82.85294. I will not move it here. One Union Cemetery is printed at N40.95382 and W82.85071. Another Union Cemetery is printed at N40.885882 and W82.856012, elevation 1003 ft, about 5.3 miles from the populated place on that page. I will not average the two Unions, and I will not move the far one onto the village. A Gallaher cemetery page is another New Washington. I will not move it here. Swaab Cemetery stays on its own page.",
+  long: "",
+  names: ["Lutheran Cemetery", "Saint Johns Lutheran Cemetery"]
+},
+{
+  id: "new-washington-school",
+  name: "Buckeye Central High School",
+  lat: 40.9595,
+  lng: -82.85296,
+  radius: 40,
+  short: "This pin is Buckeye Central High School on the New Washington map, N40.95950 and W82.85296, GNIS 1055724. A neighbor list prints N40.959501 and W82.852961. I will not average them. Buckeye East and Buckeye West stay where those pages put them. Wilbur Scott Striker, also called Jake, was born October 23, 1933, in New Washington, and died March 7, 2013, in Dallas, Oregon, aged 79. His high school is printed as Sulphur Springs. I will not move Sulphur Springs here, and I will not invent his door, and I will not stack him on this school. Nicholas Lenau's years on the marker are 1802-1850, and that marker says he owned property here in the 1830s. An Ohio history article says he is supposed to have spent several weeks on or near his property, on the edge of what is now New Washington, in the winter of 1832-33, and then it says Lenau did not buy. Supposed to stays. Did not buy stays. I will not average those two sentences. A land certificate is printed November 26, 1832, to Nicholas Niembsch, near the present city of New Washington. City stays. A courthouse record is printed December 2, 1845. I will not invent the farm. No page puts a nation on this village. The band's pause for World War I is not an enlistment. I will not invent a battle. The marker's small city park stays at 40 degrees 57.733 minutes north and 82 degrees 51.236 minutes west. That page does not print a decimal. The address 105 W Mansfield Street stays the marker's address. I will not invent a decimal, and I will not add a second park pin. The next place is New Waterford.",
+  long: "",
+  names: ["Buckeye Central High School"]
+},
 
+{
+  id: "new-waterford-approach",
+  name: "New Waterford",
+  lat: 40.864,
+  lng: -80.616,
+  radius: 2500,
+  layer: "approach",
+  short: "You are arriving at New Waterford. The first story is the name. This pin is only an offset so the arrival fires first. It is not a survey point.",
+  long: "",
+  names: ["New Waterford"]
+},
+{
+  id: "new-waterford-name",
+  name: "The name",
+  lat: 40.85000,
+  lng: -80.62278,
+  radius: 40,
+  short: "The name comes first. This pin is the decimal Wikipedia prints, 40.85000 and -80.62278. That page also prints 40 degrees 51 minutes 00 seconds north and 80 degrees 37 minutes 22 seconds west. I will not extend those seconds. It prints elevation 1,070 ft (330 m), GNIS 2399486, FIPS 39-55790, ZIP 44445, and area codes 330 and 234. The infobox prints 0.91 square miles (2.35 square kilometers), water 0. The geography section prints 0.89 square miles (2.31 square kilometers), all land. I will not average 0.91 and 0.89. It says the village is about 20 miles (32 km) south of Youngstown. About stays. Topoquest prints the civil village at N40.84801 and W80.61902, elevation 1066 ft, and a map prints N40.8480 and W80.6190. A misc page prints the same GNIS 2399486 at 40.847995 and -80.618943, Elev 328 ft, FIPS 39/55790, and says the point is arbitrary. Arbitrary stays. I will not average 328 ft with 1066 ft or with 1,070 ft, and I will not repair 328 ft. GNIS 1065139, the populated place, prints 40.8450610 and -80.6145165, and 40 degrees 50 minutes 42.22 seconds north and 80 degrees 36 minutes 52.26 seconds west. A map prints N40.84506 and W80.61452. I will not average those digits, and I will not stack a pin on them. A misc page prints Elev 319 ft for 1065139 and does not print a coordinate. MyTopo prints approximately 1,046.37 feet (318.93 m). Approximately stays. I will not average 319 ft with 1,046.37 feet, and I will not repair 319 ft. I will not merge GNIS 2399486 with 1065139. A profile prints the pronunciation WAH-tur-ford. Wikipedia says the village was founded in 1851, named for Waterford, Ireland, and laid out in 1851 by John and Robert Silliman as Bull Creek, later renamed for Waterford, Ireland. The village page says it was platted in 1851 in anticipation of the railroad, and that a few years later the name was changed from Bull Creek to New Waterford. As the story is told stays. That page prints the first Taylor's, and the name New Waterford. I will not repair Taylor's. Mack prints about 1851, on sections 19, 20, and 29, on both sides of Big Bull Creek, and two additions by Joseph Taylor. About stays. The village page prints two additions by John Taylor. I will not average John and Joseph. Mack says the station was known by the name of the Creek, and the present name was soon after selected. The village page prints Bull Creek Station, and July 1852 for the first train of cars. Wikipedia prints Big Bull Creek. The village page and an economic page print Bull Creek. GNIS prints Bull Creek as a variant, from the Raup file. I will not average Bull Creek, Big Bull Creek, and the name of the Creek. Waterford, Ireland, stays in Ireland. The census table prints 1880 as 192, 1910 as 509, 2010 as 1,238, and 2020 as 1,194. The village page prints 60 people in 1860 and 1347 by 1900. An economic page prints 1,238 residents and does not print the year, and it prints overtime. I will not average 60, 192, 1347, 509, 1,238, and 1,194, and I will not repair overtime. The village page says the post office was established in 1853, with George Coswell as the first post master. Post master stays two words. A profile says you might consider that the post office opened in 1854, and then it says the list opened it in 1854. You might consider stays. I will not average 1853 and 1854. A neighbor list prints the post office at N40.8445 and W80.6151, and a map prints N40.84451 and W80.61507. I will not average them, and I will not stack a pin on the post office. The village was incorporated in 1900. The village page adds that Jacob H. Koch was elected it's first Mayor. It's stays. That page prints In 1883. with the period, George J. Kock, and also Koch, and surries. I will not repair Kock, the period, or surries. The first storehouse as built stays as built. McCord prints Christ and Roos about 1848, a fire in August 1865, and James. Scott, who ran a mill on Big Bull Creek from 1867 to 1873, then Tip Top Mills in 1873. The period after James stays. The village page prints James C. Scott in 1867 at Cass Ann, and Tip-Top. I will not average Tip Top and Tip-Top, and I will not average 1867 with 1873. I will not invent the mill door, or a door for Cass Ann, or the world's fair station. Mill Rock stays at Mill Rock.",
+  long: "",
+  names: ["New Waterford", "Bull Creek"]
+},
+{
+  id: "new-waterford-cemetery",
+  name: "New Waterford Cemetery",
+  lat: 40.85330,
+  lng: -80.61360,
+  radius: 40,
+  short: "This pin is the decimal Find a Grave prints for New Waterford Cemetery, 40.85330 and -80.61360. The same page prints 40 degrees 51 minutes 12.34 seconds north and 80 degrees 36 minutes 49.34 seconds west. I will not average that pair with the decimal. It prints 3154 Mc Closkey Rd, and it also prints McCloskey Road and Hisey Road, in Unity Township. Mc Closkey and McCloskey both stay. Hometown Locator prints 40.85339 and -80.61340. A map prints N40.85339 and W80.61340. Geoview prints 40.85339 and -80.61341, and also 40 degrees 51 minutes 12 seconds north and 80 degrees 36 minutes 48 seconds west, and elevation 368 m. I will not average -80.61340 with -80.61341, and I will not average 368 m with 330 m or with 1,070 ft. A neighbor list prints N40.8534 and W80.6134. I will not stack a second pin. The cemetery page says it is still active, and that the oldest stones are closest to McCloskey Road. The township point of Unity stays where its own page puts it. I will not move it onto this cemetery.",
+  long: "",
+  names: ["New Waterford Cemetery"]
+},
+{
+  id: "new-waterford-school",
+  name: "Crestview Elementary School",
+  lat: 40.84423,
+  lng: -80.61396,
+  radius: 40,
+  short: "This pin is Crestview Elementary School, N40.84423 and W80.61396, elevation 1043 ft. Wikipedia prints the Crestview Local School District. I will not invent a door for a high school. The United Presbyterian Church stays at the point its map prints, N40.84728 and W80.61202. The United Methodist Church stays at N40.84228 and W80.61341. I will not move either church onto this school. No page I am using prints the years of a life in this village. I will not invent one. William McKinley is printed only as a visitor who later became President. I will not add years that page does not print. No page puts a nation on this village. A county war count is the county, and the Columbiana Cemetery stones stay in Columbiana. I will not move them here, and I will not invent a battle. The name story, as the story is told, is already on the name card. I will not add a second pin for it. The dam and the millrace are printed in the park. A 2025 page hopes that ground will be more of a memorial area. Hope stays. I will not invent the park door, and I will not move the millrace onto the cemetery. Beaver Creek State Park, Sheepskin Hollow, East Palestine, and Columbiana stay where their pages put them. The next place is New Weston.",
+  long: "",
+  names: ["Crestview Elementary School"]
+},
+
+{
+  id: "new-weston-approach",
+  name: "New Weston",
+  lat: 40.328,
+  lng: -84.65,
+  radius: 2500,
+  layer: "approach",
+  short: "You are arriving at New Weston. The first story is the name. This pin is only an offset so the arrival fires first. It is not a survey point. Burkettsville stays north of it.",
+  long: "",
+  names: ["New Weston"]
+},
+{
+  id: "new-weston-name",
+  name: "The name",
+  lat: 40.33694,
+  lng: -84.64361,
+  radius: 40,
+  short: "The name comes first. This pin is the decimal Wikipedia prints, 40.33694 and -84.64361. That page also prints 40 degrees 20 minutes 13 seconds north and 84 degrees 38 minutes 37 seconds west. I will not extend those seconds. It prints elevation 1,011 ft (308 m), GNIS 2399487, FIPS 39-55818, ZIP 45348, and area code 419. The infobox prints 0.25 square miles (0.66 square kilometers), water 0. The geography section prints 0.26 square miles (0.67 square kilometers), all land. I will not average 0.25 and 0.26. GNIS prints the civil point as 40.3370242 and -84.6436095, and as 40 degrees 20 minutes 13.29 seconds north and 84 degrees 38 minutes 36.99 seconds west. I will not average 13 seconds with 13.29 seconds, or 37 seconds with 36.99 seconds. Topoquest prints N40.337024 and W84.643609, elevation 1010 ft. A misc page prints 40.337024 and -84.643609, Elev 308 ft, FIPS 39/55818, and says the point is arbitrary. Arbitrary stays. I will not average 308 ft with 1,011 ft or with 1010 ft, and I will not repair 308 ft. The same misc page prints GNIS 1065141 for the populated place, Elev 308 ft, and it does not print a coordinate. I will not invent one. Topoquest prints a populated place at N40.337269 and W84.643291. TopoZone prints 40.3372692 and -84.6432909, and approximately 1,010 feet (308 meters). Approximately stays. I will not average those digits, and I will not stack a pin on them. A profile prints the pronunciation WEHS-tuhn. Wikipedia says the village was founded in the 1880s, during construction of a railroad through Allen Township by a predecessor of the Cincinnati, Jackson and Mackinaw Railroad, and that it was one of the last communities founded in Darke County. The Allen Township page prints 1883 for that railroad through Rossburg and New Weston. I will not average the 1880s with 1883. Rossburg stays where that page puts it. The township's March 1839, the Ireland families, and the 1840 school stay the township's. I will not move them onto this village. The township point stays at N40.308357 and W84.664103. A profile says you might consider that the post office opened in 1887, and then it says the list opened it in 1887. You might consider stays. I will not invent a plat day. Topoquest prints the post office at N40.337547 and W84.643013. A yellow-maps page prints latitude 40.33 and longitude -84.64, elevation 307 m, and 1007 with a prime. I will not average 40.33 with the longer pairs, or 307 m with 308 m, or 1007 with 1010 or 1,011. I will not stack a pin on the post office. The census table prints 1910 as 258, 2000 as 135, 2010 as 136, and 2020 as 124. The 2010 density is 523.1 per square mile. The 2000 density is 528.0. The 2020 density is 485. I will not average them. Other Allen Townships stay in Hancock, Ottawa, and Union Counties.",
+  long: "",
+  names: ["New Weston"]
+},
+{
+  id: "new-weston-holsapple",
+  name: "Holsapple Cemetery",
+  lat: 40.334491,
+  lng: -84.609401,
+  radius: 40,
+  short: "This pin is Holsapple Cemetery as Topoquest prints it, N40.334491 and W84.609401, elevation 984 ft, on the North Star map. That page says it is 1.8 miles from the New Weston populated place. I will not move it onto the village. Find a Grave prints Holsapple Cemetery in New Weston at 40.33440 and -84.60940. I will not average those points. A county list prints 402004N and 0843634W. That page does not print a decimal. I will not turn it into a second pin. Tea Garden Cemetery is printed at 1877 Ellis Road, New Weston. I will not invent that door, and I will not decide it is Holsapple. New Teagarden Cemetery stays at N40.221159 and W84.698014. Old Teegarden stays on its own page. I will not move either one here.",
+  long: "",
+  names: ["Holsapple Cemetery"]
+},
+{
+  id: "new-weston-eldora",
+  name: "Eldora Speedway",
+  lat: 40.31861,
+  lng: -84.63389,
+  radius: 40,
+  short: "This pin is the decimal Wikipedia prints for Eldora Speedway, 40.31861 and -84.63389. That page also prints 40 degrees 19 minutes 07 seconds north and 84 degrees 38 minutes 02 seconds west. The location line says Allen Township, near New Weston. The same article says north of Rossburg, in the village of New Weston. Near stays. In the village stays. I will not average them. The speedway site prints the address 13929 State Route 118, New Weston, and it does not print a decimal. A press page dates itself from Rossburg and says the track is in Rossburg. I will not average Rossburg and New Weston, and I will not move Rossburg. The page says Earl Baltes built it in 1954, first as a quarter-mile, and shaped it into a half-mile in 1958. I will not average 1954 and 1958. The infobox prints capacity 30,000. The article says the website claims 22,886. Claims stays. I will not average them. It prints length 0.500 miles (0.805 km). Find a Grave prints Earl Baltes, born April 27, 1921, in Versailles, died March 23, 2015, aged 93, in Dayton, of New Weston, and buried at Saint Bernard Cemetery in Burkettsville. The speedway page prints April 27, 1921, to March 23, 2015, and says he served in the U.S. Army during World War II. I will not invent the battle or the unit. Versailles stays. Dayton stays. Saint Bernard stays in Burkettsville. I will not move that grave, and I will not invent his door. The press page prints Ma Shoe's, a natural amphitheatre, and the Wabash River. I will not invent the dance-hall door. Crystal Ballroom stays near Versailles. No page puts a nation on this village. No page tells a legend here. I will not invent one. The next place is Newburgh Heights.",
+  long: "",
+  names: ["Eldora Speedway", "the Big E"]
+},
+
+{
+  id: "newburgh-heights-approach",
+  name: "Newburgh Heights",
+  lat: 41.468,
+  lng: -81.662,
+  radius: 2500,
+  layer: "approach",
+  short: "You are arriving at Newburgh Heights. The first story is the name. This pin is only an offset so the arrival fires first. It is not a survey point.",
+  long: "",
+  names: ["Newburgh Heights"]
+},
+{
+  id: "newburgh-heights-name",
+  name: "The name",
+  lat: 41.44972,
+  lng: -81.66028,
+  radius: 40,
+  short: "The name comes first. This pin is the decimal Wikipedia prints, 41.44972 and -81.66028. That page also prints 41 degrees 26 minutes 59 seconds north and 81 degrees 39 minutes 37 seconds west. The village page prints those same figures. I will not extend the seconds. The geography section prints 41 degrees 27 minutes north and 81 degrees 40 minutes west, and 41.450 and 81.667, and then it prints 41.450 and -81.660. I will not average 81.667 with -81.660, and I will not average 41.44972 with 41.450. A Spanish page prints 41.4497 and -81.6603, and also 41 degrees 27 minutes 4 seconds north and 81 degrees 39 minutes 47 seconds west, and 41.45111 and -81.66306. I will not average those with the English pair. A map prints the civil village at N41.45095 and W81.66271, and a populated place at N41.45005 and W81.66346. Mapcarta prints 41.45025 and -81.66264, and also 41 degrees 27 minutes 1 second north and 81 degrees 39 minutes 46 seconds west. I will not average the map's decimal with its own minutes. I will not stack a second pin. Wikipedia prints elevation 692 ft (211 m). Mapcarta prints 692 feet (211 metres). A profile prints 680 feet [207 m]. I will not average 692 with 680, or 211 m with 207 m. Wikipedia prints GNIS 1065145. The Spanish page prints GNIS 1085983. Mapcarta prints GeoNames 5164488. I will not merge those numbers. The infobox prints 0.58 square miles (1.51 square kilometers), water 0. The geography section prints 0.58 square miles (1.50 square kilometers), all land. I will not average 1.51 and 1.50. The Spanish page prints 1.51 square kilometers and water (0.17 percent) 0. I will not repair that water line. The encyclopedia prints .5 square miles. The village page prints 0.5 square miles, and it also prints about 1 acre for the residential area and about 5 acres for Cuyahoga Heights. About stays. I will not average 1 acre with 0.5 square miles. ZIP codes are 44105 and 44127. FIPS is 39-54250. Area code is 216. The encyclopedia says the name was probably taken from Newburgh, New York. Probably stays. New York stays in New York. It was one of 18 townships platted by the Connecticut Land Company after the 1796 purchase. The village was organized and incorporated in 1904. The encyclopedia prints the Village of Newburgh in 1874, and Cleveland annexations in 1878, 1893, and 1894, and as early as 1823. As early as stays. The township page prints 1873 for the heart of Newburgh. The village page prints annexations in 1823, 1873, 1874, 1878, 1893, and 1894. I will not average 1873 with 1874. South Newburgh was organized in 1904 and became Garfield Heights in 1930. The encyclopedia prints Garfield Hts. Corlett was organized in 1906. A building boom began in 1917. The village page prints the Village of Willow in 1918, to become Cuyahoga Heights. The encyclopedia does not print Willow or 1918. I will not average 1917 and 1918. The encyclopedia says New Englanders, then Irish and Welsh, then Poles, Czechs, and Germans. The village page prints Welsh, Irish, Polish, German, and Czech, and New England and Manx. Manx stays. I will not average the two lists. Cleveland Rolling Mill is printed in 1857. I will not invent that mill door. The 1814 township, the 1799 mills, and Mill Creek stay on the township page. The 1909 population is printed as only 400. The 1910 census is 940. I will not average 400 and 940. The 1930 census is 4,152. The encyclopedia prints 4,000 in 1940, and the census prints 3,830. It prints 3,600 in 1953. It prints 4,000 in 1960, and the census prints 3,512. It prints 1,831 in 2021. The 2020 census is 1,862. A 2019 estimate is 2,028. Mapcarta prints 1,810. I will not average them. Mapcarta also prints Cleveland Mills, Newburg, Newburg Mills, Newburgh, Newbury, and Newsburg. I will not repair those spellings. The 2000 census center of the county is printed near East 26th Street. I will not invent that door.",
+  long: "",
+  names: ["Newburgh Heights", "Newburgh", "Newburg"]
+},
+{
+  id: "newburgh-heights-park",
+  name: "Washington Park",
+  lat: 41.45422,
+  lng: -81.66318,
+  radius: 40,
+  short: "This pin is Washington Park on a Newburgh Heights map, N41.45422 and W81.66318. The encyclopedia says Newburgh Village's centerpiece, Raus Park, now Washington Park on the village's eastern edge, opened in 1920. Now stays. Eastern edge stays. The village page prints Cleveland's Raus Park and Metropark's Washington Park to the North, as two names. I will not average the North with the eastern edge, and I will not decide the two names are one park or two. Washington Park Boulevard stays a street. I will not move it onto this pin. Harvard Grove Cemetery stays in Cleveland. One page prints it at 41.452051 and -81.647217, on Lansing Avenue. A map prints N41.44949 and W81.64762. I will not average those points, and I will not move the cemetery here. Axtell Street Cemetery stays near East 78th Street and Broadway. Lansing Jewish Cemetery stays on the map. Washington Heights Park stays in New York.",
+  long: "",
+  names: ["Washington Park", "Raus Park"]
+},
+{
+  id: "newburgh-heights-school",
+  name: "Washington Park School",
+  lat: 41.44922,
+  lng: -81.65874,
+  radius: 40,
+  short: "This pin is Washington Park School on the map, N41.44922 and W81.65874. The encyclopedia prints Washington Park Community School, a charter school for kindergarten through 8th grade, inside the village border. I will not average the two school names. It says the village public schools are under neighboring Cuyahoga Heights. I will not move those schools here. Forestdale Presbyterian Church stays at N41.44839 and W81.65818. Saint Johns Nepomucene, Fullerton, and Mound stay where the map puts them. Edwin S. Peck is printed as mayor from 1904 to 1908. That page does not print a birth or a death. I will not invent his life, and I will not invent his door. Trevor K. Elkins is printed as mayor with no years. I will not add any. No page names a nation on this village. I will not turn a census count into a nation. No page prints a fight, a muster, or an enlistment here. I will not invent a battle. The township page's wolves stay on the township page. I will not move that story here, and I will not invent a legend. The next place is Newcomerstown.",
+  long: "",
+  names: ["Washington Park School", "Washington Park Community School"]
+},
+
+{
+  id: "newcomerstown-approach",
+  name: "Newcomerstown",
+  lat: 40.29,
+  lng: -81.598,
+  radius: 2500,
+  layer: "approach",
+  short: "You are arriving at Newcomerstown. The first story is the name. This pin is only an offset so the arrival fires first. It is not a survey point.",
+  long: "",
+  names: ["Newcomerstown"]
+},
+{
+  id: "newcomerstown-name",
+  name: "The name",
+  lat: 40.27611,
+  lng: -81.59528,
+  radius: 40,
+  short: "The name comes first. This pin is the decimal Wikipedia prints, 40.27611 and -81.59528. That page also prints 40 degrees 16 minutes 34 seconds north and 81 degrees 35 minutes 43 seconds west. I will not extend those seconds. It prints elevation 804 ft (245 m), GNIS 2399492, FIPS 39-54432, ZIP 43832, area code 740, and the pronunciation NEW-kum-ers-town with a schwa. The motto is Hometown Archive of Memories. The infobox prints 2.97 square miles (7.68 square kilometers), land 2.86 (7.42), water 0.10 (0.26). The geography section prints 2.94 square miles (7.61 square kilometers), land 2.84 (7.36), water 0.10 (0.26). I will not average 2.97 and 2.94, or 2.86 and 2.84. It is 85 miles (137 km) east-northeast of Columbus, along the Tuscarawas River, in Oxford and Salem townships. I will not move either township. A misc page prints the civil point at 40.2758796 and -81.597296, Elev 246 ft, and also 40 degrees 16 minutes 33 seconds, or 40.28, and -81 degrees 35 minutes 50 seconds, or -81.6. I will not average 40.28 with 40.27611, and I will not repair 246 ft. The populated place is GNIS 1066860, at 40.2722923 and -81.6059541, Elev 247 ft. TopoZone prints 40.2722923 and -81.6059541, and approximately 801 feet (244 meters). Approximately stays. Mapcarta prints 40.2723 and -81.606, and 40 degrees 16 minutes 20 seconds north and 81 degrees 36 minutes 21 seconds west, elevation 810 feet (247 metres), and 3,930 people. A latitude page prints 40.2723 and -81.6060, and 40 degrees 16 minutes 20.24 seconds north and 81 degrees 36 minutes 21.42 seconds west. I will not average 20 seconds with 20.24 seconds, or 801 with 804 with 810, or 244 m with 245 m with 247 metres, or 247 ft with 247 metres. I will not merge GNIS 2399492 with 1066860. The 2020 census is 3,702. The 2010 census is 3,822. I will not average those with 3,930. A speech prints Nicholas Neighbour in 1814, from German Valley, N. J., hoping doubtless, and Tuscarwas with no s. Hoping doubtless stays. Tuscarwas stays. It prints the last day of July, 1815, at the Old Ferry, and a cabin in the fall of 1815, and Neighbour Town. Another page prints Nicholas Neighbor, 1900 acres, and also hundreds of acres. I will not average Neighbour and Neighbor, or 1900 with hundreds. German Valley stays in New Jersey. A one-place page prints that he named and platted the town, and that the Ohio Canal was built in 1828. I will not add a plat day that page does not print, and I will not invent the canal door. That page prints 40.2744-81.6025 with a hyphen. I will not turn the hyphen into a comma. A post-office page prints 133 West Canal Street, opened January 28, 1818, at 40.2747884 and -81.6070604, and it says the page may contain incomplete information and formatting errors. That warning stays. I will not drop January 28, 1818, and I will not repair the page. Another page prints the post office at 40 degrees 16 minutes 28 seconds north and 81 degrees 36 minutes 26 seconds west, and also 40.27444 and -81.60722, also known as New Comerstown Post Office, elevation 245 m. A map prints N40.274440 and W81.607220. I will not average those post-office points, and I will not stack a pin on the post office.",
+  long: "",
+  names: ["Newcomerstown", "Neighbour Town", "Newcomer's town"]
+},
+{
+  id: "newcomerstown-cemetery",
+  name: "Old Pioneer Cemetery",
+  lat: 40.27251,
+  lng: -81.60632,
+  radius: 40,
+  short: "This pin is the decimal Find a Grave prints for Old Pioneer Cemetery, 40.27251 and -81.60632, also known as South Bridge Cemetery, at 306 South Bridge Street. The page prints early 1800's, and the earliest burial date is1812/1817. I will not repair is1812, and I will not average 1812 and 1817. It prints S. Bridge St., where the Penn Central railroad crosses, and Q.2, T.5, R.3, in Oxford Township. Geoview prints South Bridge Cemetery at 40 degrees 16 minutes 21 seconds north and 81 degrees 36 minutes 23 seconds west, and also 40.27257 and -81.60651, elevation 246 m, and a DEM of 243 m. I will not average the minutes with the decimal, or 246 m with 243 m, and I will not stack a second pin. That page says it is also known as West Lawn Cemetery. I will not drop West Lawn. East State Street Cemetery and State Street Cemetery stay 731 m east on that page. A speech prints a shelter at the entrance to our new cemetery, and unlettered mounds in the old cemetery. I will not decide which of those is this pin, and I will not invent the shelter door.",
+  long: "",
+  names: ["Old Pioneer Cemetery", "South Bridge Cemetery"]
+},
+{
+  id: "newcomerstown-lenape",
+  name: "Gekelukpechink",
+  lat: 40.27475,
+  lng: -81.607883,
+  radius: 40,
+  short: "This pin is the marker's minutes, 40 degrees 16.485 minutes north and 81 degrees 36.473 minutes west. That page does not print a decimal. I converted the minutes. I will not pretend the page printed this decimal. The marker reads GEKELEMUKPECHUNK, stood here until after 1775, Leni Lenape capital under Chief Netawatwes, also called King Newcomer, of the Turtle Tribe, erected 1954 by Greyhound Post Houses. The address 221 West Canal Street stays the marker's address, beside the Temperance Tavern Museum. Wikipedia prints a Lenape, or Delaware, village in the 1760s, Netawatwees, c. 1686 to 1776, also known as Newcomer, from Cuyahoga Falls. The c. stays. Cuyahoga Falls stays. It prints Gekelukpechink, meaning still water, a meeting place of the Iroquois Great Council, and Newcomer's town. By 1771, more than one hundred dwellings. In 1776, more than seven hundred Lenape and several traders. More than stays. Soon after the Revolutionary War, they moved west to Coshocton. Soon after stays. Coshocton stays. I will not average Netawatwees and Netawatwes, or Gekelukpechink and GEKELEMUKPECHUNK. A latitude page prints the late 1770s, 700 residents, Netawatwes, and Gekelmukpechunk, and French traders and English settlers. I will not average the late 1770s with the 1760s, or 700 with more than seven hundred. Mapcarta prints Des Nouveaux Venus, Geckelemuckpechunk with an umlaut, Gekelemuchpeking, Gekelemuekpechuenk, Gekelemukpechunk, Neighbortown, New Camero Town, New Comers Town, New Comerstown, Newcomers, Newcomers Town, Newcomers Village, and Newcommerstown. I will not repair those spellings. The marker page prints a treaty on the September 17, 1778, and that they moved first to Ohio. I will not average moved first to Ohio with a village already here in the 1760s.",
+  long: "",
+  names: ["Gekelukpechink", "GEKELEMUKPECHUNK"]
+},
+{
+  id: "newcomerstown-school",
+  name: "Newcomerstown High School",
+  lat: 40.265904,
+  lng: -81.611788,
+  radius: 40,
+  short: "This pin is Newcomerstown High School, N40.265904 and W81.611788, elevation 800 ft. I will not average 800 ft with 804 ft. The middle school stays at N40.270348 and W81.609565. I will not move it onto this school. Nicholas Neighbour is printed born 10 May 1762 in German Valley, New Jersey, and died 28 July 1848 in Newcomerstown. A page prints that he served as a captain in the New Jersey militia under Col. Jacob Ford, and it prints 1806 1808 with no mark between the years. I will not insert one. I will not invent a battle here, and I will not move New Jersey. I will not invent his door. Denton True Young, called Cy, is printed born 29 March 1867 in Gilmore, and died 4 November 1955 in Newcomerstown, and buried at Peoli. A page says the fences were said to look as if a cyclone had hit them. Said to stays. Gilmore stays. Peoli stays at 40.227425 and -81.4354507. I will not move that grave, and I will not invent his door. Ronald Hooker is printed as a 19-year-old mayor in 1971, a junior at Ashland College. The page does not print a birth year. I will not invent one. More than two thirds stays. According to LIFE stays. Ashland stays. No separate legend is printed beyond the hedges already on these pages. I will not invent one. The next place is Newport, the one the list prints at 39.398 and -81.221. The other Newport stays where the list puts it.",
+  long: "",
+  names: ["Newcomerstown High School"]
+},
+
+{
+  id: "newport-washington-approach",
+  name: "Newport",
+  lat: 39.414,
+  lng: -81.22,
+  radius: 2500,
+  layer: "approach",
+  short: "You are arriving at Newport, the Washington County place. The first story is the name. This pin is only an offset so the arrival fires first. It is not a survey point. The other Newport stays where the list puts it.",
+  long: "",
+  names: ["Newport"]
+},
+{
+  id: "newport-washington-name",
+  name: "The name",
+  lat: 39.39667,
+  lng: -81.22472,
+  radius: 40,
+  short: "The name comes first. This pin is the decimal Wikipedia prints for Newport in Washington County, 39.39667 and -81.22472. That page also prints 39 degrees 23 minutes 48 seconds north and 81 degrees 13 minutes 29 seconds west. I will not extend those seconds. It prints elevation 742 ft (226 m), GNIS 2628944, ZIP 45768, and area code 740. A map prints the census place at N39.396549 and W81.224767. I will not average that pair with this pin, and I will not stack a second pin. The populated place is GNIS 1076517, at 39.3909084 and -81.2267801, and 39 degrees 23 minutes 27 seconds north and 81 degrees 13 minutes 36 seconds west. A misc page prints Elev 197 ft for that record, and also or 39.39 and or -81.23. Another page prints 195 meters and 640 feet for the same 1076517. I will not average 742 ft with 640 feet or with 197 ft, and I will not repair 197 ft, and I will not average 195 meters with 226 m. I will not merge GNIS 2628944 with 1076517. The misc page prints FIPS 39/55342, class U6, and says the populated place is outside any CDP. Wikipedia says this Newport is a CDP. I will not average those two sentences. The 2020 census is 895. The 2010 census is 1,003. A history prints a village of about six hundred. About stays. I will not average 895, 1,003, and about six hundred. Wikipedia says the first European-American settlement was made as early as 1798, by settlers from Massachusetts, and that the site was not platted until 1839. As early as stays. A township history prints the spring of 1798, the Dana family from Massachusetts, ten years after the first settlement at Marietta, and then the Greene family from Rhode Island. The same history prints a settlement before 1798, by William Tison, Neal Cortner, John Cotton, Josiah Luckey, and David Stokely, at the Upper Settlement, near the present village, and it calls them forerunners, giving way to the real pioneers. Before stays. Near stays. Forerunners stays. I will not average before 1798 with the spring of 1798 or with as early as 1798. It prints that Captain Battelle, son of Col. Ebenezer Battelle, laid the place out early in the first decade of the century, and it also prints that Ebenezer Battelle platted it in 1839, more than forty years after the first settlement. I will not average the first decade with 1839. It has been supposed by some that the name came from the Newport family. Supposed by some stays. The same page says the name was actually taken from the city in Rhode Island. Rhode Island stays in Rhode Island. A post office called Newport has been in operation since 1815. A county list prints Newport, 1815 to date. The history prints the first post office in the Adkins home, built in 1810 by Luther Dana, with the old sign Temperance House even now resting in the attic. Even now stays. Lower Newport is a different office, printed 1842 to 1852 and 1855 to 1904. I will not move Lower Newport here. Yankeeburg and Yankeeburgh stay on their own lines. Marietta, Milltown, Haysville, Bevan, and Newell Run stay where their pages put them. Today the main street is State Route 7. Today stays. Several miles above Marietta stays several.",
+  long: "",
+  names: ["Newport"]
+},
+{
+  id: "newport-washington-cemetery",
+  name: "Newport Cemetery",
+  lat: 39.393677,
+  lng: -81.227886,
+  radius: 40,
+  short: "This pin is Newport Cemetery as Topoquest prints it, N39.393677 and W81.227886, elevation 675 ft, on the Raven Rock, West Virginia, map, in Washington County, Ohio. I will not average 675 ft with 742 ft. A history prints the well-kept cemetery of the village, and the first burial in it, Nathaniel Little, in 1808. I will not invent his stone's own point. Barker Cemetery stays at Lower Newport. That page prints Judge Joseph Barker, born 1790, died 1860, and says the cemetery was established when he died. A WikiTree page prints Joseph Barker Jr., born 28 February 1790, birth place uncertain, Belpre Township, and died 6 January 1880 at Lower Newport. Uncertain stays. I will not average 1860 with 1880, and I will not move Lower Newport or Belpre onto this pin. Col. Joseph Barker, 9 September 1765 to 21 September 1843, stays at Devola. I will not merge the three Josephs. The house of 1832 is printed a short distance southwest of Newport. Short distance stays. I will not invent that door.",
+  long: "",
+  names: ["Newport Cemetery"]
+},
+{
+  id: "newport-washington-bridge",
+  name: "Hi Carpenter Memorial Bridge",
+  lat: 39.38778,
+  lng: -81.21417,
+  radius: 40,
+  short: "This pin is the decimal Wikipedia prints for the Hi Carpenter Memorial Bridge, 39.38778 and -81.21417. That page also prints 39 degrees 23 minutes 16 seconds north and 81 degrees 12 minutes 51 seconds west. The Newport page prints the name Carpenter Bridge, carrying State Route 807. I will not average Carpenter Bridge with Hi Carpenter Memorial Bridge. The bridge page says it is between Newport, Ohio, and St. Marys, West Virginia, four lanes of WV 807 and SR 807, a cantilever truss, 2,579 feet (786 m), construction started 19 June 1973, inaugurated 19 November 1977, cost 25.1 million dollars, designed by E. Lionel Pavlo of New York. I will not average 1973 and 1977. It ends just east of the unincorporated village. Just east stays. St. Marys stays in West Virginia. New York stays in New York. Matamoras stays on its own road. GeoNames prints 39.38785 and -81.21400, elevation 185 m, and also SRTM3 183 m and ASTER 207 m. I will not average those elevations, and I will not stack a second pin. A map prints Old Hi Carpenter Bridge at N39.391004 and W81.208584. I will not move the old bridge onto this pin. Newport Elementary School stays at N39.393131 and W81.226225. The historical high school stays at N39.392575 and W81.226502. I will not stack either one on this bridge. Frontier Local stays the district's name. Tradition states that William Henry Harrison spoke in 1840 in the shade of a sycamore, and that the stump still may be seen. Tradition stays. Still may stays. I will not invent the stump's door, and I will not add years the page does not print. It is said that Irish families dug the mill race at the stone mill at Milltown, built about 1815. It is said stays. About stays. A similar tradition stays on the West Virginia side. Probably along in the forties stays on the wharf building. I will not invent its door. If so stays on the uncompleted track in the edge of the town. I will not invent that track. Probably circled stays on the hill. Lone Tree Hill, sometimes called Adkins Point, stays a sometimes. No page names a nation on this place. I will not turn a census row into a nation. The GAR stones stay at Lower Newport. I will not invent a battle here. The next place is the other Newport, the one the list prints at 40.295 and -84.369.",
+  long: "",
+  names: ["Hi Carpenter Memorial Bridge", "Carpenter Bridge"]
+},
+
+{
+  id: "newport-shelby-approach",
+  name: "Newport",
+  lat: 40.315,
+  lng: -84.372,
+  radius: 2500,
+  layer: "approach",
+  short: "You are arriving at Newport, the Shelby County place. The first story is the name. This pin is only an offset so the arrival fires first. It is not a survey point. The Washington County Newport stays where it is.",
+  long: "",
+  names: ["Newport"]
+},
+{
+  id: "newport-shelby-name",
+  name: "The name",
+  lat: 40.29639,
+  lng: -84.37222,
+  radius: 40,
+  short: "The name comes first. This pin is the decimal Wikipedia prints for Newport in Shelby County, 40.29639 and -84.37222. That page also prints 40 degrees 17 minutes 47 seconds north and 84 degrees 22 minutes 20 seconds west. I will not extend those seconds. It prints elevation 958 ft (292 m), GNIS 2628945, and a 2020 population of 169. A data page prints elevation 291.998400, and 40.296391 and -84.372223. I will not round 291.998400 to 292, and I will not average the extra digits into this pin. A map prints the populated place at N40.29588 and W84.36967, and the census place at N40.29504 and W84.36918. I will not average those with this pin, and I will not stack them. Wikipedia says the place is on the former Miami and Erie Canal, at State Routes 47 and 66, and that it was platted in 1839. Former stays. An 1883 history says it is situated on the Miami and Erie Canal, in section 30, surveyed and platted in 1839 by Jonathan Counts for Nicholas Wynant, after whom the post-office is named. I will not average on the canal with former canal. It prints about 350 inhabitants. About stays. I will not average about 350 with 169. A parish page prints New Port, and it is known that about the year 1837 the canal was finished from Cincinnati to Piqua, and that by 1844 the canal ran through New Port north to Toledo. About stays. As early as 1840 stays. A canal page prints construction from 1825 to 1845, and stations 6882 to 7062, and also stations 6891 to 6968. I will not average 1844 and 1845, and I will not average the two station pairs. Variously referred to stays on the public-works boards. A page prints that an old map indicates this the post office was named Wynant. I will not repair this the. It prints that Northport was apparently dropped, or became defunct, and the name Newport was used. Apparently stays. I will not average Northport and Newport. The old town of Cynthian was laid out 14 September 1819 for Haes and Hagamein and Alexander Miller, in section 30, town. 10, just south of Newport, and the page says it never arose, except in name. I will not repair the period in town. 10. Just south stays. Except in name stays. I will not average 1819 with 1839, and I will not move that extinct town onto this pin. Basinburg stays in section 18, laid out by Herman Mier, certified 14 February 1839, acknowledged the 15th, recorded the 20th. I will not move Basinburg here. Cynthian Township was organized in 1825. Its 2020 count is 2,000, GNIS 1086959, FIPS 39-19834. I will not average the township with this place. Which family came first in 1815, we cannot learn. Cannot learn stays. I will not invent that year as the plat.",
+  long: "",
+  names: ["Newport", "New Port", "Wynant"]
+},
+{
+  id: "newport-shelby-cemetery",
+  name: "Newport Cemetery",
+  lat: 40.2989,
+  lng: -84.3694,
+  radius: 40,
+  short: "This pin is the decimal Find a Grave prints for Newport Cemetery, 40.29890 and -84.36940. That page also calls it Cynthian Cemetery and Reams Cemetery. A county list prints Newport Cemetery and Reams Cemetery, on the west of State Route 66 in Newport. A map prints Cynthian Cemetery at N40.29894 and W84.36939. I will not average those points, and I will not stack a second pin. Nicholas Wynant is printed born 1788 in Pennsylvania, and died 11 February 1854 in Shelby County, at about age 66. At about stays. The same page prints age 65 or 66. I will not average 65 and 66. The will was probated 21 April 1857. I will not average the death with the probate. It says he is buried in Newport Cemetery, and other records say the Cynthian Cemetery, near Newport. Near stays. I will not decide the two names are one grave or two. Spellings WYNANT, WYNANTZ, WYANT, WIANT, WINAN, WINANS, WEINANS, WEINANT, and WINANCE stay. I will not repair them. Nicholas Wynant Mills, born 19 September 1845, probably in Cynthian Township, died 7 June 1888, location unknown, is not this man. Probably stays. Location unknown stays. Galley Cemetery, Mills Cemetery, and Oran stay where their pages put them. Pennsylvania stays in Pennsylvania.",
+  long: "",
+  names: ["Newport Cemetery", "Cynthian Cemetery", "Reams Cemetery"]
+},
+{
+  id: "newport-shelby-church",
+  name: "Saints Peter and Paul Church",
+  lat: 40.29616,
+  lng: -84.36912,
+  radius: 40,
+  short: "This pin is Saint Peter and Paul Church on the Newport map, N40.29616 and W84.36912. Wikipedia prints SS Peter and Paul Church. A parish page prints Sts. Peter and Paul, built in 1856, and a stone cross inscribed Sts. Peter and Paul Church, 1856, now in the east wall of the present church. Now stays. According to records, it was a beautiful church. According to stays. I will not average the church names. The church cemetery on the map, N40.29644 and W84.36856, stays next to the church. I will not stack it on this pin. Saint Valbert stays near Versailles. Darke County stays in Darke County. The 1883 history prints one school-house in the town, and a Methodist Sabbath-school started in 1872. It prints J. Armand. 1877 with a period, and - Oldfield, 1879 with the dash. I will not repair either line, and I will not invent the school door. The first school on Jacob Wise's land, 1816 or 1817, stays a township or. I will not average 1816 and 1817. No page names a nation on this place. I will not invent one. No page prints a fight or an enlistment here. I will not invent a battle. No separate legend is printed beyond the hedges already on these pages. I will not invent one. The next place is Newtown.",
+  long: "",
+  names: ["Saints Peter and Paul Church", "SS Peter and Paul Church"]
+},
 
 
 

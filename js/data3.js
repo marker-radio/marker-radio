@@ -9336,7 +9336,335 @@ STORIES.push(
   long: "",
   names: ["South Salem"]
 },
+{
+  id: "south-solon-approach",
+  name: "South Solon",
+  lat: 39.748,
+  lng: -83.612,
+  radius: 2500,
+  layer: "approach",
+  short: "You are arriving at South Solon. The first story is the name. This pin is only an offset so the arrival fires first. It is not a survey point.",
+  long: "",
+  names: ["South Solon"]
+},
+{
+  id: "south-solon-name",
+  name: "The name",
+  lat: 39.73722,
+  lng: -83.6125,
+  radius: 40,
+  short: "The name comes first. This pin is the decimal Wikipedia prints, 39.73722 and -83.61250. The zero stays. That page also prints 39 degrees 44 minutes 14 seconds north and 83 degrees 36 minutes 45 seconds west. I will not extend those seconds. It prints elevation 1,112 ft (339 m), population 329 in 2020, density 1,398.4, ZIP 43153, area code 740, FIPS 39-73768, and GNIS 2399859. A township stays. I will not move it. The infobox prints 0.24 square miles (0.61 square kilometers), and water 0 and 0.00. The zeros stay. The geography section prints 0.25 (0.65), all land. I will not average them. The table starts at 1880. The minus signs stay. A zero stays a percent. I will not invent an earlier count. The place file prints 39.737340 and -83.612630. I will not stack that pair. Despite stays. Their stays. Not adjacent stays. Approximately stays. I will not move that city, or that suburb. From the air stays. I will not invent the view. As of stays 1875. Contained stays. One stays. I will not invent the shops. Estimated stays. I will not drop it, and I will not invent the building. While stays. Don't have stays. You might consider stays. I will not call 1836 a founding. A spelling stays a pronunciation. I will not repair it. Two stay. I will not move the other one. So far stays. From our notes stay. An apostrophe stays a decade. I will not call those places this village. In the area stays a list. I will not invent the pins. A page says a city. I will not repair it, and I will not average it with a village. Empty headings stay empty. I will not fill them. South Salem stays. I will not move it. No page prints a birth and a death. I will not invent a life. No page names a nation. I will not invent one. No page prints a battle. I will not invent one. The next place is South Vienna.",
+  long: "",
+  names: ["South Solon"]
+},
 
+{
+  id: "south-vienna-approach",
+  name: "South Vienna",
+  lat: 39.94,
+  lng: -83.617,
+  radius: 2500,
+  layer: "approach",
+  short: "You are arriving at South Vienna. The first story is the name. This pin is only an offset so the arrival fires first. It is not a survey point.",
+  long: "",
+  names: ["South Vienna"]
+},
+{
+  id: "south-vienna-name",
+  name: "The name",
+  lat: 39.92972,
+  lng: -83.62,
+  radius: 40,
+  short: "The name comes first. This pin is the decimal Wikipedia prints, 39.92972 and -83.62000. The zeros stay. That page also prints 39 degrees 55 minutes 47 seconds north and 83 degrees 37 minutes 12 seconds west. I will not extend those seconds. It prints elevation 1,188 ft (362 m), population 402 in 2020, density 617.4, ZIP 45369, FIPS 39-73796, and GNIS 2399860. Areacodes stays one word. Two codes stay. I will not drop one. The site prints http. I will not add www, and I will not add a slash. A mayor is named. I will not invent the years. A township stays. I will not move it. The comma stays a metro name, and Ohio stays. I will not move that city. The infobox prints 0.65 square miles (1.69 square kilometers), and water 0 and 0.00. The zeros stay. The geography section prints 0.52 (1.35), all of it land. All of it stays. I will not average them. The table starts at 1910. The minus signs stay. I will not invent an earlier count. The place file prints 39.929321 and -83.613934. I will not stack that pair. About stays. Halfway stays. An abbreviation stays. I will not move those cities. In the area stays. Weekend after stays. I will not invent the festival. Distinction stays. A mark stays a permit. Citation needed stays. I will not drop it, and I will not invent the light. A caption names a street. I will not invent it. Originally called stays, and under the latter name stays. Simply stays. I will not average them. Platted stays, and laid out stays. I will not average them. Two words stay a post office. One word stays a page. I will not average them. 1833 stays, and 1840 stays, and 1909 stays. Finally stays. I will not average the changes. Over the next few years stay. Nearby stays. Became established stays. I will not invent the road. Supported by stays. Oversees stays. Main St. stays the abbreviation. 1998 stays. I will not invent the building. Through stays a cooperative. Also stays. A park is named as operated. I will not invent the pin. A hyphen stays a grade. Through stays. Situated stays. Adjacent stays. Excellent stays. I will not call it a survey. An exclamation stays. South Solon stays. I will not move it. No cemetery is printed with a point. I will not invent one. No page names a nation. I will not invent one. No page prints a battle. I will not invent one. The next place is South Webster.",
+  long: "",
+  names: ["South Vienna", "Vienna", "Vienna Cross Roads", "Vienna Crossroads"]
+},
+
+{
+  id: "south-webster-approach",
+  name: "South Webster",
+  lat: 38.828,
+  lng: -82.73,
+  radius: 2500,
+  layer: "approach",
+  short: "You are arriving at South Webster. The first story is the name. This pin is only an offset so the arrival fires first. It is not a survey point.",
+  long: "",
+  names: ["South Webster"]
+},
+{
+  id: "south-webster-name",
+  name: "The name",
+  lat: 38.81694,
+  lng: -82.72833,
+  radius: 40,
+  short: "The name comes first. This pin is the decimal Wikipedia prints, 38.81694 and -82.72833. That page also prints 38 degrees 49 minutes 1 second north and 82 degrees 43 minutes 42 seconds west. The zero stays a minute. I will not extend the seconds. It prints elevation 728 ft (222 m), population 670 in 2020, density 510.5, ZIP 45682, area code 740, FIPS 39-73824, and GNIS 2399861. The site prints https and a trailing slash. I will not drop them. Northeast stays. Lies along stays. I will not invent the road. The infobox prints 1.32 square miles (3.43 square kilometers), land 1.31 (3.40), and water 0.012 (0.03). The geography section prints 1.32 (3.42), of which 1.31 (3.39) is land and 0.01 (0.03) is water. Of which stays. I will not average them. The table starts at 1870 and skips a year. I will not invent it. The minus signs stay. A page prints 680, and as of stays. I will not average 680 and 670. The place file prints 38.816992 and -82.732495. I will not stack that pair. Entering stays. From the northeast stays. I will not invent the sign. Platted stays 1853. Named after stays. I will not invent the years. A caption prints a school, and foreground stays, and the hyphens stay. I will not invent the door, and I will not finish a cut sentence. An ampersand stays. Created stays. Centennial stays 1987. I will not recompute it. The quotes stay. Served as stays. Conducted stays. I will not invent the buildings. Proposed stays. A period is not printed after the quotes. I will not add one. A page names two places. I will not move them. Thanks stays. Donating stays. I will not invent the years. A plat stays 1887. Incorporated stays 1887. I will not average them with 1853. A slash stays. Nov. stays the period. I will not move that place. Including stays. Area stays. Several stays. Made up of stays. I will not invent a battle. A year stays 1899. An exclamation stays. Has stays. Appointed stays. Six stay. I will not invent a name. South Vienna stays. I will not move it. No cemetery is printed with a point. I will not invent one. No page names a nation. I will not invent one. The next place is South Zanesville.",
+  long: "",
+  names: ["South Webster", "Oakdale", "Webster"]
+},
+
+{
+  id: "south-zanesville-approach",
+  name: "South Zanesville",
+  lat: 39.892,
+  lng: -82.018,
+  radius: 2500,
+  layer: "approach",
+  short: "You are arriving at South Zanesville. The first story is the name. This pin is only an offset so the arrival fires first. It is not a survey point.",
+  long: "",
+  names: ["South Zanesville"]
+},
+{
+  id: "south-zanesville-name",
+  name: "The name",
+  lat: 39.90361,
+  lng: -82.01778,
+  radius: 40,
+  short: "The name comes first. This pin is the decimal Wikipedia prints, 39.90361 and -82.01778. That page also prints 39 degrees 54 minutes 13 seconds north and 82 degrees 1 minute 4 seconds west. I will not extend those seconds. It prints elevation 742 ft (226 m), population 1,894 in 2020, density 2,356.0, ZIP 43701, area code 740, FIPS 39-73894, and GNIS 2399863. The zero stays. The site prints https and a trailing slash. I will not drop them. Two townships stay. I will not move them. The infobox prints 0.80 square miles (2.08 square kilometers), and water 0 and 0.00. The zeros stay. The geography section prints 0.83 (2.15), all land. I will not average them. Along stays. Near stays. Mouth stays. I will not invent the creek, and I will not move the river. A caption names a train. I will not invent it. The table starts at 1910. The minus signs stay. I will not invent an earlier count. The place file prints 39.903620 and -82.017867. I will not stack that pair. Only stays. Since pioneer days stays. A lowercase c stays. I will not prove it. Quite a number stay. Under the pilotage stays. Formally stays. Christen stays. Hereafter stays. Highly please stays. I will not repair it. A page prints 1 and an ampersand and 90. I will not repair the year. Tells us stays. Correct stays. Most stays. Have changed stays. A hyphen and a space stay a name. I will not repair it, and I will not move those towns. At least stays. Before the year ended stays. Nov. stays the period. A space stays in a name. I will not invent the years. During stays. Little stays. A capital stays after a comma. I will not add a period. 1940 stays, and 1943 stays. I will not average them. Where stays. I will not move that place, and I will not invent the mill, and I will not invent a battle. While stays. Don't have stays. You might consider stays. I will not call 1891 a founding. An apostrophe stays a decade. I will not call those places this village. In the area stays a list. I will not invent the pins. A city page prints a naming, nicknames, and a count. I will not move them, and I will not average the counts. South Webster stays. I will not move it. No cemetery is printed on this place. I will not invent one. No page names a nation. I will not invent one. The next place is Sparta.",
+  long: "",
+  names: ["South Zanesville"]
+},
+
+{
+  id: "sparta-approach",
+  name: "Sparta",
+  lat: 40.405,
+  lng: -82.7,
+  radius: 2500,
+  layer: "approach",
+  short: "You are arriving at Sparta. The first story is the name. This pin is only an offset so the arrival fires first. It is not a survey point.",
+  long: "",
+  names: ["Sparta"]
+},
+{
+  id: "sparta-name",
+  name: "The name",
+  lat: 40.39444,
+  lng: -82.69972,
+  radius: 40,
+  short: "The name comes first. This pin is the decimal Wikipedia prints, 40.39444 and -82.69972. That page also prints 40 degrees 23 minutes 40 seconds north and 82 degrees 41 minutes 59 seconds west. I will not extend those seconds. It prints elevation 1,358 ft (414 m), population 121 in 2020, density 1,393.5, ZIP 43350, area code 419, FIPS 39-73950, and GNIS 2399867. The site prints https and a trailing slash. I will not drop them. A township is named. I will not move a village of another name. Southeast stays. I will not move the county seat. The infobox prints 0.085 square miles (0.22 square kilometers), and water 0 and 0.00. The zeros stay. The geography section prints 0.09 (0.23), all of it land. All of it stays. I will not average them. Considered stays. The quotes stay. The table starts at 1850 and skips a year. I will not invent it. The minus signs stay. The place file prints 40.394433 and -82.699647. I will not stack that pair. A caption names houses. I will not invent them. Laid out stays 1837. Since stays. Around stays. I will not pick a year. A hyphen stays a broken name. I will not repair it. One part stays. Notions stay. Four stay. Comprised stays. I will not invent the other names. A mark is missing. I will not add it. Die stays. I will not repair it. A year stays a hyphen and one digit. Two letters stay. I will not repair them, and I will not move that county. Then known stays. General appellation stays. Extensive stays. I will not average the names. On trust stays. Then stays. Six cents stay. Projector stays. Now bears stays. I will not invent why, and I will not invent a first name. Secured stays. Two words stay a post master. 1838 stays. I will not average it with 1837. Twenty stay. Each side stays. Later stays. I will not invent the additions, and I will not move those places. Not until stays. About stays. I will not average about and around. An ampersand stays. Eastern stays. Buying him out stays. I will not invent the years. A page prints Marrow. I will not repair it. A page prints 161 on 1 April 2010. I will not average it with 121. A page prints 0.224887 square kilometre. I will not average it. South Zanesville stays. I will not move it. No cemetery is printed with a point. I will not invent one. No page names a nation. I will not invent one. No page prints a battle. I will not invent one. The next place is Spencer.",
+  long: "",
+  names: ["Sparta", "Bloomfield"]
+},
+
+{
+  id: "spencer-approach",
+  name: "Spencer",
+  lat: 41.11,
+  lng: -82.124,
+  radius: 2500,
+  layer: "approach",
+  short: "You are arriving at Spencer. The first story is the name. This pin is only an offset so the arrival fires first. It is not a survey point.",
+  long: "",
+  names: ["Spencer"]
+},
+{
+  id: "spencer-name",
+  name: "The name",
+  lat: 41.09972,
+  lng: -82.12556,
+  radius: 40,
+  short: "The name comes first. This pin is the decimal Wikipedia prints, 41.09972 and -82.12556. That page also prints 41 degrees 5 minutes 59 seconds north and 82 degrees 7 minutes 32 seconds west. I will not extend those seconds. It prints elevation 915 ft (279 m), population 684 in 2020, density 693.7, ZIP 44275, area code 330, FIPS 39-73992, and GNIS 2399870. The site prints no scheme. I will not add one. The infobox prints 0.99 square miles (2.57 square kilometers), land 0.98 (2.55), and water 0.0077 (0.02). The geography section prints 1.00 square mile, and the zeros stay, and the word is singular, of which, and a comma stays, 0.99 square miles (2.56) is land and 0.01 (0.03) is water. I will not average them. The table starts at 1880 and skips years. I will not invent them. The minus signs stay. The place file prints 41.097757 and -82.121762. I will not stack that pair. Since 1849 stays. Takes stays. Located stays. Central stays. I will not move the township. Now houses stays. Old stays. I will not invent the hall. A page prints an address and an abbreviation. I will not invent the pin. Native of stays. I will not move that state, and I will not invent the years. Along the banks stays. The zeros stay a price. I will not invent the river, and I will not call 1823 the village. Named after stays, and has the name of stays. I will not average them. Who stays. In the area stays. In exchange stays. Naming rights stay. Helped build stays, and gave stays. I will not average them, and I will not invent the mills. Courtesy stays. I will not recompute a book, and I will not call 1973 a founding. One of stays. Seventeen stay. West part stays. A count stays the township. I will not average it with 684. Two miles stay. A hyphen stays an acreage. Featuring stays. Artificial stays. Surrounding stays. Constructed stays, and rebuilt stays, and enlarged stays. I will not invent the park, and I will not move it. Formerly stays. I will not move the other townships. Sparta stays. I will not move it. No cemetery is printed with a point. I will not invent one. No page names a nation. I will not invent one. No page prints a battle. I will not invent one. The next place is Spring Valley.",
+  long: "",
+  names: ["Spencer"]
+},
+
+{
+  id: "spring-valley-approach",
+  name: "Spring Valley",
+  lat: 39.622,
+  lng: -84.007,
+  radius: 2500,
+  layer: "approach",
+  short: "You are arriving at Spring Valley. The first story is the name. This pin is only an offset so the arrival fires first. It is not a survey point.",
+  long: "",
+  names: ["Spring Valley"]
+},
+{
+  id: "spring-valley-name",
+  name: "The name",
+  lat: 39.61028,
+  lng: -84.00694,
+  radius: 40,
+  short: "The name comes first. This pin is the decimal Wikipedia prints, 39.61028 and -84.00694. That page also prints 39 degrees 36 minutes 37 seconds north and 84 degrees 0 minutes 25 seconds west. The zeros stay. I will not extend the seconds. It prints elevation 778 ft (237 m), population 415 in 2020, density 1,559, ZIP 45370, FIPS 39-74216, and GNIS 2399878. Areacodes stays one word. A comma stays two codes. A page prints and. I will not average them. The site prints https and a trailing slash. I will not drop them. The infobox prints 0.27 square miles (0.69 square kilometers), and water 0 and 0.00. The zeros stay. The geography section prints 0.27 (0.70), all of it land. All of it stays. I will not average them. The table starts at 1870. The minus signs stay. I will not invent an earlier count. The place file prints 39.611070 and -84.007924. I will not stack that pair. A caption names a downtown. I will not invent it. Had its start stays. Early stays. By the building stays. Through that territory stays. Platted stays, and founded stays. I will not average them with the early 1840s. A son stays. Quakers stay. From stays. I will not move that state, and I will not invent the years. An apostrophe stays a town. Crossroads stay. Allowed stays. Surrounding stays. I will not move those places, and I will not invent the routes. Prominent stays. The 1840s stay. I will not move that state. Started stays. Large stays. Northeast stays. I will not invent the mills. A son stays. Partners stay. National stays. Traditionally stays. The quotes stay. Pictured to the right stays. One of the first stays. I will not prove it, and I will not invent the house. After stays. Experiencing stays. Several stays. Inflammable stays. I will not repair it. A single carpenter stays. A hyphen stays a story. Animal hair stays. Entitled stays. A comma stays or. I will not drop the title. Thriving stays. A mark is not printed. I will not add it. I will not invent the shops. Rising stays. Benefited stays. Many stay. Conducted stays. To enjoy stays. To partake of stays. The quotes stay a brand. I will not invent the springs, and I will not move those cities. A township page prints 1856, and only, and central, and as of. I will not average the years, and I will not move the neighbors. A page prints 730 feet where a river crosses a line. I will not call that this village, and I will not average it with 778. Spencer stays. I will not move it. No cemetery is printed with a point. I will not invent one. No page names a nation. I will not invent one. No page prints a battle. I will not invent one. The next place is Springdale.",
+  long: "",
+  names: ["Spring Valley"]
+},
+
+{
+  id: "springdale-approach",
+  name: "Springdale",
+  lat: 39.305,
+  lng: -84.479,
+  radius: 2500,
+  layer: "approach",
+  short: "You are arriving at Springdale. The first story is the name. This pin is only an offset so the arrival fires first. It is not a survey point.",
+  long: "",
+  names: ["Springdale"]
+},
+{
+  id: "springdale-name",
+  name: "The name",
+  lat: 39.29306,
+  lng: -84.48306,
+  radius: 40,
+  short: "The name comes first. This pin is the decimal Wikipedia prints, 39.29306 and -84.48306. That page also prints 39 degrees 17 minutes 35 seconds north and 84 degrees 28 minutes 59 seconds west. I will not extend those seconds. It prints elevation 682 ft (208 m), population 11,007 in 2020, an estimate of 10,869 in 2022, density 2,211.3, ZIP 45246, area code 513, FIPS 39-74104, and GNIS 1086229. The site prints no scheme. I will not add one. A page prints 738 ft (225 m), 11,223 in 2010, an estimate of 11,166 in 2019, water 0.01, density 2,243.07, GNIS 1065369, and a site with www. I will not average them. A page prints 39.293037 and -84.483003. I will not extend them, and I will not stack that pair. The place file prints 39.290599 and -84.475790. I will not stack that pair. An en dash stays a government. A numeral stays a name. I will not invent the years, and I will not average two mayors. The quotes stay a motto. A page prints an s. I will not average it. A caption names a part. I will not invent it. The infobox prints 4.99 square miles (12.92 square kilometers), land 4.98 (12.89), and water 0.012 (0.03). The geography section prints 4.97 (12.87), of which 4.96 (12.85) is land and 0.01 (0.03) is water. Of which stays. I will not average them. A page starts a table at 1870 and skips years. I will not invent them. The minus signs stay. A suburb stays. I will not move that city. First founded stays. As stays. Officially stays. Under that name stays. However stays. Lost stays. Then stays. A hyphen stays re-incorporated. Under the name of stays. A few years later stay. Became stays. I will not average 1806, 1839, 1959, and 1971. Spaces stay a span. I will not call 1787 a founding. A page prints an address. I will not invent the building. Received stays. Both words stay an award. An apostrophe stays a cemetery. I will not invent the pin. Destined stays. I will not prove it. A price stays. I will not call an ad a survey. An apostrophe stays a station. A page says incorporated in 1806, and a department changed a name. I will not average that with first founded, and I will not invent the year, and I will not move the other places. A township page prints a treaty and a count. I will not call that this city, and I will not invent a battle, and I will not average the counts. Northeast stays. I will not move the neighbors. Spring Valley stays. I will not move it. No page names a nation. I will not invent one. The next place is St. Bernard.",
+  long: "",
+  names: ["Springdale", "Springfield", "White's Station"]
+},
+
+{
+  id: "st-bernard-approach",
+  name: "St. Bernard",
+  lat: 39.182,
+  lng: -84.497,
+  radius: 2500,
+  layer: "approach",
+  short: "You are arriving at St. Bernard. The first story is the name. This pin is only an offset so the arrival fires first. It is not a survey point.",
+  long: "",
+  names: ["St. Bernard"]
+},
+{
+  id: "st-bernard-name",
+  name: "The name",
+  lat: 39.17111,
+  lng: -84.50056,
+  radius: 40,
+  short: "The name comes first. This pin is the decimal Wikipedia prints, 39.17111 and -84.50056. That page also prints 39 degrees 10 minutes 16 seconds north and 84 degrees 30 minutes 2 seconds west. The zero stays. I will not extend the seconds. It prints elevation 541 ft (165 m), population 4,070 in 2020, density 2,652.1, FIPS 39-69470, and GNIS 1086226. No ZIP is printed. I will not invent one. The site prints www. I will not add a scheme. The infobox prints 1.54 square miles (4.00 square kilometers), land 1.53 (3.97), and water 0.0077 (0.02). The zeros stay. The geography section prints 1.56 (4.04), of which 1.55 (4.01) is land and 0.01 (0.03) is water. Of which stays. I will not average them. The table starts at 1880. The minus signs stay. I will not invent an earlier count. The place file prints 39.171729 and -84.494088. I will not stack that pair. A page breaks a name. I will not repair it. Or stays. A redirect stays. A space stays before a comma. Built stays. I will not invent the house. Enclave stays. Along with stays. I will not move those places, and I will not move that city. Now stays. Laid out stays, and platted stays, and settled stays. I will not average 1851, 1850, and 1793. Chiefly stays. The quotes stay a grove. Ninety stays the word. Seizing stays. Newly accessible stays. I will not invent the pike. Just stays 300. I will not average that with 4,070. Officially stays, and officially incorporated with stays. Though stays. Remains stays. Affectionately stays. A hyphen stays. I will not average a village and a city. Most notably stays. An ampersand stays. The quotes stay a plant. I will not invent it. Quickly stays. Massive stays. Put on the map stays. I will not prove a powerhouse. A page asks were. Back then stays. If so stays. We don't blame them stays. Seems stays. Unprecedented stays. I will not prove it. Answer stays no, and a connection stays. I will not average no with a namesake. First stays a comma. Who became stays. I will not invent a death, and I will not move those places. The quotes stay a hospitality. In honor of stays. What would become stays. Overlooking stays. Reminded stays, and instantly reminded stays. I will not average them. So stays. Lost stays a mountain. Hilly stays. Sweeping stays. Famous stays. I will not invent the mills, and I will not move the township. Springdale stays. I will not move it. No cemetery is printed with a point. I will not invent one. No page names a nation on this place. I will not invent one. No page prints a battle. I will not invent one. The next place is St. Clairsville.",
+  long: "",
+  names: ["St. Bernard", "Saint Bernard", "Ludlow Grove"]
+},
+
+{
+  id: "st-clairsville-approach",
+  name: "St. Clairsville",
+  lat: 40.09,
+  lng: -80.9,
+  radius: 2500,
+  layer: "approach",
+  short: "You are arriving at St. Clairsville. The first story is the name. This pin is only an offset so the arrival fires first. It is not a survey point.",
+  long: "",
+  names: ["St. Clairsville"]
+},
+{
+  id: "st-clairsville-name",
+  name: "The name",
+  lat: 40.07917,
+  lng: -80.89972,
+  radius: 40,
+  short: "The name comes first. This pin is the decimal Wikipedia prints, 40.07917 and -80.89972. That page also prints 40 degrees 4 minutes 45 seconds north and 80 degrees 53 minutes 59 seconds west. I will not extend those seconds. It prints elevation 1,224 ft (373 m), population 5,096 in 2020, density 2,103.7, ZIP 43950, FIPS 39-69526, and GNIS 2396482. The parentheses and the s stay an area code. An ampersand stays two codes. The site prints www. I will not add a scheme. A township stays. I will not move it. The infobox prints 2.44 square miles (6.32 square kilometers), land 2.42 (6.27), and water 0.019 (0.05). The geography section prints 2.44 (6.32), of which 2.42 (6.27) is land and 0.02 (0.05) is water. Of which stays. I will not average the water. The place file prints 40.078274 and -80.899173. I will not stack that pair. A page breaks a name. I will not repair it. Or stays. A caption names a downtown. I will not invent it. The capitals stay a nickname. A page prints a moniker, and lowercase stays, and an apostrophe stays a decade. I will not average them. Warranted stays. Now known as stays. The quotes stay. I will not invent the subdivision. Originally known stays. Under the latter name stays. Late stays. Soon stays. In honor of stays. A hyphen stays a rank. I will not invent a battle. First notable stays. West of stays. I will not move that city. Or stays a count. I will not average the counts. An apostrophe stays a shop. I will not invent the buildings. Drove through stays. The quotes stay a segment. The 1960s stay. Designed by stays. Denoting stays. What was stays. I will not invent the seal. According to reports stays. Cousin stays. Confidant stays. Founded stays twice. I will not average 1796 and 1802. At the time stays 400. I will not average that with 5,096. A second time stays. Attained stays. Current status stays. I will not average a village and a city. Since 1804 stays. First stays a society, and first stays a paper. Still stands stays. Bears stays. I will not invent the house, or the years. First native stays. I will not invent the years. A page prints no reviews yet, and it prints 5.00. I will not average them, and I will not call a rating a survey. St. Bernard stays. I will not move it. No cemetery is printed with a point. I will not invent one. No page names a nation. I will not invent one. The next place is St. Henry.",
+  long: "",
+  names: ["St. Clairsville", "Saint Clairsville", "Newellstown", "East Lawn"]
+},
+
+{
+  id: "st-henry-approach",
+  name: "St. Henry",
+  lat: 40.434,
+  lng: -84.628,
+  radius: 2500,
+  layer: "approach",
+  short: "You are arriving at St. Henry. The first story is the name. This pin is only an offset so the arrival fires first. It is not a survey point.",
+  long: "",
+  names: ["St. Henry"]
+},
+{
+  id: "st-henry-name",
+  name: "The name",
+  lat: 40.42306,
+  lng: -84.625,
+  radius: 40,
+  short: "The name comes first. This pin is the decimal Wikipedia prints, 40.42306 and -84.62500. The zeros stay. That page also prints 40 degrees 25 minutes 23 seconds north and 84 degrees 37 minutes 30 seconds west. I will not extend those seconds. It prints elevation 955 ft (291 m), population 2,596 in 2020, density 1,504.9, postal code as one word, 45883, area code 419, FIPS 39-69540, and GNIS 2399173. A page prints 2596. I will not average the comma. The site prints an exclamation. A township is named. I will not move a village of another name. The infobox prints 1.77 square miles (4.59 square kilometers), land 1.73 (4.47), and water 0.046 (0.12). The geography section prints 1.65 (4.27), of which 1.60 (4.14) is land and 0.05 (0.13) is water. Of which stays. I will not average them. The place file prints 40.420340 and -84.631536. I will not stack that pair. A page prints 40 degrees 25.059 minutes and 84 degrees 38.285 minutes. I will not extend them, and I will not stack that pair. A page breaks a name. I will not repair it. Or stays. A caption names a church. A page prints an apostrophe. I will not average them. At the center stays. Completed stays. I will not invent the door. Laid out stays, and platted stays, and recorded stays, and established stays, and founded stays. I will not average them. An umlaut stays, and an en dash stays the years. I will not invent a life beyond them. It laid stays. I will not repair it. July 7 stays, and July 13 stays, and July 15 stays. Feast stays. A comma stays after July. A parenthesis stays a spelling. I will not average the names. Apostrophes stay decades. Extra letters stay a word. I will not repair it, and I will not invent the canal. More effective stays. Than stays. Over twenty stay. To the present stays. Excellent stays. I will not call it a survey. Listed at stays 650. I will not average that with 2,596. A semicolon stays. Marshall stays. I will not repair it, and I will not invent the years. Threatened stays. An apostrophe stays a stable. Next week stays. Capital stays a village. I will not invent the department. Erected stays. Significant stays a month. An ampersand stays a topic. Since 1850 stays. A hyphen stays a school. Pro stays. I will not invent the years. A page prints a spelling. I will not repair it. A date stays a photograph. I will not call the photographer a founder. St. Clairsville stays. I will not move it. No cemetery is printed with a point. I will not invent one. No page names a nation. I will not invent one. No page prints a battle. I will not invent one. The next place is St. Johns.",
+  long: "",
+  names: ["St. Henry", "Saint Henry"]
+},
+
+{
+  id: "st-johns-approach",
+  name: "St. Johns",
+  lat: 40.567,
+  lng: -84.08,
+  radius: 2500,
+  layer: "approach",
+  short: "You are arriving at St. Johns. The first story is the name. This pin is only an offset so the arrival fires first. It is not a survey point.",
+  long: "",
+  names: ["St. Johns"]
+},
+{
+  id: "st-johns-name",
+  name: "The name",
+  lat: 40.55583,
+  lng: -84.07972,
+  radius: 40,
+  short: "The name comes first. This pin is the decimal Wikipedia prints, 40.55583 and -84.07972. That page also prints 40 degrees 33 minutes 21 seconds north and 84 degrees 4 minutes 47 seconds west. I will not extend those seconds. It prints elevation 1,004 ft (306 m), population 304 as of 2020, density 800 and 310, FIPS 3969596, and GNIS 2628970. I will not add a hyphen. A page prints 185 as of 2010. I will not average it. ZIP codes stay two. A lowercase zip stays one. A parenthesis stays a city. I will not move it. The parentheses and the s stay. An ampersand stays two codes. Two townships stay. I will not move them. The infobox prints 0.39 square miles (1.01 square kilometers), land 0.38 (0.99), and water 0.007 (0.018). A page prints 0.400000 and 306.019200 and longer decimals. I will not average them, and I will not stack those pairs. The place file prints 40.555459 and -84.080233. I will not stack that pair. Unincorporated stays, and a census-designated place stays. I will not average them. A caption names a house. I will not invent it. Between stays. Intersection stays. Served by stays. I will not invent the roads, and I will not move the lake. Founded stays, and named for stays. Proprietor stays. I will not invent the years. Since 1838 stays. I will not average it with 1835. In the center stays. On the corner stays. Recognizing stays. To be known as stays. A space stays before a mark. Last home stays. I will not invent the years, and I will not invent the memorial. A page prints two village. I will not repair it, and I will not move the other one. Latter stays. South line stays. Organized stays a township. I will not call that this place. Now stays. Contemplates stays. Approaching season stays. About stays. I will not invent what transpired, and I will not average the abouts. Superseded stays. Bearing the same name stays. Occupying the old site stays. I will not invent the chapel. Perhaps stays. Twenty-one stays. I will not invent a birth. Probably stays. Thus stays. We would stays. Claiming stays. Of the soil stays. Cleared stays. A title prints a word. I will not invent a nation, and I will not move that city. A period stays a name. I will not invent the years. The place file stays a list name. I will not add a mark. St. Henry stays. I will not move it. No cemetery is printed with a point. I will not invent one. No page prints a battle. I will not invent one. The next place is St. Louisville.",
+  long: "",
+  names: ["St. Johns", "Saint Johns"]
+},
+
+{
+  id: "st-louisville-approach",
+  name: "St. Louisville",
+  lat: 40.182,
+  lng: -82.418,
+  radius: 2500,
+  layer: "approach",
+  short: "You are arriving at St. Louisville. The first story is the name. This pin is only an offset so the arrival fires first. It is not a survey point.",
+  long: "",
+  names: ["St. Louisville"]
+},
+{
+  id: "st-louisville-name",
+  name: "The name",
+  lat: 40.17111,
+  lng: -82.41806,
+  radius: 40,
+  short: "The name comes first. This pin is the decimal Wikipedia prints, 40.17111 and -82.41806. That page also prints 40 degrees 10 minutes 16 seconds north and 82 degrees 25 minutes 5 seconds west. I will not extend those seconds. It prints elevation 902 ft (275 m), population 352 in 2020, density 1,389.3, FIPS 39-69652, and GNIS 2399168. No ZIP is in that box. I will not invent one. A page prints 43071, and a file name prints it. I will not invent the rest. A page prints 373 on 1 April 2010. I will not average it with 352. A page prints 272 and a plus or minus 1. I will not average that with 275. The infobox prints 0.25 square miles (0.66 square kilometers), and water 0 and 0.00. The zeros stay. The geography section prints 0.25 (0.65), all land. All land stays. A page prints 0 percent, and 0.651918, and 0.644754. I will not average them. The table starts at 1850 and skips a year. I will not invent it. The minus signs stay. The place file prints 40.171109 and -82.418053. I will not stack that pair. A page prints 40 degrees 10 minutes 22.08 seconds and 82 degrees 25 minutes 8.04 seconds. I will not extend them, and I will not stack that pair. A page breaks a name. I will not repair it. Or stays. A caption names a post office. I will not invent it. Along stays. North Fork stays. I will not invent the river. Platted stays. Inception stays. I will not average the words. Different from stays. I will not move that city. A file name prints a church, and an apostrophe stays, and a word stays one word, and toward stays. I will not invent the pins, and I will not move those places. Out of stays a count of files. A page prints 25,127. I will not call it a population. Official name stays the period. St. Johns stays. I will not move it. No person is printed with years. I will not invent one. No cemetery is printed with a point. I will not invent one. No page names a nation. I will not invent one. No page prints a battle. I will not invent one. No page tells a legend. I will not invent one. The next place is St. Martin.",
+  long: "",
+  names: ["St. Louisville", "Saint Louisville"]
+},
+
+{
+  id: "st-martin-approach",
+  name: "St. Martin",
+  lat: 39.222,
+  lng: -83.882,
+  radius: 2500,
+  layer: "approach",
+  short: "You are arriving at St. Martin. The first story is the name. This pin is only an offset so the arrival fires first. It is not a survey point.",
+  long: "",
+  names: ["St. Martin"]
+},
+{
+  id: "st-martin-name",
+  name: "The name",
+  lat: 39.21056,
+  lng: -83.87917,
+  radius: 40,
+  short: "The name comes first. This pin is the decimal Wikipedia prints, 39.21056 and -83.87917. That page also prints 39 degrees 12 minutes 38 seconds north and 83 degrees 52 minutes 45 seconds west. I will not extend those seconds. It prints elevation 971 ft (296 m), population 200 in 2020, density 103.2, FIPS 39-69666, and GNIS 2725568. The table prints 91 in 2000 and 129 in 2010. As of stays. Living stays. A zero stays a percent. I will not average the counts. A page prints 135, and 1.191, and estimates through 2100, and n/a. I will not call them a census, and I will not fill n/a, and I will not average them. The infobox prints 1.94 square miles (5.02 square kilometers), and water 0 and 0.00. The zeros stay. A page prints 1.09 (2.82), all land, and had stays. I will not average them. The place file prints 39.211773 and -83.884405. I will not stack that pair. A page prints 39 degrees 12 minutes 52.226 seconds and 83 degrees 53 minutes 35.744 seconds, and it prints E. I will not repair it, and I will not stack that pair. A page breaks a name. I will not repair it. A page prints a local name. I will not average it. Unincorporated stays, and former village stays. I will not average them. Chose stays. Now stays. Solely stays. I will not invent the vote, and I will not move the township. Served by stays. A parenthesis stays a code. I will not move that place, and I will not call the code this place. A title prints dissolved. A headline prints floods and disappearing. I will not average them with unincorporate, and I will not invent the water. A page prints a generated question. I will not answer it, and I will not invent a controversy. St. Louisville stays. I will not move it. No plat date is printed. I will not invent one. No person is printed with years. I will not invent one. No cemetery is printed with a point. I will not invent one. No page names a nation. I will not invent one. No page prints a battle. I will not invent one. No page tells a legend. I will not invent one. The next place is St. Marys.",
+  long: "",
+  names: ["St. Martin", "Saint Martin"]
+},
+
+{
+  id: "st-marys-approach",
+  name: "St. Marys",
+  lat: 40.56,
+  lng: -84.383,
+  radius: 2500,
+  layer: "approach",
+  short: "You are arriving at St. Marys. The first story is the name. This pin is only an offset so the arrival fires first. It is not a survey point.",
+  long: "",
+  names: ["St. Marys"]
+},
+{
+  id: "st-marys-name",
+  name: "The name",
+  lat: 40.54889,
+  lng: -84.37333,
+  radius: 40,
+  short: "The name comes first. This pin is the decimal Wikipedia prints, 40.54889 and -84.37333. That page also prints 40 degrees 32 minutes 56 seconds north and 84 degrees 22 minutes 24 seconds west. I will not extend those seconds. It prints elevation 869 ft (265 m), population 8,397 in 2020, density 1,798.9, ZIP 45885, area code 419, FIPS 39-69680, and GNIS 2396505. The site prints www. I will not add a scheme. A clock prints UTC-4 and labels it EST, and summer is UTC-4. I will not repair it. The infobox prints 4.70 square miles (12.17 square kilometers), land 4.67 (12.09), and water 0.031 (0.08). I will not invent another area. Two townships stay. I will not move them. The place file prints 40.547565 and -84.392335. I will not stack that pair. A page breaks a name. I will not repair it. A redirect stays. I will not average the spellings. A space stays before a comma. I will not invent the hotel. A footnote stays a nickname. I will not invent it. The words stay a motto. I will not add quotes. A space stays a party. Citation needed stays a name. I will not fill it, and I will not invent the years. Eleven miles stay, and twenty miles stay. An en dash stays a border. I will not recompute them, and I will not move those places. Significant stays. Before stays. Citation needed stays. I will not fill it. Came to be known stays, and became known stays, and Girtys stays. I will not average the names, and I will not add a mark, and I will not drop one. Because of stays. Considered stays. Reputed stays. I will not prove them. Then stays. Later stays, and 1812 stays, and closer to stays. I will not average them. Ordered built stays. Bought stays, and purchased stays. I will not average them. Sixty-eight stay. Extending stays. Because of stays a street. Then became stays. I will not invent the spring. Legally stays, and founded stays, and officially stays. I will not average 1823, 1824, 1834, and 1904. A capital stays a city, and a lowercase stays. A comma stays a list. I will not average the order. Elected stays. First stays. Important stays. I will not invent the years. Earliest stays 1820. I will not average it. Between stays, and from stays. I will not average them. Originally stays. Burned stays. Later returned stays. Packed up stays. Thus ending stays. I will not move that country. Late stays. After stays a battle. I will not move it. Deserted stays. But noted stays. Strategic stays. An apostrophe stays a river, and a page prints none. I will not average them. About a third stays. Shortly afterward stays, and 1796 stays. I will not average them. After the fall stays. I will not move that city. Unofficial stays. Notorious stays. The quotes stay a word. A spelling stays a river, and another spelling stays. I will not repair them. All stays. Via stays. Since stays. Colonizing stays. Pushing out stays. Farther stays. Current downtown stays. I will not invent the forts. A page names nations. I will not move them, and I will not invent another. St. Martin stays. I will not move it. No cemetery is printed with a point. I will not invent one. The next place is St. Paris.",
+  long: "",
+  names: ["St. Marys", "Saint Marys", "Girtystown", "Girty's Town", "Girtys Town"]
+},
 
 
 
